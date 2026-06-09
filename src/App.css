@@ -1,14 +1,14 @@
 /* ── Header ───────────────────────────────────────────── */
 .header {
-  padding: 1.75rem 2rem 1.25rem;
+  padding: 2.25rem 2.5rem 1.75rem;
   border-bottom: 1px solid var(--border);
 }
 
 .header h1 {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: 700;
-  letter-spacing: -0.03em;
-  background: linear-gradient(135deg, #e2e2ef 0%, #8b8baf 100%);
+  letter-spacing: -0.04em;
+  background: linear-gradient(135deg, #f0f0f5 0%, #9898c0 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -16,8 +16,8 @@
 
 .subtitle {
   color: var(--text-muted);
-  font-size: 0.8rem;
-  margin-top: 0.2rem;
+  font-size: 0.95rem;
+  margin-top: 0.3rem;
 }
 
 /* ── Ticker ───────────────────────────────────────────── */
@@ -26,7 +26,7 @@
   align-items: center;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
-  height: 34px;
+  height: 40px;
   overflow: hidden;
 }
 
@@ -34,13 +34,14 @@
   flex-shrink: 0;
   background: var(--hot);
   color: #fff;
-  font-size: 0.6rem;
+  font-size: 0.65rem;
   font-weight: 800;
-  letter-spacing: 0.1em;
-  padding: 0 0.8rem;
+  letter-spacing: 0.12em;
+  padding: 0 1rem;
   height: 100%;
   display: flex;
   align-items: center;
+  border-radius: 0 4px 4px 0;
 }
 
 .ticker-track {
@@ -56,9 +57,9 @@
 .ticker-content {
   display: inline-block;
   white-space: nowrap;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   color: var(--text-muted);
-  padding-left: 1rem;
+  padding-left: 1.5rem;
   animation: ticker 250s linear infinite;
 }
 
@@ -69,7 +70,7 @@
 
 /* ── Layout ───────────────────────────────────────────── */
 .main {
-  padding: 1.5rem 2rem 3rem;
+  padding: 2rem 2.5rem 4rem;
   max-width: 1440px;
   margin: 0 auto;
 }
@@ -78,29 +79,29 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
   flex-wrap: wrap;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 
 .updated {
-  font-size: 0.72rem;
+  font-size: 0.82rem;
   color: var(--text-muted);
 }
 
 /* ── Filter bar ───────────────────────────────────────── */
 .filter-bar {
   display: flex;
-  gap: 0.4rem;
+  gap: 0.5rem;
 }
 
 .filter-btn {
-  padding: 0.35rem 0.9rem;
+  padding: 0.45rem 1.1rem;
   border-radius: 9999px;
   border: 1px solid var(--border);
   background: var(--surface);
   color: var(--text-muted);
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-weight: 500;
   cursor: pointer;
   transition: border-color 0.15s, color 0.15s, background 0.15s;
@@ -119,8 +120,8 @@
 /* ── Card grid ────────────────────────────────────────── */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.25rem;
 }
 
 /* ── Card ─────────────────────────────────────────────── */
@@ -128,17 +129,17 @@
   background: var(--surface);
   border: 1px solid var(--border);
   border-top: 3px solid var(--company-color, var(--accent));
-  border-radius: 10px;
-  padding: 1.2rem;
+  border-radius: 16px;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
-  gap: 0.65rem;
+  gap: 0.85rem;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
 }
 
 .card-header {
@@ -148,7 +149,7 @@
 }
 
 .card-company {
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -158,12 +159,12 @@
 /* ── Badge ────────────────────────────────────────────── */
 .badge {
   display: inline-block;
-  font-size: 0.62rem;
+  font-size: 0.68rem;
   font-weight: 700;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
-  padding: 0.18rem 0.45rem;
-  border-radius: 4px;
+  padding: 0.22rem 0.55rem;
+  border-radius: 6px;
 }
 
 .badge--hot   { background: var(--hot-bg);   color: var(--hot);   }
@@ -171,17 +172,17 @@
 .badge--watch { background: var(--watch-bg); color: var(--watch); }
 
 .badge--sm {
-  font-size: 0.58rem;
-  padding: 0.12rem 0.35rem;
+  font-size: 0.62rem;
+  padding: 0.14rem 0.4rem;
   flex-shrink: 0;
-  margin-top: 0.15rem;
+  margin-top: 0.2rem;
 }
 
 /* ── Card body ────────────────────────────────────────── */
 .card-title {
-  font-size: 0.9rem;
+  font-size: 1.02rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .card-title a {
@@ -195,9 +196,9 @@
 }
 
 .card-summary {
-  font-size: 0.78rem;
+  font-size: 0.87rem;
   color: var(--text-muted);
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 .card-footer {
@@ -205,16 +206,16 @@
   align-items: center;
   justify-content: space-between;
   margin-top: auto;
-  padding-top: 0.25rem;
+  padding-top: 0.35rem;
 }
 
 .card-date {
-  font-size: 0.68rem;
+  font-size: 0.78rem;
   color: var(--text-muted);
 }
 
 .card-link {
-  font-size: 0.72rem;
+  font-size: 0.82rem;
   font-weight: 600;
   color: var(--company-color, var(--accent));
   text-decoration: none;
@@ -231,23 +232,23 @@
 .card-more {
   list-style: none;
   border-top: 1px solid var(--border);
-  padding-top: 0.65rem;
+  padding-top: 0.85rem;
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
+  gap: 0.6rem;
 }
 
 .card-more li {
   display: flex;
   align-items: flex-start;
-  gap: 0.45rem;
+  gap: 0.5rem;
 }
 
 .card-more a {
-  font-size: 0.73rem;
+  font-size: 0.82rem;
   color: var(--text-muted);
   text-decoration: none;
-  line-height: 1.4;
+  line-height: 1.45;
   transition: color 0.12s;
 }
 
@@ -260,16 +261,16 @@
   text-align: center;
   padding: 4rem 2rem;
   color: var(--text-muted);
-  font-size: 0.88rem;
+  font-size: 1rem;
 }
 
-.status.error {
-  color: var(--hot);
-}
+.status.error { color: var(--hot); }
 
 /* ── Responsive ───────────────────────────────────────── */
 @media (max-width: 640px) {
-  .header  { padding: 1.25rem 1rem 1rem; }
-  .main    { padding: 1rem 1rem 2rem; }
-  .grid    { grid-template-columns: 1fr; }
+  .header { padding: 1.5rem 1.25rem 1.25rem; }
+  .main   { padding: 1.25rem 1.25rem 2.5rem; }
+  .grid   { grid-template-columns: 1fr; }
+
+  .header h1 { font-size: 1.6rem; }
 }

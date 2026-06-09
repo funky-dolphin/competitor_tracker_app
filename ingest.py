@@ -5,6 +5,7 @@ Merges with existing signals and deduplicates by URL so re-runs never add duplic
 Run manually or schedule with cron.
 """
 
+import html
 import json
 import re
 import subprocess
@@ -47,6 +48,7 @@ def strip_html(raw: str) -> str:
     if not raw:
         return ""
     cleaned = bleach.clean(raw, tags=[], strip=True)
+    cleaned = html.unescape(html.unescape(cleaned))
     cleaned = re.sub(r"[\xa0\s]+", " ", cleaned).strip()
     return cleaned[:200]
 
@@ -102,7 +104,8 @@ def fetch_fresh() -> list[dict]:
             feed    = feedparser.parse(result.stdout)
             entries = feed.entries[:MAX_FRESH]
             for entry in entries:
-                title   = entry.get("title", "").strip() or "Untitled"
+                title   = html.unescape(entry.get("title", "").strip()) or "Untitled"
+                title   = re.sub(r"[\xa0]+", " ", title).strip()
                 link    = entry.get("link", "#")
                 raw     = entry.get("summary", entry.get("description", ""))
                 summary = strip_html(raw)
