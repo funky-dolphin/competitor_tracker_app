@@ -1,0 +1,38 @@
+name: Refresh Signals
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:          # allows manual trigger from the GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ingest
+        run: python3 ingest.py
+
+      - name: Commit and push if signals changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/signals.json
+          git diff --cached --quiet && echo "No new signals." || (
+            git commit -m "chore: refresh signals [skip ci]" &&
+            git push
+          )

@@ -23,33 +23,28 @@ function groupByCompany(signals) {
 export default function App() {
   const [signals, setSignals] = useState([])
   const [updated, setUpdated] = useState(null)
-  const [filter, setFilter] = useState('all')
+  const [filter,  setFilter]  = useState('all')
   const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
+  const [error,   setError]   = useState(null)
 
   useEffect(() => {
     fetch('/signals.json')
-      .then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`)
-        return r.json()
-      })
+      .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json() })
       .then(data => {
         setSignals(data.signals ?? [])
         setUpdated(data.updated ?? null)
         setLoading(false)
       })
       .catch(() => {
-        setError('Could not load signals.json — run python ingest.py first.')
+        setError('Could not load signals.json — run python3 ingest.py first.')
         setLoading(false)
       })
   }, [])
 
   const companies = groupByCompany(signals)
-
-  const visible =
-    filter === 'all'
-      ? companies
-      : companies.filter(c => c.signals[0]?.badge === filter)
+  const visible   = filter === 'all'
+    ? companies
+    : companies.filter(c => c.signals[0]?.badge === filter)
 
   return (
     <div className="app">
