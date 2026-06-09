@@ -1,0 +1,35 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0d0d14;
+  --surface: #13131c;
+  --surface-2: #1a1a26;
+  --border: #252535;
+  --text: #e2e2ef;
+  --text-muted: #7a7a9a;
+  --accent: #6366f1;
+
+  --hot: #ef4444;
+  --hot-bg: rgba(239, 68, 68, 0.15);
+  --new: #22c55e;
+  --new-bg: rgba(34, 197, 94, 0.15);
+  --watch: #f59e0b;
+  --watch-bg: rgba(245, 158, 11, 0.15);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+}
