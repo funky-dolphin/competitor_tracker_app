@@ -133,7 +133,7 @@ def main():
 
     with open(out_path, "w", encoding="utf-8") as fh:
         json.dump(
-            {"updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S"),
+            {"updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
              "signals": signals},
             fh, indent=2, ensure_ascii=False,
         )
