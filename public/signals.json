@@ -1,11 +1,35 @@
 {
-  "updated": "2026-06-10T09:49:12Z",
+  "updated": "2026-06-10T15:22:30Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
       "url": "https://openai.com/index/lseg",
       "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei Has Only One Direct Report - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUhIY0RHYXd6a3ZfVF9iMk44NGxDOWZOX2tBRS1oakZVOHl1X0VTamY4akZBMk9lYXBDclBsZ245MlBUcGhoQzFrNnc0QngwNkF5U2NTY3NWOENfT1EtUk1CVW95Ym1SUmUtMUZ0elN6VjNmSV9iNkRDbU1UUG03UmxFY1JKQ2RveHhjQVJwVmZJd043Ykdsc2dCNEsyNzZlTzlPckY2RGVCTG9aSXExck5JSEVodnM?oc=5",
+      "summary": "Anthropic CEO Dario Amodei Has Only One Direct Report Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Designer babies. Self-improving AI. Are we ready for either? - vox.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFkyZmR0Q2VrZlFza3phaXdBN1VQVW54XzRza3dSRnJXTlB3NmJad1FjVDZJOVpqZkYwdFItX0hwVkoyS2Zfc1laamk0cXlzU212T25weTBRZk5GemJaOUhMMUNYUUV4VFpiRjFVWlNoSWdmU29lZWRKTE5EcWxERzRpeE9xVFBnQ1IzX0pkZjVVZ1dFNHAya1hkNA?oc=5",
+      "summary": "Designer babies. Self-improving AI. Are we ready for either? vox.com",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI giant says its own models could soon improve themselves — and now it wants a global pause - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLThRbnpuWVN1M21pS3hmUHhQbjEtVFY2WTBGaDBhUnpiMDN1UUt4QnQwT3BxNVNtX0NSX1p5bm5UOEZ6X01qRG1NcXZEMmZrU1FHc3J1SmRnUXp0VmZLZWdyNlM0Sm85QmxCV2NVOGtRWFZQLTRfN3FjRGV2eVRXS256dXpOU1hRRkN3?oc=5",
+      "summary": "AI giant says its own models could soon improve themselves — and now it wants a global pause Yahoo",
       "badge": "new",
       "date": "2026-06-10"
     },
@@ -67,6 +91,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
+      "summary": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure CNBC",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Meta",
       "title": "Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5",
       "summary": "Meta Partners With Reliance on AI-Enabled Data Center in India meta.com",
@@ -109,7 +141,15 @@
       "company": "Anthropic",
       "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Anthropic Releases Claude Fable 5, Its Most ",
+      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Anthropic’s New Model Targets Power Users Bu",
+      "badge": "hot",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
+      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -138,26 +178,18 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Anthropic",
-      "title": "Inside Apple's Siri revamp, Anthropic readies Mythos - Sources | Alex Heath",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfblNrMHYwX2VCQS03ak5wczFtaF94emFVWGpFWHpGMkYyWVF6cGlBVWUxUHFSSmVQVjktN21IR1lvb2d6ZjVHQXBKY01xR1p1N09pUExFMHR2akg5R0d0dGllb2hyeVZCS1E?oc=5",
-      "summary": "Inside Apple's Siri revamp, Anthropic readies Mythos Sources | Alex Heath",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and OpenAI spark new race for frontier AI access - Axios",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zY3Y4V3VZVkI2d0l2OTNXQTNXeGh4el9kUW43blpVWDRPb01sUy1YM0M5YWhMX3BKeTN6ZG5jLU41cGZubnNFd3NTTzVVcS1aOWxjVkI1LUVfLTlxM1RGa3FsN2VGM29JcTVVYVZUdzZlOXVTbDUyaVBfLXc?oc=5",
-      "summary": "Anthropic and OpenAI spark new race for frontier AI access Axios",
+      "company": "Microsoft",
+      "title": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2I2a1N0emY0M0s5QmlreWxzRmx6YWNFcTJDa18zTTJzMFRacUV6dkliRVIycTNOSjV4Vy1rRHFDaXZrS0cwM2JWbWx4UlBiVlVLRGF6TWtmRzU0Wm03QWdGdzh4aHhJTnJVNXNBVXNWekFNYXJFWVFDSlZaVmJBcTVyLXRTZExNaTRPTEpRRE1MUGhfT1JGZVR2ZU9qQkdvaktMaXd4X0JjOGtEOEdnZklFM0V2Ql84VHVGMWpfNGdocldmQVdHa2RURVhoX2pzNGZxZHZ6UVhwUkVPanZ5U0R2WWM0SEk?oc=5",
+      "summary": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot Microsoft Source",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Microsoft",
-      "title": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2I2a1N0emY0M0s5QmlreWxzRmx6YWNFcTJDa18zTTJzMFRacUV6dkliRVIycTNOSjV4Vy1rRHFDaXZrS0cwM2JWbWx4UlBiVlVLRGF6TWtmRzU0Wm03QWdGdzh4aHhJTnJVNXNBVXNWekFNYXJFWVFDSlZaVmJBcTVyLXRTZExNaTRPTEpRRE1MUGhfT1JGZVR2ZU9qQkdvaktMaXd4X0JjOGtEOEdnZklFM0V2Ql84VHVGMWpfNGdocldmQVdHa2RURVhoX2pzNGZxZHZ6UVhwUkVPanZ5U0R2WWM0SEk?oc=5",
-      "summary": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot Microsoft Source",
+      "title": "Microsoft is force-installing M365 Copilot again after a brief pause - PCWorld",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajZ5MjBlX2JsQVdOVUNVbkpHekNuUGNubWJNUkI2ZXZJbFBWVHh0YjZSMk8xV29CbUJFSk1EazJ0RjRMY29IcWxMN2hWTXEwdWU0OHE0R29OQWQzck0wYl9UaHdRTFV4NmhPV1lOSEpOMTdjdkhCcHU2REpHaTBZc2t0WWVtTlVVSk9MWmU1dTQtUndVeXBkejRZWU5qQmZxTzd2dW1nUDJQdVdsU21SalR0QQ?oc=5",
+      "summary": "Microsoft is force-installing M365 Copilot again after a brief pause PCWorld",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -171,17 +203,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
-      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
+      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
+      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
-      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
+      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
+      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -219,9 +251,17 @@
     },
     {
       "company": "Meta",
+      "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
+      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses UploadVR",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Meta",
       "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
-      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access TechCrunch Hackers trick M",
+      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot The Verge Hackers trick Meta AI support b",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -274,22 +314,6 @@
       "date": "2026-06-08"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
-      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters OpenAI plans stock market debut, setting up new race with Anthropic BBC Opinion | Wall Street’s A.I. Bet Is About to",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBGSExqSGEzcFlST05vbW5wcXZGVHJ0dTlEa1VwbXAxSXVvY2lkUjJpY3ZvZURURWFVWHB5VG5Ic0xpbDQtMlp1YWpuYWdfd092UExCYnc0c3RhNWVLazFrMTZrTGI2SU5BYm1YTklRYVhOc3ZhV0pSRWJXanFOYnpBdGc?oc=5",
-      "summary": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic Financial Times",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft and Copilot just hit a jackpot in healthcare - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkIwNlhRQkJoT01lTllWYUdrUUtTdS12X1NkTWlwUUI2N3AzMG9XSk1sd0xGc3BLVVNqMXRJQ0FwaWVaZUZFWVRjSGtyYUJmeU0zWjFFeXlpSE9hWDREQkNpMXlhTktYUGxqV0dKalplVnV1UjZEb09vby1MRTJzaVk5Z2hxc2Y0cnM0aHd1U3VpWjJnVG56MFl3?oc=5",
@@ -331,33 +355,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta announces Louisiana Workforce Academy for AI data center construction - KTALnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlZXTHhydjFWenhQVkJlei1UMEJNcGpRVG1mdmRHM21Lbkx6M2lpYlF0blhxbDdteXgxVjRVanljODJ2Nm01M1RSa21IZ1kwRmhNVGJSTlJiZDgtNDFieFRRVGZHLTEycjhDMk1XamtMajRFVC1kZHFxOEN2Rk43NjFnVXYwcWp00gGOAUFVX3lxTFBFN0JXcndQWXdiWDJtdTJHWlotVHA3bHY0d1pwcDNVSnptYVZzdWhHcGZ1a1JQUWc5ZGlaYzVRNGtuS0JIZF9fQzVzOHhvNlRFTU1qdkZBbmJqbGlkMTZZMW4xWDhvbFcwS1cwX3QtOGxlb3VIQ2ZXRUh0VGxBLUVISk1HMlpGczFEaUQzOGc?oc=5",
-      "summary": "Meta announces Louisiana Workforce Academy for AI data center construction KTALnews.com",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta walks back facial recognition in AI app - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1VHdm9ZWjdLYXZ3NXVyQUMtSVQ4RmRMdmNJcnZuUnJDNkp0bVhvV09DaHFUTHhOZVd6a3k1RTJPUFNkdFd3SmQ2OXJHcl84T0lZM0FGU29ndWtjRk1MTlc3WmVGRU5TMmdDdWs2dzhGcUV6eUFhV29MV3FNTURVb3pIVGVvVFhBaDlibVREVXBfZnct?oc=5",
-      "summary": "Meta walks back facial recognition in AI app Social Media Today",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Italy regulator drops investigation into Meta's WhatsApp AI bot - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlFCclBPOVFER1BPUHl0bmdRZnc2MDlDM2M0czNFMnlkTjJBOHYyTUVPYV93UktmTmhYbjBNZkh2MXRabVlRMGVmRXRaRUN3MTQyN25ORmU5TDhGaGVHdVFmam9XTTU5TnZ6QUZTYnF3VXhYTzJZamVmUFJFcElXT0dfSnJGLUh6cE5lN1BObnZYNkNndlk0TlBfMlowVE9rbHJUUzhxRk1KQ2ZLYnhB?oc=5",
-      "summary": "Italy regulator drops investigation into Meta's WhatsApp AI bot Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Meta",
       "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report - WIRED",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTNHdkx3TFE0TVptSzBOSWtRbGhPa3N0VU1wVllaaW5Jb1VabjVqVnp0bEhvOVdvZTQ5eXdDTVNoMW9Ua1pxazVlWTV2azhDT3FkLUZYbWNVRV9zYllMQXU0VU94WjlGVWlSdzl3amdvbzk2bFI4Y0J3dEdjRlYwcEdBRGtyMUJHVGNUaEFlb2U4TUE?oc=5",
       "summary": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report WIRED",
+      "badge": "new",
+      "date": "2026-06-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Furious Over Bombshell Smart Glasses Revelation - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkw0NWtJeUVCSDVRUHlzMmRLUHlSX3Z5VHhGRzFjNzVTd2t3LWtjQkdUQ0N3X2Z5NldaZjB4bVVhcmJFNExFc3h6ZG1NVWF2UUF0XzFrQ2lZQ0QwSmpuQUJWdnpxd0RValZ6Zm5nZ2JJR2g4c1pCSHlqdjNtbDRkMlRncjFWMEtRRVhCblVJYTlmSTktdFE?oc=5",
+      "summary": "Meta Furious Over Bombshell Smart Glasses Revelation Yahoo Tech",
       "badge": "new",
       "date": "2026-06-08"
     },
