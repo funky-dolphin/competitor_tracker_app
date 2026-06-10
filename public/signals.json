@@ -1,11 +1,43 @@
 {
-  "updated": "2026-06-10T15:22:30Z",
+  "updated": "2026-06-10T20:23:13Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
     {
       "company": "OpenAI",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
       "url": "https://openai.com/index/lseg",
       "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO says government should block dangerous AI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGFPeVR2VldXM21VWDNBRFdaVEVtVDNwZDBCcnhzWmp1a3p2YTN3eGhUTE13TTRZMzhpckkza0QzRUxaZkJLQ3Q4UnY1U1JweTluZ19zNGdhZndyZW9SQ2JSWGd5dWRJQnJkb1ZhY0pCWmkwaTFkZnVZdTRLYnowMWNR?oc=5",
+      "summary": "Anthropic CEO says government should block dangerous AI Axios Anthropic CEO says government should block dangerous AI Yahoo Anthropic CEO Dario Amodei Has Only One Direct Report Bloomberg",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic urges US to require safety tests for most capable AI models - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGswMmJtWE5seHQzaWRSWXhPRktmbHc1SHZpYndBM1hjTzdLUlp0LVdmM3BQTTN1NnIxeWsxR2JubC1qeS03XzdVVjR0amttUUQxUWpVUlN2MzdsRTlSZDdJT1ZUTnlQTmlDc2h5WC1VdlQwYm5OQ2xROG1lT3BUVmhHS1V1bE4xeHhpazlwTGJSYWNNSnBtX0tFdkFBX0M1VTdZVDNwQQ?oc=5",
+      "summary": "Anthropic urges US to require safety tests for most capable AI models Reuters",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX01DbW9sb3RKdG5WdEhManRzVFhHYzdPZWpRLUJiaWhVYy1RbzhOd3RxRWh4OUtwRWJKSXdxb2xVRmZxX2lRWXc0X2EzeEp6Mkp4SXhHV25qbDhNYXlZYW5zeENDNDY5R1ZTV0o4S2dwWHdOYUtHU0p0Ml9TemNYMUc2d1Q4WDhSQzVLeU5mOHNFa2VfQzh2TldNMTRfeGx3LW5jRTAzOTVWVEts?oc=5",
+      "summary": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous inc.com",
       "badge": "new",
       "date": "2026-06-10"
     },
@@ -46,6 +78,14 @@
       "title": "The All-You-Can-Eat AI Era Is Over. It's Time to Count Calories. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0RoYWR5dEQzMWlfcncwYnYxOTFEUEdEbFFjUFE4RWZHcS1zNDBiSHBKQTVHWDhoUGdmTzVNRHFBWUpvUFdaRGpxeE0xdVU0RjVTcHNtYmJRRjBHcjYxY0ZJaEM4dWV2MExiNW84cnRJa3dpX0FSYTMxcEp4MzNtZkp2NDMwZlV3bmZscDlsOUlaTnVvMGtNQ0tHaXZPblFmWmYwVVBBNWxNV1U0VHc?oc=5",
       "summary": "The All-You-Can-Eat AI Era Is Over. It's Time to Count Calories. Business Insider",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Why I’m leaving Copilot for Gemini - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVvV0lOV25GOF82OTBUUHVVOFVMQkx6UkNhM24wbFZCdV8zRTRSRkhOSVdicTRZMVgwcFBPbU5INF93ZVFPUnlsQVhUQ2RuUmZyeHY0U0g3QUw1d0VOSldDcjlHMHdYUnBsUVhrZzlrb2NnMjVMQnBaS2tLd3FPSGI3a0ZhdnJNSndWNQ?oc=5",
+      "summary": "Why I’m leaving Copilot for Gemini Computerworld",
       "badge": "new",
       "date": "2026-06-10"
     },
@@ -141,39 +181,15 @@
       "company": "Anthropic",
       "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Anthropic’s New Model Targets Power Users Bu",
-      "badge": "hot",
+      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Claude Fable is too scared to teach you abou",
+      "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Anthropic",
       "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
-      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlJxREZCMUtTU0FaYmt0bDd3Ty1Kd0FyLXAyZzNfNm84YklFXzExakVmSmp1Z2pveklIQWVnQ1FuR2xVdDJueExXR24tdUhzMmNjTUtYRnBwLXhmVEVCbUdsWFRadmUyTnktcXBCZjluZHhSNklVdFZ5ejBoOXpFRnNtZmRSU2gxWGo5Q3R3Y0kxMzNjYTJRTGtfOEgzUlJSU1ZMbWVYWncta3k3NVdWOTFNOA?oc=5",
-      "summary": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic Bloomberg",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5",
-      "summary": "OpenAI plans stock market debut, setting up new race with Anthropic BBC",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The hard part is about to begin for the world’s biggest AI companies - CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOYXNXb25HY2lvRlpBVXE1N3J2a3k5Y2RaWVhJQnRQaWRqb1h4YmdNZklNbXotMzhTaHRpUTM3N2thQS15R2wxMmJ3QXVBaVNyN0ZQSS1xRTdmZUZhZmFZNGQ1dkZ0VDF1ZzJWZFZJUS1yT2M5WE1R?oc=5",
-      "summary": "The hard part is about to begin for the world’s biggest AI companies CNN",
+      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters OpenAI files confidentially for IPO, following Anthropic TechCrunch Wall Street needs a crash course in the token ec",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -203,17 +219,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
-      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
+      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
+      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
-      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
+      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
+      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -251,17 +267,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
-      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses UploadVR",
+      "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
+      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Meta",
-      "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
-      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot The Verge Hackers trick Meta AI support b",
+      "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
+      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses UploadVR",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -363,9 +379,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Furious Over Bombshell Smart Glasses Revelation - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkw0NWtJeUVCSDVRUHlzMmRLUHlSX3Z5VHhGRzFjNzVTd2t3LWtjQkdUQ0N3X2Z5NldaZjB4bVVhcmJFNExFc3h6ZG1NVWF2UUF0XzFrQ2lZQ0QwSmpuQUJWdnpxd0RValZ6Zm5nZ2JJR2g4c1pCSHlqdjNtbDRkMlRncjFWMEtRRVhCblVJYTlmSTktdFE?oc=5",
-      "summary": "Meta Furious Over Bombshell Smart Glasses Revelation Yahoo Tech",
+      "title": "Meta Removes Face-Recognition System From Its Smart Glasses, Is Mad About it - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMW1lWTNWUW1KVTBIYngzeVpubjgySFhCcmIwdmZtNVQ3Rm5MLS1jN2RHYlRkOVZKLWkybzhmN20tUDlNejlBQ1ViaFQzdTJySmtjeF81WnlRZDR5TUcxZFROOHlZZHo3a0h4VmFnU094UXZ4dmRFSUs3aTl4WUoxYVQ3V2FLS2Eya1VuWldHZTRjQTdxWTE0U2FEM0RDdVlWTXplSm9ER3FBZw?oc=5",
+      "summary": "Meta Removes Face-Recognition System From Its Smart Glasses, Is Mad About it Gizmodo",
       "badge": "new",
       "date": "2026-06-08"
     },
@@ -434,14 +450,6 @@
       "date": "2026-06-03"
     },
     {
-      "company": "Microsoft",
-      "title": "Introducing Microsoft Scout: Your always-on personal agent - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5",
-      "summary": "Introducing Microsoft Scout: Your always-on personal agent Microsoft",
-      "badge": "hot",
-      "date": "2026-06-02"
-    },
-    {
       "company": "Amazon",
       "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
@@ -486,6 +494,14 @@
       "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare - Electronic Frontier Foundation",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWg4QVl5VEdJWkRfS3VqWnIzeU1BZ3hkUXQxT2lHRndYM2NqRkhvM19fMVF2WVlJRmNCUldjSERULWMybW54YTNkQTJLc1kwV1hjX2R1RE5jdS00U3RzdEdPNVI1LXFxU0wxOUd4TzdrZ3MzVUJWR011MTJsS1dVYXcwTWJOc3RnOWFVbVZ2OFlVdmVaemZ4enBjMGZWMDVUNjdNZFpKZXUtRW5BMC1WbUZ3LWV0YUNn?oc=5",
       "summary": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare Electronic Frontier Foundation",
+      "badge": "new",
+      "date": "2026-02-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring's AI feature raises privacy alarms - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xNjQ2TkFRemtVcWVoT05TVXVHN2VVbDBwbzlreDhMM2ZRVDQtWnpGcXZ5eWRNRENMVElJTVpFZXEzXzFxWWdYNkhRb3pTTjRRNkFXV2RvanY5N0lpTjFUSVpxOXptaFBvWFJJb0FfeHltd9IBd0FVX3lxTE54OERmRVp4dmYtcXlEVlZybmZwS3F5UEdVaFhodkF6ekpwYmlqakRPSVJjYXVlOVk2ci1TZnlaaDY1c1NYVk9tdjBWUXhaWFhVZjhucHZ3V0taUEN1cDFuWUd5VEdJYWF6UVF1NnNRSWV3eVc1alB3?oc=5",
+      "summary": "Ring's AI feature raises privacy alarms FOX 9 Minneapolis-St. Paul",
       "badge": "new",
       "date": "2026-02-10"
     },
