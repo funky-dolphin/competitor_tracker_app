@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-10T02:53:13Z",
+  "updated": "2026-06-10T09:49:12Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic leans into AI’s nascent slice-and-dice era - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MbXBYSHUxVWlFbnFyVHh6X3FiVzM4U3hkUFItWWxjTUk1d0dWRmJXNGFxRjBZMmh2aGZjd2JkdmJyRVh0bjQtaW5aNm1SU1hHY3pDZHhRT2h4UzNVaUYyamRiWS1GZjBWelUwVWM5TG0?oc=5",
+      "summary": "Anthropic leans into AI’s nascent slice-and-dice era Financial Times",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The All-You-Can-Eat AI Era Is Over. It's Time to Count Calories. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0RoYWR5dEQzMWlfcncwYnYxOTFEUEdEbFFjUFE4RWZHcS1zNDBiSHBKQTVHWDhoUGdmTzVNRHFBWUpvUFdaRGpxeE0xdVU0RjVTcHNtYmJRRjBHcjYxY0ZJaEM4dWV2MExiNW84cnRJa3dpX0FSYTMxcEp4MzNtZkp2NDMwZlV3bmZscDlsOUlaTnVvMGtNQ0tHaXZPblFmWmYwVVBBNWxNV1U0VHc?oc=5",
+      "summary": "The All-You-Can-Eat AI Era Is Over. It's Time to Count Calories. Business Insider",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
     {
       "company": "Apple",
       "title": "Apple unveils innovative features and intelligence experiences across services",
@@ -43,6 +67,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5",
+      "summary": "Meta Partners With Reliance on AI-Enabled Data Center in India meta.com",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Meta",
       "title": "Meta ties up with Ambani's Reliance for AI data center in India - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc2aGhiaC03Vk4xMTA0MHcwd0JoWEFQTHdlLUhYbTJJN1NqeEpycTU5eUZQSHY2akt1LVE1MVMzaUxmLUVuQWU5SHpZMW9RWjB0ZWlxZE41czdzdkdDS3F2OE05UktOckZhNHhEdTFlakpCTUN1dE5seGc0U25oSE1vcjhfdDJZcS1JSmlfZkI2OTFHSFpVcURxOFkwZ0RIeFphdUpB?oc=5",
       "summary": "Meta ties up with Ambani's Reliance for AI data center in India Reuters",
@@ -77,15 +109,15 @@
       "company": "Anthropic",
       "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Anthropic releases a less-powerful version o",
+      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Anthropic Releases Claude Fable 5, Its Most ",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Anthropic",
-      "title": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic - Bloomberg.com",
+      "title": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlJxREZCMUtTU0FaYmt0bDd3Ty1Kd0FyLXAyZzNfNm84YklFXzExakVmSmp1Z2pveklIQWVnQ1FuR2xVdDJueExXR24tdUhzMmNjTUtYRnBwLXhmVEVCbUdsWFRadmUyTnktcXBCZjluZHhSNklVdFZ5ejBoOXpFRnNtZmRSU2gxWGo5Q3R3Y0kxMzNjYTJRTGtfOEgzUlJSU1ZMbWVYWncta3k3NVdWOTFNOA?oc=5",
-      "summary": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic Bloomberg.com",
+      "summary": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic Bloomberg",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -147,17 +179,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
-      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
+      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
+      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
-      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
+      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
+      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -189,7 +221,7 @@
       "company": "Meta",
       "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
-      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access TechCrunch The Meta hack s",
+      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access TechCrunch Hackers trick M",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -245,7 +277,7 @@
       "company": "Anthropic",
       "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
-      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters",
+      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters OpenAI plans stock market debut, setting up new race with Anthropic BBC Opinion | Wall Street’s A.I. Bet Is About to",
       "badge": "new",
       "date": "2026-06-08"
     },
@@ -254,6 +286,22 @@
       "title": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBGSExqSGEzcFlST05vbW5wcXZGVHJ0dTlEa1VwbXAxSXVvY2lkUjJpY3ZvZURURWFVWHB5VG5Ic0xpbDQtMlp1YWpuYWdfd092UExCYnc0c3RhNWVLazFrMTZrTGI2SU5BYm1YTklRYVhOc3ZhV0pSRWJXanFOYnpBdGc?oc=5",
       "summary": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic Financial Times",
+      "badge": "new",
+      "date": "2026-06-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft and Copilot just hit a jackpot in healthcare - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkIwNlhRQkJoT01lTllWYUdrUUtTdS12X1NkTWlwUUI2N3AzMG9XSk1sd0xGc3BLVVNqMXRJQ0FwaWVaZUZFWVRjSGtyYUJmeU0zWjFFeXlpSE9hWDREQkNpMXlhTktYUGxqV0dKalplVnV1UjZEb09vby1MRTJzaVk5Z2hxc2Y0cnM0aHd1U3VpWjJnVG56MFl3?oc=5",
+      "summary": "Microsoft and Copilot just hit a jackpot in healthcare thestreet.com",
+      "badge": "new",
+      "date": "2026-06-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Apple’s new Siri just works. Why can’t Copilot? - PCWorld",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEtVdUxxVndZOFV3YWo5dVhFUXp2U2VlSTRscnJxZ0tkZWJTb2I0emYxRVROSldTS1l6LW5hMFp3YkJKd0U1Q1phNXZuaUtMSU1iZWVZM3hTVWhMR2dNTzcwcjBQd1BqRFhRRll6Rldwc01pZjJINHhUOGZveGw1RUZibU1qZEZHRWV1R1ZMNEM0dGVTMXNjOTFn?oc=5",
+      "summary": "Apple’s new Siri just works. Why can’t Copilot? PCWorld",
       "badge": "new",
       "date": "2026-06-08"
     },
@@ -282,10 +330,10 @@
       "date": "2026-06-08"
     },
     {
-      "company": "Microsoft",
-      "title": "Apple’s new Siri just works. Why can’t Copilot? - PCWorld",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEtVdUxxVndZOFV3YWo5dVhFUXp2U2VlSTRscnJxZ0tkZWJTb2I0emYxRVROSldTS1l6LW5hMFp3YkJKd0U1Q1phNXZuaUtMSU1iZWVZM3hTVWhMR2dNTzcwcjBQd1BqRFhRRll6Rldwc01pZjJINHhUOGZveGw1RUZibU1qZEZHRWV1R1ZMNEM0dGVTMXNjOTFn?oc=5",
-      "summary": "Apple’s new Siri just works. Why can’t Copilot? PCWorld",
+      "company": "Meta",
+      "title": "Meta announces Louisiana Workforce Academy for AI data center construction - KTALnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlZXTHhydjFWenhQVkJlei1UMEJNcGpRVG1mdmRHM21Lbkx6M2lpYlF0blhxbDdteXgxVjRVanljODJ2Nm01M1RSa21IZ1kwRmhNVGJSTlJiZDgtNDFieFRRVGZHLTEycjhDMk1XamtMajRFVC1kZHFxOEN2Rk43NjFnVXYwcWp00gGOAUFVX3lxTFBFN0JXcndQWXdiWDJtdTJHWlotVHA3bHY0d1pwcDNVSnptYVZzdWhHcGZ1a1JQUWc5ZGlaYzVRNGtuS0JIZF9fQzVzOHhvNlRFTU1qdkZBbmJqbGlkMTZZMW4xWDhvbFcwS1cwX3QtOGxlb3VIQ2ZXRUh0VGxBLUVISk1HMlpGczFEaUQzOGc?oc=5",
+      "summary": "Meta announces Louisiana Workforce Academy for AI data center construction KTALnews.com",
       "badge": "new",
       "date": "2026-06-08"
     },
@@ -312,6 +360,14 @@
       "summary": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report WIRED",
       "badge": "new",
       "date": "2026-06-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "At Build 2026, Microsoft Sent a Clear Message: Copilot+ PCs No Longer Matter - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW1Qd0pOaFpGSXdVcVNRV0EyNVgyWnp4U1l1N0lzdXFDOF9nQ05laVJ4UEd6N1hzZW5nd2xZY1dZdTJhV1UyWFVqbUFETmpRMFVMNXhJVmtDTUZkdEtyMlVCUmJ2bko4dGZ2SzVVYW05N3pwZGpsLUpOWWZHRjl5UnUxdlhPMC1VdGNLU3VIeXRmajlhSlpuaDMyMXVPeEZOcHY2Rg?oc=5",
+      "summary": "At Build 2026, Microsoft Sent a Clear Message: Copilot+ PCs No Longer Matter PCMag",
+      "badge": "new",
+      "date": "2026-06-07"
     },
     {
       "company": "Microsoft",
@@ -375,6 +431,14 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5",
       "summary": "Introducing Microsoft Scout: Your always-on personal agent Microsoft",
       "badge": "hot",
+      "date": "2026-06-02"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "badge": "new",
       "date": "2026-06-02"
     },
     {
