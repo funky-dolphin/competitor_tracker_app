@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-11T15:46:15Z",
+  "updated": "2026-06-11T20:14:19Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
     {
       "company": "OpenAI",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
@@ -18,11 +26,43 @@
       "date": "2026-06-11"
     },
     {
+      "company": "OpenAI",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
       "company": "Anthropic",
       "title": "Introducing Claude Corps - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "summary": "Introducing Claude Corps Anthropic",
+      "summary": "Introducing Claude Corps Anthropic Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions AP News Anthropic CEO Floats Tax on AI Firms to Fund Universal Inc",
       "badge": "hot",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5",
+      "summary": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ CNBC Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ OpenAI Weighs Significant ",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude Web Visits Surge Before Anthropic’s IPO - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnk1MHBWb3hpejQ2ZUpXQUptc01GRVlkWUpXR2Q0QlB2ZUhrcDc4cE1vWFctMzhPTnRsaFViT1dlOEE2RE4yam9senZzUXp5U2pCd1d5MVFiaXV4cjI4S1hGaG1YOFRDYzFGVzBjV2lwSFQzMkFMcDNYTGluN1ZKM0ZjU3o1QlZQLWRfSVY0ejRqYTMxTzhVOGs2Qm9NNmI1QmRUc3dxakdhSnZweU4tRA?oc=5",
+      "summary": "Claude Web Visits Surge Before Anthropic’s IPO Forbes",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnY0TUhBUFZKdU9tZmRDQ1dKVWkxOU5FYzJ4aWhfc1dIbmZyZDByM01ULUNoeVNOakxfUjNLUGJ4MklSYWxRbTU0dTQ5MzM5UDNNUHdhWDJEd1FyaWJHSmwwTjVXMk1MY1BsYVBxTWJMSk9ST01zWk02ZHBoLWZBaU92MUJtUU5uOXRyTjBJVC1qdWdMQ0xrTzhISUMwTm8tVDhiTlp6NzZKaEc0V1ZtcjRod3JyZTJOc19LQlluSXd2Zw?oc=5",
+      "summary": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports Reuters",
+      "badge": "new",
       "date": "2026-06-11"
     },
     {
@@ -59,14 +99,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5",
-      "summary": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ CNBC",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
       "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hRS09mSFVOVFh1VWRvSUdOSXhKV1k4bGFKdGdlR2NISTNyVHUtMjF6UnBiU0JRT19yMldUX254VXZ0SVBVTkVGc1J0amI4Y1kwb0tEbnZOMG5yX0ZhSkc4UEI1WXJxcjQwa2VGdlUxNTJFNW9GTnctallrZndyTUJYRFpBdzFqMWUxbzFvZnVOWnk1UWh5Q1B1ckNXNFRhVE9QWTFraw?oc=5",
       "summary": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports Yahoo Finance",
@@ -82,10 +114,10 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUxaR1RVaTY0U3FJVnhLNzIyR3Zwb041R0pRT29YelJzRi1YOWhvYUlQNVV5RDBDZm9RQ1diaEFuV2x6MmFfUlNkc2lTYUFoSzI2ZFlUNDc4RXN0Sjk2bXpoU2xEeU5lS3lSRTZJTHo4MlctVV9ZRTUtd1U4MTgzZEN5Wm4zQnJtMHV5aTAwQ1FVYnotZ1ZSdVdIaGU3emRxdjNoQWM5S1dnYUh1c213UFd6Z2ZVMjltazRBS2FuZFM4QQ?oc=5",
-      "summary": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports Reuters",
+      "company": "Google",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -94,6 +126,14 @@
       "title": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5jU3JOTFlfcXdLZ2p3VG4ySnZtWVZ2LTlXei1iX0F3MjVBY2EtQm04Vl9HOU5ramx4NzVQWGJKM0N0eG1jM0lpYk1uWkNTZE1kZmxBd2dLVWZ0YXNaRGxuWkRYeFIyeExiaHNVeDVrc3B3N2FhRDUyZURvdVMtTEhlU3ZMOXdwa21NYnRPUVRNRk9IeFlBa2k4TGlIUGhia2pKc2IxOTF4YVlmRWJGeWhPazg3WVQ3QWc?oc=5",
       "summary": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" Windows Central",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Who evaluates the evaluators? The data science behind agent evals - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVR1NGs1c2ZsOFhRN0ktd25lZXVyVi05b0tXLUhfZTUtclM3N0IzTHBMZEprZzBTLUtTTnhaY0x4TEhKYm9xT19neFhoUGJOTDRRMUZCS0JTTzg2d2JtTVZxZnFLX2s0dXdDTWRlT19ZTWFmTndVSW9IWHNqWmJveU9KQzlaWWhielRmc1h2U29ZQzJfNnJ1Slo2ZS0zaE82UmdRZmd2dnhadFZiWXVZX0NveEJuZ2NkTUVWSDZfRUFVd3FkUVRSWGVGeDVjWHhF?oc=5",
+      "summary": "Who evaluates the evaluators? The data science behind agent evals Microsoft",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -186,14 +226,6 @@
       "date": "2026-06-10"
     },
     {
-      "company": "Anthropic",
-      "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGNBMkQyUlpFT1o4T29OU09SR0I0dWlNd1h4aEtVbC1ZZkJ3bDY2aGl1ckVOUVM5c21zTUYwQ0F4bUZBVDhNYnNpTUZYckh3UUJCU29ybE92NWxaM2phNTBGR1lUVDlJampwZFQyWkFnQ3c5cHl6NzVLRFVZcVpmZTVhQXFIV1AwMHdFak5xUUM0UjU1d1A1WHlNMXVtTVg3X3Rxa21XV3rSAa4BQVVfeXFMTnVCOWd3c3JLN2xiOWlVTG1VbjBFMXJ6SzF4eWM0alp3Ums0eWdzNGtXeWRFdk5fcnY2b3Z6VFU4VzNjWUlIX252TkZocU1scGg5MFdLOW1yQ1dibDJvbUV5YTQ1end6MXBhN3Z3b09FeXhURTlUTjU5aFp5b2J1eGgtN053bGRuSG14WXFBVHB3RGN3SEF4YjIyNEtlTUJFVVNhb3Q4QkRaV0o0d3ln?oc=5",
-      "summary": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview CNBC",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
       "company": "Microsoft",
       "title": "Why I’m leaving Copilot for Gemini - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVvV0lOV25GOF82OTBUUHVVOFVMQkx6UkNhM24wbFZCdV8zRTRSRkhOSVdicTRZMVgwcFBPbU5INF93ZVFPUnlsQVhUQ2RuUmZyeHY0U0g3QUw1d0VOSldDcjlHMHdYUnBsUVhrZzlrb2NnMjVMQnBaS2tLd3FPSGI3a0ZhdnJNSndWNQ?oc=5",
@@ -275,25 +307,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkUyV3daTkg3VXJMVzlpb05nN09GZmFiV3A0aGRGN0dSQXA0cWV5WFpDNGI5NVVWZmVtT3Y0d25fYzVpTDRvaEhnSXJfV3JUYTFOdG54Q2hiSTMxQkMwNGFNNGcxWjZyWFVjZi1Xa0ktUS1ndlRTWW05LXBWaTl2Mk5GSmstdkhhbEJ1ZzlXRDFDcms1Skx5cnFXQmlpd3dQeWFGRGpHNTllNTRDLVM0NmpuaXh3N09NUm9KbkVxMjZ4TWdqdDZtTEFvSnNndW8?oc=5",
-      "summary": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks Tom's Guide",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
       "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
-      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -315,6 +331,22 @@
     },
     {
       "company": "Perplexity",
+      "title": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkUyV3daTkg3VXJMVzlpb05nN09GZmFiV3A0aGRGN0dSQXA0cWV5WFpDNGI5NVVWZmVtT3Y0d25fYzVpTDRvaEhnSXJfV3JUYTFOdG54Q2hiSTMxQkMwNGFNNGcxWjZyWFVjZi1Xa0ktUS1ndlRTWW05LXBWaTl2Mk5GSmstdkhhbEJ1ZzlXRDFDcms1Skx5cnFXQmlpd3dQeWFGRGpHNTllNTRDLVM0NmpuaXh3N09NUm9KbkVxMjZ4TWdqdDZtTEFvSnNndW8?oc=5",
+      "summary": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks Tom's Guide",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
+      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity CEO confirms 2028 IPO plan amid AI listing race - qz.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
       "summary": "Perplexity CEO confirms 2028 IPO plan amid AI listing race qz.com",
@@ -326,6 +358,14 @@
       "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
       "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta builds its AI data center worker pipeline - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWVGblVwS2ZEdElVUGsyX2N1X0hQS0lQMmI4Q20zZkJ5cHhTWnBFYkJzOXVFakhVZHBfajFBY1BaTXBJOGxMaDYzRUZkZnBUUEJabWVuaXplUlI1UWt2ZWpaY29qWE9iYmJmNE12bEVHTGhjSUxob2ZSZXltcG9meVI3Q0dMSGtY?oc=5",
+      "summary": "Meta builds its AI data center worker pipeline Axios",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -362,22 +402,6 @@
       "date": "2026-06-09"
     },
     {
-      "company": "OpenAI",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence - Forbes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlg3R0NEcEs2SG5EQ2xaU2FveEthWFJUS2dUaTVqeVpBNnhUMFhYSmVSOGVjSll6aGxuYkhDUFBrMmJUd3RWQnpzbXJmb3BTd3p2WEFNMGR5VnJKNTJlREdHbGN2akI0dGdibUFpd0dsLWZzc1V3M19hVnBqX3FJeE5fTmExWEF3a3NZN1V2eHVDWm1vUmNHZWdvRDRUeTF4MnQwUHhpUktJQnVFODZoNHRn?oc=5",
@@ -410,22 +434,6 @@
       "date": "2026-06-08"
     },
     {
-      "company": "Microsoft",
-      "title": "NHS prescribes half a million Copilot licenses for its paperwork headache - The Register",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1BsMUozMWh1LXpyemdhOXNOZDJ1MDVjVDhMZkFLMERXdk5BdjJ3aEVHeVIzSnR4blE4ZEdnanZGOGVLazJQRkFfLW5YVEM2MUhsRV9KMWZaWXN0OVFZV3FSZUhWZWhkTEpRdW9SYVY5WGZDNlRNczZFVnloaUI4NTFENDhVUFJBY0FuODNNOE5LUXNBZGhfTXhRRUdXak5TNGptM1M1VF8wN3EyYnB2OWlSR09qQnQtZmxHYjQ0amVabEhPWHV1Y1FB?oc=5",
-      "summary": "NHS prescribes half a million Copilot licenses for its paperwork headache The Register",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTNHdkx3TFE0TVptSzBOSWtRbGhPa3N0VU1wVllaaW5Jb1VabjVqVnp0bEhvOVdvZTQ5eXdDTVNoMW9Ua1pxazVlWTV2azhDT3FkLUZYbWNVRV9zYllMQXU0VU94WjlGVWlSdzl3amdvbzk2bFI4Y0J3dEdjRlYwcEdBRGtyMUJHVGNUaEFlb2U4TUE?oc=5",
-      "summary": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report WIRED",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
       "company": "Amazon",
       "title": "Amazon Ring Lawsuit Puts Face Recognition on Trial - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JQktVZktVc3pvSFhkTGhUM1VUZkpIcGVpN2p5RHRlNUpwMzg4X1lkUzN6YU10UGlvdmRzSzZFMnktbzZJbUJ2TXRhR3JoeUpsdEIxYmRqUnprSkdvcVBkY21Cc3gxTjR0eHZRSUJRci0yV2RDS2M1Q1BBQzg?oc=5",
@@ -446,6 +454,14 @@
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas",
+      "badge": "new",
+      "date": "2026-06-03"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's Ring cameras track your face without permission, $5M lawsuit says - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUM0TTZEUUszUE5EenpVa3pNOEpHVUlhWVlWRFFTZFptMU5OV2l6cmw3eVJhMXlOUjNfOXo2c3VpNWE5aG5BdlJJaGNiVGJhNC13U2JwNTd5RGxxbGhUeTcybGZKeEN6UG9FSnZaZUFPNjRSRDIyVnI2cVM0azFlZGdPZ0o1MW8tLUp5RkRYUEVxT0xmME1wQmtsTEVGb3hkSm9QbzRBNHZGZGRBN1V6WFJtZGxHdUFra2hRcmlKQzlfY3I0VFRrLXg3YW9acVcydmRvUjNRNUY5SkU?oc=5",
+      "summary": "Amazon's Ring cameras track your face without permission, $5M lawsuit says Tom's Guide",
       "badge": "new",
       "date": "2026-06-03"
     },
@@ -496,6 +512,14 @@
       "summary": "Gemini Omni & Gemini 3.5 hero",
       "badge": "new",
       "date": "2026-05-29"
+    },
+    {
+      "company": "Amazon",
+      "title": "Your Ring Camera Has An AI Description Feature (And It's Pretty Creepy) - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dWplZFFTVWFlaGxPTDdiNEpYOHVjMU9sLXNBc0ZIMllRWXh3RXBQVjRGYVlxRng1T0o5QWJxZFJ0SFFiVWZhNG9hNkx2UUtTaEdHWjlERk11UkxFcVBzLXR4VXpXMDc2eWFMSk1DeC1GR0R0b0ZXRW9GUGZuR1k?oc=5",
+      "summary": "Your Ring Camera Has An AI Description Feature (And It's Pretty Creepy) bgr.com",
+      "badge": "new",
+      "date": "2026-05-19"
     },
     {
       "company": "Amazon",
