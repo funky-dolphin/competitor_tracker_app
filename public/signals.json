@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T03:26:35Z",
+  "updated": "2026-06-11T10:15:25Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -10,10 +10,34 @@
       "date": "2026-06-11"
     },
     {
+      "company": "OpenAI",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
       "company": "Anthropic",
       "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
       "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5",
+      "summary": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ CNBC",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hRS09mSFVOVFh1VWRvSUdOSXhKV1k4bGFKdGdlR2NISTNyVHUtMjF6UnBiU0JRT19yMldUX254VXZ0SVBVTkVGc1J0amI4Y1kwb0tEbnZOMG5yX0ZhSkc4UEI1WXJxcjQwa2VGdlUxNTJFNW9GTnctallrZndyTUJYRFpBdzFqMWUxbzFvZnVOWnk1UWh5Q1B1ckNXNFRhVE9QWTFraw?oc=5",
+      "summary": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports Yahoo Finance",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -138,22 +162,6 @@
       "date": "2026-06-10"
     },
     {
-      "company": "Anthropic",
-      "title": "Designer babies. Self-improving AI. Are we ready for either? - vox.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFkyZmR0Q2VrZlFza3phaXdBN1VQVW54XzRza3dSRnJXTlB3NmJad1FjVDZJOVpqZkYwdFItX0hwVkoyS2Zfc1laamk0cXlzU212T25weTBRZk5GemJaOUhMMUNYUUV4VFpiRjFVWlNoSWdmU29lZWRKTE5EcWxERzRpeE9xVFBnQ1IzX0pkZjVVZ1dFNHAya1hkNA?oc=5",
-      "summary": "Designer babies. Self-improving AI. Are we ready for either? vox.com",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI giant says its own models could soon improve themselves — and now it wants a global pause - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLThRbnpuWVN1M21pS3hmUHhQbjEtVFY2WTBGaDBhUnpiMDN1UUt4QnQwT3BxNVNtX0NSX1p5bm5UOEZ6X01qRG1NcXZEMmZrU1FHc3J1SmRnUXp0VmZLZWdyNlM0Sm85QmxCV2NVOGtRWFZQLTRfN3FjRGV2eVRXS256dXpOU1hRRkN3?oc=5",
-      "summary": "AI giant says its own models could soon improve themselves — and now it wants a global pause Yahoo",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
       "company": "Microsoft",
       "title": "Why I’m leaving Copilot for Gemini - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVvV0lOV25GOF82OTBUUHVVOFVMQkx6UkNhM24wbFZCdV8zRTRSRkhOSVdicTRZMVgwcFBPbU5INF93ZVFPUnlsQVhUQ2RuUmZyeHY0U0g3QUw1d0VOSldDcjlHMHdYUnBsUVhrZzlrb2NnMjVMQnBaS2tLd3FPSGI3a0ZhdnJNSndWNQ?oc=5",
@@ -179,10 +187,10 @@
     },
     {
       "company": "Meta",
-      "title": "Meta ties up with Ambani's Reliance for AI data center in India - Reuters",
+      "title": "Meta deepens partnership with Ambani's Reliance with AI data centre - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc2aGhiaC03Vk4xMTA0MHcwd0JoWEFQTHdlLUhYbTJJN1NqeEpycTU5eUZQSHY2akt1LVE1MVMzaUxmLUVuQWU5SHpZMW9RWjB0ZWlxZE41czdzdkdDS3F2OE05UktOckZhNHhEdTFlakpCTUN1dE5seGc0U25oSE1vcjhfdDJZcS1JSmlfZkI2OTFHSFpVcURxOFkwZ0RIeFphdUpB?oc=5",
-      "summary": "Meta ties up with Ambani's Reliance for AI data center in India Reuters",
-      "badge": "new",
+      "summary": "Meta deepens partnership with Ambani's Reliance with AI data centre Reuters",
+      "badge": "watch",
       "date": "2026-06-10"
     },
     {
@@ -235,14 +243,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
-      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
       "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
@@ -267,14 +267,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity CEO confirms 2028 IPO plan amid AI listing race - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
-      "summary": "Perplexity CEO confirms 2028 IPO plan amid AI listing race qz.com",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
       "title": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkUyV3daTkg3VXJMVzlpb05nN09GZmFiV3A0aGRGN0dSQXA0cWV5WFpDNGI5NVVWZmVtT3Y0d25fYzVpTDRvaEhnSXJfV3JUYTFOdG54Q2hiSTMxQkMwNGFNNGcxWjZyWFVjZi1Xa0ktUS1ndlRTWW05LXBWaTl2Mk5GSmstdkhhbEJ1ZzlXRDFDcms1Skx5cnFXQmlpd3dQeWFGRGpHNTllNTRDLVM0NmpuaXh3N09NUm9KbkVxMjZ4TWdqdDZtTEFvSnNndW8?oc=5",
       "summary": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks Tom's Guide",
@@ -282,10 +274,18 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
-      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses UploadVR",
+      "company": "Perplexity",
+      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
+      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity CEO confirms 2028 IPO plan amid AI listing race - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
+      "summary": "Perplexity CEO confirms 2028 IPO plan amid AI listing race qz.com",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -294,6 +294,14 @@
       "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
       "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
+      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses UploadVR",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -338,11 +346,11 @@
       "date": "2026-06-08"
     },
     {
-      "company": "OpenAI",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "badge": "hot",
+      "company": "Microsoft",
+      "title": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlg3R0NEcEs2SG5EQ2xaU2FveEthWFJUS2dUaTVqeVpBNnhUMFhYSmVSOGVjSll6aGxuYkhDUFBrMmJUd3RWQnpzbXJmb3BTd3p2WEFNMGR5VnJKNTJlREdHbGN2akI0dGdibUFpd0dsLWZzc1V3M19hVnBqX3FJeE5fTmExWEF3a3NZN1V2eHVDWm1vUmNHZWdvRDRUeTF4MnQwUHhpUktJQnVFODZoNHRn?oc=5",
+      "summary": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence Forbes",
+      "badge": "new",
       "date": "2026-06-08"
     },
     {
@@ -406,14 +414,6 @@
       "title": "At Build 2026, Microsoft Sent a Clear Message: Copilot+ PCs No Longer Matter - PCMag",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW1Qd0pOaFpGSXdVcVNRV0EyNVgyWnp4U1l1N0lzdXFDOF9nQ05laVJ4UEd6N1hzZW5nd2xZY1dZdTJhV1UyWFVqbUFETmpRMFVMNXhJVmtDTUZkdEtyMlVCUmJ2bko4dGZ2SzVVYW05N3pwZGpsLUpOWWZHRjl5UnUxdlhPMC1VdGNLU3VIeXRmajlhSlpuaDMyMXVPeEZOcHY2Rg?oc=5",
       "summary": "At Build 2026, Microsoft Sent a Clear Message: Copilot+ PCs No Longer Matter PCMag",
-      "badge": "new",
-      "date": "2026-06-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NHS England rolls out Microsoft 365 Copilot to 505,000 staff - Microsoft UK Stories",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaHZQTXN5SlVYTHRFOVhoTVhSLUlQclhWRUlUejVkU3VFS2J0V2c2RS1odUFBSUpCRFF3cXdTUmdHaVRNaVAwc3FIajZKd0dkNHU4UXBBaDVRVUZnQlF5dnY1cmJ4dmltZXVveVlSYjFTV2ZaQmFXN0hDYTRvZW9fdUhoZThYWjIyeGp3YWZURlk0cl9IZzJ6U3dGem5uUTB3TElqSmVvSjFaS196QVEtaXkwSW1SeFprb1A5Tm1NTG5ORTg2U3dqQzVNRkNST1hmSmNNU2VlckZPd1RYRVNBc2ZSNC05UFNoLUJOMTR5alFySHFmMEh0Z1FjNXljTjc4Wmo5ZHFR?oc=5",
-      "summary": "NHS England rolls out Microsoft 365 Copilot to 505,000 staff Microsoft UK Stories",
       "badge": "new",
       "date": "2026-06-07"
     },
