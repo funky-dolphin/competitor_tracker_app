@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T10:03:30Z",
+  "updated": "2026-06-12T14:47:30Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -50,6 +50,14 @@
       "date": "2026-06-12"
     },
     {
+      "company": "Meta",
+      "title": "Meta's AI Spending Looks Insane Until You See What It Is Building - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGRjb05LdTQtZmtBWmJWT09saHo2SnRRbXVlZndKV3BGUHlYcWVRbjZqZEhnZC05eldLWFo2ZTdleUl2NkNsUzJUUUtkQ1hZSENXdzV1MUZPTktYNEZhdVctNk5wbDBFN1h6Ny1ydVJYbkpHTnkxWFd0UFozcmN6VGpMSDJqLURsbWo3QUtRREtMUldvRFNTalppbF9FTzR5cnNDWGFZV1VZamJ2amo4?oc=5",
+      "summary": "Meta's AI Spending Looks Insane Until You See What It Is Building Seeking Alpha",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
       "company": "OpenAI",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -59,9 +67,9 @@
     },
     {
       "company": "OpenAI",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -75,9 +83,9 @@
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -85,7 +93,7 @@
       "company": "Anthropic",
       "title": "Introducing Claude Corps - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "summary": "Introducing Claude Corps Anthropic Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions AP News Anthropic CEO floats AI tax to fund universal basic income",
+      "summary": "Introducing Claude Corps Anthropic Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' Fortune Anthropic CEO floats AI tax to fund universal",
       "badge": "hot",
       "date": "2026-06-11"
     },
@@ -93,7 +101,31 @@
       "company": "Anthropic",
       "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
-      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ Anthropic v. OpenAI: Behind the bitter battle for the future of AI Reuters ChatGPT hits a billion monthly",
+      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlFpZm1DM1NFOHo3N0daWFVfMS11VUQ0ZHIwV0hfQV9Ra3Z3Um1LX1kzeTlibjNuTTE5d0RLdzRhcjRoVHVETnlQeXg3SmR4MUJOTmRNTUs5ZURrVE5sX1VheWFpNXE1ajJxNjFlbmFpUkJNSnhZUFdIQ3M0WHFNb05Wd3E?oc=5",
+      "summary": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. Barron's",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUNIWFRQb0tpNklJcmlMaTkxZlMzLVdnTm13Y1U5Wi1LNE1TV0dYWUd2UWltdW9JMGQ2eWJCT0NYUmNER2ZIQzR2ZFRwTF9QZ09WUWwwWTJHOUY2RHhWczNZN1FHRmZuM1BONE1rLW02VF80RE9nRmZQMnRwOWZlY2cyQ3hRb0xFVGt6amJBZldfNWZOSERCbkpXaDFzRkkwZ19Z?oc=5",
+      "summary": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic rankles users with safety-first Fable release - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dBSDkxQU9FamFvM3VsdTlGOHlWa3YyaGllTkRsb1JYR2NQRWlBb01FZlNTYzVVb3NjTW16QjZfcHBkbUZhZWdRc2xQUXVzTkxlV0RxaUtDNTc0d2VpMWtlcDRMb3FnS254RVVLSFdUX0pmekpiZldLOFJlUjBsdlBhUHJ1YVRNY0g4NHJleHcyeUI0dm5pLWgyb2pNRENQT1E?oc=5",
+      "summary": "Anthropic rankles users with safety-first Fable release NBC News Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions WSJ",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -138,30 +170,6 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5",
-      "summary": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ CNBC Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ OpenAI Weighs Significant ",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude Web Visits Surge Before Anthropic’s IPO - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnk1MHBWb3hpejQ2ZUpXQUptc01GRVlkWUpXR2Q0QlB2ZUhrcDc4cE1vWFctMzhPTnRsaFViT1dlOEE2RE4yam9senZzUXp5U2pCd1d5MVFiaXV4cjI4S1hGaG1YOFRDYzFGVzBjV2lwSFQzMkFMcDNYTGluN1ZKM0ZjU3o1QlZQLWRfSVY0ejRqYTMxTzhVOGs2Qm9NNmI1QmRUc3dxakdhSnZweU4tRA?oc=5",
-      "summary": "Claude Web Visits Surge Before Anthropic’s IPO Forbes",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnY0TUhBUFZKdU9tZmRDQ1dKVWkxOU5FYzJ4aWhfc1dIbmZyZDByM01ULUNoeVNOakxfUjNLUGJ4MklSYWxRbTU0dTQ5MzM5UDNNUHdhWDJEd1FyaWJHSmwwTjVXMk1MY1BsYVBxTWJMSk9ST01zWk02ZHBoLWZBaU92MUJtUU5uOXRyTjBJVC1qdWdMQ0xrTzhISUMwTm8tVDhiTlp6NzZKaEc0V1ZtcjRod3JyZTJOc19LQlluSXd2Zw?oc=5",
-      "summary": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports Reuters",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
       "company": "Google",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
@@ -198,6 +206,14 @@
       "title": "Who evaluates the evaluators? The data science behind agent evals - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVR1NGs1c2ZsOFhRN0ktd25lZXVyVi05b0tXLUhfZTUtclM3N0IzTHBMZEprZzBTLUtTTnhaY0x4TEhKYm9xT19neFhoUGJOTDRRMUZCS0JTTzg2d2JtTVZxZnFLX2s0dXdDTWRlT19ZTWFmTndVSW9IWHNqWmJveU9KQzlaWWhielRmc1h2U29ZQzJfNnJ1Slo2ZS0zaE82UmdRZmd2dnhadFZiWXVZX0NveEJuZ2NkTUVWSDZfRUFVd3FkUVRSWGVGeDVjWHhF?oc=5",
       "summary": "Who evaluates the evaluators? The data science behind agent evals Microsoft",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Perplexity",
+      "title": "US appeals court tests limits of 1986 computer fraud law in Amazon-Perplexity AI dispute - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmRTLVE1ZC1YdXJRa1MxREdkTzJHczFZQ2hyQTZMd180VnJ1Y2s2b0xzN3NfV1QwdEJHbDVMbDA3bWJUcUdLZmFzUkZvdUJKVEd5QTZySzUyU3UyOER3V3psbnpZUkJQbjlZVmNDN1VzeWFMQ0JVM09tXzN5N2VtRW85VFJ4TXU3cVRNOVJlMngtLXlwUzhacks0ZkxIZkhnajRCSnhXYzRobEN1YkR2bDFkNHNKMUw1Q0I4YjhjdzJlVGpGa0E?oc=5",
+      "summary": "US appeals court tests limits of 1986 computer fraud law in Amazon-Perplexity AI dispute Reuters",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -323,6 +339,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents - Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSW5BNkhvSXNYVEpPcDdMTDlINGIzZVVsazh5bjcyYW0yMWdKaGZ2UHVHWmEybmpLRE5ZblppR0U0c0VWcUZFaUFhTkFxd29UbzRvbmFTc1M4TDNDZXNhTXdoNUJweGdwaERaN0M2ZlBlaFhkUWIwZDdJb2xFNTZYSlgzN2JQNVpTOEpaNVQ5Um81Zk5XQ3ZyeV9hM1hFclJrMHBCLTVFVDY1YkdqRHMtaVVIeTdicVBmdlQyWTZIN1dKT21XcTZiNWh2TU0xVWF3?oc=5",
+      "summary": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents Microsoft Azure",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Microsoft",
       "title": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2I2a1N0emY0M0s5QmlreWxzRmx6YWNFcTJDa18zTTJzMFRacUV6dkliRVIycTNOSjV4Vy1rRHFDaXZrS0cwM2JWbWx4UlBiVlVLRGF6TWtmRzU0Wm03QWdGdzh4aHhJTnJVNXNBVXNWekFNYXJFWVFDSlZaVmJBcTVyLXRTZExNaTRPTEpRRE1MUGhfT1JGZVR2ZU9qQkdvaktMaXd4X0JjOGtEOEdnZklFM0V2Ql84VHVGMWpfNGdocldmQVdHa2RURVhoX2pzNGZxZHZ6UVhwUkVPanZ5U0R2WWM0SEk?oc=5",
       "summary": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot Microsoft Source",
@@ -334,6 +358,22 @@
       "title": "Microsoft is force-installing M365 Copilot again after a brief pause - PCWorld",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajZ5MjBlX2JsQVdOVUNVbkpHekNuUGNubWJNUkI2ZXZJbFBWVHh0YjZSMk8xV29CbUJFSk1EazJ0RjRMY29IcWxMN2hWTXEwdWU0OHE0R29OQWQzck0wYl9UaHdRTFV4NmhPV1lOSEpOMTdjdkhCcHU2REpHaTBZc2t0WWVtTlVVSk9MWmU1dTQtUndVeXBkejRZWU5qQmZxTzd2dW1nUDJQdVdsU21SalR0QQ?oc=5",
       "summary": "Microsoft is force-installing M365 Copilot again after a brief pause PCWorld",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
+      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVpZENXZ2NCb0YwbTF0c0ZibDl4YkFEaHpiQmhSOUVELXRaYkFUdHVLelVkUF9FNWZ0Sng4dFhRWEZBeGJiTzZFUHhaNm50NHMwVUl6QXlXT2Y3TjZBaXUxNmxZRGJNTXpsb2YydzBVSnViVTJfdjlUSl9iRjRmQ1BxLVdmdjdFZGtVRDBQWFRfbXQ4VFIxYzNSWWt3WkloSUE?oc=5",
+      "summary": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO PYMNTS.com",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -378,30 +418,6 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVpZENXZ2NCb0YwbTF0c0ZibDl4YkFEaHpiQmhSOUVELXRaYkFUdHVLelVkUF9FNWZ0Sng4dFhRWEZBeGJiTzZFUHhaNm50NHMwVUl6QXlXT2Y3TjZBaXUxNmxZRGJNTXpsb2YydzBVSnViVTJfdjlUSl9iRjRmQ1BxLVdmdjdFZGtVRDBQWFRfbXQ4VFIxYzNSWWt3WkloSUE?oc=5",
-      "summary": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO PYMNTS.com",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
-      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity CEO confirms 2028 IPO plan amid AI listing race - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
-      "summary": "Perplexity CEO confirms 2028 IPO plan amid AI listing race qz.com",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Meta",
       "title": "In A.I. Blunder, More Than 34,000 Instagram Accounts Were Attacked - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
@@ -426,14 +442,6 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
-      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses UploadVR",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence - Forbes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlg3R0NEcEs2SG5EQ2xaU2FveEthWFJUS2dUaTVqeVpBNnhUMFhYSmVSOGVjSll6aGxuYkhDUFBrMmJUd3RWQnpzbXJmb3BTd3p2WEFNMGR5VnJKNTJlREdHbGN2akI0dGdibUFpd0dsLWZzc1V3M19hVnBqX3FJeE5fTmExWEF3a3NZN1V2eHVDWm1vUmNHZWdvRDRUeTF4MnQwUHhpUktJQnVFODZoNHRn?oc=5",
@@ -446,14 +454,6 @@
       "title": "I Tested Microsoft's New AI Models, and They're Surprisingly Mediocre - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2FXZHBvWXJBY1c3d3Q0bEZMd0Rwb3VZa0VnUUVRcWZWMkpZcE15U0lHYXF4YVFOaFdvYkgxOEpza1hTNUxDUndZYTBTT01iQ3FVaDhJVVhLdjNndWZib0poTlR2LUpCamlzbGxkM3M4cFpORVp1TFkwMHFnM2VIbGx4WkRqQkFlVm4xZDdzOTNya2tUd2lqMzVLMU9mRE4zTUE?oc=5",
       "summary": "I Tested Microsoft's New AI Models, and They're Surprisingly Mediocre PCMag",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft and Copilot just hit a jackpot in healthcare - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkIwNlhRQkJoT01lTllWYUdrUUtTdS12X1NkTWlwUUI2N3AzMG9XSk1sd0xGc3BLVVNqMXRJQ0FwaWVaZUZFWVRjSGtyYUJmeU0zWjFFeXlpSE9hWDREQkNpMXlhTktYUGxqV0dKalplVnV1UjZEb09vby1MRTJzaVk5Z2hxc2Y0cnM0aHd1U3VpWjJnVG56MFl3?oc=5",
-      "summary": "Microsoft and Copilot just hit a jackpot in healthcare thestreet.com",
       "badge": "new",
       "date": "2026-06-08"
     },
@@ -547,17 +547,17 @@
     },
     {
       "company": "Amazon",
-      "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare - Electronic Frontier Foundation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWg4QVl5VEdJWkRfS3VqWnIzeU1BZ3hkUXQxT2lHRndYM2NqRkhvM19fMVF2WVlJRmNCUldjSERULWMybW54YTNkQTJLc1kwV1hjX2R1RE5jdS00U3RzdEdPNVI1LXFxU0wxOUd4TzdrZ3MzVUJWR011MTJsS1dVYXcwTWJOc3RnOWFVbVZ2OFlVdmVaemZ4enBjMGZWMDVUNjdNZFpKZXUtRW5BMC1WbUZ3LWV0YUNn?oc=5",
-      "summary": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare Electronic Frontier Foundation",
+      "title": "Ring's AI feature raises privacy alarms - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xNjQ2TkFRemtVcWVoT05TVXVHN2VVbDBwbzlreDhMM2ZRVDQtWnpGcXZ5eWRNRENMVElJTVpFZXEzXzFxWWdYNkhRb3pTTjRRNkFXV2RvanY5N0lpTjFUSVpxOXptaFBvWFJJb0FfeHltd9IBd0FVX3lxTE54OERmRVp4dmYtcXlEVlZybmZwS3F5UEdVaFhodkF6ekpwYmlqakRPSVJjYXVlOVk2ci1TZnlaaDY1c1NYVk9tdjBWUXhaWFhVZjhucHZ3V0taUEN1cDFuWUd5VEdJYWF6UVF1NnNRSWV3eVc1alB3?oc=5",
+      "summary": "Ring's AI feature raises privacy alarms FOX 9 Minneapolis-St. Paul",
       "badge": "new",
       "date": "2026-02-10"
     },
     {
       "company": "Amazon",
-      "title": "Ring's AI feature raises privacy alarms - FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xNjQ2TkFRemtVcWVoT05TVXVHN2VVbDBwbzlreDhMM2ZRVDQtWnpGcXZ5eWRNRENMVElJTVpFZXEzXzFxWWdYNkhRb3pTTjRRNkFXV2RvanY5N0lpTjFUSVpxOXptaFBvWFJJb0FfeHltd9IBd0FVX3lxTE54OERmRVp4dmYtcXlEVlZybmZwS3F5UEdVaFhodkF6ekpwYmlqakRPSVJjYXVlOVk2ci1TZnlaaDY1c1NYVk9tdjBWUXhaWFhVZjhucHZ3V0taUEN1cDFuWUd5VEdJYWF6UVF1NnNRSWV3eVc1alB3?oc=5",
-      "summary": "Ring's AI feature raises privacy alarms FOX 9 Minneapolis-St. Paul",
+      "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare - Electronic Frontier Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWg4QVl5VEdJWkRfS3VqWnIzeU1BZ3hkUXQxT2lHRndYM2NqRkhvM19fMVF2WVlJRmNCUldjSERULWMybW54YTNkQTJLc1kwV1hjX2R1RE5jdS00U3RzdEdPNVI1LXFxU0wxOUd4TzdrZ3MzVUJWR011MTJsS1dVYXcwTWJOc3RnOWFVbVZ2OFlVdmVaemZ4enBjMGZWMDVUNjdNZFpKZXUtRW5BMC1WbUZ3LWV0YUNn?oc=5",
+      "summary": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare Electronic Frontier Foundation",
       "badge": "new",
       "date": "2026-02-10"
     },
