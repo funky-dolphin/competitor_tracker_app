@@ -1,12 +1,44 @@
 {
-  "updated": "2026-06-12T14:47:30Z",
+  "updated": "2026-06-12T20:03:26Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
     {
       "company": "OpenAI",
       "title": "How Preply combines AI and human tutors to personalize learning",
       "url": "https://openai.com/index/preply",
       "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "badge": "hot",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Results from the first Anthropic Public Record - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
+      "summary": "Results from the first Anthropic Public Record Anthropic",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "SpaceX Rented Out Computing After Own Teams Had Trouble Using It - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX196Q0xOdWx6bHd1LTY1Vk1SRng5M094UjZEaW1VdmRyMDAxdFk2bHpZUVJ0ODI5MW1vN092YUJ2aHBPRlQ4U0R5Q2xXVC0zUDhsLXJyUm5KaWdmbXdhakR1bjgxLWFFRmZSY0RfWk1ieDVkWjg4Vm1JRXI4b3hONFU3d2RDTXB5Zk1yWGhRVnMxNnZDYnRKeEs4ZWZIeXlQVUY3WlkzNTFtMFFSdHFzeUs2d3ZyQQ?oc=5",
+      "summary": "SpaceX Rented Out Computing After Own Teams Had Trouble Using It Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet - The Register",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTFWVVRKNUJzMnB3LUZYRHZHcEt6MWl1bmx4WFd1OHpvcjFCeUJVT3g1S29SMnQ4cE52R0R0ckljeVU1aVJRbHV5aWxiQ0JMSi1NZThYM1k3M1RmNmlwSUhKZlowaGtNdWcwZVQwVVAxWG1kT3pYNXZKaDlaSDhxUURPa3dfdVBNaERjbWFhbncwNlR6MGNVV1NyaG9LNE5YdHZRX0dMbGhvRmFuOF9jUDlqODZqT0pBM2t2RV8wWWttczNVX2FUb0ZJQ1pwdXYxb2dhVXdLMW9nWTJlclc3WldvTGJWZVZESzFIVnhpbV9sWEY3a1JFa1pGbFptLTJqX3FjYTdlUQ?oc=5",
+      "summary": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet The Register",
+      "badge": "new",
       "date": "2026-06-12"
     },
     {
@@ -51,19 +83,19 @@
     },
     {
       "company": "Meta",
+      "title": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhZTkFMcTNNam4zbVlUZF81Tm1nQnBQaHh0b1JhZmFPSDhxc0JsQ3c3VzR3THdWOFpsaVFLdHJfTnB0MUhLbjVzejA3SVlhQzF2WGRVN19iY09KSTFMQ1JZLXA3c3RyU3owUkczenFwdzI2bHVaQmFuaUQ2eExKeTdkMUExUHNWZThCU1VSMDBDMndrdDIyUEE2cmNpWHplVGN0Y3MwS21GdU5lTHdTM1hIdw?oc=5",
+      "summary": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions The Information",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Meta",
       "title": "Meta's AI Spending Looks Insane Until You See What It Is Building - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGRjb05LdTQtZmtBWmJWT09saHo2SnRRbXVlZndKV3BGUHlYcWVRbjZqZEhnZC05eldLWFo2ZTdleUl2NkNsUzJUUUtkQ1hZSENXdzV1MUZPTktYNEZhdVctNk5wbDBFN1h6Ny1ydVJYbkpHTnkxWFd0UFozcmN6VGpMSDJqLURsbWo3QUtRREtMUldvRFNTalppbF9FTzR5cnNDWGFZV1VZamJ2amo4?oc=5",
       "summary": "Meta's AI Spending Looks Insane Until You See What It Is Building Seeking Alpha",
       "badge": "new",
       "date": "2026-06-12"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "badge": "new",
-      "date": "2026-06-11"
     },
     {
       "company": "OpenAI",
@@ -90,11 +122,11 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Anthropic",
-      "title": "Introducing Claude Corps - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "summary": "Introducing Claude Corps Anthropic Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' Fortune Anthropic CEO floats AI tax to fund universal",
-      "badge": "hot",
+      "company": "OpenAI",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "badge": "new",
       "date": "2026-06-11"
     },
     {
@@ -107,17 +139,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlFpZm1DM1NFOHo3N0daWFVfMS11VUQ0ZHIwV0hfQV9Ra3Z3Um1LX1kzeTlibjNuTTE5d0RLdzRhcjRoVHVETnlQeXg3SmR4MUJOTmRNTUs5ZURrVE5sX1VheWFpNXE1ajJxNjFlbmFpUkJNSnhZUFdIQ3M0WHFNb05Wd3E?oc=5",
-      "summary": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. Barron's",
+      "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUNIWFRQb0tpNklJcmlMaTkxZlMzLVdnTm13Y1U5Wi1LNE1TV0dYWUd2UWltdW9JMGQ2eWJCT0NYUmNER2ZIQzR2ZFRwTF9QZ09WUWwwWTJHOUY2RHhWczNZN1FHRmZuM1BONE1rLW02VF80RE9nRmZQMnRwOWZlY2cyQ3hRb0xFVGt6amJBZldfNWZOSERCbkpXaDFzRkkwZ19Z?oc=5",
+      "summary": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? Yahoo Finance",
       "badge": "new",
       "date": "2026-06-11"
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUNIWFRQb0tpNklJcmlMaTkxZlMzLVdnTm13Y1U5Wi1LNE1TV0dYWUd2UWltdW9JMGQ2eWJCT0NYUmNER2ZIQzR2ZFRwTF9QZ09WUWwwWTJHOUY2RHhWczNZN1FHRmZuM1BONE1rLW02VF80RE9nRmZQMnRwOWZlY2cyQ3hRb0xFVGt6amJBZldfNWZOSERCbkpXaDFzRkkwZ19Z?oc=5",
-      "summary": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? Yahoo Finance",
+      "title": "OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM19FWXJhRmVxb1FqLWNQYWhhWTdranhGYUtubUNka3U2SlhsRDZ4V1hrX0dUNE0xOV85TkZyeFZSM1hMUHRkdnFGM3ozeXY4Tlo0ZGpfQ1A0SWR3YkExT2VPbS1QemhnVFI1NExnXzJsbVJhQ1FMR2ZmcWxfdUItV2ZNNHZWNk43cWh5RGJVUzBpVHZwY0M3bmFqR25tdm5mU2daUlYzSUJ4ZFFrSngwWGZHUQ?oc=5",
+      "summary": "OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude Corps - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "summary": "Introducing Claude Corps Anthropic Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' Fortune Anthropic CEO floats AI tax to fund universal",
+      "badge": "hot",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlFpZm1DM1NFOHo3N0daWFVfMS11VUQ0ZHIwV0hfQV9Ra3Z3Um1LX1kzeTlibjNuTTE5d0RLdzRhcjRoVHVETnlQeXg3SmR4MUJOTmRNTUs5ZURrVE5sX1VheWFpNXE1ajJxNjFlbmFpUkJNSnhZUFdIQ3M0WHFNb05Wd3E?oc=5",
+      "summary": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. Barron's",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -146,30 +194,6 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDh4LVp0THJqdkhQSkFobG9yZGsxcnpoWWVtTUpJa3dSeTFGUTlvOHNfZFJYTTRKTV9jcldIWjlsWm1mS3R5Q2o4ZEpid1dpNXdEUkp0MHhXLTBQSFJBT1NCSTBBR2hRZU9LN0VwNGR2T2tjU3hvR1ItRHpzd3YwRGdTd2xTdThCQlRvYUFR?oc=5",
-      "summary": "Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' Fortune Introducing Claude Corps Anthropic Anthropic pledges $200 million to research AI",
-      "badge": "hot",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Amazon's Hidden Anthropic Stake Could Be Worth More Than Investors Realize - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEJYRWg0ZVZDQzN2aThhMXh1QTFVYW5zQTVyOTJXaENSVjBwcE50RHIyXzRmWVVyZ2NPSXBlbW1LYi00V0l6SVl4VkxITjhBYzZ2b0NPU0NPXzNGaEM0Sm4zUHM3bkFVQUF3ZEIyZ1B5TE9TTGNRYUFXRm5SczhNZ2NqRE9QNHE4MVA2ZjJ4TVJuQndWSmNBb0VyMk1KajI1SDRN?oc=5",
-      "summary": "Amazon's Hidden Anthropic Stake Could Be Worth More Than Investors Realize Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd09NdEpKY2pWLTJsVmtMS2JDVVRGbks1OE10X2xPLXZONmZTWm9ndlJyRVRfNGNvUW14b05EYVcyOFI4TlhvaG5pYlRDV3dweGNPNTQ3RmhCMzc5OER1Yll2emhZTmlCbXh2LS05VjY1VlRqQ2VWRmxwU0Y1cVc0cF9OTDJVQQ?oc=5",
-      "summary": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions WSJ Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude WIRED Anthropic rankles users with sa",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
       "company": "Google",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
@@ -179,10 +203,10 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft's search lead unveils a Bing 'kill switch' for Copilot AI answers: \"Not everyone wants AI for everything\" - Windows Central",
+      "title": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5jU3JOTFlfcXdLZ2p3VG4ySnZtWVZ2LTlXei1iX0F3MjVBY2EtQm04Vl9HOU5ramx4NzVQWGJKM0N0eG1jM0lpYk1uWkNTZE1kZmxBd2dLVWZ0YXNaRGxuWkRYeFIyeExiaHNVeDVrc3B3N2FhRDUyZURvdVMtTEhlU3ZMOXdwa21NYnRPUVRNRk9IeFlBa2k4TGlIUGhia2pKc2IxOTF4YVlmRWJGeWhPazg3WVQ3QWc?oc=5",
-      "summary": "Microsoft's search lead unveils a Bing 'kill switch' for Copilot AI answers: \"Not everyone wants AI for everything\" Windows Central",
-      "badge": "hot",
+      "summary": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" Windows Central",
+      "badge": "new",
       "date": "2026-06-11"
     },
     {
@@ -315,6 +339,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta signs first AI data center deal in India with Reliance - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFUaW1pRGhMUVR0RWFKRUdmVnVHMFFNVkNzZTluYjJvVkltMkhHQTIwaDJKdVZQVm5oNXlLTFRKb3NUWFpIYlZqNTE2MHNIeExsNFpSY2VaVGJUMF9lQlVhRi1UdldYTGJHMWpYSzZVbkZUcHdSaHBhUTlpZkljOXlSdnhYazJPM3VqWFA1MjZLSVZRblg2OS1R?oc=5",
+      "summary": "Meta signs first AI data center deal in India with Reliance TechCrunch",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
+      "company": "Meta",
       "title": "Meta deepens partnership with Ambani's Reliance with AI data centre - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc2aGhiaC03Vk4xMTA0MHcwd0JoWEFQTHdlLUhYbTJJN1NqeEpycTU5eUZQSHY2akt1LVE1MVMzaUxmLUVuQWU5SHpZMW9RWjB0ZWlxZE41czdzdkdDS3F2OE05UktOckZhNHhEdTFlakpCTUN1dE5seGc0U25oSE1vcjhfdDJZcS1JSmlfZkI2OTFHSFpVcURxOFkwZ0RIeFphdUpB?oc=5",
       "summary": "Meta deepens partnership with Ambani's Reliance with AI data centre Reuters",
@@ -326,14 +358,6 @@
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "url": "https://openai.com/index/nextdoor",
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "OpenAI",
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -363,17 +387,25 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
-      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
+      "title": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVpZENXZ2NCb0YwbTF0c0ZibDl4YkFEaHpiQmhSOUVELXRaYkFUdHVLelVkUF9FNWZ0Sng4dFhRWEZBeGJiTzZFUHhaNm50NHMwVUl6QXlXT2Y3TjZBaXUxNmxZRGJNTXpsb2YydzBVSnViVTJfdjlUSl9iRjRmQ1BxLVdmdjdFZGtVRDBQWFRfbXQ4VFIxYzNSWWt3WkloSUE?oc=5",
+      "summary": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO PYMNTS.com",
       "badge": "new",
       "date": "2026-06-09"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVpZENXZ2NCb0YwbTF0c0ZibDl4YkFEaHpiQmhSOUVELXRaYkFUdHVLelVkUF9FNWZ0Sng4dFhRWEZBeGJiTzZFUHhaNm50NHMwVUl6QXlXT2Y3TjZBaXUxNmxZRGJNTXpsb2YydzBVSnViVTJfdjlUSl9iRjRmQ1BxLVdmdjdFZGtVRDBQWFRfbXQ4VFIxYzNSWWt3WkloSUE?oc=5",
-      "summary": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO PYMNTS.com",
+      "title": "Perplexity Locks in 2028 Public Debut as Anthropic and OpenAI Kick Off AI IPO Stampede - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnp4MDV3RE82dk9ERjJiLUxxRmlIYkhPR3VGV3ljNHgwSlo4NW9oNUJyQTdxVy1mSHpMbXlsV1M3YmdSOTVLRURkTlNRUG5SSkdiSU1LTXJUS1htNDc2Ti1mNXN2NU9qamtPaXkwTUlWXzVpM25vNmdHdlBzOGtRNXBlc1EwT0ZUamstb2lPSzFiY0pHR3FGSlI4ODAyTTdabjBOMGhGa0U1T01lOFpMRUl3ZHR6MjA?oc=5",
+      "summary": "Perplexity Locks in 2028 Public Debut as Anthropic and OpenAI Kick Off AI IPO Stampede TipRanks",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
+      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -410,22 +442,6 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
-      "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Meta",
-      "title": "In A.I. Blunder, More Than 34,000 Instagram Accounts Were Attacked - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
-      "summary": "In A.I. Blunder, More Than 34,000 Instagram Accounts Were Attacked The New York Times",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Meta",
       "title": "EU orders Meta to open WhatsApp to rival AI chatbots - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkM0ZFdklmQjR6VkN6cU03ZUpGWERzekdFQzVyMDFxSWdkSEtpdkhkUE5EZUJQRjFJcW5nb3RyczhBMkVuS29WUmtmWFY2cUQzTk5ITzg1TF9DUQ?oc=5",
@@ -434,26 +450,10 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta builds its AI data center worker pipeline - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWVGblVwS2ZEdElVUGsyX2N1X0hQS0lQMmI4Q20zZkJ5cHhTWnBFYkJzOXVFakhVZHBfajFBY1BaTXBJOGxMaDYzRUZkZnBUUEJabWVuaXplUlI1UWt2ZWpaY29qWE9iYmJmNE12bEVHTGhjSUxob2ZSZXltcG9meVI3Q0dMSGtY?oc=5",
-      "summary": "Meta builds its AI data center worker pipeline Axios",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence - Forbes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlg3R0NEcEs2SG5EQ2xaU2FveEthWFJUS2dUaTVqeVpBNnhUMFhYSmVSOGVjSll6aGxuYkhDUFBrMmJUd3RWQnpzbXJmb3BTd3p2WEFNMGR5VnJKNTJlREdHbGN2akI0dGdibUFpd0dsLWZzc1V3M19hVnBqX3FJeE5fTmExWEF3a3NZN1V2eHVDWm1vUmNHZWdvRDRUeTF4MnQwUHhpUktJQnVFODZoNHRn?oc=5",
       "summary": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence Forbes",
-      "badge": "new",
-      "date": "2026-06-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "I Tested Microsoft's New AI Models, and They're Surprisingly Mediocre - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2FXZHBvWXJBY1c3d3Q0bEZMd0Rwb3VZa0VnUUVRcWZWMkpZcE15U0lHYXF4YVFOaFdvYkgxOEpza1hTNUxDUndZYTBTT01iQ3FVaDhJVVhLdjNndWZib0poTlR2LUpCamlzbGxkM3M4cFpORVp1TFkwMHFnM2VIbGx4WkRqQkFlVm4xZDdzOTNya2tUd2lqMzVLMU9mRE4zTUE?oc=5",
-      "summary": "I Tested Microsoft's New AI Models, and They're Surprisingly Mediocre PCMag",
       "badge": "new",
       "date": "2026-06-08"
     },
@@ -547,17 +547,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring's AI feature raises privacy alarms - FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xNjQ2TkFRemtVcWVoT05TVXVHN2VVbDBwbzlreDhMM2ZRVDQtWnpGcXZ5eWRNRENMVElJTVpFZXEzXzFxWWdYNkhRb3pTTjRRNkFXV2RvanY5N0lpTjFUSVpxOXptaFBvWFJJb0FfeHltd9IBd0FVX3lxTE54OERmRVp4dmYtcXlEVlZybmZwS3F5UEdVaFhodkF6ekpwYmlqakRPSVJjYXVlOVk2ci1TZnlaaDY1c1NYVk9tdjBWUXhaWFhVZjhucHZ3V0taUEN1cDFuWUd5VEdJYWF6UVF1NnNRSWV3eVc1alB3?oc=5",
-      "summary": "Ring's AI feature raises privacy alarms FOX 9 Minneapolis-St. Paul",
+      "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare - Electronic Frontier Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWg4QVl5VEdJWkRfS3VqWnIzeU1BZ3hkUXQxT2lHRndYM2NqRkhvM19fMVF2WVlJRmNCUldjSERULWMybW54YTNkQTJLc1kwV1hjX2R1RE5jdS00U3RzdEdPNVI1LXFxU0wxOUd4TzdrZ3MzVUJWR011MTJsS1dVYXcwTWJOc3RnOWFVbVZ2OFlVdmVaemZ4enBjMGZWMDVUNjdNZFpKZXUtRW5BMC1WbUZ3LWV0YUNn?oc=5",
+      "summary": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare Electronic Frontier Foundation",
       "badge": "new",
       "date": "2026-02-10"
     },
     {
       "company": "Amazon",
-      "title": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare - Electronic Frontier Foundation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWg4QVl5VEdJWkRfS3VqWnIzeU1BZ3hkUXQxT2lHRndYM2NqRkhvM19fMVF2WVlJRmNCUldjSERULWMybW54YTNkQTJLc1kwV1hjX2R1RE5jdS00U3RzdEdPNVI1LXFxU0wxOUd4TzdrZ3MzVUJWR011MTJsS1dVYXcwTWJOc3RnOWFVbVZ2OFlVdmVaemZ4enBjMGZWMDVUNjdNZFpKZXUtRW5BMC1WbUZ3LWV0YUNn?oc=5",
-      "summary": "No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance Nightmare Electronic Frontier Foundation",
+      "title": "Ring's AI feature raises privacy alarms - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xNjQ2TkFRemtVcWVoT05TVXVHN2VVbDBwbzlreDhMM2ZRVDQtWnpGcXZ5eWRNRENMVElJTVpFZXEzXzFxWWdYNkhRb3pTTjRRNkFXV2RvanY5N0lpTjFUSVpxOXptaFBvWFJJb0FfeHltd9IBd0FVX3lxTE54OERmRVp4dmYtcXlEVlZybmZwS3F5UEdVaFhodkF6ekpwYmlqakRPSVJjYXVlOVk2ci1TZnlaaDY1c1NYVk9tdjBWUXhaWFhVZjhucHZ3V0taUEN1cDFuWUd5VEdJYWF6UVF1NnNRSWV3eVc1alB3?oc=5",
+      "summary": "Ring's AI feature raises privacy alarms FOX 9 Minneapolis-St. Paul",
       "badge": "new",
       "date": "2026-02-10"
     },
