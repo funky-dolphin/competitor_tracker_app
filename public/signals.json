@@ -1,21 +1,45 @@
 {
-  "updated": "2026-06-11T20:14:19Z",
+  "updated": "2026-06-12T03:25:39Z",
   "signals": [
     {
-      "company": "OpenAI",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "badge": "new",
-      "date": "2026-06-11"
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-12"
     },
     {
-      "company": "OpenAI",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "badge": "new",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "badge": "new",
+      "date": "2026-06-12"
     },
     {
       "company": "OpenAI",
@@ -30,6 +54,54 @@
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDh4LVp0THJqdkhQSkFobG9yZGsxcnpoWWVtTUpJa3dSeTFGUTlvOHNfZFJYTTRKTV9jcldIWjlsWm1mS3R5Q2o4ZEpid1dpNXdEUkp0MHhXLTBQSFJBT1NCSTBBR2hRZU9LN0VwNGR2T2tjU3hvR1ItRHpzd3YwRGdTd2xTdThCQlRvYUFR?oc=5",
+      "summary": "Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' Fortune Introducing Claude Corps Anthropic Anthropic pledges $200 million to research AI",
+      "badge": "hot",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
+      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic WSJ Anthropic v. OpenAI: Behind the bit",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Amazon's Hidden Anthropic Stake Could Be Worth More Than Investors Realize - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEJYRWg0ZVZDQzN2aThhMXh1QTFVYW5zQTVyOTJXaENSVjBwcE50RHIyXzRmWVVyZ2NPSXBlbW1LYi00V0l6SVl4VkxITjhBYzZ2b0NPU0NPXzNGaEM0Sm4zUHM3bkFVQUF3ZEIyZ1B5TE9TTGNRYUFXRm5SczhNZ2NqRE9QNHE4MVA2ZjJ4TVJuQndWSmNBb0VyMk1KajI1SDRN?oc=5",
+      "summary": "Amazon's Hidden Anthropic Stake Could Be Worth More Than Investors Realize Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd09NdEpKY2pWLTJsVmtMS2JDVVRGbks1OE10X2xPLXZONmZTWm9ndlJyRVRfNGNvUW14b05EYVcyOFI4TlhvaG5pYlRDV3dweGNPNTQ3RmhCMzc5OER1Yll2emhZTmlCbXh2LS05VjY1VlRqQ2VWRmxwU0Y1cVc0cF9OTDJVQQ?oc=5",
+      "summary": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions WSJ Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude WIRED Anthropic rankles users with sa",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -67,14 +139,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
-      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
       "title": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmZ3bHZ5dGkxOHBxaDA4TW1vUHRORy1VdWdDMVkyTGlhTnlWVUFFM1JUR0lWQm9xWUF5eFRhTTJacDdMYncyb3d1V0lKbFpYMzUwSkIwN0toNVlZZy1SWWVnZi14aTdWOF90SUJLcjR1N2Z6Mk1OZ2dtTHhzV0Z5a1luWk95VG_SAYwBQVVfeXFMT1ZuZjRKTGV5VEpfYUN0dGlWb0h3aDVGaTE1QTdRUnJBQzNvNVQyT250X1JjWFIyblhKQ3NIVFc4LW9HQzVIX01lOXJ5d1hqbXdOekFmamNFYU0wbDJ2V3UxV2xEdHRrZWtVZklWYjduMkZkZ09wbDVra0dwbFlMS3lvZ1NwcDd6Q25BelA?oc=5",
       "summary": "Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London CNBC",
@@ -86,30 +150,6 @@
       "title": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlFpZm1DM1NFOHo3N0daWFVfMS11VUQ0ZHIwV0hfQV9Ra3Z3Um1LX1kzeTlibjNuTTE5d0RLdzRhcjRoVHVETnlQeXg3SmR4MUJOTmRNTUs5ZURrVE5sX1VheWFpNXE1ajJxNjFlbmFpUkJNSnhZUFdIQ3M0WHFNb05Wd3E?oc=5",
       "summary": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. Barron's",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
-      "summary": "Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss s",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hRS09mSFVOVFh1VWRvSUdOSXhKV1k4bGFKdGdlR2NISTNyVHUtMjF6UnBiU0JRT19yMldUX254VXZ0SVBVTkVGc1J0amI4Y1kwb0tEbnZOMG5yX0ZhSkc4UEI1WXJxcjQwa2VGdlUxNTJFNW9GTnctallrZndyTUJYRFpBdzFqMWUxbzFvZnVOWnk1UWh5Q1B1ckNXNFRhVE9QWTFraw?oc=5",
-      "summary": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnEtMHRDdUF6VkFPSkE5MkpSQ3pKNWdvWGpCd3dDU0dTTEE0UVF0aVhfOC0zaHRNYWdDWXFpQklCOXVRbEEwT19ZNVN3ZnVjRWRsejhMU09scUh1eTdTd2dGa3ltUXJQUHd4ZW8tMWJLU3FjUkRPYW5fQVRSUjJfZ2JnOTQ0NWFDb3NSYTFNa2ZaX1lRV2tmT1BmQmFlclFuT2NZ?oc=5",
-      "summary": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude WIRED",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -131,14 +171,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Who evaluates the evaluators? The data science behind agent evals - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVR1NGs1c2ZsOFhRN0ktd25lZXVyVi05b0tXLUhfZTUtclM3N0IzTHBMZEprZzBTLUtTTnhaY0x4TEhKYm9xT19neFhoUGJOTDRRMUZCS0JTTzg2d2JtTVZxZnFLX2s0dXdDTWRlT19ZTWFmTndVSW9IWHNqWmJveU9KQzlaWWhielRmc1h2U29ZQzJfNnJ1Slo2ZS0zaE82UmdRZmd2dnhadFZiWXVZX0NveEJuZ2NkTUVWSDZfRUFVd3FkUVRSWGVGeDVjWHhF?oc=5",
-      "summary": "Who evaluates the evaluators? The data science behind agent evals Microsoft",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft Copilot seats could be 'well above' Wall Street's outlook: BNP Paribas (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1yZFI1NXdnRUt3bmZJTWpFdlNNZGs2QUdXYnVDUzIybEZVYkg1bUV5Vm4zZFdpOVg3WHBmVUhkQ2tjR21Ka0lxbGNERjRBMWMzT091LTNFMW9mQVFXc0wyM1hFaTJheVNzX1A1UUhISjVvTDZHaVpGUnJDcXZ3NTFkREFMMW85OEI2dmFkeWUwMnZ6NmR6WHFEZGZDOG1IQVJsQmpKRjdVMy1ZT1B3Yy1qeGs?oc=5",
       "summary": "Microsoft Copilot seats could be 'well above' Wall Street's outlook: BNP Paribas (MSFT:NASDAQ) Seeking Alpha",
@@ -146,42 +178,10 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "company": "Microsoft",
+      "title": "Who evaluates the evaluators? The data science behind agent evals - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVR1NGs1c2ZsOFhRN0ktd25lZXVyVi05b0tXLUhfZTUtclM3N0IzTHBMZEprZzBTLUtTTnhaY0x4TEhKYm9xT19neFhoUGJOTDRRMUZCS0JTTzg2d2JtTVZxZnFLX2s0dXdDTWRlT19ZTWFmTndVSW9IWHNqWmJveU9KQzlaWWhielRmc1h2U29ZQzJfNnJ1Slo2ZS0zaE82UmdRZmd2dnhadFZiWXVZX0NveEJuZ2NkTUVWSDZfRUFVd3FkUVRSWGVGeDVjWHhF?oc=5",
+      "summary": "Who evaluates the evaluators? The data science behind agent evals Microsoft",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -198,6 +198,30 @@
       "title": "Meta’s Subscription Push Exposes Its Weak Hand in AI - WSJ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnRXeWFjWnEtRlJoNlJpWHFCSFkxODlGRWVoakQ5SXVGUFFVSWNNZWJXZ2dPdU1Ed0dpVzRuU3ltMUYxLXItWFhmelRTTVNfamZaU2M0enFJb0puaWUzcnhWVVFCNGwxbUNZaVhOcEFMZDFOVmdXUTVZNTRNX0xWS3BOV3dNQmFGWERVWnZ4bnFNQQ?oc=5",
       "summary": "Meta’s Subscription Push Exposes Its Weak Hand in AI WSJ",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazZKYlRDV1RJQ2NETFpoM1dUNk5TeDNZRnJSUnNJcXlITTFIcURoVkFPSHR1MkIzbVdLci1uc0JWdzVWdFkzMnBrX3FlcElVWkJldzVXZ1FxaFh4eGpZYUl0aWNBajMwQXhlQlRWaFptRzN6N0dscVVVTUNuX2t0c1JFdmo2Z2xEeHd2STRuSkFuQm80NTBOUkpCNnZUYW02TVQ3ZlBR?oc=5",
+      "summary": "Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training' Yahoo Finance",
+      "badge": "hot",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Stock Slumps Further As Bulls And Bears Debate Tech Giant's AI 'Evolution' - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1keXRGaTJaWTVORVI1VXVRdmpsX2g2NkNrNks3clZBR0t4YkVYemlmVkhDMEdwUzR3N3VXYkVlLWtMMVRVWmNpQnNldXZMUDJFNHI4elB3YXBIWjJyOXRXMWVfSGlEOGdYZDI2amVvTVE2dE5QRU1tdXJ3LV9BQQ?oc=5",
+      "summary": "Meta Stock Slumps Further As Bulls And Bears Debate Tech Giant's AI 'Evolution' Investor's Business Daily",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMk1MN2Zuam1PLWZ5S1pHbG5iLTVRTlJQWjhMSnVuVGxpRy15eHIzTEtHakk4Y0NFT2Fwenhldl9tZWdTY2dkanhBWXg2cGlFb3h4QkNVQ01XVjZUS0RHR1JtTVYzdUtSeF9sMVRJUTl0RjFIUnBzUzlSdlo?oc=5",
+      "summary": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features The Verge",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -307,6 +331,22 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity Locks in 2028 Public Debut as Anthropic and OpenAI Kick Off AI IPO Stampede - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVzRpRlpxaG5uU3V2QzV4VENwS296WEZpNTRtdm5yR3ZHNTdoYm9iN2N1QS1pSGUwQW1uVVJfZEFRa0RMYjdienFqSUpza2FwcnpPQkU4R01QUzNlTnBNNnRNNjF2QU5VUGkwdnBXLU03TnhzeF84UTlrVEJZOG4tRWpTVVkzRUJqYnEtbXZTSDJWMnpqcWMwQWsteEhVaDFXZndaMWI5eDJzTTBLZkxLMXJvVFNXT1VMUXpFQ2FBUWJQcnB1N25iTTZBTy1vNjg?oc=5",
+      "summary": "Perplexity Locks in 2028 Public Debut as Anthropic and OpenAI Kick Off AI IPO Stampede TipRanks",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
+      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
+      "badge": "new",
+      "date": "2026-06-09"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
       "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports Reuters",
@@ -339,14 +379,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR283cjVzZTFwSzl4OXRqTVctUWxBcG1rSDVJbHdiaWphWngzUXdZZmJhOTVXWjhpbWdjSDBybGQwNnNyUDlVTEFTeUt1SW0zUTVabkNKZFZmbmdmS3JSbGxSWVhYUE1aVTl2SWNyUmlrZFJ6Rld4NjluXzRidUg0NjJ3ZEh4Um9GMmZQbG1LcFFsY3FBbWJmWGQtWEQtSFlrOVVYU2I5Zw?oc=5",
-      "summary": "Perplexity's CEO says it's still aiming for a 2028 IPO, regardless of how OpenAI and Anthropic fare Business Insider",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity CEO confirms 2028 IPO plan amid AI listing race - qz.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
       "summary": "Perplexity CEO confirms 2028 IPO plan amid AI listing race qz.com",
@@ -355,9 +387,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
+      "title": "In A.I. Blunder, More Than 34,000 Instagram Accounts Were Attacked - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
-      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts The New York Times",
+      "summary": "In A.I. Blunder, More Than 34,000 Instagram Accounts Were Attacked The New York Times",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -382,22 +414,6 @@
       "title": "EU orders Meta to open WhatsApp to rival AI chatbots - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkM0ZFdklmQjR6VkN6cU03ZUpGWERzekdFQzVyMDFxSWdkSEtpdkhkUE5EZUJQRjFJcW5nb3RyczhBMkVuS29WUmtmWFY2cUQzTk5ITzg1TF9DUQ?oc=5",
       "summary": "EU orders Meta to open WhatsApp to rival AI chatbots BBC",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXp3X1FBSF9FaFhHYXROV2RXZGlhSm5QemljMlBHQ25xbmpZM3I1dGtuc20tQmN5ME9SN2hTS09aZjVzZjdiU0RZQ3Fsb3QwS2I5UHdWc2VMTHpPdU9DWEx3YndGV2tza3dsQUJIZUpsUXNwOE1vVV8wRzZBQ1AwQkNlbnBDazNpMmZ0OHBjVk4yRTdyUThpdEg1ZGIyYkpZWUhNdm5LdF8yeHlHN2w3Tg?oc=5",
-      "summary": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free Reuters",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Pro-Iran Hackers Outsmart Meta AI Chatbot, Access High-Profile Accounts - Foundation for Defense of Democracies",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlFqSmZEMEFicjNmdTA4c242Vk1MbkZHcWVRdk9CQ2l2V09CWWZiUXB4Sjd3UVF6c2JzMEp2YjlPaGpxaFB4ZXZuaVRIdWhTclpQUFFmcFEtLUdZZ0dQWlloNVp4cy1hWUs1Nk5sRjJDS1lJMnZERHZDYXA2UTd0TnFUVmlZbXFabFZMX0hWNTlvaE54ZmlxMXFiWlduc1V3V3pCRUdLa0FWUG4yNTZpZw?oc=5",
-      "summary": "Pro-Iran Hackers Outsmart Meta AI Chatbot, Access High-Profile Accounts Foundation for Defense of Democracies",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -475,17 +491,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
-      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
+      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
       "badge": "new",
       "date": "2026-06-02"
     },
@@ -544,14 +560,6 @@
       "summary": "Amazon adds controversial AI facial recognition to Ring Fox News",
       "badge": "new",
       "date": "2025-12-25"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring introduces its first-ever 4K cameras and AI feature that helps find lost pets - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lUGhramlvRXlSa20yMTlGLWx6SUJ1VGpXaG0yejFpZi11QzB6RWRMVjVSRUU0LVNZc3A2LURCSGhTM1NnR3RBZ05XcUhqXzRqLTNZUHpsZ215Nml1Z0txSW9uMDEzMUR4MkF2ZVdaWm1uRjYzOVNqTQ?oc=5",
-      "summary": "Ring introduces its first-ever 4K cameras and AI feature that helps find lost pets About Amazon",
-      "badge": "new",
-      "date": "2025-09-30"
     }
   ]
 }
