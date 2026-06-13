@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-13T02:52:40Z",
+  "updated": "2026-06-13T08:51:54Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQndha2NfQ0ZvbE1DU2gxUFBrLWdGU2x3RjFlbGQ0MG1TSzBVVlRrUFlqbFZnUERDbW1oYmY3cTV4UnZkelZ4TEtLa3ZabEpCcXJVQTZEZjFyT2hWdEFERXpVdDR2OUhCWnVEbklSeEJGU1gxaGdvdmt2d0psY2N3RnlHdjMtOGIxOHV2cXpuUzlqVk42TkYxbEpMOVJzenZ5VVg1b29rcUpnRFlWSDQxV3FWMm5fY3lyVnlQU29BONIBxAFBVV95cUxQUHNqZzhHU1lSVGhtUmhjSF9iS3o5VG0wM1NZM2RfckdPWWhUZURYUGVhaW1VdVZ0bWJaeHd5Uk9RUDZIRmh0X3RZY2Eyc1hzSGtqSTlzTEJrVEctMW1oUWZUNURTQV96dm42NF9nWTBnZDFuSWxTMGNIX0dGZUs2TWFYXzAwWVBKRUhFdHIxd2JXcnczX0w1UUwzZ1EzT3pXMDhxVFZaZTNGbmRKOUc4cVJWSDY3dXVpQkVxYlphWFlnYS1v?oc=5",
+      "summary": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive CNBC",
+      "badge": "new",
+      "date": "2026-06-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGkxeVNGNm10OTRUUUV2SFZOa3NoZUw4ZEl1cUNGRUNKWVR0eTdJMlAxSTMyTU05amxSbE5NUmo0X01RQUFUTHV6bnM1ZmpBYkUxY0ZQejlTY3VJaFA2NkFESDdvNUdBcVRxWjJIZksyYXdoSU5uMHBmYkVhQ0JadmptQ1FVY2IzVTFsaEhEa084VXlVMjJ5a01wQ0lSOF9hMnROWTFZYjNIM2w2VUVxM0ppaHlmaFowNzRKNzNpZnIySEdSWmc?oc=5",
+      "summary": "Anthropic says it has taken its latest AI models offline to comply with new export controls The Seattle Times Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use WSJ Scoop: Trump adm",
+      "badge": "new",
+      "date": "2026-06-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZTNFalowWHVUV2FhOGlEcWgxVWdISzBVLXJfN2FXOXBjdkVhRG0wVFRyNURuMHNxREtKeENYSkdWdm45OXBTd2xaUzlZQjBTQ2dQWjgzOUtCZw?oc=5",
+      "summary": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears BBC Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions WSJ Introducing Claude Corps Anthropic",
+      "badge": "hot",
+      "date": "2026-06-13"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic suspends new AI models after government directive - NBC News",
@@ -58,6 +82,14 @@
       "date": "2026-06-13"
     },
     {
+      "company": "Meta",
+      "title": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjY2dDg3bWt1LUg5SlNIZkxrbUJZQV9zN3VEZXVYQ2FBQkZ1RGU4ZEFqMVV2S0s5NnU4YUtCd0VTT1MwWGRraXJzc3RFdEdEemViUzAzaElaX1FHYWlrVHBlR2VTSkVVTWJqdXJaUmNmSTVnZzh4elFVTWZFRWVqSWxKYkxLVjZieFBiM0xLZXVHMGE4U1dtdFNyTW9EWEIyazl2c0JHVmFZbnVUdFlQSNIBtgFBVV95cUxNTU9PMFlSWEhOYXFfb0tpY1hqTzFSR3R4bms4bV9aS1dWUFRUY1BSLV9Xekt5UGpEeFZKcUJheWZwbTc4QzZHS0JsTkE2Yy1SZ3hJRk8yaHUyQ0U4UUdBYUZtV3hJdVhZUVBObFBEVV9TVnVnd0J5X0hyTzF2UFhSb2NMT1lIVVhvemdWRUE5aFplYkhpZ2R0ZFhIcVB3djZrWTR4UXN5b3dlYmJGdHV1eWlaQTZRZw?oc=5",
+      "summary": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report Fox Business",
+      "badge": "new",
+      "date": "2026-06-13"
+    },
+    {
       "company": "OpenAI",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -99,6 +131,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft has mostly repaired a flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYVpqSVBnQlR2ckpOamExSVczVjhyVms5NXJBS0xOLVBHWXdrMmVsWkwtUDJZV2JPcW5TLWt1SXgxaElLQUJtdW9PVms2d3ViWkJoTW90ZkNZQXA2UVNrSFVDZkNwS0JLREZRRTdsS2o1bEVYUUxSd290Mk9kclBKUjAyQnk4Q2ZQNUNWUlpXSTZzV1k3c1JiTlU2T2pndGltVG5yczFETWxaVGEzMjNGWDZ3dmU0Uy1Eb0NTdndQYngwcy1qU2FsV0UtRnVSVEw2T1Q3NG8yT0J4Ym04aG1VenF0LXlCcE9Vbk5hMUFLa3R6ei1xT2hLdldKZFgzTF9EWGZLLS1xT2llUQ?oc=5",
+      "summary": "Microsoft has mostly repaired a flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet The Register",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet - The Register",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTFWVVRKNUJzMnB3LUZYRHZHcEt6MWl1bmx4WFd1OHpvcjFCeUJVT3g1S29SMnQ4cE52R0R0ckljeVU1aVJRbHV5aWxiQ0JMSi1NZThYM1k3M1RmNmlwSUhKZlowaGtNdWcwZVQwVVAxWG1kT3pYNXZKaDlaSDhxUURPa3dfdVBNaERjbWFhbncwNlR6MGNVV1NyaG9LNE5YdHZRX0dMbGhvRmFuOF9jUDlqODZqT0pBM2t2RV8wWWttczNVX2FUb0ZJQ1pwdXYxb2dhVXdLMW9nWTJlclc3WldvTGJWZVZESzFIVnhpbV9sWEY3a1JFa1pGbFptLTJqX3FjYTdlUQ?oc=5",
       "summary": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet The Register",
@@ -115,17 +155,25 @@
     },
     {
       "company": "Meta",
-      "title": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhZTkFMcTNNam4zbVlUZF81Tm1nQnBQaHh0b1JhZmFPSDhxc0JsQ3c3VzR3THdWOFpsaVFLdHJfTnB0MUhLbjVzejA3SVlhQzF2WGRVN19iY09KSTFMQ1JZLXA3c3RyU3owUkczenFwdzI2bHVaQmFuaUQ2eExKeTdkMUExUHNWZThCU1VSMDBDMndrdDIyUEE2cmNpWHplVGN0Y3MwS21GdU5lTHdTM1hIdw?oc=5",
-      "summary": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions The Information",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTDEtMkUzZ3c2cGd2SDgzeklzT2RWRTA3QkxzSjktWFYxSng2UFhSaGdwdXJKTWktR3ZFMWE0ck1Tc0NUWGJJODRXY2dmaXJ3aFhncTRIZ293NWlvYzUtQnozRkR0LXVMcmNpRlBOSTJvdlhWc2FuSnpDcmUtVlE4YnJsSWQ3WDhscVZ1RUtrYjk3Q0hSbmdVeEVBeTYxU3hxREN0YldURFNCT0UzN2YwYXJyZmF4UDBDN2c?oc=5",
+      "summary": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it TechCrunch",
       "badge": "new",
       "date": "2026-06-12"
     },
     {
       "company": "Meta",
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTDEtMkUzZ3c2cGd2SDgzeklzT2RWRTA3QkxzSjktWFYxSng2UFhSaGdwdXJKTWktR3ZFMWE0ck1Tc0NUWGJJODRXY2dmaXJ3aFhncTRIZ293NWlvYzUtQnozRkR0LXVMcmNpRlBOSTJvdlhWc2FuSnpDcmUtVlE4YnJsSWQ3WDhscVZ1RUtrYjk3Q0hSbmdVeEVBeTYxU3hxREN0YldURFNCT0UzN2YwYXJyZmF4UDBDN2c?oc=5",
-      "summary": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it TechCrunch",
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjZHdGhreWVmMDRGT2JXZ21MakEtUnJxX05TMTIyVDVfMDJWYVhlcnF5Qm9tRjdIdGk0bmM1QWpyUkdycUk2WGhfVkRxdVpFNk9nVWNMajhISU9nZDdZVExqUU9xRjZSUHJzTEE3UDZHaGVKWnZVVDU0dFp2TF9HRXY1NUhPRW5GcndrWS15Qmg3N3V4VHc?oc=5",
+      "summary": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon WIRED",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhZTkFMcTNNam4zbVlUZF81Tm1nQnBQaHh0b1JhZmFPSDhxc0JsQ3c3VzR3THdWOFpsaVFLdHJfTnB0MUhLbjVzejA3SVlhQzF2WGRVN19iY09KSTFMQ1JZLXA3c3RyU3owUkczenFwdzI2bHVaQmFuaUQ2eExKeTdkMUExUHNWZThCU1VSMDBDMndrdDIyUEE2cmNpWHplVGN0Y3MwS21GdU5lTHdTM1hIdw?oc=5",
+      "summary": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions The Information",
       "badge": "new",
       "date": "2026-06-12"
     },
@@ -186,30 +234,6 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUNIWFRQb0tpNklJcmlMaTkxZlMzLVdnTm13Y1U5Wi1LNE1TV0dYWUd2UWltdW9JMGQ2eWJCT0NYUmNER2ZIQzR2ZFRwTF9QZ09WUWwwWTJHOUY2RHhWczNZN1FHRmZuM1BONE1rLW02VF80RE9nRmZQMnRwOWZlY2cyQ3hRb0xFVGt6amJBZldfNWZOSERCbkpXaDFzRkkwZ19Z?oc=5",
-      "summary": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM19FWXJhRmVxb1FqLWNQYWhhWTdranhGYUtubUNka3U2SlhsRDZ4V1hrX0dUNE0xOV85TkZyeFZSM1hMUHRkdnFGM3ozeXY4Tlo0ZGpfQ1A0SWR3YkExT2VPbS1QemhnVFI1NExnXzJsbVJhQ1FMR2ZmcWxfdUItV2ZNNHZWNk43cWh5RGJVUzBpVHZwY0M3bmFqR25tdm5mU2daUlYzSUJ4ZFFrSngwWGZHUQ?oc=5",
-      "summary": "OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic Bloomberg.com",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlFpZm1DM1NFOHo3N0daWFVfMS11VUQ0ZHIwV0hfQV9Ra3Z3Um1LX1kzeTlibjNuTTE5d0RLdzRhcjRoVHVETnlQeXg3SmR4MUJOTmRNTUs5ZURrVE5sX1VheWFpNXE1ajJxNjFlbmFpUkJNSnhZUFdIQ3M0WHFNb05Wd3E?oc=5",
-      "summary": "OpenAI Mulls AI Price War With Anthropic. It’s a Big Risk for Tech Stocks. Barron's",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
       "company": "Google",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
@@ -219,17 +243,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" - Windows Central",
+      "title": "Microsoft's search lead unveils a Bing 'kill switch' for Copilot AI answers: \"Not everyone wants AI for everything\" - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5jU3JOTFlfcXdLZ2p3VG4ySnZtWVZ2LTlXei1iX0F3MjVBY2EtQm04Vl9HOU5ramx4NzVQWGJKM0N0eG1jM0lpYk1uWkNTZE1kZmxBd2dLVWZ0YXNaRGxuWkRYeFIyeExiaHNVeDVrc3B3N2FhRDUyZURvdVMtTEhlU3ZMOXdwa21NYnRPUVRNRk9IeFlBa2k4TGlIUGhia2pKc2IxOTF4YVlmRWJGeWhPazg3WVQ3QWc?oc=5",
-      "summary": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" Windows Central",
-      "badge": "new",
+      "summary": "Microsoft's search lead unveils a Bing 'kill switch' for Copilot AI answers: \"Not everyone wants AI for everything\" Windows Central",
+      "badge": "hot",
       "date": "2026-06-11"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Confirms Second Copilot Outage This Month - crn.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTg3b2pDQXd4b3VBeFhuMWtZNkpzNkNWMnpYOGdtcGtURGJCOUtrcER4M01wRGZHM2RHNi00elRkVTRoVXBqMFhiNlFVZ2FTMmVaVVZPdjcyYVMyNWVwNkc2N2lJcVhETFlodEhRWjNKbVFSRXBUdEVwc1lXa19yZVBlOVoyLUxNODNXQw?oc=5",
-      "summary": "Microsoft Confirms Second Copilot Outage This Month crn.com",
+      "title": "What’s new in Power Platform: June 2026 feature update - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHoyb2ctVmk1NXpFVVU5a2Juck5wbWxrcUpkaGswWEh1cWdaSVd3VWYxbEsxaV9DbTZJTTdhNUkwRnBFb1Z5R3lkNl83azlkWTA4Mi1pVWFZWjE2U1E3WnU0T0I1ZE5QN2dTdkRwREdENEpoanFHcWtiejY5STY0MDdEYnFOTy03MUtmSlVFRmhGYzZKWi1qNXFYSmNWUjRpbU5vOUlrR2kxa3hSWS1OVkRLRXZ3Q1k?oc=5",
+      "summary": "What’s new in Power Platform: June 2026 feature update Microsoft",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -238,6 +262,14 @@
       "title": "Microsoft Copilot seats could be 'well above' Wall Street's outlook: BNP Paribas (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1yZFI1NXdnRUt3bmZJTWpFdlNNZGs2QUdXYnVDUzIybEZVYkg1bUV5Vm4zZFdpOVg3WHBmVUhkQ2tjR21Ka0lxbGNERjRBMWMzT091LTNFMW9mQVFXc0wyM1hFaTJheVNzX1A1UUhISjVvTDZHaVpGUnJDcXZ3NTFkREFMMW85OEI2dmFkeWUwMnZ6NmR6WHFEZGZDOG1IQVJsQmpKRjdVMy1ZT1B3Yy1qeGs?oc=5",
       "summary": "Microsoft Copilot seats could be 'well above' Wall Street's outlook: BNP Paribas (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Confirms Second Copilot Outage This Month - crn.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTg3b2pDQXd4b3VBeFhuMWtZNkpzNkNWMnpYOGdtcGtURGJCOUtrcER4M01wRGZHM2RHNi00elRkVTRoVXBqMFhiNlFVZ2FTMmVaVVZPdjcyYVMyNWVwNkc2N2lJcVhETFlodEhRWjNKbVFSRXBUdEVwc1lXa19yZVBlOVoyLUxNODNXQw?oc=5",
+      "summary": "Microsoft Confirms Second Copilot Outage This Month crn.com",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -283,6 +315,14 @@
     },
     {
       "company": "Meta",
+      "title": "Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazZKYlRDV1RJQ2NETFpoM1dUNk5TeDNZRnJSUnNJcXlITTFIcURoVkFPSHR1MkIzbVdLci1uc0JWdzVWdFkzMnBrX3FlcElVWkJldzVXZ1FxaFh4eGpZYUl0aWNBajMwQXhlQlRWaFptRzN6N0dscVVVTUNuX2t0c1JFdmo2Z2xEeHd2STRuSkFuQm80NTBOUkpCNnZUYW02TVQ3ZlBR?oc=5",
+      "summary": "Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training' Yahoo Finance",
+      "badge": "hot",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s Subscription Push Exposes Its Weak Hand in AI - WSJ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnRXeWFjWnEtRlJoNlJpWHFCSFkxODlGRWVoakQ5SXVGUFFVSWNNZWJXZ2dPdU1Ed0dpVzRuU3ltMUYxLXItWFhmelRTTVNfamZaU2M0enFJb0puaWUzcnhWVVFCNGwxbUNZaVhOcEFMZDFOVmdXUTVZNTRNX0xWS3BOV3dNQmFGWERVWnZ4bnFNQQ?oc=5",
       "summary": "Meta’s Subscription Push Exposes Its Weak Hand in AI WSJ",
@@ -295,14 +335,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1keXRGaTJaWTVORVI1VXVRdmpsX2g2NkNrNks3clZBR0t4YkVYemlmVkhDMEdwUzR3N3VXYkVlLWtMMVRVWmNpQnNldXZMUDJFNHI4elB3YXBIWjJyOXRXMWVfSGlEOGdYZDI2amVvTVE2dE5QRU1tdXJ3LV9BQQ?oc=5",
       "summary": "Meta Stock Slumps Further As Bulls And Bears Debate Tech Giant's AI 'Evolution' Investor's Business Daily",
       "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazZKYlRDV1RJQ2NETFpoM1dUNk5TeDNZRnJSUnNJcXlITTFIcURoVkFPSHR1MkIzbVdLci1uc0JWdzVWdFkzMnBrX3FlcElVWkJldzVXZ1FxaFh4eGpZYUl0aWNBajMwQXhlQlRWaFptRzN6N0dscVVVTUNuX2t0c1JFdmo2Z2xEeHd2STRuSkFuQm80NTBOUkpCNnZUYW02TVQ3ZlBR?oc=5",
-      "summary": "Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training' Yahoo Finance",
-      "badge": "hot",
       "date": "2026-06-11"
     },
     {
@@ -354,22 +386,6 @@
       "date": "2026-06-10"
     },
     {
-      "company": "Meta",
-      "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
-      "summary": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure CNBC",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta signs first AI data center deal in India with Reliance - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFUaW1pRGhMUVR0RWFKRUdmVnVHMFFNVkNzZTluYjJvVkltMkhHQTIwaDJKdVZQVm5oNXlLTFRKb3NUWFpIYlZqNTE2MHNIeExsNFpSY2VaVGJUMF9lQlVhRi1UdldYTGJHMWpYSzZVbkZUcHdSaHBhUTlpZkljOXlSdnhYazJPM3VqWFA1MjZLSVZRblg2OS1R?oc=5",
-      "summary": "Meta signs first AI data center deal in India with Reliance TechCrunch",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
       "company": "OpenAI",
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "url": "https://openai.com/index/nextdoor",
@@ -394,10 +410,10 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft is force-installing M365 Copilot again after a brief pause - PCWorld",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajZ5MjBlX2JsQVdOVUNVbkpHekNuUGNubWJNUkI2ZXZJbFBWVHh0YjZSMk8xV29CbUJFSk1EazJ0RjRMY29IcWxMN2hWTXEwdWU0OHE0R29OQWQzck0wYl9UaHdRTFV4NmhPV1lOSEpOMTdjdkhCcHU2REpHaTBZc2t0WWVtTlVVSk9MWmU1dTQtUndVeXBkejRZWU5qQmZxTzd2dW1nUDJQdVdsU21SalR0QQ?oc=5",
-      "summary": "Microsoft is force-installing M365 Copilot again after a brief pause PCWorld",
+      "company": "Perplexity",
+      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTFVa0JiVVVhTlRkNFdnSlc3OVBkSmtnVGZndmxMeWFuaWdNOUs4NUFuMUJlREtmcU5xaVlYazh4cFlPMGY0UkhtTG03TlREUm1SYUYtejBNRUR0VmZkYjhrM3dlOUxYZ0FxQTFRdm5ZSUl5QTlHNXlkZUduZEVNRURLQS02c2JxbVphOUNpWlNKWWRmY09BV9IBngFBVV95cUxOT2w2WUNKUmNudkNiNEZPNGEzcHBVSTdPRFFFX3N2WFIwd1RrcW13RUpSVThvVkozNzZGV1RpNERjTUp5X2RTNWRZZWJCRGVRRmFPa2FRbTV2QjQxSjMtU2NnYkZfYUx5emhvSTVjdGMxLWZBNThibHNrT1hKZVhPLXlNcDNFWUJIMkphSzBUaWk0bVRYYVdILUpZT0ZSZw?oc=5",
+      "summary": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC CNBC",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -406,14 +422,6 @@
       "title": "Perplexity Locks in 2028 Public Debut as Anthropic and OpenAI Kick Off AI IPO Stampede - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVzRpRlpxaG5uU3V2QzV4VENwS296WEZpNTRtdm5yR3ZHNTdoYm9iN2N1QS1pSGUwQW1uVVJfZEFRa0RMYjdienFqSUpza2FwcnpPQkU4R01QUzNlTnBNNnRNNjF2QU5VUGkwdnBXLU03TnhzeF84UTlrVEJZOG4tRWpTVVkzRUJqYnEtbXZTSDJWMnpqcWMwQWsteEhVaDFXZndaMWI5eDJzTTBLZkxLMXJvVFNXT1VMUXpFQ2FBUWJQcnB1N25iTTZBTy1vNjg?oc=5",
       "summary": "Perplexity Locks in 2028 Public Debut as Anthropic and OpenAI Kick Off AI IPO Stampede TipRanks",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTFVa0JiVVVhTlRkNFdnSlc3OVBkSmtnVGZndmxMeWFuaWdNOUs4NUFuMUJlREtmcU5xaVlYazh4cFlPMGY0UkhtTG03TlREUm1SYUYtejBNRUR0VmZkYjhrM3dlOUxYZ0FxQTFRdm5ZSUl5QTlHNXlkZUduZEVNRURLQS02c2JxbVphOUNpWlNKWWRmY09BV9IBngFBVV95cUxOT2w2WUNKUmNudkNiNEZPNGEzcHBVSTdPRFFFX3N2WFIwd1RrcW13RUpSVThvVkozNzZGV1RpNERjTUp5X2RTNWRZZWJCRGVRRmFPa2FRbTV2QjQxSjMtU2NnYkZfYUx5emhvSTVjdGMxLWZBNThibHNrT1hKZVhPLXlNcDNFWUJIMkphSzBUaWk0bVRYYVdILUpZT0ZSZw?oc=5",
-      "summary": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC CNBC",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -448,14 +456,6 @@
       "summary": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks Tom's Guide",
       "badge": "new",
       "date": "2026-06-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlg3R0NEcEs2SG5EQ2xaU2FveEthWFJUS2dUaTVqeVpBNnhUMFhYSmVSOGVjSll6aGxuYkhDUFBrMmJUd3RWQnpzbXJmb3BTd3p2WEFNMGR5VnJKNTJlREdHbGN2akI0dGdibUFpd0dsLWZzc1V3M19hVnBqX3FJeE5fTmExWEF3a3NZN1V2eHVDWm1vUmNHZWdvRDRUeTF4MnQwUHhpUktJQnVFODZoNHRn?oc=5",
-      "summary": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence Forbes",
-      "badge": "new",
-      "date": "2026-06-08"
     },
     {
       "company": "Amazon",
