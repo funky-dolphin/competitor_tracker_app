@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-13T08:51:54Z",
+  "updated": "2026-06-13T13:48:51Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic suspends new AI models after government directive - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMk94bzRpQmZXUlJocnM0NEE0ZjFveFlSTEF1U1ZfQTM5VlFBaTlSQ2E4a0U4U2YwQTBYTkJXcU9sYlR2c3FIUkg5cVRJRzJNOG42S3NyT2pmQ0VhaWtxdU1ObFRyTzZiZE1qaTIyc2lfc2dVQ3FYMTZxaFhBNUU4NmZQVVJqMXZRTnpkbHptdFBsZUlVUE9PTEt0ZjJzcmh1RllYaThra2NsWkZwN2Vfa0x3UVI1MU0?oc=5",
+      "summary": "Anthropic suspends new AI models after government directive NBC News Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access Fortune Anthropic to disa",
+      "badge": "new",
+      "date": "2026-06-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZTNFalowWHVUV2FhOGlEcWgxVWdISzBVLXJfN2FXOXBjdkVhRG0wVFRyNURuMHNxREtKeENYSkdWdm45OXBTd2xaUzlZQjBTQ2dQWjgzOUtCZw?oc=5",
+      "summary": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears BBC",
+      "badge": "new",
+      "date": "2026-06-13"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive - CNBC",
@@ -14,22 +30,6 @@
       "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGkxeVNGNm10OTRUUUV2SFZOa3NoZUw4ZEl1cUNGRUNKWVR0eTdJMlAxSTMyTU05amxSbE5NUmo0X01RQUFUTHV6bnM1ZmpBYkUxY0ZQejlTY3VJaFA2NkFESDdvNUdBcVRxWjJIZksyYXdoSU5uMHBmYkVhQ0JadmptQ1FVY2IzVTFsaEhEa084VXlVMjJ5a01wQ0lSOF9hMnROWTFZYjNIM2w2VUVxM0ppaHlmaFowNzRKNzNpZnIySEdSWmc?oc=5",
       "summary": "Anthropic says it has taken its latest AI models offline to comply with new export controls The Seattle Times Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use WSJ Scoop: Trump adm",
-      "badge": "new",
-      "date": "2026-06-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZTNFalowWHVUV2FhOGlEcWgxVWdISzBVLXJfN2FXOXBjdkVhRG0wVFRyNURuMHNxREtKeENYSkdWdm45OXBTd2xaUzlZQjBTQ2dQWjgzOUtCZw?oc=5",
-      "summary": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears BBC Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions WSJ Introducing Claude Corps Anthropic",
-      "badge": "hot",
-      "date": "2026-06-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic suspends new AI models after government directive - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMk94bzRpQmZXUlJocnM0NEE0ZjFveFlSTEF1U1ZfQTM5VlFBaTlSQ2E4a0U4U2YwQTBYTkJXcU9sYlR2c3FIUkg5cVRJRzJNOG42S3NyT2pmQ0VhaWtxdU1ObFRyTzZiZE1qaTIyc2lfc2dVQ3FYMTZxaFhBNUU4NmZQVVJqMXZRTnpkbHptdFBsZUlVUE9PTEt0ZjJzcmh1RllYaThra2NsWkZwN2Vfa0x3UVI1MU0?oc=5",
-      "summary": "Anthropic suspends new AI models after government directive NBC News Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI Axios Anthropic says it has taken its latest AI models off",
       "badge": "new",
       "date": "2026-06-13"
     },
@@ -82,6 +82,14 @@
       "date": "2026-06-13"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity CEO's secret to success is ‘sleeping with that fear’ your competitor will steal your idea - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONl9XeXdOZzQwYTdIMnRWQUgxWURZelhaWkZjcW5RNW9fNHBLY2ZZMTVMT0l0Nk1YUlZBaUEzWXljNTFEbGtQcWhmRTJXaDFMUjVqMGs1OGNnWjM0bTlIWVZVemI3QlVvOVJCNlZDNU5UQm9QWUhuNl9sbzNMeVFZMHZfc1FiakJ0X2NGX3NEY3Etd0loV0VTMzBHWXFJb1pqWU5qUlJucVZzYWxZZEhqM2dkME9sUkI1b1FYVzVhOFplY29iQ0tGNTBXcw?oc=5",
+      "summary": "Perplexity CEO's secret to success is ‘sleeping with that fear’ your competitor will steal your idea Fortune",
+      "badge": "new",
+      "date": "2026-06-13"
+    },
+    {
       "company": "Meta",
       "title": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjY2dDg3bWt1LUg5SlNIZkxrbUJZQV9zN3VEZXVYQ2FBQkZ1RGU4ZEFqMVV2S0s5NnU4YUtCd0VTT1MwWGRraXJzc3RFdEdEemViUzAzaElaX1FHYWlrVHBlR2VTSkVVTWJqdXJaUmNmSTVnZzh4elFVTWZFRWVqSWxKYkxLVjZieFBiM0xLZXVHMGE4U1dtdFNyTW9EWEIyazl2c0JHVmFZbnVUdFlQSNIBtgFBVV95cUxNTU9PMFlSWEhOYXFfb0tpY1hqTzFSR3R4bms4bV9aS1dWUFRUY1BSLV9Xekt5UGpEeFZKcUJheWZwbTc4QzZHS0JsTkE2Yy1SZ3hJRk8yaHUyQ0U4UUdBYUZtV3hJdVhZUVBObFBEVV9TVnVnd0J5X0hyTzF2UFhSb2NMT1lIVVhvemdWRUE5aFplYkhpZ2R0ZFhIcVB3djZrWTR4UXN5b3dlYmJGdHV1eWlaQTZRZw?oc=5",
@@ -107,6 +115,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Results from the first Anthropic Public Record - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
+      "summary": "Results from the first Anthropic Public Record Anthropic",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Anthropic",
       "title": "What the SpaceX I.P.O. Means for OpenAI and Anthropic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV19JRTlzVG02X0M5VnFRMUtNX243OWpaX3hDWkRtOS1Ldk5JdEN0X2tEdDUtcFlmZnhhUDlnbl9MT0JvUDI4NmZPbU92d2tyNlZZOEFvbnVhdGhDVmFFT1RiM1BTaW9aNDRSOXJJMTNwV0pRMTFxUVpFVFhQMzJocFV2a24?oc=5",
       "summary": "What the SpaceX I.P.O. Means for OpenAI and Anthropic The New York Times",
@@ -122,10 +138,10 @@
       "date": "2026-06-12"
     },
     {
-      "company": "Anthropic",
-      "title": "Results from the first Anthropic Public Record - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
-      "summary": "Results from the first Anthropic Public Record Anthropic",
+      "company": "Microsoft",
+      "title": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet - The Register",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTFWVVRKNUJzMnB3LUZYRHZHcEt6MWl1bmx4WFd1OHpvcjFCeUJVT3g1S29SMnQ4cE52R0R0ckljeVU1aVJRbHV5aWxiQ0JMSi1NZThYM1k3M1RmNmlwSUhKZlowaGtNdWcwZVQwVVAxWG1kT3pYNXZKaDlaSDhxUURPa3dfdVBNaERjbWFhbncwNlR6MGNVV1NyaG9LNE5YdHZRX0dMbGhvRmFuOF9jUDlqODZqT0pBM2t2RV8wWWttczNVX2FUb0ZJQ1pwdXYxb2dhVXdLMW9nWTJlclc3WldvTGJWZVZESzFIVnhpbV9sWEY3a1JFa1pGbFptLTJqX3FjYTdlUQ?oc=5",
+      "summary": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet The Register",
       "badge": "new",
       "date": "2026-06-12"
     },
@@ -134,14 +150,6 @@
       "title": "Microsoft has mostly repaired a flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet - The Register",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYVpqSVBnQlR2ckpOamExSVczVjhyVms5NXJBS0xOLVBHWXdrMmVsWkwtUDJZV2JPcW5TLWt1SXgxaElLQUJtdW9PVms2d3ViWkJoTW90ZkNZQXA2UVNrSFVDZkNwS0JLREZRRTdsS2o1bEVYUUxSd290Mk9kclBKUjAyQnk4Q2ZQNUNWUlpXSTZzV1k3c1JiTlU2T2pndGltVG5yczFETWxaVGEzMjNGWDZ3dmU0Uy1Eb0NTdndQYngwcy1qU2FsV0UtRnVSVEw2T1Q3NG8yT0J4Ym04aG1VenF0LXlCcE9Vbk5hMUFLa3R6ei1xT2hLdldKZFgzTF9EWGZLLS1xT2llUQ?oc=5",
       "summary": "Microsoft has mostly repaired a flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet The Register",
-      "badge": "new",
-      "date": "2026-06-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet - The Register",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOTFWVVRKNUJzMnB3LUZYRHZHcEt6MWl1bmx4WFd1OHpvcjFCeUJVT3g1S29SMnQ4cE52R0R0ckljeVU1aVJRbHV5aWxiQ0JMSi1NZThYM1k3M1RmNmlwSUhKZlowaGtNdWcwZVQwVVAxWG1kT3pYNXZKaDlaSDhxUURPa3dfdVBNaERjbWFhbncwNlR6MGNVV1NyaG9LNE5YdHZRX0dMbGhvRmFuOF9jUDlqODZqT0pBM2t2RV8wWWttczNVX2FUb0ZJQ1pwdXYxb2dhVXdLMW9nWTJlclc3WldvTGJWZVZESzFIVnhpbV9sWEY3a1JFa1pGbFptLTJqX3FjYTdlUQ?oc=5",
-      "summary": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet The Register",
       "badge": "new",
       "date": "2026-06-12"
     },
@@ -219,17 +227,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Introducing Claude Corps - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "summary": "Introducing Claude Corps Anthropic",
-      "badge": "hot",
+      "title": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd09NdEpKY2pWLTJsVmtMS2JDVVRGbks1OE10X2xPLXZONmZTWm9ndlJyRVRfNGNvUW14b05EYVcyOFI4TlhvaG5pYlRDV3dweGNPNTQ3RmhCMzc5OER1Yll2emhZTmlCbXh2LS05VjY1VlRqQ2VWRmxwU0Y1cVc0cF9OTDJVQQ?oc=5",
+      "summary": "Anthropic’s New Fable AI Model Is Met With User Backlash Over Restrictions WSJ",
+      "badge": "new",
       "date": "2026-06-11"
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
-      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic WSJ",
+      "title": "Anthropic's AI will now tell users when requests are downgraded for national security after backlash - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmhQNzA3Y3NjLWJGQUpwUHZ1Y2d4MDJxNDcxT1lqQUx5STZUcC1JYXZ5N3FLZGRnVjdsWDZhNHU3bXIwTkEwaWpjNC02S0tTanptdUw5RWtQYTFOa2VzNzE4OE9NbHNkTGJsRlpELVB2WXRiZzdDRnFMRjQzaW9GcFFOYlg1SjBNR0lxSXNzVTJSZXl5QnNUc3psaV9ySzJMM3VPNXo4c0NPZw?oc=5",
+      "summary": "Anthropic's AI will now tell users when requests are downgraded for national security after backlash Fortune",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -243,17 +251,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft's search lead unveils a Bing 'kill switch' for Copilot AI answers: \"Not everyone wants AI for everything\" - Windows Central",
+      "title": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5jU3JOTFlfcXdLZ2p3VG4ySnZtWVZ2LTlXei1iX0F3MjVBY2EtQm04Vl9HOU5ramx4NzVQWGJKM0N0eG1jM0lpYk1uWkNTZE1kZmxBd2dLVWZ0YXNaRGxuWkRYeFIyeExiaHNVeDVrc3B3N2FhRDUyZURvdVMtTEhlU3ZMOXdwa21NYnRPUVRNRk9IeFlBa2k4TGlIUGhia2pKc2IxOTF4YVlmRWJGeWhPazg3WVQ3QWc?oc=5",
-      "summary": "Microsoft's search lead unveils a Bing 'kill switch' for Copilot AI answers: \"Not everyone wants AI for everything\" Windows Central",
-      "badge": "hot",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "Microsoft",
-      "title": "What’s new in Power Platform: June 2026 feature update - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHoyb2ctVmk1NXpFVVU5a2Juck5wbWxrcUpkaGswWEh1cWdaSVd3VWYxbEsxaV9DbTZJTTdhNUkwRnBFb1Z5R3lkNl83azlkWTA4Mi1pVWFZWjE2U1E3WnU0T0I1ZE5QN2dTdkRwREdENEpoanFHcWtiejY5STY0MDdEYnFOTy03MUtmSlVFRmhGYzZKWi1qNXFYSmNWUjRpbU5vOUlrR2kxa3hSWS1OVkRLRXZ3Q1k?oc=5",
-      "summary": "What’s new in Power Platform: June 2026 feature update Microsoft",
+      "summary": "Microsoft finally realizes not everyone wants Copilot AI in Bing Search, offering a \"kill switch\" Windows Central",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -262,6 +262,14 @@
       "title": "Microsoft Copilot seats could be 'well above' Wall Street's outlook: BNP Paribas (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1yZFI1NXdnRUt3bmZJTWpFdlNNZGs2QUdXYnVDUzIybEZVYkg1bUV5Vm4zZFdpOVg3WHBmVUhkQ2tjR21Ka0lxbGNERjRBMWMzT091LTNFMW9mQVFXc0wyM1hFaTJheVNzX1A1UUhISjVvTDZHaVpGUnJDcXZ3NTFkREFMMW85OEI2dmFkeWUwMnZ6NmR6WHFEZGZDOG1IQVJsQmpKRjdVMy1ZT1B3Yy1qeGs?oc=5",
       "summary": "Microsoft Copilot seats could be 'well above' Wall Street's outlook: BNP Paribas (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "Microsoft",
+      "title": "What’s new in Power Platform: June 2026 feature update - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHoyb2ctVmk1NXpFVVU5a2Juck5wbWxrcUpkaGswWEh1cWdaSVd3VWYxbEsxaV9DbTZJTTdhNUkwRnBFb1Z5R3lkNl83azlkWTA4Mi1pVWFZWjE2U1E3WnU0T0I1ZE5QN2dTdkRwREdENEpoanFHcWtiejY5STY0MDdEYnFOTy03MUtmSlVFRmhGYzZKWi1qNXFYSmNWUjRpbU5vOUlrR2kxa3hSWS1OVkRLRXZ3Q1k?oc=5",
+      "summary": "What’s new in Power Platform: June 2026 feature update Microsoft",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -378,6 +386,14 @@
       "date": "2026-06-10"
     },
     {
+      "company": "Microsoft",
+      "title": "Microsoft is killing the Copilot+ PC advantage, brings Windows 11's local AI to RTX 30+ PCs with 6GB vRAM - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdy1DcUFyR2s4WHg0MzFmUTZ3dnZ1QmlrSGk1b29nY29COXRPQlE5Q3NmNzEyeExfSXNYNzQtWTVqU0tMNkQ1Vk5MUE1BQll2RGg1b244ZkpUdDVZUkxvWHFRZU1jaFBOb0ZRVkpqdVk2NXVRYTdaTjNyX0tkRXVsSHljNS1lUmRkRkxVWFBXVXJ6eUF4bkZTTnR4cW9DRXNJQUJsTy1kampVM3VsVm1vZTVQc19hLVhIOTU1OE9PdVk5bmxiMkFNeUgwVjUtUlk0NU8zUmFudk15cnc?oc=5",
+      "summary": "Microsoft is killing the Copilot+ PC advantage, brings Windows 11's local AI to RTX 30+ PCs with 6GB vRAM Windows Latest",
+      "badge": "new",
+      "date": "2026-06-10"
+    },
+    {
       "company": "Meta",
       "title": "Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5",
@@ -398,14 +414,6 @@
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents - Microsoft Azure",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSW5BNkhvSXNYVEpPcDdMTDlINGIzZVVsazh5bjcyYW0yMWdKaGZ2UHVHWmEybmpLRE5ZblppR0U0c0VWcUZFaUFhTkFxd29UbzRvbmFTc1M4TDNDZXNhTXdoNUJweGdwaERaN0M2ZlBlaFhkUWIwZDdJb2xFNTZYSlgzN2JQNVpTOEpaNVQ5Um81Zk5XQ3ZyeV9hM1hFclJrMHBCLTVFVDY1YkdqRHMtaVVIeTdicVBmdlQyWTZIN1dKT21XcTZiNWh2TU0xVWF3?oc=5",
       "summary": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents Microsoft Azure",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2I2a1N0emY0M0s5QmlreWxzRmx6YWNFcTJDa18zTTJzMFRacUV6dkliRVIycTNOSjV4Vy1rRHFDaXZrS0cwM2JWbWx4UlBiVlVLRGF6TWtmRzU0Wm03QWdGdzh4aHhJTnJVNXNBVXNWekFNYXJFWVFDSlZaVmJBcTVyLXRTZExNaTRPTEpRRE1MUGhfT1JGZVR2ZU9qQkdvaktMaXd4X0JjOGtEOEdnZklFM0V2Ql84VHVGMWpfNGdocldmQVdHa2RURVhoX2pzNGZxZHZ6UVhwUkVPanZ5U0R2WWM0SEk?oc=5",
-      "summary": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot Microsoft Source",
       "badge": "new",
       "date": "2026-06-09"
     },
@@ -446,14 +454,6 @@
       "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
       "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkUyV3daTkg3VXJMVzlpb05nN09GZmFiV3A0aGRGN0dSQXA0cWV5WFpDNGI5NVVWZmVtT3Y0d25fYzVpTDRvaEhnSXJfV3JUYTFOdG54Q2hiSTMxQkMwNGFNNGcxWjZyWFVjZi1Xa0ktUS1ndlRTWW05LXBWaTl2Mk5GSmstdkhhbEJ1ZzlXRDFDcms1Skx5cnFXQmlpd3dQeWFGRGpHNTllNTRDLVM0NmpuaXh3N09NUm9KbkVxMjZ4TWdqdDZtTEFvSnNndW8?oc=5",
-      "summary": "I asked ChatGPT, Gemini and Perplexity to predict the 2026 World Cup winner — one team dominated their picks Tom's Guide",
       "badge": "new",
       "date": "2026-06-09"
     },
