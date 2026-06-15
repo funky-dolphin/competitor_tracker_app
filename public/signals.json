@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-15T03:39:34Z",
+  "updated": "2026-06-15T11:54:36Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions - WSJ",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDB5M2RIbUFud1NSbFE4UFAxM3kzTkJoem84TTJRakdieUJsQ21naVpYZGxaLUY0S0ZOZFdVTk9saU5WVWFsQzMySldadlg1a2pxYk9tWl84Q2pxQWc2QU51b2YwQktkM0FyR3l0eDVPUURiNEpSeUwzZUhzeElnREcwZkItUldaSTI1N3R2U2tqY2ZPeHVDMll2Y2ZrQ0UzZ1ZzamNzNVhJa3dlaVlDdQ?oc=5",
       "summary": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions WSJ",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamF0YXZhUFpDUC1pdXlvMlV0OEROemotQWlxdHFoaGdsY3FTVHYtSVNuNzhpSXJ2Zno2cFdJNVpxbzZOdHZlMWltRjE3aXU0T2dQdElTOE1EX0Vuc2Zhc3dTMjVJdWhBakEtdVhlaHNMNzRfVE5EaVI3ZzlUeFZ4OFU4dDNadVJDYzU3R0pCdTV4Y1hwbWZHUHZNSnh6dlltVWx3SWFKd0ZGV2V4ZENmUjlaSUVKZzA?oc=5",
+      "summary": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI Bloomberg",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -58,11 +66,27 @@
       "date": "2026-06-15"
     },
     {
+      "company": "Amazon",
+      "title": "PodCast Amazon's Jeff Bezos Returns Ring | Project Prometheus AI ​​That Wants Revolutionize Hardware John Krasinski (tXkD2o5xUv) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VcExoR0JlRGU0VS1FOFMxdUZzaTlKS21FamkyaHpjMjNqQUFiWEJJVlpDbU5LLTRvZzYwYjJ2VnZWakhWc1ZqaDEweHJDYU5GV1d4dG5PVm5GOHVLcEhxbTlEcl8?oc=5",
+      "summary": "PodCast Amazon's Jeff Bezos Returns Ring | Project Prometheus AI ​​That Wants Revolutionize Hardware John Krasinski (tXkD2o5xUv) Fathom Journal",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
       "company": "OpenAI",
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "badge": "hot",
+      "date": "2026-06-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Donald Trump’s blocking of Anthropic is capricious and chaotic - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkQ4TGFDTGx6YlQ4U2VraWxFaUlpY2l6VnEtYjhmajlDLWZwbU9DV2hlbTQ1S3gxRWlmYzRPTWR1TFBhZmxkVmRoMVc5dm1vZGM5cUMxSl9KcG9KTWZOeC1lZGYzdWNxWnZ4RlBHeGlDUG1OTzVSZU02d2pSWXZUMEFfVjJKUDVfUUtrVzExcEZIbUxIN3dmUEFlRmMtNHAxUWxMaUFJaGhiTU0?oc=5",
+      "summary": "Donald Trump’s blocking of Anthropic is capricious and chaotic The Economist",
+      "badge": "new",
       "date": "2026-06-14"
     },
     {
@@ -114,22 +138,6 @@
       "date": "2026-06-14"
     },
     {
-      "company": "Anthropic",
-      "title": "How Amazon and the White House ended Anthropic's Fable - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ral9kZkV6VDBnTWQ1X1ZWdlVWRlJrazdORXFxLVJYU1NGVXJQNUFMZ1pCNXRTeUxORGVXWEliX0NEZ3hXT2dFLXdmRGlzYkstbEk1ZlR1VG83bXVNbDVPZEZlX2Qtb3ZpSFBFVlB3?oc=5",
-      "summary": "How Amazon and the White House ended Anthropic's Fable Axios",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US’s Anthropic order exposes EU’s AI dependency - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTBHY0RuWndlUWI0akVPZ3BLWG52UmxYdFhvSkNHZ3U0SEduRE56eEkyNWJBWklPOXpHU3JQTlRHRnFPbHNxZFdTWXhRcDVEZjA1eVFOc19pZDNCejVIcFcxVVlhOU9oUDlVVS00cndXS0p3ZWRyQ1h0cXpUc0IzdHdn?oc=5",
-      "summary": "US’s Anthropic order exposes EU’s AI dependency politico.eu",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSzhHY3VwM2x4SWY1VW9hdUZDWEl4VjhQbjY1MmpoUXhUYzRkREVMem5SQVFQaUxveWQwZEFfQlMyMmtEVW9ZeGJ4Uk5aeE52eTVkQXJWTXI1WGxPZVBUaktkbXQwSnRaMnlQTkVRQ09mX01WVlBHaTRxa3ByblBRQ2lieVdNLVlpSnVtRTZIQWV4cEJBYjdnOGkwSHdMd0Zlc3RzWG81aVF1bS1Jb1dyOWVDMFBXUXNBaEdYRW9sVkNYUC1EQVRBNWc0dFUycXcxcUp1LXBqRENLR3h6UkZCLUVKT0J0b3JzZ0JoaGNXMWVGLU53b3dGaGtqVVNDU3piWWVDX2xkOTBXR1pTSDRzUnNkSnRPc294OC1ZWGV5R1JLOFVwQUtQOHhYQjNyM0hzRlpWbC1pNE0xcndaLVNDSFdOeHpETkU0TldDaU0weXA2dEd1Tktxa3NQQkliR2JiaWJ6elBJOUZaUQ?oc=5",
@@ -166,6 +174,14 @@
       "title": "I tested AI glasses in Paris. Here’s what they got wrong - BBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGxxMFU1dmZFZ294Rk52bDJKSVhKQkJENi12WWVtVzdzNVo1eTh3bW5CMlV3cjMtSzNVa0pKZWNzV2hqYnRtYU13N1h4aEhlRXVwbW56cWJoSTdCc01JVFNFVjVjUWIxVkZGNUlrbWc4eEg3U3FJeE5ySm5aQlB5NlQ3ajc?oc=5",
       "summary": "I tested AI glasses in Paris. Here’s what they got wrong BBC",
+      "badge": "new",
+      "date": "2026-06-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3ViSjQ0d2ZfVl9mOXhJRV80VkdLMmY0czh3UERVMXVISjVGWTBXWXI3WFk1QXlvVzJoWDJ2YlRIU3NjUVdzYnF2dW9ZWkh4YmdSNmRTeDdTU2lLeHZYejBtcjFnWjM4TV9tcGp2U1VQU1NTb2VzT0h1WnQ3MVVZU0pCQWotQTlELWdiZHJfSlNuUUFHVzBoRVQ1Y2s2a0dTNFlVRkRQanNKQkNJWng5MzdfaFF5RFhxM0x6cThMN1lQSlU?oc=5",
+      "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Yahoo Finance",
       "badge": "new",
       "date": "2026-06-14"
     },
@@ -234,10 +250,18 @@
       "date": "2026-06-12"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts Shocking Solana Price in 6 Months - icobench.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdE1IOEdvbVlndVFKdC1pX2JYd2h5dS0zVFY4SHhrN0x6MjZncUlUT2FibzAydW9nT2JGcmM1eWxVTGU1Y3l5a1g1S2NQNE5fYWplU2ZEZnF6YVJRM1Bka2RMUUY5UVVSM19pZHZBREg5eHJsbm12Rkdjc3J5c1RmdC1KVDk2MXY4VXh3?oc=5",
+      "summary": "Perplexity AI Predicts Shocking Solana Price in 6 Months icobench.com",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
       "company": "Meta",
-      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
-      "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXotU214OGVnc1BwSW5QTENCTlByR1BiUlBOTkVNNnJUNEV0dE1KT2FCT3RyYW9xdVV4NDFOMUlwVWl5OWMtTXJ1bmw0N0RuT2o2V3dLUWFOcWNUOUtfMmtESF9MdkhRSG1Qb2x4eFlDT2FRLU5jNndQdWxXSWc4amFvT1JyZw?oc=5",
+      "summary": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess WIRED",
       "badge": "new",
       "date": "2026-06-12"
     },
@@ -251,25 +275,17 @@
     },
     {
       "company": "Meta",
+      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5",
+      "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift Reuters",
+      "badge": "new",
+      "date": "2026-06-12"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEJYZ2haZzZBSTh2SmFvcEdDeWcwamdxMHliMzlLZk1QaTNveGYzZ19sTXdjV1ZoN2xJUVd2RV9LbW1Gc2Z5STlEVHdwNjFPTFFUbVlDYW1GMjBEbmU2ckh3R2pFYkd5S2F2ZElYdHF6ZlpGNTlCR1NBc2QyN1dBa2liWW82SlMyZXZYUU9wSkNyRmRoSy13?oc=5",
       "summary": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Applied AI team revolted, employee hijacked company stream with profanity - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhdW5hb2MyWkxtZHAxc1NqMVZ2UXVXQnlUV0RrUl94QWs4aDF1djhLV1pjdnNxMUpPX3NZN0FtcEZwUEtvM1F5dlpwSDlFT1lPOEE0M1k2YldFR1k5OXpMc19xelhSUQ?oc=5",
-      "summary": "Meta’s Applied AI team revolted, employee hijacked company stream with profanity mezha.net",
-      "badge": "new",
-      "date": "2026-06-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjZHdGhreWVmMDRGT2JXZ21MakEtUnJxX05TMTIyVDVfMDJWYVhlcnF5Qm9tRjdIdGk0bmM1QWpyUkdycUk2WGhfVkRxdVpFNk9nVWNMajhISU9nZDdZVExqUU9xRjZSUHJzTEE3UDZHaGVKWnZVVDU0dFp2TF9HRXY1NUhPRW5GcndrWS15Qmg3N3V4VHc?oc=5",
-      "summary": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon WIRED",
       "badge": "new",
       "date": "2026-06-12"
     },
@@ -450,14 +466,6 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzRKTmg2VkVwcU1vQlg2ODI1RFViWWZDVmFKYWtETGU5VGhBR2o0MS0xVzNGcFh0MHdmU2ZYSnJiek1XMzR2aXF1WWNhOEMwUnNZM1RKTEtWWmV3RV9xSzduenJrNHZSTmVIeVpUSld3dlhiMHNjVjNZa2Zsbkp3MGxDNXNQUHhFcklZcXZ5cnB3cDJyQ3FXR2tMVEJGTUNKbERDTUFVZ3lmbEk0alRjd241YXBETUpJMXc?oc=5",
-      "summary": "Perplexity to pursue 2028 IPO irrespective of OpenAI, Anthropic listings - report Seeking Alpha",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Amazon",
       "title": "Amazon Ring Lawsuit Puts Face Recognition on Trial - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JQktVZktVc3pvSFhkTGhUM1VUZkpIcGVpN2p5RHRlNUpwMzg4X1lkUzN6YU10UGlvdmRzSzZFMnktbzZJbUJ2TXRhR3JoeUpsdEIxYmRqUnprSkdvcVBkY21Cc3gxTjR0eHZRSUJRci0yV2RDS2M1Q1BBQzg?oc=5",
@@ -560,14 +568,6 @@
       "summary": "Ring's AI feature raises privacy alarms FOX 9 Minneapolis-St. Paul",
       "badge": "new",
       "date": "2026-02-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon adds controversial AI facial recognition to Ring - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJaei1OWUwzOEtMeTdYbklLZFd5WTRzOVpWYUhRYnVrNjNwcUtrQy1HVmVFT3NNTHRpa21nc2FCVVdjeFdOcGxKQUpaNmFKSUZ6TEYwbGJERERZTEJMSEtaV2xWOTlHM2lMczIzdEpkekNobUEzN3dNVnMxNjA1Q201UUsyYmZP0gGOAUFVX3lxTE9mMmFUYUJodTdKMEsyeElRdGwtelBsbndLX1pjd182YTQ0Q2F0QmpobHctT1pPVUdqcFlUdGcxZHlnZmpjYkctWGUyRGZEMGwxdFd3SG8zeVpjY1ZDUFBiQUdlUU5RVEE1VUdGWEFPNXhaTFRrNjBURFJtUlBYMnpEZ2hsQ1FLSjNsVmg2S0E?oc=5",
-      "summary": "Amazon adds controversial AI facial recognition to Ring Fox News",
-      "badge": "new",
-      "date": "2025-12-25"
     }
   ]
 }
