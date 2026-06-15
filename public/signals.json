@@ -1,6 +1,86 @@
 {
-  "updated": "2026-06-14T19:18:34Z",
+  "updated": "2026-06-15T03:39:34Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDB5M2RIbUFud1NSbFE4UFAxM3kzTkJoem84TTJRakdieUJsQ21naVpYZGxaLUY0S0ZOZFdVTk9saU5WVWFsQzMySldadlg1a2pxYk9tWl84Q2pxQWc2QU51b2YwQktkM0FyR3l0eDVPUURiNEpSeUwzZUhzeElnREcwZkItUldaSTI1N3R2U2tqY2ZPeHVDMll2Y2ZrQ0UzZ1ZzamNzNVhJa3dlaVlDdQ?oc=5",
+      "summary": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions WSJ",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Cyber experts warn Fable limits aid attackers and hurt defenders - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlBTQXRvLU43T1JRX1UzU2hlNnlBRkZMVEctTkt1aU5xQjFhX1h6VEN5bkNFdmlkVlNrUWJ1RUxwRTNnSGJqSHpFeUNseVZHdGozREV2S0pJY3VGRmlCa0pEeDRWRk5sc3h1RjQyTUZsSjNOUzBVQkpFTVlNbGlKNm5VMA?oc=5",
+      "summary": "Cyber experts warn Fable limits aid attackers and hurt defenders Axios",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "badge": "hot",
+      "date": "2026-06-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic scrambles after Trump administration freezes its top AI models - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd082R3dYYTZMZ2tMSlFGSHZSS19ZOGpweE9nTEZpMFJxTzctNF9fNDA5NnBlTzhZMGhKdnFYb0w5czJzbU1iMXZHc0x0cTBxeTRaUURLR2NLYW8zOC1lRHVRd25vZnBBM1BwVWpmOVBXa1ZVY3Ywa3BvaFhkSXJ2STlVWkQ?oc=5",
+      "summary": "Anthropic scrambles after Trump administration freezes its top AI models Financial Times",
+      "badge": "new",
+      "date": "2026-06-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Donald Trump has cut off access to the world’s best AI model - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTVXQmJyVkQzSHMydFNyMFAzaFdCbkNLT21LVGNoYVlIc2VIcDVJNjVUSFB5RDlIM3NmRC1DR0x1Q2k0S2twUVdzci1DR2ZITmlhdHgwU2tRNGlUbmJZODg2RjkzUU5pTU5IWUlqSWxDN0dUemRhLWhncDVPR1lzMzNLdzZoNldQeGVEUzVmRDlpWG82Snh3MUs5MGlUY3pGajRIa29tTHk?oc=5",
+      "summary": "Donald Trump has cut off access to the world’s best AI model The Economist",
+      "badge": "new",
+      "date": "2026-06-14"
+    },
     {
       "company": "Anthropic",
       "title": "Senate Democrat agrees with Trump administration on Anthropic model takedown - The Hill",
@@ -50,18 +130,10 @@
       "date": "2026-06-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Will Anthropic Offer Claude Fable 5 Refunds? - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnMyUkV1RkdCaUM1MUhOWUd1aWNCdkNVOVpUNHNaM2xsRy12b1hsR3YwUktPb1FKRzlFWlhoTnM1M0xYWGtFLXVRQ3Vib2dGa3dhX3ZOcnpVNG9FMVZ0bC0waUlQSjN4TXRkdzgyMFh4a1lQOW0xenJDZnZLMGxpeVdNb3RkZEx2SFh3cmVrbTJVYUdsQm9Fc0g4cE80Zw?oc=5",
-      "summary": "Will Anthropic Offer Claude Fable 5 Refunds? Forbes",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVhzZDAxRnI0OHVIdjk0TDI4UTBsLWN6Mi1ZU2tjZVZtTnNYQ1I2bl81elRjbWtxQTIwSkxSNzhlOGw0YVQ3WVlGYjYwWk1PVVNLS0hjczN5OEVqQXAzNHRheWxJMU8tbnZQTDFxM202ZnNJVC1Oby1zcVQtRk95NWsybw?oc=5",
-      "summary": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models The New York Times",
+      "company": "Microsoft",
+      "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSzhHY3VwM2x4SWY1VW9hdUZDWEl4VjhQbjY1MmpoUXhUYzRkREVMem5SQVFQaUxveWQwZEFfQlMyMmtEVW9ZeGJ4Uk5aeE52eTVkQXJWTXI1WGxPZVBUaktkbXQwSnRaMnlQTkVRQ09mX01WVlBHaTRxa3ByblBRQ2lieVdNLVlpSnVtRTZIQWV4cEJBYjdnOGkwSHdMd0Zlc3RzWG81aVF1bS1Jb1dyOWVDMFBXUXNBaEdYRW9sVkNYUC1EQVRBNWc0dFUycXcxcUp1LXBqRENLR3h6UkZCLUVKT0J0b3JzZ0JoaGNXMWVGLU53b3dGaGtqVVNDU3piWWVDX2xkOTBXR1pTSDRzUnNkSnRPc294OC1ZWGV5R1JLOFVwQUtQOHhYQjNyM0hzRlpWbC1pNE0xcndaLVNDSFdOeHpETkU0TldDaU0weXA2dEd1Tktxa3NQQkliR2JiaWJ6elBJOUZaUQ?oc=5",
+      "summary": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode tu",
       "badge": "new",
       "date": "2026-06-14"
     },
@@ -75,57 +147,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSzhHY3VwM2x4SWY1VW9hdUZDWEl4VjhQbjY1MmpoUXhUYzRkREVMem5SQVFQaUxveWQwZEFfQlMyMmtEVW9ZeGJ4Uk5aeE52eTVkQXJWTXI1WGxPZVBUaktkbXQwSnRaMnlQTkVRQ09mX01WVlBHaTRxa3ByblBRQ2lieVdNLVlpSnVtRTZIQWV4cEJBYjdnOGkwSHdMd0Zlc3RzWG81aVF1bS1Jb1dyOWVDMFBXUXNBaEdYRW9sVkNYUC1EQVRBNWc0dFUycXcxcUp1LXBqRENLR3h6UkZCLUVKT0J0b3JzZ0JoaGNXMWVGLU53b3dGaGtqVVNDU3piWWVDX2xkOTBXR1pTSDRzUnNkSnRPc294OC1ZWGV5R1JLOFVwQUtQOHhYQjNyM0hzRlpWbC1pNE0xcndaLVNDSFdOeHpETkU0TldDaU0weXA2dEd1Tktxa3NQQkliR2JiaWJ6elBJOUZaUQ?oc=5",
-      "summary": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode tu",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Microsoft",
       "title": "I cancelled my Copilot subscription and switched to Claude for Office tasks - MakeUseOf",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlE3aEtobTMzNTFld0I2Ykg0RzlnQnR0M2ZmcW1CMGxSY0NYUEtROWJWaEhwV2pONjN3dmlKaUFiZFY3cHBsQ1RhTmpHWjB6MFBJaGtoc1d1WGVhbVdIbEZCektwTDV0dUhZQVFDQjhJV3gxenFnTlRDRGlZZ3I3OERmYw?oc=5",
       "summary": "I cancelled my Copilot subscription and switched to Claude for Office tasks MakeUseOf",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
       "badge": "new",
       "date": "2026-06-14"
     },
@@ -139,14 +163,6 @@
     },
     {
       "company": "Meta",
-      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
-      "summary": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Meta",
       "title": "I tested AI glasses in Paris. Here’s what they got wrong - BBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGxxMFU1dmZFZ294Rk52bDJKSVhKQkJENi12WWVtVzdzNVo1eTh3bW5CMlV3cjMtSzNVa0pKZWNzV2hqYnRtYU13N1h4aEhlRXVwbW56cWJoSTdCc01JVFNFVjVjUWIxVkZGNUlrbWc4eEg3U3FJeE5ySm5aQlB5NlQ3ajc?oc=5",
       "summary": "I tested AI glasses in Paris. Here’s what they got wrong BBC",
@@ -154,18 +170,18 @@
       "date": "2026-06-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
-      "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
+      "company": "Meta",
+      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
+      "summary": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus Yahoo Finance",
       "badge": "new",
-      "date": "2026-06-13"
+      "date": "2026-06-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic - Politico",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmNyT0lUWmM2aVFRWTFwcjd3QmpMTGtWNnRQd0puTW5rZXhfaEUwRHVKajRveTVtWFNfTWdwLUZDZHlqUTJyVkFheGJaNzZrNF9rSUFXWWN3MDY1YTVaU29MR0JJTGJ6OC00aU9tdVhzLWVSeVZJa2JNTlJaVUdkbE1OUFdSemJ4RGx0SllydzBZRVpQSDlvUUNTSDVaNW00VVBacEJmaS1mWEUwNjFIZHlORk8xWHp5c2pzWGt5OG1QeUZhVWxPQ1pnbzgzd0RrdUdrRC1jVXA?oc=5",
-      "summary": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic Politico",
+      "company": "Perplexity",
+      "title": "Perplexity CEO's secret to success is ‘sleeping with that fear’ your competitor will steal your idea - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONl9XeXdOZzQwYTdIMnRWQUgxWURZelhaWkZjcW5RNW9fNHBLY2ZZMTVMT0l0Nk1YUlZBaUEzWXljNTFEbGtQcWhmRTJXaDFMUjVqMGs1OGNnWjM0bTlIWVZVemI3QlVvOVJCNlZDNU5UQm9QWUhuNl9sbzNMeVFZMHZfc1FiakJ0X2NGX3NEY3Etd0loV0VTMzBHWXFJb1pqWU5qUlJucVZzYWxZZEhqM2dkME9sUkI1b1FYVzVhOFplY29iQ0tGNTBXcw?oc=5",
+      "summary": "Perplexity CEO's secret to success is ‘sleeping with that fear’ your competitor will steal your idea Fortune",
       "badge": "new",
       "date": "2026-06-13"
     },
@@ -267,17 +283,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "badge": "new",
       "date": "2026-06-11"
     },
     {
       "company": "OpenAI",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -402,14 +418,6 @@
       "date": "2026-06-10"
     },
     {
-      "company": "OpenAI",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTFVa0JiVVVhTlRkNFdnSlc3OVBkSmtnVGZndmxMeWFuaWdNOUs4NUFuMUJlREtmcU5xaVlYazh4cFlPMGY0UkhtTG03TlREUm1SYUYtejBNRUR0VmZkYjhrM3dlOUxYZ0FxQTFRdm5ZSUl5QTlHNXlkZUduZEVNRURLQS02c2JxbVphOUNpWlNKWWRmY09BV9IBngFBVV95cUxOT2w2WUNKUmNudkNiNEZPNGEzcHBVSTdPRFFFX3N2WFIwd1RrcW13RUpSVThvVkozNzZGV1RpNERjTUp5X2RTNWRZZWJCRGVRRmFPa2FRbTV2QjQxSjMtU2NnYkZfYUx5emhvSTVjdGMxLWZBNThibHNrT1hKZVhPLXlNcDNFWUJIMkphSzBUaWk0bVRYYVdILUpZT0ZSZw?oc=5",
@@ -528,14 +536,6 @@
       "summary": "Gemini Omni & Gemini 3.5 hero",
       "badge": "new",
       "date": "2026-05-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit - CNET",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWFST2ZpTklDOV9pb0ZSN0sxdFJBZWFjeGpaRV9Na2s4V0xpNEJKZUFvSVVudngwT3JZWGh1MG1UYW52UzVTbEU0R1NWV243bUU4TjNQaXJUVVQxcGlsR2lLNlBFTVdfNTc2SHdXSnYzQ3NVVFNhdDhyY0xyWno2ZVdrbGJWN1ls?oc=5",
-      "summary": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit CNET",
-      "badge": "new",
-      "date": "2026-05-28"
     },
     {
       "company": "Amazon",
