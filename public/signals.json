@@ -1,11 +1,75 @@
 {
-  "updated": "2026-06-15T20:50:29Z",
+  "updated": "2026-06-16T03:35:17Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5",
+      "summary": "Trump promised to bring order to AI oversight. That lasted 2 weeks. Politico",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVQtTGNSeHJCYkUzMEdEbE5tZGoxOVM5cHpIZWRkR3Z1UktDVENfV2ZFQ1FoWWRVbE5NREotSkdHeEM5Rmtic0tPYlRXbVNNeHpTMmtTVGg3aVh5TGZSbTNNUVZhaDcyRjYyMlhXcUQwUDVOX3FveFo3Q25wU1gzWnIzYVlwTWNOTk91TTFPMUNTbUdja1NCdGpaZmpOZ0JPQ2N3YzUzZ1p0elk?oc=5",
+      "summary": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access WSJ",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic to meet with Trump administration over Mythos dispute - CNBC",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMkxIeW50V0lJNE9adjByRTNFMlJJaVgzUFFhc1Vud0J3eWNRLWlNVndqQTNORE1IYmRTbmdqVUNWUEtPNUZNLXRjLVl6a0NycUNPdkJGeXEzWU9kalVGTzRpUklEM0NhYlJaVHNLVdIBdEFVX3lxTE1rQzFZc0hkX2NFNzJMNTNIQncwcGhpUDc3ZlExekxSaW9mSjVVMFJrdGZUcS1YWVhST0VZYlhPOFJXd1ZsSjBWVkkxOGVZT0FGalVPQkt1eVJFeWFCOFpMdHJBUzRiU2JzQ0l0Z0lBYjlGbnpr?oc=5",
-      "summary": "Anthropic to meet with Trump administration over Mythos dispute CNBC AI Stocks Are Rallying on Iran Peace Deal News, but the Risks Just Got a Lot Bigger Barron's Donald Trump’s blocking of Anthropic i",
+      "summary": "Anthropic to meet with Trump administration over Mythos dispute CNBC",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5",
+      "summary": "Why the US government shut down Anthropic’s latest Claude AI model The Conversation",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -58,34 +122,10 @@
       "date": "2026-06-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamF0YXZhUFpDUC1pdXlvMlV0OEROemotQWlxdHFoaGdsY3FTVHYtSVNuNzhpSXJ2Zno2cFdJNVpxbzZOdHZlMWltRjE3aXU0T2dQdElTOE1EX0Vuc2Zhc3dTMjVJdWhBakEtdVhlaHNMNzRfVE5EaVI3ZzlUeFZ4OFU4dDNadVJDYzU3R0pCdTV4Y1hwbWZHUHZNSnh6dlltVWx3SWFKd0ZGV2V4ZENmUjlaSUVKZzA?oc=5",
-      "summary": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI Bloomberg",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Cyber experts warn Fable limits aid attackers and hurt defenders - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlBTQXRvLU43T1JRX1UzU2hlNnlBRkZMVEctTkt1aU5xQjFhX1h6VEN5bkNFdmlkVlNrUWJ1RUxwRTNnSGJqSHpFeUNseVZHdGozREV2S0pJY3VGRmlCa0pEeDRWRk5sc3h1RjQyTUZsSjNOUzBVQkpFTVlNbGlKNm5VMA?oc=5",
-      "summary": "Cyber experts warn Fable limits aid attackers and hurt defenders Axios",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
       "company": "Google",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVRTVXRfVW45UlJ3YjlkdzJSVVpNTFVPeXBMdUhNTjdGdU9VdVZ4QVNxankyWXUxTVZsaEVqLXV1MTR6ZUxrNXZBOVI3eE9fWjJvNWdwM3pIZUtuYVhMTnB3bWhGTFl4QmJXak5EZzY5ZG56bEtKRThCS0oxSU5ucw?oc=5",
-      "summary": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes The Hacker News",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -99,49 +139,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONS12aGFheEZqQjZ4bDJPNUZvS1QtdXBYRGhpS19lTmZRZFY0T2M0akswVzM5d3d0bWFKZjZhYkc1bnY2VTVueTVDMHd4SU1vMGQxOXctRFlrbUdHT3VoeVBPNnJ2cWVkVzNJQkRmUWVnc0c1NTA0VExhYXpBQXEwS1oxVnNXOHhnTUsyU3VGRFhrZTFXT3lCZWJickR0ZTYzUUp1eA?oc=5",
+      "summary": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVRTVXRfVW45UlJ3YjlkdzJSVVpNTFVPeXBMdUhNTjdGdU9VdVZ4QVNxankyWXUxTVZsaEVqLXV1MTR6ZUxrNXZBOVI3eE9fWjJvNWdwM3pIZUtuYVhMTnB3bWhGTFl4QmJXak5EZzY5ZG56bEtKRThCS0oxSU5ucw?oc=5",
+      "summary": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes The Hacker News",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Microsoft",
       "title": "Copilot outage. Is Copilot down? MS365 Copilot down for many Monday - Asbury Park Press",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJ1X3YybmJUdzMtalduaUtPUnhiem8zSFk4UmNtOGx6YjRZcTBFXzFZYVBYdV9qZ2FjbTFPVXVKaHk4SGwxQW5XRHNuQy1JdFNfbkZiVkVBdy15aGFKeGFFeHo1QThTdE1YMWxxeURvTmtqX2pnNGJEODROMDFORFdQUDFkX1BUcmxOUkRwUC1HU0IwOTloWFdvdXlONEdQRDFXTG5uMXpLN19wd3c?oc=5",
       "summary": "Copilot outage. Is Copilot down? MS365 Copilot down for many Monday Asbury Park Press",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -150,6 +166,38 @@
       "title": "Perplexity co-authored the study that praises its own AI agents - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGREZ3ZYbEMwLUU4cXZCQjQ5ME10aWlPLVpjVXAxUDZRTjZlMzhvZThTbEg3bmx4WFVQcHpSZEg0VWVxdkRKSFlsSjVOd3kxN2xSQWVVTWVIUzFIRWowZ1BkOTJaV0J0anltSXRnZG9nbUg2cUtGNWVUbEJQc29sSmpLU3haWEJW?oc=5",
       "summary": "Perplexity co-authored the study that praises its own AI agents PPC Land",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Cendyn Unveils Wayfinder to Help Hotels Beat ChatGPT, Gemini and Perplexity and Dominate AI Search Visibility - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvY1dyWlpQc1lXaXJyNjhtdG16NkNhZnlyVVZ6c1k1OXFJcENTcHFXblcxQ01TWFlTUzRTYms1OWtjZ3kzMXJ5T1lSQkNwenIwUjNScFZKMEY1SjRRbU9pOG5JbmlxdEZRTEpZaWFB?oc=5",
+      "summary": "Cendyn Unveils Wayfinder to Help Hotels Beat ChatGPT, Gemini and Perplexity and Dominate AI Search Visibility Travel And Tour World",
+      "badge": "hot",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Meta",
+      "title": "New AI Tools to Help You Make Things Happen on Facebook - meta.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFQ2a1E5SGRLNy1CZENhR3B3eWw0LTk0QWVIT3gySVIwenFHYUkxSWNDbkt3djR2YkZUZnZ3MEdnM24wSWtzc2ZQSHk5VjV3ZlgwampXTDF3ZTlUbG1YU3lkTjVBYk5QWVBnaWNBUzhoQ0dRUl80cUVzdjNQQ1U0ekdPTGdsUjJsYzM4cnludFNGRHRf0gGaAUFVX3lxTFBBUDVNOHBhd1JnSmhhYXNyTTlKbGFjekdEdDJ6a290VFVJTGlKOTV1WHUxZmFKQlBGU0xiYjRBdHVvRTR2eElhWkhSNmxUX1lKOXZYMFpoYzktVnI4QWNUbkNqT0xBUEx5VGgxclVWQUlDbGZVZ3A1LXlMZnIzclNfdE02NGRDS1BLdjNjYWNXb3pWcGdDQnExSGc?oc=5",
+      "summary": "New AI Tools to Help You Make Things Happen on Facebook meta.com",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Porn company can sue Meta for torrenting its adult films for AI training, judge rules - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBySlg0RkVTMzRNWnNiUzNHQ0RrNnBWSHRzbi1XOXBTT04yM0t0cHZlMWlUQlgySFhlUkpGckdpdU1NX2pHYS1uSTU0YVp6UGlvVGlNbVZWaGNaY2t5bUtXdE5SWG51eEE5akdRcXFrR0haWXl1U2E0XzhBc0Q?oc=5",
+      "summary": "Porn company can sue Meta for torrenting its adult films for AI training, judge rules Mashable",
+      "badge": "new",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta offers free AI glasses to eligible legally blind veterans - WCNC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakxuYWkwam5hYm1EX19FWWhHM2NiNmVnMDFSQ0xKQ005QWp3LTRvNEtLR3oyQzU5cHg1T0NSQ3I3bzBNSWRYYmxyZkJzQ2R1VHBlUWZla3JwMG14OFF5dVpoM0V5djBjMzc2UGN0X3ZwUTlWb1RFelpRV09NZWZsRlkyS1VWR0VqWEx2UzU4SW9jelc3blB2SUJQUktYb1A2X3plVXZic3luYXEwY2xGTUlQcno4S3N5bWJONjlOenE?oc=5",
+      "summary": "Meta offers free AI glasses to eligible legally blind veterans WCNC",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -202,14 +250,6 @@
       "date": "2026-06-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Donald Trump’s blocking of Anthropic is capricious and chaotic - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkQ4TGFDTGx6YlQ4U2VraWxFaUlpY2l6VnEtYjhmajlDLWZwbU9DV2hlbTQ1S3gxRWlmYzRPTWR1TFBhZmxkVmRoMVc5dm1vZGM5cUMxSl9KcG9KTWZOeC1lZGYzdWNxWnZ4RlBHeGlDUG1OTzVSZU02d2pSWXZUMEFfVjJKUDVfUUtrVzExcEZIbUxIN3dmUEFlRmMtNHAxUWxMaUFJaGhiTU0?oc=5",
-      "summary": "Donald Trump’s blocking of Anthropic is capricious and chaotic The Economist",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSzhHY3VwM2x4SWY1VW9hdUZDWEl4VjhQbjY1MmpoUXhUYzRkREVMem5SQVFQaUxveWQwZEFfQlMyMmtEVW9ZeGJ4Uk5aeE52eTVkQXJWTXI1WGxPZVBUaktkbXQwSnRaMnlQTkVRQ09mX01WVlBHaTRxa3ByblBRQ2lieVdNLVlpSnVtRTZIQWV4cEJBYjdnOGkwSHdMd0Zlc3RzWG81aVF1bS1Jb1dyOWVDMFBXUXNBaEdYRW9sVkNYUC1EQVRBNWc0dFUycXcxcUp1LXBqRENLR3h6UkZCLUVKT0J0b3JzZ0JoaGNXMWVGLU53b3dGaGtqVVNDU3piWWVDX2xkOTBXR1pTSDRzUnNkSnRPc294OC1ZWGV5R1JLOFVwQUtQOHhYQjNyM0hzRlpWbC1pNE0xcndaLVNDSFdOeHpETkU0TldDaU0weXA2dEd1Tktxa3NQQkliR2JiaWJ6elBJOUZaUQ?oc=5",
@@ -237,7 +277,7 @@
       "company": "Meta",
       "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5",
-      "summary": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it CNBC",
+      "summary": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it CNBC ‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess WIRED Meta Employee Hijacks AI Livest",
       "badge": "new",
       "date": "2026-06-14"
     },
@@ -258,34 +298,10 @@
       "date": "2026-06-14"
     },
     {
-      "company": "Meta",
-      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
-      "summary": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity CEO's secret to success is ‘sleeping with that fear’ your competitor will steal your idea - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONl9XeXdOZzQwYTdIMnRWQUgxWURZelhaWkZjcW5RNW9fNHBLY2ZZMTVMT0l0Nk1YUlZBaUEzWXljNTFEbGtQcWhmRTJXaDFMUjVqMGs1OGNnWjM0bTlIWVZVemI3QlVvOVJCNlZDNU5UQm9QWUhuNl9sbzNMeVFZMHZfc1FiakJ0X2NGX3NEY3Etd0loV0VTMzBHWXFJb1pqWU5qUlJucVZzYWxZZEhqM2dkME9sUkI1b1FYVzVhOFplY29iQ0tGNTBXcw?oc=5",
       "summary": "Perplexity CEO's secret to success is ‘sleeping with that fear’ your competitor will steal your idea Fortune",
-      "badge": "new",
-      "date": "2026-06-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjY2dDg3bWt1LUg5SlNIZkxrbUJZQV9zN3VEZXVYQ2FBQkZ1RGU4ZEFqMVV2S0s5NnU4YUtCd0VTT1MwWGRraXJzc3RFdEdEemViUzAzaElaX1FHYWlrVHBlR2VTSkVVTWJqdXJaUmNmSTVnZzh4elFVTWZFRWVqSWxKYkxLVjZieFBiM0xLZXVHMGE4U1dtdFNyTW9EWEIyazl2c0JHVmFZbnVUdFlQSNIBtgFBVV95cUxNTU9PMFlSWEhOYXFfb0tpY1hqTzFSR3R4bms4bV9aS1dWUFRUY1BSLV9Xekt5UGpEeFZKcUJheWZwbTc4QzZHS0JsTkE2Yy1SZ3hJRk8yaHUyQ0U4UUdBYUZtV3hJdVhZUVBObFBEVV9TVnVnd0J5X0hyTzF2UFhSb2NMT1lIVVhvemdWRUE5aFplYkhpZ2R0ZFhIcVB3djZrWTR4UXN5b3dlYmJGdHV1eWlaQTZRZw?oc=5",
-      "summary": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report Fox Business",
-      "badge": "new",
-      "date": "2026-06-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta employees are revolting against its AI rules and it’s a lesson for us all - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWlmbE1BaWFNUHhjMHZCQ01tTGFEZG03V19RNzNYbjJtemtPLWxfR2NSdXVBdGdCNXA2MU9QelFCQkl4akxMRUFQSEZFYW9EOFFKZGt6TGVZRGdrdWhsaF9XQm9DdXpvRUJIcU9JWnktZzVQbGtQMlNCSjdJRUQ2U2dMc0xZQ0hHcHVzWnJXLTV2dEdQOGMxd0dQVFhJdlgzcW83NnFCZm9TZHY3X1dTMnFlY1pPNXNyeFE?oc=5",
-      "summary": "Meta employees are revolting against its AI rules and it’s a lesson for us all Digital Trends",
       "badge": "new",
       "date": "2026-06-13"
     },
@@ -378,14 +394,6 @@
       "date": "2026-06-11"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Confirms Second Copilot Outage This Month - crn.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTg3b2pDQXd4b3VBeFhuMWtZNkpzNkNWMnpYOGdtcGtURGJCOUtrcER4M01wRGZHM2RHNi00elRkVTRoVXBqMFhiNlFVZ2FTMmVaVVZPdjcyYVMyNWVwNkc2N2lJcVhETFlodEhRWjNKbVFSRXBUdEVwc1lXa19yZVBlOVoyLUxNODNXQw?oc=5",
-      "summary": "Microsoft Confirms Second Copilot Outage This Month crn.com",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
       "company": "Perplexity",
       "title": "US appeals court tests limits of 1986 computer fraud law in Amazon-Perplexity AI dispute - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmRTLVE1ZC1YdXJRa1MxREdkTzJHczFZQ2hyQTZMd180VnJ1Y2s2b0xzN3NfV1QwdEJHbDVMbDA3bWJUcUdLZmFzUkZvdUJKVEd5QTZySzUyU3UyOER3V3psbnpZUkJQbjlZVmNDN1VzeWFMQ0JVM09tXzN5N2VtRW85VFJ4TXU3cVRNOVJlMngtLXlwUzhacks0ZkxIZkhnajRCSnhXYzRobEN1YkR2bDFkNHNKMUw1Q0I4YjhjdzJlVGpGa0E?oc=5",
@@ -466,14 +474,6 @@
       "date": "2026-06-09"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVpZENXZ2NCb0YwbTF0c0ZibDl4YkFEaHpiQmhSOUVELXRaYkFUdHVLelVkUF9FNWZ0Sng4dFhRWEZBeGJiTzZFUHhaNm50NHMwVUl6QXlXT2Y3TjZBaXUxNmxZRGJNTXpsb2YydzBVSnViVTJfdjlUSl9iRjRmQ1BxLVdmdjdFZGtVRDBQWFRfbXQ4VFIxYzNSWWt3WkloSUE?oc=5",
-      "summary": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO PYMNTS.com",
-      "badge": "new",
-      "date": "2026-06-09"
-    },
-    {
       "company": "Amazon",
       "title": "Amazon Ring Lawsuit Puts Face Recognition on Trial - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JQktVZktVc3pvSFhkTGhUM1VUZkpIcGVpN2p5RHRlNUpwMzg4X1lkUzN6YU10UGlvdmRzSzZFMnktbzZJbUJ2TXRhR3JoeUpsdEIxYmRqUnprSkdvcVBkY21Cc3gxTjR0eHZRSUJRci0yV2RDS2M1Q1BBQzg?oc=5",
@@ -499,17 +499,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring cameras track your face without permission, $5M lawsuit says - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUM0TTZEUUszUE5EenpVa3pNOEpHVUlhWVlWRFFTZFptMU5OV2l6cmw3eVJhMXlOUjNfOXo2c3VpNWE5aG5BdlJJaGNiVGJhNC13U2JwNTd5RGxxbGhUeTcybGZKeEN6UG9FSnZaZUFPNjRSRDIyVnI2cVM0azFlZGdPZ0o1MW8tLUp5RkRYUEVxT0xmME1wQmtsTEVGb3hkSm9QbzRBNHZGZGRBN1V6WFJtZGxHdUFra2hRcmlKQzlfY3I0VFRrLXg3YW9acVcydmRvUjNRNUY5SkU?oc=5",
-      "summary": "Amazon's Ring cameras track your face without permission, $5M lawsuit says Tom's Guide",
+      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - CNET",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
+      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws CNET",
       "badge": "new",
       "date": "2026-06-03"
     },
     {
       "company": "Amazon",
-      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - CNET",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
-      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws CNET",
+      "title": "Amazon's Ring cameras track your face without permission, $5M lawsuit says - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUM0TTZEUUszUE5EenpVa3pNOEpHVUlhWVlWRFFTZFptMU5OV2l6cmw3eVJhMXlOUjNfOXo2c3VpNWE5aG5BdlJJaGNiVGJhNC13U2JwNTd5RGxxbGhUeTcybGZKeEN6UG9FSnZaZUFPNjRSRDIyVnI2cVM0azFlZGdPZ0o1MW8tLUp5RkRYUEVxT0xmME1wQmtsTEVGb3hkSm9QbzRBNHZGZGRBN1V6WFJtZGxHdUFra2hRcmlKQzlfY3I0VFRrLXg3YW9acVcydmRvUjNRNUY5SkU?oc=5",
+      "summary": "Amazon's Ring cameras track your face without permission, $5M lawsuit says Tom's Guide",
       "badge": "new",
       "date": "2026-06-03"
     },
