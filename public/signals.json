@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-16T16:41:15Z",
+  "updated": "2026-06-16T20:44:20Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
     {
       "company": "Anthropic",
       "title": "How Anthropic lost the White House’s trust — and then its flagship product - The Washington Post",
@@ -11,17 +19,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVQtTGNSeHJCYkUzMEdEbE5tZGoxOVM5cHpIZWRkR3Z1UktDVENfV2ZFQ1FoWWRVbE5NREotSkdHeEM5Rmtic0tPYlRXbVNNeHpTMmtTVGg3aVh5TGZSbTNNUVZhaDcyRjYyMlhXcUQwUDVOX3FveFo3Q25wU1gzWnIzYVlwTWNOTk91TTFPMUNTbUdja1NCdGpaZmpOZ0JPQ2N3YzUzZ1p0elk?oc=5",
-      "summary": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access WSJ",
+      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2FNV0JNTkxCcWMtY0lNRnlReFI0WGl1ZThhTXFBTVNpZF9ZalFKRmJlYWw1ZlNrdDU2aXBncktwbEhVRU1HUUJvODhDMWJQTFhCMGtKWW5EUWlsX0R0TVZvaFFjU0JmYmpPRUNCUDk0UkN3NGRVenZ5ZXQ0djJjR29zVjRYc1hGR28wOWFwd2RGcFMwYjRxbUR5aUdjVXc2aENXTVBNS29PRDjSAbABQVVfeXFMTnhYNVlSeVd0M3dLQlFObjJCSm0wQ09FbFdtTDd2ekFuRjc4aHJyb2lucV9lbGt4NnA5VlIwdGdjRlJGS3RmYVdNS0NiRWxkQUI5Y2VnZ29Zak5vY0hFNWtpOTVLR3YzRnAtUXZEMnZ3dWlMT29TeXdwZWREVmVLSTZvNEQ4STZuN084MGdBNlk5OVNrdjF4WWlrWVJUSk4yYzdpYkFObmdyT0JITGt3Y0w?oc=5",
+      "summary": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach CNBC",
       "badge": "new",
       "date": "2026-06-16"
     },
     {
       "company": "Anthropic",
-      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2FNV0JNTkxCcWMtY0lNRnlReFI0WGl1ZThhTXFBTVNpZF9ZalFKRmJlYWw1ZlNrdDU2aXBncktwbEhVRU1HUUJvODhDMWJQTFhCMGtKWW5EUWlsX0R0TVZvaFFjU0JmYmpPRUNCUDk0UkN3NGRVenZ5ZXQ0djJjR29zVjRYc1hGR28wOWFwd2RGcFMwYjRxbUR5aUdjVXc2aENXTVBNS29PRDjSAbABQVVfeXFMTnhYNVlSeVd0M3dLQlFObjJCSm0wQ09FbFdtTDd2ekFuRjc4aHJyb2lucV9lbGt4NnA5VlIwdGdjRlJGS3RmYVdNS0NiRWxkQUI5Y2VnZ29Zak5vY0hFNWtpOTVLR3YzRnAtUXZEMnZ3dWlMT29TeXdwZWREVmVLSTZvNEQ4STZuN084MGdBNlk5OVNrdjF4WWlrWVJUSk4yYzdpYkFObmdyT0JITGt3Y0w?oc=5",
-      "summary": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach CNBC",
+      "title": "Anthropic incident leaves confusion about Trump administration's AI regulation - NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzNiRnVqVi1PYkVlREJpMk5MX2FpUTRMNkZOZGFuODUtVXlxeExIbXN4YnZBa1lsRENYR3h1UExnaWNIYVN3UGxUNGV6UU5ld1ZKV29NdmhveGZnN2JKRXEyQV92bEtIZGpEa2pWOVdoMGpyaUV0QmNBeGtVVWtqVDQ5TmxRVlFZcEhLdlAtUTRrNW9qbU1rMHF3TUF3T1hORjdLOFlUVkU4UmNlVjdnWjRER0JXbk1FNWY2QjEwbw?oc=5",
+      "summary": "Anthropic incident leaves confusion about Trump administration's AI regulation NPR",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Agentic coding and persistent returns to expertise - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5",
+      "summary": "Agentic coding and persistent returns to expertise Anthropic",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaVQtTGNSeHJCYkUzMEdEbE5tZGoxOVM5cHpIZWRkR3Z1UktDVENfV2ZFQ1FoWWRVbE5NREotSkdHeEM5Rmtic0tPYlRXbVNNeHpTMmtTVGg3aVh5TGZSbTNNUVZhaDcyRjYyMlhXcUQwUDVOX3FveFo3Q25wU1gzWnIzYVlwTWNOTk91TTFPMUNTbUdja1NCdGpaZmpOZ0JPQ2N3YzUzZ1p0elk?oc=5",
+      "summary": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access WSJ",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -67,17 +91,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjcxbGFqR0d0SlA5SDZtMEs0QlFnaF95WDh1bktLMTh4c3FEUWhWc0ppeEltZWZVWlZzU1FjRHR1cUt5czJrVFBzb2hndjdmd3g2YVUtSXFJOTNtQUlnUG82c0JReFlPOVI3V0xTaTBSN0tvZUdvLVFaN2FQNHpublp5Q0kyUFlQOS1hXzNtYW1BcU5Cai1vMnpEemFaUVhXTjVpeVhDazJoMUs1NXBVTVFwTThIcG8?oc=5",
-      "summary": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users Ars Technica",
+      "title": "Microsoft eyes DeepSeek for enterprise AI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFJsMGEtZFFZX0puaHo5UThqSHhlM0dfRXJTU2xXNXRsSWpVR1BTQ1VIXzVIVjBNYmdtTnFvM0MzblBvMDR0bXBMVEd5aFNhTWhuYm9BWElYYy1CUGVxZ01WT1RnVUdCdUVSMDhLZlFPMXpTRElrSUg2a3dYTVBrSkVhNA?oc=5",
+      "summary": "Microsoft eyes DeepSeek for enterprise AI Axios",
       "badge": "new",
       "date": "2026-06-16"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft eyes DeepSeek for enterprise AI - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFJsMGEtZFFZX0puaHo5UThqSHhlM0dfRXJTU2xXNXRsSWpVR1BTQ1VIXzVIVjBNYmdtTnFvM0MzblBvMDR0bXBMVEd5aFNhTWhuYm9BWElYYy1CUGVxZ01WT1RnVUdCdUVSMDhLZlFPMXpTRElrSUg2a3dYTVBrSkVhNA?oc=5",
-      "summary": "Microsoft eyes DeepSeek for enterprise AI Axios",
+      "title": "Microsoft is considering using DeepSeek models for low-cost Copilot: report (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHBxZWMyNGpqQ0RwTmExeVlqYnJMWkVyeVA0OGhzRU1kb00xRUx6U1B6ZHhaVHRVby0yekU0RG9UT3RSRm9laVV4Rm5vRHVVRUJLNFRjTjZ3U0UxdWZaWjhIZ1J3UWZJVVhiamprVjY0anhQRFU2dm5WMjR4cnhrUWV0amh0Q2c5aWR3cmhiT0pVaDJrU3A0WUU4ejJDUzNucGVFV1RfV2pmVjgtNmc?oc=5",
+      "summary": "Microsoft is considering using DeepSeek models for low-cost Copilot: report (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjcxbGFqR0d0SlA5SDZtMEs0QlFnaF95WDh1bktLMTh4c3FEUWhWc0ppeEltZWZVWlZzU1FjRHR1cUt5czJrVFBzb2hndjdmd3g2YVUtSXFJOTNtQUlnUG82c0JReFlPOVI3V0xTaTBSN0tvZUdvLVFaN2FQNHpublp5Q0kyUFlQOS1hXzNtYW1BcU5Cai1vMnpEemFaUVhXTjVpeVhDazJoMUs1NXBVTVFwTThIcG8?oc=5",
+      "summary": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users Ars Technica",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -139,6 +171,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta uses your public Facebook posts for AI search - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hncjZBaHEzU3owdlp2V1E4SVN5OW9iYUxiS0d3aXgybmctNXJWTXdxLWdKLUVJR3pRN0xISF85WXJ5U3dRUVdySWtCdzVDRFpBODVMSlFmeVlYU2VZR1Q0NjVCM2lFZnBwUm1oZmZtVm5TSzRPQVZVY056OFZTTXBlWQ?oc=5",
+      "summary": "Meta uses your public Facebook posts for AI search Mashable",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Meta",
       "title": "Blind U.S. veterans can now request free Ray-Ban Meta AI glasses through Meta - WEAR-TV",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pHQ0VGdTIxOHE4U3p3TjdOMmpmeEpTNERfb3ZNSDhPRnNXTDRYZEtFOWlkcTlGVnl4YjJaVkhDVkFoMmlwbzN6VkFLdmNhcHFNMlZ0bk5wYXdVVXZUNVBMODNiT2NGS0xGQ3hVVFV4Rm1SdXNaZ1BqUzhZZlZxck5XWXlIc1BkTFZtUm55XzVsbnc4OFVCcW9hRENLSXdMdEs2T1VFYjQ?oc=5",
       "summary": "Blind U.S. veterans can now request free Ray-Ban Meta AI glasses through Meta WEAR-TV",
@@ -154,22 +194,6 @@
       "date": "2026-06-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic to meet with Trump administration over Mythos dispute - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMkxIeW50V0lJNE9adjByRTNFMlJJaVgzUFFhc1Vud0J3eWNRLWlNVndqQTNORE1IYmRTbmdqVUNWUEtPNUZNLXRjLVl6a0NycUNPdkJGeXEzWU9kalVGTzRpUklEM0NhYlJaVHNLVdIBdEFVX3lxTE1rQzFZc0hkX2NFNzJMNTNIQncwcGhpUDc3ZlExekxSaW9mSjVVMFJrdGZUcS1YWVhST0VZYlhPOFJXd1ZsSjBWVkkxOGVZT0FGalVPQkt1eVJFeWFCOFpMdHJBUzRiU2JzQ0l0Z0lBYjlGbnpr?oc=5",
-      "summary": "Anthropic to meet with Trump administration over Mythos dispute CNBC",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5",
-      "summary": "Why the US government shut down Anthropic’s latest Claude AI model The Conversation",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
       "company": "Google",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
@@ -179,17 +203,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONS12aGFheEZqQjZ4bDJPNUZvS1QtdXBYRGhpS19lTmZRZFY0T2M0akswVzM5d3d0bWFKZjZhYkc1bnY2VTVueTVDMHd4SU1vMGQxOXctRFlrbUdHT3VoeVBPNnJ2cWVkVzNJQkRmUWVnc0c1NTA0VExhYXpBQXEwS1oxVnNXOHhnTUsyU3VGRFhrZTFXT3lCZWJickR0ZTYzUUp1eA?oc=5",
-      "summary": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows Yahoo Finance",
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVRTVXRfVW45UlJ3YjlkdzJSVVpNTFVPeXBMdUhNTjdGdU9VdVZ4QVNxankyWXUxTVZsaEVqLXV1MTR6ZUxrNXZBOVI3eE9fWjJvNWdwM3pIZUtuYVhMTnB3bWhGTFl4QmJXak5EZzY5ZG56bEtKRThCS0oxSU5ucw?oc=5",
+      "summary": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes The Hacker News",
       "badge": "new",
       "date": "2026-06-15"
     },
     {
       "company": "Microsoft",
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVRTVXRfVW45UlJ3YjlkdzJSVVpNTFVPeXBMdUhNTjdGdU9VdVZ4QVNxankyWXUxTVZsaEVqLXV1MTR6ZUxrNXZBOVI3eE9fWjJvNWdwM3pIZUtuYVhMTnB3bWhGTFl4QmJXak5EZzY5ZG56bEtKRThCS0oxSU5ucw?oc=5",
-      "summary": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes The Hacker News",
+      "title": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONS12aGFheEZqQjZ4bDJPNUZvS1QtdXBYRGhpS19lTmZRZFY0T2M0akswVzM5d3d0bWFKZjZhYkc1bnY2VTVueTVDMHd4SU1vMGQxOXctRFlrbUdHT3VoeVBPNnJ2cWVkVzNJQkRmUWVnc0c1NTA0VExhYXpBQXEwS1oxVnNXOHhnTUsyU3VGRFhrZTFXT3lCZWJickR0ZTYzUUp1eA?oc=5",
+      "summary": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows Yahoo Finance",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -314,26 +338,10 @@
       "date": "2026-06-14"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft rolls out Copilot AI tools to over half a million NHS England staff - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTHd0U3E0UU9YUDJsS213RVJPY0l1ZkFveml1dlFVdjBmTzhQTXBuUU5CdzlBM2UwOVhtQmVHd0xGYjlIQkkwZ25WT05VVXNLYldxNGhOTjFzbXFYemlfWkVmdE9fb0V3VXZHVzg3Nk90VTFCVTFDZUFnUUY2NDJmMEJFR2hwUUtYV25FUFRSak43WkxmMDd2NWdkbm1qYVVyWldzR3k5TmpTcUpIaG5WeHJ4RFZqdG1NbDZESWM3N0cyRXFYY1h4Tm5Eb3Y0c2dmMl92S3pVRWZ6aTdSdnNuQ2ZIZnh3T0NZY0NIWkhkNjVvQkRxTjdHOWtCdjh6N3cyc01yUlNGZVlpMEpKYmRoa2JiUGpOdw?oc=5",
-      "summary": "Microsoft rolls out Copilot AI tools to over half a million NHS England staff TechRadar",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
       "company": "Meta",
       "title": "I tested AI glasses in Paris. Here’s what they got wrong - BBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGxxMFU1dmZFZ294Rk52bDJKSVhKQkJENi12WWVtVzdzNVo1eTh3bW5CMlV3cjMtSzNVa0pKZWNzV2hqYnRtYU13N1h4aEhlRXVwbW56cWJoSTdCc01JVFNFVjVjUWIxVkZGNUlrbWc4eEg3U3FJeE5ySm5aQlB5NlQ3ajc?oc=5",
       "summary": "I tested AI glasses in Paris. Here’s what they got wrong BBC",
-      "badge": "new",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "Meta",
-      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5",
-      "summary": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it CNBC",
       "badge": "new",
       "date": "2026-06-14"
     },
@@ -371,6 +379,14 @@
     },
     {
       "company": "OpenAI",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "badge": "new",
+      "date": "2026-06-11"
+    },
+    {
+      "company": "OpenAI",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
@@ -390,14 +406,6 @@
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "badge": "new",
-      "date": "2026-06-11"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "badge": "new",
       "date": "2026-06-11"
     },
@@ -462,14 +470,6 @@
       "title": "PRC-linked influence operations are targeting AI debates in the US",
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "badge": "new",
       "date": "2026-06-10"
     },
