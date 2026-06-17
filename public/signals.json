@@ -1,11 +1,35 @@
 {
-  "updated": "2026-06-17T15:14:58Z",
+  "updated": "2026-06-17T20:07:02Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
     {
       "company": "Anthropic",
       "title": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZE9yRkF4ZWRCUXlTM3JoR0RKVDE4Q1VfS2xNdHBZODdUTjNrcF9OVVFlMXpvZHg5REFaYy1IdGxvSkhGTGlkcWU2WjNZWEY4N0VZZWdyNWtDMG5BN3RaamlfcXlEYzl0M1Npc1ZZN0dkYXphQzVrU1RGMFk3ZE92eGZsSkJVMDd3bUJMRUhB0gGTAUFVX3lxTE9QVktTTi1feHFDS21EU2ozTTV1UTdoNS1JdEVJMURhQWxjdVVudnVMZUplWGQ5N21Yd0ZfcFZsTE9JOWxNVWNnT3JlLXRkWTU5T2R2cFdaREgwUlg2MTd3TDJjTXctRVdJRVhsX1h3NHhTYldvUzFRZUh2RUR2THpKcmJndXl1c0hWNHZRblRFVG14UQ?oc=5",
       "summary": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 CNBC",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5",
+      "summary": "Anthropic Employees Accuse Trump Administration of Targeting Them The New York Times",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Dario Amodei on why he left Sam Altman and OpenAI: 'Why argue with someone' when you 'don't trust them' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0RTdFV4c0NSQmU2S1FLM054aEhQYVI0SlpOZEJXVEowR0pnamF2R0FRdkpLaWJkZXo3aGFILWdfdGJnSFVsMUFubzZsV2xDS0VTRmEwN1RSeFdQSUY5T1MyYzVFTVRwN29EdG5HcVVqUDhvT0VUbnh6bERJaG5vTC15SHp0eXNxUnhBdjZRdTgxX0trTGROU3ln?oc=5",
+      "summary": "Dario Amodei on why he left Sam Altman and OpenAI: 'Why argue with someone' when you 'don't trust them' Business Insider",
       "badge": "new",
       "date": "2026-06-17"
     },
@@ -123,33 +147,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic's Fable shutdown is a big moment for open-source AI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5",
-      "summary": "Anthropic's Fable shutdown is a big moment for open-source AI CNBC White House’s Anthropic move jolts Congress back into the AI debate Politico U.S. move against Anthropic exposes AI's missing referee",
+      "title": "How Anthropic lost the White House’s trust — and then its flagship product - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1d1amJFRVU0QS1hTUp6bS1UT202TGZ0STJpVmNfYnBuNm5Xb2w1QnVsTUpkYmt5RWotcTJzVzlHdnNaRGNiNjlOOXllbXc1cmVuRHdDeXN4UXk5Q3oyZXBnQjQtMkhFT1RFQUZtOXJNXy12VkhmaDFobEJCTzA1ZVZINURHanNfRVd3YmpMNkhOUG1JWmF4c0ZqUXBYbUJ4Z3V2bHdpRTZkUjhDT21FNUZDbDRaTGlI?oc=5",
+      "summary": "How Anthropic lost the White House’s trust — and then its flagship product The Washington Post",
       "badge": "new",
       "date": "2026-06-16"
     },
     {
       "company": "Anthropic",
-      "title": "Read the Lutnick Letter That Led Anthropic to Disable Mythos - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNERuZ1ZWa195YW9PRmpjVU5CTkE5eW4ybDRWUElzSDBfQmlfTmdKb1FuMEE4X1hxOWdKVFhkc3NCYTNoOVJhQ0VYWHB2ZHpOam1va2xYd0RDTUJfMVZVdDdWazU4ZHYwWS1rODEwUDg5T002NWc5TUFOTy1GUFZXcDNmVXF6T2NMOG9OYlowdVBRenVDNGlSMmU4bmc0RFRQNWc0YmNQQjlrb194NlpZRA?oc=5",
-      "summary": "Read the Lutnick Letter That Led Anthropic to Disable Mythos Bloomberg.com",
-      "badge": "new",
-      "date": "2026-06-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US and Europe discuss access to AI models after Anthropic dispute - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1lxZ3ZEX0J0R2JMN1JNcDZfOTdxNDNiUUp1cVZDb3Vua0hhUno4Sm00eWNWVXZCemk5VWV6Y3J0MG9IaGRxTHBsTW9QSzFqVkUyUlJIQ3B0azRfb2F0STZ3bE9HV1dqNTQ1WXJta0NtZDFPZmRWU3VrLWRhNllaZU10U0I?oc=5",
-      "summary": "US and Europe discuss access to AI models after Anthropic dispute Financial Times",
-      "badge": "new",
-      "date": "2026-06-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms For US Allies - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWFxUVM5X2UxZkpOM0lDZ09wZTlyR29La1JqUHF4VmR4RlRSM1FPa2J2cE8yY0lqcWtFc1BLcG0xRm1oLUpKMEQ1V0l2R2dIR3NRek9waDFWbWpFSS1sbEhrSnlsUnY4Y3ZXQXR2ZGtjS2FWLWplYW9kaEdOXzNtRWJlOGhVTkFoWVFVYWVPRWFaUE9oRTJHbnVIN0Y5UUo5WDR6Tmp6a1VuY3JHM3ZBVQ?oc=5",
-      "summary": "Trump’s Anthropic Crackdown Sets Off AI Alarms For US Allies Bloomberg White House’s Anthropic move jolts Congress back into the AI debate Politico Anthropic's Fable shutdown is a big moment for open-",
+      "title": "Agentic coding and persistent returns to expertise - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5",
+      "summary": "Agentic coding and persistent returns to expertise Anthropic",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -219,6 +227,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta uses your public Facebook posts for AI search - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hncjZBaHEzU3owdlp2V1E4SVN5OW9iYUxiS0d3aXgybmctNXJWTXdxLWdKLUVJR3pRN0xISF85WXJ5U3dRUVdySWtCdzVDRFpBODVMSlFmeVlYU2VZR1Q0NjVCM2lFZnBwUm1oZmZtVm5TSzRPQVZVY056OFZTTXBlWQ?oc=5",
+      "summary": "Meta uses your public Facebook posts for AI search Mashable",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Meta",
       "title": "Meta's CTO says morale is almost 'the worst it's ever been' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHNHOVR0QlhGVGg2OVFLaEhsMWh4X1FUOTVhUUpZUGQwYzJ5aVdJYW5zUXpqczZVdkd0VEpxRE5rdk1LcEV5ei00LWlMbW9FX1V1eWVlNUllN3Z2MGVqaDJheVpZci00Qzl1eFRFaUZkZmYycHZQZ1E4T0lDQ3JWa2RreVNEaGVvYXQtMFg1TzQ4aDdjMW80WWZUbmdBNS11U0hrX25R?oc=5",
       "summary": "Meta's CTO says morale is almost 'the worst it's ever been' Business Insider",
@@ -230,14 +246,6 @@
       "title": "Blind U.S. veterans can now request free Ray-Ban Meta AI glasses through Meta - WEAR-TV",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pHQ0VGdTIxOHE4U3p3TjdOMmpmeEpTNERfb3ZNSDhPRnNXTDRYZEtFOWlkcTlGVnl4YjJaVkhDVkFoMmlwbzN6VkFLdmNhcHFNMlZ0bk5wYXdVVXZUNVBMODNiT2NGS0xGQ3hVVFV4Rm1SdXNaZ1BqUzhZZlZxck5XWXlIc1BkTFZtUm55XzVsbnc4OFVCcW9hRENLSXdMdEs2T1VFYjQ?oc=5",
       "summary": "Blind U.S. veterans can now request free Ray-Ban Meta AI glasses through Meta WEAR-TV",
-      "badge": "new",
-      "date": "2026-06-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta uses your public Facebook posts for AI search - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hncjZBaHEzU3owdlp2V1E4SVN5OW9iYUxiS0d3aXgybmctNXJWTXdxLWdKLUVJR3pRN0xISF85WXJ5U3dRUVdySWtCdzVDRFpBODVMSlFmeVlYU2VZR1Q0NjVCM2lFZnBwUm1oZmZtVm5TSzRPQVZVY056OFZTTXBlWQ?oc=5",
-      "summary": "Meta uses your public Facebook posts for AI search Mashable",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -470,14 +478,6 @@
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "badge": "new",
-      "date": "2026-06-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
       "badge": "new",
       "date": "2026-06-10"
     },
