@@ -1,11 +1,99 @@
 {
-  "updated": "2026-06-17T20:07:02Z",
+  "updated": "2026-06-18T03:24:57Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
     {
       "company": "OpenAI",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "badge": "hot",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5",
+      "summary": "Anthropic Employees Accuse Trump Administration of Targeting Them The New York Times",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5",
+      "summary": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 CNBC",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5",
+      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem Anthropic",
+      "badge": "watch",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFUaFpvYnNtNFZadUZHbnNqbGtVa1Z1VkNKZnZ1aDR2a2UxUUo5XzhRY3ZVMjdtel9vVldtcXZOeFFtOTNCM050R0lNUDFSbTNqcUt4ZjUwa09HY25SNVdaNVRRNVJ2dFBCRkV3cER2VlFpWVl0ZnhYeEt5R21ESTNmTjUtRTlUUlhNN24yOTY5TktJVkVINF9mMU1qajlLYm82cU5sZnBzZHZ4ejRuRQ?oc=5",
+      "summary": "Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 WSJ",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate AI? | Stuart Russell - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2JmOE5mdkdZeHk5WjdJc25MY0poWTRMd2FUekgzbVF4LXRrNFRuREJ5S0p3QVUwaGIzU29FRmNjX2huR3QxWjc3TzVRMFRZbGhzS1RZZEIwV3RzemY1azRWekE4YXJreUp4YXVtT0UzT3FQUThwcUxaaVhCSXVsWXpB?oc=5",
+      "summary": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate AI? | Stuart Russell The Guardian",
       "badge": "new",
       "date": "2026-06-17"
     },
@@ -19,25 +107,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5",
-      "summary": "Anthropic Employees Accuse Trump Administration of Targeting Them The New York Times",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Anthropic",
       "title": "Dario Amodei on why he left Sam Altman and OpenAI: 'Why argue with someone' when you 'don't trust them' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0RTdFV4c0NSQmU2S1FLM054aEhQYVI0SlpOZEJXVEowR0pnamF2R0FRdkpLaWJkZXo3aGFILWdfdGJnSFVsMUFubzZsV2xDS0VTRmEwN1RSeFdQSUY5T1MyYzVFTVRwN29EdG5HcVVqUDhvT0VUbnh6bERJaG5vTC15SHp0eXNxUnhBdjZRdTgxX0trTGROU3ln?oc=5",
       "summary": "Dario Amodei on why he left Sam Altman and OpenAI: 'Why argue with someone' when you 'don't trust them' Business Insider",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate AI? | Stuart Russell - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2JmOE5mdkdZeHk5WjdJc25MY0poWTRMd2FUekgzbVF4LXRrNFRuREJ5S0p3QVUwaGIzU29FRmNjX2huR3QxWjc3TzVRMFRZbGhzS1RZZEIwV3RzemY1azRWekE4YXJreUp4YXVtT0UzT3FQUThwcUxaaVhCSXVsWXpB?oc=5",
-      "summary": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate AI? | Stuart Russell The Guardian",
       "badge": "new",
       "date": "2026-06-17"
     },
@@ -66,14 +138,6 @@
       "date": "2026-06-17"
     },
     {
-      "company": "Anthropic",
-      "title": "I was using Anthropic's Fable when it disappeared mid-project. It taught me a lesson about AI and business. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWZpYVV0ZzFuZzljU0NxM0d6TDlSTnZFSG9CUVJFY0V4a3JlTDFYVUhwYmxGcEZqTFV3ZTI5S3BOZkVockF1blRJRkpkU1BrRWFMMmhER1pIUlMwZGh5a092UU1Fc2NycVN4ZXB6OUtHeTdIaUJQVHdqLW1CYXh1eENOdzFyamZwaFNMUFoxSndfT0Y0NFp3MXZRc3BZTWx4WWk4OThUWC0?oc=5",
-      "summary": "I was using Anthropic's Fable when it disappeared mid-project. It taught me a lesson about AI and business. Business Insider",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
       "company": "Google",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
@@ -82,42 +146,10 @@
       "date": "2026-06-17"
     },
     {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "company": "Microsoft",
+      "title": "Microsoft’s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGtBZE5UTzB6ZE9GZWdSSUdHSnA5UHgzalFwN1dSWWhPMUNqd2JNVURVa2Q4U192dkl5UGZmdTBMTVBLOUR5akNyMkE1Y28yMXM5cUlGUlZIaFg2T0JtTDl2bkwzdHNObUlyR2x0T0FsZVFUUXhLT0x2RjZxb2lPMmN0YXM?oc=5",
+      "summary": "Microsoft’s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click Futurism",
       "badge": "new",
       "date": "2026-06-17"
     },
@@ -126,6 +158,30 @@
       "title": "Perplexity Research Residency Program 2026 ($220,000 salary) - Opportunity Desk",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXg3VVhkYVgySzZQVHVCRVVJVS1yTUhCaV9QZGdwTHJYMW9BaGxQS0tSZDY0M1FJVkdTclVCWlhNRXlBWTNkLW10dWZUeVJUOU9QeHlucEV6UWNJSDR3dlFVNFYtSW0xbXZOZ2R3QnBHR3ZKZUtFUTJtVEthZ2Z3MnhZU3ZsT0xzbFE?oc=5",
       "summary": "Perplexity Research Residency Program 2026 ($220,000 salary) Opportunity Desk",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5",
+      "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company Reuters",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Meta",
+      "title": "AI search grounded in Facebook posts? What could go wrong? - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUNnZ3JVWU5DNTRCYUtNbXVHOFRPU1p6S1hQN1lIMkxWOHNoWnNlcW1JV3lzZURycWhfT3hNbmJma0VHQWhUUVNNXzg0UnFkUzBNeERvYjN2SHp4MDRWUE9XSWJ5VWJYaWlma1pzRGw0ZGpjbWR0MDdicFdXUEtQN1kxZ1pYRXpJWFFfR1VDTlA?oc=5",
+      "summary": "AI search grounded in Facebook posts? What could go wrong? The Verge",
+      "badge": "new",
+      "date": "2026-06-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTHc2Wm5VNUU5Vk5RbjNaNzRTcnNYbWV0Nkd2bGFpWExZNC12WERWbjBYNmw5aFVNTVNYcUZDSmRuMjBUQ25fb2FNNU13UEY3WmxzSmduaXhFWVA3Vl9BNjJSQnNUakc4SFEtdHR1NzB4NlUzM2otbklNTlVOdVNKM25ncnpFSmdRZnB0b2VXY09UNi1OMlJEMTJB?oc=5",
+      "summary": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance Yahoo Finance",
       "badge": "new",
       "date": "2026-06-17"
     },
@@ -142,22 +198,6 @@
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation",
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "badge": "new",
-      "date": "2026-06-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How Anthropic lost the White House’s trust — and then its flagship product - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1d1amJFRVU0QS1hTUp6bS1UT202TGZ0STJpVmNfYnBuNm5Xb2w1QnVsTUpkYmt5RWotcTJzVzlHdnNaRGNiNjlOOXllbXc1cmVuRHdDeXN4UXk5Q3oyZXBnQjQtMkhFT1RFQUZtOXJNXy12VkhmaDFobEJCTzA1ZVZINURHanNfRVd3YmpMNkhOUG1JWmF4c0ZqUXBYbUJ4Z3V2bHdpRTZkUjhDT21FNUZDbDRaTGlI?oc=5",
-      "summary": "How Anthropic lost the White House’s trust — and then its flagship product The Washington Post",
-      "badge": "new",
-      "date": "2026-06-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Agentic coding and persistent returns to expertise - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5",
-      "summary": "Agentic coding and persistent returns to expertise Anthropic",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -182,6 +222,14 @@
       "title": "This Copilot vulnerability could expose emails, 2FA codes, and other sensitive data - Mashable",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkR6WGE0R0FBbV9IM2hfZGJxRTJFQ3YzZ19SNVRfRloyTWZ2MzY3QllrRE1Ic1U2TzNGMngxdVRGYUtCd1c2d25QdzFMd21rZWNOMFdkXzAyT0gyR19hQnlST2Nueml5M0xhYlhuNEJaWlVMSmpOazBabFdjb2luTjBtcl9UME9RdkI5OWRFZDMtdw?oc=5",
       "summary": "This Copilot vulnerability could expose emails, 2FA codes, and other sensitive data Mashable",
+      "badge": "new",
+      "date": "2026-06-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft faces down sueball, capacity problems in series of challenges - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWhnT3RmRU5tdUp3NlRTRHQ2Y1lHMWNwQWgwUHpKLW5RY0VTRlBnQ05zQUVCTV9Bbzc0MUprN29oV1pSVjdLeW1ralM0c1RrSUtZdjVTeWF1ZGdoNkw1aU03S0o2XzU0bkNTSEY4S3FtVVhCQnFnMERtVkhqLThKRTdZVk5IRENiS1I4Zi11ajVMWkoxekphSVNUaHhFOFIyRVVZaWVtaXI2N2F1ek9jcXhrWjMtLU9IMmw1ZFh6SVhLdUE?oc=5",
+      "summary": "Microsoft faces down sueball, capacity problems in series of challenges The Register",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -227,17 +275,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta uses your public Facebook posts for AI search - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hncjZBaHEzU3owdlp2V1E4SVN5OW9iYUxiS0d3aXgybmctNXJWTXdxLWdKLUVJR3pRN0xISF85WXJ5U3dRUVdySWtCdzVDRFpBODVMSlFmeVlYU2VZR1Q0NjVCM2lFZnBwUm1oZmZtVm5TSzRPQVZVY056OFZTTXBlWQ?oc=5",
-      "summary": "Meta uses your public Facebook posts for AI search Mashable",
+      "title": "Meta's CTO says morale is almost 'the worst it's ever been' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHNHOVR0QlhGVGg2OVFLaEhsMWh4X1FUOTVhUUpZUGQwYzJ5aVdJYW5zUXpqczZVdkd0VEpxRE5rdk1LcEV5ei00LWlMbW9FX1V1eWVlNUllN3Z2MGVqaDJheVpZci00Qzl1eFRFaUZkZmYycHZQZ1E4T0lDQ3JWa2RreVNEaGVvYXQtMFg1TzQ4aDdjMW80WWZUbmdBNS11U0hrX25R?oc=5",
+      "summary": "Meta's CTO says morale is almost 'the worst it's ever been' Business Insider",
       "badge": "new",
       "date": "2026-06-16"
     },
     {
       "company": "Meta",
-      "title": "Meta's CTO says morale is almost 'the worst it's ever been' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHNHOVR0QlhGVGg2OVFLaEhsMWh4X1FUOTVhUUpZUGQwYzJ5aVdJYW5zUXpqczZVdkd0VEpxRE5rdk1LcEV5ei00LWlMbW9FX1V1eWVlNUllN3Z2MGVqaDJheVpZci00Qzl1eFRFaUZkZmYycHZQZ1E4T0lDQ3JWa2RreVNEaGVvYXQtMFg1TzQ4aDdjMW80WWZUbmdBNS11U0hrX25R?oc=5",
-      "summary": "Meta's CTO says morale is almost 'the worst it's ever been' Business Insider",
+      "title": "Meta uses your public Facebook posts for AI search - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hncjZBaHEzU3owdlp2V1E4SVN5OW9iYUxiS0d3aXgybmctNXJWTXdxLWdKLUVJR3pRN0xISF85WXJ5U3dRUVdySWtCdzVDRFpBODVMSlFmeVlYU2VZR1Q0NjVCM2lFZnBwUm1oZmZtVm5TSzRPQVZVY056OFZTTXBlWQ?oc=5",
+      "summary": "Meta uses your public Facebook posts for AI search Mashable",
       "badge": "new",
       "date": "2026-06-16"
     },
@@ -282,22 +330,6 @@
       "date": "2026-06-15"
     },
     {
-      "company": "Microsoft",
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool - BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3hxN0FSMUtXdVkxZXVNOFhna2lHdXBxS18zeFpLS0ExWm56VjFzc2JMT2Fqam9KbWY2TjBZMmVaSzI1LWN2UG5BYXA0WFQ2QzAzeEx5S0lHUW96ellaMWpib2poMTBEaTJNSW9seDVNNjlOazBTdmZiUzd3ak5KNnNycGJ6aGhUaG5IVnJYYUZuNDZEMXR3MmNBenVrazlKdUJxS1l2UjhxT01icUp5a2VjOWNwY2PSAbwBQVVfeXFMTzVLZDlUeHpHaTlVRW9BNVg4QzZkbEp6YTVpOVdxSm1DSlpQWDhRSk1VYTVXOGVtdXZmM0hMRGdlOWxaZTVWS3VLY0s0NUlXOVVrOHpPc0FSTUh2QnlKMVVCdUxId1o2alVSbEwxa1lyNFFTZEpvbm0xYXhJc1FVZFBxSEFxWUkxLWszVGJTbmc2RlJUdVRNeFM3cTFaRUJpWVdZUzdzZkZON0ZPUWdZaDk3YXJDZGZJaS1Wakk?oc=5",
-      "summary": "New attack turned Microsoft 365 Copilot into 1-click data theft tool BleepingComputer",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft brings Planner Agent to all Microsoft 365 Copilot users - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3N3cC1Ed1FTN29rdUJaajR4WFZBdERaeGhQM21uRUFLYzZpYndIcTliZjZaRU91QmJONWk1czVPQXZqdVlDQ1RLMFdNVVVnYklEdkItZVM1dk9xby15c0I1MlV5aDFfUnJZTllyY0hBWWp5VGNCVko4ZWhreG5TSXEzN1VvZnJvMHNjRkNOUEt5aFJPLVBEOXJB?oc=5",
-      "summary": "Microsoft brings Planner Agent to all Microsoft 365 Copilot users Neowin",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity co-authored the study that praises its own AI agents - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGREZ3ZYbEMwLUU4cXZCQjQ5ME10aWlPLVpjVXAxUDZRTjZlMzhvZThTbEg3bmx4WFVQcHpSZEg0VWVxdkRKSFlsSjVOd3kxN2xSQWVVTWVIUzFIRWowZ1BkOTJaV0J0anltSXRnZG9nbUg2cUtGNWVUbEJQc29sSmpLU3haWEJW?oc=5",
@@ -315,14 +347,6 @@
     },
     {
       "company": "Meta",
-      "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
-      "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
-      "badge": "hot",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Meta",
       "title": "New AI Tools to Help You Make Things Happen on Facebook - meta.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFQ2a1E5SGRLNy1CZENhR3B3eWw0LTk0QWVIT3gySVIwenFHYUkxSWNDbkt3djR2YkZUZnZ3MEdnM24wSWtzc2ZQSHk5VjV3ZlgwampXTDF3ZTlUbG1YU3lkTjVBYk5QWVBnaWNBUzhoQ0dRUl80cUVzdjNQQ1U0ekdPTGdsUjJsYzM4cnludFNGRHRf0gGaAUFVX3lxTFBBUDVNOHBhd1JnSmhhYXNyTTlKbGFjekdEdDJ6a290VFVJTGlKOTV1WHUxZmFKQlBGU0xiYjRBdHVvRTR2eElhWkhSNmxUX1lKOXZYMFpoYzktVnI4QWNUbkNqT0xBUEx5VGgxclVWQUlDbGZVZ3A1LXlMZnIzclNfdE02NGRDS1BLdjNjYWNXb3pWcGdDQnExSGc?oc=5",
       "summary": "New AI Tools to Help You Make Things Happen on Facebook meta.com",
@@ -331,33 +355,17 @@
     },
     {
       "company": "Meta",
+      "title": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVYVnZVQWxtZDZnaFpPdTZJTWtBcHNfYTZobFJIbU42SUI0V3ppR2dvTkFVZHNGWndhNG1lbmxxZU8xa1NqV1V1MndmY0hBSl9zYUtiR05RdTJlZ2VMdmxsTmpFQkVaT0dHaHhlODFHcXBmQU12ek9DaW1kT3F3aWIyRTU5d0RCWHV6eDVkNTVackNaem9PZmNvM3hYbEotNy1VdldjdkN2UFF3T3JaMExQVDAwNHYwOWloTGUzNXpjVDNvVDdpLVd5eGJpclMtWFpvaEtQLThYQUQ2S2c?oc=5",
+      "summary": "Facebook Launches Search Engine AI Tool That Could Make Meta $10 Billion A Year, Analyst Says Forbes",
+      "badge": "hot",
+      "date": "2026-06-15"
+    },
+    {
+      "company": "Meta",
       "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’ - WIRED",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lODVpWG5scXYwLWE5QmZ2RVk5cjdUaGwwb3pGLUpSa195WTdFQTlhRldaTDR4dXZGOTJiTXFSMDgzWVRILUhjOWpJTDJzNk1jcDNhMldKZVRjd0NVYXJfOTBQSnBjNkhWaGZSODk0Ql9Udmkw?oc=5",
       "summary": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’ WIRED",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd05ydmxjcW56LTBDMTZJb050LXN0Q1FCWFF1SmZmTkRqMDFtV0RuTkhvRG9YelRPOW9xRXNyR2psS01BQVJ4NDBKUDMxSGRzei16SE9ac3ZDOEJQYlE4RzZFbmJfV0JBU1NHanJGWDctbzhud0YzYkYtMUwwS1R5T2tQLV9mU2VmNlJ1UXJ6bW5xeGtrOFg3aFZvaXdWMlNncXdJWVRmU2ZlSVJz?oc=5",
-      "summary": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms TechCrunch",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Facebook’s new AI Mode search gets its info from public posts - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OMEJxNUJxcFlCRFY5ZE1MWFJFSU8tWVJ1ZVdDdUpDUkpMUTlFb2g2cGE0aUZNZ2NWT2xNZ1RGX0gwaWVrN1pjbFlGcVI4LXlfY3pKQkk5Z3NkTEllMHMzVjVTT3FjaDBORkRjZ3VRZEVQRFU?oc=5",
-      "summary": "Facebook’s new AI Mode search gets its info from public posts The Verge",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Porn company can sue Meta for torrenting its adult films for AI training, judge rules - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBySlg0RkVTMzRNWnNiUzNHQ0RrNnBWSHRzbi1XOXBTT04yM0t0cHZlMWlUQlgySFhlUkpGckdpdU1NX2pHYS1uSTU0YVp6UGlvVGlNbVZWaGNaY2t5bUtXdE5SWG51eEE5akdRcXFrR0haWXl1U2E0XzhBc0Q?oc=5",
-      "summary": "Porn company can sue Meta for torrenting its adult films for AI training, judge rules Mashable",
       "badge": "new",
       "date": "2026-06-15"
     },
@@ -472,14 +480,6 @@
       "summary": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features The Verge",
       "badge": "new",
       "date": "2026-06-11"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "badge": "new",
-      "date": "2026-06-10"
     },
     {
       "company": "Amazon",
