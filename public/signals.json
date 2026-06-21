@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-21T13:58:10Z",
+  "updated": "2026-06-21T19:23:20Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs - CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1neXNmOTd6N0V5LVlxS0pFVnVUVHpEMzNXSE5aSkE0aWJCMDc1N3BuVXFRX091UWFWR2MzVEw0MW5aQzh5TjRPTVYwVjQtUHYzT2RTLW1kRi11am80cHFfTGREZUtwdEw3RlBR?oc=5",
+      "summary": "AI regulation is a mess, and Anthropic is caught in the crosshairs CNN",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is killing Edge's Drop file sharing after Collections and Sidebar, all for Copilot AI takeover - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUEFFWVZXM3Vxakk1QU5vNlhDVDdUQmMzdUxpWXVVbkZoWVFVQVdScDhPN1I1VEpLUktyQTRwV2FCWW1LN0NQNFJVbFhpSlNKRWh3eC1nb0x3QWY1S1IzeHh2YWVCbkJCS1VreXpKYUxLYlFfSmtKc0s1TDgyZFhFQW1MOGVicWhkVXRmZGdrcDF4MXFWN2lSb2Z6N1luR1dHOFZvSVVDUXplWExvUnpVd1VZODBSaVJyenRSOS0xTmxRVHNJSnlEYWllZGotOTI0UnZKOHE2WExUbzRO?oc=5",
+      "summary": "Microsoft is killing Edge's Drop file sharing after Collections and Sidebar, all for Copilot AI takeover Windows Latest",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes to iOS in Brazil",
@@ -66,12 +82,36 @@
       "date": "2026-06-20"
     },
     {
+      "company": "Microsoft",
+      "title": "Microsoft is rewriting the economics of enterprise AI and the bill shock is just getting started - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTFUdEVwdmJHOXJ4dDNWazBOTUF1bmVWMkxSYV9sT2tiRGZOT0ZuajlQQUR4WDRUaHZXSXhrZGl5SUp4eXlnZklxYlpuYlh6VXNUYmVBRUNCZE1zUnFNRFJramhYbnAwOFFSMTMtbW5WN2R0MXZDZGhkMElBTXlaanZLaXFnLXJaU0I1U0FSTUM4bEJpclAxajF0dUd1WVlaLXg1WVVOR1prSTdEU21lNk9BOXhmNjc5dWtGbDRYWFZudw?oc=5",
+      "summary": "Microsoft is rewriting the economics of enterprise AI and the bill shock is just getting started Startup Fortune",
+      "badge": "new",
+      "date": "2026-06-20"
+    },
+    {
       "company": "Meta",
       "title": "Meta offers paid training for AI data center jobs - Fox News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmaTlVYk9yemhicGhJSHdfTWg4QzhNdGMxTnplUFhNNENUSFNuUlBMMEJGOFllb0FvQnlaaTNXQ3FKUlFUSGJlbGt3cEdVc05mSVBSa2QyRFFFdmNlbmFqazlSRDQxRW1TZWVPSkxCZ21ycy1SZEN1dGdTVnpWeWvSAYQBQVVfeXFMTkRod2FJTHNVWXV4VDVOMDlId1d3WWlDLVJ6dWVkSWp4MzZWQkZGZGxWTVNjZ2lBcHg1VzJPdTF3NG5TUzVLM05qT1RlN1hKLXpDUDdzNmRlb0pwMGZkWTV6V0l1dzh5R0VHWjFJeDcxNDRDb2RBVnh3RVFfcGNLNXd2ZERF?oc=5",
       "summary": "Meta offers paid training for AI data center jobs Fox News",
       "badge": "new",
       "date": "2026-06-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
+      "summary": "Trump tells Axios he no longer views Anthropic as national security threat Reuters",
+      "badge": "new",
+      "date": "2026-06-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxkcHpxVV9XRmJBUXJzN1RTOHYyTGtzTXZQOUQxRXRGQkl6NWFzdmpENkZjUjd1a3oxUmM5Ymt5YzAxdnREZjhlLUhHcFJNa3BlQnZ3dlVoaGFmOHVVcm5UTFBXUXBrUWQxSWs3ejJkRkNaOFN3cTBSajZPel8xT2FTOHpqczltVGF3Z2tGVWxaZXFUUTdoYUcxak4tOGxybHhqcEhWWHQtelFuMVN1UEtINW4?oc=5",
+      "summary": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-19"
     },
     {
       "company": "Anthropic",
@@ -91,14 +131,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxkcHpxVV9XRmJBUXJzN1RTOHYyTGtzTXZQOUQxRXRGQkl6NWFzdmpENkZjUjd1a3oxUmM5Ymt5YzAxdnREZjhlLUhHcFJNa3BlQnZ3dlVoaGFmOHVVcm5UTFBXUXBrUWQxSWs3ejJkRkNaOFN3cTBSajZPel8xT2FTOHpqczltVGF3Z2tGVWxaZXFUUTdoYUcxak4tOGxybHhqcEhWWHQtelFuMVN1UEtINW4?oc=5",
-      "summary": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic Bloomberg.com",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Anthropic",
       "title": "John Jumper to leave Google DeepMind for Anthropic - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRm5xaUJxLTQ0TVFiU2laQkg3TUhROUwtYTE2cUhGOVdMUWJpb1puZDNKV19BNy1tX0NVQUhTWWtkQTBhZ3BMZ1lvYXlWSUtMX2VWWkNiMW95bGhuVTMzMVBzVGVkVXJUYzdDaHY0WVdfZWJ2RmdsU0dBMVlGM1JPT3o3YTBfVjZyMTFqWkFEQ1PSAZYBQVVfeXFMUDBFeW5oTHl6ZlBreTcybmRRNXlQQzRBdTVQbndELXRMWHlpVHZHZ2dId3JNWUJaNktHeGZZRF9HUzRrb01KNVBTdWZIY1czQVd3TC1uOXVyelhsOUY0b0tmaGV5SGxRd1l4THlIWjdNYWZVZnhhdXc3NHRUcldVZDlSWng4d3FVamJiaEIwVHR5WWxsbGxR?oc=5",
       "summary": "John Jumper to leave Google DeepMind for Anthropic CNBC",
@@ -110,22 +142,6 @@
       "title": "AlphaFold pioneer who won a Nobel Prize alongside Demis Hassabis leaves Google DeepMind for Anthropic - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVp0TFo1UlZJZXB5TkxJRGt4azJMM0lwTVA2OW4tdlU2N0pXRGRGOUhoLUxETURIRkx4cTREVU9KN3NMN3g4dVhHbl9odWZYTUx0YjlBdG9VcFNFeTRwMUt4R0ZWeVpPVEZZQzVFNGI1ZG9UY0tLUlF2S3pjcXNNQ2J2alRTME1uQWdJTE04bWJqcTdLSzhabUtadVpQek1RYXdlS01GUmZGMGZ6VExLNDFVdXM?oc=5",
       "summary": "AlphaFold pioneer who won a Nobel Prize alongside Demis Hassabis leaves Google DeepMind for Anthropic Business Insider",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US curbs Anthropic AI access, raising global concerns - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pyYUZJRzVZeXJNeTBoZncxMVMwTWtIUnk5M21hRnExZVJ4MkNWM21TZHIybFV3Ui1LVDV3XzFaczFiT3M4MEtKeVl3Mi1CYmVPMUxReExHR1dlV2hDSWYwM2w4YTdDYXVsYWpTMHNTekpRdDZ0Tng0ZmZudUV0RXZQcjV1dmtTSXRv0gGLAUFVX3lxTFA2dDUtVWVvdkFtTEFucVN2RU84dGItdVBTakRSd3dDTFBubWExNVh6T3hFVGpsbzJXMlFqZEhnMEZZcTM1SU91OVVOLVBDOTBYVHQ4a3pVeXpuWE05UVk5Z3QySDZUc2NEa1EzUU0tSFZIUGJHWUJEcjRHaDYyclVOR05rVEoxSVNDZ1U?oc=5",
-      "summary": "US curbs Anthropic AI access, raising global concerns dw.com US export ban on Anthropic’s AI models further strains alliances Al Jazeera Trump tells Axios he doesn’t see Anthropic as U.S. security thr",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnlDaXdrZDNjc1R3UGUyRlBybTJiWHJ3N0RiU2F6ZmJSY1pFdGZOUUx0ZDJyaTZGTldMT3o1UDdBdUJycnRyTU1IQ2ZYWWdDeGJ4ZGVkb1QtbXhUWVFHQ1hTLVRiLXZla1l3c2FvR0lDc0xwbXc1LUZOdHdrVzV4Z0R5ZmRnMlhtWDNIQjlaV0lsYjlrU3Ffelk4QW5uZzlCRFg1WE82VWh2NGNUVWY3cHNR?oc=5",
-      "summary": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models Bloomberg.com",
       "badge": "new",
       "date": "2026-06-19"
     },
@@ -283,6 +299,30 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjBheE1rdUR3YVJKanNoU1FFOHZJa2NEWk50TVphdXY0V1I3TTltRi1FcGE2XzdodE1yYjFyaVlBUDhyd0tzUEU5MmkxTWxVMDNkQW1iMTBpaFNkQVBlTTNMbE9Nbkp5NUItSnNSRk5vSDZVc052UExEaWdrRE1qcjJGUmRfTDZiWHNlYU5tdW1sbGlyRzVxdVR0UjMwNy1COHdVRkFPVWlPRS05UEtpekpyOXR4MW0yb0lxX015RQ?oc=5",
+      "summary": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump WIRED",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Meta",
+      "title": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVVNMjNaYVF0U1NQV3BQMkFrSS1lcThjdkZuV3ZuSGZoZDR0UnhKcXBUSVd5a19Lbmg1MjhDS3h6emxFRWxQMWpDb1FxNVhZcUVLM0VJbzhkOFRaM1FNYnloR1lRWDlKSkU0MGpYQ2R0R3lFVVYzYkZCZnUzUjlRcHA3aHlSWVgxTkRvUVdsbkZ0al8wYlFQeE1Ta3drbElPVERWT2Q0MlBmUjB6NHlQRUxQX2R2WTFjMHBHOEZqdXFnbm52NHpZ?oc=5",
+      "summary": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports Reuters",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkVNUTk2aWYyQk1wLWlUengxWHg4M1g1ZmdBZTcwSkN6cHlxQmpmNkhwTjhFYXZwZldrOXlYMDU0YkFXYVdTNzdsUUR1VnRQbEdjSC1PSjZPbV9DTGVfOG5CdWF5ZnNDSmlWSTRBZk5zZ0tjVzFrNHVlQkdxTjBGRldQb1BNdkRNVUloR0dZLWlmMnJJSDJ1VUpiaEVPQTlJNnE1R1RycjViNFZ2QzlTdmpDbjVWZw?oc=5",
+      "summary": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDZGd3pVZEpvOHRWd0RuZmxBWEVmYnpDek85Yi1lQ19hV2VPWWRqZ3l2VWZIcTczVUg3cXdyRmhXaHhlLWVGX2N0dDNxSmZFX1NrVzJ2bDZHX09YTWFCT25uY1U0S0lWVVg4TERTLUxWTW9DZGFvQW5JMGtiMjlKWTd4NXg?oc=5",
       "summary": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street Financial Times",
@@ -302,22 +342,6 @@
       "title": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney - CNBC",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3BXSnd0WmJ1SXdfTjJqNDdIdnVWemE2VkRSa29wVVU2NVFKUENDbUN0WnlGa19VTW9BOTJ3Q1BRZTNnUTdBbHc1MFVNbWF5dDlubXpvOE5lcU1aYXBMVk1USTlvT2hCYUgxTUVkYlN4QjlqQUZlMkdaaTVMck5SZEhocWZ4dWF3YkdvT1ZCaDRsOEVfMGdkQkNaSVNpc2hJVnlpYS10NFZ2OTB4V2p1RVBnQWM?oc=5",
       "summary": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney CNBC",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjBheE1rdUR3YVJKanNoU1FFOHZJa2NEWk50TVphdXY0V1I3TTltRi1FcGE2XzdodE1yYjFyaVlBUDhyd0tzUEU5MmkxTWxVMDNkQW1iMTBpaFNkQVBlTTNMbE9Nbkp5NUItSnNSRk5vSDZVc052UExEaWdrRE1qcjJGUmRfTDZiWHNlYU5tdW1sbGlyRzVxdVR0UjMwNy1COHdVRkFPVWlPRS05UEtpekpyOXR4MW0yb0lxX015RQ?oc=5",
-      "summary": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump WIRED",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkVNUTk2aWYyQk1wLWlUengxWHg4M1g1ZmdBZTcwSkN6cHlxQmpmNkhwTjhFYXZwZldrOXlYMDU0YkFXYVdTNzdsUUR1VnRQbEdjSC1PSjZPbV9DTGVfOG5CdWF5ZnNDSmlWSTRBZk5zZ0tjVzFrNHVlQkdxTjBGRldQb1BNdkRNVUloR0dZLWlmMnJJSDJ1VUpiaEVPQTlJNnE1R1RycjViNFZ2QzlTdmpDbjVWZw?oc=5",
-      "summary": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe Bloomberg.com",
       "badge": "new",
       "date": "2026-06-18"
     },
@@ -346,22 +370,6 @@
       "date": "2026-06-17"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft’s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHdreV8wTlVwUF83cHZvTno1aDdfX0hncTNpM2szci1SeTh2cS1JOVNxMmY1b2hGVnpMQmtjR3FTXzdnbWdOUzdhMjBxU2hlVWpqTW10SG5sUEpsS0NsS2pjYzFiTW1xeDVTendYdHdKMlgzaHJxMGZ4M2NkSWc0czR6aVp2NHdQN2tubWxUc0FMVUpyNmJWNVdIbw?oc=5",
-      "summary": "Microsoft’s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click Futurism",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft’s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGtBZE5UTzB6ZE9GZWdSSUdHSnA5UHgzalFwN1dSWWhPMUNqd2JNVURVa2Q4U192dkl5UGZmdTBMTVBLOUR5akNyMkE1Y28yMXM5cUlGUlZIaFg2T0JtTDl2bkwzdHNObUlyR2x0T0FsZVFUUXhLT0x2RjZxb2lPMmN0YXM?oc=5",
-      "summary": "Microsoft’s Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click Futurism",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity Research Residency Program 2026 ($220,000 salary) - Opportunity Desk",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXg3VVhkYVgySzZQVHVCRVVJVS1yTUhCaV9QZGdwTHJYMW9BaGxQS0tSZDY0M1FJVkdTclVCWlhNRXlBWTNkLW10dWZUeVJUOU9QeHlucEV6UWNJSDR3dlFVNFYtSW0xbXZOZ2R3QnBHR3ZKZUtFUTJtVEthZ2Z3MnhZU3ZsT0xzbFE?oc=5",
@@ -382,14 +390,6 @@
       "title": "AI search grounded in Facebook posts? What could go wrong? - The Verge",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUNnZ3JVWU5DNTRCYUtNbXVHOFRPU1p6S1hQN1lIMkxWOHNoWnNlcW1JV3lzZURycWhfT3hNbmJma0VHQWhUUVNNXzg0UnFkUzBNeERvYjN2SHp4MDRWUE9XSWJ5VWJYaWlma1pzRGw0ZGpjbWR0MDdicFdXUEtQN1kxZ1pYRXpJWFFfR1VDTlA?oc=5",
       "summary": "AI search grounded in Facebook posts? What could go wrong? The Verge",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTHc2Wm5VNUU5Vk5RbjNaNzRTcnNYbWV0Nkd2bGFpWExZNC12WERWbjBYNmw5aFVNTVNYcUZDSmRuMjBUQ25fb2FNNU13UEY3WmxzSmduaXhFWVA3Vl9BNjJSQnNUakc4SFEtdHR1NzB4NlUzM2otbklNTlVOdVNKM25ncnpFSmdRZnB0b2VXY09UNi1OMlJEMTJB?oc=5",
-      "summary": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance Yahoo Finance",
       "badge": "new",
       "date": "2026-06-17"
     },
