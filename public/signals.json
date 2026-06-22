@@ -1,6 +1,62 @@
 {
-  "updated": "2026-06-21T19:23:20Z",
+  "updated": "2026-06-22T03:39:50Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
+      "summary": "Trump tells Axios he no longer views Anthropic as national security threat Reuters",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
     {
       "company": "Anthropic",
       "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs - CNN",
@@ -15,46 +71,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUEFFWVZXM3Vxakk1QU5vNlhDVDdUQmMzdUxpWXVVbkZoWVFVQVdScDhPN1I1VEpLUktyQTRwV2FCWW1LN0NQNFJVbFhpSlNKRWh3eC1nb0x3QWY1S1IzeHh2YWVCbkJCS1VreXpKYUxLYlFfSmtKc0s1TDgyZFhFQW1MOGVicWhkVXRmZGdrcDF4MXFWN2lSb2Z6N1luR1dHOFZvSVVDUXplWExvUnpVd1VZODBSaVJyenRSOS0xTmxRVHNJSnlEYWllZGotOTI0UnZKOHE2WExUbzRO?oc=5",
       "summary": "Microsoft is killing Edge's Drop file sharing after Collections and Sidebar, all for Copilot AI takeover Windows Latest",
       "badge": "new",
-      "date": "2026-06-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-06-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
       "date": "2026-06-21"
     },
     {
@@ -96,14 +112,6 @@
       "summary": "Meta offers paid training for AI data center jobs Fox News",
       "badge": "new",
       "date": "2026-06-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
-      "summary": "Trump tells Axios he no longer views Anthropic as national security threat Reuters",
-      "badge": "new",
-      "date": "2026-06-19"
     },
     {
       "company": "Anthropic",
@@ -155,17 +163,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft will soon allow some users to block Copilot from analyzing their Office files - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2RtRVA5WmlnR25iREhIYnhLTUNDUmVNOHg1ZHVoaWdhVEo5X0lCUm00ajdyVXZ4aHhob2NUZ2sxbUpFSEJpSXhMemJvam9Wa1V6WmRQLVVPLTNnUjhNcExINFpJYkFjaGhQbERHbHduckJmT0REVUJnbkNGNlVsamJZWHhSYmpEbDZneU5Md1YtbmtuZ1BWVVlZT2p2bXRGelpTdUtWd0dabmI4Z2tpdlpxSVVhcGM?oc=5",
-      "summary": "Microsoft will soon allow some users to block Copilot from analyzing their Office files Neowin",
+      "title": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1pGdWg5WTlNNXRNTkFMMU4xMEZENWRpM2s2RVBEZzRjSnF1V1NXbU9QNGlKMFVSMTdPRUhlQ1lKS3NxTFI3OFdkaUVBSDJHOHNBbGU2VnliaHJEdXJVLVpmR1lfMUR5YjJLMExyUW1vM0ZWQ0xiZUVhVktJODdaV3RuUUhycGsxNWwtS0RudDZYWW56MnZaTEhKNkQ2Vkd2anNBU2Y0OFJUNDFaVzdrRUw5T3FwSk9ZdXNLTGxBWk50TC02U3U00gHMAUFVX3lxTE9vQmtQdHdHSXNsQ2Z4b195STg4ZEtpdXFTVG0wWkdESTJRNUxrdWVNbGRKQVo5VDBlX0hySEdrTEdsaFFvaFoxaEt2bVB4YUhoMW0zMl9kb0c5cFd1a2Y3c2RGTFVVSXh2QlFKVHJSc3RuWmozUUVhYldvY0FBSjRHV2pGS3VDLVBMallLZDQ1MUdWSVVmcW1JRkJOZ3gycU5pa21MdlBzeS1rVGRBMjgxWXU2aWlHMlFTaDVvbUJJUlhoQ3dkeVliN0dYSw?oc=5",
+      "summary": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset simplywall.st",
       "badge": "new",
       "date": "2026-06-19"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1pGdWg5WTlNNXRNTkFMMU4xMEZENWRpM2s2RVBEZzRjSnF1V1NXbU9QNGlKMFVSMTdPRUhlQ1lKS3NxTFI3OFdkaUVBSDJHOHNBbGU2VnliaHJEdXJVLVpmR1lfMUR5YjJLMExyUW1vM0ZWQ0xiZUVhVktJODdaV3RuUUhycGsxNWwtS0RudDZYWW56MnZaTEhKNkQ2Vkd2anNBU2Y0OFJUNDFaVzdrRUw5T3FwSk9ZdXNLTGxBWk50TC02U3U00gHMAUFVX3lxTE9vQmtQdHdHSXNsQ2Z4b195STg4ZEtpdXFTVG0wWkdESTJRNUxrdWVNbGRKQVo5VDBlX0hySEdrTEdsaFFvaFoxaEt2bVB4YUhoMW0zMl9kb0c5cFd1a2Y3c2RGTFVVSXh2QlFKVHJSc3RuWmozUUVhYldvY0FBSjRHV2pGS3VDLVBMallLZDQ1MUdWSVVmcW1JRkJOZ3gycU5pa21MdlBzeS1rVGRBMjgxWXU2aWlHMlFTaDVvbUJJUlhoQ3dkeVliN0dYSw?oc=5",
-      "summary": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset simplywall.st",
+      "title": "Microsoft will soon allow some users to block Copilot from analyzing their Office files - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2RtRVA5WmlnR25iREhIYnhLTUNDUmVNOHg1ZHVoaWdhVEo5X0lCUm00ajdyVXZ4aHhob2NUZ2sxbUpFSEJpSXhMemJvam9Wa1V6WmRQLVVPLTNnUjhNcExINFpJYkFjaGhQbERHbHduckJmT0REVUJnbkNGNlVsamJZWHhSYmpEbDZneU5Md1YtbmtuZ1BWVVlZT2p2bXRGelpTdUtWd0dabmI4Z2tpdlpxSVVhcGM?oc=5",
+      "summary": "Microsoft will soon allow some users to block Copilot from analyzing their Office files Neowin",
       "badge": "new",
       "date": "2026-06-19"
     },
@@ -211,6 +219,22 @@
     },
     {
       "company": "Microsoft",
+      "title": "MAI-Code-1-Flash available on more Copilot surfaces - The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1NJZlJFRkdDTDNIREdiQTBKX2dPWERLQ1N6Yk5EYlB5VlVDbGM4SWFjUHdZS1c0RUV0NmZQbkxLa3RHU3EwdVk2cXdZNFFYR2JReU5YOTRFeVY1cmpxTGQtclZ4cVdVNk1OTzFTYjZaZVNiWmpxM0M0bHpzLTZQYXFZRVdYd256aEpjb001Z0tfd2dDaDZ5OQ?oc=5",
+      "summary": "MAI-Code-1-Flash available on more Copilot surfaces The GitHub Blog",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft just delivered power users bad news - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0pRZTBYcGIzYm1nNE4wSjVXQThSVlpaZVBMT1NqTHBWTU5SSGpHZlZEZmFjcWJFdm9wWVNxejBCVVpNWG1ScEk5UHkwZ3Y4UWRIUXdxQVRLYk52ejk4RW5DU005SFZLT2xKelB4QjdGdDJzdWZJTVZuMk1PbkVPXzdmZnVVOTdMckNIcThfVnppX0VtelZwUldjZi13V2lkTkE?oc=5",
+      "summary": "Microsoft just delivered power users bad news Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Microsoft",
       "title": "Sports Journalists Asked Microsoft’s Copilot to Predict World Cup Matches, and the Results May Surprise You - Futurism",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUgxNDBDTVQ2ZUU4XzdVNGpVYVc4YzNWM3duSGRybVZneWJWSEt2UE1xQWU2eHIzd29idGRKSDFVWlFNRldhekVPblQta3hOYmtadUluQmdGcFJRS28xTmUydmw0MmVneFBqdkpyMWEyZDJ0T29Mdk51b1FLM2lDLVZMbE5HQVZHWVZsSXFSQVpvbzExM1BxSFdNNG11RG9TelptYXpR?oc=5",
       "summary": "Sports Journalists Asked Microsoft’s Copilot to Predict World Cup Matches, and the Results May Surprise You Futurism",
@@ -227,25 +251,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "MAI-Code-1-Flash available on more Copilot surfaces - The GitHub Blog",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1NJZlJFRkdDTDNIREdiQTBKX2dPWERLQ1N6Yk5EYlB5VlVDbGM4SWFjUHdZS1c0RUV0NmZQbkxLa3RHU3EwdVk2cXdZNFFYR2JReU5YOTRFeVY1cmpxTGQtclZ4cVdVNk1OTzFTYjZaZVNiWmpxM0M0bHpzLTZQYXFZRVdYd256aEpjb001Z0tfd2dDaDZ5OQ?oc=5",
-      "summary": "MAI-Code-1-Flash available on more Copilot surfaces The GitHub Blog",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft (MSFT) Moves Copilot To Usage Based Pricing As AI Costs Rise - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd180YU9UeVREbW9CcnZxa1ZOMExINDFvSVR3azlMWGhTMnhpQVRkci1ySVp0Y2Qtc29LdXNhSkFZNE10MmZFS1FoTDY0MTRSaDZKeDg4WENwdXAtTUxHNXRPazFGVm1ubmkzZktCblFxVWpaQ1BGbHMwWFBUOTc3dWFJN0JFZVc1X0tYOEh5WDIzamY4bWtPQkFUZVRSOVk?oc=5",
       "summary": "Microsoft (MSFT) Moves Copilot To Usage Based Pricing As AI Costs Rise Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Charles Lamanna is moving Microsoft Copilot beyond chat - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbVZiMk5VX3dpWEprcnNWREVaSE4yQ2YzcWlqVzJDZFJPdDdhdHRXbWJWN2k2Y3BsR3ItR2VLcllxQ091ejU4MEtlNEE5bTBnaG13LTAzdmthUFpwZVJDZE9oalQ4R2hESlFrLTQwWkJyeWhBSnRQdWwxazBnR0ZpS3FrSkUyV1hRT29HcGZJZzJsb2NUeExr?oc=5",
-      "summary": "Charles Lamanna is moving Microsoft Copilot beyond chat Fast Company",
       "badge": "new",
       "date": "2026-06-18"
     },
@@ -307,6 +315,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
+      "summary": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports Reuters",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Meta",
+      "title": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3BXSnd0WmJ1SXdfTjJqNDdIdnVWemE2VkRSa29wVVU2NVFKUENDbUN0WnlGa19VTW9BOTJ3Q1BRZTNnUTdBbHc1MFVNbWF5dDlubXpvOE5lcU1aYXBMVk1USTlvT2hCYUgxTUVkYlN4QjlqQUZlMkdaaTVMck5SZEhocWZ4dWF3YkdvT1ZCaDRsOEVfMGdkQkNaSVNpc2hJVnlpYS10NFZ2OTB4V2p1RVBnQWM?oc=5",
+      "summary": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney CNBC",
+      "badge": "new",
+      "date": "2026-06-18"
+    },
+    {
+      "company": "Meta",
       "title": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVVNMjNaYVF0U1NQV3BQMkFrSS1lcThjdkZuV3ZuSGZoZDR0UnhKcXBUSVd5a19Lbmg1MjhDS3h6emxFRWxQMWpDb1FxNVhZcUVLM0VJbzhkOFRaM1FNYnloR1lRWDlKSkU0MGpYQ2R0R3lFVVYzYkZCZnUzUjlRcHA3aHlSWVgxTkRvUVdsbkZ0al8wYlFQeE1Ta3drbElPVERWT2Q0MlBmUjB6NHlQRUxQX2R2WTFjMHBHOEZqdXFnbm52NHpZ?oc=5",
       "summary": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports Reuters",
@@ -326,22 +350,6 @@
       "title": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDZGd3pVZEpvOHRWd0RuZmxBWEVmYnpDek85Yi1lQ19hV2VPWWRqZ3l2VWZIcTczVUg3cXdyRmhXaHhlLWVGX2N0dDNxSmZFX1NrVzJ2bDZHX09YTWFCT25uY1U0S0lWVVg4TERTLUxWTW9DZGFvQW5JMGtiMjlKWTd4NXg?oc=5",
       "summary": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street Financial Times",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
-      "summary": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports Reuters",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3BXSnd0WmJ1SXdfTjJqNDdIdnVWemE2VkRSa29wVVU2NVFKUENDbUN0WnlGa19VTW9BOTJ3Q1BRZTNnUTdBbHc1MFVNbWF5dDlubXpvOE5lcU1aYXBMVk1USTlvT2hCYUgxTUVkYlN4QjlqQUZlMkdaaTVMck5SZEhocWZ4dWF3YkdvT1ZCaDRsOEVfMGdkQkNaSVNpc2hJVnlpYS10NFZ2OTB4V2p1RVBnQWM?oc=5",
-      "summary": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney CNBC",
       "badge": "new",
       "date": "2026-06-18"
     },
@@ -464,14 +472,6 @@
       "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "badge": "hot",
       "date": "2026-06-12"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "badge": "new",
-      "date": "2026-06-11"
     },
     {
       "company": "Google",
