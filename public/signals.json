@@ -1,6 +1,62 @@
 {
-  "updated": "2026-06-22T16:46:02Z",
+  "updated": "2026-06-22T20:38:44Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
+      "summary": "AI models that can take down governments and business months away, rare Five Eyes statement warns The Guardian",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Mythos AI broke into almost all NSA classified systems in hours - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmZwWFM1bG0yRGVlOGpRUGxoVXd2ajhjcFBLdG5jUXJiM0c5WnFJU2tzekNEaHE4WlpibGdhR2pMdzZnYUZSMTdYYzQ2Mm1WbWFGaXFZZnB1TUVyenJGdmlMZkxhRmptb3p1ZkxRZ3lTczBnLUtudkhPZXBiSWNDbTJQc25aY2ZNSFl5R3pZd3BmUWwta0ljUEtXQkVtdnpjYnJXTGZ0S2gzZENjdFcyUi0ycHVSZ2Q4?oc=5",
+      "summary": "Anthropic’s Mythos AI broke into almost all NSA classified systems in hours Security Affairs",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI and tech are trying to influence the midterm elections - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5",
+      "summary": "AI and tech are trying to influence the midterm elections NPR",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFJGTVNiNXR5a0F0Z2c2MU9RdkJ0a3hrNXczUEpCcWFHX2d6WENjN2M5UGV6djh2N2lrSXBoODNjZXFyNUJxNXdXR05VSld2Z0Z1WmF3NlRYYmJMb2dWUFE3WGozUDZpbUxNUnlNNFRrd0xhZFBDT2VxX29hTmEwYzdkQVc4NVl6VnJqeURyUDZRSHFmaTlJTVBn?oc=5",
+      "summary": "OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires Business Insider",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
     {
       "company": "Microsoft",
       "title": "Microsoft Will Again Force-Install Microsoft 365 Copilot App on Windows 11 - TechPowerUp",
@@ -11,17 +67,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is removing one of the best features in Edge to clear space for AI - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVpHdjRxR2xUMGc2WVJPeUtBUWRjblAtRl94eGZlSW1TN2t3UklzaG1QTmZDWE1TbzNrXzBqTlNjSzVOLXZidTVJNHZuQmQ1ekwtM2ZMNnpoUXlubGtJdFR4Ylo3RFU3S1NLb1lfT0ZpTVg1MmVJQTNYNjRtN3N3UmJibk0wRGh6dTZRdEJLZTVIbUcwNW9vekpwOG5tRW1tVkgw?oc=5",
-      "summary": "Microsoft is removing one of the best features in Edge to clear space for AI Windows Central",
+      "title": "Microsoft considers DeepSeek as OpenAI costs mount - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmstNGxJSnZtTEVOTkRZX0I3bGdSRFNicVJSMXpDTG9PUzY0NW5TNjFOOHlMaDVlTzlsV1Z2UjJ1djRWQVM5Y2FLdFVabTF6a21DeWJFb0VYNWxFZHpXTDM5MUxCSFEwMVZ0RlQ2X2pTQXlvekdpWm0wZnNMQWdXb2lvd2FBVmFjb0FFWlZhOW01dXc?oc=5",
+      "summary": "Microsoft considers DeepSeek as OpenAI costs mount digitimes",
       "badge": "new",
       "date": "2026-06-22"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft considers DeepSeek as OpenAI costs mount - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmstNGxJSnZtTEVOTkRZX0I3bGdSRFNicVJSMXpDTG9PUzY0NW5TNjFOOHlMaDVlTzlsV1Z2UjJ1djRWQVM5Y2FLdFVabTF6a21DeWJFb0VYNWxFZHpXTDM5MUxCSFEwMVZ0RlQ2X2pTQXlvekdpWm0wZnNMQWdXb2lvd2FBVmFjb0FFWlZhOW01dXc?oc=5",
-      "summary": "Microsoft considers DeepSeek as OpenAI costs mount digitimes",
+      "title": "Microsoft is removing one of the best features in Edge to clear space for AI - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVpHdjRxR2xUMGc2WVJPeUtBUWRjblAtRl94eGZlSW1TN2t3UklzaG1QTmZDWE1TbzNrXzBqTlNjSzVOLXZidTVJNHZuQmQ1ekwtM2ZMNnpoUXlubGtJdFR4Ylo3RFU3S1NLb1lfT0ZpTVg1MmVJQTNYNjRtN3N3UmJibk0wRGh6dTZRdEJLZTVIbUcwNW9vekpwOG5tRW1tVkgw?oc=5",
+      "summary": "Microsoft is removing one of the best features in Edge to clear space for AI Windows Central",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -82,26 +138,26 @@
       "date": "2026-06-22"
     },
     {
-      "company": "Anthropic",
-      "title": "An AI proxy war could reshape Congress — before Congress reshapes AI - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5",
-      "summary": "An AI proxy war could reshape Congress — before Congress reshapes AI NPR",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFJGTVNiNXR5a0F0Z2c2MU9RdkJ0a3hrNXczUEpCcWFHX2d6WENjN2M5UGV6djh2N2lrSXBoODNjZXFyNUJxNXdXR05VSld2Z0Z1WmF3NlRYYmJMb2dWUFE3WGozUDZpbUxNUnlNNFRrd0xhZFBDT2VxX29hTmEwYzdkQVc4NVl6VnJqeURyUDZRSHFmaTlJTVBn?oc=5",
-      "summary": "OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires Business Insider",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
       "company": "OpenAI",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs - CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1neXNmOTd6N0V5LVlxS0pFVnVUVHpEMzNXSE5aSkE0aWJCMDc1N3BuVXFRX091UWFWR2MzVEw0MW5aQzh5TjRPTVYwVjQtUHYzT2RTLW1kRi11am80cHFfTGREZUtwdEw3RlBR?oc=5",
+      "summary": "AI regulation is a mess, and Anthropic is caught in the crosshairs CNN",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
+      "summary": "Trump tells Axios he no longer views Anthropic as national security threat Reuters",
       "badge": "new",
       "date": "2026-06-21"
     },
@@ -123,19 +179,27 @@
     },
     {
       "company": "Anthropic",
-      "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs - CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1neXNmOTd6N0V5LVlxS0pFVnVUVHpEMzNXSE5aSkE0aWJCMDc1N3BuVXFRX091UWFWR2MzVEw0MW5aQzh5TjRPTVYwVjQtUHYzT2RTLW1kRi11am80cHFfTGREZUtwdEw3RlBR?oc=5",
-      "summary": "AI regulation is a mess, and Anthropic is caught in the crosshairs CNN Trump says he no longer views Anthropic as a national security threat qz.com Anthropic’s astonishing commercial success makes it ",
+      "title": "Did Anthropic talk its way into an AI export ban? - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0VpZVM2Nnh5VjJfRnhCLU9nVjdIOWE4ZG9kenZwZVExbWhVUzJfc01FbG9NTEJrUG80REFFQl9Fd1hMLTNRX216OXE3WVdGOHpVUTFFRDlndGIzei00NllhclR6d2RaQTZjMzB2WGYtcjFLNkhRS1MteHc4Z1VlNm5JYzQ?oc=5",
+      "summary": "Did Anthropic talk its way into an AI export ban? Financial Times",
       "badge": "new",
-      "date": "2026-06-21"
+      "date": "2026-06-20"
     },
     {
       "company": "Anthropic",
-      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
-      "summary": "Trump tells Axios he no longer views Anthropic as national security threat Reuters",
+      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpxMEdaWUgyVGRQc2VUY2ZPajRndVU0UGxEcFBtaGlOM0NRU2ZLdFJfamhLUVVuRHNCaFlxS2JXdVlZZ2xYS0E1enJzaUR5M0JrQk50Wm84NTJ6cFR6eW9rTy1ndlJXaFBQRnVwbElySHJYWXRBUEZwTTY2LUlsdVpQNUpCb2FW?oc=5",
+      "summary": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat Axios",
       "badge": "new",
-      "date": "2026-06-21"
+      "date": "2026-06-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGxpcTlZbm5qTDBfR3ljZUNhUFdPN2h0Rm9FbURjZHBWLU9nbnk5U21EV3lTMnNPaGk2MUVYUWlTclNYWkJuNkF1R25ucV9FXzdyR0w1WUxUSjJwTTYwdTFEYUFPdk10VXc2LXVzemRXRWdqNHlHTHRkNEFIMUI0OTU5UzFTaVQyNlN1akxtZkhKajlMX3ZDWEZjQUR2Zm9TSXc4?oc=5",
+      "summary": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic TechCrunch",
+      "badge": "new",
+      "date": "2026-06-20"
     },
     {
       "company": "Microsoft",
@@ -163,27 +227,11 @@
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpxMEdaWUgyVGRQc2VUY2ZPajRndVU0UGxEcFBtaGlOM0NRU2ZLdFJfamhLUVVuRHNCaFlxS2JXdVlZZ2xYS0E1enJzaUR5M0JrQk50Wm84NTJ6cFR6eW9rTy1ndlJXaFBQRnVwbElySHJYWXRBUEZwTTY2LUlsdVpQNUpCb2FW?oc=5",
-      "summary": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat Axios",
+      "title": "US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlJJNjNtbk1wb0l5aXZZNzMwOHNJNnFnam1NTWY0dFFES1o0VG15ZDVuYTB1dGs4dlQtUnp6RWM2U19kcVRZOHJ3NEh3RTk1clIta3hQX0pKampSdHo5bnNrNmhoWUJtbEswamhoOXVxRXNOdnRKM2pVeUZjN3gtWVZZN0JWbXAxcHZMYUNSRUlVR1g1UmFtaHRleUJKNXNmOEhmQkhR?oc=5",
+      "summary": "US scientist John Jumper to leave Google DeepMind for Anthropic Reuters",
       "badge": "new",
-      "date": "2026-06-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Did Anthropic talk its way into an AI export ban? - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0VpZVM2Nnh5VjJfRnhCLU9nVjdIOWE4ZG9kenZwZVExbWhVUzJfc01FbG9NTEJrUG80REFFQl9Fd1hMLTNRX216OXE3WVdGOHpVUTFFRDlndGIzei00NllhclR6d2RaQTZjMzB2WGYtcjFLNkhRS1MteHc4Z1VlNm5JYzQ?oc=5",
-      "summary": "Did Anthropic talk its way into an AI export ban? Financial Times",
-      "badge": "new",
-      "date": "2026-06-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGxpcTlZbm5qTDBfR3ljZUNhUFdPN2h0Rm9FbURjZHBWLU9nbnk5U21EV3lTMnNPaGk2MUVYUWlTclNYWkJuNkF1R25ucV9FXzdyR0w1WUxUSjJwTTYwdTFEYUFPdk10VXc2LXVzemRXRWdqNHlHTHRkNEFIMUI0OTU5UzFTaVQyNlN1akxtZkhKajlMX3ZDWEZjQUR2Zm9TSXc4?oc=5",
-      "summary": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic TechCrunch",
-      "badge": "new",
-      "date": "2026-06-20"
+      "date": "2026-06-19"
     },
     {
       "company": "Microsoft",
@@ -230,30 +278,6 @@
       "title": "Prediction: Meta's AI Spending Will Pay Off Bigger Than Wall Street Expects - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzZXTmhjc1JZUndJTGpzSlAwR3BDRkN3VVI1QjY2ZnRYZHV3Tk80dXN5Z2Q5UDVsNkR2LWh6SEVuSWV6d1dfQkNPckxxRE5BT0dsdF9PRElYT3RvYkNQU1JpNTI4S0JDWlk2RXItdnk2SGFSeWh6OE4zWW5mbHdkUWtOMTJkLUhVU3YzNElQMzBRMng0MzMyOEhrVHM?oc=5",
       "summary": "Prediction: Meta's AI Spending Will Pay Off Bigger Than Wall Street Expects Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlJJNjNtbk1wb0l5aXZZNzMwOHNJNnFnam1NTWY0dFFES1o0VG15ZDVuYTB1dGs4dlQtUnp6RWM2U19kcVRZOHJ3NEh3RTk1clIta3hQX0pKampSdHo5bnNrNmhoWUJtbEswamhoOXVxRXNOdnRKM2pVeUZjN3gtWVZZN0JWbXAxcHZMYUNSRUlVR1g1UmFtaHRleUJKNXNmOEhmQkhR?oc=5",
-      "summary": "US scientist John Jumper to leave Google DeepMind for Anthropic Reuters",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWxkcHpxVV9XRmJBUXJzN1RTOHYyTGtzTXZQOUQxRXRGQkl6NWFzdmpENkZjUjd1a3oxUmM5Ymt5YzAxdnREZjhlLUhHcFJNa3BlQnZ3dlVoaGFmOHVVcm5UTFBXUXBrUWQxSWs3ejJkRkNaOFN3cTBSajZPel8xT2FTOHpqczltVGF3Z2tGVWxaZXFUUTdoYUcxak4tOGxybHhqcEhWWHQtelFuMVN1UEtINW4?oc=5",
-      "summary": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic Bloomberg.com",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "'They’re politically naive': The political fight behind Anthropic’s export controls - Politico",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDRqMjFMcVJSRk4yYXNGWjlEV3F6WEsxWE1pZlBsOW5OME1rZVZYeEpJb1diRmtUa25ETk1LZnMyZWQ4c3RlV0NuTGtMLVBRRXRnd2ZWTndiVndQdWJnVG5pNjFlRlk5eTBCZXdLbC00dXAwOGIzTXA4alZUX0d4bl9yQ1dQS0lsNnlDNG8zN2MwSHQ4YmVmZU5ocmxxb3hTcjRnTG5PQ21MVThxZ2J6X0xaV2xGRXg1N04tcnpzVW5QXzA0dXM0UGlGZjRqc2VBdlNKZA?oc=5",
-      "summary": "'They’re politically naive': The political fight behind Anthropic’s export controls Politico",
       "badge": "new",
       "date": "2026-06-19"
     },
@@ -448,30 +472,6 @@
       "summary": "PodCast Amazon's Jeff Bezos Returns Ring | Project Prometheus AI ​​That Wants Revolutionize Hardware John Krasinski (tXkD2o5xUv) Fathom Journal",
       "badge": "new",
       "date": "2026-06-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "badge": "hot",
-      "date": "2026-06-14"
-    },
-    {
-      "company": "OpenAI",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "badge": "new",
-      "date": "2026-06-12"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "badge": "hot",
-      "date": "2026-06-12"
     },
     {
       "company": "Google",
