@@ -1,19 +1,75 @@
 {
-  "updated": "2026-06-22T20:38:44Z",
+  "updated": "2026-06-23T02:44:58Z",
   "signals": [
     {
-      "company": "OpenAI",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "company": "Anthropic",
+      "title": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
+      "summary": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns The Guardian Anthropic’s Mythos AI broke into almost all NSA classified systems in hour",
       "badge": "new",
-      "date": "2026-06-22"
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5",
+      "summary": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic Barron's Google stock is sliding toward its worst day in a year after two top AI researchers quit qz.com OpenAI and An",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-23"
     },
     {
       "company": "OpenAI",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -27,9 +83,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
-      "summary": "AI models that can take down governments and business months away, rare Five Eyes statement warns The Guardian",
+      "title": "Micron, Anthropic sign AI infrastructure supply agreement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnlnRmk0UXp1RDNTbTA5TkI5NmtIRl85NEx4bnlwTU5wZEVNT0VITTA1T3J2ODZnb201OGZnb1Brazc2dmpFcVlLZU5hRUczMGVJUTlpMEVpaDY5Wmh6TkdJQ3h6alAxc2xHQnVKWFdHV2l3LXZvVDJIMEhxSDA0SGVFOS1mU1NfREZBWWRmNVE2UkZCbW5uUm9fckVjN3N1bUZj?oc=5",
+      "summary": "Micron, Anthropic sign AI infrastructure supply agreement Reuters",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Micron stock surges to new high amid AI memory trade boom, Anthropic deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHpvT3pmWk1iSHJpUXlBSlNJeHdkS0pDbzAwNlAyZEhKQ1ZNYzU0SDFxTHpzeHdkZDR2RkpGeVFsVTlMbVFhQVFaaFRTbjlpYmlxWVlGTjMyTmxwVDVjS0RQRk55cUIwNnVJQWxFOVhCVXNZb09wdHFWTlp2NnI2TU9mSlZDQmdaajN0ZlFQeVhtTW9na1h0UWR4WjBLVW8xdjk3VGRST19wd2luXzBPR0x1U2JxcjJwYVNCMVdzU2Y4VE02LWFrcGRhLVJ6dE12V1E?oc=5",
+      "summary": "Micron stock surges to new high amid AI memory trade boom, Anthropic deal Yahoo Finance",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -67,6 +131,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft’s New Option Allows Organizations to Block Copilot Access to Office Files - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CLTFrV05MN0VIMHNjTW9KUVZFdXphMm1rNkprTk16ZXBja3EtSVVrcVpPZk9JQURTS01tUjhoc3dUTlcwOUgwOXc5RDBJenVNYmQwZm9pMGJNNHNEcmNzcURXV3N4WmdFclh6ZDRQS2tEZUllM0HSAXtBVV95cUxOekJIOXhSeFdCakQ3eVpaTmdoZ2NyczEtWVVlUDh2LWtYbnhJNlJNdFhIczBabWdWX3UzSXI1UEM0RjNhdGluUmhxZkFPYy1ET1NFZkdTcFZmMGtUOGRJcmlzRExZOWxYOW1uRXN0UHF2TmoxOTJlWkdxNnM?oc=5",
+      "summary": "Microsoft’s New Option Allows Organizations to Block Copilot Access to Office Files CyberSecurityNews",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft considers DeepSeek as OpenAI costs mount - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmstNGxJSnZtTEVOTkRZX0I3bGdSRFNicVJSMXpDTG9PUzY0NW5TNjFOOHlMaDVlTzlsV1Z2UjJ1djRWQVM5Y2FLdFVabTF6a21DeWJFb0VYNWxFZHpXTDM5MUxCSFEwMVZ0RlQ2X2pTQXlvekdpWm0wZnNMQWdXb2lvd2FBVmFjb0FFWlZhOW01dXc?oc=5",
       "summary": "Microsoft considers DeepSeek as OpenAI costs mount digitimes",
@@ -90,51 +162,27 @@
       "date": "2026-06-22"
     },
     {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
-      "date": "2026-06-22"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity launches Brain, a self-improving memory system - varindia.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXVrSXpkTm5xVlNxRFZyby1TQ3pJY2thQ2d4VjZsV29lY1dVVXlZZEZzaGNkS2RMa0kxZEZhdm1TcWl2OW5ieGQ1VUxyQndXUTdfNEhTYmdKLXlpdko5RUZneGVvem1DR0R6dzFrejR0bXRsdjhGdHpBRWIzUU1pNk5KaWdoTXMtNm1WN2lpRQ?oc=5",
       "summary": "Perplexity launches Brain, a self-improving memory system varindia.com",
       "badge": "hot",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta pauses an AI training program that tracks employees' keystrokes after an internal leak - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGk3S3R2Q3dlMzZ6X1g5bTZvVm5GMWxGZkVpYjV2NlY3WlpMTzZxdEprUVU2bEdYUFdtTVFzVXBwUE90b0JUQ05oRDhfMlBVMU4zRkdodm5oeU1OVWF4a3VCbmVOOTR0Rm92TGtqVDQ2OC1VX0w2dVpERTJjbDFIUlNjamVlaVJRdEE0TDVTVDIwTHNLclpZUG5vZDNILW9MaUhNR2ZTaFRvZw?oc=5",
+      "summary": "Meta pauses an AI training program that tracks employees' keystrokes after an internal leak Business Insider",
+      "badge": "watch",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Meta",
+      "title": "UFC finally rolls out new Meta AI fighter rankings after years of complaints, fans react – ‘AI is trash’ - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYTZQbEVpeHlEWFcxY2hpM251LU9BYnFSY25GZm9MbmVhSnVPRy11dFJBVk9FZl9EbldWLXNZM3llNGoyYlIzUWx3c0VpYWN3OWhPaGYzQm5FTUtsZThiRDh0OGZwd0w4VzdDQ3JmeXJHMmVOSUpNMFZxZ19EUVk?oc=5",
+      "summary": "UFC finally rolls out new Meta AI fighter rankings after years of complaints, fans react – ‘AI is trash’ Yahoo Sports",
+      "badge": "new",
       "date": "2026-06-22"
     },
     {
@@ -186,22 +234,6 @@
       "date": "2026-06-20"
     },
     {
-      "company": "Anthropic",
-      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpxMEdaWUgyVGRQc2VUY2ZPajRndVU0UGxEcFBtaGlOM0NRU2ZLdFJfamhLUVVuRHNCaFlxS2JXdVlZZ2xYS0E1enJzaUR5M0JrQk50Wm84NTJ6cFR6eW9rTy1ndlJXaFBQRnVwbElySHJYWXRBUEZwTTY2LUlsdVpQNUpCb2FW?oc=5",
-      "summary": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat Axios",
-      "badge": "new",
-      "date": "2026-06-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGxpcTlZbm5qTDBfR3ljZUNhUFdPN2h0Rm9FbURjZHBWLU9nbnk5U21EV3lTMnNPaGk2MUVYUWlTclNYWkJuNkF1R25ucV9FXzdyR0w1WUxUSjJwTTYwdTFEYUFPdk10VXc2LXVzemRXRWdqNHlHTHRkNEFIMUI0OTU5UzFTaVQyNlN1akxtZkhKajlMX3ZDWEZjQUR2Zm9TSXc4?oc=5",
-      "summary": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic TechCrunch",
-      "badge": "new",
-      "date": "2026-06-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is rewriting the economics of enterprise AI and the bill shock is just getting started - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTFUdEVwdmJHOXJ4dDNWazBOTUF1bmVWMkxSYV9sT2tiRGZOT0ZuajlQQUR4WDRUaHZXSXhrZGl5SUp4eXlnZklxYlpuYlh6VXNUYmVBRUNCZE1zUnFNRFJramhYbnAwOFFSMTMtbW5WN2R0MXZDZGhkMElBTXlaanZLaXFnLXJaU0I1U0FSTUM4bEJpclAxajF0dUd1WVlaLXg1WVVOR1prSTdEU21lNk9BOXhmNjc5dWtGbDRYWFZudw?oc=5",
@@ -226,14 +258,6 @@
       "date": "2026-06-20"
     },
     {
-      "company": "Anthropic",
-      "title": "US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlJJNjNtbk1wb0l5aXZZNzMwOHNJNnFnam1NTWY0dFFES1o0VG15ZDVuYTB1dGs4dlQtUnp6RWM2U19kcVRZOHJ3NEh3RTk1clIta3hQX0pKampSdHo5bnNrNmhoWUJtbEswamhoOXVxRXNOdnRKM2pVeUZjN3gtWVZZN0JWbXAxcHZMYUNSRUlVR1g1UmFtaHRleUJKNXNmOEhmQkhR?oc=5",
-      "summary": "US scientist John Jumper to leave Google DeepMind for Anthropic Reuters",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft's AI ambitions came with hidden costs — investors are not happy - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdllka1V3bnhpSlhTb1BRQTB2MnF0Q0F0MlJRT0N1aVdQLUF5S1duOUNyTnJLTGRmZzRQYTE3TnY0M0Y4dnpsMlE5RHJXUmNjMGstYTE3Zy02RURUMmg3SHE3S3pNbFVrQkE2bDRIWUNjckpFdkZvYS0xN3pWLXJNelhqd2FUdXhmbG11N0UzTDJKcjlMVmx4b3dsRVlsN2pkVHZDZE50aDVLdHJWTWxUd0xJNnFRTmVwS2pUcF81YThQSkVIWE5JTjl5UGcyNGdlRWc?oc=5",
@@ -246,14 +270,6 @@
       "title": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1pGdWg5WTlNNXRNTkFMMU4xMEZENWRpM2s2RVBEZzRjSnF1V1NXbU9QNGlKMFVSMTdPRUhlQ1lKS3NxTFI3OFdkaUVBSDJHOHNBbGU2VnliaHJEdXJVLVpmR1lfMUR5YjJLMExyUW1vM0ZWQ0xiZUVhVktJODdaV3RuUUhycGsxNWwtS0RudDZYWW56MnZaTEhKNkQ2Vkd2anNBU2Y0OFJUNDFaVzdrRUw5T3FwSk9ZdXNLTGxBWk50TC02U3U00gHMAUFVX3lxTE9vQmtQdHdHSXNsQ2Z4b195STg4ZEtpdXFTVG0wWkdESTJRNUxrdWVNbGRKQVo5VDBlX0hySEdrTEdsaFFvaFoxaEt2bVB4YUhoMW0zMl9kb0c5cFd1a2Y3c2RGTFVVSXh2QlFKVHJSc3RuWmozUUVhYldvY0FBSjRHV2pGS3VDLVBMallLZDQ1MUdWSVVmcW1JRkJOZ3gycU5pa21MdlBzeS1rVGRBMjgxWXU2aWlHMlFTaDVvbUJJUlhoQ3dkeVliN0dYSw?oc=5",
       "summary": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset simplywall.st",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft will soon allow some users to block Copilot from analyzing their Office files - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2RtRVA5WmlnR25iREhIYnhLTUNDUmVNOHg1ZHVoaWdhVEo5X0lCUm00ajdyVXZ4aHhob2NUZ2sxbUpFSEJpSXhMemJvam9Wa1V6WmRQLVVPLTNnUjhNcExINFpJYkFjaGhQbERHbHduckJmT0REVUJnbkNGNlVsamJZWHhSYmpEbDZneU5Md1YtbmtuZ1BWVVlZT2p2bXRGelpTdUtWd0dabmI4Z2tpdlpxSVVhcGM?oc=5",
-      "summary": "Microsoft will soon allow some users to block Copilot from analyzing their Office files Neowin",
       "badge": "new",
       "date": "2026-06-19"
     },
@@ -394,14 +410,6 @@
       "date": "2026-06-18"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDZGd3pVZEpvOHRWd0RuZmxBWEVmYnpDek85Yi1lQ19hV2VPWWRqZ3l2VWZIcTczVUg3cXdyRmhXaHhlLWVGX2N0dDNxSmZFX1NrVzJ2bDZHX09YTWFCT25uY1U0S0lWVVg4TERTLUxWTW9DZGFvQW5JMGtiMjlKWTd4NXg?oc=5",
-      "summary": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street Financial Times",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
       "company": "OpenAI",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
@@ -430,14 +438,6 @@
       "title": "Perplexity Research Residency Program 2026 ($220,000 salary) - Opportunity Desk",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXg3VVhkYVgySzZQVHVCRVVJVS1yTUhCaV9QZGdwTHJYMW9BaGxQS0tSZDY0M1FJVkdTclVCWlhNRXlBWTNkLW10dWZUeVJUOU9QeHlucEV6UWNJSDR3dlFVNFYtSW0xbXZOZ2R3QnBHR3ZKZUtFUTJtVEthZ2Z3MnhZU3ZsT0xzbFE?oc=5",
       "summary": "Perplexity Research Residency Program 2026 ($220,000 salary) Opportunity Desk",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta head of product for 'AI for work' transformation is leaving company - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5",
-      "summary": "Meta head of product for 'AI for work' transformation is leaving company Reuters",
       "badge": "new",
       "date": "2026-06-17"
     },
@@ -523,6 +523,14 @@
     },
     {
       "company": "Amazon",
+      "title": "Ring gets buzzed by class action for collecting visitors' faces without consent - The Register",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2ZveWhaa3o3WkpaX2RKR3dFS0JvM29YYm9WWGxxcjUwT2o0VEZWSXFTQzBLMVAxbE5XR1JScmdtOFBsQjFMT29HaVFzMDBGbVFmYXJISHlEN2V5X0hBWldPUEtOaXVjYncwQ09aT25XU1E4NTliYU5ISzRyclR6eFdTZTZoRjR5QUJ6NGZmclg5YnktZnpoOWx2a2xfdE41ZFh2eWk2V2tMdFlwcVF1bktCYmFUNW8?oc=5",
+      "summary": "Ring gets buzzed by class action for collecting visitors' faces without consent The Register",
+      "badge": "new",
+      "date": "2026-06-03"
+    },
+    {
+      "company": "Amazon",
       "title": "Amazon's Ring cameras track your face without permission, $5M lawsuit says - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUM0TTZEUUszUE5EenpVa3pNOEpHVUlhWVlWRFFTZFptMU5OV2l6cmw3eVJhMXlOUjNfOXo2c3VpNWE5aG5BdlJJaGNiVGJhNC13U2JwNTd5RGxxbGhUeTcybGZKeEN6UG9FSnZaZUFPNjRSRDIyVnI2cVM0azFlZGdPZ0o1MW8tLUp5RkRYUEVxT0xmME1wQmtsTEVGb3hkSm9QbzRBNHZGZGRBN1V6WFJtZGxHdUFra2hRcmlKQzlfY3I0VFRrLXg3YW9acVcydmRvUjNRNUY5SkU?oc=5",
       "summary": "Amazon's Ring cameras track your face without permission, $5M lawsuit says Tom's Guide",
@@ -584,14 +592,6 @@
       "summary": "Your Ring Camera Has An AI Description Feature (And It's Pretty Creepy) bgr.com",
       "badge": "new",
       "date": "2026-05-19"
-    },
-    {
-      "company": "Amazon",
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXptMlBObWVJTzB2aUpoVVJhMWRwbWtrNm5NNm9XRXpEZXFMR2NoUHJjSFJZV1R1d0I1TzZPYWw5ZjJ6U01Kc3BtT3pDM2JBdHVlQVNDZFJzMVVKUkJXdWM0cFdtR0hJNVNyWXRqZ2x0cUwzMjR0S0JzS3UtVTk0czUxVTQwbXJ4Q0xJdEtmd0pEYkdMR0lNV2JMTkIyT1RUejhIcENjQlpiOG5UeVd1bg?oc=5",
-      "summary": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals TechCrunch",
-      "badge": "new",
-      "date": "2026-05-12"
     }
   ]
 }
