@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T09:29:48Z",
+  "updated": "2026-06-23T14:37:39Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -14,6 +14,22 @@
       "title": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
       "summary": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns The Guardian",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUtxT2JUemlhdzVIMGpUSjhFNXBGRm1ZcVBXbHplNzkzaGJBNzVPMVBUMkR6VHB2eGU5UjlRczZURGxrM2pMWUxPZFp6ZXBzY1VJSm5SeW9oZjk4dW5lOGJtY0xUNzdtYnVVOU92ekxDREVxQXJRMl9PbkpnNmhWb0x5cFp2R2M5YnYta3p6ZGU4SGg4NVRMVXgxLVpZWlA4UUNOYVF6X2l1RHJJMzNiUHRwRFpzaWViN3BEWEdZdWU?oc=5",
+      "summary": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul Bloomberg",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Micron signs memory supply deal with Anthropic, stock hits record - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VU0JxWVNBbC05UVBtSm1lb0ZSY0t5ZVg0dk9uRFZxcFBCUFVwNG9RT1Nmd2JZLThiVlE1YVJyUTFTZkRmZ1FteFFYVXI1WlRVZDQ2XzMzZHFYWWxVTU82WkNuUDJyZkh1ejd1WXJRWm1ILWs?oc=5",
+      "summary": "Micron signs memory supply deal with Anthropic, stock hits record qz.com",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -90,6 +106,30 @@
       "date": "2026-06-23"
     },
     {
+      "company": "Meta",
+      "title": "Meta debuts AI-powered Meta Glasses, starting at $299 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGFHR3VPMkR1VUh5OHpvSXB0SURnVjE3cmI2eEJvdWd0bkVpTWgxcE1CeUhDWUIzRU5iZmk3U3NsT2E0R2syVER5YTlIMVc2d2Y0aE1sMlhNOXEwYjVTTFMyV1hJS2NjQ3dmRmZFY3g3eEJwYUtCd3FIeE9BNWJNdUs2VFk4SXBYMDRCczZfeWVZcXJlZThaZDJncko1X0QzT0JiS3pJZHJNVG1sSDFxcg?oc=5",
+      "summary": "Meta debuts AI-powered Meta Glasses, starting at $299 Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Glasses Hands-On: Ray-Ban Is Out, Kylie Jenner Is In - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmdITXV3S2U4eUhLZkNzbEFhQXBMMDFyNndPMGUyaUxXeVdGUWVmSDdTVjBsTWg4MFUyY2ktakxsQW16QnQwcE14UHZlVmN4TkZVQndRaWk4YTdlYWJ1eUpGMFprNHMwQ08tZkFGQUNBZ3M2SHR5cFlLYTl6bG5RTTFFWVF5dw?oc=5",
+      "summary": "Meta Glasses Hands-On: Ray-Ban Is Out, Kylie Jenner Is In Engadget",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
+      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
       "company": "OpenAI",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -138,22 +178,6 @@
       "date": "2026-06-22"
     },
     {
-      "company": "Anthropic",
-      "title": "AI and tech are trying to influence the midterm elections - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5",
-      "summary": "AI and tech are trying to influence the midterm elections NPR",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFJGTVNiNXR5a0F0Z2c2MU9RdkJ0a3hrNXczUEpCcWFHX2d6WENjN2M5UGV6djh2N2lrSXBoODNjZXFyNUJxNXdXR05VSld2Z0Z1WmF3NlRYYmJMb2dWUFE3WGozUDZpbUxNUnlNNFRrd0xhZFBDT2VxX29hTmEwYzdkQVc4NVl6VnJqeURyUDZRSHFmaTlJTVBn?oc=5",
-      "summary": "OpenAI and Anthropic workers are about to learn the hidden challenge of becoming overnight millionaires Business Insider",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Will Again Force-Install Microsoft 365 Copilot App on Windows 11 - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHVVT2R5clh4WXl0S3ZnOGpPWWp0SHh5ZWZGMlpqWlJDZ3IyRWNkSTdQX3FOQkZkbGFENmZWak9QaXl2TWQ3QXprWFZMOE5ZSjNGZGtSRU1mM3Zha0M3aHkzZFRmeU9DTy1XN1VRMmdRNGhNWU9lbG9xWUNLa0pJajJhOWFYZVhOZUEtSWNTb3JiazMxQmUzQTNYVm10ajVWcUNzYmlOcS1DRWdsMEHSAbMBQVVfeXFMT0dvMmRjdWhIWEludHlaT2s4NGtmcWw1MzM4YTJXNGpPNTdWdWVrN0ZrMjMzS18xNWstelpLY0FoUWtFZ01lZ3NGSExjRVdfaEZwVG1IYlpLcTh4QmxUU2lVQjF3M2U4NEtZZ3FFYU1DeHpiWmRva0hBU0EyVXYtTmQ4N1czdDFDVmNyYTRZWGxNSjc3Rk1va0tzQkV6Q2hEQndhZTJjQ2R1T0U4cGtCcEx6Qm8?oc=5",
@@ -195,18 +219,18 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity launches Brain, a self-improving memory system - varindia.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXVrSXpkTm5xVlNxRFZyby1TQ3pJY2thQ2d4VjZsV29lY1dVVXlZZEZzaGNkS2RMa0kxZEZhdm1TcWl2OW5ieGQ1VUxyQndXUTdfNEhTYmdKLXlpdko5RUZneGVvem1DR0R6dzFrejR0bXRsdjhGdHpBRWIzUU1pNk5KaWdoTXMtNm1WN2lpRQ?oc=5",
-      "summary": "Perplexity launches Brain, a self-improving memory system varindia.com",
-      "badge": "hot",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity AI Predicts Incredible Cardano Price for Summer 2026 - icobench.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHM2bENMQUpBeGhSRUdMQXVqRTJTMHRNYUtlS3lndlVhN0E0ODNEWlZxcU42MkdNUTVZNktBenpFVUNSUHVBd1EyVEpyZmJOd2tVUUs0emVmUjF3Vl95ZmRmVDJFUUdKQmFxeUZaOUdXRExEcmVXbmpfM1JEajNqWXB4YVgyZFpCRldPcFVHTHFpei1T?oc=5",
       "summary": "Perplexity AI Predicts Incredible Cardano Price for Summer 2026 icobench.com",
       "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity launches Brain, a self-improving memory system - varindia.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXVrSXpkTm5xVlNxRFZyby1TQ3pJY2thQ2d4VjZsV29lY1dVVXlZZEZzaGNkS2RMa0kxZEZhdm1TcWl2OW5ieGQ1VUxyQndXUTdfNEhTYmdKLXlpdko5RUZneGVvem1DR0R6dzFrejR0bXRsdjhGdHpBRWIzUU1pNk5KaWdoTXMtNm1WN2lpRQ?oc=5",
+      "summary": "Perplexity launches Brain, a self-improving memory system varindia.com",
+      "badge": "hot",
       "date": "2026-06-22"
     },
     {
@@ -238,6 +262,14 @@
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "badge": "new",
+      "date": "2026-06-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Now Wants Users To Adopt Chinese Deepseek AI After Failure Of Copilot - channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWJPQzlqRjg2Nmc1ZnF2eWlHSXNkTTJWbGdPYS1zNlRMWlYzei1WX1JkM1M4RDVOTEJncXJWRExRdDdkdkxMaTVtclhHSEFLaEQ2bEdqVjI3ZkdXSFg1RUdiZmkyRDE0YXQteVBkUW5BSVYzNDlIZkRnOVVGX2dtQXo1SzByQV9SNG9WNE85NUFmOGd6NHhzX1RQeDI2b0tUblZKRmFvM1RsQ2VHckRvbw?oc=5",
+      "summary": "Microsoft Now Wants Users To Adopt Chinese Deepseek AI After Failure Of Copilot channelnews.com.au",
       "badge": "new",
       "date": "2026-06-21"
     },
@@ -286,14 +318,6 @@
       "title": "Microsoft's AI ambitions came with hidden costs — investors are not happy - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdllka1V3bnhpSlhTb1BRQTB2MnF0Q0F0MlJRT0N1aVdQLUF5S1duOUNyTnJLTGRmZzRQYTE3TnY0M0Y4dnpsMlE5RHJXUmNjMGstYTE3Zy02RURUMmg3SHE3S3pNbFVrQkE2bDRIWUNjckpFdkZvYS0xN3pWLXJNelhqd2FUdXhmbG11N0UzTDJKcjlMVmx4b3dsRVlsN2pkVHZDZE50aDVLdHJWTWxUd0xJNnFRTmVwS2pUcF81YThQSkVIWE5JTjl5UGcyNGdlRWc?oc=5",
       "summary": "Microsoft's AI ambitions came with hidden costs — investors are not happy TechRadar",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1pGdWg5WTlNNXRNTkFMMU4xMEZENWRpM2s2RVBEZzRjSnF1V1NXbU9QNGlKMFVSMTdPRUhlQ1lKS3NxTFI3OFdkaUVBSDJHOHNBbGU2VnliaHJEdXJVLVpmR1lfMUR5YjJLMExyUW1vM0ZWQ0xiZUVhVktJODdaV3RuUUhycGsxNWwtS0RudDZYWW56MnZaTEhKNkQ2Vkd2anNBU2Y0OFJUNDFaVzdrRUw5T3FwSk9ZdXNLTGxBWk50TC02U3U00gHMAUFVX3lxTE9vQmtQdHdHSXNsQ2Z4b195STg4ZEtpdXFTVG0wWkdESTJRNUxrdWVNbGRKQVo5VDBlX0hySEdrTEdsaFFvaFoxaEt2bVB4YUhoMW0zMl9kb0c5cFd1a2Y3c2RGTFVVSXh2QlFKVHJSc3RuWmozUUVhYldvY0FBSjRHV2pGS3VDLVBMallLZDQ1MUdWSVVmcW1JRkJOZ3gycU5pa21MdlBzeS1rVGRBMjgxWXU2aWlHMlFTaDVvbUJJUlhoQ3dkeVliN0dYSw?oc=5",
-      "summary": "Microsoft (MSFT) Stock Could Be 18.6% Undervalued After China AI Push and Copilot Reset simplywall.st",
       "badge": "new",
       "date": "2026-06-19"
     },
@@ -398,30 +422,6 @@
       "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump - WIRED",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjBheE1rdUR3YVJKanNoU1FFOHZJa2NEWk50TVphdXY0V1I3TTltRi1FcGE2XzdodE1yYjFyaVlBUDhyd0tzUEU5MmkxTWxVMDNkQW1iMTBpaFNkQVBlTTNMbE9Nbkp5NUItSnNSRk5vSDZVc052UExEaWdrRE1qcjJGUmRfTDZiWHNlYU5tdW1sbGlyRzVxdVR0UjMwNy1COHdVRkFPVWlPRS05UEtpekpyOXR4MW0yb0lxX015RQ?oc=5",
       "summary": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump WIRED",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
-      "summary": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports Reuters",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3BXSnd0WmJ1SXdfTjJqNDdIdnVWemE2VkRSa29wVVU2NVFKUENDbUN0WnlGa19VTW9BOTJ3Q1BRZTNnUTdBbHc1MFVNbWF5dDlubXpvOE5lcU1aYXBMVk1USTlvT2hCYUgxTUVkYlN4QjlqQUZlMkdaaTVMck5SZEhocWZ4dWF3YkdvT1ZCaDRsOEVfMGdkQkNaSVNpc2hJVnlpYS10NFZ2OTB4V2p1RVBnQWM?oc=5",
-      "summary": "People are underestimating Meta's AI products, says Evercore ISI's Mahaney CNBC",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVVNMjNaYVF0U1NQV3BQMkFrSS1lcThjdkZuV3ZuSGZoZDR0UnhKcXBUSVd5a19Lbmg1MjhDS3h6emxFRWxQMWpDb1FxNVhZcUVLM0VJbzhkOFRaM1FNYnloR1lRWDlKSkU0MGpYQ2R0R3lFVVYzYkZCZnUzUjlRcHA3aHlSWVgxTkRvUVdsbkZ0al8wYlFQeE1Ta3drbElPVERWT2Q0MlBmUjB6NHlQRUxQX2R2WTFjMHBHOEZqdXFnbm52NHpZ?oc=5",
-      "summary": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports Reuters",
       "badge": "new",
       "date": "2026-06-18"
     },
