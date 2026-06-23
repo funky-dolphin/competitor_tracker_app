@@ -1,11 +1,51 @@
 {
-  "updated": "2026-06-23T14:37:39Z",
+  "updated": "2026-06-23T19:54:16Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
     {
       "company": "OpenAI",
       "title": "How Omio is building the future of conversational travel",
       "url": "https://openai.com/index/omio",
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVQ5VktmelZuekFOV3k5TDBQN3E0VHpCNnVqOExoTDNLUzlqTGJfemlja1ZVMU4tdFh0WDc2VFRaY1BYODNyb1VBcVJhMTZvMnl0LVFaN0R1ODZ5SHRHSDdwaW4wRFJwS0t6N3RkN3hEZ053RDA0VEhndzJCNjZCWVZtSnN2VkFIY2NZdDA0RVNDeXlVV0EwaDBLeTF2SlhWYldvaldZWTFnUXByYlE?oc=5",
+      "summary": "Anthropic’s Claude Tag is learning your company, one Slack message at a time TechCrunch",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzd1Q1dOYUdrNFhmcnpnU3ZkZnlNTXRmeHFOMmw1aGdDSkoxcFhkWEt5a29Dek82RTlaaUtlSmh2UE4tOGdKYTVlQjhVRHBsemIwZjhVNW1zWVprdUVURlJ5UVY4a0xLN2RBR3VJS2gyd2wtR3BiWjBtd3k3TG54LVNZc08yMzhQbDJmemZfZU8yQ2F1Q1J5d3RhV09lZkF0djA2djBfNnlGcEE5VmgtelVfaGo5OFNCOFY2M0g2WnJTQUhEM2RpN1YwT3h0Ujd2V3ZjbXBYQXBIYlMyNlVhVnNhSjB1ZnJjaXhiMmRzU0FldzND?oc=5",
+      "summary": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously VentureBeat",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude Tag - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
+      "summary": "Introducing Claude Tag Anthropic",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI - Menlo Ventures",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3ZkU09TWXBrVmxMWHh1Z1FDeXFmS25wVjhWNXpWYVg4empxakFuSTRFWVRhRFVJeWI2MV9xNWJkbjhDaTM3Vzl1dy0xZ3FSckJweDN6Uml2aXhTbGFBeW55WFZ6QVRqZmZETVNoNGVNSld2bERkVEU2VlhQSTJjRm9oTW5heHNSOUdoZm40WTFHc0p3M3lleHZPVURxcTJZeGc?oc=5",
+      "summary": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI Menlo Ventures",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -30,14 +70,6 @@
       "title": "Micron signs memory supply deal with Anthropic, stock hits record - qz.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VU0JxWVNBbC05UVBtSm1lb0ZSY0t5ZVg0dk9uRFZxcFBCUFVwNG9RT1Nmd2JZLThiVlE1YVJyUTFTZkRmZ1FteFFYVXI1WlRVZDQ2XzMzZHFYWWxVTU82WkNuUDJyZkh1ejd1WXJRWm1ILWs?oc=5",
       "summary": "Micron signs memory supply deal with Anthropic, stock hits record qz.com",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Students are getting paid to make their classmates love AI - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckVLZjRPOFg1dU42M19RQ2VkVm5CaFIzV2ZlbUZ5Wkpwa0pOOUg5M2NodElIWU9zUWJwbVNlOVBqVmh2Smw0VnlTQy1taTVYMVNiM3B6TXRxaHpFUGFKdVFaUFpUTDljTUNFRzNzTkY4UEdnVXpMZHE1OHdvcUw1aE9IRE51RVZ5ODg0UzNvT295MEE3bl92VGZGMkFpc21jRXdTS191NGE1LTBFT0NsOWNWWjJqSlE?oc=5",
-      "summary": "Students are getting paid to make their classmates love AI NBC News",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -106,6 +138,46 @@
       "date": "2026-06-23"
     },
     {
+      "company": "Perplexity",
+      "title": "As some students sour on AI, companies are paying their classmates to change their minds - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckVLZjRPOFg1dU42M19RQ2VkVm5CaFIzV2ZlbUZ5Wkpwa0pOOUg5M2NodElIWU9zUWJwbVNlOVBqVmh2Smw0VnlTQy1taTVYMVNiM3B6TXRxaHpFUGFKdVFaUFpUTDljTUNFRzNzTkY4UEdnVXpMZHE1OHdvcUw1aE9IRE51RVZ5ODg0UzNvT295MEE3bl92VGZGMkFpc21jRXdTS191NGE1LTBFT0NsOWNWWjJqSlE?oc=5",
+      "summary": "As some students sour on AI, companies are paying their classmates to change their minds NBC News",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
+      "summary": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNB",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI training oopsy - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXRaVTZ1dEZkTkNGblVqNkhRZkExYXJVV0tYd3ZfblZEQTJzeVFpX0ZKWXNRN2dCWjdBYzBIM3hKR3RyVS1wQlprU1RXcmFPV1VQSlhhcGo3YWdocHFXS3Nzb2RQaXZDcEQzTzNHZ2RKUXpLcGl2MWlvc0swZ001Y2VB?oc=5",
+      "summary": "Meta's AI training oopsy LinkedIn",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeG4yUGxpUmk4ZEdoRnczbWdfSkwxZUZJZEgzNE9PUS1nRjNoeVBnWndRd09fTjlEVkZKN21ETG5SVHVraXFNRlEyYXg3cFpENmpmci1NNHBYTVJ0RXdnNUt1bGFwWGE0b0hMcG5Da0dKZXI5UXd2dGRrVF9FaThtcEUtVDJKbHliRFZseGhERkxpLUhGTHprRURTTHdvQQ?oc=5",
+      "summary": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner Gizmodo",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Adventurer AI Glasses - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUN0Vyc0R1MFVfc0pPN3JSeTdtNkZOXzdaSEZHMzRkN1JFLUh0UHlzSEFxWEMwRDlyeFd3ZWw4ZUpIUk42aWdqS2FPLTdXaHp6LTh3TTI4UGZraEJMRks0SFVTZXk5c2VNQXZn?oc=5",
+      "summary": "Meta Adventurer AI Glasses Meta Store",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
       "company": "Meta",
       "title": "Meta debuts AI-powered Meta Glasses, starting at $299 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGFHR3VPMkR1VUh5OHpvSXB0SURnVjE3cmI2eEJvdWd0bkVpTWgxcE1CeUhDWUIzRU5iZmk3U3NsT2E0R2syVER5YTlIMVc2d2Y0aE1sMlhNOXEwYjVTTFMyV1hJS2NjQ3dmRmZFY3g3eEJwYUtCd3FIeE9BNWJNdUs2VFk4SXBYMDRCczZfeWVZcXJlZThaZDJncko1X0QzT0JiS3pJZHJNVG1sSDFxcg?oc=5",
@@ -131,14 +203,6 @@
     },
     {
       "company": "OpenAI",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "OpenAI",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
@@ -147,33 +211,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "OpenAI",
       "title": "Codex-maxxing for long-running work",
       "url": "https://openai.com/index/codex-maxxing-long-running-work",
       "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Micron, Anthropic sign AI infrastructure supply agreement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnlnRmk0UXp1RDNTbTA5TkI5NmtIRl85NEx4bnlwTU5wZEVNT0VITTA1T3J2ODZnb201OGZnb1Brazc2dmpFcVlLZU5hRUczMGVJUTlpMEVpaDY5Wmh6TkdJQ3h6alAxc2xHQnVKWFdHV2l3LXZvVDJIMEhxSDA0SGVFOS1mU1NfREZBWWRmNVE2UkZCbW5uUm9fckVjN3N1bUZj?oc=5",
-      "summary": "Micron, Anthropic sign AI infrastructure supply agreement Reuters",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Micron stock surges to new high amid AI memory trade boom, Anthropic deal - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHpvT3pmWk1iSHJpUXlBSlNJeHdkS0pDbzAwNlAyZEhKQ1ZNYzU0SDFxTHpzeHdkZDR2RkpGeVFsVTlMbVFhQVFaaFRTbjlpYmlxWVlGTjMyTmxwVDVjS0RQRk55cUIwNnVJQWxFOVhCVXNZb09wdHFWTlp2NnI2TU9mSlZDQmdaajN0ZlFQeVhtTW9na1h0UWR4WjBLVW8xdjk3VGRST19wd2luXzBPR0x1U2JxcjJwYVNCMVdzU2Y4VE02LWFrcGRhLVJ6dE12V1E?oc=5",
-      "summary": "Micron stock surges to new high amid AI memory trade boom, Anthropic deal Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Mythos AI broke into almost all NSA classified systems in hours - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmZwWFM1bG0yRGVlOGpRUGxoVXd2ajhjcFBLdG5jUXJiM0c5WnFJU2tzekNEaHE4WlpibGdhR2pMdzZnYUZSMTdYYzQ2Mm1WbWFGaXFZZnB1TUVyenJGdmlMZkxhRmptb3p1ZkxRZ3lTczBnLUtudkhPZXBiSWNDbTJQc25aY2ZNSFl5R3pZd3BmUWwta0ljUEtXQkVtdnpjYnJXTGZ0S2gzZENjdFcyUi0ycHVSZ2Q4?oc=5",
-      "summary": "Anthropic’s Mythos AI broke into almost all NSA classified systems in hours Security Affairs",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -190,6 +238,14 @@
       "title": "Microsoft’s New Option Allows Organizations to Block Copilot Access to Office Files - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CLTFrV05MN0VIMHNjTW9KUVZFdXphMm1rNkprTk16ZXBja3EtSVVrcVpPZk9JQURTS01tUjhoc3dUTlcwOUgwOXc5RDBJenVNYmQwZm9pMGJNNHNEcmNzcURXV3N4WmdFclh6ZDRQS2tEZUllM0HSAXtBVV95cUxOekJIOXhSeFdCakQ3eVpaTmdoZ2NyczEtWVVlUDh2LWtYbnhJNlJNdFhIczBabWdWX3UzSXI1UEM0RjNhdGluUmhxZkFPYy1ET1NFZkdTcFZmMGtUOGRJcmlzRExZOWxYOW1uRXN0UHF2TmoxOTJlWkdxNnM?oc=5",
       "summary": "Microsoft’s New Option Allows Organizations to Block Copilot Access to Office Files CyberSecurityNews",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Windows 11 is getting Copilot on Microsoft 365 Business accounts again, unless you're in Europe - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGdlekJGOHp1MjJDRTl2ckNwZDdSMEY5eklXdTU3UDgxQzdRYnE5UmRIQ1ZScW5Gak9GdFhKOE5ZNExXazlCOUE1WVVHOTctSk5xOGRuVGxxTlF5eFk2VGctYmZQUkRzbmV3V3RVN3J1QlVOYjd2TzNQQ3FZYVNjTlZfQ09EcVlqend2ZkEwVHlWRGUycGlMRlh0MFF2U2o4dEZlM0hOTDZaX1c4YUhkYnlLRy1WZXFLX3FpSmNCR2EwVk1mWFJ3eGJELUJyWWs?oc=5",
+      "summary": "Windows 11 is getting Copilot on Microsoft 365 Business accounts again, unless you're in Europe Digital Trends",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -298,30 +354,6 @@
       "date": "2026-06-20"
     },
     {
-      "company": "Meta",
-      "title": "Meta offers paid training for AI data center jobs - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmaTlVYk9yemhicGhJSHdfTWg4QzhNdGMxTnplUFhNNENUSFNuUlBMMEJGOFllb0FvQnlaaTNXQ3FKUlFUSGJlbGt3cEdVc05mSVBSa2QyRFFFdmNlbmFqazlSRDQxRW1TZWVPSkxCZ21ycy1SZEN1dGdTVnpWeWvSAYQBQVVfeXFMTkRod2FJTHNVWXV4VDVOMDlId1d3WWlDLVJ6dWVkSWp4MzZWQkZGZGxWTVNjZ2lBcHg1VzJPdTF3NG5TUzVLM05qT1RlN1hKLXpDUDdzNmRlb0pwMGZkWTV6V0l1dzh5R0VHWjFJeDcxNDRDb2RBVnh3RVFfcGNLNXd2ZERF?oc=5",
-      "summary": "Meta offers paid training for AI data center jobs Fox News",
-      "badge": "new",
-      "date": "2026-06-20"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI glasses pilot faces privacy scrutiny - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjNnTXNfS3pQV0JfdmdZU2JNLXQ1RldNRjlNQXlLMDhHQkpWTWtXY1d4M0NzckktcFRTTTk3bmI1dzFRR1BvbHFfZXpUTTlDemplOERxOHo3VWUwZjllRWxyaU13UFdyem9xd1g2dVNmOWlobHB6VlZlYll2WHZiMEpndEFDRGthQVpVLUc5Z0RiZmtuQlkxVmgwRi0xUXZMMUszZUZlUUFUeVVqOEJzSFVpS2ljUXQxbDVCazRNRGFiZ01pbVHSAcsBQVVfeXFMT3BEZE5yNENJREtCLTlYUmNSQzV4aWtBdGhYN1VrUHhOQmVheDJ4NVVQRHUtUXNRZWZFeXlBRXRXRVltMWRiQ2xoSDZJN1ZJZGJyeEI4TGd4N1dPNkVxamtycWZ5R0JTdlVvU3NyZHE1RHU4WjkwSWZBLU1idTM0UHI0X0VQa080ZS1naUxmWlNNY0hfUHctSmpmWjFMWHRDbHF4cDFHNXFmdldrREtnTnkyRUFtWU1kUzVrdjRVdmpnWWJ5WnYwWDZQSk0?oc=5",
-      "summary": "Meta AI glasses pilot faces privacy scrutiny The Economic Times",
-      "badge": "new",
-      "date": "2026-06-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft's AI ambitions came with hidden costs — investors are not happy - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdllka1V3bnhpSlhTb1BRQTB2MnF0Q0F0MlJRT0N1aVdQLUF5S1duOUNyTnJLTGRmZzRQYTE3TnY0M0Y4dnpsMlE5RHJXUmNjMGstYTE3Zy02RURUMmg3SHE3S3pNbFVrQkE2bDRIWUNjckpFdkZvYS0xN3pWLXJNelhqd2FUdXhmbG11N0UzTDJKcjlMVmx4b3dsRVlsN2pkVHZDZE50aDVLdHJWTWxUd0xJNnFRTmVwS2pUcF81YThQSkVIWE5JTjl5UGcyNGdlRWc?oc=5",
-      "summary": "Microsoft's AI ambitions came with hidden costs — investors are not happy TechRadar",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
       "company": "Perplexity",
       "title": "AI Agents and the CFAA: Amazon.Com Services v. Perplexity AI - Reason Magazine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBnTVlZVy1QaVA0RFZXVXJuRXcwYUlQTWE3Q3JINkVjZlFKSVJ4SFJDbElNT01QVUV4M3ZJOXlEaU5xNWZmbWxEUnVjOS1Pb1BFS0h2aldHY1kwUS1QcEFJeElvQnRncmlGRTVmbmVtSE1mV096aXp2bnlPLVJxQ3NZZkhpUXRQNFh2ZHF3ZmcycHhzYzFQQVU2S0c?oc=5",
@@ -334,14 +366,6 @@
       "title": "Leading Perplexity AI Predicts Wild Cardano Price in 6 Months - icobench.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2YxYzVCelVscGJlRlZqY1RiVDM1VFBpQjJieVlmRGpkV3J3eHpZaDZEVGlRRUNoV2RjY0U3QTdkMjlkZmZidmtMVjhyR1FqQzkzbldpV2hTRC10V3phWjk5UkJVRFN4bFJQY3RpM2pDNXo4bEgwdnUwNHo2RUo0S0ZGejNTVExCOWF2SGtqSmFZZw?oc=5",
       "summary": "Leading Perplexity AI Predicts Wild Cardano Price in 6 Months icobench.com",
-      "badge": "new",
-      "date": "2026-06-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Prediction: Meta's AI Spending Will Pay Off Bigger Than Wall Street Expects - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzZXTmhjc1JZUndJTGpzSlAwR3BDRkN3VVI1QjY2ZnRYZHV3Tk80dXN5Z2Q5UDVsNkR2LWh6SEVuSWV6d1dfQkNPckxxRE5BT0dsdF9PRElYT3RvYkNQU1JpNTI4S0JDWlk2RXItdnk2SGFSeWh6OE4zWW5mbHdkUWtOMTJkLUhVU3YzNElQMzBRMng0MzMyOEhrVHM?oc=5",
-      "summary": "Prediction: Meta's AI Spending Will Pay Off Bigger Than Wall Street Expects Yahoo Finance",
       "badge": "new",
       "date": "2026-06-19"
     },
@@ -418,14 +442,6 @@
       "date": "2026-06-18"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjBheE1rdUR3YVJKanNoU1FFOHZJa2NEWk50TVphdXY0V1I3TTltRi1FcGE2XzdodE1yYjFyaVlBUDhyd0tzUEU5MmkxTWxVMDNkQW1iMTBpaFNkQVBlTTNMbE9Nbkp5NUItSnNSRk5vSDZVc052UExEaWdrRE1qcjJGUmRfTDZiWHNlYU5tdW1sbGlyRzVxdVR0UjMwNy1COHdVRkFPVWlPRS05UEtpekpyOXR4MW0yb0lxX015RQ?oc=5",
-      "summary": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump WIRED",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
       "company": "OpenAI",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
@@ -434,26 +450,10 @@
       "date": "2026-06-17"
     },
     {
-      "company": "OpenAI",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "badge": "hot",
-      "date": "2026-06-17"
-    },
-    {
       "company": "Google",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "badge": "new",
-      "date": "2026-06-17"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Research Residency Program 2026 ($220,000 salary) - Opportunity Desk",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXg3VVhkYVgySzZQVHVCRVVJVS1yTUhCaV9QZGdwTHJYMW9BaGxQS0tSZDY0M1FJVkdTclVCWlhNRXlBWTNkLW10dWZUeVJUOU9QeHlucEV6UWNJSDR3dlFVNFYtSW0xbXZOZ2R3QnBHR3ZKZUtFUTJtVEthZ2Z3MnhZU3ZsT0xzbFE?oc=5",
-      "summary": "Perplexity Research Residency Program 2026 ($220,000 salary) Opportunity Desk",
       "badge": "new",
       "date": "2026-06-17"
     },
