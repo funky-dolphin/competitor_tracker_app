@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-24T02:45:30Z",
+  "updated": "2026-06-24T08:58:59Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEx4cERSZUZNYkRrVFVLVXpTRlh0NDNnZEF5OGg1cXI4WGwweDdzdFM0dFVUZ3YwWXNTUEVjZHhyWUJLWTlFVUw4eXREaG8wbDZaVFFpb0owVE9RbjhTN3JrYUoycGpqamRkd3lmTDRZaUNvUmEwTXhDNHZKU1hjTWkza2hvTWVCYURISXN2eVMtcXhybldMVVBrTV9KS01rRVJPUFpGcHA2LWtKTEZQbHdYS1E0YWVkcUI4SXNvdXg?oc=5",
+      "summary": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports Reuters",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP - CNBC",
@@ -66,6 +74,14 @@
       "date": "2026-06-24"
     },
     {
+      "company": "Perplexity",
+      "title": "DuckDuckGo and Perplexity Outperform Google Search in New Test - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnRWSHcxZDhDY0ZycWpheHdkdHQ1aGFNWDZuZjdUZ3hEOVV2Q2tnYUc3SllrT0dpbldTNjdyMkd1SGlJRHM3Z0hXeFN3b3lsWnJkTjJJcDNjLTQ4dUx1eHlUM1dQUUdzMkI5b19VRlFzMUluR0FhTjZxY1Rta2prbmw0c1hyZEEzOFVlNUIyY3Q3Wi1wMWlqak9qWQ?oc=5",
+      "summary": "DuckDuckGo and Perplexity Outperform Google Search in New Test The Tech Buzz",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
       "company": "OpenAI",
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -99,9 +115,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1QRHp6dW14VklDTG1sTkMzTnRaVk9lejZwa3l1VmFtbnBSbVR2R0EweU5zZERWMFY4aWY4QUVPd0JBZEFkeEZPVU5fMWdnRmVXS3NPRU5vOXNOTjhTUHEwMERGRk1SWU1Vb2lZallOb1ZmY1pISUM4am0yeTExSVd6VFJGZTJJNV96SHNTQVZaVHZONnFlTXNmWENsYlNKS3VOS0xnLUdxNHdTVWxuVklqRXU?oc=5",
-      "summary": "Anthropic Customer Sues US Over Loss of Fable AI Access Bloomberg",
+      "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3dkVEptNXcxNFVtMGYtb3ZDSGgxTk1pWk90bDRfcDAzQXRLUnYwQWgyczlvaFplVUZscTZZbmpqNGJWbExfRWpPODhKaFNzRmhMeEhOamJnLXR4SEpmcGhNd25ONE1JOTJOMXFZaDFEd09tb1U1TzdhM3JBQ3RQdkIwVUktcGlhLUNwanhfONIBlwFBVV95cUxQLTI1ZnJLZHpBSm54R2xxYU1qeE5BY19XeS1jY3ctd1BTX29tLURsRmxxQldjVTNGWmJ1dmJfSG1kMGxxS1JMLWtOSHZCdzBQOEhOd0RoMzVQVjI5SDFIT2ZXcXhCaXRaWGdBQ29GVkZCOEdxMFBwSnNtRWRJVlM3azJxdWxzM2VTbDUwS1NnT1o5TG1JS1g0?oc=5",
+      "summary": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down Decrypt",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
+      "summary": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience' Fortune",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -111,6 +135,14 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
       "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack Fortune",
       "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1QRHp6dW14VklDTG1sTkMzTnRaVk9lejZwa3l1VmFtbnBSbVR2R0EweU5zZERWMFY4aWY4QUVPd0JBZEFkeEZPVU5fMWdnRmVXS3NPRU5vOXNOTjhTUHEwMERGRk1SWU1Vb2lZallOb1ZmY1pISUM4am0yeTExSVd6VFJGZTJJNV96SHNTQVZaVHZONnFlTXNmWENsYlNKS3VOS0xnLUdxNHdTVWxuVklqRXU?oc=5",
+      "summary": "Anthropic Customer Sues US Over Loss of Fable AI Access Bloomberg",
+      "badge": "new",
       "date": "2026-06-23"
     },
     {
@@ -130,26 +162,10 @@
       "date": "2026-06-23"
     },
     {
-      "company": "Anthropic",
-      "title": "Introducing Claude Tag - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
-      "summary": "Introducing Claude Tag Anthropic",
-      "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI - Menlo Ventures",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3ZkU09TWXBrVmxMWHh1Z1FDeXFmS25wVjhWNXpWYVg4empxakFuSTRFWVRhRFVJeWI2MV9xNWJkbjhDaTM3Vzl1dy0xZ3FSckJweDN6Uml2aXhTbGFBeW55WFZ6QVRqZmZETVNoNGVNSld2bERkVEU2VlhQSTJjRm9oTW5heHNSOUdoZm40WTFHc0p3M3lleHZPVURxcTJZeGc?oc=5",
-      "summary": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI Menlo Ventures",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
-      "summary": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns The Guardian",
+      "company": "Microsoft",
+      "title": "From insight to action: The next phase of agentic cloud operations - Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmVZZEdOMWZaeDBRM3NmQ3JIaWNlU2d5UXFwZFRZeklibkQwamVBN0h4d2pSZG5VVUg2cmRhT09XNENfOVpfR1lXSDFHbVhvQm1OUE1VdVNxWmItRVY2cGk3cGt1QXNfNk9sZ0VfTkRhLVBmbHNQUEU5VEpqSTBrM1VZSWp2ZjJVYXIxbGdKYzQ2SHBidHRBOUxfb3lWaXB2RWFTZHdoYy0?oc=5",
+      "summary": "From insight to action: The next phase of agentic cloud operations Microsoft Azure",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -171,10 +187,10 @@
     },
     {
       "company": "Meta",
-      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
-      "summary": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNB",
-      "badge": "hot",
+      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
+      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta debuts AI-powered Meta Glasses, starting at $299 Yahoo Finance We’re Partnering With EssilorLuxottica",
+      "badge": "new",
       "date": "2026-06-23"
     },
     {
@@ -187,10 +203,26 @@
     },
     {
       "company": "Meta",
+      "title": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjd2RVVLajRPTnYyaHNUU1A3eGxMZ0dDUjdZZXJ6RWJST3lRQlZuYnRRNkhra0JvczBUamhoeC0wUFJlMjZKbXBkV204ampVWFp2ZFU5SnY4YzBGdnA2YmlaUV9KYXZ1ZXdQaVh4bFdXWGNiTzBGd1oxQlZaaUJQaUs1cUNLbFd1eXJkeGZzWlJXaHpScHByS0tMWFBCcUZyT0E5dVVGWHFLeTg5TXdNNnFJbkpxR3FqNlNueA?oc=5",
+      "summary": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly inc.com",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
       "title": "Meta halts worker tracking for AI training due to privacy fears - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5",
       "summary": "Meta halts worker tracking for AI training due to privacy fears BBC",
       "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
+      "summary": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNB",
+      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -234,14 +266,6 @@
       "date": "2026-06-23"
     },
     {
-      "company": "Meta",
-      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
-      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
       "company": "OpenAI",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -270,6 +294,14 @@
       "title": "Microsoft Will Again Force-Install Microsoft 365 Copilot App on Windows 11 - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHVVT2R5clh4WXl0S3ZnOGpPWWp0SHh5ZWZGMlpqWlJDZ3IyRWNkSTdQX3FOQkZkbGFENmZWak9QaXl2TWQ3QXprWFZMOE5ZSjNGZGtSRU1mM3Zha0M3aHkzZFRmeU9DTy1XN1VRMmdRNGhNWU9lbG9xWUNLa0pJajJhOWFYZVhOZUEtSWNTb3JiazMxQmUzQTNYVm10ajVWcUNzYmlOcS1DRWdsMEHSAbMBQVVfeXFMT0dvMmRjdWhIWEludHlaT2s4NGtmcWw1MzM4YTJXNGpPNTdWdWVrN0ZrMjMzS18xNWstelpLY0FoUWtFZ01lZ3NGSExjRVdfaEZwVG1IYlpLcTh4QmxUU2lVQjF3M2U4NEtZZ3FFYU1DeHpiWmRva0hBU0EyVXYtTmQ4N1czdDFDVmNyYTRZWGxNSjc3Rk1va0tzQkV6Q2hEQndhZTJjQ2R1T0U4cGtCcEx6Qm8?oc=5",
       "summary": "Microsoft Will Again Force-Install Microsoft 365 Copilot App on Windows 11 TechPowerUp",
+      "badge": "new",
+      "date": "2026-06-22"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot is (once again) being installed automatically, but not on all Windows 11 PCs - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXFtZTF0c0twaUM3VFVGcWF4LW5uZnZhN2tMYVdxRGh3NDdMRjZEdFNYd3k4TS0xc2R3V1N4cG16SVBKM2prLUtHSE52bmRUeWNZTGRqQzlRS2V3NVM4ZkJEMnFjZWVFOFRRWVJxM0UxYUFiVVIxeW1hZWxxelJudU9SLWRXS1dCRm0yaTNXYlBDV3locVMzMzdhRTNtS3VWYnFlSlkzaDBGa0ZSLVZpLV9vcjRUNU03V1IyWUloc3hXQnNfQjVxbl9UV2ljZGt1MWc?oc=5",
+      "summary": "Microsoft Copilot is (once again) being installed automatically, but not on all Windows 11 PCs Notebookcheck",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -306,14 +338,6 @@
       "date": "2026-06-22"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot is (once again) being installed automatically, but not on all Windows 11 PCs - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXFtZTF0c0twaUM3VFVGcWF4LW5uZnZhN2tMYVdxRGh3NDdMRjZEdFNYd3k4TS0xc2R3V1N4cG16SVBKM2prLUtHSE52bmRUeWNZTGRqQzlRS2V3NVM4ZkJEMnFjZWVFOFRRWVJxM0UxYUFiVVIxeW1hZWxxelJudU9SLWRXS1dCRm0yaTNXYlBDV3locVMzMzdhRTNtS3VWYnFlSlkzaDBGa0ZSLVZpLV9vcjRUNU03V1IyWUloc3hXQnNfQjVxbl9UV2ljZGt1MWc?oc=5",
-      "summary": "Microsoft Copilot is (once again) being installed automatically, but not on all Windows 11 PCs Notebookcheck",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity AI Predicts Incredible Cardano Price for Summer 2026 - icobench.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHM2bENMQUpBeGhSRUdMQXVqRTJTMHRNYUtlS3lndlVhN0E0ODNEWlZxcU42MkdNUTVZNktBenpFVUNSUHVBd1EyVEpyZmJOd2tVUUs0emVmUjF3Vl95ZmRmVDJFUUdKQmFxeUZaOUdXRExEcmVXbmpfM1JEajNqWXB4YVgyZFpCRldPcFVHTHFpei1T?oc=5",
@@ -327,14 +351,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXVrSXpkTm5xVlNxRFZyby1TQ3pJY2thQ2d4VjZsV29lY1dVVXlZZEZzaGNkS2RMa0kxZEZhdm1TcWl2OW5ieGQ1VUxyQndXUTdfNEhTYmdKLXlpdko5RUZneGVvem1DR0R6dzFrejR0bXRsdjhGdHpBRWIzUU1pNk5KaWdoTXMtNm1WN2lpRQ?oc=5",
       "summary": "Perplexity launches Brain, a self-improving memory system varindia.com",
       "badge": "hot",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta pauses an AI training program that tracks employees' keystrokes after an internal leak - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGk3S3R2Q3dlMzZ6X1g5bTZvVm5GMWxGZkVpYjV2NlY3WlpMTzZxdEprUVU2bEdYUFdtTVFzVXBwUE90b0JUQ05oRDhfMlBVMU4zRkdodm5oeU1OVWF4a3VCbmVOOTR0Rm92TGtqVDQ2OC1VX0w2dVpERTJjbDFIUlNjamVlaVJRdEE0TDVTVDIwTHNLclpZUG5vZDNILW9MaUhNR2ZTaFRvZw?oc=5",
-      "summary": "Meta pauses an AI training program that tracks employees' keystrokes after an internal leak Business Insider",
-      "badge": "watch",
       "date": "2026-06-22"
     },
     {
@@ -358,14 +374,6 @@
       "title": "Microsoft says it'll force install Microsoft 365 Copilot on Windows 11 with MS 365 Business in the next 30 days - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkE5SGVONGpzVV9zdjJPdzlGWWhmaU9UNjJGdjZuY2R1VDcwWTdsMGg3RS02MDZCYlZjazJLbEQ5bTkyNVppMXdUM2xiMDg5RnZEdzBTUmtfM0NQR2MxUk9FcVIwQkdzdUg4bXVucURiRWs5M3lZUmxVR3c0TS1lOV90Q2k3TEplSmgtRjBDczVGZ21KU2pEbV9iSVIzeG5GRDd0SS0yRTh5dUdNeVk2aE1kbVRoekJ3S3lqbUgzc19kazFwYVBQeFd2cUY4MUw3dlBsVTdEZ1lJYzlCX3hQYXdnOEZpQkE?oc=5",
       "summary": "Microsoft says it'll force install Microsoft 365 Copilot on Windows 11 with MS 365 Business in the next 30 days Windows Latest",
-      "badge": "new",
-      "date": "2026-06-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is killing Edge's Drop file sharing after Collections and Sidebar, all for Copilot AI takeover - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUEFFWVZXM3Vxakk1QU5vNlhDVDdUQmMzdUxpWXVVbkZoWVFVQVdScDhPN1I1VEpLUktyQTRwV2FCWW1LN0NQNFJVbFhpSlNKRWh3eC1nb0x3QWY1S1IzeHh2YWVCbkJCS1VreXpKYUxLYlFfSmtKc0s1TDgyZFhFQW1MOGVicWhkVXRmZGdrcDF4MXFWN2lSb2Z6N1luR1dHOFZvSVVDUXplWExvUnpVd1VZODBSaVJyenRSOS0xTmxRVHNJSnlEYWllZGotOTI0UnZKOHE2WExUbzRO?oc=5",
-      "summary": "Microsoft is killing Edge's Drop file sharing after Collections and Sidebar, all for Copilot AI takeover Windows Latest",
       "badge": "new",
       "date": "2026-06-21"
     },
@@ -438,14 +446,6 @@
       "title": "Perplexity's AI Agent Now Has a Brain That Learns From Its Own Mistakes - Decrypt",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mZk9CR2kweHdMUTNhem5FY1BuVlJGOWhzOERYMjJnZ0tNaEIyOU1mM2U3T0VsRlNYVEVDbzZBVTgzYWdBYXJaeUM3T3VMaXRqZmMtSExTYzVyY3c2amVHSNIBaEFVX3lxTE5kaXRCTElDZWhFelZkZ3RzcGpqUEpnd2F0VTh1c2taY0ZUdG1YYWhoMHB6RlhBb2E0UDBkQ251eUpYNWFsdFAzaXVTWDZsdVNYd3d5UnBBQzhUd3NDZFFybDBsZWF1WnBh?oc=5",
       "summary": "Perplexity's AI Agent Now Has a Brain That Learns From Its Own Mistakes Decrypt",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Perplexity",
-      "title": "How Perplexity’s Dmitry Shevelenko wants to help companies get more out of AI - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjdqc252cVktdDJIdlRCdzBJZjRzeFpYV1hGUnByZGhLQ0gxNkplNDRMRVZoanhPQ1ZjREoyX0hmVjJHdDdFU0hOa3BieEZwV1NzTmNDM2hxd01BczltZENyY0xZcDBSeDg2NFhyamRtRjF5UXFNSmNlblRxcF94X1dvZWE2MHRfTkN4ZDc1NDAwdVlyZ3d2T1lYOEVZaDJ1MS1UamR3?oc=5",
-      "summary": "How Perplexity’s Dmitry Shevelenko wants to help companies get more out of AI Fast Company",
       "badge": "new",
       "date": "2026-06-18"
     },
@@ -539,17 +539,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
-      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
+      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
       "badge": "new",
       "date": "2026-06-02"
     },
