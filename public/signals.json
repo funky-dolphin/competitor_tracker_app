@@ -1,6 +1,78 @@
 {
-  "updated": "2026-06-23T19:54:16Z",
+  "updated": "2026-06-24T02:45:30Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjMzU3R1WjVtRXMzWmFjRXkwZVc0Vm5FZnZnQlh6VWJXbTd3TWliLXVHVmozY05QNzhudXdpZXlqMlB6b08wdl9ldElhQWx4ZG81R2xlbER5RmRnZllKRGc4Szh0TlZIMU5KOGkxQWplalI3SzJOVTJnVE1qU3hsZ1hXNC0xUDd5TFY4THBSUVBZOU1OcGRlWHk3cGxFWXRBSFBxdmxES2JxZWE4UFlPX1FrcFFiMVZyWEhQVFZjOFhoeGQzVE5lNHZFVzjSAdIBQVVfeXFMTXdoZEZvVGFuNlFIZ0puWlYtTjVQcXFqQlN3REI5ZGJxMWs0NVhsUHdFbjlzQTdvYnhiY2lnWlpZVy1uajF0LURIZk5idGZrSUZVZGlQLVdVN3NQSWVvUHRfcmRJcmVXcUlHb2U3THoxVHJHdHVQZ2llRnpyUk1ocm5oT2dVZFMzMFRfN1lXWW55QV85M1VreDRMRmtxczk4cDhxSUlWeEV6TjJ5YmxCc01iSFRLWnA4eHRUSVM1d0RmWEFMSzBPUm5fVkUzbXdVZW5R?oc=5",
+      "summary": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP CNBC",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, official says - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN244M19LNFY0ZVljQ2p0YzhoM1ktMDVWTmdrOTVpdGpGZDA4N0NHUE9oRU9kMWpWaThRVU1ybWZYNDNUX3hoVHlBZTJwOEZtOWJReXpES3lfSTYyTFl3Y056T0lMamgzQXFLTVliem9fSXVZSmhUS0M0OUN5SFhYZmFGT1Q2UVNYTksxTlo2OXRSRXlxQk81S1NpWlg3aGRNckctMlUtbm50NVdzS1N3aw?oc=5",
+      "summary": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, official says The Independent",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Perplexity",
+      "title": "I replaced Google Search with DuckDuckGo and Perplexity - my results were noticeably better - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVE1ejE1OTQ4Q2k2WGFEZnJMR3VidzBMcE9la0hoWVBtbnM0QjhuTUNTNnNheEVWTlhJeGpkM01sc3FaZENhTUtYYjNncE5CNy11MWhBY0Q1aUpTWURrbTh1ZzJoZzBHSnBrVjg1VUpPUnJPT1JEbUwxa3dkdEpBZDBHQWpVLS05Wl9UMFJiblNpV1FYNjdJMDZkNjJieGJBSGxIS1BnWQ?oc=5",
+      "summary": "I replaced Google Search with DuckDuckGo and Perplexity - my results were noticeably better ZDNET",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
     {
       "company": "OpenAI",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -15,6 +87,30 @@
       "url": "https://openai.com/index/omio",
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
+      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute The New York Times",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1QRHp6dW14VklDTG1sTkMzTnRaVk9lejZwa3l1VmFtbnBSbVR2R0EweU5zZERWMFY4aWY4QUVPd0JBZEFkeEZPVU5fMWdnRmVXS3NPRU5vOXNOTjhTUHEwMERGRk1SWU1Vb2lZallOb1ZmY1pISUM4am0yeTExSVd6VFJGZTJJNV96SHNTQVZaVHZONnFlTXNmWENsYlNKS3VOS0xnLUdxNHdTVWxuVklqRXU?oc=5",
+      "summary": "Anthropic Customer Sues US Over Loss of Fable AI Access Bloomberg",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
+      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack Fortune",
+      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -58,83 +154,11 @@
       "date": "2026-06-23"
     },
     {
-      "company": "Anthropic",
-      "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUtxT2JUemlhdzVIMGpUSjhFNXBGRm1ZcVBXbHplNzkzaGJBNzVPMVBUMkR6VHB2eGU5UjlRczZURGxrM2pMWUxPZFp6ZXBzY1VJSm5SeW9oZjk4dW5lOGJtY0xUNzdtYnVVOU92ekxDREVxQXJRMl9PbkpnNmhWb0x5cFp2R2M5YnYta3p6ZGU4SGg4NVRMVXgxLVpZWlA4UUNOYVF6X2l1RHJJMzNiUHRwRFpzaWViN3BEWEdZdWU?oc=5",
-      "summary": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul Bloomberg",
+      "company": "Microsoft",
+      "title": "Microsoft Weighs DeepSeek for Copilot Amid Security Debate - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXZWQjdpTVNXdGlaUE9HZnN5dFgzQlFKRlo2MWdseXZYWk5xbV9NQngtd01oWHMtb1dFaTRzSmxJb2VNNlNkZHJSc2Nhdk9SX1RWRUo3NEt6OXFlQTN0TFFOakZnR0tLMVZhMHFmMVVyQXRNSHNJVnNOcHFPTGV4OVprSVB4QXM4cW03aGlVaEI0aXBvR2xQaG5zQTdMRzJs?oc=5",
+      "summary": "Microsoft Weighs DeepSeek for Copilot Amid Security Debate BankInfoSecurity",
       "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Micron signs memory supply deal with Anthropic, stock hits record - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VU0JxWVNBbC05UVBtSm1lb0ZSY0t5ZVg0dk9uRFZxcFBCUFVwNG9RT1Nmd2JZLThiVlE1YVJyUTFTZkRmZ1FteFFYVXI1WlRVZDQ2XzMzZHFYWWxVTU82WkNuUDJyZkh1ejd1WXJRWm1ILWs?oc=5",
-      "summary": "Micron signs memory supply deal with Anthropic, stock hits record qz.com",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "‘This is the least crazy AI is ever going to be’: the lessons Europe’s execs must take from Anthropic’s shutdown - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmVUQXpxbURNZURNT0Joak5QMlZUMFdSVVFCSjc5bm9OUjlYRWtscHk1eklhbUc5QUxSblhCc0hLcUNaanVHeDJrdHJjQThtVkhDOTBYUDhBMGFEVnNUV3lPRG9hWWxuNEVPWUJldlJBLTl1VDl3RUxySnB2WlFIU3NhLWNTVUE?oc=5",
-      "summary": "‘This is the least crazy AI is ever going to be’: the lessons Europe’s execs must take from Anthropic’s shutdown Fortune",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The AI talent wars are heating up again. In the battle for stars, Google is losing out. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTV2WUtmc2J5aFVnbWROLTB6ZlNqWW5BZU5ET1R4UmNuR19yUmVEZ3VnSW1uM3RmN2VWdVBDNUFLd0QzMktrd3dtZzBXekdsMUUtNXMwQjRkWmhfYTVaaloyVmlEMHFRZHVZc196WmtJWG5rMnZZYjJPaEJwZHZFMm8yVFJXTER1eXJoUzB5RzVYeGtWMG5HTjcxTjNCQm1KQUt3?oc=5",
-      "summary": "The AI talent wars are heating up again. In the battle for stars, Google is losing out. Business Insider",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5",
-      "summary": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic Barron's Google stock is sliding toward its worst day in a year after two top AI researchers quit qz.com OpenAI and An",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -151,6 +175,22 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
       "summary": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNB",
       "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta halts worker tracking for AI training due to privacy fears - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5",
+      "summary": "Meta halts worker tracking for AI training due to privacy fears BBC",
+      "badge": "new",
       "date": "2026-06-23"
     },
     {
@@ -203,17 +243,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "badge": "new",
       "date": "2026-06-22"
     },
     {
       "company": "OpenAI",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -298,22 +338,6 @@
       "date": "2026-06-22"
     },
     {
-      "company": "Meta",
-      "title": "UFC finally rolls out new Meta AI fighter rankings after years of complaints, fans react - ‘AI is trash’ - MMA Mania",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPazBlMzhweHlIdFdqQ0pOT0tQSV84QVhfTURWMTBWWjZSNm5wb1c3bVVqbzBHRkpJdEpIVGdxUW9aMHc2VzA0QXNmdnkwUEtJMFhCcjJoYk91WEN4MWk0eGVha0xXWU5BRWFQNzUyRmpDNVlIRHp6QmYzVFdNVmw0eFY4akkzMVBSMThLR2hhQm1iSHNZY3J1cmFvNkxqaHJodlB1ZVdFRzR0MEtaTTRiTzRBc0NJMG1WMF9yazNMVDJGdjA?oc=5",
-      "summary": "UFC finally rolls out new Meta AI fighter rankings after years of complaints, fans react - ‘AI is trash’ MMA Mania",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Meta",
-      "title": "UFC finally rolls out new Meta AI fighter rankings after years of complaints, fans react – ‘AI is trash’ - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYTZQbEVpeHlEWFcxY2hpM251LU9BYnFSY25GZm9MbmVhSnVPRy11dFJBVk9FZl9EbldWLXNZM3llNGoyYlIzUWx3c0VpYWN3OWhPaGYzQm5FTUtsZThiRDh0OGZwd0w4VzdDQ3JmeXJHMmVOSUpNMFZxZ19EUVk?oc=5",
-      "summary": "UFC finally rolls out new Meta AI fighter rankings after years of complaints, fans react – ‘AI is trash’ Yahoo Sports",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
       "company": "OpenAI",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
@@ -344,14 +368,6 @@
       "summary": "Microsoft is killing Edge's Drop file sharing after Collections and Sidebar, all for Copilot AI takeover Windows Latest",
       "badge": "new",
       "date": "2026-06-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is rewriting the economics of enterprise AI and the bill shock is just getting started - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTFUdEVwdmJHOXJ4dDNWazBOTUF1bmVWMkxSYV9sT2tiRGZOT0ZuajlQQUR4WDRUaHZXSXhrZGl5SUp4eXlnZklxYlpuYlh6VXNUYmVBRUNCZE1zUnFNRFJramhYbnAwOFFSMTMtbW5WN2R0MXZDZGhkMElBTXlaanZLaXFnLXJaU0I1U0FSTUM4bEJpclAxajF0dUd1WVlaLXg1WVVOR1prSTdEU21lNk9BOXhmNjc5dWtGbDRYWFZudw?oc=5",
-      "summary": "Microsoft is rewriting the economics of enterprise AI and the bill shock is just getting started Startup Fortune",
-      "badge": "new",
-      "date": "2026-06-20"
     },
     {
       "company": "Perplexity",
@@ -432,22 +448,6 @@
       "summary": "How Perplexity’s Dmitry Shevelenko wants to help companies get more out of AI Fast Company",
       "badge": "new",
       "date": "2026-06-18"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity's AI Agent Now Has a Brain That Learns From Its Own Mistakes - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mZk9CR2kweHdMUTNhem5FY1BuVlJGOWhzOERYMjJnZ0tNaEIyOU1mM2U3T0VsRlNYVEVDbzZBVTgzYWdBYXJaeUM3T3VMaXRqZmMtSExTYzVyY3c2amVHSA?oc=5",
-      "summary": "Perplexity's AI Agent Now Has a Brain That Learns From Its Own Mistakes Decrypt",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "badge": "new",
-      "date": "2026-06-17"
     },
     {
       "company": "Google",
