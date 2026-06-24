@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-24T08:58:59Z",
+  "updated": "2026-06-24T14:17:39Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "badge": "hot",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXlNQWNfMzV5UDlIb3FFa19PaXM2VmJmYlNhQ2U4MTFBOWtCOE9iSzNOdjFoTXFTQjltTkNKeHYtWTQycEFEOVNVbXZHOWhfWENOV1kxLTh4NFhlNnA0UjdxRk5nRHJmcjg0R25JOFVTS0prME10Z2hpazZEMnJMZ3g3eUZlN1BGWGUzWVNETHo?oc=5",
+      "summary": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic Fortune",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports - Reuters",
@@ -22,6 +38,14 @@
       "title": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, official says - The Independent",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN244M19LNFY0ZVljQ2p0YzhoM1ktMDVWTmdrOTVpdGpGZDA4N0NHUE9oRU9kMWpWaThRVU1ybWZYNDNUX3hoVHlBZTJwOEZtOWJReXpES3lfSTYyTFl3Y056T0lMamgzQXFLTVliem9fSXVZSmhUS0M0OUN5SFhYZmFGT1Q2UVNYTksxTlo2OXRSRXlxQk81S1NpWlg3aGRNckctMlUtbm50NVdzS1N3aw?oc=5",
       "summary": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, official says The Independent",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVLY1dSR0xzRjc2d2piNlQ0Z0xyNTEtNmN3bUxablRTVUd6aW5EMUNxOWZsbERsRGRNdEV0M3BFZV9idEQtV3JNNkdVZm9CRWlCd1QwZGlwSWxsQ3VLa2NFTEswd3N1bVU3a1NwejZ5akRhY3loT0VnekFMN0ZVeFRNZGE2N0RxYnVKMjlfNGtXVTgyaW1ZMllNSV9nNjU3Y1Y1dlNPcC1xR2NoQVpfdHZOdmo?oc=5",
+      "summary": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools Bloomberg.com",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -82,6 +106,14 @@
       "date": "2026-06-24"
     },
     {
+      "company": "Meta",
+      "title": "Meta is holding out on government security reviews of its AI models - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PR2tSYWlLc2djTFBvNGJremMxQTdWLWNKZE9xQ1A3NTZ5SWtYa0JYSGNhNVJvelhBSVFvTnhDNHdKNHNwZ2I5cHdJOGxIOVR4MGRJSXdsNVBJd0pCS1J0M2JNb3dVV205eEVFNWluSWlFYWVJMEtKVzlXOHBqQQ?oc=5",
+      "summary": "Meta is holding out on government security reviews of its AI models qz.com",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
       "company": "OpenAI",
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -109,8 +141,32 @@
       "company": "Anthropic",
       "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
-      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute The New York Times",
+      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute The New York Times AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns The",
       "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
+      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack Fortune",
+      "badge": "hot",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVQ5VktmelZuekFOV3k5TDBQN3E0VHpCNnVqOExoTDNLUzlqTGJfemlja1ZVMU4tdFh0WDc2VFRaY1BYODNyb1VBcVJhMTZvMnl0LVFaN0R1ODZ5SHRHSDdwaW4wRFJwS0t6N3RkN3hEZ053RDA0VEhndzJCNjZCWVZtSnN2VkFIY2NZdDA0RVNDeXlVV0EwaDBLeTF2SlhWYldvaldZWTFnUXByYlE?oc=5",
+      "summary": "Anthropic’s Claude Tag is learning your company, one Slack message at a time TechCrunch",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude Tag - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
+      "summary": "Introducing Claude Tag Anthropic",
+      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -127,38 +183,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
       "summary": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience' Fortune",
       "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
-      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack Fortune",
-      "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1QRHp6dW14VklDTG1sTkMzTnRaVk9lejZwa3l1VmFtbnBSbVR2R0EweU5zZERWMFY4aWY4QUVPd0JBZEFkeEZPVU5fMWdnRmVXS3NPRU5vOXNOTjhTUHEwMERGRk1SWU1Vb2lZallOb1ZmY1pISUM4am0yeTExSVd6VFJGZTJJNV96SHNTQVZaVHZONnFlTXNmWENsYlNKS3VOS0xnLUdxNHdTVWxuVklqRXU?oc=5",
-      "summary": "Anthropic Customer Sues US Over Loss of Fable AI Access Bloomberg",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVQ5VktmelZuekFOV3k5TDBQN3E0VHpCNnVqOExoTDNLUzlqTGJfemlja1ZVMU4tdFh0WDc2VFRaY1BYODNyb1VBcVJhMTZvMnl0LVFaN0R1ODZ5SHRHSDdwaW4wRFJwS0t6N3RkN3hEZ053RDA0VEhndzJCNjZCWVZtSnN2VkFIY2NZdDA0RVNDeXlVV0EwaDBLeTF2SlhWYldvaldZWTFnUXByYlE?oc=5",
-      "summary": "Anthropic’s Claude Tag is learning your company, one Slack message at a time TechCrunch",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzd1Q1dOYUdrNFhmcnpnU3ZkZnlNTXRmeHFOMmw1aGdDSkoxcFhkWEt5a29Dek82RTlaaUtlSmh2UE4tOGdKYTVlQjhVRHBsemIwZjhVNW1zWVprdUVURlJ5UVY4a0xLN2RBR3VJS2gyd2wtR3BiWjBtd3k3TG54LVNZc08yMzhQbDJmemZfZU8yQ2F1Q1J5d3RhV09lZkF0djA2djBfNnlGcEE5VmgtelVfaGo5OFNCOFY2M0g2WnJTQUhEM2RpN1YwT3h0Ujd2V3ZjbXBYQXBIYlMyNlVhVnNhSjB1ZnJjaXhiMmRzU0FldzND?oc=5",
-      "summary": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously VentureBeat",
-      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -189,7 +213,7 @@
       "company": "Meta",
       "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
-      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta debuts AI-powered Meta Glasses, starting at $299 Yahoo Finance We’re Partnering With EssilorLuxottica",
+      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta is now designing its own, cheaper AI smart glasses CNN We’re Partnering With EssilorLuxottica to Laun",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -203,17 +227,17 @@
     },
     {
       "company": "Meta",
-      "title": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjd2RVVLajRPTnYyaHNUU1A3eGxMZ0dDUjdZZXJ6RWJST3lRQlZuYnRRNkhra0JvczBUamhoeC0wUFJlMjZKbXBkV204ampVWFp2ZFU5SnY4YzBGdnA2YmlaUV9KYXZ1ZXdQaVh4bFdXWGNiTzBGd1oxQlZaaUJQaUs1cUNLbFd1eXJkeGZzWlJXaHpScHByS0tMWFBCcUZyT0E5dVVGWHFLeTg5TXdNNnFJbkpxR3FqNlNueA?oc=5",
-      "summary": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly inc.com",
+      "title": "Meta halts worker tracking for AI training due to privacy fears - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5",
+      "summary": "Meta halts worker tracking for AI training due to privacy fears BBC",
       "badge": "new",
       "date": "2026-06-23"
     },
     {
       "company": "Meta",
-      "title": "Meta halts worker tracking for AI training due to privacy fears - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5",
-      "summary": "Meta halts worker tracking for AI training due to privacy fears BBC",
+      "title": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjd2RVVLajRPTnYyaHNUU1A3eGxMZ0dDUjdZZXJ6RWJST3lRQlZuYnRRNkhra0JvczBUamhoeC0wUFJlMjZKbXBkV204ampVWFp2ZFU5SnY4YzBGdnA2YmlaUV9KYXZ1ZXdQaVh4bFdXWGNiTzBGd1oxQlZaaUJQaUs1cUNLbFd1eXJkeGZzWlJXaHpScHByS0tMWFBCcUZyT0E5dVVGWHFLeTg5TXdNNnFJbkpxR3FqNlNueA?oc=5",
+      "summary": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly inc.com",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -258,26 +282,18 @@
       "date": "2026-06-23"
     },
     {
-      "company": "Meta",
-      "title": "Meta Glasses Hands-On: Ray-Ban Is Out, Kylie Jenner Is In - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmdITXV3S2U4eUhLZkNzbEFhQXBMMDFyNndPMGUyaUxXeVdGUWVmSDdTVjBsTWg4MFUyY2ktakxsQW16QnQwcE14UHZlVmN4TkZVQndRaWk4YTdlYWJ1eUpGMFprNHMwQ08tZkFGQUNBZ3M2SHR5cFlLYTl6bG5RTTFFWVF5dw?oc=5",
-      "summary": "Meta Glasses Hands-On: Ray-Ban Is Out, Kylie Jenner Is In Engadget",
+      "company": "OpenAI",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "badge": "new",
-      "date": "2026-06-23"
+      "date": "2026-06-22"
     },
     {
       "company": "OpenAI",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -370,14 +386,6 @@
       "date": "2026-06-21"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft says it'll force install Microsoft 365 Copilot on Windows 11 with MS 365 Business in the next 30 days - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkE5SGVONGpzVV9zdjJPdzlGWWhmaU9UNjJGdjZuY2R1VDcwWTdsMGg3RS02MDZCYlZjazJLbEQ5bTkyNVppMXdUM2xiMDg5RnZEdzBTUmtfM0NQR2MxUk9FcVIwQkdzdUg4bXVucURiRWs5M3lZUmxVR3c0TS1lOV90Q2k3TEplSmgtRjBDczVGZ21KU2pEbV9iSVIzeG5GRDd0SS0yRTh5dUdNeVk2aE1kbVRoekJ3S3lqbUgzc19kazFwYVBQeFd2cUY4MUw3dlBsVTdEZ1lJYzlCX3hQYXdnOEZpQkE?oc=5",
-      "summary": "Microsoft says it'll force install Microsoft 365 Copilot on Windows 11 with MS 365 Business in the next 30 days Windows Latest",
-      "badge": "new",
-      "date": "2026-06-21"
-    },
-    {
       "company": "Perplexity",
       "title": "AI Agents and the CFAA: Amazon.Com Services v. Perplexity AI - Reason Magazine",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBnTVlZVy1QaVA0RFZXVXJuRXcwYUlQTWE3Q3JINkVjZlFKSVJ4SFJDbElNT01QVUV4M3ZJOXlEaU5xNWZmbWxEUnVjOS1Pb1BFS0h2aldHY1kwUS1QcEFJeElvQnRncmlGRTVmbmVtSE1mV096aXp2bnlPLVJxQ3NZZkhpUXRQNFh2ZHF3ZmcycHhzYzFQQVU2S0c?oc=5",
@@ -406,14 +414,6 @@
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "badge": "new",
       "date": "2026-06-18"
     },
