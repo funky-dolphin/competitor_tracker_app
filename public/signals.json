@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T14:17:39Z",
+  "updated": "2026-06-24T19:38:58Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -7,6 +7,30 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "badge": "hot",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdPMXE3TzV2ZUFOWEtqUEg5djl5Y1hOWnFqbmZKQmV2QVdaeXVSYXZVa0xpRFZmalhDWnBuU0NuUWNIc2tfTUFERDFoRmt2eXBZTjk1YzVhcmxXMUQtZ3FCSWJfQlU1aEJlN3hQeWtTbWZuSnRHam5DNTFDMDcwbnhQMmpVcFcyWGxCelU4dlRub085NUYyLXhEUWpWTUxFcnVaQkJsbGdqQU9JUVZUTzNhYWwwOUVGN29F?oc=5",
+      "summary": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic Bloomberg",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI0VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5",
+      "summary": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI WSJ",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The A.I.-Design Aesthetic That’s Taking Over the Internet - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGoyREJYcnJRd3puSkZpTWFTdGhsaG5hOWE3QzhKUE5xd1huZkc2cFdPZ3prUm10M21XRENwQy1GSERjX3dLdnpZSHotVEJ1SGZsaVZJM0FZZHhXUDBCQWY0dHlhNm9iZE9JNzF6YzhaamRycm5aSTVrUkpMallUa201LTEyUUYtQld1SGEzWHg2VzF6dEJ5cnVmQlk0djl5Z1FVM0hoYw?oc=5",
+      "summary": "The A.I.-Design Aesthetic That’s Taking Over the Internet The New Yorker",
+      "badge": "new",
       "date": "2026-06-24"
     },
     {
@@ -43,9 +67,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools - Bloomberg.com",
+      "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVLY1dSR0xzRjc2d2piNlQ0Z0xyNTEtNmN3bUxablRTVUd6aW5EMUNxOWZsbERsRGRNdEV0M3BFZV9idEQtV3JNNkdVZm9CRWlCd1QwZGlwSWxsQ3VLa2NFTEswd3N1bVU3a1NwejZ5akRhY3loT0VnekFMN0ZVeFRNZGE2N0RxYnVKMjlfNGtXVTgyaW1ZMllNSV9nNjU3Y1Y1dlNPcC1xR2NoQVpfdHZOdmo?oc=5",
-      "summary": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools Bloomberg.com",
+      "summary": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools Bloomberg",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -107,6 +131,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta plans to release AI-powered prediction market app, documents show - NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5",
+      "summary": "Meta plans to release AI-powered prediction market app, documents show NPR",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Meta",
+      "title": "REI got roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blamed a Meta AI tool - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVIRm1OLXYyUU5aM3FQeXY4MTRDanAtLVN5aDEzWnpiX19FVjQ4LXFkb2stTmsycTE2M0pJaHMwV1A3bEVmUXdGWmp6U0FqQ1d5MjFEZXpaRHgwVnFmNmJ0WXdXdFZhU19ZYkFjejRfWG5IS1RRTGRhVTFfSHlJX1ZlY1AzaHkyYTRnSnZ6VEo?oc=5",
+      "summary": "REI got roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blamed a Meta AI tool Business Insider",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Meta",
       "title": "Meta is holding out on government security reviews of its AI models - qz.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PR2tSYWlLc2djTFBvNGJremMxQTdWLWNKZE9xQ1A3NTZ5SWtYa0JYSGNhNVJvelhBSVFvTnhDNHdKNHNwZ2I5cHdJOGxIOVR4MGRJSXdsNVBJd0pCS1J0M2JNb3dVV205eEVFNWluSWlFYWVJMEtKVzlXOHBqQQ?oc=5",
       "summary": "Meta is holding out on government security reviews of its AI models qz.com",
@@ -141,23 +181,7 @@
       "company": "Anthropic",
       "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
-      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute The New York Times AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns The",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
-      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack Fortune",
-      "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVQ5VktmelZuekFOV3k5TDBQN3E0VHpCNnVqOExoTDNLUzlqTGJfemlja1ZVMU4tdFh0WDc2VFRaY1BYODNyb1VBcVJhMTZvMnl0LVFaN0R1ODZ5SHRHSDdwaW4wRFJwS0t6N3RkN3hEZ053RDA0VEhndzJCNjZCWVZtSnN2VkFIY2NZdDA0RVNDeXlVV0EwaDBLeTF2SlhWYldvaldZWTFnUXByYlE?oc=5",
-      "summary": "Anthropic’s Claude Tag is learning your company, one Slack message at a time TechCrunch",
+      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute The New York Times",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -171,18 +195,10 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3dkVEptNXcxNFVtMGYtb3ZDSGgxTk1pWk90bDRfcDAzQXRLUnYwQWgyczlvaFplVUZscTZZbmpqNGJWbExfRWpPODhKaFNzRmhMeEhOamJnLXR4SEpmcGhNd25ONE1JOTJOMXFZaDFEd09tb1U1TzdhM3JBQ3RQdkIwVUktcGlhLUNwanhfONIBlwFBVV95cUxQLTI1ZnJLZHpBSm54R2xxYU1qeE5BY19XeS1jY3ctd1BTX29tLURsRmxxQldjVTNGWmJ1dmJfSG1kMGxxS1JMLWtOSHZCdzBQOEhOd0RoMzVQVjI5SDFIT2ZXcXhCaXRaWGdBQ29GVkZCOEdxMFBwSnNtRWRJVlM3azJxdWxzM2VTbDUwS1NnT1o5TG1JS1g0?oc=5",
-      "summary": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down Decrypt",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience' - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
-      "summary": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience' Fortune",
-      "badge": "new",
+      "title": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
+      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack Fortune",
+      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -211,18 +227,18 @@
     },
     {
       "company": "Meta",
-      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
-      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta is now designing its own, cheaper AI smart glasses CNN We’re Partnering With EssilorLuxottica to Laun",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
       "badge": "new",
       "date": "2026-06-23"
     },
     {
       "company": "Meta",
-      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
-      "badge": "new",
+      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
+      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta unveils new line of AI glasses CNN We’re Partnering With EssilorLuxottica to Launch Meta Glasses Meta",
+      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -262,22 +278,6 @@
       "title": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeG4yUGxpUmk4ZEdoRnczbWdfSkwxZUZJZEgzNE9PUS1nRjNoeVBnWndRd09fTjlEVkZKN21ETG5SVHVraXFNRlEyYXg3cFpENmpmci1NNHBYTVJ0RXdnNUt1bGFwWGE0b0hMcG5Da0dKZXI5UXd2dGRrVF9FaThtcEUtVDJKbHliRFZseGhERkxpLUhGTHprRURTTHdvQQ?oc=5",
       "summary": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner Gizmodo",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Adventurer AI Glasses - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUN0Vyc0R1MFVfc0pPN3JSeTdtNkZOXzdaSEZHMzRkN1JFLUh0UHlzSEFxWEMwRDlyeFd3ZWw4ZUpIUk42aWdqS2FPLTdXaHp6LTh3TTI4UGZraEJMRks0SFVTZXk5c2VNQXZn?oc=5",
-      "summary": "Meta Adventurer AI Glasses Meta Store",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta debuts AI-powered Meta Glasses, starting at $299 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGFHR3VPMkR1VUh5OHpvSXB0SURnVjE3cmI2eEJvdWd0bkVpTWgxcE1CeUhDWUIzRU5iZmk3U3NsT2E0R2syVER5YTlIMVc2d2Y0aE1sMlhNOXEwYjVTTFMyV1hJS2NjQ3dmRmZFY3g3eEJwYUtCd3FIeE9BNWJNdUs2VFk4SXBYMDRCczZfeWVZcXJlZThaZDJncko1X0QzT0JiS3pJZHJNVG1sSDFxcg?oc=5",
-      "summary": "Meta debuts AI-powered Meta Glasses, starting at $299 Yahoo Finance",
       "badge": "new",
       "date": "2026-06-23"
     },
