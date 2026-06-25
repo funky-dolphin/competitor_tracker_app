@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-25T08:53:14Z",
+  "updated": "2026-06-25T14:15:14Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsR0dJZ2hQS0JUbl9SYV9XVExWd1g1RzlKSnY4cW56NGc2SzNXTEVIM3RzVzR1cGlUVThlcmVEM25hRUxfb0pqaFhoR0RJcmk3TzBQNk9zbTV6Zw?oc=5",
+      "summary": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities BBC Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities CNBC Anthropic accuses A",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic - The Information",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHp2aWdfbjFNSFFROHdvbVlwYS1KSlZNUVduYXhjTVJEZVY1V1RFWlVjRXhaQ0JPOFJPaEtZaGZjamtLZDhGWFF4UXpsZGdpdjZDdzlqd1l1bzNKTnE5cHJjTDVMZk8tYWZDV2RMRmI5WDhjX2F6V29QV0RPaG9zc3ZXNHVrNnVDOXl5Y21RaXpESlFKSG5KcGcxTDJ1NW5VRmRhZzBVVjNyQTg2bkRR?oc=5",
+      "summary": "Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic The Information",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic claims Alibaba unlawfully copied Claude’s capabilities - Reuters",
@@ -15,6 +39,14 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weGpDM2s0dWlUUXNpTUJteVFBeFJ2UzAza3FLTTE0dHR3SjlBMmFHSURDVzljbGFqNTIzQlZLUXhUMmNhNGNmMFhqV2tuT0FhcXF2VE9jN3oxMWFVbVgtVjBvS3Nxb29EU2dCbFR3OGtMTm1kNzN6c1J1UndrUdIBgwFBVV95cUxQQ2RjQzRQc19xMlRpRHdzbzRDX3E4Zk95VHFQQ0tfTmx1TEQyRV9ZYWtVcEFOeDhuQl80SkZFOXVmVVk1MGJmSHBUcENfLWwydndYV3RQTGxhUzBRWU9IOEt1ZmlETnFOV21HbTB4dHVScU1HQW9PNlFwR2dfWXdwelNLdw?oc=5",
       "summary": "Anthropic's latest hiring spree reveals where it's building AI data centers next CNBC",
       "badge": "watch",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Excel Adds New Financial Connectors and Reusable Copilot Skills - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1JRZVRIa3FDTnRGTkdXanZOalRUaDc1SGtxcEhYaTNJLVduZkZUbFV0bVk4V295WXhpcWdrUUM1WFpxa1pQSlBtbHAyUE1XalI4WVMzU1RPTjRWc1ZiOUt0SzdUVTBMMXAwNVVVNnhXV2RZSVZhTlEzMG5feGZKQVpHNmZMTzA5eGRMYm1NNHBWUnlWWDJ4Q094aUNwc1BoaTJVZDh2OUY3cENfUHc?oc=5",
+      "summary": "Microsoft Excel Adds New Financial Connectors and Reusable Copilot Skills Thurrott.com",
+      "badge": "new",
       "date": "2026-06-25"
     },
     {
@@ -59,6 +91,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5",
+      "summary": "Meta looks to AI to review harmful content in cost-cutting drive Financial Times",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Meta",
       "title": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5",
       "summary": "Meta pauses employee tracker for AI training amid privacy concerns The Guardian",
@@ -71,6 +111,22 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "badge": "hot",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google Poised to Lose Two More Senior AI Staffers to Anthropic - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdPMXE3TzV2ZUFOWEtqUEg5djl5Y1hOWnFqbmZKQmV2QVdaeXVSYXZVa0xpRFZmalhDWnBuU0NuUWNIc2tfTUFERDFoRmt2eXBZTjk1YzVhcmxXMUQtZ3FCSWJfQlU1aEJlN3hQeWtTbWZuSnRHam5DNTFDMDcwbnhQMmpVcFcyWGxCelU4dlRub085NUYyLXhEUWpWTUxFcnVaQkJsbGdqQU9JUVZUTzNhYWwwOUVGN29F?oc=5",
+      "summary": "Google Poised to Lose Two More Senior AI Staffers to Anthropic Bloomberg",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Alphabet shares continue downward slide as AI talent departs DeepMind for Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSE91TWxZOXI5SldEbW1LcFpoeF9PVE5leDAtb2t5bmdONXd2TEwzV3ItTWtFYTJnRmd6bzctUHJpLS1pOVgwbUg4cEhYM3lrRG1fN3RrQmlmZXJMb2pNUVBHNC1Ja1pCUHZGOGNYUlM1YW5PX2tUMjBNZ2pGeVdZR1hrSEdFSDRPX0tHTHN4eTJEN3BKVlhYTi1fOVhxQllQeVhEX2ppMm9GM1ps?oc=5",
+      "summary": "Alphabet shares continue downward slide as AI talent departs DeepMind for Anthropic CNBC",
+      "badge": "new",
       "date": "2026-06-24"
     },
     {
@@ -106,34 +162,18 @@
       "date": "2026-06-24"
     },
     {
-      "company": "Anthropic",
-      "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
-      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute The New York Times",
+      "company": "Microsoft",
+      "title": "The AI Coding Craze Gave GitHub Its Best Month Ever - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdrMVVJbFNPQ1Z5cUdwczFQMUlPLUpNSDUyMHZKOXpKTHpFaFoxNDVnVzdWc2tMYWsyWG5vNlRjdUM2bi0xMFhJODRtRDBrZ19Sal9CdmxZb2RTTEVPMG5HNXVsckJnVWNGYU1jeXVHTW9lRkM0Nk5XLVFqeGVwRlZqN0U?oc=5",
+      "summary": "The AI Coding Craze Gave GitHub Its Best Month Ever Business Insider",
       "badge": "new",
       "date": "2026-06-24"
     },
     {
-      "company": "Anthropic",
-      "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdPMXE3TzV2ZUFOWEtqUEg5djl5Y1hOWnFqbmZKQmV2QVdaeXVSYXZVa0xpRFZmalhDWnBuU0NuUWNIc2tfTUFERDFoRmt2eXBZTjk1YzVhcmxXMUQtZ3FCSWJfQlU1aEJlN3hQeWtTbWZuSnRHam5DNTFDMDcwbnhQMmpVcFcyWGxCelU4dlRub085NUYyLXhEUWpWTUxFcnVaQkJsbGdqQU9JUVZUTzNhYWwwOUVGN29F?oc=5",
-      "summary": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic Bloomberg",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The A.I.-Design Aesthetic That’s Taking Over the Internet - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGoyREJYcnJRd3puSkZpTWFTdGhsaG5hOWE3QzhKUE5xd1huZkc2cFdPZ3prUm10M21XRENwQy1GSERjX3dLdnpZSHotVEJ1SGZsaVZJM0FZZHhXUDBCQWY0dHlhNm9iZE9JNzF6YzhaamRycm5aSTVrUkpMallUa201LTEyUUYtQld1SGEzWHg2VzF6dEJ5cnVmQlk0djl5Z1FVM0hoYw?oc=5",
-      "summary": "The A.I.-Design Aesthetic That’s Taking Over the Internet The New Yorker",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXlNQWNfMzV5UDlIb3FFa19PaXM2VmJmYlNhQ2U4MTFBOWtCOE9iSzNOdjFoTXFTQjltTkNKeHYtWTQycEFEOVNVbXZHOWhfWENOV1kxLTh4NFhlNnA0UjdxRk5nRHJmcjg0R25JOFVTS0prME10Z2hpazZEMnJMZ3g3eUZlN1BGWGUzWVNETHo?oc=5",
-      "summary": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic Fortune",
+      "company": "Microsoft",
+      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
+      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot GlobeNewswire",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -142,14 +182,6 @@
       "title": "AI in education is changing fast: New Microsoft 365 Education experiences put learning first - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONlYzVVFHcV8yNWVDaEhKejQzU196bXBuWlRFaml6QTBtVGo1djdacHlRVTRPMTdMN24yYVdyTFFSYTRHSk40b2l6VU9kNFN0QjlvMDdhOTlrdTgzV1QzS09jWTRYQUxDVDBOcld3TWM3YXR0TFJ2YU1oX0NCZXE4VG5PZEZkZnFzdDJxdVM1dlF3SDYwOHB6VTRoUDg4dG9MOXZjcHlPY0ZmR1dseERiN0tqS3lfV3MzTlRKeDFIc2FNRTNaN1BfWmlPN0gzVFQ5T0wzeDZMSTZnaUhWcldFNQ?oc=5",
       "summary": "AI in education is changing fast: New Microsoft 365 Education experiences put learning first Microsoft",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Microsoft",
-      "title": "The AI Coding Craze Gave GitHub Its Best Month Ever - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdrMVVJbFNPQ1Z5cUdwczFQMUlPLUpNSDUyMHZKOXpKTHpFaFoxNDVnVzdWc2tMYWsyWG5vNlRjdUM2bi0xMFhJODRtRDBrZ19Sal9CdmxZb2RTTEVPMG5HNXVsckJnVWNGYU1jeXVHTW9lRkM0Nk5XLVFqeGVwRlZqN0U?oc=5",
-      "summary": "The AI Coding Craze Gave GitHub Its Best Month Ever Business Insider",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -275,17 +307,17 @@
     },
     {
       "company": "Meta",
-      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
-      "badge": "new",
+      "title": "Meta is now designing its own, cheaper AI smart glasses - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDR05FeG5fNnhOTVdWZnhWdzhNdGFIZHVvaC1oWHplZTJKUkF6cVBOMWdseXpHQmY4eFhIWE9ELXlQb29McVp2T2oxRFZkb1BtS1pNcmZ1OHhaWHlpZk9Za25mV2RZRDR3dHc?oc=5",
+      "summary": "Meta is now designing its own, cheaper AI smart glasses CNN We’re Partnering With EssilorLuxottica to Launch Meta Glasses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg ke",
+      "badge": "hot",
       "date": "2026-06-23"
     },
     {
       "company": "Meta",
-      "title": "Meta is now designing its own, cheaper AI smart glasses - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDR05FeG5fNnhOTVdWZnhWdzhNdGFIZHVvaC1oWHplZTJKUkF6cVBOMWdseXpHQmY4eFhIWE9ELXlQb29McVp2T2oxRFZkb1BtS1pNcmZ1OHhaWHlpZk9Za25mV2RZRDR3dHc?oc=5",
-      "summary": "Meta is now designing its own, cheaper AI smart glasses CNN Meta's New AI Glasses Are Designed (and Voiced Over) by Kylie Jenner — Here's How to Shop WWD Meta announces new smart glasses starting at $",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -311,14 +343,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjd2RVVLajRPTnYyaHNUU1A3eGxMZ0dDUjdZZXJ6RWJST3lRQlZuYnRRNkhra0JvczBUamhoeC0wUFJlMjZKbXBkV204ampVWFp2ZFU5SnY4YzBGdnA2YmlaUV9KYXZ1ZXdQaVh4bFdXWGNiTzBGd1oxQlZaaUJQaUs1cUNLbFd1eXJkeGZzWlJXaHpScHByS0tMWFBCcUZyT0E5dVVGWHFLeTg5TXdNNnFJbkpxR3FqNlNueA?oc=5",
       "summary": "‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly inc.com",
       "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
-      "summary": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNB",
-      "badge": "hot",
       "date": "2026-06-23"
     },
     {
@@ -358,22 +382,6 @@
       "title": "Microsoft Copilot is (once again) being installed automatically, but not on all Windows 11 PCs - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXFtZTF0c0twaUM3VFVGcWF4LW5uZnZhN2tMYVdxRGh3NDdMRjZEdFNYd3k4TS0xc2R3V1N4cG16SVBKM2prLUtHSE52bmRUeWNZTGRqQzlRS2V3NVM4ZkJEMnFjZWVFOFRRWVJxM0UxYUFiVVIxeW1hZWxxelJudU9SLWRXS1dCRm0yaTNXYlBDV3locVMzMzdhRTNtS3VWYnFlSlkzaDBGa0ZSLVZpLV9vcjRUNU03V1IyWUloc3hXQnNfQjVxbl9UV2ljZGt1MWc?oc=5",
       "summary": "Microsoft Copilot is (once again) being installed automatically, but not on all Windows 11 PCs Notebookcheck",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft’s New Option Allows Organizations to Block Copilot Access to Office Files - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CLTFrV05MN0VIMHNjTW9KUVZFdXphMm1rNkprTk16ZXBja3EtSVVrcVpPZk9JQURTS01tUjhoc3dUTlcwOUgwOXc5RDBJenVNYmQwZm9pMGJNNHNEcmNzcURXV3N4WmdFclh6ZDRQS2tEZUllM0HSAXtBVV95cUxOekJIOXhSeFdCakQ3eVpaTmdoZ2NyczEtWVVlUDh2LWtYbnhJNlJNdFhIczBabWdWX3UzSXI1UEM0RjNhdGluUmhxZkFPYy1ET1NFZkdTcFZmMGtUOGRJcmlzRExZOWxYOW1uRXN0UHF2TmoxOTJlWkdxNnM?oc=5",
-      "summary": "Microsoft’s New Option Allows Organizations to Block Copilot Access to Office Files CyberSecurityNews",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Windows 11 is getting Copilot on Microsoft 365 Business accounts again, unless you're in Europe - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGdlekJGOHp1MjJDRTl2ckNwZDdSMEY5eklXdTU3UDgxQzdRYnE5UmRIQ1ZScW5Gak9GdFhKOE5ZNExXazlCOUE1WVVHOTctSk5xOGRuVGxxTlF5eFk2VGctYmZQUkRzbmV3V3RVN3J1QlVOYjd2TzNQQ3FZYVNjTlZfQ09EcVlqend2ZkEwVHlWRGUycGlMRlh0MFF2U2o4dEZlM0hOTDZaX1c4YUhkYnlLRy1WZXFLX3FpSmNCR2EwVk1mWFJ3eGJELUJyWWs?oc=5",
-      "summary": "Windows 11 is getting Copilot on Microsoft 365 Business accounts again, unless you're in Europe Digital Trends",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -422,14 +430,6 @@
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "badge": "new",
       "date": "2026-06-18"
     },
