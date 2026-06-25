@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-25T02:45:56Z",
+  "updated": "2026-06-25T08:53:14Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic claims Alibaba unlawfully copied Claude’s capabilities - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nTTNZOFBzLXlJVkdkekp1cUJkWmJrVVl4dlh2YW9lcThCaEx2UnlCaVdyckJHZ09TNXNVakNNS21CVF9nYjA2Ykc1Z2R4bVZ5dTRRbjJ5bldoV3Rvcklmdy1qY0JFdDg?oc=5",
+      "summary": "Anthropic claims Alibaba unlawfully copied Claude’s capabilities Reuters",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weGpDM2s0dWlUUXNpTUJteVFBeFJ2UzAza3FLTTE0dHR3SjlBMmFHSURDVzljbGFqNTIzQlZLUXhUMmNhNGNmMFhqV2tuT0FhcXF2VE9jN3oxMWFVbVgtVjBvS3Nxb29EU2dCbFR3OGtMTm1kNzN6c1J1UndrUdIBgwFBVV95cUxQQ2RjQzRQc19xMlRpRHdzbzRDX3E4Zk95VHFQQ0tfTmx1TEQyRV9ZYWtVcEFOeDhuQl80SkZFOXVmVVk1MGJmSHBUcENfLWwydndYV3RQTGxhUzBRWU9IOEt1ZmlETnFOV21HbTB4dHVScU1HQW9PNlFwR2dfWXdwelNLdw?oc=5",
+      "summary": "Anthropic's latest hiring spree reveals where it's building AI data centers next CNBC",
+      "badge": "watch",
+      "date": "2026-06-25"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes to iOS in Brazil",
@@ -42,6 +58,14 @@
       "date": "2026-06-25"
     },
     {
+      "company": "Meta",
+      "title": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5",
+      "summary": "Meta pauses employee tracker for AI training amid privacy concerns The Guardian",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
       "company": "OpenAI",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -51,17 +75,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1p0MDZhY19QcWdERmJDZzlJbWctaXlFbFVZcjRseEI3N0UwNDVyOGZubGpBcmlqN2lLNzZjajA0N1pReXViLWdNbzB2N3VqRFB0dGRjYXRiaGhwT25seXkxNF9RNWMtOHBoQWZHMW9FZGtwMnVZekdRdVBJMG5fcEkxNWNQcDlSSFRFMEdUM1lUX1RLQmE5a0N1SVNCSC1HVGtmb2NwQmVCT2dJMjhZazJvQQ?oc=5",
-      "summary": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models Bloomberg",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
+      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities Reuters Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities BBC Anthropic Accuses Alibaba of ‘Illici",
       "badge": "new",
       "date": "2026-06-24"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities Reuters",
+      "title": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI0VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5",
+      "summary": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI WSJ",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1p0MDZhY19QcWdERmJDZzlJbWctaXlFbFVZcjRseEI3N0UwNDVyOGZubGpBcmlqN2lLNzZjajA0N1pReXViLWdNbzB2N3VqRFB0dGRjYXRiaGhwT25seXkxNF9RNWMtOHBoQWZHMW9FZGtwMnVZekdRdVBJMG5fcEkxNWNQcDlSSFRFMEdUM1lUX1RLQmE5a0N1SVNCSC1HVGtmb2NwQmVCT2dJMjhZazJvQQ?oc=5",
+      "summary": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models Bloomberg",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -91,14 +123,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI0VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5",
-      "summary": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI WSJ",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Anthropic",
       "title": "The A.I.-Design Aesthetic That’s Taking Over the Internet - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGoyREJYcnJRd3puSkZpTWFTdGhsaG5hOWE3QzhKUE5xd1huZkc2cFdPZ3prUm10M21XRENwQy1GSERjX3dLdnpZSHotVEJ1SGZsaVZJM0FZZHhXUDBCQWY0dHlhNm9iZE9JNzF6YzhaamRycm5aSTVrUkpMallUa201LTEyUUYtQld1SGEzWHg2VzF6dEJ5cnVmQlk0djl5Z1FVM0hoYw?oc=5",
       "summary": "The A.I.-Design Aesthetic That’s Taking Over the Internet The New Yorker",
@@ -114,22 +138,6 @@
       "date": "2026-06-24"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEx4cERSZUZNYkRrVFVLVXpTRlh0NDNnZEF5OGg1cXI4WGwweDdzdFM0dFVUZ3YwWXNTUEVjZHhyWUJLWTlFVUw4eXREaG8wbDZaVFFpb0owVE9RbjhTN3JrYUoycGpqamRkd3lmTDRZaUNvUmEwTXhDNHZKU1hjTWkza2hvTWVCYURISXN2eVMtcXhybldMVVBrTV9KS01rRVJPUFpGcHA2LWtKTEZQbHdYS1E0YWVkcUI4SXNvdXg?oc=5",
-      "summary": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports Reuters",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjMzU3R1WjVtRXMzWmFjRXkwZVc0Vm5FZnZnQlh6VWJXbTd3TWliLXVHVmozY05QNzhudXdpZXlqMlB6b08wdl9ldElhQWx4ZG81R2xlbER5RmRnZllKRGc4Szh0TlZIMU5KOGkxQWplalI3SzJOVTJnVE1qU3hsZ1hXNC0xUDd5TFY4THBSUVBZOU1OcGRlWHk3cGxFWXRBSFBxdmxES2JxZWE4UFlPX1FrcFFiMVZyWEhQVFZjOFhoeGQzVE5lNHZFVzjSAdIBQVVfeXFMTXdoZEZvVGFuNlFIZ0puWlYtTjVQcXFqQlN3REI5ZGJxMWs0NVhsUHdFbjlzQTdvYnhiY2lnWlpZVy1uajF0LURIZk5idGZrSUZVZGlQLVdVN3NQSWVvUHRfcmRJcmVXcUlHb2U3THoxVHJHdHVQZ2llRnpyUk1ocm5oT2dVZFMzMFRfN1lXWW55QV85M1VreDRMRmtxczk4cDhxSUlWeEV6TjJ5YmxCc01iSFRLWnA4eHRUSVM1d0RmWEFMSzBPUm5fVkUzbXdVZW5R?oc=5",
-      "summary": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP CNBC",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
       "company": "Microsoft",
       "title": "AI in education is changing fast: New Microsoft 365 Education experiences put learning first - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONlYzVVFHcV8yNWVDaEhKejQzU196bXBuWlRFaml6QTBtVGo1djdacHlRVTRPMTdMN24yYVdyTFFSYTRHSk40b2l6VU9kNFN0QjlvMDdhOTlrdTgzV1QzS09jWTRYQUxDVDBOcld3TWM3YXR0TFJ2YU1oX0NCZXE4VG5PZEZkZnFzdDJxdVM1dlF3SDYwOHB6VTRoUDg4dG9MOXZjcHlPY0ZmR1dseERiN0tqS3lfV3MzTlRKeDFIc2FNRTNaN1BfWmlPN0gzVFQ5T0wzeDZMSTZnaUhWcldFNQ?oc=5",
@@ -139,10 +147,26 @@
     },
     {
       "company": "Microsoft",
+      "title": "The AI Coding Craze Gave GitHub Its Best Month Ever - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdrMVVJbFNPQ1Z5cUdwczFQMUlPLUpNSDUyMHZKOXpKTHpFaFoxNDVnVzdWc2tMYWsyWG5vNlRjdUM2bi0xMFhJODRtRDBrZ19Sal9CdmxZb2RTTEVPMG5HNXVsckJnVWNGYU1jeXVHTW9lRkM0Nk5XLVFqeGVwRlZqN0U?oc=5",
+      "summary": "The AI Coding Craze Gave GitHub Its Best Month Ever Business Insider",
+      "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVLY1dSR0xzRjc2d2piNlQ0Z0xyNTEtNmN3bUxablRTVUd6aW5EMUNxOWZsbERsRGRNdEV0M3BFZV9idEQtV3JNNkdVZm9CRWlCd1QwZGlwSWxsQ3VLa2NFTEswd3N1bVU3a1NwejZ5akRhY3loT0VnekFMN0ZVeFRNZGE2N0RxYnVKMjlfNGtXVTgyaW1ZMllNSV9nNjU3Y1Y1dlNPcC1xR2NoQVpfdHZOdmo?oc=5",
       "summary": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools Bloomberg",
       "badge": "new",
+      "date": "2026-06-24"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Launches Computer for Counsel, Powered by Legal Tech Integrations - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3VVeWo4aGM2VlZDeU9yT3NKaXJReldOTXQ3RDk4azdJYmlSZ2Y3NWw1NU9DUjYzZ1kxM3pnUWRuY0l5Z2tBVVZaaEtTeDZ5by1KNzU2TEppZzNyd0R4dGRGcGpxWkhoemN1RkNXREtLdjRnR1MyeGtSXzNueVdfZGJCLVpKQ3BqN1hSZ0luUlVoMERSRldwSjBBRjNCMW5EZU1mY25Ca1pVeDZmOU5tOTJoU3dURDE0TUdFcVhHc280Zw?oc=5",
+      "summary": "Perplexity AI Launches Computer for Counsel, Powered by Legal Tech Integrations Law.com",
+      "badge": "hot",
       "date": "2026-06-24"
     },
     {
@@ -187,14 +211,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5",
-      "summary": "Meta pauses employee tracker for AI training amid privacy concerns The Guardian",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Meta",
       "title": "Meta is holding out on government security reviews of its AI models - qz.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PR2tSYWlLc2djTFBvNGJremMxQTdWLWNKZE9xQ1A3NTZ5SWtYa0JYSGNhNVJvelhBSVFvTnhDNHdKNHNwZ2I5cHdJOGxIOVR4MGRJSXdsNVBJd0pCS1J0M2JNb3dVV205eEVFNWluSWlFYWVJMEtKVzlXOHBqQQ?oc=5",
       "summary": "Meta is holding out on government security reviews of its AI models qz.com",
@@ -222,6 +238,14 @@
       "title": "How Omio is building the future of conversational travel",
       "url": "https://openai.com/index/omio",
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Rethinking cloud operations with agentic observability - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjhjMnV0TjFLNG05cVQtcHB1MWpQaHNnWWl4ODlVV0dqLUU2dFZoLU4xeGJZY1lMSVFydjRxVy1HTEpTNHF6WlpQSTdzWTJFbG4xLWR1dHl3TGFUUVpkTGpyVW9qMjM5VXdieTlBQmhCNVIyZkhabUtVRHlTRGpqdWpuYk42QVlNMTNCN2lVdGJEbnNBWUk1M0EwMGNvNk1Q?oc=5",
+      "summary": "Rethinking cloud operations with agentic observability The Official Microsoft Blog",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -259,6 +283,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta is now designing its own, cheaper AI smart glasses - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDR05FeG5fNnhOTVdWZnhWdzhNdGFIZHVvaC1oWHplZTJKUkF6cVBOMWdseXpHQmY4eFhIWE9ELXlQb29McVp2T2oxRFZkb1BtS1pNcmZ1OHhaWHlpZk9Za25mV2RZRDR3dHc?oc=5",
+      "summary": "Meta is now designing its own, cheaper AI smart glasses CNN Meta's New AI Glasses Are Designed (and Voiced Over) by Kylie Jenner — Here's How to Shop WWD Meta announces new smart glasses starting at $",
+      "badge": "new",
+      "date": "2026-06-23"
+    },
+    {
+      "company": "Meta",
       "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
       "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta debuts AI-powered Meta Glasses, starting at $299 Yahoo Finance We’re Partnering With EssilorLuxottica",
@@ -287,14 +319,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
       "summary": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNB",
       "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's AI training oopsy - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXRaVTZ1dEZkTkNGblVqNkhRZkExYXJVV0tYd3ZfblZEQTJzeVFpX0ZKWXNRN2dCWjdBYzBIM3hKR3RyVS1wQlprU1RXcmFPV1VQSlhhcGo3YWdocHFXS3Nzb2RQaXZDcEQzTzNHZ2RKUXpLcGl2MWlvc0swZ001Y2VB?oc=5",
-      "summary": "Meta's AI training oopsy LinkedIn",
-      "badge": "new",
       "date": "2026-06-23"
     },
     {
@@ -350,22 +374,6 @@
       "title": "Windows 11 is getting Copilot on Microsoft 365 Business accounts again, unless you're in Europe - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGdlekJGOHp1MjJDRTl2ckNwZDdSMEY5eklXdTU3UDgxQzdRYnE5UmRIQ1ZScW5Gak9GdFhKOE5ZNExXazlCOUE1WVVHOTctSk5xOGRuVGxxTlF5eFk2VGctYmZQUkRzbmV3V3RVN3J1QlVOYjd2TzNQQ3FZYVNjTlZfQ09EcVlqend2ZkEwVHlWRGUycGlMRlh0MFF2U2o4dEZlM0hOTDZaX1c4YUhkYnlLRy1WZXFLX3FpSmNCR2EwVk1mWFJ3eGJELUJyWWs?oc=5",
       "summary": "Windows 11 is getting Copilot on Microsoft 365 Business accounts again, unless you're in Europe Digital Trends",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is removing one of the best features in Edge to clear space for AI - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVpHdjRxR2xUMGc2WVJPeUtBUWRjblAtRl94eGZlSW1TN2t3UklzaG1QTmZDWE1TbzNrXzBqTlNjSzVOLXZidTVJNHZuQmQ1ekwtM2ZMNnpoUXlubGtJdFR4Ylo3RFU3S1NLb1lfT0ZpTVg1MmVJQTNYNjRtN3N3UmJibk0wRGh6dTZRdEJLZTVIbUcwNW9vekpwOG5tRW1tVkgw?oc=5",
-      "summary": "Microsoft is removing one of the best features in Edge to clear space for AI Windows Central",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft considers DeepSeek as OpenAI costs mount - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmstNGxJSnZtTEVOTkRZX0I3bGdSRFNicVJSMXpDTG9PUzY0NW5TNjFOOHlMaDVlTzlsV1Z2UjJ1djRWQVM5Y2FLdFVabTF6a21DeWJFb0VYNWxFZHpXTDM5MUxCSFEwMVZ0RlQ2X2pTQXlvekdpWm0wZnNMQWdXb2lvd2FBVmFjb0FFWlZhOW01dXc?oc=5",
-      "summary": "Microsoft considers DeepSeek as OpenAI costs mount digitimes",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -439,14 +447,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aNmNHdEM3NXlSRG9oNk5WeHBTYlRNOU1wcUpJSm1Wa0lkeS1pS2o1OFlGNXpfeXdDMndsY2k3dmhtNzBSd0tnck9Kc2xjZXFmelE3ZWFjcElTZTNSeXBtT21xTDJqTWt6dm10VkExdGU1Z3Bv?oc=5",
       "summary": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent's Work and Learns Overnight MarkTechPost",
       "badge": "hot",
-      "date": "2026-06-18"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Gets Serious About Legal - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0VYei1TdmEwN2FiVmxDUGdJOVZZNTFvMU0zVXRzQzB1anRLaWZTV3RoVWVzcm1jRTNqUURLbGloLVdzU1VtVXFnOHRKeUExSGFUM0FfRG5xS1kwVnVwTjM3eXU2N1IweUZZdE0xbjdlN2VVS0hzUEk1eDNaWldOSnVlYVBNT1U?oc=5",
-      "summary": "Perplexity Gets Serious About Legal Artificial Lawyer",
-      "badge": "new",
       "date": "2026-06-18"
     },
     {
