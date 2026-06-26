@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:50:36Z",
+  "updated": "2026-06-26T08:56:05Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -50,6 +50,14 @@
       "date": "2026-06-26"
     },
     {
+      "company": "Meta",
+      "title": "Kylie Jenner's Meta AI glasses have the internet split - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHalB2eXRSeENDZTI2VVBMeDgxRk4wb1RGa1haLVlsZm1zWmw0YU1fV0NJbHZJV296andmWmZwZU5xbE4wN2I2R0paSkhMU2xOclg0N0lKN1ktWXpqUjFoWEpHYmdlNWE0cDFBa1AxbC1pUQ?oc=5",
+      "summary": "Kylie Jenner's Meta AI glasses have the internet split Mashable Black Meta Adventurer AI Glasses - Clear Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushin",
+      "badge": "new",
+      "date": "2026-06-26"
+    },
+    {
       "company": "OpenAI",
       "title": "How agents are transforming work",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
@@ -63,6 +71,14 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
       "summary": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI The New York Times",
       "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weGpDM2s0dWlUUXNpTUJteVFBeFJ2UzAza3FLTTE0dHR3SjlBMmFHSURDVzljbGFqNTIzQlZLUXhUMmNhNGNmMFhqV2tuT0FhcXF2VE9jN3oxMWFVbVgtVjBvS3Nxb29EU2dCbFR3OGtMTm1kNzN6c1J1UndrUdIBgwFBVV95cUxQQ2RjQzRQc19xMlRpRHdzbzRDX3E4Zk95VHFQQ0tfTmx1TEQyRV9ZYWtVcEFOeDhuQl80SkZFOXVmVVk1MGJmSHBUcENfLWwydndYV3RQTGxhUzBRWU9IOEt1ZmlETnFOV21HbTB4dHVScU1HQW9PNlFwR2dfWXdwelNLdw?oc=5",
+      "summary": "Anthropic's latest hiring spree reveals where it's building AI data centers next CNBC",
+      "badge": "watch",
       "date": "2026-06-25"
     },
     {
@@ -95,14 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nTTNZOFBzLXlJVkdkekp1cUJkWmJrVVl4dlh2YW9lcThCaEx2UnlCaVdyckJHZ09TNXNVakNNS21CVF9nYjA2Ykc1Z2R4bVZ5dTRRbjJ5bldoV3Rvcklmdy1qY0JFdDg?oc=5",
       "summary": "Anthropic claims Alibaba unlawfully copied Claude’s capabilities Reuters",
       "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weGpDM2s0dWlUUXNpTUJteVFBeFJ2UzAza3FLTTE0dHR3SjlBMmFHSURDVzljbGFqNTIzQlZLUXhUMmNhNGNmMFhqV2tuT0FhcXF2VE9jN3oxMWFVbVgtVjBvS3Nxb29EU2dCbFR3OGtMTm1kNzN6c1J1UndrUdIBgwFBVV95cUxQQ2RjQzRQc19xMlRpRHdzbzRDX3E4Zk95VHFQQ0tfTmx1TEQyRV9ZYWtVcEFOeDhuQl80SkZFOXVmVVk1MGJmSHBUcENfLWwydndYV3RQTGxhUzBRWU9IOEt1ZmlETnFOV21HbTB4dHVScU1HQW9PNlFwR2dfWXdwelNLdw?oc=5",
-      "summary": "Anthropic's latest hiring spree reveals where it's building AI data centers next CNBC",
-      "badge": "watch",
       "date": "2026-06-25"
     },
     {
@@ -181,7 +189,7 @@
       "company": "Anthropic",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities CNBC Alibaba Slides to 16-Mo",
+      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities CNBC Anthropic says Alibaba ",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -370,14 +378,6 @@
       "date": "2026-06-23"
     },
     {
-      "company": "Meta",
-      "title": "Meta halts worker tracking for AI training due to privacy fears - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5",
-      "summary": "Meta halts worker tracking for AI training due to privacy fears BBC",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
       "company": "OpenAI",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -523,6 +523,14 @@
     },
     {
       "company": "Amazon",
+      "title": "Amazon faces class action suit over Ring facial recognition feature - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZU9ZTGtvdlRMUU1uZlN4QWVEX2pyemNOQ1ZMaWpUUXZDZ2VnbzhNR3pXd2JxNHFSRi1TUHdubmZLZGtFZzZmVG9yOG1Fem9Gb2ZncVJPMjQ1ODBQbVZzamlMTFdiOVdIMmdzS2lBUFQ0ZXlVREItU2JDVmN3S0QtR3VBRGQxbzRSVHVQajVWT2dqN3FtenE5RXNZQVdLU3c?oc=5",
+      "summary": "Amazon faces class action suit over Ring facial recognition feature Mashable",
+      "badge": "new",
+      "date": "2026-06-03"
+    },
+    {
+      "company": "Amazon",
       "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - CNET",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
       "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws CNET",
@@ -592,14 +600,6 @@
       "summary": "Gemini Omni & Gemini 3.5 hero",
       "badge": "new",
       "date": "2026-05-29"
-    },
-    {
-      "company": "Amazon",
-      "title": "Your Ring Camera Has An AI Description Feature (And It's Pretty Creepy) - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dWplZFFTVWFlaGxPTDdiNEpYOHVjMU9sLXNBc0ZIMllRWXh3RXBQVjRGYVlxRng1T0o5QWJxZFJ0SFFiVWZhNG9hNkx2UUtTaEdHWjlERk11UkxFcVBzLXR4VXpXMDc2eWFMSk1DeC1GR0R0b0ZXRW9GUGZuR1k?oc=5",
-      "summary": "Your Ring Camera Has An AI Description Feature (And It's Pretty Creepy) bgr.com",
-      "badge": "new",
-      "date": "2026-05-19"
     }
   ]
 }
