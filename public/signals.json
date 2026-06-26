@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T08:56:05Z",
+  "updated": "2026-06-26T14:13:15Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -53,7 +53,7 @@
       "company": "Meta",
       "title": "Kylie Jenner's Meta AI glasses have the internet split - Mashable",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHalB2eXRSeENDZTI2VVBMeDgxRk4wb1RGa1haLVlsZm1zWmw0YU1fV0NJbHZJV296andmWmZwZU5xbE4wN2I2R0paSkhMU2xOclg0N0lKN1ktWXpqUjFoWEpHYmdlNWE0cDFBa1AxbC1pUQ?oc=5",
-      "summary": "Kylie Jenner's Meta AI glasses have the internet split Mashable Black Meta Adventurer AI Glasses - Clear Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushin",
+      "summary": "Kylie Jenner's Meta AI glasses have the internet split Mashable Linen Meta Adventurer AI Glasses - Transitions Sapphire Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerbe",
       "badge": "new",
       "date": "2026-06-26"
     },
@@ -62,6 +62,14 @@
       "title": "How agents are transforming work",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnhDVzBHUjBBMzZyZTJwWUstMlFiWHd5N2ZmSXhRMWllWUVldUZVdVduZmRIWGRycmNOQlZ3dDJJdEVKZTNkVWdNVEpVM0cwcjBZYTJodjJHOUV2ZDdSV1pqem9rdjJCanphTUhubllxaUg4N1lPXzRBeS01RjhRZHFBeVl1WUtZdWtMaUJRVnJueHFTV0JwQlViWVBWazJaNkkyX0w5VUxFTGdNTjd1VE9xQlZqZnoxeWdQcXMyNA?oc=5",
+      "summary": "Anthropic says Alibaba must be punished for largest Claude cloning attack Ars Technica",
       "badge": "new",
       "date": "2026-06-25"
     },
@@ -155,6 +163,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5",
+      "summary": "Meta looks to AI to review harmful content in cost-cutting drive Financial Times",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Meta",
       "title": "Meta hires Virtue AI founders - Axios",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWVdvWFhrZGI2OWQ4NVV3OFZiZWpVZGdaMG5iWldfdXBoSWg4cmMxTTZWMkhoZDkzTDBIaHlnWm1xZGEzZWtzYjhRYWkyaHJJTEhYMHZyTzIwLXo1RVBRWUsxdTBqZllOOG8zM1hHZE9NdDVoSXFrQ0QtYw?oc=5",
       "summary": "Meta hires Virtue AI founders Axios",
@@ -170,14 +186,6 @@
       "date": "2026-06-25"
     },
     {
-      "company": "Meta",
-      "title": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5",
-      "summary": "Meta looks to AI to review harmful content in cost-cutting drive Financial Times",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
       "company": "OpenAI",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -189,23 +197,15 @@
       "company": "Anthropic",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities CNBC Anthropic says Alibaba ",
+      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities Reuters",
       "badge": "new",
       "date": "2026-06-24"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI0VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5",
-      "summary": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI WSJ",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Google Poised to Lose Two More Senior AI Staffers to Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdPMXE3TzV2ZUFOWEtqUEg5djl5Y1hOWnFqbmZKQmV2QVdaeXVSYXZVa0xpRFZmalhDWnBuU0NuUWNIc2tfTUFERDFoRmt2eXBZTjk1YzVhcmxXMUQtZ3FCSWJfQlU1aEJlN3hQeWtTbWZuSnRHam5DNTFDMDcwbnhQMmpVcFcyWGxCelU4dlRub085NUYyLXhEUWpWTUxFcnVaQkJsbGdqQU9JUVZUTzNhYWwwOUVGN29F?oc=5",
-      "summary": "Google Poised to Lose Two More Senior AI Staffers to Anthropic Bloomberg",
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRkpYdmt2dUlXV21mMGZGRnVwWWJ1REllTjBUMVVfY3plcndDU2pzcE5hNVBtSUtyLXJ2V2ZWZlBXSUoyNXlHT3RHeEo4dDFJcTBFb2lWZVdOQnJiUlNTMXRMTFdjT0VUNXlaUWtGemJaTGo4dU14ejVYdWhwMWJ4cWF30gGHAUFVX3lxTE5mbXB5VlFXanRXdE1Iemx0Y1RHYjJXdE5lX3JSeHBtYnM3NjM4azJaeHJSNDVEYm1XSUFRM05GbC03Z2IxMU5pTldQV09qQ09VTTN6aXExMDRuSkFZRWlZcjFlTGNtLVFCZ0M0XzhCX2VWdjJRcHJGZjlIalIzaTJoVFBCSmcwRQ?oc=5",
+      "summary": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities CNBC",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -219,17 +219,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
-      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot GlobeNewswire",
+      "title": "The AI coding craze gave GitHub its best month ever, executive tells employees - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdrMVVJbFNPQ1Z5cUdwczFQMUlPLUpNSDUyMHZKOXpKTHpFaFoxNDVnVzdWc2tMYWsyWG5vNlRjdUM2bi0xMFhJODRtRDBrZ19Sal9CdmxZb2RTTEVPMG5HNXVsckJnVWNGYU1jeXVHTW9lRkM0Nk5XLVFqeGVwRlZqN0U?oc=5",
+      "summary": "The AI coding craze gave GitHub its best month ever, executive tells employees Business Insider",
       "badge": "new",
       "date": "2026-06-24"
     },
     {
       "company": "Microsoft",
-      "title": "The AI coding craze gave GitHub its best month ever, executive tells employees - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdrMVVJbFNPQ1Z5cUdwczFQMUlPLUpNSDUyMHZKOXpKTHpFaFoxNDVnVzdWc2tMYWsyWG5vNlRjdUM2bi0xMFhJODRtRDBrZ19Sal9CdmxZb2RTTEVPMG5HNXVsckJnVWNGYU1jeXVHTW9lRkM0Nk5XLVFqeGVwRlZqN0U?oc=5",
-      "summary": "The AI coding craze gave GitHub its best month ever, executive tells employees Business Insider",
+      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
+      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot GlobeNewswire",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -275,17 +275,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta plans to release AI-powered prediction market app, documents show - NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5",
-      "summary": "Meta plans to release AI-powered prediction market app, documents show NPR",
+      "title": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVIRm1OLXYyUU5aM3FQeXY4MTRDanAtLVN5aDEzWnpiX19FVjQ4LXFkb2stTmsycTE2M0pJaHMwV1A3bEVmUXdGWmp6U0FqQ1d5MjFEZXpaRHgwVnFmNmJ0WXdXdFZhU19ZYkFjejRfWG5IS1RRTGRhVTFfSHlJX1ZlY1AzaHkyYTRnSnZ6VEo?oc=5",
+      "summary": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool Business Insider",
       "badge": "new",
       "date": "2026-06-24"
     },
     {
       "company": "Meta",
-      "title": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVIRm1OLXYyUU5aM3FQeXY4MTRDanAtLVN5aDEzWnpiX19FVjQ4LXFkb2stTmsycTE2M0pJaHMwV1A3bEVmUXdGWmp6U0FqQ1d5MjFEZXpaRHgwVnFmNmJ0WXdXdFZhU19ZYkFjejRfWG5IS1RRTGRhVTFfSHlJX1ZlY1AzaHkyYTRnSnZ6VEo?oc=5",
-      "summary": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool Business Insider",
+      "title": "Meta plans to release AI-powered prediction market app, documents show - NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5",
+      "summary": "Meta plans to release AI-powered prediction market app, documents show NPR",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -355,17 +355,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta is now designing its own, cheaper AI smart glasses | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDR05FeG5fNnhOTVdWZnhWdzhNdGFIZHVvaC1oWHplZTJKUkF6cVBOMWdseXpHQmY4eFhIWE9ELXlQb29McVp2T2oxRFZkb1BtS1pNcmZ1OHhaWHlpZk9Za25mV2RZRDR3dHc?oc=5",
-      "summary": "Meta is now designing its own, cheaper AI smart glasses | CNN Business CNN Black Meta Adventurer AI Glasses - Clear Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg k",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
       "badge": "new",
       "date": "2026-06-23"
     },
     {
       "company": "Meta",
-      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
+      "title": "Meta is now designing its own, cheaper AI smart glasses | CNN Business - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDR05FeG5fNnhOTVdWZnhWdzhNdGFIZHVvaC1oWHplZTJKUkF6cVBOMWdseXpHQmY4eFhIWE9ELXlQb29McVp2T2oxRFZkb1BtS1pNcmZ1OHhaWHlpZk9Za25mV2RZRDR3dHc?oc=5",
+      "summary": "Meta is now designing its own, cheaper AI smart glasses | CNN Business CNN Black Meta Adventurer AI Glasses - Clear Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg k",
       "badge": "new",
       "date": "2026-06-23"
     },
