@@ -1,11 +1,83 @@
 {
-  "updated": "2026-06-26T19:41:19Z",
+  "updated": "2026-06-27T02:41:03Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "U.S. government gives Anthropic green light for limited re-release of Mythos 5 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1YyZFRxcVNvTHhJV2dWX3k1c193T0Zza1FNQ3FmeW1jR1l4LThzWng5SWZxVjZNRUd3R19sUzJKd1FkTk5jcjdMd01ycWtlS3Z4OUlUMXI0VDdvNnNDVTBoU3ctSmYzTEdURTdYYkp1Njl2Mk1icE5seTZXcjN1SVNDQkRVNTZMMzdDc25rVjUybms5U3JtX3BFc0ZqNUxxdTFMRHN2WHlVRzdvVGtudzZPX3otdEczM3dz?oc=5",
+      "summary": "U.S. government gives Anthropic green light for limited re-release of Mythos 5 NBC News",
+      "badge": "new",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic moves toward deal with U.S. to lift curbs on AI models - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0FObno0c2g1d1dXMHpoazVidjF1WFBUTHNzdWE2YnhuLTNzOGJsbWJqRDQ1UDNaSlhhbnpkMmp1bkx3N3BQX3VYQjZCbTZ0dGNrcGo4eDg2V1dJRkJrTng4VFI1aDFNTERHRE4xdkI1anZMYnctNzR3N3ZQMXFiZ3NXWGtfRl9vRGhfTzRGYkttRlFPU3doVUxWZnBneUVQcEZxWW9nOFltbWdaN09QLUp4RQ?oc=5",
+      "summary": "Anthropic moves toward deal with U.S. to lift curbs on AI models Los Angeles Times",
+      "badge": "new",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-27"
+    },
     {
       "company": "OpenAI",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "badge": "new",
+      "date": "2026-06-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOE9ZNnB4d2ZGbU9LSE83eHhldFlELXVmNWZjZGdmTFFGTEU3WVhkWHBieTNCS3dwS0JKejJIMDktTEprZmYxS19YS0FEbW15MW5aR1FIWi1md25uSkVBQXBjY3lCTHR3alQxMHRlVXlSMFcxZDQ3c0p6UkpBSkNPMS1NejM?oc=5",
+      "summary": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies CNBC",
+      "badge": "new",
+      "date": "2026-06-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5",
+      "summary": "US allows Anthropic to release Mythos AI to 'trusted' US organizations Reuters",
       "badge": "new",
       "date": "2026-06-26"
     },
@@ -59,6 +131,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "MAI-Code-1-Flash for Copilot Business and Copilot Enterprise - The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk9adEMwUWwxSXExLWRDdTl4OVlDSm94TE1EUFkyckdvTUc2VXMzT1k0QkZXNzZIaFlKbGRwU25WUU52bGhPYXhDQXJRRGRJOXA1cHJUQmRYbkE2akhMTE91OUc1YnczejJIaE5KSndRY0dLTDZGSkstVlZDYlVvQlpYSXhrdC1BTEh4Z0dIeFNPeF9zYlFoRjR6MkxxOHdrQzZmLQ?oc=5",
+      "summary": "MAI-Code-1-Flash for Copilot Business and Copilot Enterprise The GitHub Blog",
+      "badge": "new",
+      "date": "2026-06-26"
+    },
+    {
+      "company": "Microsoft",
       "title": "Italy probes AI-fueled price hikes in Microsoft 365 - The Register",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkZqemIyanl0S1d5YTZZVld0VEpyN3Z2WVZNMHFjRjJxLXQ0bUdSaW9KSU1TZUc2M0ZyWTY1ZXlFTGVXX2FkQlZUbFhVajZTRlhvTnYySUM5UG50U3BLSnNpTnpsVHNYaVFEeFlIWHFKcy1wU1p2YlZRX0dsWG9HRndPT2FsWGNqSWhNejNHTjJfMlR2Vk1CRkxIZXpnMUs3aHNlQjln?oc=5",
       "summary": "Italy probes AI-fueled price hikes in Microsoft 365 The Register",
@@ -66,50 +146,10 @@
       "date": "2026-06-26"
     },
     {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
-      "date": "2026-06-26"
-    },
-    {
       "company": "Meta",
       "title": "Kylie Jenner’s Meta AI glasses spark online debate - Mashable",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHalB2eXRSeENDZTI2VVBMeDgxRk4wb1RGa1haLVlsZm1zWmw0YU1fV0NJbHZJV296andmWmZwZU5xbE4wN2I2R0paSkhMU2xOclg0N0lKN1ktWXpqUjFoWEpHYmdlNWE0cDFBa1AxbC1pUQ?oc=5",
-      "summary": "Kylie Jenner’s Meta AI glasses spark online debate Mashable Black Meta Adventurer AI Glasses - Clear Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing we",
+      "summary": "Kylie Jenner’s Meta AI glasses spark online debate Mashable",
       "badge": "new",
       "date": "2026-06-26"
     },
@@ -118,38 +158,6 @@
       "title": "How agents are transforming work",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnhDVzBHUjBBMzZyZTJwWUstMlFiWHd5N2ZmSXhRMWllWUVldUZVdVduZmRIWGRycmNOQlZ3dDJJdEVKZTNkVWdNVEpVM0cwcjBZYTJodjJHOUV2ZDdSV1pqem9rdjJCanphTUhubllxaUg4N1lPXzRBeS01RjhRZHFBeVl1WUtZdWtMaUJRVnJueHFTV0JwQlViWVBWazJaNkkyX0w5VUxFTGdNTjd1VE9xQlZqZnoxeWdQcXMyNA?oc=5",
-      "summary": "Anthropic says Alibaba must be punished for largest Claude cloning attack Ars Technica",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
-      "summary": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI The New York Times",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weGpDM2s0dWlUUXNpTUJteVFBeFJ2UzAza3FLTTE0dHR3SjlBMmFHSURDVzljbGFqNTIzQlZLUXhUMmNhNGNmMFhqV2tuT0FhcXF2VE9jN3oxMWFVbVgtVjBvS3Nxb29EU2dCbFR3OGtMTm1kNzN6c1J1UndrUdIBgwFBVV95cUxQQ2RjQzRQc19xMlRpRHdzbzRDX3E4Zk95VHFQQ0tfTmx1TEQyRV9ZYWtVcEFOeDhuQl80SkZFOXVmVVk1MGJmSHBUcENfLWwydndYV3RQTGxhUzBRWU9IOEt1ZmlETnFOV21HbTB4dHVScU1HQW9PNlFwR2dfWXdwelNLdw?oc=5",
-      "summary": "Anthropic's latest hiring spree reveals where it's building AI data centers next CNBC",
-      "badge": "watch",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic has hired an economist with . . . interesting views on human survival - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tdFFmTzY0cEFWVGpiaWNQWTEzU2ExT01XR21Cc001U3FScDhvWHNfNFBjdHAwbGMyOFV0bDNPc1dOb0pvWGg3NjZZSzdhOTBYM3NCSG5NemdBMjJUS0x1S2JTdkdMWDdBdm5hUW9wQkI?oc=5",
-      "summary": "Anthropic has hired an economist with . . . interesting views on human survival Financial Times",
       "badge": "new",
       "date": "2026-06-25"
     },
@@ -195,9 +203,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5",
-      "summary": "Meta looks to AI to review harmful content in cost-cutting drive Financial Times",
+      "title": "AI can't figure out how bikes work, and it shows - Singletracks Mountain Bike News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPelR0M211Zl9jN3VfcEt4YXU5RHpUcnBPS05NczFLdlA3LUVkMldfWmJKeXg4MzA0d0FldDJvZDJvRlpUa19aaEhTOExhc2RjN1ZDNl9Bc2tIa2o4TGwzcDk0Y1FCY3Y4N25DeWRXLU53Rmg3QUNsQlJidndDMHpabmZxdFI0bE12dXpUVm9Yb0F0bnBMVFdtU0RtZkthdVE?oc=5",
+      "summary": "AI can't figure out how bikes work, and it shows Singletracks Mountain Bike News",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Meta",
+      "title": "'AI Slop' Ad: Meta's AI Turned a Real Bike Into a Two-Handlebar Monstrosity – and REI Let It Ride for a Week - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYndHZE10TmtXOG5OSUNNUHE1V0RXbmhoTlN5dXV0d0FUN0p4N2Z6QmhxSWN3bk5GbWRlNkNZOUo0QURGcjBIUC1JNHdTS19Ncm5aSF9Ba2ZrN2RsNzZSd2pFU1JJMnRWVGNabVRsS1JELXI2ck5GTmVrY1NMRmZNTDVrdHI2T1h0N2N4THVHU1BOcTFiNDIyOVRXT1RQcldLNEYwbzJQNXF5UkhYUWRBQzR2dFdlYzI3YlMxWUtsYkdkVDJXb0RaU3A2NA?oc=5",
+      "summary": "'AI Slop' Ad: Meta's AI Turned a Real Bike Into a Two-Handlebar Monstrosity – and REI Let It Ride for a Week Gadget Review",
       "badge": "new",
       "date": "2026-06-25"
     },
@@ -206,6 +222,14 @@
       "title": "Meta hires Virtue AI founders - Axios",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWVdvWFhrZGI2OWQ4NVV3OFZiZWpVZGdaMG5iWldfdXBoSWg4cmMxTTZWMkhoZDkzTDBIaHlnWm1xZGEzZWtzYjhRYWkyaHJJTEhYMHZyTzIwLXo1RVBRWUsxdTBqZllOOG8zM1hHZE9NdDVoSXFrQ0QtYw?oc=5",
       "summary": "Meta hires Virtue AI founders Axios",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5",
+      "summary": "Meta looks to AI to review harmful content in cost-cutting drive Financial Times",
       "badge": "new",
       "date": "2026-06-25"
     },
@@ -291,17 +315,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta plans to release AI-powered prediction market app, documents show - NPR",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5",
-      "summary": "Meta plans to release AI-powered prediction market app, documents show NPR",
+      "title": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVIRm1OLXYyUU5aM3FQeXY4MTRDanAtLVN5aDEzWnpiX19FVjQ4LXFkb2stTmsycTE2M0pJaHMwV1A3bEVmUXdGWmp6U0FqQ1d5MjFEZXpaRHgwVnFmNmJ0WXdXdFZhU19ZYkFjejRfWG5IS1RRTGRhVTFfSHlJX1ZlY1AzaHkyYTRnSnZ6VEo?oc=5",
+      "summary": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool Business Insider",
       "badge": "new",
       "date": "2026-06-24"
     },
     {
       "company": "Meta",
-      "title": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVIRm1OLXYyUU5aM3FQeXY4MTRDanAtLVN5aDEzWnpiX19FVjQ4LXFkb2stTmsycTE2M0pJaHMwV1A3bEVmUXdGWmp6U0FqQ1d5MjFEZXpaRHgwVnFmNmJ0WXdXdFZhU19ZYkFjejRfWG5IS1RRTGRhVTFfSHlJX1ZlY1AzaHkyYTRnSnZ6VEo?oc=5",
-      "summary": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool Business Insider",
+      "title": "Meta plans to release AI-powered prediction market app, documents show - NPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5",
+      "summary": "Meta plans to release AI-powered prediction market app, documents show NPR",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -346,14 +370,6 @@
       "date": "2026-06-23"
     },
     {
-      "company": "Microsoft",
-      "title": "From insight to action: The next phase of agentic cloud operations - Microsoft Azure",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmVZZEdOMWZaeDBRM3NmQ3JIaWNlU2d5UXFwZFRZeklibkQwamVBN0h4d2pSZG5VVUg2cmRhT09XNENfOVpfR1lXSDFHbVhvQm1OUE1VdVNxWmItRVY2cGk3cGt1QXNfNk9sZ0VfTkRhLVBmbHNQUEU5VEpqSTBrM1VZSWp2ZjJVYXIxbGdKYzQ2SHBidHRBOUxfb3lWaXB2RWFTZHdoYy0?oc=5",
-      "summary": "From insight to action: The next phase of agentic cloud operations Microsoft Azure",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
       "company": "Perplexity",
       "title": "As some students sour on AI, companies are paying their classmates to change their minds - NBC News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckVLZjRPOFg1dU42M19RQ2VkVm5CaFIzV2ZlbUZ5Wkpwa0pOOUg5M2NodElIWU9zUWJwbVNlOVBqVmh2Smw0VnlTQy1taTVYMVNiM3B6TXRxaHpFUGFKdVFaUFpUTDljTUNFRzNzTkY4UEdnVXpMZHE1OHdvcUw1aE9IRE51RVZ5ODg0UzNvT295MEE3bl92VGZGMkFpc21jRXdTS191NGE1LTBFT0NsOWNWWjJqSlE?oc=5",
@@ -366,22 +382,6 @@
       "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
       "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise The New York Times",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is now designing its own, cheaper AI smart glasses | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDR05FeG5fNnhOTVdWZnhWdzhNdGFIZHVvaC1oWHplZTJKUkF6cVBOMWdseXpHQmY4eFhIWE9ELXlQb29McVp2T2oxRFZkb1BtS1pNcmZ1OHhaWHlpZk9Za25mV2RZRDR3dHc?oc=5",
-      "summary": "Meta is now designing its own, cheaper AI smart glasses | CNN Business CNN Black Meta Adventurer AI Glasses - Clear Lenses Meta Store Meta announces new smart glasses starting at $299, as Zuckerberg k",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5",
-      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables CNBC Meta debuts AI-powered Meta Glasses, starting at $299 Yahoo Finance We’re Partnering With EssilorLuxottica",
       "badge": "new",
       "date": "2026-06-23"
     },
