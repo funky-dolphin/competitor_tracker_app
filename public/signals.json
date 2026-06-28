@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-28T02:56:22Z",
+  "updated": "2026-06-28T08:45:24Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes to iOS in Brazil",
@@ -45,7 +53,15 @@
       "company": "Anthropic",
       "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5",
-      "summary": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns CNN US allows Anthropic to release Mythos AI to 'trusted' US organizations Reuters Trump Administration R",
+      "summary": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns CNN Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg US close to allowing Anthropic to",
+      "badge": "new",
+      "date": "2026-06-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack - The Information",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekhLUHlFVHFGTHVxaTF3WTdMZkdCT3lQMjhPNTRzb3JBa2tLa2lId3Q1Z3FPZ2VlNmlYNkdBdHk0MWRHQXlLOEpnZkdSUVh6Z3ktU2R2Z2tzOG9JUzZJVk9LRVlSalkya0FXTlpTOC1tSG90MTdWUk8wdmtBQjM5YmhUMkdfandUSXg0THVEajhyR0N1RXJr?oc=5",
+      "summary": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack The Information",
       "badge": "new",
       "date": "2026-06-27"
     },
@@ -146,22 +162,6 @@
       "date": "2026-06-26"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Economic Index report: Cadences - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNVR0S19Od3hZaWJSaTdlRkpZOVZJa0M4TzhldFg0WElpY3duXzlHT3AtZXNoazJSbXlUSTE5dEpiUmVWc0FRaTJOc2tValRaOFJmRnlHS3IwYk5DNnp6OGtCY3p0cWFRR0dNQjVfcVhXbk5X?oc=5",
-      "summary": "Anthropic Economic Index report: Cadences Anthropic",
-      "badge": "new",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBWLTd5Q0dIYW9weEt2RC1pME5NYTJHS0lQNWdlWk9STHhYWk5zeEhNVS1pN1VUeDZxWkcyMW02c3VyRmdWN1BhLU02MU10ejJpMmtBMldTeUltOF9oNkJVYWZ4Sm5zV0UyVm5HTFJFUTVnNEljcjNfTlQ3eXlvbmt2NlRPN05QVXNpbDFzS3NoajRSeWdaa3VTR0U1OUw0V3F6eTln?oc=5",
-      "summary": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost Fortune",
-      "badge": "new",
-      "date": "2026-06-26"
-    },
-    {
       "company": "Microsoft",
       "title": "MAI-Code-1-Flash for Copilot Business and Copilot Enterprise - The GitHub Blog",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk9adEMwUWwxSXExLWRDdTl4OVlDSm94TE1EUFkyckdvTUc2VXMzT1k0QkZXNzZIaFlKbGRwU25WUU52bGhPYXhDQXJRRGRJOXA1cHJUQmRYbkE2akhMTE91OUc1YnczejJIaE5KSndRY0dLTDZGSkstVlZDYlVvQlpYSXhrdC1BTEh4Z0dIeFNPeF9zYlFoRjR6MkxxOHdrQzZmLQ?oc=5",
@@ -219,6 +219,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "AI in financial services: Bringing trusted data into the flow of work - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOenhEd0tZUFRKMF9abmJhT1lxY0pKaFJEbVc5a1A4LXhrbGx1T0ZfbVZWMHd0TFBMWXpvR0J5WHI5d3dwbWVEQk0tU3RQWUdiZzRXLW0wa1Zid2RvTjRsZHZtQzBLZkkzV1FmUkxlMW1XQzVLd0FzLVNMYTl4THBTTlAydUxHSzlYQ1N6RkFNTEVFTG5vanZEeU5ibF94aE1jRU5DTWZvQmhwNUVkakwzcF9YUWV4b1NzTjhiM0FfMndSQzRCQjVVSXJJcjA4bzRYWl9EaGhxU0xVUVlGNmRZbUZXQ3kxczg?oc=5",
+      "summary": "AI in financial services: Bringing trusted data into the flow of work Microsoft",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Microsoft",
       "title": "Is \"fair use\" enough to save Microsoft and OpenAI from the courtroom? - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkpDbFpZcDRaWkNXUmxvMEw0dktpM1c4V0V3Z2o1Si11ZzNjZW5EaU9LdEdTcW1kZVBxU3Vwa1ZBSlZBdDlxaGJoWUZsU1RkRHpKQVpLRlY1OXZWRUdLWFdCVGlXdWxRcnJTMWhqVFhEbzBkVGt0N21MblBzZVByQy1yRXkxZzVUN29DRHNfWmtCQUdmVXdqNXFueUcyV1pQRDRZWU85YkxHM0w4YlFJbw?oc=5",
       "summary": "Is \"fair use\" enough to save Microsoft and OpenAI from the courtroom? Windows Central",
@@ -235,6 +243,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOS1zX2xiZ3V6VHk3S3F3aTYwRWZ6NjNFSHJWWmpjMkRLTF9NbUZIdldSSDUtR0l3UkxwaWpJQ0x1WjNHbmlDM254TjJSWW9mcTBCREFNOXM3TGRuSlg2Tkc2UlBLYnk2YzJaY2JpMnQ5b01odUxFbUtJRGlfOHByMWxJcHN1YnQ4bE5TS1hOSGFPQmx3MXpCRkVGZTVFTHlMYUJscE9oSDVuaWFEdnhJNXJwLVB1QjI5M0dEWGwxUzdGZ1FDRTNoLQ?oc=5",
+      "summary": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch Law.com",
+      "badge": "hot",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event - LawSites",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1pJd19ZNjVXZUVaM3BMeHpqeWVLMEw2UWNGcGVZaHRLb2M1RU5MRHFFeFZMRm0yZjUyaHBKT3pWVnppSnM5cWFFN3RLUHc3Mmx2ZFRXS0o5ZEZPLTQ0SWRMQ1hzME9NQVFjc3pBTF9PY3ZJSTZLYUg4dTd1VGZtejNjWU1GS25vTDgyVEJfMjBsWEhxaHp1WXM1eU91UXYtTGFKdEFTR3VobEoyYzYtVi16Z3lURWZVdDBCTlYxNHpZbXFPVzNweENETQ?oc=5",
       "summary": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event LawSites",
@@ -246,6 +262,14 @@
       "title": "Kylie Jenner’s Meta AI glasses spark online debate - Mashable",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHalB2eXRSeENDZTI2VVBMeDgxRk4wb1RGa1haLVlsZm1zWmw0YU1fV0NJbHZJV296andmWmZwZU5xbE4wN2I2R0paSkhMU2xOclg0N0lKN1ktWXpqUjFoWEpHYmdlNWE0cDFBa1AxbC1pUQ?oc=5",
       "summary": "Kylie Jenner’s Meta AI glasses spark online debate Mashable",
+      "badge": "new",
+      "date": "2026-06-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta reverses decision to reassign employees to AI training roles - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTjNhY09ydTM1S29mZkVHQWNtdWhENUZGTjRfVG0zNHdsYkcxM3YzdEhTSXZ3VEl3QTVfLUwxQXhtQzJ2Y2J3NFJtYzFJdjQwLXR4d1NYZGVRX1pza1RzT0NEaWtnY1YwdmczR2JGQkZTYTVqcFhfc0pFUVc5ZnlwV3hPX3hyMjhUM2pmdEpsZmJlSDFQd1p3TUdMb0lka0hFMW54bA?oc=5",
+      "summary": "Meta reverses decision to reassign employees to AI training roles Fast Company",
       "badge": "new",
       "date": "2026-06-25"
     },
@@ -322,14 +346,6 @@
       "date": "2026-06-24"
     },
     {
-      "company": "Microsoft",
-      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
-      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot GlobeNewswire",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity AI Launches Computer for Counsel, Powered by Legal Tech Integrations - Law.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3VVeWo4aGM2VlZDeU9yT3NKaXJReldOTXQ3RDk4azdJYmlSZ2Y3NWw1NU9DUjYzZ1kxM3pnUWRuY0l5Z2tBVVZaaEtTeDZ5by1KNzU2TEppZzNyd0R4dGRGcGpxWkhoemN1RkNXREtLdjRnR1MyeGtSXzNueVdfZGJCLVpKQ3BqN1hSZ0luUlVoMERSRldwSjBBRjNCMW5EZU1mY25Ca1pVeDZmOU5tOTJoU3dURDE0TUdFcVhHc280Zw?oc=5",
@@ -358,14 +374,6 @@
       "title": "DuckDuckGo and Perplexity Outperform Google Search in New Test - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnRWSHcxZDhDY0ZycWpheHdkdHQ1aGFNWDZuZjdUZ3hEOVV2Q2tnYUc3SllrT0dpbldTNjdyMkd1SGlJRHM3Z0hXeFN3b3lsWnJkTjJJcDNjLTQ4dUx1eHlUM1dQUUdzMkI5b19VRlFzMUluR0FhTjZxY1Rta2prbmw0c1hyZEEzOFVlNUIyY3Q3Wi1wMWlqak9qWQ?oc=5",
       "summary": "DuckDuckGo and Perplexity Outperform Google Search in New Test The Tech Buzz",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta forced thousands of engineers into AI training work. Now it's giving some a way out. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGZ5N1VJajNNSll2SUQtc1Byb2VzMHJtRHNCZVFKWmw1OFF5b0lySUZzZWlINjFkVVNEMEV2cS1wSmVlTUN3cmF4Z0dVUnJmcWdQUXl4bGx4RzNaWk1JYjVrV1dtM2llREVtWEhOVUxXUXBWaWdQMnZpaXQzVlQzNTlHNzJMdEJJRWRsY2hKbVlYTEZJU1RYNmxxMXNodFZQNDM4VlpHcjE?oc=5",
-      "summary": "Meta forced thousands of engineers into AI training work. Now it's giving some a way out. Business Insider",
       "badge": "new",
       "date": "2026-06-24"
     },
@@ -448,14 +456,6 @@
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "badge": "new",
       "date": "2026-06-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "AI Agents and the CFAA: Amazon.Com Services v. Perplexity AI - Reason Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHBnTVlZVy1QaVA0RFZXVXJuRXcwYUlQTWE3Q3JINkVjZlFKSVJ4SFJDbElNT01QVUV4M3ZJOXlEaU5xNWZmbWxEUnVjOS1Pb1BFS0h2aldHY1kwUS1QcEFJeElvQnRncmlGRTVmbmVtSE1mV096aXp2bnlPLVJxQ3NZZkhpUXRQNFh2ZHF3ZmcycHhzYzFQQVU2S0c?oc=5",
-      "summary": "AI Agents and the CFAA: Amazon.Com Services v. Perplexity AI Reason Magazine",
-      "badge": "new",
-      "date": "2026-06-19"
     },
     {
       "company": "Apple",
