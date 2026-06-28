@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-27T19:13:09Z",
+  "updated": "2026-06-28T02:56:22Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-28"
+    },
     {
       "company": "Anthropic",
       "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN",
@@ -71,46 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHhDQXYxSlI4aFVUZGxqbDJOS3J0RUM5Q2J5amtnTnVwQW9oMnZwMkh5bk40Ym1vUlBJTDN2OTZwNW9hdkRXcnNKcV90MWxMTi1pRVhoRGtOYUNXajhvSWF0OUdVYzlaRzY4QjJEckRWazBBYXBlQXp2Wm5Ob1dNVFFOZXdpQURPTlFrYUttTWZEakdmWHlVcVBYX3FUX19lMUxIalRLMHZNWXg3NDZCaVBJMGJwNGc?oc=5",
       "summary": "Microsoft adds new skills — and more oversight — for Copilot in Excel Computerworld",
       "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
       "date": "2026-06-27"
     },
     {
