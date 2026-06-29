@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-29T02:56:23Z",
+  "updated": "2026-06-29T10:47:05Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes to iOS in Brazil",
@@ -42,6 +50,22 @@
       "date": "2026-06-29"
     },
     {
+      "company": "Perplexity",
+      "title": "Tech Mahindra Partners with Perplexity to Enhance AI-Powered Sales and Customer Engagement - CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUF1YklDXzJVVzdsNF8zWkN2RUZlWkhBYUlTZEFyRjFxWjZrdlM4RTJpUkNqVG5oVHJhTEFjdDNHaW1nTmVUemtGSDBuNzlndGQ4dWI2T1JHTzNKbWF3cTJyNHNCSEdQbU9OS2xkd0lQY29XcHRjM1VmeGliMmZSZWtwcnhQekhZaGVmOGFYdjhkbklVbDV2eURYS3hlOVhDRGd6dDRFQ2VSRUZVUERyVm41RngtU09SM1JFbVZtYkRaWFNqVHc?oc=5",
+      "summary": "Tech Mahindra Partners with Perplexity to Enhance AI-Powered Sales and Customer Engagement CXOToday.com",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s new AI research chief says agents are next big real-world milestone - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRS1HLXZfSHlXRk1rWTFMSlIxT3N0dXlRdkZoV2JsUE1yR0F2U08xZDJVMUFkVW43MDlUTGJGOEg0bU42RHRKaFZvU0NqcGpkVW5rekRDMzBjcl9EV0xkcWhVdGdhZXRXWmxwT3oxWldvc3J6eXFTX0Q4UTJPNlZXdGd0WHJjbWVMcXpSbzdPY1VCc3RNd3lwVFhLOF8yQmJpbC1GR1dmZ1pTU1JUWVpvVng5RGQwRVVSa2FTazFlZE1XdWNpenA0OHJSMmjSAcwBQVVfeXFMTy1Nb3JxM0VBekVVQWhJcWk2NmIteGhwUld1Zk10X3NSN3l6eW1PRTJzdnE1S0RINU5US0c5eFctYlJYbmhZTmRGT1dFR0lobzk2ZmFzbUpVejRoS2ZVRVlZRVVHOE9EYzRHUVl6SXNUcDl6aF80aE4wRE5RREVacjBjZ2tMUEEzZ3pHeE1RWmk3LVN6eXRweUR5U1VBY2g5MzJoZmRsbGZoM01VQWNVb2FMd2l4Wk16UHJiQ3JpOGEtSkZJZGhxTml4eUlw?oc=5",
+      "summary": "Meta’s new AI research chief says agents are next big real-world milestone South China Morning Post",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
       "company": "OpenAI",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
@@ -53,8 +77,8 @@
       "company": "Anthropic",
       "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
-      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
-      "badge": "new",
+      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ Chinese A.I. Models Close the Gap With Anthropic and OpenAI The New York Times Asian AI startups launch Mythos-like models as Anthro",
+      "badge": "hot",
       "date": "2026-06-28"
     },
     {
@@ -67,17 +91,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Opinion | The Real A.I. Race Isn’t America vs. China - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pc19aeWFjcDExazZvazdiaHh2c3d3Tmw2WGNFRS1BX0JCTDBZUUVKRXQ2dFRRRGp4UFZGR1BrdE1uM1dfVzhzcDNqSlhJNUxXbGcwdW9hbGdBZjZiaEgteGFoeTMyXzdfME1ZY3VfdldaZw?oc=5",
-      "summary": "Opinion | The Real A.I. Race Isn’t America vs. China The New York Times",
+      "title": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb25faXRlLXJybEd4VGk2OVRSWnJjR1hYQkl5NzdPd2hlcnRtWXJJaDV0UVZhdTFBVVc4UTZrbjIxM3dpSlhYZ2JHbDRWMVRFSFpCNHE0TkZQaV95aVdVZWQ4YXdNME5Fc0plOHpNY29fYjQwZXNKcDE3QXd4ZkFiMHZXSnVTVzhra0FwQnVOdEVXamd4dHZYRERHWktBNXRuSlo1dnpB?oc=5",
+      "summary": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? Fortune",
       "badge": "new",
       "date": "2026-06-28"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb25faXRlLXJybEd4VGk2OVRSWnJjR1hYQkl5NzdPd2hlcnRtWXJJaDV0UVZhdTFBVVc4UTZrbjIxM3dpSlhYZ2JHbDRWMVRFSFpCNHE0TkZQaV95aVdVZWQ4YXdNME5Fc0plOHpNY29fYjQwZXNKcDE3QXd4ZkFiMHZXSnVTVzhra0FwQnVOdEVXamd4dHZYRERHWktBNXRuSlo1dnpB?oc=5",
-      "summary": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? Fortune",
+      "title": "Opinion | The Real A.I. Race Isn’t America vs. China - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pc19aeWFjcDExazZvazdiaHh2c3d3Tmw2WGNFRS1BX0JCTDBZUUVKRXQ2dFRRRGp4UFZGR1BrdE1uM1dfVzhzcDNqSlhJNUxXbGcwdW9hbGdBZjZiaEgteGFoeTMyXzdfME1ZY3VfdldaZw?oc=5",
+      "summary": "Opinion | The Real A.I. Race Isn’t America vs. China The New York Times",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -99,6 +123,14 @@
     },
     {
       "company": "Meta",
+      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
+      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Meta",
       "title": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNNIBoAFBVV95cUxQcWRyNHVZQ3VZbGllcnlSRkF6YmtZNVh1NGo4QlI0T0pYcDA1Q3k5X292cElkMVo4Zm4zVkpaZm1Nb3ZJMFlDQ0k0WXAxMldiOWlEdG5ZYWZfdlZpd1RacFBLbGlQaEkwRTRuaUcyNzk1ZmlkOEVVNmcxQ1c0Qk9QZnBvTUZzTnJNN21PV0VsSUprUzBpd2JPYTZ2bUgtbEx5?oc=5",
       "summary": "Google limits Meta’s use of its Gemini AI models, FT reports CNBC",
@@ -107,9 +139,9 @@
     },
     {
       "company": "Meta",
-      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
-      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
+      "title": "Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVM0V1BZZlM0UWNYY0JWRUVWaEg4ZVJndE16ZWxlU1ZTWlhMSVJaT010cGdObWZFUXZtb253OUJUWU1zUU0xVjJlQU9TVG5ZendWZS03VWk2eDhtMmtQWEltQ2VmM0JROU1oWHROMVQzaUl5SXBUOUw4ZVR2SVdhTklLUmZMUnBOSDhPR29tREljWTluczVLVW5DOHhaNm9KdS1HUTJmMGw2eWNiNDBBZUV3?oc=5",
+      "summary": "Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ) Seeking Alpha",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -139,9 +171,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use - Bloomberg.com",
+      "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1VSZnJiMmlhMUJKbENJSDIwenoyd1IyeWczZzBDVDNNSDhNWW1zem9yVndQWVZ1V3Iya3plMnVEMXVxNVo1LXRtSHhKNXptQkEtOHh5NHFWc2w2OGhRczd0TXgwNG11QnlaNFBjNnB1N0lGby0wV1QxT3pNVmdKQ21ISmcyVHdsSnRlRDJ5ZGJSckZYemNral9PVmszWjIzUmxTekZuaEVnczhlQnlMQ0Q3SDE?oc=5",
-      "summary": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg.com Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies CNBC Anthropic’s Fable 5 to come ",
+      "summary": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies CNBC Anthropic’s Fable 5 to come back",
       "badge": "new",
       "date": "2026-06-27"
     },
@@ -330,22 +362,6 @@
       "date": "2026-06-25"
     },
     {
-      "company": "Meta",
-      "title": "Meta hires Virtue AI founders - Axios",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWVdvWFhrZGI2OWQ4NVV3OFZiZWpVZGdaMG5iWldfdXBoSWg4cmMxTTZWMkhoZDkzTDBIaHlnWm1xZGEzZWtzYjhRYWkyaHJJTEhYMHZyTzIwLXo1RVBRWUsxdTBqZllOOG8zM1hHZE9NdDVoSXFrQ0QtYw?oc=5",
-      "summary": "Meta hires Virtue AI founders Axios",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta reverses decision to reassign employees to AI training roles - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTjNhY09ydTM1S29mZkVHQWNtdWhENUZGTjRfVG0zNHdsYkcxM3YzdEhTSXZ3VEl3QTVfLUwxQXhtQzJ2Y2J3NFJtYzFJdjQwLXR4d1NYZGVRX1pza1RzT0NEaWtnY1YwdmczR2JGQkZTYTVqcFhfc0pFUVc5ZnlwV3hPX3hyMjhUM2pmdEpsZmJlSDFQd1p3TUdMb0lka0hFMW54bA?oc=5",
-      "summary": "Meta reverses decision to reassign employees to AI training roles Fast Company",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
       "company": "OpenAI",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -438,22 +454,6 @@
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts Incredible Cardano Price for Summer 2026 - icobench.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHM2bENMQUpBeGhSRUdMQXVqRTJTMHRNYUtlS3lndlVhN0E0ODNEWlZxcU42MkdNUTVZNktBenpFVUNSUHVBd1EyVEpyZmJOd2tVUUs0emVmUjF3Vl95ZmRmVDJFUUdKQmFxeUZaOUdXRExEcmVXbmpfM1JEajNqWXB4YVgyZFpCRldPcFVHTHFpei1T?oc=5",
-      "summary": "Perplexity AI Predicts Incredible Cardano Price for Summer 2026 icobench.com",
       "badge": "new",
       "date": "2026-06-22"
     },
@@ -563,17 +563,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
-      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
+      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
       "badge": "new",
       "date": "2026-06-02"
     },
