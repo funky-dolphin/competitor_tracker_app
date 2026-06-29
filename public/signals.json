@@ -1,11 +1,59 @@
 {
-  "updated": "2026-06-29T15:38:19Z",
+  "updated": "2026-06-29T19:49:54Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians - California State Portal | CA.gov",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5",
+      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians California State Portal | CA.gov Exclusive: Newsom, Anthr",
+      "badge": "watch",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5",
+      "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough The New York Times",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Google",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5",
+      "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading Microsoft",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzczVU1zbnlmb3FxT1B2a2dtWHlYSTliNGpmV1JBdXJpUk5zNFhGWFR4MDhvUVpBM1dDNHY0NUdzempPM2UtVzJhTzJDZnRtY2xYOV85YmFRMHpQTzNZRmR5aFVSMWFCVjhjWmp1QXpHT1pPbnJ5UXNaU2ZlZHhUc1pQVVJiMHp5WGlFb2dKYjNmRVc2eE0xRkxqMWRGZzdGZlhhRExsTjdiNVRkT2xMT0RWcl9HUQ?oc=5",
+      "summary": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZy1mOEstVmdzeThpTHdBdTdrLUFwbWFpemU0TlZKYzhneVVOR2VnQ0ZJNDluQ2VlVlNlZ1hMVHlFZ3IwTE1CRDloUVlSYlhOOFVBNU9waHhDZnpiLXVGUmR2YVk0WTJMUkkxRkY2OGtVaG1NbnAzZEpzWnU0YjVCVVg0bjB4WmZGX2dCMk55ZHphUkppYzVJb1F2VFRtSWt0Ni1PejdKc3VYbzhRQVN0TEl4c0JKYnJGWlE?oc=5",
+      "summary": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? GeekWire",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -51,9 +99,41 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity Shopping Is Nearing a $2B GMV Run Rate - thekeyword.co",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XWHhwdjhuZEtfOWFfYWhyVGNkNHVzR2IyWXVGVVhkTHlHM1p0Q2NxZkVjNHFRTy1yOFNhNU82cVRFRHRXVDlVQ3gzWWl3Ni1XQmxQNmY2emVPSE9oel9RbG1PZDc1a1Z4RG9IYzY2QUM?oc=5",
+      "summary": "Perplexity Shopping Is Nearing a $2B GMV Run Rate thekeyword.co",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Perplexity",
       "title": "Tech Mahindra Partners with Perplexity to Enhance AI-Powered Sales and Customer Engagement - CXOToday.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUF1YklDXzJVVzdsNF8zWkN2RUZlWkhBYUlTZEFyRjFxWjZrdlM4RTJpUkNqVG5oVHJhTEFjdDNHaW1nTmVUemtGSDBuNzlndGQ4dWI2T1JHTzNKbWF3cTJyNHNCSEdQbU9OS2xkd0lQY29XcHRjM1VmeGliMmZSZWtwcnhQekhZaGVmOGFYdjhkbklVbDV2eURYS3hlOVhDRGd6dDRFQ2VSRUZVUERyVm41RngtU09SM1JFbVZtYkRaWFNqVHc?oc=5",
       "summary": "Tech Mahindra Partners with Perplexity to Enhance AI-Powered Sales and Customer Engagement CXOToday.com",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Meta",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
+      "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery AI at Meta",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5",
+      "summary": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. Barron's",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEpSelctNTVTd1lGcHMyaDM4MlJ4X294UWJ3dXJGQ0EtNWpMNERGOWIyZ3JfQkZUblZFaE92ZENRUXlFTS1pM0xrWFpJRW1oUmdmeWwwTFROR1hZdHhqWlhKVml6d3JtY1lNaEFEMTA4Y2E1cXlMRVF2Yk9aa2FpVWNYZ3Y5QUw3UWE2bENFc1F0OHp5WGdRMTBSZUVRZm1VNkE?oc=5",
+      "summary": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots Engadget",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -74,6 +154,54 @@
       "date": "2026-06-28"
     },
     {
+      "company": "Anthropic",
+      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWpqalNvdnhQN21nTk1HaGRRaXliTFdPWlVhem85ZHAwX2JLMENOWXRmT0t0a2IxQ0dsakJSTXdwRFJTTVpDUEZQSGR1cFphMFFxT0p5OWRXZnBvMERWWFhWUE9oOEFoUWdWYkltTFhJV2doUE12WnN3QmRYV2o4VUpuRXZEeEpPYVdTNmd4Wm1GQUh2b3dxYmVoTGNQRzA?oc=5",
+      "summary": "China’s Z.ai claims it can match Mythos on cybersecurity The Verge",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
+      "summary": "Austria urges Europe to host Anthropic following US curbs on AI access Reuters",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb25faXRlLXJybEd4VGk2OVRSWnJjR1hYQkl5NzdPd2hlcnRtWXJJaDV0UVZhdTFBVVc4UTZrbjIxM3dpSlhYZ2JHbDRWMVRFSFpCNHE0TkZQaV95aVdVZWQ4YXdNME5Fc0plOHpNY29fYjQwZXNKcDE3QXd4ZkFiMHZXSnVTVzhra0FwQnVOdEVXamd4dHZYRERHWktBNXRuSlo1dnpB?oc=5",
+      "summary": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? Fortune",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion | The Real A.I. Race Isn’t America vs. China - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pc19aeWFjcDExazZvazdiaHh2c3d3Tmw2WGNFRS1BX0JCTDBZUUVKRXQ2dFRRRGp4UFZGR1BrdE1uM1dfVzhzcDNqSlhJNUxXbGcwdW9hbGdBZjZiaEgteGFoeTMyXzdfME1ZY3VfdldaZw?oc=5",
+      "summary": "Opinion | The Real A.I. Race Isn’t America vs. China The New York Times",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnlRTk55LThKOG9OY0NWMTNmTWJjYVdSRi1wLXRpU1FBX1F4MEpXYkt5c3JfUUVkdEx5WWd5a2tmQW5oZDBCTmdEU25HZzBRVHo0aXN1SUVZYVhOQmlORTBkcUFZTFc1OTdQbmxRcVBJaXM1Wk40ZTM0NGpOaGJFRTFYQXlaRmIteHFpRXIwS08zQUhPaG1fLVhWaXEzSURTd0U2LXlzb1NlTGVxdEE?oc=5",
+      "summary": "Austria Lobbies EU to Host Anthropic After US Access Curbs Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
       "company": "Perplexity",
       "title": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2F2MWF2ZC1oaUlobGFxVFVnTnZkZTJlSjBTMktEckJfeXFhclZscnF5Q0EzY2pkck9mQlRCMl9yV2Zib0VyV1o0ZlQ4Smk1ODhqN2lnb3htNjZJVkN0UzltOFBwdTh6ZHhONUw5VUlGQzZnWjBabWhKeGFqcDlqT3FFeXpyai1nNGFqbVVoNE5zbGx6dWlQLU04aXM4TEt5NVVEcnJFUV9KRUxYTWxieElnZ3FXb0VIbXc5bWxLZTkwSUFkcThKMGlvTlNva0VLdktXcW1Xd0dLT05TUzhjYlB3?oc=5",
@@ -83,17 +211,17 @@
     },
     {
       "company": "Meta",
-      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
-      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
+      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNNIBoAFBVV95cUxQcWRyNHVZQ3VZbGllcnlSRkF6YmtZNVh1NGo4QlI0T0pYcDA1Q3k5X292cElkMVo4Zm4zVkpaZm1Nb3ZJMFlDQ0k0WXAxMldiOWlEdG5ZYWZfdlZpd1RacFBLbGlQaEkwRTRuaUcyNzk1ZmlkOEVVNmcxQ1c0Qk9QZnBvTUZzTnJNN21PV0VsSUprUzBpd2JPYTZ2bUgtbEx5?oc=5",
+      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports CNBC",
       "badge": "new",
       "date": "2026-06-28"
     },
     {
       "company": "Meta",
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNNIBoAFBVV95cUxQcWRyNHVZQ3VZbGllcnlSRkF6YmtZNVh1NGo4QlI0T0pYcDA1Q3k5X292cElkMVo4Zm4zVkpaZm1Nb3ZJMFlDQ0k0WXAxMldiOWlEdG5ZYWZfdlZpd1RacFBLbGlQaEkwRTRuaUcyNzk1ZmlkOEVVNmcxQ1c0Qk9QZnBvTUZzTnJNN21PV0VsSUprUzBpd2JPYTZ2bUgtbEx5?oc=5",
-      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports CNBC",
+      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
+      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -131,54 +259,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
-      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ Chinese A.I. Models Close the Gap With Anthropic and OpenAI The New York Times Asian AI startups launch Mythos-like models as Anthro",
-      "badge": "hot",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
-      "summary": "Austria urges Europe to host Anthropic following US curbs on AI access Reuters",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb25faXRlLXJybEd4VGk2OVRSWnJjR1hYQkl5NzdPd2hlcnRtWXJJaDV0UVZhdTFBVVc4UTZrbjIxM3dpSlhYZ2JHbDRWMVRFSFpCNHE0TkZQaV95aVdVZWQ4YXdNME5Fc0plOHpNY29fYjQwZXNKcDE3QXd4ZkFiMHZXSnVTVzhra0FwQnVOdEVXamd4dHZYRERHWktBNXRuSlo1dnpB?oc=5",
-      "summary": "Anthropic’s Alibaba fight raises a trillion-dollar IPO question: How defensible is frontier AI? Fortune",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Opinion | The Real A.I. Race Isn’t America vs. China - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pc19aeWFjcDExazZvazdiaHh2c3d3Tmw2WGNFRS1BX0JCTDBZUUVKRXQ2dFRRRGp4UFZGR1BrdE1uM1dfVzhzcDNqSlhJNUxXbGcwdW9hbGdBZjZiaEgteGFoeTMyXzdfME1ZY3VfdldaZw?oc=5",
-      "summary": "Opinion | The Real A.I. Race Isn’t America vs. China The New York Times",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnlRTk55LThKOG9OY0NWMTNmTWJjYVdSRi1wLXRpU1FBX1F4MEpXYkt5c3JfUUVkdEx5WWd5a2tmQW5oZDBCTmdEU25HZzBRVHo0aXN1SUVZYVhOQmlORTBkcUFZTFc1OTdQbmxRcVBJaXM1Wk40ZTM0NGpOaGJFRTFYQXlaRmIteHFpRXIwS08zQUhPaG1fLVhWaXEzSURTd0U2LXlzb1NlTGVxdEE?oc=5",
-      "summary": "Austria Lobbies EU to Host Anthropic After US Access Curbs Bloomberg.com",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Startup founders and recruiters share what gets candidates hired — and what gets them ignored - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHg0UzBTc2x5OWZnR1lhLVlORnVBODJXZWE1MmNjZk14NF9qREVvbnMtdWRpcy1vM1NJYzluWk45MXYyNGhDWFBud2lUTHlKcUY0V0NQaTYtY2lCZFJ2VHR5RnlLem1kUUZqS09yeTlpYk5PeWNsai1rR0VVdW9PcGo2OWk2UUdCY3NlbHZLTENHMXZFbTFv?oc=5",
-      "summary": "Startup founders and recruiters share what gets candidates hired — and what gets them ignored Business Insider",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1VSZnJiMmlhMUJKbENJSDIwenoyd1IyeWczZzBDVDNNSDhNWW1zem9yVndQWVZ1V3Iya3plMnVEMXVxNVo1LXRtSHhKNXptQkEtOHh5NHFWc2w2OGhRczd0TXgwNG11QnlaNFBjNnB1N0lGby0wV1QxT3pNVmdKQ21ISmcyVHdsSnRlRDJ5ZGJSckZYemNral9PVmszWjIzUmxTekZuaEVnczhlQnlMQ0Q3SDE?oc=5",
       "summary": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies CNBC Anthropic’s Fable 5 to come back",
@@ -190,30 +270,6 @@
       "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5",
       "summary": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns CNN Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg US close to allowing Anthropic to",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack - The Information",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekhLUHlFVHFGTHVxaTF3WTdMZkdCT3lQMjhPNTRzb3JBa2tLa2lId3Q1Z3FPZ2VlNmlYNkdBdHk0MWRHQXlLOEpnZkdSUVh6Z3ktU2R2Z2tzOG9JUzZJVk9LRVlSalkya0FXTlpTOC1tSG90MTdWUk8wdmtBQjM5YmhUMkdfandUSXg0THVEajhyR0N1RXJr?oc=5",
-      "summary": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack The Information",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump Administration Rolls Back Part of Anthropic Model Ban - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGZpd2NnX3g4ODJaZWhGZ2sxNWxnU0Nfd096c1JwVHdtb3hZQnJZS1lEODlQN3FjUUFxOWY4aHJLWUZYNmNKMG9yUU5yLUVCUFlxSTRoMFdHbF83anhWWE45dHJUNmYzWTVfT212LVRBOWdhSzRZYWVOWkVQb3dpWlVKa1hSYlJPTmwzUUJrVFBjSVpEM0NHTjhGNDU?oc=5",
-      "summary": "Trump Administration Rolls Back Part of Anthropic Model Ban WSJ",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump administration imposes restrictions for Anthropic to halt access to 2 AI models - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2JHY21RRG1jVEJUTnZETkpjZkdySW9zZHRnUC1paGtrbkZ1VkZMcW1DejhHeGVIMjZPUmVmNlNvWnhOTHBzNWN0QXRsZjd0R1JqWWdfMlc3Vm95aXVEcmZXNEEzdHhFeTVzYTl6aC11OENKNU1PODhmTVZMQ1lxU01fV21rUDNubG9jMzdOVDdHeEg1WGZhLUZjYVBfQlp3RldPcFplUXRzNGRHbEpFbjhPWWNyWmZ4ekxEbW8taUZQSWthaGpsMmR3?oc=5",
-      "summary": "Trump administration imposes restrictions for Anthropic to halt access to 2 AI models NPR",
       "badge": "new",
       "date": "2026-06-27"
     },
@@ -234,6 +290,14 @@
       "date": "2026-06-27"
     },
     {
+      "company": "Perplexity",
+      "title": "Startup founders and recruiters share what gets candidates hired — and what gets them ignored - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHg0UzBTc2x5OWZnR1lhLVlORnVBODJXZWE1MmNjZk14NF9qREVvbnMtdWRpcy1vM1NJYzluWk45MXYyNGhDWFBud2lUTHlKcUY0V0NQaTYtY2lCZFJ2VHR5RnlLem1kUUZqS09yeTlpYk5PeWNsai1rR0VVdW9PcGo2OWk2UUdCY3NlbHZLTENHMXZFbTFv?oc=5",
+      "summary": "Startup founders and recruiters share what gets candidates hired — and what gets them ignored Business Insider",
+      "badge": "new",
+      "date": "2026-06-27"
+    },
+    {
       "company": "Amazon",
       "title": "Residents express alarm over Amazon Ring feature - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEdZNnVUVmtVcWVMTGY0cUJxQlQ1NmYyU1EzbXpnY3Z6aUR4c0R6RnJySVdzNkhyVDlYcHJ2NmptMmlHQjh0MWJ4ZXdpS1lBUzVJQW9WWkxMOTRQSzM0U0NuNW9ZdllrbVhWN1hVSXlxVGt3RlhGcmxIelFCeThGSDVUdUtDb3l0eUtZejFqM2JDWHJO?oc=5",
@@ -246,22 +310,6 @@
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "badge": "new",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will? - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGFXZU5JaDNvd0g2eUExS2JzaVFabHYtZHYwbGNoNm0wdndqdkNMNnc5TUJqQm1yeUVCaXctemljTk9RNXEtR3c3LWR0SDJqNC11d0ZZcWMwUkgtT19yTlRVUVpyQ3NrbkRfUV9zZmkxLUc2UGg5WW9BX3I1cklhMnd6Vkk1UEpfTXVpaXg5c01KNXFfdUNud3cydVV6R0dhUVQ1eWdYMENEdUdCTHRsUXVHemhqbDA?oc=5",
-      "summary": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will? CNBC",
-      "badge": "new",
-      "date": "2026-06-26"
-    },
-    {
-      "company": "Meta",
-      "title": "An REI Ad Went Viral for All the Wrong Reasons. The Company Says Meta AI Is Responsible - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmdJem9VTzhjTkZTclhVOTIxbE1SUGpScmduVTIxYlFoVzNReHcySHZnQk1NN2h0cE5FNVdaZWxRUEQwSGZFVHdONk5Gb1p5WTV6WVdQSUIwRzRHaHloMDNtSFJXTmtfY1ZxclhYczRRSkJ2SzFyM29PUFA0Wk9Nay1wOXNHWjgzR1JxTnl3OHhwQURPQl9Ba1RWZzRKZmZ2ekExUVEtNjJQOGota0k1LU1lNnhkandoSDBveHkxZUNLbjlOei1TQw?oc=5",
-      "summary": "An REI Ad Went Viral for All the Wrong Reasons. The Company Says Meta AI Is Responsible inc.com",
       "badge": "new",
       "date": "2026-06-26"
     },
@@ -298,30 +346,6 @@
       "date": "2026-06-25"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1pJd19ZNjVXZUVaM3BMeHpqeWVLMEw2UWNGcGVZaHRLb2M1RU5MRHFFeFZMRm0yZjUyaHBKT3pWVnppSnM5cWFFN3RLUHc3Mmx2ZFRXS0o5ZEZPLTQ0SWRMQ1hzME9NQVFjc3pBTF9PY3ZJSTZLYUg4dTd1VGZtejNjWU1GS25vTDgyVEJfMjBsWEhxaHp1WXM1eU91UXYtTGFKdEFTR3VobEoyYzYtVi16Z3lURWZVdDBCTlYxNHpZbXFPVzNweENETQ?oc=5",
-      "summary": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event LawSites",
-      "badge": "hot",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOS1zX2xiZ3V6VHk3S3F3aTYwRWZ6NjNFSHJWWmpjMkRLTF9NbUZIdldSSDUtR0l3UkxwaWpJQ0x1WjNHbmlDM254TjJSWW9mcTBCREFNOXM3TGRuSlg2Tkc2UlBLYnk2YzJaY2JpMnQ5b01odUxFbUtJRGlfOHByMWxJcHN1YnQ4bE5TS1hOSGFPQmx3MXpCRkVGZTVFTHlMYUJscE9oSDVuaWFEdnhJNXJwLVB1QjI5M0dEWGwxUzdGZ1FDRTNoLQ?oc=5",
-      "summary": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch Law.com",
-      "badge": "hot",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Kylie Jenner’s Meta AI glasses spark online debate - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHalB2eXRSeENDZTI2VVBMeDgxRk4wb1RGa1haLVlsZm1zWmw0YU1fV0NJbHZJV296andmWmZwZU5xbE4wN2I2R0paSkhMU2xOclg0N0lKN1ktWXpqUjFoWEpHYmdlNWE0cDFBa1AxbC1pUQ?oc=5",
-      "summary": "Kylie Jenner’s Meta AI glasses spark online debate Mashable",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
       "company": "Microsoft",
       "title": "AI in financial services: Bringing trusted data into the flow of work - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOenhEd0tZUFRKMF9abmJhT1lxY0pKaFJEbVc5a1A4LXhrbGx1T0ZfbVZWMHd0TFBMWXpvR0J5WHI5d3dwbWVEQk0tU3RQWUdiZzRXLW0wa1Zid2RvTjRsZHZtQzBLZkkzV1FmUkxlMW1XQzVLd0FzLVNMYTl4THBTTlAydUxHSzlYQ1N6RkFNTEVFTG5vanZEeU5ibF94aE1jRU5DTWZvQmhwNUVkakwzcF9YUWV4b1NzTjhiM0FfMndSQzRCQjVVSXJJcjA4bzRYWl9EaGhxU0xVUVlGNmRZbUZXQ3kxczg?oc=5",
@@ -346,19 +370,19 @@
       "date": "2026-06-25"
     },
     {
-      "company": "Microsoft",
-      "title": "Is \"fair use\" enough to save Microsoft and OpenAI from the courtroom? - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkpDbFpZcDRaWkNXUmxvMEw0dktpM1c4V0V3Z2o1Si11ZzNjZW5EaU9LdEdTcW1kZVBxU3Vwa1ZBSlZBdDlxaGJoWUZsU1RkRHpKQVpLRlY1OXZWRUdLWFdCVGlXdWxRcnJTMWhqVFhEbzBkVGt0N21MblBzZVByQy1yRXkxZzVUN29DRHNfWmtCQUdmVXdqNXFueUcyV1pQRDRZWU85YkxHM0w4YlFJbw?oc=5",
-      "summary": "Is \"fair use\" enough to save Microsoft and OpenAI from the courtroom? Windows Central",
-      "badge": "new",
+      "company": "Perplexity",
+      "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1pJd19ZNjVXZUVaM3BMeHpqeWVLMEw2UWNGcGVZaHRLb2M1RU5MRHFFeFZMRm0yZjUyaHBKT3pWVnppSnM5cWFFN3RLUHc3Mmx2ZFRXS0o5ZEZPLTQ0SWRMQ1hzME9NQVFjc3pBTF9PY3ZJSTZLYUg4dTd1VGZtejNjWU1GS25vTDgyVEJfMjBsWEhxaHp1WXM1eU91UXYtTGFKdEFTR3VobEoyYzYtVi16Z3lURWZVdDBCTlYxNHpZbXFPVzNweENETQ?oc=5",
+      "summary": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event LawSites",
+      "badge": "hot",
       "date": "2026-06-25"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Excel Adds New Financial Connectors and Reusable Copilot Skills - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1JRZVRIa3FDTnRGTkdXanZOalRUaDc1SGtxcEhYaTNJLVduZkZUbFV0bVk4V295WXhpcWdrUUM1WFpxa1pQSlBtbHAyUE1XalI4WVMzU1RPTjRWc1ZiOUt0SzdUVTBMMXAwNVVVNnhXV2RZSVZhTlEzMG5feGZKQVpHNmZMTzA5eGRMYm1NNHBWUnlWWDJ4Q094aUNwc1BoaTJVZDh2OUY3cENfUHc?oc=5",
-      "summary": "Microsoft Excel Adds New Financial Connectors and Reusable Copilot Skills Thurrott.com",
-      "badge": "new",
+      "company": "Perplexity",
+      "title": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOS1zX2xiZ3V6VHk3S3F3aTYwRWZ6NjNFSHJWWmpjMkRLTF9NbUZIdldSSDUtR0l3UkxwaWpJQ0x1WjNHbmlDM254TjJSWW9mcTBCREFNOXM3TGRuSlg2Tkc2UlBLYnk2YzJaY2JpMnQ5b01odUxFbUtJRGlfOHByMWxJcHN1YnQ4bE5TS1hOSGFPQmx3MXpCRkVGZTVFTHlMYUJscE9oSDVuaWFEdnhJNXJwLVB1QjI5M0dEWGwxUzdGZ1FDRTNoLQ?oc=5",
+      "summary": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch Law.com",
+      "badge": "hot",
       "date": "2026-06-25"
     },
     {
@@ -402,14 +426,6 @@
       "date": "2026-06-24"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVLY1dSR0xzRjc2d2piNlQ0Z0xyNTEtNmN3bUxablRTVUd6aW5EMUNxOWZsbERsRGRNdEV0M3BFZV9idEQtV3JNNkdVZm9CRWlCd1QwZGlwSWxsQ3VLa2NFTEswd3N1bVU3a1NwejZ5akRhY3loT0VnekFMN0ZVeFRNZGE2N0RxYnVKMjlfNGtXVTgyaW1ZMllNSV9nNjU3Y1Y1dlNPcC1xR2NoQVpfdHZOdmo?oc=5",
-      "summary": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools Bloomberg",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
       "company": "OpenAI",
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -430,14 +446,6 @@
       "title": "How Omio is building the future of conversational travel",
       "url": "https://openai.com/index/omio",
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "Perplexity",
-      "title": "As some students sour on AI, companies are paying their classmates to change their minds - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckVLZjRPOFg1dU42M19RQ2VkVm5CaFIzV2ZlbUZ5Wkpwa0pOOUg5M2NodElIWU9zUWJwbVNlOVBqVmh2Smw0VnlTQy1taTVYMVNiM3B6TXRxaHpFUGFKdVFaUFpUTDljTUNFRzNzTkY4UEdnVXpMZHE1OHdvcUw1aE9IRE51RVZ5ODg0UzNvT295MEE3bl92VGZGMkFpc21jRXdTS191NGE1LTBFT0NsOWNWWjJqSlE?oc=5",
-      "summary": "As some students sour on AI, companies are paying their classmates to change their minds NBC News",
       "badge": "new",
       "date": "2026-06-23"
     },
@@ -563,17 +571,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
-      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
+      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
       "badge": "new",
       "date": "2026-06-02"
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     },
