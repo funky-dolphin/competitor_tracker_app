@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-29T19:49:54Z",
+  "updated": "2026-06-30T02:50:28Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
     {
       "company": "OpenAI",
       "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -13,7 +53,7 @@
       "company": "Anthropic",
       "title": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians - California State Portal | CA.gov",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5",
-      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians California State Portal | CA.gov Exclusive: Newsom, Anthr",
+      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians California State Portal | CA.gov Anthropic and Gov. Newso",
       "badge": "watch",
       "date": "2026-06-29"
     },
@@ -22,6 +62,22 @@
       "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5",
       "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough The New York Times",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The Briefing: AI for Science - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbm5oWi02TE93S3FObHowMk9MUkRxS0NvWnpOcHZWd3UyQWhPN3g3OFE0WERWckpQa2U3T3dyQ2tCWm9Qcy15bWd1OTNQTTJvMHM4ZDNuNDkzNWpXRWt2STRqSzBhZTNocGpxYg?oc=5",
+      "summary": "The Briefing: AI for Science Anthropic",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Internal Docs Show Meta Putting Limits on Claude and Codex, Fearing Distillation - The Information",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2NDbVoybGJjYWVlU3h5RlFQeWptOWttdTk0d1BqdFNKT19nZzJZX0p3V0FwS1NKRTJwRkdaZlZhVWNGM0dlbmRKOTF4WDdRYkdNemN5NWUyYU9OWjhDUTY2QlMxZXBseGpHV3VvRVNOeF9hVk81b08tNlBuWm5oV2FnOXRnRzlZbUtpa1hKcE9PY1dNTE5Rb2ZJTjhXLUtSamRjQ1FSWnpKUUo0aG9PRTRR?oc=5",
+      "summary": "Internal Docs Show Meta Putting Limits on Claude and Codex, Fearing Distillation The Information",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -35,9 +91,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5",
-      "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading Microsoft",
+      "title": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZy1mOEstVmdzeThpTHdBdTdrLUFwbWFpemU0TlZKYzhneVVOR2VnQ0ZJNDluQ2VlVlNlZ1hMVHlFZ3IwTE1CRDloUVlSYlhOOFVBNU9waHhDZnpiLXVGUmR2YVk0WTJMUkkxRkY2OGtVaG1NbnAzZEpzWnU0YjVCVVg0bjB4WmZGX2dCMk55ZHphUkppYzVJb1F2VFRtSWt0Ni1PejdKc3VYbzhRQVN0TEl4c0JKYnJGWlE?oc=5",
+      "summary": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? GeekWire",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -51,57 +107,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZy1mOEstVmdzeThpTHdBdTdrLUFwbWFpemU0TlZKYzhneVVOR2VnQ0ZJNDluQ2VlVlNlZ1hMVHlFZ3IwTE1CRDloUVlSYlhOOFVBNU9waHhDZnpiLXVGUmR2YVk0WTJMUkkxRkY2OGtVaG1NbnAzZEpzWnU0YjVCVVg0bjB4WmZGX2dCMk55ZHphUkppYzVJb1F2VFRtSWt0Ni1PejdKc3VYbzhRQVN0TEl4c0JKYnJGWlE?oc=5",
-      "summary": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? GeekWire",
+      "title": "Italy Investigates Microsoft 365 Price Hike Tied to Copilot - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVRoSS1TWW9naTdZWjVNblRWUjZTd2syeEw3UWZwaUtMYkdMOXhfcllZcnlPa2EtbUphZ2Npc01fTkV6bFlxQ081OERZSjBnbThQLXBsVUtHUE1waEtLR1JsQzUtekRwMUF6YXJlRnFRZEZvbjUxRHdHb2FHZWZHVEk0Wi0?oc=5",
+      "summary": "Italy Investigates Microsoft 365 Price Hike Tied to Copilot TechRepublic",
       "badge": "new",
       "date": "2026-06-29"
     },
     {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "company": "Microsoft",
+      "title": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5",
+      "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading Microsoft",
       "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
       "date": "2026-06-29"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Shopping Is Nearing a $2B GMV Run Rate - thekeyword.co",
+      "title": "Perplexity Shopping is Becoming a Commerce Channel - thekeyword.co",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XWHhwdjhuZEtfOWFfYWhyVGNkNHVzR2IyWXVGVVhkTHlHM1p0Q2NxZkVjNHFRTy1yOFNhNU82cVRFRHRXVDlVQ3gzWWl3Ni1XQmxQNmY2emVPSE9oel9RbG1PZDc1a1Z4RG9IYzY2QUM?oc=5",
-      "summary": "Perplexity Shopping Is Nearing a $2B GMV Run Rate thekeyword.co",
+      "summary": "Perplexity Shopping is Becoming a Commerce Channel thekeyword.co",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -227,17 +251,17 @@
     },
     {
       "company": "Meta",
-      "title": "Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVM0V1BZZlM0UWNYY0JWRUVWaEg4ZVJndE16ZWxlU1ZTWlhMSVJaT010cGdObWZFUXZtb253OUJUWU1zUU0xVjJlQU9TVG5ZendWZS03VWk2eDhtMmtQWEltQ2VmM0JROU1oWHROMVQzaUl5SXBUOUw4ZVR2SVdhTklLUmZMUnBOSDhPR29tREljWTluczVLVW5DOHhaNm9KdS1HUTJmMGw2eWNiNDBBZUV3?oc=5",
-      "summary": "Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ) Seeking Alpha",
+      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGFVZEVKcTJqU3VyQXBCcWVXR1dhY0ZHajFJZG0waWJfMkY3Vmgyc042SkdNWUVOY2lva1RwY1p5c1ZkbEs4eUVfSXZFTFlhd3cyaEFSSHROYWpIY0N0aTBDdGhBWDhJUk5icTMySlc4c2hMRlhJR3R0bm5hUHRLUUpUREIyWnpzV0xoNnZkUHZqTnRCb09vY3NRSmxNc1N2akJNN0dvbE45Vi1yN3NV?oc=5",
+      "summary": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports Bloomberg.com",
       "badge": "new",
       "date": "2026-06-28"
     },
     {
       "company": "Meta",
-      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGFVZEVKcTJqU3VyQXBCcWVXR1dhY0ZHajFJZG0waWJfMkY3Vmgyc042SkdNWUVOY2lva1RwY1p5c1ZkbEs4eUVfSXZFTFlhd3cyaEFSSHROYWpIY0N0aTBDdGhBWDhJUk5icTMySlc4c2hMRlhJR3R0bm5hUHRLUUpUREIyWnpzV0xoNnZkUHZqTnRCb09vY3NRSmxNc1N2akJNN0dvbE45Vi1yN3NV?oc=5",
-      "summary": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports Bloomberg.com",
+      "title": "Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVM0V1BZZlM0UWNYY0JWRUVWaEg4ZVJndE16ZWxlU1ZTWlhMSVJaT010cGdObWZFUXZtb253OUJUWU1zUU0xVjJlQU9TVG5ZendWZS03VWk2eDhtMmtQWEltQ2VmM0JROU1oWHROMVQzaUl5SXBUOUw4ZVR2SVdhTklLUmZMUnBOSDhPR29tREljWTluczVLVW5DOHhaNm9KdS1HUTJmMGw2eWNiNDBBZUV3?oc=5",
+      "summary": "Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ) Seeking Alpha",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -256,22 +280,6 @@
       "summary": "Google limits Meta’s use of its Gemini AI models, FT reports Reuters",
       "badge": "new",
       "date": "2026-06-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1VSZnJiMmlhMUJKbENJSDIwenoyd1IyeWczZzBDVDNNSDhNWW1zem9yVndQWVZ1V3Iya3plMnVEMXVxNVo1LXRtSHhKNXptQkEtOHh5NHFWc2w2OGhRczd0TXgwNG11QnlaNFBjNnB1N0lGby0wV1QxT3pNVmdKQ21ISmcyVHdsSnRlRDJ5ZGJSckZYemNral9PVmszWjIzUmxTekZuaEVnczhlQnlMQ0Q3SDE?oc=5",
-      "summary": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies CNBC Anthropic’s Fable 5 to come back",
-      "badge": "new",
-      "date": "2026-06-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5",
-      "summary": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns CNN Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg US close to allowing Anthropic to",
-      "badge": "new",
-      "date": "2026-06-27"
     },
     {
       "company": "Microsoft",
@@ -358,14 +366,6 @@
       "title": "Copilot in Excel: Built for the era of Frontier Finance - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1cySGtaUU5Pc01ucVhnMTZjVVphc2NtdVQxbnBzQUplU2w2MWhrdE5OeDNLZ2NKTEtOeV9pVVFxc1Z0MmFDSzV6ZXBHUVJPdWpqR09TeFI1aXNZNGg0YXZKUnl3N1prNnF4ZW82bDdHXzhGdmpjb3BvdmNmZ18wUGVScTZoMFozRUExUV9DbzJseDc4cjc4ZUFJNjR6X2ZOQ1g0a2hnWDdKUnllN3l6dV81eGU5a0o3?oc=5",
       "summary": "Copilot in Excel: Built for the era of Frontier Finance Microsoft",
-      "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Cybersecurity News: Copilot AI attacks cybercrime tools, hackers exploit Cisco zero-day, China’s 360 vs Mythos - CISO Series",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTRmak9tSUdtd3FVdUR3akVwa1NRbVBueTFaNXMwXzlqU0tsU3VKeVA0RjBNckx4VUR4Rk1lUU9VRzA4OTdDTXdUckNjZUpzTURyNEdLRXdpckFqS1hsOHRjemlQXzdGWXVXWXIwbVFNWVN6WThXcG5KR3RPWl9PcUpFVHpyWnpwc05YSF9DTEd1c1ZHZE1URDBKQTBJYUNzMV9ERWlHOURwRnItUV93UVpDRzBJdjlOc2s3cUNubV95WHIwS1labTBn?oc=5",
-      "summary": "Cybersecurity News: Copilot AI attacks cybercrime tools, hackers exploit Cisco zero-day, China’s 360 vs Mythos CISO Series",
       "badge": "new",
       "date": "2026-06-25"
     },
@@ -571,17 +571,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
-      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
+      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
       "badge": "new",
       "date": "2026-06-02"
     },
