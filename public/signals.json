@@ -1,11 +1,75 @@
 {
-  "updated": "2026-06-30T14:07:39Z",
+  "updated": "2026-06-30T19:47:34Z",
   "signals": [
     {
+      "company": "OpenAI",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
       "company": "Anthropic",
-      "title": "White House AI crackdown opens door for Chinese model makers to close gap - CNBC",
+      "title": "Introducing Claude Sonnet 5 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+      "summary": "Introducing Claude Sonnet 5 Anthropic",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches cheaper Claude Sonnet 5 model, as tech searches for AI savings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeG5qOHVQUUc5TG9SRUszU2RNZUszUXRCWHVmQmpiZExOZFNuaTZNLTgzZElxSUxfZk5najZrbkhJVG9FUlE5bURVUGtUY01aQ3ZlNWdrZmJIbFI2ZGNVUUVCUjNaUzlVRGFyVWJjTXlPVjBDTU9HbGQtU3NGMDZlN1J3UWJFNXp6UlpSQURRSUwwcHYzLW40bG04ckJsU2wwVF84NVBhR1FJbWdBZi1qWnhlY0tuSTZjTlNZSWFIRVQ1YW9TZFVRNnJZRmktcDJjWWJvNEo4RQ?oc=5",
+      "summary": "Anthropic launches cheaper Claude Sonnet 5 model, as tech searches for AI savings Yahoo Finance",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic debuts Claude Sonnet 5 for everyday agent tasks with lower cyber risk - Axios",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54aHlfc2x0VlczYlVoU0FjWFFqVWhUSDJsM3RIaXNSbWpsUS1FX3VCdjdvb3Q2QmV1RXA4RF8yeVNBSFdKZDA1eGZQT21RWDF5UHRpcVI5dXVuakgtNWNyVV9qWndnZlpTd0d1Qk5CMG40blpzMEpzb2hYUQ?oc=5",
+      "summary": "Anthropic debuts Claude Sonnet 5 for everyday agent tasks with lower cyber risk Axios",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches Claude Science in flashy debut with pharma heavyweights - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekJkRU1nWTZJQzMzdW9DYjdvUFltam5mSEdDNUgzbTlZNW9ub2lCaHBjOEk4TGtnM2tlT2tlZHEtWHlnUm81SWk5VGl4NVU2Qk5NakNVN1VSOTFCaklSQ2I0YjJTbC11dVFLQUNza3VZbDVYQ0Z3V2d4bHlqMndfbU9CRlV1d08ycW1JUQ?oc=5",
+      "summary": "Anthropic launches Claude Science in flashy debut with pharma heavyweights Endpoints News Claude Science, an AI workbench for scientists, is now available Anthropic Anthropic releases Claude Science, ",
+      "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump administration's AI crackdown opens door for China to close gap - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eW1BR2s2ZmN6emZhR3lhU0Fld2pPbnhHdjYwTE0ydlNpLVpVdXQ4bWtQcnJHN3VibXNaTHdWd0dlQmdoTk1RaWR3clFzVVg3bENvbFNtSXJtUll5dFFyanhITUcydHdoeE51bmNIYlZBVUU0MFHSAXtBVV95cUxOb2FoUmJLOXA5RlRJM21Ia3hIbEtRbzktc2t2a0ZIMVByZjhNb3Azem9OU0J0bzlKTXZ2Yy0wc21vZ0E2MkZrMHdoM09QZDBHdDJNZ0lXalhwNEVYaE1UeFpzRkh5eV9WMkprM21PR2ZubWMwZWpiMEpHX1U?oc=5",
-      "summary": "White House AI crackdown opens door for Chinese model makers to close gap CNBC",
+      "summary": "Trump administration's AI crackdown opens door for China to close gap CNBC",
       "badge": "new",
       "date": "2026-06-30"
     },
@@ -30,6 +94,14 @@
       "title": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix - infoq.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RYy1ycXdTc19sdER2M0c4SE5wOWprcEVod2hFS3d2X2c2Rmc1WlJneWNlREhlekZMX29ma094M0VieGVIMG1kWTVfa0Z6Rlp0ZUd3aGVsb2tlWDVDY2hHSHptamNnUHRsNkxGcUliTl8?oc=5",
       "summary": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix infoq.com",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
       "badge": "new",
       "date": "2026-06-30"
     },
@@ -74,6 +146,38 @@
       "date": "2026-06-30"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity AI — Latest News, Reports & Analysis - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ULUlDbEh4eUZtX1pDajR2VjVsZlJ3RXU4Z1VuTjZ6TG9pdFFFanJkdksyWGtjNjRsekpBdHRiSkRKV0pFd2ZlUC1lNFpab0RsWFlBMUsybktNclgyZ0pWSkUwM2w?oc=5",
+      "summary": "Perplexity AI — Latest News, Reports & Analysis The Hacker News",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Fake Perplexity extension on Chrome Web Store tracked searches - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0hTOW9NQVBZbGZhVGVFZ2hJcEZ1VTZJV3RRQUV5S2U1RTFVVXJUcDVMS0lKMnpESlI0Um9QcFlCVkZ5ejZoenRLVjQ4cjFGdWZoY2tpMWM2MkdhZTFxSUlEUDNJZDVHZnBlVHhaZmNuYjQ0ZWc2ZEp6MGRpbGVxRVpCUV92RU1teUxxUm43ejhaNjktOXM4czN2dUJSS3BGa3pVOXZRNDFMOGZfNmZZ0gG0AUFVX3lxTFBsUk1DTTExR1lZM00yWEt6ZnVNUGhfSXNQMGE3V1pnaVpoaWpHbDh0RjV5THVYNnI5YkZHLWdHR0pBREdfaV9jR00yUi1KY1N5OXB0dTNNeWhwZndNc2VVSHFjX2lmSktyUVh6MDR6czVxZ1ZucDI1TTZjTzJXVTRoY2k5WVFvVXBBZlUyMGVIWTc5R1p4RHV6VzcxamFKOWFWRm9zc3VqT1FxRjNieWZrX3pKUg?oc=5",
+      "summary": "Fake Perplexity extension on Chrome Web Store tracked searches BleepingComputer",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Malicious Chromium extension spoofs Perplexity AI to hijack browser searches - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkV2U2FNNlQwRWlrSVJlbDJ6TFpiZ1E3VkwyNUcxanRNcWhrQm5NcG1JTGxkRnF6UUpITXBlTTRnX3lCbVRWVVo4bnlZMEl1WkVldXpSMFVEeUdXVjg5clpJNHpnRVc0WnNuSGJKX3dTYUtyLVcwUW5oTXUtVHd5Q0dYTklTR08wVHNtS21tN3VzaHllWG9CQWhUYUhlLVJBQkVJVmFCYzNXUTZHSTNUVFQya1c0NXpwTUdEY2laT1k?oc=5",
+      "summary": "Malicious Chromium extension spoofs Perplexity AI to hijack browser searches csoonline.com",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Is Getting Better at Reading Your Thoughts—Without Cracking Open Your Skull - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVS0xMFRpRzBRZmJ3NjB2VUw1TG5yb0Z6ei1EcThIeGJZd1pBb3ZHOWNHNDhRZjAxYi1xdTNabG85WnYzVG12eWo5cVZneFJ4RkVhUVBoTTFiUTY4a01YYUpTYnFQZVlHczFteWVESzNpQ1VqbmFlS0hWek9FV2xtZVY2NS1QMlhqYXVwQmN4S2tQTTNqcnZmc29yU0kyMkNMZjU1NkpOMVcyTFlHbFM1NjVVVE1tZw?oc=5",
+      "summary": "Meta’s AI Is Getting Better at Reading Your Thoughts—Without Cracking Open Your Skull Gizmodo",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
       "company": "OpenAI",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -114,30 +218,6 @@
       "date": "2026-06-29"
     },
     {
-      "company": "Anthropic",
-      "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5",
-      "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough The New York Times",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The Briefing: AI for Science - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbm5oWi02TE93S3FObHowMk9MUkRxS0NvWnpOcHZWd3UyQWhPN3g3OFE0WERWckpQa2U3T3dyQ2tCWm9Qcy15bWd1OTNQTTJvMHM4ZDNuNDkzNWpXRWt2STRqSzBhZTNocGpxYg?oc=5",
-      "summary": "The Briefing: AI for Science Anthropic",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Internal Docs Show Meta Putting Limits on Claude and Codex, Fearing Distillation - The Information",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2NDbVoybGJjYWVlU3h5RlFQeWptOWttdTk0d1BqdFNKT19nZzJZX0p3V0FwS1NKRTJwRkdaZlZhVWNGM0dlbmRKOTF4WDdRYkdNemN5NWUyYU9OWjhDUTY2QlMxZXBseGpHV3VvRVNOeF9hVk81b08tNlBuWm5oV2FnOXRnRzlZbUtpa1hKcE9PY1dNTE5Rb2ZJTjhXLUtSamRjQ1FSWnpKUUo0aG9PRTRR?oc=5",
-      "summary": "Internal Docs Show Meta Putting Limits on Claude and Codex, Fearing Distillation The Information",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
       "company": "Google",
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
@@ -147,17 +227,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "When outputs are the experience - microsoft.design",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGR2loc2U3WElaMnB2cUZyaTU3MFljUjNUUll0RGJBYkFxWUZ0X2otM2ZBeW9jWGV0azEzeGpEZVpGUjlnZnVCQ1NOZ21UT0FMQzlncDhpYjk2ZG9UWW5mdDlNSDBWODdSZERHbXhoeS02QUE5?oc=5",
-      "summary": "When outputs are the experience microsoft.design",
+      "title": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZy1mOEstVmdzeThpTHdBdTdrLUFwbWFpemU0TlZKYzhneVVOR2VnQ0ZJNDluQ2VlVlNlZ1hMVHlFZ3IwTE1CRDloUVlSYlhOOFVBNU9waHhDZnpiLXVGUmR2YVk0WTJMUkkxRkY2OGtVaG1NbnAzZEpzWnU0YjVCVVg0bjB4WmZGX2dCMk55ZHphUkppYzVJb1F2VFRtSWt0Ni1PejdKc3VYbzhRQVN0TEl4c0JKYnJGWlE?oc=5",
+      "summary": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? GeekWire",
       "badge": "new",
       "date": "2026-06-29"
     },
     {
       "company": "Microsoft",
-      "title": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZy1mOEstVmdzeThpTHdBdTdrLUFwbWFpemU0TlZKYzhneVVOR2VnQ0ZJNDluQ2VlVlNlZ1hMVHlFZ3IwTE1CRDloUVlSYlhOOFVBNU9waHhDZnpiLXVGUmR2YVk0WTJMUkkxRkY2OGtVaG1NbnAzZEpzWnU0YjVCVVg0bjB4WmZGX2dCMk55ZHphUkppYzVJb1F2VFRtSWt0Ni1PejdKc3VYbzhRQVN0TEl4c0JKYnJGWlE?oc=5",
-      "summary": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? GeekWire",
+      "title": "When outputs are the experience - microsoft.design",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGR2loc2U3WElaMnB2cUZyaTU3MFljUjNUUll0RGJBYkFxWUZ0X2otM2ZBeW9jWGV0azEzeGpEZVpGUjlnZnVCQ1NOZ21UT0FMQzlncDhpYjk2ZG9UWW5mdDlNSDBWODdSZERHbXhoeS02QUE5?oc=5",
+      "summary": "When outputs are the experience microsoft.design",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -250,14 +330,6 @@
       "date": "2026-06-28"
     },
     {
-      "company": "Anthropic",
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
-      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2F2MWF2ZC1oaUlobGFxVFVnTnZkZTJlSjBTMktEckJfeXFhclZscnF5Q0EzY2pkck9mQlRCMl9yV2Zib0VyV1o0ZlQ4Smk1ODhqN2lnb3htNjZJVkN0UzltOFBwdTh6ZHhONUw5VUlGQzZnWjBabWhKeGFqcDlqT3FFeXpyai1nNGFqbVVoNE5zbGx6dWlQLU04aXM4TEt5NVVEcnJFUV9KRUxYTWxieElnZ3FXb0VIbXc5bWxLZTkwSUFkcThKMGlvTlNva0VLdktXcW1Xd0dLT05TUzhjYlB3?oc=5",
@@ -275,17 +347,17 @@
     },
     {
       "company": "Meta",
-      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
-      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
+      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGFVZEVKcTJqU3VyQXBCcWVXR1dhY0ZHajFJZG0waWJfMkY3Vmgyc042SkdNWUVOY2lva1RwY1p5c1ZkbEs4eUVfSXZFTFlhd3cyaEFSSHROYWpIY0N0aTBDdGhBWDhJUk5icTMySlc4c2hMRlhJR3R0bm5hUHRLUUpUREIyWnpzV0xoNnZkUHZqTnRCb09vY3NRSmxNc1N2akJNN0dvbE45Vi1yN3NV?oc=5",
+      "summary": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports Bloomberg.com",
       "badge": "new",
       "date": "2026-06-28"
     },
     {
       "company": "Meta",
-      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGFVZEVKcTJqU3VyQXBCcWVXR1dhY0ZHajFJZG0waWJfMkY3Vmgyc042SkdNWUVOY2lva1RwY1p5c1ZkbEs4eUVfSXZFTFlhd3cyaEFSSHROYWpIY0N0aTBDdGhBWDhJUk5icTMySlc4c2hMRlhJR3R0bm5hUHRLUUpUREIyWnpzV0xoNnZkUHZqTnRCb09vY3NRSmxNc1N2akJNN0dvbE45Vi1yN3NV?oc=5",
-      "summary": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports Bloomberg",
+      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
+      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -302,14 +374,6 @@
       "title": "Meta’s AI Push Hits Compute Wall as Google Limits Gemini Access - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnJULTI0ZzQ4WklBRTY3NlRaMDdEc284Rkd0d3FIZ1U2M3hjNzY4a3hYOWRnaHJxRFpVcjFZMHBvZXJDRWtCXy0xSi1OQ3JXcnRETXY5LWRPUjZOeUhDSDVEZlRwdXpWUU92NEtrUVE2MEdrZzNJd3RON0dVXzBiZ1RKeUhiYk9hakFpVlpTOS1nMURlRWdN?oc=5",
       "summary": "Meta’s AI Push Hits Compute Wall as Google Limits Gemini Access TipRanks",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
-      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports Reuters",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -410,68 +474,12 @@
       "date": "2026-06-24"
     },
     {
-      "company": "Perplexity",
-      "title": "I replaced Google Search with DuckDuckGo and Perplexity - my results were noticeably better - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVE1ejE1OTQ4Q2k2WGFEZnJMR3VidzBMcE9la0hoWVBtbnM0QjhuTUNTNnNheEVWTlhJeGpkM01sc3FaZENhTUtYYjNncE5CNy11MWhBY0Q1aUpTWURrbTh1ZzJoZzBHSnBrVjg1VUpPUnJPT1JEbUwxa3dkdEpBZDBHQWpVLS05Wl9UMFJiblNpV1FYNjdJMDZkNjJieGJBSGxIS1BnWQ?oc=5",
-      "summary": "I replaced Google Search with DuckDuckGo and Perplexity - my results were noticeably better ZDNET",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Jumps Into Legal With ‘Computer For Counsel’ - Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbG41TjVXZ2o2SkxkUlVzM2pCdFVWOUhVdlQzVFZZMDN5YmpsV3JhN1VDZkdvLXNCcm9QWWZOcjkzU3pDcU5EVnZHb3B3Ri1peGpZZ0VxUEtsOXU1aktDRnlkenpJOTNGbkhIdlRSeGNZbHdwSldYN25Qc09FQmJHZVN5UklYRm1EQUxfMFVrUQ?oc=5",
-      "summary": "Perplexity Jumps Into Legal With ‘Computer For Counsel’ Above the Law",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "DuckDuckGo and Perplexity Outperform Google Search in New Test - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnRWSHcxZDhDY0ZycWpheHdkdHQ1aGFNWDZuZjdUZ3hEOVV2Q2tnYUc3SllrT0dpbldTNjdyMkd1SGlJRHM3Z0hXeFN3b3lsWnJkTjJJcDNjLTQ4dUx1eHlUM1dQUUdzMkI5b19VRlFzMUluR0FhTjZxY1Rta2prbmw0c1hyZEEzOFVlNUIyY3Q3Wi1wMWlqak9qWQ?oc=5",
-      "summary": "DuckDuckGo and Perplexity Outperform Google Search in New Test The Tech Buzz",
-      "badge": "new",
-      "date": "2026-06-24"
-    },
-    {
       "company": "OpenAI",
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "badge": "new",
       "date": "2026-06-23"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "badge": "hot",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "badge": "new",
-      "date": "2026-06-23"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "badge": "new",
-      "date": "2026-06-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "badge": "new",
-      "date": "2026-06-22"
     },
     {
       "company": "Apple",
