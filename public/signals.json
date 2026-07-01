@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-01T02:55:33Z",
+  "updated": "2026-07-01T09:37:13Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude Sonnet 5 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+      "summary": "Introducing Claude Sonnet 5 Anthropic",
+      "badge": "hot",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "World in Brief: Donald Trump’s crypto bonanza; Anthropic’s reprieve - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2xNNTI5c1lxRE1OYjdmdE84TUd4NUlBeU1UWFVhOFNNT3Ruenpia3Z3Q0tUY05qd3dvVEN1Yms3SzlnZ1Itd0dNOVd0NExySkg0QWJkUlFTZDJ6MmVtd01mT1U3WXVDbWM4V0F2amNYTWlhSWRGZmZnTFJxbkx3SnBVd2NCaTVzRXp1aWl3bmoxRjdXMjhB?oc=5",
+      "summary": "World in Brief: Donald Trump’s crypto bonanza; Anthropic’s reprieve The Economist",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
     {
       "company": "Anthropic",
       "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models - The New York Times",
@@ -101,15 +117,23 @@
       "company": "Anthropic",
       "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 - CNBC",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZldDREpCR3h2NTUxODFwLWU5OHVLLWVOQXFzaExVeUk0MUkwR3dhNk9OWk41c29kX2o0OXA5MkNUdTAxTVdOQVh6ZzNqTE5rMVBuaUt4Nm5vZzNVcThFZHIwZ0Y2cjdhTWtuMVEtWkszWDBwNnd2TUVrTnh1elUyYmk1TUhuVmczUm11UVp2Qml2dmt5Nzc2NlBGdVBpVEZrbkkyRDAzQW9Jbkp6QWFMU3VaT0F1V3Q5VzFXM2VR?oc=5",
-      "summary": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 CNBC",
+      "summary": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 CNBC Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears The Guardian ",
       "badge": "new",
       "date": "2026-06-30"
     },
     {
       "company": "Anthropic",
-      "title": "Introducing Claude Sonnet 5 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-      "summary": "Introducing Claude Sonnet 5 Anthropic",
+      "title": "Anthropic Releases Claude Science for Automating Research - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3NrTWJRR2R6QkxaNnlHUU44WGZzV25TVW9OZmUxN3JjRGZkN2J0OTB5QTI4SEhfdjlHbzMxbl9SbEVNNXpBdndwNkhRX0RVUk5EeUl5aGtfZ0NNZG1qaWlKNGxrdWpEOUhrUUs4bi14QlRsWXhsRGJWeDhBNENfMkJXSjA4WlRlS3ZHY09jTGZBVHE2VjBMOVJhLXE1cVNWWElBUFhjdzN0b3Jm?oc=5",
+      "summary": "Anthropic Releases Claude Science for Automating Research Bloomberg.com",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNck84aEo5SERWUzlnMzBaY3ZYdnhRZ3gtMkgtSmlUS3gtamhsRUR5ZkNwbEtCUk5BOEkwY1NvMmpSVDlfLTc5WWg0c0xqX1lLR3ZRMV9qSmQ3bnFlWlBUQU16N1pTWGVwZXpjekVUV2JKc3lUbGxPdXNGZXJTLVRMV1UtZ0xEQ0pSM2c5XzB0N2s1RWdJcmlHc3NaaGvSAaIBQVVfeXFMT0lDWjZWV1hWcWs4YXNsWERycW1sM2p4dkFaMERBcm1Jd1BmbjhaeXdyMnlBYzF2Z00yVVNLeHJvLWxSTzlBSGFVYWlNRmxndkczM2FqdjM3YVJ4azlUd2xyU2ItR1ExTDc2WVVmT0pRWWd2eUdvcHRHdnJ2SFdXaDFZVDZ5MEdpLXpycVpXYzRvMW1lZUQzdGQ0cWxha0dmcWln?oc=5",
+      "summary": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare CNBC",
       "badge": "hot",
       "date": "2026-06-30"
     },
@@ -138,30 +162,6 @@
       "date": "2026-06-30"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic launches Claude Science in flashy debut with pharma heavyweights - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekJkRU1nWTZJQzMzdW9DYjdvUFltam5mSEdDNUgzbTlZNW9ub2lCaHBjOEk4TGtnM2tlT2tlZHEtWHlnUm81SWk5VGl4NVU2Qk5NakNVN1VSOTFCaklSQ2I0YjJTbC11dVFLQUNza3VZbDVYQ0Z3V2d4bHlqMndfbU9CRlV1d08ycW1JUQ?oc=5",
-      "summary": "Anthropic launches Claude Science in flashy debut with pharma heavyweights Endpoints News Claude Science, an AI workbench for scientists, is now available Anthropic Anthropic releases Claude Science, ",
-      "badge": "hot",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump administration's AI crackdown opens door for China to close gap - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eW1BR2s2ZmN6emZhR3lhU0Fld2pPbnhHdjYwTE0ydlNpLVpVdXQ4bWtQcnJHN3VibXNaTHdWd0dlQmdoTk1RaWR3clFzVVg3bENvbFNtSXJtUll5dFFyanhITUcydHdoeE51bmNIYlZBVUU0MFHSAXtBVV95cUxOb2FoUmJLOXA5RlRJM21Ia3hIbEtRbzktc2t2a0ZIMVByZjhNb3Azem9OU0J0bzlKTXZ2Yy0wc21vZ0E2MkZrMHdoM09QZDBHdDJNZ0lXalhwNEVYaE1UeFpzRkh5eV9WMkprM21PR2ZubWMwZWpiMEpHX1U?oc=5",
-      "summary": "Trump administration's AI crackdown opens door for China to close gap CNBC",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI CEOs wrong about white-collar bloodbath, Zynga's Mark Pincus says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc2pfRHVsQzB4WGx6aDVHSzJLY0pBdzJSSVE2N0tZMDUyVklyMVRaUkpUeDNieVhFT2lmcV9JTG93SDJQQVQxbm1qNTE4M2tua2RjeC1aMWJZenh5dFVLeXZ5T1lJcWJXaEhXSA?oc=5",
-      "summary": "AI CEOs wrong about white-collar bloodbath, Zynga's Mark Pincus says Axios",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
       "company": "Google",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
@@ -183,6 +183,14 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
       "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
       "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Which AI chatbot is right for you? Take our quiz to find out whether ChatGPT, Claude, Gemini, Grok or Perplexity is best - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMHlzUS1RcVg4X2ZaNkIySk1OVWdWSE84N2NwamNmOWFIWVUtMk1tQlZFX05DU3lDbWh5azlXVmV6UFQ0T05CeHpEUFY4Z0k0cWl4OHd0Wl83WF9HbGt0enJ0NWU1MUNSMVdnVjVCU1NHLUdoMENHU28yZ3Y4Um83Y25OUXZSdndFZWNwRnJZeUF3OUM2RW8wT3djamN5ckU3S1hCY1FxZUpUUy1kWDIyaTY0aXBRT2E0dzFySUdhcU5DUkxqemhqQWZCY1Qzc3RtQnVYYTYzYmx0dzJ0cVpsR1VpUjV0TzNfcy15RmE3bEVvSUFPV1gxSWNn?oc=5",
+      "summary": "Which AI chatbot is right for you? Take our quiz to find out whether ChatGPT, Claude, Gemini, Grok or Perplexity is best TechRadar",
+      "badge": "new",
       "date": "2026-06-30"
     },
     {
@@ -243,14 +251,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "When outputs are the experience - microsoft.design",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGR2loc2U3WElaMnB2cUZyaTU3MFljUjNUUll0RGJBYkFxWUZ0X2otM2ZBeW9jWGV0azEzeGpEZVpGUjlnZnVCQ1NOZ21UT0FMQzlncDhpYjk2ZG9UWW5mdDlNSDBWODdSZERHbXhoeS02QUE5?oc=5",
-      "summary": "When outputs are the experience microsoft.design",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Microsoft",
       "title": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZy1mOEstVmdzeThpTHdBdTdrLUFwbWFpemU0TlZKYzhneVVOR2VnQ0ZJNDluQ2VlVlNlZ1hMVHlFZ3IwTE1CRDloUVlSYlhOOFVBNU9waHhDZnpiLXVGUmR2YVk0WTJMUkkxRkY2OGtVaG1NbnAzZEpzWnU0YjVCVVg0bjB4WmZGX2dCMk55ZHphUkppYzVJb1F2VFRtSWt0Ni1PejdKc3VYbzhRQVN0TEl4c0JKYnJGWlE?oc=5",
       "summary": "Mary Jo Foley: What's a consumer-focused outsider doing at the helm of Microsoft's AI push? GeekWire",
@@ -262,6 +262,14 @@
       "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzczVU1zbnlmb3FxT1B2a2dtWHlYSTliNGpmV1JBdXJpUk5zNFhGWFR4MDhvUVpBM1dDNHY0NUdzempPM2UtVzJhTzJDZnRtY2xYOV85YmFRMHpQTzNZRmR5aFVSMWFCVjhjWmp1QXpHT1pPbnJ5UXNaU2ZlZHhUc1pQVVJiMHp5WGlFb2dKYjNmRVc2eE0xRkxqMWRGZzdGZlhhRExsTjdiNVRkT2xMT0RWcl9HUQ?oc=5",
       "summary": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows Yahoo Finance",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "When outputs are the experience - microsoft.design",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGR2loc2U3WElaMnB2cUZyaTU3MFljUjNUUll0RGJBYkFxWUZ0X2otM2ZBeW9jWGV0azEzeGpEZVpGUjlnZnVCQ1NOZ21UT0FMQzlncDhpYjk2ZG9UWW5mdDlNSDBWODdSZERHbXhoeS02QUE5?oc=5",
+      "summary": "When outputs are the experience microsoft.design",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -286,6 +294,14 @@
       "title": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5",
       "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading Microsoft",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkFneXludDFZekpDN25XUHR2cGxlU05NMFhweEFGZUlNaEstYWc5cWtUVW9QcGdKSHpkalZtaDV2MVhuUXFBQzg1SEJ2d0tzWFdYcmN3NkZZUU9nSnNsWFNFcWZJaGJXUFU4Y3IzOUtxYXR5ZFBSTDA0aE8tdkgxTWVn?oc=5",
+      "summary": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input The Hacker News",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -355,25 +371,25 @@
     },
     {
       "company": "Meta",
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNNIBoAFBVV95cUxQcWRyNHVZQ3VZbGllcnlSRkF6YmtZNVh1NGo4QlI0T0pYcDA1Q3k5X292cElkMVo4Zm4zVkpaZm1Nb3ZJMFlDQ0k0WXAxMldiOWlEdG5ZYWZfdlZpd1RacFBLbGlQaEkwRTRuaUcyNzk1ZmlkOEVVNmcxQ1c0Qk9QZnBvTUZzTnJNN21PV0VsSUprUzBpd2JPYTZ2bUgtbEx5?oc=5",
-      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports CNBC",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGFVZEVKcTJqU3VyQXBCcWVXR1dhY0ZHajFJZG0waWJfMkY3Vmgyc042SkdNWUVOY2lva1RwY1p5c1ZkbEs4eUVfSXZFTFlhd3cyaEFSSHROYWpIY0N0aTBDdGhBWDhJUk5icTMySlc4c2hMRlhJR3R0bm5hUHRLUUpUREIyWnpzV0xoNnZkUHZqTnRCb09vY3NRSmxNc1N2akJNN0dvbE45Vi1yN3NV?oc=5",
-      "summary": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports Bloomberg.com",
-      "badge": "new",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Meta",
       "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5",
       "summary": "Google caps Meta’s Gemini use as AI demand strains capacity Financial Times",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
+      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports Reuters",
+      "badge": "new",
+      "date": "2026-06-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNNIBoAFBVV95cUxQcWRyNHVZQ3VZbGllcnlSRkF6YmtZNVh1NGo4QlI0T0pYcDA1Q3k5X292cElkMVo4Zm4zVkpaZm1Nb3ZJMFlDQ0k0WXAxMldiOWlEdG5ZYWZfdlZpd1RacFBLbGlQaEkwRTRuaUcyNzk1ZmlkOEVVNmcxQ1c0Qk9QZnBvTUZzTnJNN21PV0VsSUprUzBpd2JPYTZ2bUgtbEx5?oc=5",
+      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports CNBC",
       "badge": "new",
       "date": "2026-06-28"
     },
@@ -450,26 +466,10 @@
       "date": "2026-06-25"
     },
     {
-      "company": "Perplexity",
-      "title": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOS1zX2xiZ3V6VHk3S3F3aTYwRWZ6NjNFSHJWWmpjMkRLTF9NbUZIdldSSDUtR0l3UkxwaWpJQ0x1WjNHbmlDM254TjJSWW9mcTBCREFNOXM3TGRuSlg2Tkc2UlBLYnk2YzJaY2JpMnQ5b01odUxFbUtJRGlfOHByMWxJcHN1YnQ4bE5TS1hOSGFPQmx3MXpCRkVGZTVFTHlMYUJscE9oSDVuaWFEdnhJNXJwLVB1QjI5M0dEWGwxUzdGZ1FDRTNoLQ?oc=5",
-      "summary": "Gunderson Dettmer to Deepen Perplexity AI Use Following Computer for Counsel Launch Law.com",
-      "badge": "hot",
-      "date": "2026-06-25"
-    },
-    {
       "company": "OpenAI",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "badge": "hot",
-      "date": "2026-06-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Launches Computer for Counsel, Powered by Legal Tech Integrations - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3VVeWo4aGM2VlZDeU9yT3NKaXJReldOTXQ3RDk4azdJYmlSZ2Y3NWw1NU9DUjYzZ1kxM3pnUWRuY0l5Z2tBVVZaaEtTeDZ5by1KNzU2TEppZzNyd0R4dGRGcGpxWkhoemN1RkNXREtLdjRnR1MyeGtSXzNueVdfZGJCLVpKQ3BqN1hSZ0luUlVoMERSRldwSjBBRjNCMW5EZU1mY25Ca1pVeDZmOU5tOTJoU3dURDE0TUdFcVhHc280Zw?oc=5",
-      "summary": "Perplexity AI Launches Computer for Counsel, Powered by Legal Tech Integrations Law.com",
       "badge": "hot",
       "date": "2026-06-24"
     },
