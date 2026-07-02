@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:45:57Z",
+  "updated": "2026-07-02T08:48:54Z",
   "signals": [
     {
       "company": "Apple",
@@ -42,6 +42,14 @@
       "date": "2026-07-02"
     },
     {
+      "company": "Perplexity",
+      "title": "Google Chrome fails users again by letting malicious Perplexity extension slip through - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUNNOXo0c3VqXzJYSENuTllNb2pMSUdybndqZDdpeVVzbEt3Qlk2OFdtLXhMb0MzMnVaX2NIV3VFbHVOZnB3RnZvX2tEQ0M1Q1RxbkNidXFXZ3RTdFNsclVEZ2ppc1dpcUwzcjNVSGdmTGdMZHFEMDdLRjlMeTkydVVvQU43N2JmdUpNc2JuUjh4VklKbWZ0SlFVUjdHZVNtdzg5WXVyQnF5YVJOeTJ2d1k1ZlhRZw?oc=5",
+      "summary": "Google Chrome fails users again by letting malicious Perplexity extension slip through Neowin",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
       "company": "Anthropic",
       "title": "Introducing Claude Sonnet 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
@@ -51,9 +59,25 @@
     },
     {
       "company": "Anthropic",
+      "title": "Palantir CEO Alex Karp criticizes OpenAI and Anthropic token pricing - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanl4VGVVYjRGbFBxUS1ialMyY2VIdjFFa1FaazMyR2t1a1J3VUNGbXNhYWoyVnduU1Y4WVluaVFkRlQ5X2NQR2U5TFh1V2poRFNkNExqY2VrV1ZmaWtNalhtbi00cVhkTEEyWEZUcUkyMkZNT2lKcTQwTzd1ZGRYdnp5aWdoMzhkb1VQUnk4cmtmVzFVdkd5RjBielZtUQ?oc=5",
+      "summary": "Palantir CEO Alex Karp criticizes OpenAI and Anthropic token pricing Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Anthropic",
       "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5",
       "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' CNBC",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Palantir Stock (PLTR) Rallies 9% as CEO Blasts OpenAI and Anthropic’s “Wealth Tax” on Tokens - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmQ5MTU5ajVISEZPQWgyVDdEazJ4bkNtMFd0OTF5c1NMSUVYN2RXa2d1ajc4Q0puMjdhSzBGMEgxYmtWQ1FvVUlHeVl5d3J0V1I3ck1pcDE3UVp6OTN0cDMzeUZzNzEwc3pRN3F2R2M3VzBya0NIcW43aE50VXQxMjAzbnI4Z0pDSGFFY1lLV3ZxVXY1Vndra1R3SGtoN2hjWlkxd1FOZE51ZjRzYzRQSmdDX0cwTDg?oc=5",
+      "summary": "Palantir Stock (PLTR) Rallies 9% as CEO Blasts OpenAI and Anthropic’s “Wealth Tax” on Tokens TipRanks",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -106,14 +130,6 @@
       "date": "2026-07-01"
     },
     {
-      "company": "Anthropic",
-      "title": "Commerce Department gives green light for Anthropic to bring back Fable 5 - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUGJDLW53RzFNbE9ySElNMFhGLWJuLXptcEo0UEhkR1VPb3JLaUlhQ2NOQmdnV2RrZTlITjJGVG42NlRCd0RPTEhtZ3NrOTFQQVNVVFNkUlBkRlRKY2NSQzBycC02cWh3WEpDYjdhckJaSGMtTG1xUmxPRWlQV2JJZEcxTmNWQlZqUHFZOXBja2NoT0NlRTBoNDFKa3d6Nk50ZnhMS08zcHYwUG9YN3FVR212SEdzc2VKSHJzX2JhWVphUQ?oc=5",
-      "summary": "Commerce Department gives green light for Anthropic to bring back Fable 5 NBC News",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in June 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
@@ -126,6 +142,14 @@
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Xero CEO shrugs off $14b rout with new Microsoft AI pact - AFR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDJJa2R0c0tJLTRyTVo1a0trMExERmFzX3hibmg4V29KUFBlRkZhenJIUEJ4bl9xUi1ua1FjeXVNXzJxR2tzQ1RBZnh1WC1yX3ZRTWx4OUhwcEtCWTFLZ1pLcTNpR1RvTGhCaUJPaFhiMnA1TGl6cmRRdEZpLWJqUVROZ193OG0tMERXSWx4TE1zYnZ1elVRNjhIczRaSkNhLWNhVg?oc=5",
+      "summary": "Xero CEO shrugs off $14b rout with new Microsoft AI pact AFR",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -162,11 +186,19 @@
       "date": "2026-07-01"
     },
     {
+      "company": "Perplexity",
+      "title": "Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2ZVWEg5VnF6cndFckhhUkxRd0c3UkgzQWkxdFZJRUlySF9NbXhqLXc0eVBrekgwczlTS2hWdTVZdmRBMFBjMFRaNjlUQ2VieFNEQzBxUDA3TzZHSTRMME0wdjE0YnBMQW9falQ4UEF3VlI2UjNOTzkzeE55Yk8yQU9UUXgwOHNlaksycw?oc=5",
+      "summary": "Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features TechRepublic",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
       "company": "Meta",
       "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5",
-      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta building cloud business to sell excess AI capacity, Bloomberg News reports Reuters Meta pops 9% as company makes cloud p",
-      "badge": "new",
+      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta pops 9% as company makes cloud push to sell excess AI compute power capacity CNBC Meta Compute Launch Sends AI Compute S",
+      "badge": "hot",
       "date": "2026-07-01"
     },
     {
@@ -222,14 +254,6 @@
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude Science, an AI workbench for scientists, is now available - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
-      "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
       "badge": "new",
       "date": "2026-06-30"
     },
@@ -354,14 +378,6 @@
       "date": "2026-06-29"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft is fuelling up Excel with lots more AI tools for finance workers - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQbmd2dllQcXctLTZKbkJBUklYZkVwWl82SlIxQlhwRGZLNmJXMW1UaXBCVk1HWkJwaVNXRDZjZEhqQUIyVlV2MlgwVVRMSEhBM1ZkYzE1Nms2RWo4dF9jNkdGb3BBVXdGMGZUUjdFQmI1NnQ0RzIyNTJNNE1VMGJPVVBaNTA3X3JXdmVXRWhQc180WFFJVkVqVzlXcERsVDlMYTdUbzVTc1NmNm1ZU3FsbUlPZFl5cTdtX2NuckNyWjBXQmpFVjJuLVVsc0JRM2s4bVZzOG1oSWRNN0dKdTN6dXVLUjcxeE95ek5qbVUxaW80dFExMGFCUnZQd1RyOHRpbGlKR3U0Q1dTUlZOSHlETHZCUW9EbkR5bHBOb05sM0NNN19qcFE4ZGx2MGFKaXZYaUx1aQ?oc=5",
-      "summary": "Microsoft is fuelling up Excel with lots more AI tools for finance workers TechRadar",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
       "company": "Perplexity",
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkFneXludDFZekpDN25XUHR2cGxlU05NMFhweEFGZUlNaEstYWc5cWtUVW9QcGdKSHpkalZtaDV2MVhuUXFBQzg1SEJ2d0tzWFdYcmN3NkZZUU9nSnNsWFNFcWZJaGJXUFU4Y3IzOUtxYXR5ZFBSTDA0aE8tdkgxTWVn?oc=5",
@@ -395,6 +411,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFV0SUVzcE5ZR3E3UFluWkhEc0U0TDJIaXh1V0EyMS12TG9IVmR0WmRvUk14Umw1Tlp3VldsM3FnSFhiX25CQmE5ZFNOeDd6ckdlX2tsSERGLVdmaFFma0JiSzFyd1Z4VjdkQVc2STJNc1FwYjVzcDZ0RGxHWll0RlZmOV95NWxGeUwtRA?oc=5",
+      "summary": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs WIRED",
+      "badge": "new",
+      "date": "2026-06-29"
+    },
+    {
+      "company": "Meta",
       "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5",
       "summary": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. Barron's",
@@ -406,14 +430,6 @@
       "title": "Google Limits Meta's AI Access - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkZPRXR1SXpJTnV0enBFc3kwOEY1OUM2UGZDbXNrSGdpZjhYa0RUeEd5MDNsc0oycXJQVTVDem8tTmxBbEcxWEkxSmVzVVpHUS1nSUxMcFZ6RTAxbWZxMnFHc0FwQk00dzdWNWt4NjJ4V2FUMGZIdEZMeFpOUF92Vi1mYW5rMFQzZE51LURfNjgySnhRMnlaMw?oc=5",
       "summary": "Google Limits Meta's AI Access Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEpSelctNTVTd1lGcHMyaDM4MlJ4X294UWJ3dXJGQ0EtNWpMNERGOWIyZ3JfQkZUblZFaE92ZENRUXlFTS1pM0xrWFpJRW1oUmdmeWwwTFROR1hZdHhqWlhKVml6d3JtY1lNaEFEMTA4Y2E1cXlMRVF2Yk9aa2FpVWNYZ3Y5QUw3UWE2bENFc1F0OHp5WGdRMTBSZUVRZm1VNkE?oc=5",
-      "summary": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots Engadget",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -432,14 +448,6 @@
       "summary": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw Tech Times",
       "badge": "hot",
       "date": "2026-06-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Startup founders and recruiters share what gets candidates hired — and what gets them ignored - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHg0UzBTc2x5OWZnR1lhLVlORnVBODJXZWE1MmNjZk14NF9qREVvbnMtdWRpcy1vM1NJYzluWk45MXYyNGhDWFBud2lUTHlKcUY0V0NQaTYtY2lCZFJ2VHR5RnlLem1kUUZqS09yeTlpYk5PeWNsai1rR0VVdW9PcGo2OWk2UUdCY3NlbHZLTENHMXZFbTFv?oc=5",
-      "summary": "Startup founders and recruiters share what gets candidates hired — and what gets them ignored Business Insider",
-      "badge": "new",
-      "date": "2026-06-27"
     },
     {
       "company": "Amazon",
@@ -471,14 +479,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "summary": "The Google Finance logo, surrounded by elements of the user interface",
       "badge": "new",
-      "date": "2026-06-25"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1pJd19ZNjVXZUVaM3BMeHpqeWVLMEw2UWNGcGVZaHRLb2M1RU5MRHFFeFZMRm0yZjUyaHBKT3pWVnppSnM5cWFFN3RLUHc3Mmx2ZFRXS0o5ZEZPLTQ0SWRMQ1hzME9NQVFjc3pBTF9PY3ZJSTZLYUg4dTd1VGZtejNjWU1GS25vTDgyVEJfMjBsWEhxaHp1WXM1eU91UXYtTGFKdEFTR3VobEoyYzYtVi16Z3lURWZVdDBCTlYxNHpZbXFPVzNweENETQ?oc=5",
-      "summary": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event LawSites",
-      "badge": "hot",
       "date": "2026-06-25"
     },
     {
@@ -571,17 +571,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action suit over Ring facial recognition feature - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZU9ZTGtvdlRMUU1uZlN4QWVEX2pyemNOQ1ZMaWpUUXZDZ2VnbzhNR3pXd2JxNHFSRi1TUHdubmZLZGtFZzZmVG9yOG1Fem9Gb2ZncVJPMjQ1ODBQbVZzamlMTFdiOVdIMmdzS2lBUFQ0ZXlVREItU2JDVmN3S0QtR3VBRGQxbzRSVHVQajVWT2dqN3FtenE5RXNZQVdLU3c?oc=5",
-      "summary": "Amazon faces class action suit over Ring facial recognition feature Mashable",
+      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
+      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws cnet.com",
       "badge": "new",
       "date": "2026-06-03"
     },
     {
       "company": "Amazon",
-      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - CNET",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
-      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws CNET",
+      "title": "Amazon faces class action suit over Ring facial recognition feature - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZU9ZTGtvdlRMUU1uZlN4QWVEX2pyemNOQ1ZMaWpUUXZDZ2VnbzhNR3pXd2JxNHFSRi1TUHdubmZLZGtFZzZmVG9yOG1Fem9Gb2ZncVJPMjQ1ODBQbVZzamlMTFdiOVdIMmdzS2lBUFQ0ZXlVREItU2JDVmN3S0QtR3VBRGQxbzRSVHVQajVWT2dqN3FtenE5RXNZQVdLU3c?oc=5",
+      "summary": "Amazon faces class action suit over Ring facial recognition feature Mashable",
       "badge": "new",
       "date": "2026-06-03"
     },
@@ -603,17 +603,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
-      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
+      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
+      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
       "badge": "new",
       "date": "2026-06-02"
     }
