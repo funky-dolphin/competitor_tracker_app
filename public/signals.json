@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T13:47:20Z",
+  "updated": "2026-07-02T19:16:48Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -15,6 +15,22 @@
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM01fYjd1cjFmcGxOU3ZaYlZ3NWdxMEhIbHJKZ3JLMWZmQTJhM2RzaVMxZ2R5c2NyLTd2clVCSWVKT1BlckRKSnhsTjVfdXpIMDN6UHJhLVBoTTA2MlB1VHZPOHBEWHNHcTc4NTM0S2JSc2RhZ1o4YWF1NnE1eVFwa2trWXp1SzltcjFMYVNrbFdaRHIzc3J0MVlvd1hUTmJ3WWFqSURpbVYzVTRnd1FmX2ROQ1dyS0dtaFJoQkNsbVcxS3ZseXFxZ0pIUnVBU1JNMmYwMnVZVmFiZkRNYlFOd2xuV2VVZzktNVo1MnhKbDYtOXFoNmdrMEE3eXBia3U4M2tlWUhFa21Jb3k4RVdfVzJBWWNpOUFWUU5RTTR1dlYzeGkzeFIwRg?oc=5",
       "summary": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge Windows Central",
       "badge": "watch",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
+      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjBDWUp3ZU52dzEwSTlJckRSVXV5OS02VWVidVFpSmFicW5zSGQ1UmxKaXROSC1mN09Wb3oyVWd4dHkwSkRrRXlhaXZ5dTlWT09Nc3IxZlJ4Q3dLZkRfN3pqeUdfVG1EaTVDTEhvRDhETkxfUlhFTFhWODhoUGZxZDN5U2NnMk5JamZNajlXT191TGtPSkFLal9mR19HV21zRjcxWQ?oc=5",
+      "summary": "Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
       "date": "2026-07-02"
     },
     {
@@ -59,9 +75,33 @@
     },
     {
       "company": "Perplexity",
+      "title": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX05aTTYwSVlGSVV0VnlyWkVQSDBVMVB3VU5LZkViaGd0UFNrV3lENllWanFLZTJqNmoyVnJQdkNZYmRieW9adDg2S1ZRYlp1RWdFZXJhX3JPV2swblVtSGVLUDJZNEI5blN1Ul9YcExWd2xJMzhPTm9Pakk3Z3hwQ3pzckM4UWpsUjdiZWxScGgwR0wtRHMtS0RWbC1MUl9TTVl3b1U3RnFId0FTWkF4Rmluel9VdzhuY0tSUDNhanBtd19GT01PbVlCeUJld2hFbVdKdzRUVVlRQWRR?oc=5",
+      "summary": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it Tom's Guide",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Perplexity",
       "title": "Google Chrome fails users again by letting malicious Perplexity extension slip through - Neowin",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUNNOXo0c3VqXzJYSENuTllNb2pMSUdybndqZDdpeVVzbEt3Qlk2OFdtLXhMb0MzMnVaX2NIV3VFbHVOZnB3RnZvX2tEQ0M1Q1RxbkNidXFXZ3RTdFNsclVEZ2ppc1dpcUwzcjNVSGdmTGdMZHFEMDdLRjlMeTkydVVvQU43N2JmdUpNc2JuUjh4VklKbWZ0SlFVUjdHZVNtdzg5WXVyQnF5YVJOeTJ2d1k1ZlhRZw?oc=5",
       "summary": "Google Chrome fails users again by letting malicious Perplexity extension slip through Neowin",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
+      "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta smart glasses now require a subscription for unlimited access to all features - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRHZFWE1UZjN5eG9xVWloU0dXZTRZOTVLbkxLcHEtWnFsU0YxM0pIczZBZkxiUExjZWJGTEF6bjc4RXA0RVRzZjRqNDVFbEMzX0VyYXVKYnBHTGNLRzV4N1R3QmtuVWMw?oc=5",
+      "summary": "Meta smart glasses now require a subscription for unlimited access to all features Mashable",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -211,6 +251,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Fake Perplexity Chrome extension spies on your searches - Malwarebytes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ3VmTDE2bFNlMjVpT1dVLWNidnpFZlVNSGgxRHUxNEs5ZGpnN016a0x2RjB3aDZlYWNJa2xsUHlZZ01GTTZUSkFFSDkyS0FBeGNNdVlsTENjSDNRR3M4OGM4RXJJYW11dWFXWTZ5WHBUZ080UXdxbV93TFRXNWJlVHlZUFhFc09sckRDbi1rRWE3cGZUbGc5b1VuWjVLMjIzaWplQUJrdTU?oc=5",
+      "summary": "Fake Perplexity Chrome extension spies on your searches Malwarebytes",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Perplexity",
       "title": "Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2ZVWEg5VnF6cndFckhhUkxRd0c3UkgzQWkxdFZJRUlySF9NbXhqLXc0eVBrekgwczlTS2hWdTVZdmRBMFBjMFRaNjlUQ2VieFNEQzBxUDA3TzZHSTRMME0wdjE0YnBMQW9falQ4UEF3VlI2UjNOTzkzeE55Yk8yQU9UUXgwOHNlaksycw?oc=5",
       "summary": "Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features TechRepublic",
@@ -221,15 +269,7 @@
       "company": "Meta",
       "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5",
-      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta building cloud business to sell excess AI capacity, Bloomberg News reports Reuters Meta Compute Launch Sends AI Compute ",
-      "badge": "hot",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Storage Blueprint at Scale - Engineering at Meta",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmltbE5rNVprRUVYM3lLNFdYMlZzaTZ3UDJxbWk4djVqS0JfYnROeGttalRLSnpOeWFrZDhMc09CQWNQLWhwOWMyRC11N2FnQmhtV2M0YVd0cFFwMDBQSVQ4YWh5TWhGdzdNeWhNYUs0QU5xWHhWNlpKZldjTzhQMUc4ZkdNeFpObHdfNmI2QkU1alBuN1A0SjR3?oc=5",
-      "summary": "Meta’s AI Storage Blueprint at Scale Engineering at Meta",
+      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta building cloud business to sell excess AI capacity, Bloomberg News reports Reuters Meta’s push into cloud computing mean",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -238,6 +278,14 @@
       "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses - The Verge",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRERMV3F2MGdwRFRvS0pzeXVoS0lncjNoM25BRWR6b0M4dkFtb2Q0OFFkRGtQRXpHNzdxTndQYzVfZG42R2lSVkxWU1F1SzVnQjVidkt5SDhlVXdXRHJPOEVPUVFRcmlvcG53dVJVNXk2cFdqV2c3dXhmcnZFYm8?oc=5",
       "summary": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses The Verge",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Storage Blueprint at Scale - Engineering at Meta",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmltbE5rNVprRUVYM3lLNFdYMlZzaTZ3UDJxbWk4djVqS0JfYnROeGttalRLSnpOeWFrZDhMc09CQWNQLWhwOWMyRC11N2FnQmhtV2M0YVd0cFFwMDBQSVQ4YWh5TWhGdzdNeWhNYUs0QU5xWHhWNlpKZldjTzhQMUc4ZkdNeFpObHdfNmI2QkU1alBuN1A0SjR3?oc=5",
+      "summary": "Meta’s AI Storage Blueprint at Scale Engineering at Meta",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -299,17 +347,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Securing AI agents: When AI tools move from reading to acting - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3MzLWx1UWNMTG8tMXVocVkxNlFLM3dWRzdPVC11X0ZTNERLdGpkejVYcVZpNzk4Z3F4ZTFvSDRDWGo2YkxGMXVZN0QyUWlheEhCNjlKRXd2aFN2QzR0LUZONnZ2RHNocHRhT0JLSHNHMzM2R3A0dUszVWhPa0JBNXp6T0VMUG1uaFpISmZmZ2ZtbDQ3S3hvMTRwUmNwcGJqQTUwSmJRMGNFV2lLNjZv?oc=5",
-      "summary": "Securing AI agents: When AI tools move from reading to acting Microsoft",
+      "title": "Service Agent Reaches General Availability in Microsoft 365 Copilot - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNm11MlNoeVFza0ZHNjhodGhVVHh2Z0JfeEVhZFg0V2drdTg2X1pyMDJweGZVX0VSeF8xRXhla19Ka0g2cTZyLWhPQTZHLUNkUE1hYWY2MXF0QU54Rl80VUZOZy1Xemc5aktGZ0ZVVXE4VTdLUDZCbXFGNHRQOC1iNFdtLXk2R2xZOXk1VzQ3RDR4VHJ5aDFDUkNJUk9EeE1Gb1FYWkFQemxoVkYtejBKRXJB?oc=5",
+      "summary": "Service Agent Reaches General Availability in Microsoft 365 Copilot Microsoft",
       "badge": "new",
       "date": "2026-06-30"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix - infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RYy1ycXdTc19sdER2M0c4SE5wOWprcEVod2hFS3d2X2c2Rmc1WlJneWNlREhlekZMX29ma094M0VieGVIMG1kWTVfa0Z6Rlp0ZUd3aGVsb2tlWDVDY2hHSHptamNnUHRsNkxGcUliTl8?oc=5",
-      "summary": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix infoq.com",
+      "title": "Securing AI agents: When AI tools move from reading to acting - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3MzLWx1UWNMTG8tMXVocVkxNlFLM3dWRzdPVC11X0ZTNERLdGpkejVYcVZpNzk4Z3F4ZTFvSDRDWGo2YkxGMXVZN0QyUWlheEhCNjlKRXd2aFN2QzR0LUZONnZ2RHNocHRhT0JLSHNHMzM2R3A0dUszVWhPa0JBNXp6T0VMUG1uaFpISmZmZ2ZtbDQ3S3hvMTRwUmNwcGJqQTUwSmJRMGNFV2lLNjZv?oc=5",
+      "summary": "Securing AI agents: When AI tools move from reading to acting Microsoft",
       "badge": "new",
       "date": "2026-06-30"
     },
@@ -362,14 +410,6 @@
       "date": "2026-06-30"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI Is Getting Better at Reading Your Thoughts—Without Cracking Open Your Skull - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVS0xMFRpRzBRZmJ3NjB2VUw1TG5yb0Z6ei1EcThIeGJZd1pBb3ZHOWNHNDhRZjAxYi1xdTNabG85WnYzVG12eWo5cVZneFJ4RkVhUVBoTTFiUTY4a01YYUpTYnFQZVlHczFteWVESzNpQ1VqbmFlS0hWek9FV2xtZVY2NS1QMlhqYXVwQmN4S2tQTTNqcnZmc29yU0kyMkNMZjU1NkpOMVcyTFlHbFM1NjVVVE1tZw?oc=5",
-      "summary": "Meta’s AI Is Getting Better at Reading Your Thoughts—Without Cracking Open Your Skull Gizmodo",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
       "company": "OpenAI",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -382,22 +422,6 @@
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzczVU1zbnlmb3FxT1B2a2dtWHlYSTliNGpmV1JBdXJpUk5zNFhGWFR4MDhvUVpBM1dDNHY0NUdzempPM2UtVzJhTzJDZnRtY2xYOV85YmFRMHpQTzNZRmR5aFVSMWFCVjhjWmp1QXpHT1pPbnJ5UXNaU2ZlZHhUc1pQVVJiMHp5WGlFb2dKYjNmRVc2eE0xRkxqMWRGZzdGZlhhRExsTjdiNVRkT2xMT0RWcl9HUQ?oc=5",
-      "summary": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows Yahoo Finance",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "When outputs are the experience - microsoft.design",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGR2loc2U3WElaMnB2cUZyaTU3MFljUjNUUll0RGJBYkFxWUZ0X2otM2ZBeW9jWGV0azEzeGpEZVpGUjlnZnVCQ1NOZ21UT0FMQzlncDhpYjk2ZG9UWW5mdDlNSDBWODdSZERHbXhoeS02QUE5?oc=5",
-      "summary": "When outputs are the experience microsoft.design",
       "badge": "new",
       "date": "2026-06-29"
     },
@@ -418,34 +442,10 @@
       "date": "2026-06-29"
     },
     {
-      "company": "Perplexity",
-      "title": "Tech Mahindra Partners with Perplexity to Enhance AI-Powered Sales and Customer Engagement - CXOToday.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUF1YklDXzJVVzdsNF8zWkN2RUZlWkhBYUlTZEFyRjFxWjZrdlM4RTJpUkNqVG5oVHJhTEFjdDNHaW1nTmVUemtGSDBuNzlndGQ4dWI2T1JHTzNKbWF3cTJyNHNCSEdQbU9OS2xkd0lQY29XcHRjM1VmeGliMmZSZWtwcnhQekhZaGVmOGFYdjhkbklVbDV2eURYS3hlOVhDRGd6dDRFQ2VSRUZVUERyVm41RngtU09SM1JFbVZtYkRaWFNqVHc?oc=5",
-      "summary": "Tech Mahindra Partners with Perplexity to Enhance AI-Powered Sales and Customer Engagement CXOToday.com",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Meta",
-      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
-      "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery AI at Meta",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
       "company": "OpenAI",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "badge": "hot",
-      "date": "2026-06-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2F2MWF2ZC1oaUlobGFxVFVnTnZkZTJlSjBTMktEckJfeXFhclZscnF5Q0EzY2pkck9mQlRCMl9yV2Zib0VyV1o0ZlQ4Smk1ODhqN2lnb3htNjZJVkN0UzltOFBwdTh6ZHhONUw5VUlGQzZnWjBabWhKeGFqcDlqT3FFeXpyai1nNGFqbVVoNE5zbGx6dWlQLU04aXM4TEt5NVVEcnJFUV9KRUxYTWxieElnZ3FXb0VIbXc5bWxLZTkwSUFkcThKMGlvTlNva0VLdktXcW1Xd0dLT05TUzhjYlB3?oc=5",
-      "summary": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw Tech Times",
       "badge": "hot",
       "date": "2026-06-28"
     },
@@ -571,17 +571,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
-      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws cnet.com",
+      "title": "Amazon faces class action suit over Ring facial recognition feature - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZU9ZTGtvdlRMUU1uZlN4QWVEX2pyemNOQ1ZMaWpUUXZDZ2VnbzhNR3pXd2JxNHFSRi1TUHdubmZLZGtFZzZmVG9yOG1Fem9Gb2ZncVJPMjQ1ODBQbVZzamlMTFdiOVdIMmdzS2lBUFQ0ZXlVREItU2JDVmN3S0QtR3VBRGQxbzRSVHVQajVWT2dqN3FtenE5RXNZQVdLU3c?oc=5",
+      "summary": "Amazon faces class action suit over Ring facial recognition feature Mashable",
       "badge": "new",
       "date": "2026-06-03"
     },
     {
       "company": "Amazon",
-      "title": "Amazon faces class action suit over Ring facial recognition feature - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZU9ZTGtvdlRMUU1uZlN4QWVEX2pyemNOQ1ZMaWpUUXZDZ2VnbzhNR3pXd2JxNHFSRi1TUHdubmZLZGtFZzZmVG9yOG1Fem9Gb2ZncVJPMjQ1ODBQbVZzamlMTFdiOVdIMmdzS2lBUFQ0ZXlVREItU2JDVmN3S0QtR3VBRGQxbzRSVHVQajVWT2dqN3FtenE5RXNZQVdLU3c?oc=5",
-      "summary": "Amazon faces class action suit over Ring facial recognition feature Mashable",
+      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
+      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws cnet.com",
       "badge": "new",
       "date": "2026-06-03"
     },
