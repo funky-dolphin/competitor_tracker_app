@@ -1,13 +1,45 @@
 {
-  "updated": "2026-07-01T19:45:59Z",
+  "updated": "2026-07-02T02:45:57Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5",
-      "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' CNBC",
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
       "badge": "new",
-      "date": "2026-07-01"
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-07-02"
     },
     {
       "company": "Anthropic",
@@ -15,6 +47,14 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
       "summary": "Introducing Claude Sonnet 5 Anthropic",
       "badge": "hot",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5",
+      "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' CNBC",
+      "badge": "new",
       "date": "2026-07-01"
     },
     {
@@ -99,6 +139,22 @@
     },
     {
       "company": "Microsoft",
+      "title": "JMP Securities Reaffirms Bullish Outlook on Microsoft Corporation (MSFT) Following Copilot Cowork Launch - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXNnWWRiSTRGZW5JbjN0c3UwNEdvRmt3dkRwVUwzVXNINHNoRk5xckgzX2VqTFI1alQwY19sR2kyUE9BN3M1dmFHV2VHV2xrVzREcFdVUFg1X2c5RF9GUm5fS1lOX1RnR2FBMHhwUjVMUG1yc0JCd3ljTnl6SXhMdXVodW82dUVPVU03NTFGZ0NrVnB0eV9lTnBqeDd0T0RxVVdmbGFHbw?oc=5",
+      "summary": "JMP Securities Reaffirms Bullish Outlook on Microsoft Corporation (MSFT) Following Copilot Cowork Launch Yahoo Finance",
+      "badge": "hot",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Less than a month after GitHub changed how it charges customers for Copilot AI coding tool, Microsoft-own - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNdGRiZHFkVDloREE2VTFZV3JFY1VXT2dzd0lBenV4eHRRd0JPLU9Oc0NGUHAzNEdkV2V1RlZ1XzY0YmEtQ2xGN1JfTk05MjlrRXM5ZkNMVEdMSEhwcHVrZ1JOZEhFTU40U2pDbHRPTk1xaVBKb3hfemsxc09QTGJ1NmExanhzTHJYRm5PMXQ5ZFkzM21DSk1QOXd0bHJPUlhoOUg5S0RDOURNMzBOUWJDdU5VUS1ZRUZ5Sy1RdnNuRWZOTWQzNWNOS3JLbG9KU0UtZGg4SmN6TGJDb2FpVDdRbnp5NWlnTXF3Z3dHalkzWUNBSUduWUwtSFpmYmVSUXpfakFlbkRxWXl0OW0ta2tsbzF4S3l3SXJxamk1cjNfb0JjNzhmNmstX2ZQVllpTVBCWTZaMnVsNDJTbTUwcDZBU0Z4enkzMzJrTzNpY0s2MjA1bmFKNS1nd2VR0gHfAkFVX3lxTE9kMTVZcTFqRC1GazhnSThCVnpRcXE1M0NUUXB0WFhxQ1V6b3BBVWZUQS1PbEpBaW5tRE1OZ3VMRENCRDlsenFINGlmM3JVNjRFVTRqbDZNbU53d19TT1p1ZGxjR21kMTB1clhrTmdjUURjb0RSUnZ1OW1SaFVyaVBLdnVWRFpNVXZ4NE1LdXB4MDVtbGI5Xy1IR3dWS3FBdkZCR1VfSU1sbUtFc0hZbDA5OVZsRDhvdE13VVhXX2xzSXlaTkZpcHN3RmNia1JGRFc0MUZWbnFIUXBvNXpEemZXNkF0OFpMM0tWVk53MjltMzhhRUIzN2dXNTItUFRDUGNaT3ZVOU9EdmFLYTkxdXlhZG05aVdpZGlIdHo5Q1V2Q1ZzNVA5QzlXbllYWENwakQ4RHdNckNNN09hVVVHMlNEbDMtYUdIVU50MmliY1pxNkNBRzU1S1poZVNMLU54bw?oc=5",
+      "summary": "Less than a month after GitHub changed how it charges customers for Copilot AI coding tool, Microsoft-own The Times of India",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Edge AI History Search Raises New Privacy Questions for IT Teams - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Sk1vZTUtTXBNVmxqLVI3UHEzZGhCMUhuTTNUR3JhUUliV3AxXzJ2RXhoSjlnNFJTWHRwOXh0bksyUXVIa2wwbzZxRWg0bUdUNUc5OERMa040NnRTSF9UbjNwVjZXZjdDblBVS0JoejRacFdJ?oc=5",
       "summary": "Microsoft Edge AI History Search Raises New Privacy Questions for IT Teams TechRepublic",
@@ -106,50 +162,10 @@
       "date": "2026-07-01"
     },
     {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-07-01"
-    },
-    {
       "company": "Meta",
       "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5",
-      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta pops 10% as company makes cloud push to sell excess AI compute power capacity CNBC Meta building cloud business to sell ",
+      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta building cloud business to sell excess AI capacity, Bloomberg News reports Reuters Meta pops 9% as company makes cloud p",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -211,9 +227,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZldDREpCR3h2NTUxODFwLWU5OHVLLWVOQXFzaExVeUk0MUkwR3dhNk9OWk41c29kX2o0OXA5MkNUdTAxTVdOQVh6ZzNqTE5rMVBuaUt4Nm5vZzNVcThFZHIwZ0Y2cjdhTWtuMVEtWkszWDBwNnd2TUVrTnh1elUyYmk1TUhuVmczUm11UVp2Qml2dmt5Nzc2NlBGdVBpVEZrbkkyRDAzQW9Jbkp6QWFMU3VaT0F1V3Q5VzFXM2VR?oc=5",
-      "summary": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 CNBC Trump administration lifts restrictions on Anthropic's Fable 5 Axios U.S. Lifts Restrictions on Anthropic’s Mo",
+      "title": "Claude Science, an AI workbench for scientists, is now available - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
+      "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
       "badge": "new",
       "date": "2026-06-30"
     },
@@ -342,22 +358,6 @@
       "title": "Microsoft is fuelling up Excel with lots more AI tools for finance workers - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQbmd2dllQcXctLTZKbkJBUklYZkVwWl82SlIxQlhwRGZLNmJXMW1UaXBCVk1HWkJwaVNXRDZjZEhqQUIyVlV2MlgwVVRMSEhBM1ZkYzE1Nms2RWo4dF9jNkdGb3BBVXdGMGZUUjdFQmI1NnQ0RzIyNTJNNE1VMGJPVVBaNTA3X3JXdmVXRWhQc180WFFJVkVqVzlXcERsVDlMYTdUbzVTc1NmNm1ZU3FsbUlPZFl5cTdtX2NuckNyWjBXQmpFVjJuLVVsc0JRM2s4bVZzOG1oSWRNN0dKdTN6dXVLUjcxeE95ek5qbVUxaW80dFExMGFCUnZQd1RyOHRpbGlKR3U0Q1dTUlZOSHlETHZCUW9EbkR5bHBOb05sM0NNN19qcFE4ZGx2MGFKaXZYaUx1aQ?oc=5",
       "summary": "Microsoft is fuelling up Excel with lots more AI tools for finance workers TechRadar",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Italy Investigates Microsoft 365 Price Hike Tied to Copilot - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVRoSS1TWW9naTdZWjVNblRWUjZTd2syeEw3UWZwaUtMYkdMOXhfcllZcnlPa2EtbUphZ2Npc01fTkV6bFlxQ081OERZSjBnbThQLXBsVUtHUE1waEtLR1JsQzUtekRwMUF6YXJlRnFRZEZvbjUxRHdHb2FHZWZHVEk0Wi0?oc=5",
-      "summary": "Italy Investigates Microsoft 365 Price Hike Tied to Copilot TechRepublic",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5",
-      "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading Microsoft",
       "badge": "new",
       "date": "2026-06-29"
     },
