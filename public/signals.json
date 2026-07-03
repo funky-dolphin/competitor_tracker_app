@@ -1,20 +1,52 @@
 {
-  "updated": "2026-07-02T19:16:48Z",
+  "updated": "2026-07-03T02:28:19Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-07-03"
+    },
     {
       "company": "Anthropic",
       "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
       "summary": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf Reuters",
       "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM01fYjd1cjFmcGxOU3ZaYlZ3NWdxMEhIbHJKZ3JLMWZmQTJhM2RzaVMxZ2R5c2NyLTd2clVCSWVKT1BlckRKSnhsTjVfdXpIMDN6UHJhLVBoTTA2MlB1VHZPOHBEWHNHcTc4NTM0S2JSc2RhZ1o4YWF1NnE1eVFwa2trWXp1SzltcjFMYVNrbFdaRHIzc3J0MVlvd1hUTmJ3WWFqSURpbVYzVTRnd1FmX2ROQ1dyS0dtaFJoQkNsbVcxS3ZseXFxZ0pIUnVBU1JNMmYwMnVZVmFiZkRNYlFOd2xuV2VVZzktNVo1MnhKbDYtOXFoNmdrMEE3eXBia3U4M2tlWUhFa21Jb3k4RVdfVzJBWWNpOUFWUU5RTTR1dlYzeGkzeFIwRg?oc=5",
-      "summary": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge Windows Central",
-      "badge": "watch",
       "date": "2026-07-02"
     },
     {
@@ -27,50 +59,34 @@
     },
     {
       "company": "Microsoft",
+      "title": "Nine and Microsoft announce Australian-first AI agreement for news media content - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQk56enk4TTltVkJkQ000ZE1CN1E1TGlWRkFpbkRBOFRfSUJmc2lDcXFMbXJXT3g5LTNrX09wZVIxZzBqSjRYUDJINkVubFpBV25PX1psWkp1bjVSSmN1M2RjZmZCV1JvdzRHVFBtS1REajdEUXRINVlYbDB0N1FtWmRMZlJqVUp4SzFV?oc=5",
+      "summary": "Nine and Microsoft announce Australian-first AI agreement for news media content Microsoft Source",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
+      "summary": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. The Verge",
+      "badge": "watch",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM01fYjd1cjFmcGxOU3ZaYlZ3NWdxMEhIbHJKZ3JLMWZmQTJhM2RzaVMxZ2R5c2NyLTd2clVCSWVKT1BlckRKSnhsTjVfdXpIMDN6UHJhLVBoTTA2MlB1VHZPOHBEWHNHcTc4NTM0S2JSc2RhZ1o4YWF1NnE1eVFwa2trWXp1SzltcjFMYVNrbFdaRHIzc3J0MVlvd1hUTmJ3WWFqSURpbVYzVTRnd1FmX2ROQ1dyS0dtaFJoQkNsbVcxS3ZseXFxZ0pIUnVBU1JNMmYwMnVZVmFiZkRNYlFOd2xuV2VVZzktNVo1MnhKbDYtOXFoNmdrMEE3eXBia3U4M2tlWUhFa21Jb3k4RVdfVzJBWWNpOUFWUU5RTTR1dlYzeGkzeFIwRg?oc=5",
+      "summary": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge Windows Central",
+      "badge": "watch",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjBDWUp3ZU52dzEwSTlJckRSVXV5OS02VWVidVFpSmFicW5zSGQ1UmxKaXROSC1mN09Wb3oyVWd4dHkwSkRrRXlhaXZ5dTlWT09Nc3IxZlJ4Q3dLZkRfN3pqeUdfVG1EaTVDTEhvRDhETkxfUlhFTFhWODhoUGZxZDN5U2NnMk5JamZNajlXT191TGtPSkFLal9mR19HV21zRjcxWQ?oc=5",
       "summary": "Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ) Seeking Alpha",
       "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
       "date": "2026-07-02"
     },
     {
@@ -86,6 +102,30 @@
       "title": "Google Chrome fails users again by letting malicious Perplexity extension slip through - Neowin",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUNNOXo0c3VqXzJYSENuTllNb2pMSUdybndqZDdpeVVzbEt3Qlk2OFdtLXhMb0MzMnVaX2NIV3VFbHVOZnB3RnZvX2tEQ0M1Q1RxbkNidXFXZ3RTdFNsclVEZ2ppc1dpcUwzcjNVSGdmTGdMZHFEMDdLRjlMeTkydVVvQU43N2JmdUpNc2JuUjh4VklKbWZ0SlFVUjdHZVNtdzg5WXVyQnF5YVJOeTJ2d1k1ZlhRZw?oc=5",
       "summary": "Google Chrome fails users again by letting malicious Perplexity extension slip through Neowin",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
+      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected Reuters",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5",
+      "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall Business Insider",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5",
+      "summary": "Meta is finally catching up to OpenAI, its AI leader says Business Insider",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -267,9 +307,17 @@
     },
     {
       "company": "Meta",
+      "title": "Fear and anger brew inside Meta amid AI frenzy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVVjUXhrTzdRYjlsckMtUXQtYnB0UHI5VGFsYmJ3Q2lfakd6WGdxR3dOQUgyQnotbXBITTNiZmduVU0wTHZiM0hEN0oyckcxZk15N3ZJanZJVUo5ODZacFZsMWZLSFlQRnFLSWhxOFFrR1hFZ1NuVDB0dkJtbFg0WFpTVkFfMVUxRHV0ZlZkN3pUT3RBT3c?oc=5",
+      "summary": "Fear and anger brew inside Meta amid AI frenzy Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Meta",
       "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5",
-      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta building cloud business to sell excess AI capacity, Bloomberg News reports Reuters Meta’s push into cloud computing mean",
+      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com Meta pops 9% as company makes cloud push to sell excess AI compute power capacity CNBC Meta Stock Falls as AI Cloud Plans Hit",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -278,30 +326,6 @@
       "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses - The Verge",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRERMV3F2MGdwRFRvS0pzeXVoS0lncjNoM25BRWR6b0M4dkFtb2Q0OFFkRGtQRXpHNzdxTndQYzVfZG42R2lSVkxWU1F1SzVnQjVidkt5SDhlVXdXRHJPOEVPUVFRcmlvcG53dVJVNXk2cFdqV2c3dXhmcnZFYm8?oc=5",
       "summary": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses The Verge",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Storage Blueprint at Scale - Engineering at Meta",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmltbE5rNVprRUVYM3lLNFdYMlZzaTZ3UDJxbWk4djVqS0JfYnROeGttalRLSnpOeWFrZDhMc09CQWNQLWhwOWMyRC11N2FnQmhtV2M0YVd0cFFwMDBQSVQ4YWh5TWhGdzdNeWhNYUs0QU5xWHhWNlpKZldjTzhQMUc4ZkdNeFpObHdfNmI2QkU1alBuN1A0SjR3?oc=5",
-      "summary": "Meta’s AI Storage Blueprint at Scale Engineering at Meta",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUZfbVhkRXYzMGNzWC1Wc3FzeEpFLXNVMlhCcFFPTEdqSldHVWpySGJpYlh0TWRSdDRFeGZwejR5cTNqRXhfa3hHTW9tdkFHRU1HVlBqQ3F2WjZpR0VkZUdlNjdZUVZkOUpmQ0JtakVCbHNoV0RrVk54RmItbmhwQ0diT0ZnMUIwTTBYVmtqV3BHMmlHcEtLSg?oc=5",
-      "summary": "Meta, like SpaceX, looks to turn excess AI compute into cash TechCrunch",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta to sell excess AI computing capacity via cloud business, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
-      "summary": "Meta to sell excess AI computing capacity via cloud business, Bloomberg News reports Reuters",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -346,22 +370,6 @@
       "date": "2026-06-30"
     },
     {
-      "company": "Microsoft",
-      "title": "Service Agent Reaches General Availability in Microsoft 365 Copilot - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNm11MlNoeVFza0ZHNjhodGhVVHh2Z0JfeEVhZFg0V2drdTg2X1pyMDJweGZVX0VSeF8xRXhla19Ka0g2cTZyLWhPQTZHLUNkUE1hYWY2MXF0QU54Rl80VUZOZy1Xemc5aktGZ0ZVVXE4VTdLUDZCbXFGNHRQOC1iNFdtLXk2R2xZOXk1VzQ3RDR4VHJ5aDFDUkNJUk9EeE1Gb1FYWkFQemxoVkYtejBKRXJB?oc=5",
-      "summary": "Service Agent Reaches General Availability in Microsoft 365 Copilot Microsoft",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Securing AI agents: When AI tools move from reading to acting - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3MzLWx1UWNMTG8tMXVocVkxNlFLM3dWRzdPVC11X0ZTNERLdGpkejVYcVZpNzk4Z3F4ZTFvSDRDWGo2YkxGMXVZN0QyUWlheEhCNjlKRXd2aFN2QzR0LUZONnZ2RHNocHRhT0JLSHNHMzM2R3A0dUszVWhPa0JBNXp6T0VMUG1uaFpISmZmZ2ZtbDQ3S3hvMTRwUmNwcGJqQTUwSmJRMGNFV2lLNjZv?oc=5",
-      "summary": "Securing AI agents: When AI tools move from reading to acting Microsoft",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
       "company": "Apple",
       "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
       "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
@@ -398,14 +406,6 @@
       "title": "Perplexity AI — Latest News, Reports & Analysis - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ULUlDbEh4eUZtX1pDajR2VjVsZlJ3RXU4Z1VuTjZ6TG9pdFFFanJkdksyWGtjNjRsekpBdHRiSkRKV0pFd2ZlUC1lNFpab0RsWFlBMUsybktNclgyZ0pWSkUwM2w?oc=5",
       "summary": "Perplexity AI — Latest News, Reports & Analysis The Hacker News",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Ninajirachi Soundtracks Kylie Jenner Meta AI Glasses Campaign - Stereogum",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2dLbnJ3TG1ZRHdHSTZpNEp2ZUNZejg0LXBZek1sN3djZTduZkxPLXRWdVNENU9JUGNVNm1mMEw5YXdPNkF3MTNSWFMtYnRoRGJGUXlHNE12NjlyckRuVU5CZjNEQ0xBQmZuTUV6Q0dQdEs5TXEyRkljWEZ2N3ktSDhOV1A1TGtrVUlDU0lrd3JTLWtyUlQ1VjVvVlQ?oc=5",
-      "summary": "Ninajirachi Soundtracks Kylie Jenner Meta AI Glasses Campaign Stereogum",
       "badge": "new",
       "date": "2026-06-30"
     },
