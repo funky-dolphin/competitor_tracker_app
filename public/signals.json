@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-03T02:28:19Z",
+  "updated": "2026-07-03T08:55:09Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
+      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
     {
       "company": "Apple",
       "title": "Apple Creator Studio gets smarter, faster, and more connected",
@@ -51,14 +59,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
-      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Microsoft",
       "title": "Nine and Microsoft announce Australian-first AI agreement for news media content - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQk56enk4TTltVkJkQ000ZE1CN1E1TGlWRkFpbkRBOFRfSUJmc2lDcXFMbXJXT3g5LTNrX09wZVIxZzBqSjRYUDJINkVubFpBV25PX1psWkp1bjVSSmN1M2RjZmZCV1JvdzRHVFBtS1REajdEUXRINVlYbDB0N1FtWmRMZlJqVUp4SzFV?oc=5",
       "summary": "Nine and Microsoft announce Australian-first AI agreement for news media content Microsoft Source",
@@ -67,10 +67,10 @@
     },
     {
       "company": "Microsoft",
-      "title": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
-      "summary": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. The Verge",
-      "badge": "watch",
+      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
+      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
+      "badge": "new",
       "date": "2026-07-02"
     },
     {
@@ -78,6 +78,14 @@
       "title": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM01fYjd1cjFmcGxOU3ZaYlZ3NWdxMEhIbHJKZ3JLMWZmQTJhM2RzaVMxZ2R5c2NyLTd2clVCSWVKT1BlckRKSnhsTjVfdXpIMDN6UHJhLVBoTTA2MlB1VHZPOHBEWHNHcTc4NTM0S2JSc2RhZ1o4YWF1NnE1eVFwa2trWXp1SzltcjFMYVNrbFdaRHIzc3J0MVlvd1hUTmJ3WWFqSURpbVYzVTRnd1FmX2ROQ1dyS0dtaFJoQkNsbVcxS3ZseXFxZ0pIUnVBU1JNMmYwMnVZVmFiZkRNYlFOd2xuV2VVZzktNVo1MnhKbDYtOXFoNmdrMEE3eXBia3U4M2tlWUhFa21Jb3k4RVdfVzJBWWNpOUFWUU5RTTR1dlYzeGkzeFIwRg?oc=5",
       "summary": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge Windows Central",
+      "badge": "watch",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
+      "summary": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. The Verge",
       "badge": "watch",
       "date": "2026-07-02"
     },
@@ -94,6 +102,14 @@
       "title": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX05aTTYwSVlGSVV0VnlyWkVQSDBVMVB3VU5LZkViaGd0UFNrV3lENllWanFLZTJqNmoyVnJQdkNZYmRieW9adDg2S1ZRYlp1RWdFZXJhX3JPV2swblVtSGVLUDJZNEI5blN1Ul9YcExWd2xJMzhPTm9Pakk3Z3hwQ3pzckM4UWpsUjdiZWxScGgwR0wtRHMtS0RWbC1MUl9TTVl3b1U3RnFId0FTWkF4Rmluel9VdzhuY0tSUDNhanBtd19GT01PbVlCeUJld2hFbVdKdzRUVVlRQWRR?oc=5",
       "summary": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it Tom's Guide",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
+      "summary": "Sneaky Chrome extension discovered secretly monitoring all search activity Gizmochina",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -163,6 +179,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic is removing its covert code for catching Chinese competitors - The Register",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjMtb3RaUjV3UzRJWjBRTmNEOWlORl9zWUktSDhPa2JnNTRCb0ZNZkdVbGg5NnpvQlVfOGUxQUtTLVJLdkVLWXFLUVYxNnFzZk5VSzdZOUQ2bnRxSkQtTDd2TDFsWDFSaDJ2T3Z3MWdKU0NjcW5iMzZTRzExeDF6UVB0eklnWHpEV1I0b3ZpUEs0aV8teWhTTVpOTFhVQUk0eGo0a3ZLTzZoTFZmOXNXMVpQSE9XbnVDb29SR0kxOGlYamhHb0E?oc=5",
+      "summary": "Anthropic is removing its covert code for catching Chinese competitors The Register",
+      "badge": "new",
+      "date": "2026-07-01"
+    },
+    {
+      "company": "Anthropic",
       "title": "Introducing Claude Sonnet 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
       "summary": "Introducing Claude Sonnet 5 Anthropic",
@@ -214,22 +238,6 @@
       "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFZkTWw1SDJBWVZnalNlVDJVQTNvckpuVm9uNkJRTm51ZVdOdy1RaGgtdWhWUnBxWHF3RlJJeDJOeDVKU3N1LWFlSnRCRUNOYWtTak9faTZES2NTRzVSME5oXzVFa0pBQmJydXE5RFNNSFIxSWk0S0d1SHh0R2ZWV0UxTzk3VlFReXc?oc=5",
       "summary": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models The New York Times",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic is launching an AI research workbench to consolidate scientific tools - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zckg4Z1N3NVUxSmxlTUlVaTZOVGVuZkY2c0V6dXlib25kMUJiWGRia3RGel9lZlVhZzRmTzhoQ3dXc2ZzNmNaNmtIVDR6Z0JJR3VBaWFIS0hfWlBfUURIVHVBanRUWS1teVRONFZuYTFsbXBrajVxUGVB?oc=5",
-      "summary": "Anthropic is launching an AI research workbench to consolidate scientific tools qz.com",
-      "badge": "hot",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFJ5dkZRcG0wem84MDRUajI4cW1CbVhvM25tSl9wM1NZNGpEY1RBTEpkSWNmeFpmQXA1eFp1bzZhNHQ5N25kdVhvcWNpa0dWNlJPSDZ0bDNLQVprMmp2djNUSU9EMmZ4TVB5TU1XNGRQajJtNUxxcVdmcDI0SDdEQXBCSnUxN3lnaW9WblBzcHhEY1E3U20yclNLN3NDMkUxMlRYMktpcHRnSE9SNDgw?oc=5",
-      "summary": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo Bloomberg.com",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -430,14 +438,6 @@
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkFneXludDFZekpDN25XUHR2cGxlU05NMFhweEFGZUlNaEstYWc5cWtUVW9QcGdKSHpkalZtaDV2MVhuUXFBQzg1SEJ2d0tzWFdYcmN3NkZZUU9nSnNsWFNFcWZJaGJXUFU4Y3IzOUtxYXR5ZFBSTDA0aE8tdkgxTWVn?oc=5",
       "summary": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input The Hacker News",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Shopping is Becoming a Commerce Channel - thekeyword.co",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XWHhwdjhuZEtfOWFfYWhyVGNkNHVzR2IyWXVGVVhkTHlHM1p0Q2NxZkVjNHFRTy1yOFNhNU82cVRFRHRXVDlVQ3gzWWl3Ni1XQmxQNmY2emVPSE9oel9RbG1PZDc1a1Z4RG9IYzY2QUM?oc=5",
-      "summary": "Perplexity Shopping is Becoming a Commerce Channel thekeyword.co",
       "badge": "new",
       "date": "2026-06-29"
     },
