@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-03T13:51:49Z",
+  "updated": "2026-07-03T19:11:39Z",
   "signals": [
-    {
-      "company": "Anthropic",
-      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
-      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
     {
       "company": "Anthropic",
       "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
       "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says Reuters",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
+      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times",
       "badge": "new",
       "date": "2026-07-03"
     },
@@ -74,6 +74,22 @@
       "date": "2026-07-03"
     },
     {
+      "company": "Perplexity",
+      "title": "Why Perplexity's Founder Doesn't Think the American Dream Is Over - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1VpZnhubUFxQUlQX19UaTJETE45R1cwak5kamd4dGdBZVlUTmVhaTl0d21JZE13T3RVZXpaSHp3R1NJVkZJeWJKbkdKdlBqeENZLWlNVEU1aVBmZXk0Tlp3MWlIMm1mckxGLW8wRWQwSFFxZlZNdVlZWERCMV9tYUx3YlhvQWRQclFNUFJ4RVF6OXZn?oc=5",
+      "summary": "Why Perplexity's Founder Doesn't Think the American Dream Is Over Business Insider",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5",
+      "summary": "Meta's AI Payoff Timeline Looks Messier Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
       "company": "Meta",
       "title": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents - Barron's",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fNndGUUxhc3pHRTlEcDZ4UzlBaFVVZGRfa0tuM2RJTXhjallpZkFtNVVndmlMTU9CQzUxcWZtWUt2UGxjSERIbXZiWWZ0engwZnVVcjgxRXVWZVJOeVB2cHBtOVdYS1pONmJ6N1JLMG1GaUNzajdQS1NmWkl4dw?oc=5",
@@ -131,17 +147,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX05aTTYwSVlGSVV0VnlyWkVQSDBVMVB3VU5LZkViaGd0UFNrV3lENllWanFLZTJqNmoyVnJQdkNZYmRieW9adDg2S1ZRYlp1RWdFZXJhX3JPV2swblVtSGVLUDJZNEI5blN1Ul9YcExWd2xJMzhPTm9Pakk3Z3hwQ3pzckM4UWpsUjdiZWxScGgwR0wtRHMtS0RWbC1MUl9TTVl3b1U3RnFId0FTWkF4Rmluel9VdzhuY0tSUDNhanBtd19GT01PbVlCeUJld2hFbVdKdzRUVVlRQWRR?oc=5",
-      "summary": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it Tom's Guide",
+      "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
+      "summary": "Sneaky Chrome extension discovered secretly monitoring all search activity Gizmochina",
       "badge": "new",
       "date": "2026-07-02"
     },
     {
       "company": "Perplexity",
-      "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
-      "summary": "Sneaky Chrome extension discovered secretly monitoring all search activity Gizmochina",
+      "title": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX05aTTYwSVlGSVV0VnlyWkVQSDBVMVB3VU5LZkViaGd0UFNrV3lENllWanFLZTJqNmoyVnJQdkNZYmRieW9adDg2S1ZRYlp1RWdFZXJhX3JPV2swblVtSGVLUDJZNEI5blN1Ul9YcExWd2xJMzhPTm9Pakk3Z3hwQ3pzckM4UWpsUjdiZWxScGgwR0wtRHMtS0RWbC1MUl9TTVl3b1U3RnFId0FTWkF4Rmluel9VdzhuY0tSUDNhanBtd19GT01PbVlCeUJld2hFbVdKdzRUVVlRQWRR?oc=5",
+      "summary": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it Tom's Guide",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -163,17 +179,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5",
-      "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall Business Insider",
+      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
+      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected Reuters",
       "badge": "new",
       "date": "2026-07-02"
     },
     {
       "company": "Meta",
-      "title": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVUa3FPOVpVNWJzbS00NWNEb3dWYjVjVFdzM052RnpOdFE0cUhXVXNORm15WGZHUXpxdHE3bzRXYUJPeE1SSS0zWWlOb2dJUklfeWJpNl9ZOVNNRF9wa3B4QmM5bTJDNmEwYVlwLU84aEMxVG1TSmNNV3VWQVc3VW51NmRXODV1dy14QktRa013ZDJ6ak5MeXo3OUM4Sjg?oc=5",
-      "summary": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected Yahoo Finance",
+      "title": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5",
+      "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall Business Insider",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -187,9 +203,9 @@
     },
     {
       "company": "Meta",
-      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
-      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected Reuters",
+      "title": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVUa3FPOVpVNWJzbS00NWNEb3dWYjVjVFdzM052RnpOdFE0cUhXVXNORm15WGZHUXpxdHE3bzRXYUJPeE1SSS0zWWlOb2dJUklfeWJpNl9ZOVNNRF9wa3B4QmM5bTJDNmEwYVlwLU84aEMxVG1TSmNNV3VWQVc3VW51NmRXODV1dy14QktRa013ZDJ6ak5MeXo3OUM4Sjg?oc=5",
+      "summary": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected Yahoo Finance",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -330,14 +346,6 @@
       "date": "2026-07-01"
     },
     {
-      "company": "Meta",
-      "title": "Fear and anger brew inside Meta amid AI frenzy - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVVjUXhrTzdRYjlsckMtUXQtYnB0UHI5VGFsYmJ3Q2lfakd6WGdxR3dOQUgyQnotbXBITTNiZmduVU0wTHZiM0hEN0oyckcxZk15N3ZJanZJVUo5ODZacFZsMWZLSFlQRnFLSWhxOFFrR1hFZ1NuVDB0dkJtbFg0WFpTVkFfMVUxRHV0ZlZkN3pUT3RBT3c?oc=5",
-      "summary": "Fear and anger brew inside Meta amid AI frenzy Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
       "company": "OpenAI",
       "title": "How ChatGPT adoption has expanded",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -430,14 +438,6 @@
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkFneXludDFZekpDN25XUHR2cGxlU05NMFhweEFGZUlNaEstYWc5cWtUVW9QcGdKSHpkalZtaDV2MVhuUXFBQzg1SEJ2d0tzWFdYcmN3NkZZUU9nSnNsWFNFcWZJaGJXUFU4Y3IzOUtxYXR5ZFBSTDA0aE8tdkgxTWVn?oc=5",
-      "summary": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input The Hacker News",
       "badge": "new",
       "date": "2026-06-29"
     },
