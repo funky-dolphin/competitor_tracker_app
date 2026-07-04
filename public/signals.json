@@ -1,11 +1,67 @@
 {
-  "updated": "2026-07-03T19:11:39Z",
+  "updated": "2026-07-04T02:26:32Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-07-04"
+    },
     {
       "company": "Anthropic",
       "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
-      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says Reuters",
+      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says Reuters Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times Anthropic is removing its covert",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework Anthropic",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How the world's top AI models were revived - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkJnT1VCbHFmNF9ZUVAzQUFneDJ3TE1UWElhSTBvdFo2enB1Q29DMG1SQlUzY290MmhPT3dyc3pDaXZFMmFNSDhFUTlvWTlQX2V5V0ZUMzJIYk51S0FqcmxlYmh5dkVoWUtIX054QTkteWdON18yM2hjbGRCM0lIVG0taHQ?oc=5",
+      "summary": "How the world's top AI models were revived Axios",
       "badge": "new",
       "date": "2026-07-03"
     },
@@ -27,50 +83,18 @@
     },
     {
       "company": "Microsoft",
-      "title": "A leaked Microsoft experiment reveals a new OS built entirely around Copilot and AI agents - TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUpGZjdYcVZSWklSTlZDU2ZYWTZwM0R6STNWdkhXanFReE5XQTcydzU5OW1QZWRVallZQ1duRWZ4NC1ramJ6RFl1QXVBM1BqWldIb0dETkxILW80Y0s3MWFrMmZZdVlHRVBHVGZmQ3Qwd3VwWkptenFFX2pQOS12eTl1SDNsQkFVZXFXS3FpQW9GaDhYWWlOc3FEMVFHMkVw?oc=5",
-      "summary": "A leaked Microsoft experiment reveals a new OS built entirely around Copilot and AI agents TechSpot",
+      "title": "'This company has completely lost the plot': leaked Microsoft video shows Windows concept built around Copilot AI — and the internet isn't impressed - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMENNdEVRa3Vad2tHOHdxblRnOXU2SHZiVjlhQTQweVhQemV2MHUwNFpTTnJPenJlNGIxbnpCRWdaSVZWbC1Wd19xVXluZVVYbk9IUmQzUHh0LWhoLUZmWFJLR1B6blNjRkxwVnJrLVB2d1JVbEFpRXNONkU4bFprSlVsMm5xZDB0aHhUaWR1VDlIMXZ6TkFrbkJSZ1p4QjNMVko4RDZYVU40eHJ0eWNrVzNHM1g5VEFXYzUxVk5BdmdHZVh0WFotRmxZQklURzdfa1JyNjU2THBVSkNfVnI1aDdQMFN6Zy1RZlpPaHpYOWtFVmRlcDNWX3YtZ1BaSDlxWm5YaQ?oc=5",
+      "summary": "'This company has completely lost the plot': leaked Microsoft video shows Windows concept built around Copilot AI — and the internet isn't impressed TechRadar",
       "badge": "watch",
       "date": "2026-07-03"
     },
     {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
+      "company": "Microsoft",
+      "title": "A leaked Microsoft experiment reveals a new OS built entirely around Copilot and AI agents - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUpGZjdYcVZSWklSTlZDU2ZYWTZwM0R6STNWdkhXanFReE5XQTcydzU5OW1QZWRVallZQ1duRWZ4NC1ramJ6RFl1QXVBM1BqWldIb0dETkxILW80Y0s3MWFrMmZZdVlHRVBHVGZmQ3Qwd3VwWkptenFFX2pQOS12eTl1SDNsQkFVZXFXS3FpQW9GaDhYWWlOc3FEMVFHMkVw?oc=5",
+      "summary": "A leaked Microsoft experiment reveals a new OS built entirely around Copilot and AI agents TechSpot",
+      "badge": "watch",
       "date": "2026-07-03"
     },
     {
@@ -86,6 +110,14 @@
       "title": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5",
       "summary": "Meta's AI Payoff Timeline Looks Messier Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5",
+      "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says Mashable",
       "badge": "new",
       "date": "2026-07-03"
     },
@@ -115,14 +147,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
-      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Microsoft",
       "title": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM01fYjd1cjFmcGxOU3ZaYlZ3NWdxMEhIbHJKZ3JLMWZmQTJhM2RzaVMxZ2R5c2NyLTd2clVCSWVKT1BlckRKSnhsTjVfdXpIMDN6UHJhLVBoTTA2MlB1VHZPOHBEWHNHcTc4NTM0S2JSc2RhZ1o4YWF1NnE1eVFwa2trWXp1SzltcjFMYVNrbFdaRHIzc3J0MVlvd1hUTmJ3WWFqSURpbVYzVTRnd1FmX2ROQ1dyS0dtaFJoQkNsbVcxS3ZseXFxZ0pIUnVBU1JNMmYwMnVZVmFiZkRNYlFOd2xuV2VVZzktNVo1MnhKbDYtOXFoNmdrMEE3eXBia3U4M2tlWUhFa21Jb3k4RVdfVzJBWWNpOUFWUU5RTTR1dlYzeGkzeFIwRg?oc=5",
       "summary": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge Windows Central",
@@ -135,6 +159,14 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
       "summary": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. The Verge",
       "badge": "watch",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
+      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
+      "badge": "new",
       "date": "2026-07-02"
     },
     {
@@ -187,17 +219,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5",
-      "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall Business Insider",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
+      "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
       "badge": "new",
       "date": "2026-07-02"
     },
     {
       "company": "Meta",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
-      "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
+      "title": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5",
+      "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall Business Insider",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -226,12 +258,12 @@
       "date": "2026-07-02"
     },
     {
-      "company": "Meta",
-      "title": "Meta will start selling its computing power and AI models - Morning Brew",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BckxjRkk5UXI4bWxZRm02d0s5c3dWV3VjY2NOZXJnSDJMSi1QOUt1WjNqM09yRXN1M2dtY2Q0MjNwVGpMbWVEZFFqRnFKQzdrTkxoclpYVlVTOVBfV3BNMG1wN19NUC1Qbmo2YWN2RHJ0MGp5Nmkwb3FUcjRMNTA?oc=5",
-      "summary": "Meta will start selling its computing power and AI models Morning Brew",
+      "company": "Anthropic",
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5",
+      "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' CNBC",
       "badge": "new",
-      "date": "2026-07-02"
+      "date": "2026-07-01"
     },
     {
       "company": "Anthropic",
@@ -254,30 +286,6 @@
       "title": "Palantir CEO Alex Karp criticizes OpenAI and Anthropic token pricing - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanl4VGVVYjRGbFBxUS1ialMyY2VIdjFFa1FaazMyR2t1a1J3VUNGbXNhYWoyVnduU1Y4WVluaVFkRlQ5X2NQR2U5TFh1V2poRFNkNExqY2VrV1ZmaWtNalhtbi00cVhkTEEyWEZUcUkyMkZNT2lKcTQwTzd1ZGRYdnp5aWdoMzhkb1VQUnk4cmtmVzFVdkd5RjBielZtUQ?oc=5",
       "summary": "Palantir CEO Alex Karp criticizes OpenAI and Anthropic token pricing Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5",
-      "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' CNBC",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Palantir Stock (PLTR) Rallies 9% as CEO Blasts OpenAI and Anthropic’s “Wealth Tax” on Tokens - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmQ5MTU5ajVISEZPQWgyVDdEazJ4bkNtMFd0OTF5c1NMSUVYN2RXa2d1ajc4Q0puMjdhSzBGMEgxYmtWQ1FvVUlHeVl5d3J0V1I3ck1pcDE3UVp6OTN0cDMzeUZzNzEwc3pRN3F2R2M3VzBya0NIcW43aE50VXQxMjAzbnI4Z0pDSGFFY1lLV3ZxVXY1Vndra1R3SGtoN2hjWlkxd1FOZE51ZjRzYzRQSmdDX0cwTDg?oc=5",
-      "summary": "Palantir Stock (PLTR) Rallies 9% as CEO Blasts OpenAI and Anthropic’s “Wealth Tax” on Tokens TipRanks",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "They built the world’s most powerful AI. They’re facing a mystery they can’t explain. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkZtUHpNcDFROXo1S0VMQV9ReTFlQWZNQ1J0NWR1OFNXc2w1NmU0dmhNdHZOZDdRcm5HTUlNYWR6aWJYVnRhS1hZTEJ1MXBSaWI0THU1ZmpzSHZNZ2FhcVhteWRWNjlwdlNXMVR0WkFZRWZYTUVPTEV3Sk9HTUJkOUxySGxsSm11UVRUdXFNazY2NnRRa0VNXzE4cE14eUpXVURFa3RYQ2pNUVQ1ZWdjaFoxblQxa0FZdW5LQTRtMWg?oc=5",
-      "summary": "They built the world’s most powerful AI. They’re facing a mystery they can’t explain. The Washington Post",
       "badge": "new",
       "date": "2026-07-01"
     },
@@ -318,14 +326,6 @@
       "title": "Xero CEO shrugs off $14b rout with new Microsoft AI pact - AFR",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDJJa2R0c0tJLTRyTVo1a0trMExERmFzX3hibmg4V29KUFBlRkZhenJIUEJ4bl9xUi1ua1FjeXVNXzJxR2tzQ1RBZnh1WC1yX3ZRTWx4OUhwcEtCWTFLZ1pLcTNpR1RvTGhCaUJPaFhiMnA1TGl6cmRRdEZpLWJqUVROZ193OG0tMERXSWx4TE1zYnZ1elVRNjhIczRaSkNhLWNhVg?oc=5",
       "summary": "Xero CEO shrugs off $14b rout with new Microsoft AI pact AFR",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Less than a month after GitHub changed how it charges customers for Copilot AI coding tool, Microsoft-own - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNdGRiZHFkVDloREE2VTFZV3JFY1VXT2dzd0lBenV4eHRRd0JPLU9Oc0NGUHAzNEdkV2V1RlZ1XzY0YmEtQ2xGN1JfTk05MjlrRXM5ZkNMVEdMSEhwcHVrZ1JOZEhFTU40U2pDbHRPTk1xaVBKb3hfemsxc09QTGJ1NmExanhzTHJYRm5PMXQ5ZFkzM21DSk1QOXd0bHJPUlhoOUg5S0RDOURNMzBOUWJDdU5VUS1ZRUZ5Sy1RdnNuRWZOTWQzNWNOS3JLbG9KU0UtZGg4SmN6TGJDb2FpVDdRbnp5NWlnTXF3Z3dHalkzWUNBSUduWUwtSFpmYmVSUXpfakFlbkRxWXl0OW0ta2tsbzF4S3l3SXJxamk1cjNfb0JjNzhmNmstX2ZQVllpTVBCWTZaMnVsNDJTbTUwcDZBU0Z4enkzMzJrTzNpY0s2MjA1bmFKNS1nd2VR0gHfAkFVX3lxTE9kMTVZcTFqRC1GazhnSThCVnpRcXE1M0NUUXB0WFhxQ1V6b3BBVWZUQS1PbEpBaW5tRE1OZ3VMRENCRDlsenFINGlmM3JVNjRFVTRqbDZNbU53d19TT1p1ZGxjR21kMTB1clhrTmdjUURjb0RSUnZ1OW1SaFVyaVBLdnVWRFpNVXZ4NE1LdXB4MDVtbGI5Xy1IR3dWS3FBdkZCR1VfSU1sbUtFc0hZbDA5OVZsRDhvdE13VVhXX2xzSXlaTkZpcHN3RmNia1JGRFc0MUZWbnFIUXBvNXpEemZXNkF0OFpMM0tWVk53MjltMzhhRUIzN2dXNTItUFRDUGNaT3ZVOU9EdmFLYTkxdXlhZG05aVdpZGlIdHo5Q1V2Q1ZzNVA5QzlXbllYWENwakQ4RHdNckNNN09hVVVHMlNEbDMtYUdIVU50MmliY1pxNkNBRzU1S1poZVNMLU54bw?oc=5",
-      "summary": "Less than a month after GitHub changed how it charges customers for Copilot AI coding tool, Microsoft-own The Times of India",
       "badge": "new",
       "date": "2026-07-01"
     },
