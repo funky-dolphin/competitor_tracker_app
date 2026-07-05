@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:02:31Z",
+  "updated": "2026-07-05T02:35:54Z",
   "signals": [
     {
       "company": "Apple",
@@ -7,7 +7,7 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
       "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
       "badge": "new",
-      "date": "2026-07-04"
+      "date": "2026-07-05"
     },
     {
       "company": "Apple",
@@ -15,7 +15,7 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
       "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
       "badge": "new",
-      "date": "2026-07-04"
+      "date": "2026-07-05"
     },
     {
       "company": "Apple",
@@ -23,7 +23,7 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
       "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "badge": "hot",
-      "date": "2026-07-04"
+      "date": "2026-07-05"
     },
     {
       "company": "Apple",
@@ -31,7 +31,7 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
       "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "badge": "new",
-      "date": "2026-07-04"
+      "date": "2026-07-05"
     },
     {
       "company": "Apple",
@@ -39,7 +39,7 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
       "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
       "badge": "hot",
-      "date": "2026-07-04"
+      "date": "2026-07-05"
     },
     {
       "company": "Perplexity",
@@ -155,6 +155,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic is discussing a new custom chip with Samsung - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZIQk56bmVISXlQbVVSX0d0Uk1jZFM3MkR5Rkl6R2RtMmZXdk5mZXpFeFNqejN2TE84RlVDQTNTUEdEZnRMSjlOWG9fOFIwTnNGeENSUTZKdHU4WEk5eS03UG5tTjlRa3Vxc2JFbTJvYzJrNU9iLXFldWthLUJ2Q2NYa0V3UHFyTmh1eTZTVmNrc1U?oc=5",
+      "summary": "Anthropic is discussing a new custom chip with Samsung TechCrunch",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Anthropic",
       "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
       "summary": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf Reuters",
@@ -227,6 +235,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5",
+      "summary": "Meta is finally catching up to OpenAI, its AI leader says Business Insider",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
+      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected Reuters Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped TechCrunch Mark Zuckerbe",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
       "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
       "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
@@ -235,18 +259,18 @@
     },
     {
       "company": "Meta",
-      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
-      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected Reuters Meta's AI Payoff Timeline Looks Messier Yahoo Finance Mark Zuckerberg admits the AI restructuring isn't going a",
+      "title": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1IwU255bjdhZTZGQ2JLOGdmcDhvcDlzRkhBdWhFeUZTMEVGc3Jfa0g1dWRUODNGWGplSFNVcHU5VFRuWndZeldWOGdIR2dVSV9oTjFHYUJteUktVDJpVTVpS3RpRG53V0JydEg3Zk9ZTFUwM2ZkY3JlNGZ2YmlqZ2EyaVlLWkExZDhzN28wTkdSUUNwSHZDcjJVaFQ4VS1pbnfSAacBQVVfeXFMTVBmeVdadHNVRkRXLUdwMHpTREcxY2MxZTNyRGpPa25VMURqeHE0a3dVdVpDY2kySUhEWFZBUnJFZnFtWlVHem52eUVmMy1MeUkwRXJxU1A2R00xbGJPeDczRFBrNktsVnRsRi1mY0ZhYjZOYnFBX2ltMGd0em9YQUhveGpvZkNwd1JTMkVpMzBVbjk1QnUtWWVJdlJtWmFlYTBWQ2RiUnc?oc=5",
+      "summary": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins CNBC Meta Stock Falls as AI Cloud Plans Hit an Immediate Snag Barron's Meta building cloud business to sell excess A",
       "badge": "new",
       "date": "2026-07-02"
     },
     {
       "company": "Meta",
-      "title": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5",
-      "summary": "Meta is finally catching up to OpenAI, its AI leader says Business Insider",
-      "badge": "new",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3?oc=5",
+      "summary": "Meta quietly launches vibe-coded gaming app Pocket TechCrunch",
+      "badge": "hot",
       "date": "2026-07-02"
     },
     {
@@ -266,35 +290,11 @@
       "date": "2026-07-02"
     },
     {
-      "company": "Meta",
-      "title": "Meta smart glasses now require a subscription for unlimited access to all features - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRHZFWE1UZjN5eG9xVWloU0dXZTRZOTVLbkxLcHEtWnFsU0YxM0pIczZBZkxiUExjZWJGTEF6bjc4RXA0RVRzZjRqNDVFbEMzX0VyYXVKYnBHTGNLRzV4N1R3QmtuVWMw?oc=5",
-      "summary": "Meta smart glasses now require a subscription for unlimited access to all features Mashable",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Stock: SoftBank’s Expansion into AI Cloud Infrastructure Adds Headwinds - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsQms3N0tQVVNZZzVRTXl3X043SXU1TktTS3pucFR5X0pNZU5RakZEUlZOemNfX3ZVUWQwZU9ydV9hajB3TWJyVGhSWUM2RUpUOVB2REQwSi1rZ3l1cGxGVlZnaVgyT2I5S0daTE9wVkNOd0VpbVU1MjJiWU1oZw?oc=5",
-      "summary": "Meta Stock: SoftBank’s Expansion into AI Cloud Infrastructure Adds Headwinds Barron's",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
       "company": "Anthropic",
       "title": "Introducing Claude Sonnet 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
       "summary": "Introducing Claude Sonnet 5 Anthropic",
       "badge": "hot",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5",
-      "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' CNBC",
-      "badge": "new",
       "date": "2026-07-01"
     },
     {
