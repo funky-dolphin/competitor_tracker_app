@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-05T08:46:04Z",
+  "updated": "2026-07-05T13:20:28Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s plans to buy 1.4GW of Aussie data centre capacity - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0lKMzh0alppM1dfbjl5X3J3TzREdldKVlF0enRPWVBhdjlhenNGMHJJQm5WcFFMeVVkRVlfTHhxZnVGNnhRNkdsQU9ndm50WmFNZzNqVUEzVHdmc0tQdERVZVlRT3NGZXYxbFhvWHVXdF9tdUNXd2FnUjFqZlVJVDdhNVNWT3UxazZkcmhJc1BoNFB2QThSUTJoOFBnb0RHcm9zV1VxQjctSmktbHc?oc=5",
+      "summary": "Anthropic’s plans to buy 1.4GW of Aussie data centre capacity AFR",
+      "badge": "new",
+      "date": "2026-07-05"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGUyS1lGQUpId0MwNWRFMFQ0WlhCNlJIZURaS3g2WVNGdnZDa3N2YXYzdWRSZVNMYnNkbDQyUXJpNGEwb3dOYUJNX21rZDcta1lwMTFlVU9FMS1CUS1kS1dCWE9EZWg3Y0FVeWQ1THNibGdnb1Ribm4zWkZ5WU1lQkF1RVFIVllmejZWOV9VellTdEF4VUdteTcwWFZNc2pWQ1Z6aXBXSDhQYUIxbEQ1MGgwMXhlRlVaTEp2WTVycmpMS1VMVGprUmw3X1VQTTQ1cGF4XzZGcE02YnNR?oc=5",
+      "summary": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses Windows Latest",
+      "badge": "new",
+      "date": "2026-07-05"
+    },
     {
       "company": "Apple",
       "title": "Apple Creator Studio gets smarter, faster, and more connected",
@@ -42,6 +58,22 @@
       "date": "2026-07-05"
     },
     {
+      "company": "Anthropic",
+      "title": "100 authors demand $75M from Anthropic over ‘stolen’ work to train its systems: lawsuit - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTFIXzNJd2toTncteFJTR0xNMU9zYVp6LVFvaTZaaFlkYm5qc3hkcVhwUXRVZTlXU0tXdGFkQTJkbFllX3I2MmpOaFlGSGVtaEN6TnJ3OTlHZ2Rmbmdyb1h3cmY2dkE5Ykh2bmVjTGVzTE05eXZCM1ZldEtqdzUyWlVmeGNTM20zT3JMQ2tMSkx1Y1NfVU9NUWFZZ0xZZzFVR0xjY0pDUDlTWkJQNktleXFyWWVHd3hCdzF5a1cwQzJ5SE1CNThhQg?oc=5",
+      "summary": "100 authors demand $75M from Anthropic over ‘stolen’ work to train its systems: lawsuit New York Post",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's new Intelligent Terminal isn't locked to Copilot, and I got it running with a local LLM in five minutes - XDA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenNCOENSWThIWmFvZnN0b0YyQ0VZRnhyWmhUVGRQcFhEYXFlWkNSa1E1NGZjS0NJZ000NGo4SW9Fa0tWRHhNYl9haWZIWFFkdzVTaEdCVDIyVVBzWVNyXzZnSndSai1zNTc4Z3RpSmZjczVteHpIQWo1elNPM3Z6SDY4Tk9lb2l2MkRoUWc1dHRIdjcyUVNUOXU1VQ?oc=5",
+      "summary": "Microsoft's new Intelligent Terminal isn't locked to Copilot, and I got it running with a local LLM in five minutes XDA",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
       "company": "Perplexity",
       "title": "Perplexity CEO Aravind Srinivas on why American dream is not over: America's the only country where you c - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPSFlQcmZURFJLSGlqNU0wU29QU2ZEcWpiVW9LLVRBVDRqUVVFMUZKNGdBOVZYM3I3MnhWRmRDejZISlVXeWRINzF0QWZFc3BqTmJDTU9Tb0xoOGV1dDZ5Y0FHMFJDNzRBRmo2anVMT3RUeC03cHpMT29RLWFFemJUOVRub1hKbzJoZ0gzRmFYVTJNZTc0a1lPY3ZDNHN5V1lELWVhZ1N2azQxOHByc25nVi1fX1gxaTJUbjBYUFo1V1VJazdKM1lfMDkyUEh3YTZqQm1BWEhReGRfdVd3UFhZdVQ5V3Nsb3RSaV9uVGUtUFkxYm9wMzR6bVc2bW5BSHllc1NoZnc0ZHp3TnFsRjM2ajd5SVdUTWNFTnNLelFKNNIBpAJBVV95cUxOakZyd3JxWDRyMmN3TVN0MWlkbEEtbGZlaVVpa3dDWTR4R1UyRHhMNEl6RzFqelJ1RHQxOElLbU53WnNudjc2TGd1UnlUZnE5QzIxWHliSExkOVk1TnBCYkxjS2c3YjRWYjBhLTdSUHRpNUNlUzJSZG0tcXlIbFk5UDB3QTdKUXExYm85RG9DU1hXS2drZXJnUmVJWHJrWDRQVmM2dEVnU1R6QkZPRGMydWp0c3RYZTNUdlptNzBydHRXTnpNNjVjX2NVdHdQd2ptQm5tZnFqcFRRenlGSjY3WmJHcnVoN2R2Y2FuWGZ2ZEFhVmxiWTQtQ1E5a0Z6Q0NScThFczdZam12MklucExxS1RVRUprV1QtcEl3YWVOX1RBbU5v?oc=5",
@@ -59,17 +91,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
-      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework Anthropic",
+      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
+      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times",
       "badge": "new",
       "date": "2026-07-03"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
-      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework Anthropic",
       "badge": "new",
       "date": "2026-07-03"
     },
@@ -139,17 +171,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5",
-      "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says Mashable Meta's AI Payoff Timeline Looks Messier Yahoo Finance EXCLUSIVE: Meta's Zuckerberg says AI agent tech progr",
+      "title": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5",
+      "summary": "Meta's AI Payoff Timeline Looks Messier Yahoo Finance",
       "badge": "new",
       "date": "2026-07-03"
     },
     {
       "company": "Meta",
-      "title": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5",
-      "summary": "Meta's AI Payoff Timeline Looks Messier Yahoo Finance",
+      "title": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5",
+      "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says Mashable",
       "badge": "new",
       "date": "2026-07-03"
     },
@@ -163,14 +195,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip - The Information",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTh0cENsZUllRDdoaGw1QVlWcU4yeXJtbGdfS2l5Vlo2VThNLXVPTlQzZjZRXzVqTWFLQTh4WFFtQTluQW5GTXdObEY5V3dJSGNVZVNHek5XT3FETGpXM1lPN2N3eFNjdEhOWjZSV190cUpFd3pUTVpwanpvZ3gzSFE2YmpxNDFHTXhrU1JzZXVHck1k?oc=5",
-      "summary": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip The Information",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic is discussing a new custom chip with Samsung - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZIQk56bmVISXlQbVVSX0d0Uk1jZFM3MkR5Rkl6R2RtMmZXdk5mZXpFeFNqejN2TE84RlVDQTNTUEdEZnRMSjlOWG9fOFIwTnNGeENSUTZKdHU4WEk5eS03UG5tTjlRa3Vxc2JFbTJvYzJrNU9iLXFldWthLUJ2Q2NYa0V3UHFyTmh1eTZTVmNrc1U?oc=5",
       "summary": "Anthropic is discussing a new custom chip with Samsung TechCrunch",
@@ -178,10 +202,18 @@
       "date": "2026-07-02"
     },
     {
-      "company": "Anthropic",
-      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
-      "summary": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf Reuters",
+      "company": "Microsoft",
+      "title": "Nine and Microsoft announce Australian-first AI agreement for news media content - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQk56enk4TTltVkJkQ000ZE1CN1E1TGlWRkFpbkRBOFRfSUJmc2lDcXFMbXJXT3g5LTNrX09wZVIxZzBqSjRYUDJINkVubFpBV25PX1psWkp1bjVSSmN1M2RjZmZCV1JvdzRHVFBtS1REajdEUXRINVlYbDB0N1FtWmRMZlJqVUp4SzFV?oc=5",
+      "summary": "Nine and Microsoft announce Australian-first AI agreement for news media content Microsoft Source",
+      "badge": "new",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
+      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -199,22 +231,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
       "summary": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. The Verge",
       "badge": "watch",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Nine and Microsoft announce Australian-first AI agreement for news media content - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQk56enk4TTltVkJkQ000ZE1CN1E1TGlWRkFpbkRBOFRfSUJmc2lDcXFMbXJXT3g5LTNrX09wZVIxZzBqSjRYUDJINkVubFpBV25PX1psWkp1bjVSSmN1M2RjZmZCV1JvdzRHVFBtS1REajdEUXRINVlYbDB0N1FtWmRMZlJqVUp4SzFV?oc=5",
-      "summary": "Nine and Microsoft announce Australian-first AI agreement for news media content Microsoft Source",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnE2S2hsMkd0MlZNZUNTeTRLMUNtSGxPZFVLQWNWTnRGTE5Oa1hhOXZqbVVhblpPa28xTWRmUXVrRFZVdEkwS2VCYTdUSHZfbVBCUTJYZzRUOVNCMEdtT0xzV1hTbTNOalZZMXZzamY1TXVVcEpMcjIzb19Cb21VVExRd0dTVmJHYkUyUWpCOGZLd3lYU1NydDFOVQ?oc=5",
-      "summary": "Microsoft Memo Details AI App Overhaul to ‘Earn the Right to Exist’ The Information",
-      "badge": "new",
       "date": "2026-07-02"
     },
     {
@@ -259,14 +275,6 @@
     },
     {
       "company": "Meta",
-      "title": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVUa3FPOVpVNWJzbS00NWNEb3dWYjVjVFdzM052RnpOdFE0cUhXVXNORm15WGZHUXpxdHE3bzRXYUJPeE1SSS0zWWlOb2dJUklfeWJpNl9ZOVNNRF9wa3B4QmM5bTJDNmEwYVlwLU84aEMxVG1TSmNNV3VWQVc3VW51NmRXODV1dy14QktRa013ZDJ6ak5MeXo3OUM4Sjg?oc=5",
-      "summary": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected Yahoo Finance Mark Zuckerberg admits the AI restructuring isn't going all that great, report says Mashable Mark Zuckerbe",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Meta",
       "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
       "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
@@ -279,6 +287,14 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3?oc=5",
       "summary": "Meta quietly launches vibe-coded gaming app Pocket TechCrunch",
       "badge": "hot",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVUa3FPOVpVNWJzbS00NWNEb3dWYjVjVFdzM052RnpOdFE0cUhXVXNORm15WGZHUXpxdHE3bzRXYUJPeE1SSS0zWWlOb2dJUklfeWJpNl9ZOVNNRF9wa3B4QmM5bTJDNmEwYVlwLU84aEMxVG1TSmNNV3VWQVc3VW51NmRXODV1dy14QktRa013ZDJ6ak5MeXo3OUM4Sjg?oc=5",
+      "summary": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected Yahoo Finance Mark Zuckerberg admits the AI restructuring isn't going all that great, report says Mashable Mark Zuckerbe",
+      "badge": "new",
       "date": "2026-07-02"
     },
     {
@@ -318,22 +334,6 @@
       "title": "Tech Moves: Amazon Music names VP; Microsoft departures and a Copilot shakeup; Veeam adds exec - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaV9OOURrNkU3OTN2amkyajlxWEVGc25lanFfbU9WaWF0TnV1Zy1pdnRIenN6XzQta1RxZWM1YzVDTmxVWGQ3OTBoSy1BUkI0T29rU2VDWGFQdjVLdWQxSVRLWklCblFwTDZYNmpDWHJTYlRnaDFoRTFONk96TkxLVVhhLUNNSkllSGFRMEJscGpjdVVQVjFCZTJIQ2hHcXFiNXFrc0ZuQllUVmJRbmg2SWRzRTZDZ2dIOTVzZ2t1MA?oc=5",
       "summary": "Tech Moves: Amazon Music names VP; Microsoft departures and a Copilot shakeup; Veeam adds exec GeekWire",
-      "badge": "new",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "JMP Securities Reaffirms Bullish Outlook on Microsoft Corporation (MSFT) Following Copilot Cowork Launch - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXNnWWRiSTRGZW5JbjN0c3UwNEdvRmt3dkRwVUwzVXNINHNoRk5xckgzX2VqTFI1alQwY19sR2kyUE9BN3M1dmFHV2VHV2xrVzREcFdVUFg1X2c5RF9GUm5fS1lOX1RnR2FBMHhwUjVMUG1yc0JCd3ljTnl6SXhMdXVodW82dUVPVU03NTFGZ0NrVnB0eV9lTnBqeDd0T0RxVVdmbGFHbw?oc=5",
-      "summary": "JMP Securities Reaffirms Bullish Outlook on Microsoft Corporation (MSFT) Following Copilot Cowork Launch Yahoo Finance",
-      "badge": "hot",
-      "date": "2026-07-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Xero CEO shrugs off $14b rout with new Microsoft AI pact - AFR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDJJa2R0c0tJLTRyTVo1a0trMExERmFzX3hibmg4V29KUFBlRkZhenJIUEJ4bl9xUi1ua1FjeXVNXzJxR2tzQ1RBZnh1WC1yX3ZRTWx4OUhwcEtCWTFLZ1pLcTNpR1RvTGhCaUJPaFhiMnA1TGl6cmRRdEZpLWJqUVROZ193OG0tMERXSWx4TE1zYnZ1elVRNjhIczRaSkNhLWNhVg?oc=5",
-      "summary": "Xero CEO shrugs off $14b rout with new Microsoft AI pact AFR",
       "badge": "new",
       "date": "2026-07-01"
     },
