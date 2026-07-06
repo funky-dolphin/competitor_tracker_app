@@ -1,13 +1,61 @@
 {
-  "updated": "2026-07-05T19:08:47Z",
+  "updated": "2026-07-06T02:40:14Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWEdVUUN6MVgwQlFIN1F4QTRBdkFyTFdtbEJEYUV4RGhtanJvYmIzQVF5bkJ1MlZwQjdLekQ1Mkc4SXpVbV9pZnhJT2U2Yjh3YUpsRTZHSW5sM3BBc2JTMk1LRzBOS2cxSDFiM0w0YTZrQ0hPNVQ5MllMcG5ZdkVmdTQtT1pSdXFRLURwNjlqUkxrR1NTZGJ2WEpTSDljOG9fZHFvaTh4ZldwU1hxWEN2R0dxOXREQmRVejdCUUlRSWJqblBoTHZCVVU3aklKLU5uZDhxWHNCLVMyR092Yk13NGI2RXUxRGREdE1aeWdkcnVRSGlBMm1lUUd4Q3RFTHA2Qk8zQURKanlQa1ZIb0pZbHhJYkhmUjA5Y3pFRnJ4WW1TRGNvUlhCTkF4OVlxTVBpM01mdXBnNkhjRjAwSkxpbGFfYzFLTG1XdWhZOVpIUVNWRzZFYkE?oc=5",
-      "summary": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens Tom's Hardware",
+      "company": "Microsoft",
+      "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVZlQ3RDaHNrdXlQS3ExRlFuWWlveHVIZUZqTFZrU0Mtd0c0aVJyUERVdUVFdTRmSjROS2lpSDFjR2hHTXlXYktMTE9IYkNUbHZiV0NLekkyMFhHcEg0TDJQcWZXZTVaOFVSanlrbHEyU0QwcnBGX2hrak9wYnFOS205OUZmTHNmUVd4dUJ2RjhjeEFJcFRmdjRn?oc=5",
+      "summary": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App Yahoo Finance",
       "badge": "new",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Merges Enterprise and Consumer Copilot Apps - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
+      "summary": "Microsoft Merges Enterprise and Consumer Copilot Apps PYMNTS.com",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-07-06"
     },
     {
       "company": "Anthropic",
@@ -18,51 +66,35 @@
       "date": "2026-07-05"
     },
     {
+      "company": "Anthropic",
+      "title": "Trump restrictions on private AI models turn attention to open source - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3R4SjNhdDktdk9mME91S1JDcnFHWXo5NkVwd3BqNlU3eEdLcFRKQTh0d3phRkJsQnRiZzBSQzJSbmNZMjdkdVV4TWlLLW1ZWkptNVl2M0I1empwajd1THFMRjI2ZEMtVUFjaXdaai10bnhGejBmOUZGN0NvVEJFa1Rzd1gtR1RxLXVfeEItMFhsd2PSAZgBQVVfeXFMTlU3Mk9MSVZGUmdETnR3dm9YWEY2NE5idHBKWHJXbTdiUjRGRnpTV1FYcGNHaDZTRFg1X2xXQUlZSWVvbVg1LS1zM1FYQnBNNmp4NDlHUnhLVmwwREJnVkZicTJCSjNNQmNaUW5nM2UxZmhuVWF2aUhMMEk1anRqek5Uem5QTEcyN0pEWXhuUjM3WEZDVXRXYks?oc=5",
+      "summary": "Trump restrictions on private AI models turn attention to open source The Hill",
+      "badge": "new",
+      "date": "2026-07-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Could Be a $1 Trillion IPO This Fall. These 2 Stocks Already Own a Piece. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXJTMHZWeFdSVVNjVGp6T09jNEYzX2M4UkRFZnVZdVNhTnZYS2dfcGZzLVZkNWtGRGpFUW1yY19tbTdMZ05RTDFMVWJTNTdRYXVtRkFwb1pOVU91ZlRiQVFCSWIydmlLOE5Ca0Rhc0dQU2hBbmZIS29oX1ExTUE2TERSZDdLdnB4b1M5SGR2SEI0TVJFRUNRag?oc=5",
+      "summary": "Anthropic Could Be a $1 Trillion IPO This Fall. These 2 Stocks Already Own a Piece. The Motley Fool",
+      "badge": "new",
+      "date": "2026-07-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWEdVUUN6MVgwQlFIN1F4QTRBdkFyTFdtbEJEYUV4RGhtanJvYmIzQVF5bkJ1MlZwQjdLekQ1Mkc4SXpVbV9pZnhJT2U2Yjh3YUpsRTZHSW5sM3BBc2JTMk1LRzBOS2cxSDFiM0w0YTZrQ0hPNVQ5MllMcG5ZdkVmdTQtT1pSdXFRLURwNjlqUkxrR1NTZGJ2WEpTSDljOG9fZHFvaTh4ZldwU1hxWEN2R0dxOXREQmRVejdCUUlRSWJqblBoTHZCVVU3aklKLU5uZDhxWHNCLVMyR092Yk13NGI2RXUxRGREdE1aeWdkcnVRSGlBMm1lUUd4Q3RFTHA2Qk8zQURKanlQa1ZIb0pZbHhJYkhmUjA5Y3pFRnJ4WW1TRGNvUlhCTkF4OVlxTVBpM01mdXBnNkhjRjAwSkxpbGFfYzFLTG1XdWhZOVpIUVNWRzZFYkE?oc=5",
+      "summary": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens Tom's Hardware",
+      "badge": "new",
+      "date": "2026-07-05"
+    },
+    {
       "company": "Microsoft",
       "title": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGUyS1lGQUpId0MwNWRFMFQ0WlhCNlJIZURaS3g2WVNGdnZDa3N2YXYzdWRSZVNMYnNkbDQyUXJpNGEwb3dOYUJNX21rZDcta1lwMTFlVU9FMS1CUS1kS1dCWE9EZWg3Y0FVeWQ1THNibGdnb1Ribm4zWkZ5WU1lQkF1RVFIVllmejZWOV9VellTdEF4VUdteTcwWFZNc2pWQ1Z6aXBXSDhQYUIxbEQ1MGgwMXhlRlVaTEp2WTVycmpMS1VMVGprUmw3X1VQTTQ1cGF4XzZGcE02YnNR?oc=5",
       "summary": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses Windows Latest",
       "badge": "new",
-      "date": "2026-07-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-07-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-07-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
       "date": "2026-07-05"
     },
     {
@@ -86,6 +118,14 @@
       "title": "Perplexity CEO Aravind Srinivas on why American dream is not over: America's the only country where you c - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPSFlQcmZURFJLSGlqNU0wU29QU2ZEcWpiVW9LLVRBVDRqUVVFMUZKNGdBOVZYM3I3MnhWRmRDejZISlVXeWRINzF0QWZFc3BqTmJDTU9Tb0xoOGV1dDZ5Y0FHMFJDNzRBRmo2anVMT3RUeC03cHpMT29RLWFFemJUOVRub1hKbzJoZ0gzRmFYVTJNZTc0a1lPY3ZDNHN5V1lELWVhZ1N2azQxOHByc25nVi1fX1gxaTJUbjBYUFo1V1VJazdKM1lfMDkyUEh3YTZqQm1BWEhReGRfdVd3UFhZdVQ5V3Nsb3RSaV9uVGUtUFkxYm9wMzR6bVc2bW5BSHllc1NoZnc0ZHp3TnFsRjM2ajd5SVdUTWNFTnNLelFKNNIBpAJBVV95cUxOakZyd3JxWDRyMmN3TVN0MWlkbEEtbGZlaVVpa3dDWTR4R1UyRHhMNEl6RzFqelJ1RHQxOElLbU53WnNudjc2TGd1UnlUZnE5QzIxWHliSExkOVk1TnBCYkxjS2c3YjRWYjBhLTdSUHRpNUNlUzJSZG0tcXlIbFk5UDB3QTdKUXExYm85RG9DU1hXS2drZXJnUmVJWHJrWDRQVmM2dEVnU1R6QkZPRGMydWp0c3RYZTNUdlptNzBydHRXTnpNNjVjX2NVdHdQd2ptQm5tZnFqcFRRenlGSjY3WmJHcnVoN2R2Y2FuWGZ2ZEFhVmxiWTQtQ1E5a0Z6Q0NScThFczdZam12MklucExxS1RVRUprV1QtcEl3YWVOX1RBbU5v?oc=5",
       "summary": "Perplexity CEO Aravind Srinivas on why American dream is not over: America's the only country where you c The Times of India",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s next AI bet has one major catch for investors - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcktqa0ZKUWRnWS1oTmVaMjB3dTVtVE9kTjh6RnNXa1dpTk1YMWF0UHpUc24zM3dFLUNmUmVpN0lyV3RlbWh0YjVtOGVFYmZxV1NoaWV3RG4wNGNaVVYxdjY2U1IzTjRuU0N3cXpJaW1xX2RnVlhMU2tYd2M1UFRQbmRnSmlGSk42cEVLemxBVDA?oc=5",
+      "summary": "Meta’s next AI bet has one major catch for investors thestreet.com",
       "badge": "new",
       "date": "2026-07-04"
     },
@@ -143,22 +183,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
       "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says Reuters",
       "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How the world's top AI models were revived - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkJnT1VCbHFmNF9ZUVAzQUFneDJ3TE1UWElhSTBvdFo2enB1Q29DMG1SQlUzY290MmhPT3dyc3pDaXZFMmFNSDhFUTlvWTlQX2V5V0ZUMzJIYk51S0FqcmxlYmh5dkVoWUtIX054QTkteWdON18yM2hjbGRCM0lIVG0taHQ?oc=5",
-      "summary": "How the world's top AI models were revived Axios",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "California Expands AI Push With Statewide Anthropic Partnership - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
-      "summary": "California Expands AI Push With Statewide Anthropic Partnership Yahoo",
-      "badge": "watch",
       "date": "2026-07-03"
     },
     {
@@ -242,22 +266,6 @@
       "date": "2026-07-02"
     },
     {
-      "company": "Microsoft",
-      "title": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
-      "summary": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. The Verge",
-      "badge": "watch",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjBDWUp3ZU52dzEwSTlJckRSVXV5OS02VWVidVFpSmFicW5zSGQ1UmxKaXROSC1mN09Wb3oyVWd4dHkwSkRrRXlhaXZ5dTlWT09Nc3IxZlJ4Q3dLZkRfN3pqeUdfVG1EaTVDTEhvRDhETkxfUlhFTFhWODhoUGZxZDN5U2NnMk5JamZNajlXT191TGtPSkFLal9mR19HV21zRjcxWQ?oc=5",
-      "summary": "Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
       "company": "Perplexity",
       "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
@@ -299,26 +307,18 @@
     },
     {
       "company": "Meta",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
-      "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUF3VlFVc0VWdDVKcDRFUTNWdU8yZFlIYW5YRmU0Nkx0dVpXS2NqVE9PZW1UZGc4SGVCem0tVk5weDB2Zlh2R1Y3eS0tOUZtampsTG5wM3hGVUo5bm1tZVlrTDN3UDZUWGx1aGEtVjlyUThxaG41NXFLSUtRX1BwaDhCQ0kyLXQ5dDlOQmtqMFl2RTh0M2I4Mi1yYjZEUFJrVW54S3ZpZy03QnU0amp5WkJ4Z2xmOHFFTHA4?oc=5",
-      "summary": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped TechCrunch",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Meta",
       "title": "Meta quietly launches vibe-coded gaming app Pocket - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3?oc=5",
       "summary": "Meta quietly launches vibe-coded gaming app Pocket TechCrunch",
       "badge": "hot",
+      "date": "2026-07-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta glasses wearers hit with paywall to use built-in feature - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZENsZXFYRHFKUW9RbnVYbE5PNzE2bktYMUhRRjVkbVRZa2Q1V0s1M0ZiNlFCVWtCS0tjWnFmWEt5TDFWWFFsX2RBbGJFX1BhZjEtVUxDX01yZw?oc=5",
+      "summary": "Meta glasses wearers hit with paywall to use built-in feature BBC",
+      "badge": "new",
       "date": "2026-07-02"
     },
     {
