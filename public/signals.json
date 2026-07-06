@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-06T10:07:45Z",
+  "updated": "2026-07-06T15:20:25Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "TeraWulf Signs $19 Billion Lease With Anthropic for AI-Infrastructure Campus - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0llTW12ck1BS3BsV2ZPR3BNWVFYcEFpcERKajZfUENDRkpZNkQ0ODhDVllBV01uQU9CWjVJNmVsZDV3amthMjJpVThYbHlnNHFsd3BfdW02OEZrVjNhczVQdVRlSDFYMzloa25ibDRJMzgtU09jY0hWTW02elEzOVFKZjN6Tnctd0ZKenFoeU9UZkdqM2xWZ2RzMXFlWVNlY3NUNVE0S3o4WWIzNG16cGRJZ1NlZ204a2NzcjhzTQ?oc=5",
+      "summary": "TeraWulf Signs $19 Billion Lease With Anthropic for AI-Infrastructure Campus WSJ TeraWulf jumps on $19 billion data center lease deal with Anthropic Reuters A new Kentucky AI data center will power An",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inside the secret AI war between Silicon Valley and China - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
+      "summary": "Inside the secret AI war between Silicon Valley and China The Washington Post",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
     {
       "company": "Anthropic",
       "title": "Why OpenAI and Anthropic may struggle to float - Financial Times",
@@ -11,10 +27,18 @@
     },
     {
       "company": "Anthropic",
-      "title": "The covert U.S.-China battle to make chatbots leak their secrets - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
-      "summary": "The covert U.S.-China battle to make chatbots leak their secrets The Washington Post",
-      "badge": "watch",
+      "title": "I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned - STAT",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VMGNMbDZSS3ppUkRBeWZjU3JjWkpxRk9ZR19uWXJFN3F6aW42V0xkUUR1SnFwb0xXMmRyaXRsbm8yX0ZBbDgyYzFuU3pwQXJZS3UzVkhjbFl1bkZqOVRzNER5ejlidW9fY0laNWNwSjNQdw?oc=5",
+      "summary": "I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned STAT",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "IREN Stock Climbs 5% Overnight As Speculation Builds Over Anthropic Contract - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTJCQ1BBNFhIbThjQm5jRDFqZzk0T2VBYjdqbUZGcjVzamx1XzFONWdmMXQwbUVMU0xDUUFJNFQtVHJqcWpTV1FNZnF1NVR2UF9NM0hCWFU3TTVEWUxOTFBxNm10RlVfVUl0SGNUNXYwcjIzMlZmZXUtYV9pY25KbEN6UlU5Y2VtVjVyNmZJcnZXZDR0bzZKY2dR?oc=5",
+      "summary": "IREN Stock Climbs 5% Overnight As Speculation Builds Over Anthropic Contract Yahoo Finance",
+      "badge": "new",
       "date": "2026-07-06"
     },
     {
@@ -30,6 +54,14 @@
       "title": "Microsoft Merges Enterprise and Consumer Copilot Apps - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
       "summary": "Microsoft Merges Enterprise and Consumer Copilot Apps PYMNTS.com",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Teams now lets organizers easily shut down Copilot, Facilitator, and Recap - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEtnQkc4TnU3clBIV2tJWGN2M2RDeU1UM1dqR0h3TXE1bmhqVXY2ZTRRVXpwZWR4dFFEUTZuUTBBdW01ZHlWTzJ4NWF4ZDZpZTlrVHNSRVNtNVNIVVVwMU1LRE8zNXVqdkJkR2VEbEl0X3A5M2hrN250UC1zSWV1T3JnMkxnRU1VdWJjUF96VWtmczNERWwwMFRxdHNkeXNhUms0elBfZjZXeU5rckxWQnR0N0NzcGo1dUxjYg?oc=5",
+      "summary": "Teams now lets organizers easily shut down Copilot, Facilitator, and Recap Windows Central",
       "badge": "new",
       "date": "2026-07-06"
     },
@@ -78,6 +110,14 @@
       "title": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
       "summary": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the The Times of India",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity CEO Aravind Srinivas on the one thing that sets US apart: ‘It's why America is still at the top’ | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVkdNdmFiNGZqajdZdjJaNkNLb3gtOWstSEl5NkJkdjk1d0x2R3BDZWc3Y1NHRjV3dkhodDRpdUdKeDFsMnR4Qi1KeFpNZ0pMMWU0elpJSmV5cHBGVjhLVWJKOGxCNzl1TWQxRXd5SzlvSUpSY2l6Vmt4T0hLcXJVcnBSZVVzcVFmT1hjZkdPc3EtWTNBTm1RSkt6cU9wYWtBRUtNRkdIaWRFOTdSVHhQdGxpeUh6YmhwSGo0ZTFoNTQ0aFpaUFMzUUhVMFlnckdMOTQxU1VhZmdIcnh5T19hNnRnekVMVWdwWjZTVzU1TGpZMVBYcjJ4aldHUdIBgAJBVV95cUxQSzBXVHRYNjkyVzhpU0xKOGJoczd2S1JEc3U2bDhwNlpfalNiNldYQTlTWkNwbi1lWnBWM2JrNHkyU3BpRXNyYWpHblE0bnUwTnp1dnBOdXZwU1AyTGlmb25VSUdkUFZpQXpVdE1RcmJUOHFPdzVRRVRzTlFKOTZiN1h5a0ZhVC1VS01YMzNVNXZpdjFnZmhHa0FzdGQ5WFVmTXdoWVVMZk5CazZ6QVpqZ0JoMGJFWXp1a2EwOVZYeWNRblNsVlBzQm9zcGJnUDd5UVFiM3pGLTlRLTZ0TGxCUEdTVjhlVFpUUTZwNHJEcG5iWVN1aG9nOHd2SzNMc3hr?oc=5",
+      "summary": "Perplexity CEO Aravind Srinivas on the one thing that sets US apart: ‘It's why America is still at the top’ | Hindustan Times Hindustan Times",
       "badge": "new",
       "date": "2026-07-06"
     },
@@ -155,6 +195,14 @@
     },
     {
       "company": "Meta",
+      "title": "This Ex-Bitcoin Miner Now Powers Meta's AI — And Is Looking To Raise $30B - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTJRZTNTQ1NZaHUwdUp3TExhZGpYYWNDRXpyMHZPV3hzUUYwUG1HRnZId0dsVzdDWklrZVFEYWVvMlhZZ1ppVmpmTjJQLTZRTktNZ1hFRG1GSDVvQ2MwZFg2RjZQclUtRkV6bFpFYTREbHJkSE1WY1huN0JkVFEtWExmalZrVHU4TDBZLWVjb1psT1FDMzkzVlNEbDlxN1VsVTcxMnpSRHF0M2JFU3V3Mk1TcUx0WV92d1E?oc=5",
+      "summary": "This Ex-Bitcoin Miner Now Powers Meta's AI — And Is Looking To Raise $30B Stocktwits",
+      "badge": "new",
+      "date": "2026-07-04"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s next AI bet has one major catch for investors - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcktqa0ZKUWRnWS1oTmVaMjB3dTVtVE9kTjh6RnNXa1dpTk1YMWF0UHpUc24zM3dFLUNmUmVpN0lyV3RlbWh0YjVtOGVFYmZxV1NoaWV3RG4wNGNaVVYxdjY2U1IzTjRuU0N3cXpJaW1xX2RnVlhMU2tYd2M1UFRQbmRnSmlGSk42cEVLemxBVDA?oc=5",
       "summary": "Meta’s next AI bet has one major catch for investors thestreet.com",
@@ -176,30 +224,6 @@
       "summary": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content Yahoo",
       "badge": "new",
       "date": "2026-07-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
-      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework Anthropic",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic wants to develop its own drugs - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUJoM1JuTHA3NFFTR29IZUJZM1FVbEx6WThBTnNlWjAtMjliYzRiYkU4azVqV1BOS0JmdFBiMnUydWVtQW9OaWx0UXQ1ajMtMERxR2hCZWw0NFozWDB5dHpDdUZYMGlYT3dvTzNHaHRKR01TYmRJbjBBUENXdVlwTmVNTFA1dWxuUDVrc0dIWE5XNEJxcW5JMW01RTdzSUl3czM2SmN3?oc=5",
-      "summary": "Anthropic wants to develop its own drugs The Verge",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
-      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude Financial Times",
-      "badge": "new",
-      "date": "2026-07-03"
     },
     {
       "company": "Microsoft",
@@ -274,14 +298,6 @@
       "date": "2026-07-02"
     },
     {
-      "company": "Microsoft",
-      "title": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM01fYjd1cjFmcGxOU3ZaYlZ3NWdxMEhIbHJKZ3JLMWZmQTJhM2RzaVMxZ2R5c2NyLTd2clVCSWVKT1BlckRKSnhsTjVfdXpIMDN6UHJhLVBoTTA2MlB1VHZPOHBEWHNHcTc4NTM0S2JSc2RhZ1o4YWF1NnE1eVFwa2trWXp1SzltcjFMYVNrbFdaRHIzc3J0MVlvd1hUTmJ3WWFqSURpbVYzVTRnd1FmX2ROQ1dyS0dtaFJoQkNsbVcxS3ZseXFxZ0pIUnVBU1JNMmYwMnVZVmFiZkRNYlFOd2xuV2VVZzktNVo1MnhKbDYtOXFoNmdrMEE3eXBia3U4M2tlWUhFa21Jb3k4RVdfVzJBWWNpOUFWUU5RTTR1dlYzeGkzeFIwRg?oc=5",
-      "summary": "Leaked video reveals Microsoft has explored building an AI-powered Copilot OS powered by Edge Windows Central",
-      "badge": "watch",
-      "date": "2026-07-02"
-    },
-    {
       "company": "Perplexity",
       "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
@@ -318,14 +334,6 @@
       "title": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5",
       "summary": "Meta is finally catching up to OpenAI, its AI leader says Business Insider",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUF3VlFVc0VWdDVKcDRFUTNWdU8yZFlIYW5YRmU0Nkx0dVpXS2NqVE9PZW1UZGc4SGVCem0tVk5weDB2Zlh2R1Y3eS0tOUZtampsTG5wM3hGVUo5bm1tZVlrTDN3UDZUWGx1aGEtVjlyUThxaG41NXFLSUtRX1BwaDhCQ0kyLXQ5dDlOQmtqMFl2RTh0M2I4Mi1yYjZEUFJrVW54S3ZpZy03QnU0amp5WkJ4Z2xmOHFFTHA4?oc=5",
-      "summary": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped TechCrunch",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -414,14 +422,6 @@
       "title": "Which AI chatbot is right for you? Take our quiz to find out whether ChatGPT, Claude, Gemini, Grok or Perplexity is best - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMHlzUS1RcVg4X2ZaNkIySk1OVWdWSE84N2NwamNmOWFIWVUtMk1tQlZFX05DU3lDbWh5azlXVmV6UFQ0T05CeHpEUFY4Z0k0cWl4OHd0Wl83WF9HbGt0enJ0NWU1MUNSMVdnVjVCU1NHLUdoMENHU28yZ3Y4Um83Y25OUXZSdndFZWNwRnJZeUF3OUM2RW8wT3djamN5ckU3S1hCY1FxZUpUUy1kWDIyaTY0aXBRT2E0dzFySUdhcU5DUkxqemhqQWZCY1Qzc3RtQnVYYTYzYmx0dzJ0cVpsR1VpUjV0TzNfcy15RmE3bEVvSUFPV1gxSWNn?oc=5",
       "summary": "Which AI chatbot is right for you? Take our quiz to find out whether ChatGPT, Claude, Gemini, Grok or Perplexity is best TechRadar",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches - BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0hTOW9NQVBZbGZhVGVFZ2hJcEZ1VTZJV3RRQUV5S2U1RTFVVXJUcDVMS0lKMnpESlI0Um9QcFlCVkZ5ejZoenRLVjQ4cjFGdWZoY2tpMWM2MkdhZTFxSUlEUDNJZDVHZnBlVHhaZmNuYjQ0ZWc2ZEp6MGRpbGVxRVpCUV92RU1teUxxUm43ejhaNjktOXM4czN2dUJSS3BGa3pVOXZRNDFMOGZfNmZZ0gG0AUFVX3lxTFBsUk1DTTExR1lZM00yWEt6ZnVNUGhfSXNQMGE3V1pnaVpoaWpHbDh0RjV5THVYNnI5YkZHLWdHR0pBREdfaV9jR00yUi1KY1N5OXB0dTNNeWhwZndNc2VVSHFjX2lmSktyUVh6MDR6czVxZ1ZucDI1TTZjTzJXVTRoY2k5WVFvVXBBZlUyMGVIWTc5R1p4RHV6VzcxamFKOWFWRm9zc3VqT1FxRjNieWZrX3pKUg?oc=5",
-      "summary": "Fake Perplexity extension on Chrome Web Store tracked searches BleepingComputer",
       "badge": "new",
       "date": "2026-06-30"
     },
