@@ -1,11 +1,91 @@
 {
-  "updated": "2026-07-07T19:47:37Z",
+  "updated": "2026-07-08T02:10:00Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "badge": "hot",
+      "date": "2026-07-08"
+    },
     {
       "company": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "url": "https://openai.com/index/australian-payments-plus",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ScHhOLVRzTDlVWmJoMlFWVkJ4bFItekhWTWo3dldKZ1lPX2lMRnBZTzVYaVBzTkpRdkRXbDQwMjUzSGp3Q0tlcF9zeEF6SGYxNVpZOEttdW4yWjdncjljd0R3RVd0YV8wcDRaeFFrb3kxWmlZeHA4U0R3?oc=5",
+      "summary": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York The New York Times",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
+      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg.com",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5",
+      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft Quietly Shifts Thousands of Office Prompts to In-House AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2d2LXNtV2dHNmVGa0QtS2dwazJXQUpQaEg2ZEJwWXU0M2JSRFNSOUc0cXNJTTFwZFRKTDFBS0l0aDNQeHVOSnRPRnV4TWpSMDY1VkVyWHE4RU8zMExXMU9YV3Bfd1ZSQ0xxa2RHeGIxRktiVFFQcHZWRWpwVkxfN1BielpQczBQRV94RmxzQXQ1ZTNScDNqOHhCVjFEOFFyR1dsZ1dnRExpXzRfNjRmTW5PMUNHWFdzTnJJRHV4RG0xZTg?oc=5",
+      "summary": "Microsoft Quietly Shifts Thousands of Office Prompts to In-House AI PYMNTS.com",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -67,6 +147,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft edges higher as in-house AI push takes aim at copilot costs - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkxHdkxnbUZRMkxpa0lieFVPMUh3aDBrTmlvQ0w4MlhoSVBNaWNxOFlHdjE3VjNDcTBZVml2bk10MVFTRzFJTXpHb2tPMDhBR3NaZFNLX3V4VDJpaVFCTXdVOHpHVTBnekVxVlRyRUZsTUJCV1B4bzNMRm9vVWE3TkNZQ3BKNUI4SndBellYTjF4Z1BDMU5mRUpGLW9Xd3FnNzdnV1FGM1h3Z254cDZEYWVzX2JTeDJVVjVLb25jdTU5cVk?oc=5",
+      "summary": "Microsoft edges higher as in-house AI push takes aim at copilot costs Investing.com",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Microsoft",
       "title": "HP 14-Inch Copilot AI Laptop at Nearly 60% Off Is Priced Below an Entry-Level iPad, With Microsoft 365 Included - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRDduSVFzajdVaWh2SGxVS1hSb3RPaUFfWnY1UXN1Tk1xVVlRZFJaTklqWjUtMkw3M09oR0xyMzdmZDVoREhNT2lRSl81ay1BZzlwanB3OHVlYlRtREtZMEsxNHZEcDgxMWI3Nmx2Q1U3WFVpU1ZfdHhqSF9JVUh5Nzk1V3VWTExvZ29xSm5raHZUSjJaS3lzZXBXN0lTNUlVOWdxUXBiOEhEQkdCR2JKZVJ3YndoYm1DU1FiN05PN3dHalFISUs3MUV2Ujk0eUhxUUFFM0tZVQ?oc=5",
       "summary": "HP 14-Inch Copilot AI Laptop at Nearly 60% Off Is Priced Below an Entry-Level iPad, With Microsoft 365 Included Gizmodo",
@@ -74,50 +162,18 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
-      "badge": "hot",
-      "date": "2026-07-07"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity says it plans to use Nvidia's new CPU - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTF1eGsyZGljNVh4dHNCbVIwVnd1ZFd5LVJmUTE2bVZfQXczWGRmYzl0SWhUcU1ma2F6YnNPWnBYQ3NZNG5tTjNITExOdldseE1VaWo0Rk5UeDFJSjAxMDE2QWFvOHZHYlAwQTItblNNRlFpYlQ0VjdCeS04RlNNbHA4VWhONGxycHdoeExmSng1X3JadEk3QUJuNm9VZw?oc=5",
       "summary": "Perplexity says it plans to use Nvidia's new CPU Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity is quietly building an AI coding tool to take on Cursor and Claude Code - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZEZmpBWjZRU2ZqN3FpWnhEYUIwZDNwUG1ob2FMMWkxOTJ1Vkt5NUR0dFVxTmp2QU5HRlp4WkVYWkVqcjlTcjhJajJwNXQ1cGxyOC15eVFKSm5OelFsX0llV3FNWHZtSkFsVDBlbGNuTXNmTm1KMDBmQVZoUUxvM3ZoM1JlaXU2ak9uX0twc1gwYy1DVzdHSmJYRFNvTEVq?oc=5",
+      "summary": "Perplexity is quietly building an AI coding tool to take on Cursor and Claude Code Business Insider",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -139,18 +195,26 @@
     },
     {
       "company": "Meta",
-      "title": "Meta enters AI image model race in bid to court advertisers and subscribers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5",
-      "summary": "Meta enters AI image model race in bid to court advertisers and subscribers CNBC",
+      "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
+      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Meta enters AI image model race in bid to court advertisers and subscribers CNBC Meta Now Lets Anyone Use Your Instagram Photos",
+      "badge": "hot",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Meta",
+      "title": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEh0RHJha2tmYnRBMmFwYVgzV2F1REJ0c3lKREViV0tXWTZqM3RUcTlwMkxlNzU3ams4RVNUbjhVeTl3M252bi1FR0NQcDRMUWFBZnl6RFBvTUs0eXJrQWtDV0tUSTNKeHQzRHlQY0NSbUhWSUNnWVZWRjlaWm5pVkI5X1FOQkxvLW5NSVIxZVZ6WVdV?oc=5",
+      "summary": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected Yahoo Finance",
       "badge": "new",
       "date": "2026-07-07"
     },
     {
       "company": "Meta",
-      "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
-      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store",
-      "badge": "hot",
+      "title": "New Effects in Stories from Meta AI - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlZReHZWOUFmRWVhcEw5SFNFdmc2YmFoc3RtM291RUN3aGU3NTJmUGJHTmtTc3JQNDVuQk00cFZuV0hmdVpxeWFFRUNZME5rbzIyamtrTlNHdDc0azdVWUdsMnl5ajJUTDZTT1pLQ2p5UkJfRlUyakROMmNWckpid0NfNHJRdXY2Wmc?oc=5",
+      "summary": "New Effects in Stories from Meta AI Instagram",
+      "badge": "new",
       "date": "2026-07-07"
     },
     {
@@ -158,6 +222,22 @@
       "title": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXVxZUk4RjNJWWtpa3ZwTTYzN19VR3pNaXppNUhZUjZYR3doeUNrSEZfNjMwb1RHQUhOT0EwRWFmRTFYQmxyWHlxbjhhT3ZfdTE4MTIwdEtYeG5iSlM3MU5KNWVfVTMyWWFNYkk5WHIwZnY4MThTRDZZRWhCcVphRE9yQm9lYUhzTUI4WFkyeWV2eXVmdnYzTnVYUQ?oc=5",
       "summary": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Data Center in Cheyenne Isn’t Even Open Yet. It Has Already Triggered a Wastewater Crackdown - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaERkZkl1bzhNV05iVmRhUFpobWxLcHdYcHZIVW1iUkg5MHdickVsN3pIbFlnOFItS3kwR0tKVENTSWtQeEJaa0FyUy1nOFMxVVoxeDlxc1hDM0FaNWEzdzlzTi1NbVdsaEdDQ3l6NDJsc3NDUldhNDdBcW8zVnNZWUFGMWZVb2R3SkVlc1lBb2dVZDZIUWd0Qk1aaHQ0N2FrNDg5eXI0UTIzYlVhcDFGazVReGZsb2EyTVc2MA?oc=5",
+      "summary": "Meta’s AI Data Center in Cheyenne Isn’t Even Open Yet. It Has Already Triggered a Wastewater Crackdown inc.com",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta enters AI image model race in bid to court advertisers and subscribers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5",
+      "summary": "Meta enters AI image model race in bid to court advertisers and subscribers CNBC",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -179,14 +259,6 @@
     },
     {
       "company": "Meta",
-      "title": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEh0RHJha2tmYnRBMmFwYVgzV2F1REJ0c3lKREViV0tXWTZqM3RUcTlwMkxlNzU3ams4RVNUbjhVeTl3M252bi1FR0NQcDRMUWFBZnl6RFBvTUs0eXJrQWtDV0tUSTNKeHQzRHlQY0NSbUhWSUNnWVZWRjlaWm5pVkI5X1FOQkxvLW5NSVIxZVZ6WVdV?oc=5",
-      "summary": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
       "title": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnV5RFdJUHRjcXM2Nko1RkFPc3JTRklsTHBDcklaOGxrSkZRdm81Z3hUTE1WX0QzcjE5TUFNTDBPMGpSeXBwM2Z4b0ZkS3ZpMjJFQ1FxbDZzZWxXdVpVRkJFaTRUcGxCdVF6S014YzJ1cDN0X2FnS2ZicG1VU19wUzZnY1h0ZXNmS0lpOVlURkJVUUl4SHVBMDJiLWdQVjU3VHY0VzZlSUY4X09QaGJqLU9XR0hVdnRoTkNXOTB6M05rLWZqWENlTVRfQW15MXJjTEhnUU5pbzBRbGd1ZmstUnhUaUVvOWI1Y0FSX0dwR2ZEN2R3cWZWdnNKUTYzZjVNczlXeA?oc=5",
       "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity Stocktwits",
@@ -202,42 +274,10 @@
       "date": "2026-07-06"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness - Venturebeat",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaGt4NlVwNDlnZmtRbTM3VDZPZy1mTGpLRWpDQmJ5SzdaVWh0N28zZmFqMVh0NVRTYkZ5TW9nQ1VEYVMtMWNRM2M5UmwtUC1sbEI5amdKTHQwYUhSZHpXSndFQ0xJMGl6enc4aFN6MmZENVNkN3EyRndJQUJkRVhwbFA2ZnBXZFl0NFNlaDNGSjhKajJpeVp5NDNTdHNyM1QtQ3BUSEN6VmpkZzlDNmIxTXN0d3lHTWVxaHhsUjNrYXdteGpROHA0SXJzWlJtMmZBWHdtaXQ1Z0hxQzR6?oc=5",
-      "summary": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness Venturebeat",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: US cyber agency is using Anthropic's Mythos to audit government code, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVIxWEljZjRkR21jakVuQVZZblN5T1RTVENtMTNpRDU0d0ZLWWk1RkpKVkpjVUNGbkY0ckVwTmpvaXBwSnV3ZWdjNGNzU29sVnpJeUJzQUU3dkhKa2pPWW44ck5kNEpsbjZfZ1JlSTdkdFhKS05CdzhCZEZKWDAwTkpDWE01U3JZQU9TeExfYkpGQ3hHdU1nMnFJaFhyRWM3N3FBUFBPUW5LVHlQS0xMcFZJUHRqZWktNEE?oc=5",
-      "summary": "EXCLUSIVE: US cyber agency is using Anthropic's Mythos to audit government code, sources say Reuters",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Ykl5M1J5SW5wclpRaERtUUllclU0clBCaTlPYVJ5WWVGQkpIUTRYaXJJcS1XcmVYa2lVUkZhQnpWQ0NvY3h1alBReENVT1RZa2tJMWQ3SHdMU1F2cVJuWjM0bktmZElSbGE4WVk5VWd2VnRaa2FpRm5PM2cySU3SAYQBQVVfeXFMUC13eFAwV0ZDbm02SURnMjhrd3JvUEUzeHcxdEFkNFQzbFZwUnkyMDU0MnhqYzRzaHpLZjR3MHRSQ2VycnRuaXRVd3YyNzE5UUxMN2NKQU1DamFKYV9qLVNsN0NpS1VabzVnQjluZ05odnViTUZFM2txRUpkZHhRS3hGYUhs?oc=5",
-      "summary": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation CNBC",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5",
-      "summary": "Why A.I. Distillation Has Become a Hot Topic in the Race with China The New York Times",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
       "company": "Microsoft",
-      "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVZlQ3RDaHNrdXlQS3ExRlFuWWlveHVIZUZqTFZrU0Mtd0c0aVJyUERVdUVFdTRmSjROS2lpSDFjR2hHTXlXYktMTE9IYkNUbHZiV0NLekkyMFhHcEg0TDJQcWZXZTVaOFVSanlrbHEyU0QwcnBGX2hrak9wYnFOS205OUZmTHNmUVd4dUJ2RjhjeEFJcFRmdjRn?oc=5",
-      "summary": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App Yahoo Finance",
+      "title": "Microsoft's AI Assistant Push Gets Unified - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmEwMHNsRUV0QTRDeUY3X3EzcVVmLU9TQmx3cGNoQXVqVUh0LVV1OW84TUxlMXV6Q1AtcTZRS01DZkFGQnVPWGdveGJOSFRUNmM4NmdmMGVJWExVVDJHdzFTc0pqWHl1ZE5TOTBPNUNscGxQNGlTam42czlkZWJpQ25PRGZsYVEzYXRuVzV4Mkgtc2tmdmRyRDRQNFpidw?oc=5",
+      "summary": "Microsoft's AI Assistant Push Gets Unified Yahoo Finance",
       "badge": "new",
       "date": "2026-07-06"
     },
@@ -246,6 +286,14 @@
       "title": "Microsoft Merges Enterprise and Consumer Copilot Apps - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
       "summary": "Microsoft Merges Enterprise and Consumer Copilot Apps PYMNTS.com",
+      "badge": "new",
+      "date": "2026-07-06"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVZlQ3RDaHNrdXlQS3ExRlFuWWlveHVIZUZqTFZrU0Mtd0c0aVJyUERVdUVFdTRmSjROS2lpSDFjR2hHTXlXYktMTE9IYkNUbHZiV0NLekkyMFhHcEg0TDJQcWZXZTVaOFVSanlrbHEyU0QwcnBGX2hrak9wYnFOS205OUZmTHNmUVd4dUJ2RjhjeEFJcFRmdjRn?oc=5",
+      "summary": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App Yahoo Finance",
       "badge": "new",
       "date": "2026-07-06"
     },
@@ -282,22 +330,6 @@
       "date": "2026-07-06"
     },
     {
-      "company": "Meta",
-      "title": "Weeks before Meta's 'highest-paid' employee Alexander Wang told the world that the company's AI model upd - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPZHRVQ2pFb1I5WHlyTE1CeUFDU3g2V0wxMk92WnZVUFcxZ0VwZTBVU3RyakN6ZFhOTkt2TElYaEMyU1hSR0VUdDY5bTZlSjJ5SUk4SVg0YVRMZHQwOWJxQldfdF9FTUNtLThOSmVLdVV0Z19yb2tOQVhzdzhMMFhZYjQzeTJrSTdmODRDOEpwMGkwTzVUTEpjRUY4cE9sSkZjTmRpQkhoYzVGMTR5YkVzbDc5ZC1GNjhyMFViSzFQYmJMSGdGZnhZanJfZ3ZrQnpRd1VaT3NpUUJscExJLXVfaFVoR1RxOUhja210dlY1ZTBaU2dMNF8xTkIyS2ppXzluUnR4eHVGanFIMEp4YzBFLURRazBDSGtiVTJKeWI3aG9hZFhoZnpNc3hQWjNMZXNLM3dlNzRrR1BEN0h3dGh4YUViRHVleVNPcWhTM2tzNEpVTVF4VXfSAdsCQVVfeXFMT3ZBcVJHZTdNc1hwWmtybTZOTVBpeThEc0ZxRXRjT2dNSG5QYTVVRmVKMmV5c05kZldpVzlKaE5uNkpxdkhDUGphYklNbDdJb0hLMWRkRGR1VU0tSkU2LWQ2SVBXczdWaW91NUNnWFNNMDM5QnBrZ0FvUWlNTEhMNXhIbHlQWmpyTGp0TVMwdGZpNy16eks4ZVFoTzM4a25zb0tNSXNwT1RWY25ib3M1NFZRVm1KRHdtRHVTS3NYazRrb1o1YXFKLWNhV1VNVTRxaWtPS1UxM19yWHBSTnlZZS1HQ25nR0JrZzVaQkttc1Izd25wSWo5T29pWkIybDNabGszeUxCRXg4anBLSWhuNnpFcmlRUzNjUW9PT1RWd2V6Y2FrWE1aamtDTDctTG1RZG5ickNaTDJaZW5rVVBJZW1rdlpYNDREZXYxcmdPNUlKekd3S0ttTkZBckk?oc=5",
-      "summary": "Weeks before Meta's 'highest-paid' employee Alexander Wang told the world that the company's AI model upd The Times of India",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Reported AI Cloud Plans Are Not Yet Ready for APAC Procurement - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tbG5mbDc0RlF0c29qeFhEZFNSMko4TUx5S2dubFFxaUZiTnpTQktHTHhpX0hnZ2kycXZZMDViNWNqdE8wYlpEX085bkxicmZBVUs0SlNST2xrS0dCaTg2cTM5bzhITVAwYnNhWGRn?oc=5",
-      "summary": "Meta’s Reported AI Cloud Plans Are Not Yet Ready for APAC Procurement TechRepublic",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGUyS1lGQUpId0MwNWRFMFQ0WlhCNlJIZURaS3g2WVNGdnZDa3N2YXYzdWRSZVNMYnNkbDQyUXJpNGEwb3dOYUJNX21rZDcta1lwMTFlVU9FMS1CUS1kS1dCWE9EZWg3Y0FVeWQ1THNibGdnb1Ribm4zWkZ5WU1lQkF1RVFIVllmejZWOV9VellTdEF4VUdteTcwWFZNc2pWQ1Z6aXBXSDhQYUIxbEQ1MGgwMXhlRlVaTEp2WTVycmpMS1VMVGprUmw3X1VQTTQ1cGF4XzZGcE02YnNR?oc=5",
@@ -312,14 +344,6 @@
       "summary": "Perplexity CEO Aravind Srinivas says Microsoft created the ‘knowledge worker’ to sell more software Moneycontrol.com",
       "badge": "new",
       "date": "2026-07-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot Merges Into One App in August as Feature Cuts Reveal a Paid-Adoption Crisis - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeXMxT1BPcHVvVVdVN1ZweXhrbWoxUk9reVNxcEY3TVhSSUFrbmx3VTFKaXlielFWMkJsTnZRRzJGb3RWdXVWc0pRakR3c3cxbVo2YWhfcmphM0dLRWk2dnJpbzhET2JVOEp5cVRGZEV2VTgxS0p1LTZJeUFvTld4SHJTOExnXzhqRHpiOEF2Ync2dU9CdEZBTUE3TzktVURDaEJXWG54bWpBNldXR29uampUMlQwTHBpNFhmVnBJMDBjR3lFMzA0Sjg5NUlYdm9V?oc=5",
-      "summary": "Microsoft Copilot Merges Into One App in August as Feature Cuts Reveal a Paid-Adoption Crisis Tech Times",
-      "badge": "new",
-      "date": "2026-07-04"
     },
     {
       "company": "Microsoft",
@@ -346,14 +370,6 @@
       "date": "2026-07-04"
     },
     {
-      "company": "Microsoft",
-      "title": "What is Project Aion? Everything we know about Microsoft's secret Copilot OS project - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNjh0X1gtZmxDRzZOaFFab0hxNFI1YkhaeXI1THMxdkIxeUpaUXdOSXV0dlUtQVg3X1BuMGZJTGxzSGl0VEp2TTBlZlRzUThDN2MyVGYycXlua3I1VlZoVjZpTkpOSS1mN1BKNFZreHRHeXZhTWdoN3NYWFlaa0xOV2NOZTRJdw?oc=5",
-      "summary": "What is Project Aion? Everything we know about Microsoft's secret Copilot OS project Windows Central",
-      "badge": "new",
-      "date": "2026-07-03"
-    },
-    {
       "company": "Perplexity",
       "title": "Why Perplexity's Founder Doesn't Think the American Dream Is Over - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1VpZnhubUFxQUlQX19UaTJETE45R1cwak5kamd4dGdBZVlUTmVhaTl0d21JZE13T3RVZXpaSHp3R1NJVkZJeWJKbkdKdlBqeENZLWlNVEU1aVBmZXk0Tlp3MWlIMm1mckxGLW8wRWQwSFFxZlZNdVlZWERCMV9tYUx3YlhvQWRQclFNUFJ4RVF6OXZn?oc=5",
@@ -366,14 +382,6 @@
       "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
       "summary": "Sneaky Chrome extension discovered secretly monitoring all search activity Gizmochina",
-      "badge": "new",
-      "date": "2026-07-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX05aTTYwSVlGSVV0VnlyWkVQSDBVMVB3VU5LZkViaGd0UFNrV3lENllWanFLZTJqNmoyVnJQdkNZYmRieW9adDg2S1ZRYlp1RWdFZXJhX3JPV2swblVtSGVLUDJZNEI5blN1Ul9YcExWd2xJMzhPTm9Pakk3Z3hwQ3pzckM4UWpsUjdiZWxScGgwR0wtRHMtS0RWbC1MUl9TTVl3b1U3RnFId0FTWkF4Rmluel9VdzhuY0tSUDNhanBtd19GT01PbVlCeUJld2hFbVdKdzRUVVlRQWRR?oc=5",
-      "summary": "A fake Perplexity AI Chrome extension was secretly tracking browser searches — here’s how to check if you installed it Tom's Guide",
       "badge": "new",
       "date": "2026-07-02"
     },
@@ -403,14 +411,6 @@
     },
     {
       "company": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "summary": "",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "OpenAI",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -423,6 +423,14 @@
       "url": "https://openai.com/index/introducing-genebench-pro",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "badge": "hot",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "badge": "new",
       "date": "2026-06-30"
     },
     {
@@ -496,14 +504,6 @@
       "summary": "The Google Finance logo, surrounded by elements of the user interface",
       "badge": "new",
       "date": "2026-06-25"
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "badge": "hot",
-      "date": "2026-06-24"
     },
     {
       "company": "Apple",
