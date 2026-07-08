@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-08T08:18:03Z",
+  "updated": "2026-07-08T13:50:58Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
+      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
     {
       "company": "Anthropic",
       "title": "China issues 'backdoor' security alert over Anthropic's Claude Code - Reuters",
@@ -14,6 +22,22 @@
       "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code - WSJ",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5",
       "summary": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code WSJ",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
+      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -59,6 +83,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVVVR193Qm40SXNlX1VXRmdOVmVkX05VMUIzUnYxRk5peks2clYxSmVNY2w5cUw2cXhNc0ZOVnA0QW1LNUVTT0xaV0NNeng3SmxiM196R1VGZG1FTFN6MDBOdnhKRXMyM3p4RVNsUnJfeWhLbkRKNlFsS1hvS3pCdEYwYWs?oc=5",
+      "summary": "Meta tests ‘super sensing’ AI glasses that can capture every moment Financial Times",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
       "title": "Instagram and WhatsApp get AI image generation tools after major Meta update - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTG5KX2ptSTNYdmZVelN4Mmkzc1FXaUk5Xy0wWVd2ZmdMZTZrYkZUYjItTVB4V0V2ZnMwWmQzaFJNT21wT2QyOEtReWYzcFlxLVluSDQ0UW9hdm5vQ2xtMmltczBhMFNyQ25oMjZpYllHWVlRcGdiVkZfMFFtYXVreDl1U0M4dUhtTG1Hd255VWM?oc=5",
       "summary": "Instagram and WhatsApp get AI image generation tools after major Meta update Yahoo! Finance Canada",
@@ -83,22 +115,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUtFcjdaQ2poUmNMajdmWVktWmJ3R0NkSzBXUHlNeHVmVWpUSjRRZFVZdUl5a2MxNTNqM19NYlFWWUplUVl4N19lVVVjUnd2aFpubi1pZkpUcHNNQjg5NmprTGxnZW5iUE54emw1czNBLXQ3dWdTSU51bVhHVHVXbDNqUU1tb3VuLWNxNURkdnprQ0JKQnlR?oc=5",
-      "summary": "Why the rise of open source AI isn’t hurting Anthropic … yet TechCrunch",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ScHhOLVRzTDlVWmJoMlFWVkJ4bFItekhWTWo3dldKZ1lPX2lMRnBZTzVYaVBzTkpRdkRXbDQwMjUzSGp3Q0tlcF9zeEF6SGYxNVpZOEttdW4yWjdncjljd0R3RVd0YV8wcDRaeFFrb3kxWmlZeHA4U0R3?oc=5",
-      "summary": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York The New York Times",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
       "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
       "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg.com",
@@ -110,6 +126,22 @@
       "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5",
       "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUtFcjdaQ2poUmNMajdmWVktWmJ3R0NkSzBXUHlNeHVmVWpUSjRRZFVZdUl5a2MxNTNqM19NYlFWWUplUVl4N19lVVVjUnd2aFpubi1pZkpUcHNNQjg5NmprTGxnZW5iUE54emw1czNBLXQ3dWdTSU51bVhHVHVXbDNqUU1tb3VuLWNxNURkdnprQ0JKQnlR?oc=5",
+      "summary": "Why the rise of open source AI isn’t hurting Anthropic … yet TechCrunch",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ScHhOLVRzTDlVWmJoMlFWVkJ4bFItekhWTWo3dldKZ1lPX2lMRnBZTzVYaVBzTkpRdkRXbDQwMjUzSGp3Q0tlcF9zeEF6SGYxNVpZOEttdW4yWjdncjljd0R3RVd0YV8wcDRaeFFrb3kxWmlZeHA4U0R3?oc=5",
+      "summary": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York The New York Times",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -138,14 +170,6 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Is Closing the Doors To Chinese Engineers - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWtLYlp3TDgwcXJIa0dqU28zWEU4YW1jVlpjd1oxLWVLUEFaNHR3VXNnS2h6QmlTUm45S21xb1dnTVhldllvVm1CVjQwdldBbnNVVkRPVnk1bnlrVGdNTFlOU2pPU1JXM2FNT3FGeGgwU0Jfbm1mZng2elJJTjdNblJ6cUxmMXNWeE5mcjI4TXNMV09UbUFQZ3BDYTRyOVdOZk9nTTM1SXo?oc=5",
-      "summary": "Anthropic Is Closing the Doors To Chinese Engineers Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
       "company": "Google",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
@@ -155,9 +179,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDU4TnlldE1LenZXbVh3ZnhKSUU0VklIdzMxcFNvOE1SazgyN3ZiNE9TbUVTRkRzUkxvM3RsTVRvNWFwMUFpVkt4VGw4by01RFJqZlVEdWRkRnRmQnRicS11eExaOHoxMzRSNVFsbG0yRkloQmRUV0NhYXgzMmRHMTloYmpYbnVnYm03ejhUX05EZktEc1IzbHZVUjFMTVI1UjdoN3JfTUhlZDhYaG5kOWNMbHd5bTN0eTBnTUViakRUSHRoWXR1cGtxWEJ3UQ?oc=5",
+      "summary": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report Digital Trends",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft 365 Copilot adoption is under 4.5% after 3 years, only 1% use it weekly, yet prices went up - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMlBPNWNUaWU4NFBJRVpRb2tfdE5NRDdoTERyLUx1MnJ6SS1NYlFMdC1KT3l6ZkYtdm9YM3JZdUtFNGhvTmVBTXdTak05aFZ4NEJ1ckFVSVpfRnB1N1ltaVRLWkU2eVBld3Y0RlBta2NOUE15bFdvWWF4aTdyUXMwOUV0RHhZZ3AydFZjOUFaOHhoX1o2bmE3NHh4N1pTRGdpSmVOekg4clJQVjNLSW5oeWZIcnlLY0oxNG1RZW05ZGVTUmg3ZmhPanhPeTVnMm1sSFpmTlFn?oc=5",
       "summary": "Microsoft 365 Copilot adoption is under 4.5% after 3 years, only 1% use it weekly, yet prices went up Windows Latest",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
+      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -221,15 +261,15 @@
       "company": "Meta",
       "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
-      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta Outcry as Meta lets users make AI images from public Instagram profile pics BB",
       "badge": "hot",
       "date": "2026-07-07"
     },
     {
       "company": "Meta",
-      "title": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXVxZUk4RjNJWWtpa3ZwTTYzN19VR3pNaXppNUhZUjZYR3doeUNrSEZfNjMwb1RHQUhOT0EwRWFmRTFYQmxyWHlxbjhhT3ZfdTE4MTIwdEtYeG5iSlM3MU5KNWVfVTMyWWFNYkk5WHIwZnY4MThTRDZZRWhCcVphRE9yQm9lYUhzTUI4WFkyeWV2eXVmdnYzTnVYUQ?oc=5",
-      "summary": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram Yahoo Finance",
+      "title": "Meta’s AI Glasses: Your Questions Answered - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3ltNndDSDNFQy1aRzZwZ1gzckcxS2ZfWjh2SGFRRmJFQWpDUGhTUjA4Y3dxRVdnSC01bDVBWjlJRmo4WXF5dTZqZDB4dGtNV2NVb0FuN2RVSkN2QmhRYlFMYUdhYk5zVFI2WEU0T1BTWEpPQnYtM21Da25KQ0lfRtIBhgFBVV95cUxNTjJwa1o0UEZVVUl5aUdiN0Ywcl82RklaVlROVWc1MERrNHNfc1RKMm84MGswMDMwdG9KUEVUR1drVWJmdngyZDNTc0tZd05UQUhVSnVSeUptNkh1QThRWEZfQkdra0FqQ0V6eWFsNlNtTjFCTkJSS0RRamV4bEpsSmxHelQ2Zw?oc=5",
+      "summary": "Meta’s AI Glasses: Your Questions Answered Meta Store",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -238,6 +278,14 @@
       "title": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram - CNET",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0h1cU9CM0Z3aTlZVENpbERLbFZvbkdNdDRUVFdiZDN5Y2pUam5NS09SdFBNcWpRRkxEVjZfckJqM3hYdGp0aGNlUHVKOE94UXRMeTVLUjg4cXNGZ08xaE05aWxHZ2U1T3F2Q3RoTUx5SjJiRHRfWEhsTXNMQU5LTzdkZkp0TjVWZEp3a2VRbUQ5Um9wVWMzRHNISQ?oc=5",
       "summary": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram CNET",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXVxZUk4RjNJWWtpa3ZwTTYzN19VR3pNaXppNUhZUjZYR3doeUNrSEZfNjMwb1RHQUhOT0EwRWFmRTFYQmxyWHlxbjhhT3ZfdTE4MTIwdEtYeG5iSlM3MU5KNWVfVTMyWWFNYkk5WHIwZnY4MThTRDZZRWhCcVphRE9yQm9lYUhzTUI4WFkyeWV2eXVmdnYzTnVYUQ?oc=5",
+      "summary": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram Yahoo Finance",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -274,20 +322,12 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Meta",
-      "title": "Meta's AI catch-up effort gets a new look - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KT3M1ZWFDcEtMOHM4N1NrcE1aVmhvQTl2WGxFa2l2QXFfclhvM2o5eGdYU1pObFNHa2dNaHl1ZVdCMnllZXhWWVlnbE4teUdNenVCSkRfbHNkWVoxRTBLQ0lUX1p2dFE?oc=5",
-      "summary": "Meta's AI catch-up effort gets a new look Axios",
+      "company": "Microsoft",
+      "title": "Microsoft's AI Assistant Push Gets Unified - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmEwMHNsRUV0QTRDeUY3X3EzcVVmLU9TQmx3cGNoQXVqVUh0LVV1OW84TUxlMXV6Q1AtcTZRS01DZkFGQnVPWGdveGJOSFRUNmM4NmdmMGVJWExVVDJHdzFTc0pqWHl1ZE5TOTBPNUNscGxQNGlTam42czlkZWJpQ25PRGZsYVEzYXRuVzV4Mkgtc2tmdmRyRDRQNFpidw?oc=5",
+      "summary": "Microsoft's AI Assistant Push Gets Unified Yahoo Finance",
       "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta expands generative AI tools with Muse Image rollout - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS01TaUFqX3M1M3lGbnRRRUVlR1hWSUpsUmg1aE1pRk1aaFFqZS03QkN6VWhmT2Z6VEZrbTFERlhNMkEtT3N4RUZLMVU5R0tWTnJ1MWMxY2tRdENoSTBLQU5MWE9qZzRDOERiZ0V6bmUzaVBUUmRZYjZoVC1lV3pFQS1SQ0ZjU3FESGxDcmhTUFBEY2lrcElIenlLNW8zdmdRYWpCQ1FR?oc=5",
-      "summary": "Meta expands generative AI tools with Muse Image rollout Reuters",
-      "badge": "new",
-      "date": "2026-07-07"
+      "date": "2026-07-06"
     },
     {
       "company": "Microsoft",
@@ -306,44 +346,12 @@
       "date": "2026-07-06"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft's AI Assistant Push Gets Unified - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmEwMHNsRUV0QTRDeUY3X3EzcVVmLU9TQmx3cGNoQXVqVUh0LVV1OW84TUxlMXV6Q1AtcTZRS01DZkFGQnVPWGdveGJOSFRUNmM4NmdmMGVJWExVVDJHdzFTc0pqWHl1ZE5TOTBPNUNscGxQNGlTam42czlkZWJpQ25PRGZsYVEzYXRuVzV4Mkgtc2tmdmRyRDRQNFpidw?oc=5",
-      "summary": "Microsoft's AI Assistant Push Gets Unified Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVZlQ3RDaHNrdXlQS3ExRlFuWWlveHVIZUZqTFZrU0Mtd0c0aVJyUERVdUVFdTRmSjROS2lpSDFjR2hHTXlXYktMTE9IYkNUbHZiV0NLekkyMFhHcEg0TDJQcWZXZTVaOFVSanlrbHEyU0QwcnBGX2hrak9wYnFOS205OUZmTHNmUVd4dUJ2RjhjeEFJcFRmdjRn?oc=5",
-      "summary": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Teams now lets organizers easily shut down Copilot, Facilitator, and Recap - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEtnQkc4TnU3clBIV2tJWGN2M2RDeU1UM1dqR0h3TXE1bmhqVXY2ZTRRVXpwZWR4dFFEUTZuUTBBdW01ZHlWTzJ4NWF4ZDZpZTlrVHNSRVNtNVNIVVVwMU1LRE8zNXVqdkJkR2VEbEl0X3A5M2hrN250UC1zSWV1T3JnMkxnRU1VdWJjUF96VWtmczNERWwwMFRxdHNkeXNhUms0elBfZjZXeU5rckxWQnR0N0NzcGo1dUxjYg?oc=5",
-      "summary": "Teams now lets organizers easily shut down Copilot, Facilitator, and Recap Windows Central",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity CEO Aravind Srinivas on the one thing that sets US apart: ‘It's why America is still at the top’ | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVkdNdmFiNGZqajdZdjJaNkNLb3gtOWstSEl5NkJkdjk1d0x2R3BDZWc3Y1NHRjV3dkhodDRpdUdKeDFsMnR4Qi1KeFpNZ0pMMWU0elpJSmV5cHBGVjhLVWJKOGxCNzl1TWQxRXd5SzlvSUpSY2l6Vmt4T0hLcXJVcnBSZVVzcVFmT1hjZkdPc3EtWTNBTm1RSkt6cU9wYWtBRUtNRkdIaWRFOTdSVHhQdGxpeUh6YmhwSGo0ZTFoNTQ0aFpaUFMzUUhVMFlnckdMOTQxU1VhZmdIcnh5T19hNnRnekVMVWdwWjZTVzU1TGpZMVBYcjJ4aldHUdIBgAJBVV95cUxQSzBXVHRYNjkyVzhpU0xKOGJoczd2S1JEc3U2bDhwNlpfalNiNldYQTlTWkNwbi1lWnBWM2JrNHkyU3BpRXNyYWpHblE0bnUwTnp1dnBOdXZwU1AyTGlmb25VSUdkUFZpQXpVdE1RcmJUOHFPdzVRRVRzTlFKOTZiN1h5a0ZhVC1VS01YMzNVNXZpdjFnZmhHa0FzdGQ5WFVmTXdoWVVMZk5CazZ6QVpqZ0JoMGJFWXp1a2EwOVZYeWNRblNsVlBzQm9zcGJnUDd5UVFiM3pGLTlRLTZ0TGxCUEdTVjhlVFpUUTZwNHJEcG5iWVN1aG9nOHd2SzNMc3hr?oc=5",
       "summary": "Perplexity CEO Aravind Srinivas on the one thing that sets US apart: ‘It's why America is still at the top’ | Hindustan Times Hindustan Times",
       "badge": "new",
       "date": "2026-07-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGUyS1lGQUpId0MwNWRFMFQ0WlhCNlJIZURaS3g2WVNGdnZDa3N2YXYzdWRSZVNMYnNkbDQyUXJpNGEwb3dOYUJNX21rZDcta1lwMTFlVU9FMS1CUS1kS1dCWE9EZWg3Y0FVeWQ1THNibGdnb1Ribm4zWkZ5WU1lQkF1RVFIVllmejZWOV9VellTdEF4VUdteTcwWFZNc2pWQ1Z6aXBXSDhQYUIxbEQ1MGgwMXhlRlVaTEp2WTVycmpMS1VMVGprUmw3X1VQTTQ1cGF4XzZGcE02YnNR?oc=5",
-      "summary": "Microsoft 365 just got a price hike over continuous innovation, but Copilot is the AI tax on businesses Windows Latest",
-      "badge": "new",
-      "date": "2026-07-05"
     },
     {
       "company": "Perplexity",
@@ -411,6 +419,14 @@
     },
     {
       "company": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "badge": "new",
+      "date": "2026-06-30"
+    },
+    {
+      "company": "OpenAI",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -423,14 +439,6 @@
       "url": "https://openai.com/index/introducing-genebench-pro",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "badge": "hot",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "summary": "",
-      "badge": "new",
       "date": "2026-06-30"
     },
     {
