@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-09T09:29:14Z",
+  "updated": "2026-07-09T14:45:54Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
+      "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Say hello to Claude Wrapped - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPall3b29yUlBVejdiN3JNVHNIUDd6R2xrVDNERE84S1NBMHo2WmVlMDlfTkpNb1ZfZW9YMGs3eU40YnQ0aFdZT3B6c3ZiZ3luOFFQS1dXalpfelpzRE5kRGNkbWdadXlkeUhZZFlZZFg0WEN2bndKdTdnc3hsMlhrY3JKQVpPX0dqc1psR045R3E3TWpXOGhZaXRoZ3F3SWtVcml0aTR3?oc=5",
+      "summary": "Say hello to Claude Wrapped The Verge",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEQtdG9PZk41UlY0U0dFc2IzRG51Z3o3LUlvOXY3NjExYVJsbXIwYVZCd1Z1WmN0dGR3TWtlNDRZWHFhdFZyZl96d3hmSXdaX2l1M0ZtaUphLURqZWVtNnVGS0VBbGREcm9Ca2h6RUxJNHZQSzhRZENmTGVlZXBNemxRalM0bXVVREl0NWp2YmFlOTNfUXhjdUJnUXdIWE5JRUhDdUthZDZqSmpPeUVMN0ljWXg5YUFfM2JzNUt2a29meGlnajJtRXFqemU?oc=5",
+      "summary": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? Windows Central",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
     {
       "company": "Apple",
       "title": "Apple scores record 89 Emmy Award nominations",
@@ -39,6 +63,30 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
       "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows Reuters",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta updates its Spark model, releases developer version - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
+      "summary": "Meta updates its Spark model, releases developer version Axios",
+      "badge": "new",
       "date": "2026-07-09"
     },
     {
@@ -83,9 +131,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Opinion | Did We Make the Wrong Bet on Big A.I.? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlBwMUMwQW5jWWF5MnlWTUVGam51dUd2QlVZa1dsTWJQa2xIajNrMVJoVHpwT29MbU5ORUlVZ1NhcFB5OTBzVDdSTm01aEt2WHAzUlFud0phU3RrSUY5TUhVU25haHpiaFFUakc1WWRsZkYtUkJmNGw2bV80aTl6bVd4QkhvUTVldTJR?oc=5",
+      "summary": "Opinion | Did We Make the Wrong Bet on Big A.I.? The New York Times",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Anthropic",
       "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
-      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China warns of \"security backdoor\" in Anthropic AI coding tool ",
+      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China finds security vulnerabilities in Anthropic's Claude AI m",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -179,6 +235,14 @@
     },
     {
       "company": "Meta",
+      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5idUJkUDg3b1FRRDZHMjJxZUdPOS1uVmdUczVvZjBnaTFBZU5Cazd3YnJIbVZnOTVWbWFqQk5QZGc1Y05tNGQwbVRIakt1WGc5SzdUdzVCYVVEd0R5dW11STBkSUFTQXc1RUo1WjJ3VU94bmxpODRxdTZNNFhOYnY2MVZOeU0?oc=5",
+      "summary": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water The Guardian",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
       "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
       "summary": "Meta to build C$13 billion Alberta data center, its first in Canada Reuters",
@@ -218,30 +282,6 @@
       "date": "2026-07-08"
     },
     {
-      "company": "Meta",
-      "title": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVVVR193Qm40SXNlX1VXRmdOVmVkX05VMUIzUnYxRk5peks2clYxSmVNY2w5cUw2cXhNc0ZOVnA0QW1LNUVTT0xaV0NNeng3SmxiM196R1VGZG1FTFN6MDBOdnhKRXMyM3p4RVNsUnJfeWhLbkRKNlFsS1hvS3pCdEYwYWs?oc=5",
-      "summary": "Meta tests ‘super sensing’ AI glasses that can capture every moment Financial Times",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is launching a new AI image generator for Instagram and WhatsApp - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWVqVUdVTmVvSnFDV0FfOHR6TUlGRk9HTmowdmh1SkhLNW1fdUlqNUtFcG9sVmRuUU5HTW41d0pBTjBxYnQ5LUw3TGFvVENrM3ROR1VZb3lsYTVWTEZCOVpOOFJrVl9BRkJLa0RiM3B0emVhT3pCQnpDWHhCT2R3OURtZEJaRmFhNk5Qem13Q3FoZW5mc09wbkQ0elpsZmxEU1HSAbYBQVVfeXFMT01acE9PaWljUXJ5VVVCXzhwcjJ0UzhsSnNvNkk4cUdFbFU3Tm9qMnRTRnI3dVpfcTMwMkJxZ0NjN2s3bGtTNGFDQUlWajlYNkNvV2hEZWhYUVFKLWNkU3NGT01IYTNweDN2NVJaZGZaMUtqeUZjOHg0MjVDaV91enRaZzZ2aU8zTXdRVVc4WENOb1U5QVpUR0dRUm1VbGsxN1hzNzZVOEd3d3JkYjFfd0oxeDBZZFE?oc=5",
-      "summary": "Meta is launching a new AI image generator for Instagram and WhatsApp WWBT",
-      "badge": "hot",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Instagram and WhatsApp get AI image generation tools after major Meta update - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTG5KX2ptSTNYdmZVelN4Mmkzc1FXaUk5Xy0wWVd2ZmdMZTZrYkZUYjItTVB4V0V2ZnMwWmQzaFJNT21wT2QyOEtReWYzcFlxLVluSDQ0UW9hdm5vQ2xtMmltczBhMFNyQ25oMjZpYllHWVlRcGdiVkZfMFFtYXVreDl1U0M4dUhtTG1Hd255VWM?oc=5",
-      "summary": "Instagram and WhatsApp get AI image generation tools after major Meta update Yahoo! Finance Canada",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
       "company": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "url": "https://openai.com/index/australian-payments-plus",
@@ -254,30 +294,6 @@
       "title": "MUFG aims to become AI-native with OpenAI",
       "url": "https://openai.com/index/mufg",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUtFcjdaQ2poUmNMajdmWVktWmJ3R0NkSzBXUHlNeHVmVWpUSjRRZFVZdUl5a2MxNTNqM19NYlFWWUplUVl4N19lVVVjUnd2aFpubi1pZkpUcHNNQjg5NmprTGxnZW5iUE54emw1czNBLXQ3dWdTSU51bVhHVHVXbDNqUU1tb3VuLWNxNURkdnprQ0JKQnlR?oc=5",
-      "summary": "Why the rise of open source AI isn’t hurting Anthropic … yet TechCrunch",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5",
-      "summary": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge CNBC",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
-      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -376,22 +392,6 @@
       "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
       "badge": "new",
       "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
-      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-      "badge": "hot",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Merges Enterprise and Consumer Copilot Apps - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
-      "summary": "Microsoft Merges Enterprise and Consumer Copilot Apps PYMNTS.com",
-      "badge": "new",
-      "date": "2026-07-06"
     },
     {
       "company": "Perplexity",
