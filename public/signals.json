@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T02:28:17Z",
+  "updated": "2026-07-09T09:29:14Z",
   "signals": [
     {
       "company": "Apple",
@@ -42,6 +42,14 @@
       "date": "2026-07-09"
     },
     {
+      "company": "Meta",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEt3NDBPdVBpU2NkeHRJRXUtRWN3Y1paMDN1YmRMeHQyUV9EUFA2VW1va2Vyamdwa2dsakluYlE4cGRRbXQ3YXhPQ3BzOFRBdlpRc0VFRWNVbGZRNkxzOU5RZHhhdVVjM2VTN1JzUVR5eWRiU0hUOXdEeTY3OTNYYVRndnk?oc=5",
+      "summary": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images The Hacker News",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
       "company": "OpenAI",
       "title": "Our approach to government and national security partnerships",
       "url": "https://openai.com/index/government-national-security-partnerships",
@@ -75,9 +83,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHlvQ0t3R3I5NWtGdW1SZlpMVVdka2xtT1FtLXdPRXdSN3cxYzdleEllMGRWNXR6RnN1YUZuNFZLUkRhbWtqY0hjTFN1b2lzYV96OElSZi1tX2F6WGRsaE1BNVRVQmhzazY1TGcwTmJRV0ZUbkFtQzhzZTlYdHFsVWVJalY?oc=5",
-      "summary": "China warns of \"security backdoor\" in Anthropic AI coding tool CBS News China warns about AI risks with Anthropic's Claude Code CNBC China Says It Has Found Security Vulnerabilities in Anthropic’s Cla",
+      "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
+      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China warns of \"security backdoor\" in Anthropic AI coding tool ",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -91,17 +99,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak - SemiAnalysis",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90VnJEYmotb0s3YnRUNUM0LVZuOFE5Q1FuMXYwME1DRlM1ME11STdkWDVYcl9JOTY4elNDZllCTEhxV1hIQnQ4RXRVVVMwRzFQR3FfZHZPNzdZNkJyWGdSbmd0T25wb2ttOUItWjhMbVY0WjlaRTc0ZjJtWQ?oc=5",
-      "summary": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak SemiAnalysis",
+      "title": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYUY3MDBTNXpNM0pkRldURVUtY0NTejJvZkpqMzF3WmItZ3FxTHhNYnU2eTl4NlRQSnpLQzFkNXJaX1FnaHVseUVNNVhlZUU5ZTlORHFaeWUzQXdTaWJNdjVyWF91dzYxVnZLVTNKR0hBbjdhdHZj?oc=5",
+      "summary": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model Axios",
       "badge": "new",
       "date": "2026-07-08"
     },
     {
       "company": "Anthropic",
-      "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
-      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China Says It Has Found Security Vulnerabilities in Anthropic’s",
+      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHlvQ0t3R3I5NWtGdW1SZlpMVVdka2xtT1FtLXdPRXdSN3cxYzdleEllMGRWNXR6RnN1YUZuNFZLUkRhbWtqY0hjTFN1b2lzYV96OElSZi1tX2F6WGRsaE1BNVRVQmhzazY1TGcwTmJRV0ZUbkFtQzhzZTlYdHFsVWVJalY?oc=5",
+      "summary": "China warns of \"security backdoor\" in Anthropic AI coding tool CBS News China warns about AI risks with Anthropic's Claude Code CNBC China Says It Has Found Security Vulnerabilities in Anthropic’s Cla",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak - SemiAnalysis",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90VnJEYmotb0s3YnRUNUM0LVZuOFE5Q1FuMXYwME1DRlM1ME11STdkWDVYcl9JOTY4elNDZllCTEhxV1hIQnQ4RXRVVVMwRzFQR3FfZHZPNzdZNkJyWGdSbmd0T25wb2ttOUItWjhMbVY0WjlaRTc0ZjJtWQ?oc=5",
+      "summary": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak SemiAnalysis",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -154,18 +170,10 @@
       "date": "2026-07-08"
     },
     {
-      "company": "Meta",
-      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQndUcHlKZDM0c3Rma19aWGhsbWZQT0NGUDQzc3hfV1pwcEhGcDJJUzVEeUt4R2FnR2JEUzdXVl9QZnVtLU5zU3BOMnFvN243Zm5zNndtX3RkMl9WMGV0ODd5UHc2STBGN3pVMzZaNmtfQ19VMWpFYjg3WlNTa2hNWG1QVmNjVjNla2oxNkUtX0RfMENScHEzVXFSZW5oSXFVbS1SWNIBqgFBVV95cUxNTlNKbW5ZdVlnZnMtSHVFMEVxMlhVWkZQWm1sMm13VDl1MVI0bXdmOVRzeTNLV2xNUnRwSTdFeGc0aEJTYTdXQmNxMjlFRVRwaEMybkZodk5vYjNxQ2ItMTlkUlBTYmxaSWpGbm5sQWJHZFVadGtYZXVDMWZvaE1PRmpFXzNuTjlUc3liSnBaOVNOMU15Y3JQcjFEOTNCSm9RUDhTS1NHNG9Wdw?oc=5",
-      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border CNBC",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Millions of Instagram users just got a new AI setting. Here’s how to opt out - Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGhTZERZV2JJN1hyWFUxbzU1S2o4TTRMTkQ3MHhEYW1sZWxBQ0RoYTFNWEpUVHdRdFZlTjZLZHZmbmdXSm8ycm0xQ282RnhRODByRTJCcm1ubTZyMTNRd2hudW5uUkxuVlQ0WTNFYXRtaEdsZUJqMUFubEtNVWpEamFMMDBaRDdQS2FnRnczenhIWUZGYlFsV0NWMGhtODVuSktuOFdLOW9BdENjX2QtUkd6ZzA1aUdGRUdjMNIB0AFBVV95cUxQWEgzWXI1RHd3WFVycmhfY2FpLUZqeXVMUTdsVnlLZWVnRk9nM1RuSXNubjZxbFRKYUlicjVaVWhUSDBKNnFpbzdrN3QtX3lCRm5fcm50SFQtdUp6bmluRl85aWVsaTZuQmpZNXlKMXI4b2p0VjZXOXZfTnpFSXk3WEllWUFIS1BCZ05JSEhxbk9lWFduZEFYWlBFM0J5UjZOYWhEMGQ4dFlScFlrNFA5WUZNX1JEcmx6dXBuMkx2eEd3X2N2b3FXV3RzZmFqN1ZP?oc=5",
-      "summary": "Millions of Instagram users just got a new AI setting. Here’s how to opt out Cleveland.com",
+      "company": "Perplexity",
+      "title": "Perplexity Bets on NVIDIA’s Vera CPU, Calling The Max Single-Threaded Chip a “Dead-On” Fit After It Ran 1.5x Faster in Agentic Coding - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3pqR3p2eUgwSWlUcXg4a1VFbWdzRXNwQThRb0xUOTZDVHdjd2FyRUN4UmotZE9QTE1pRXVpN2Q3eTFTOXVhYlpSWjV0bGZPdWJ5Sjc2VWF5RzRIRTFuRFBOOXV2V19uMFNzamlSa01XRFd5aU5oajk0bWFvMEMzazBWdGRaVU5PNmc3VmpDeWNZcXhPaUkycVM1QlJweWVyVjZ6Mnln0gGrAUFVX3lxTFB4bmZiVmZiSXpISmNlRWxlMS1rTDQ4YTd4T19VZV9UT0VOeGVXaHQ4LWZYU2NNZERtTGtuTVpGVnFUVnFSdWtWZ2JRQ0syRWpZZkdWUU9BNFZUQ3VvaDBrUjB6TFppc0lwWkl6U3FXcjE2SVhJYk43NVZsSjZBNlIwOU10OXo4ak9kLVlqM0hzc19zT0FuVW0tR1dVUkFIWmljdHhzZHRPUzNFMA?oc=5",
+      "summary": "Perplexity Bets on NVIDIA’s Vera CPU, Calling The Max Single-Threaded Chip a “Dead-On” Fit After It Ran 1.5x Faster in Agentic Coding Wccftech",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -182,6 +190,22 @@
       "title": "New Meta AI tool lets users alter photos on public Instagram accounts - Mashable",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2w0cWIwQ0R2X09ST2ZYWnF6ZWpuSmFTN3Q1SzVXYV8zeTA0OGVtcTM4Y3pJN1UyQ0ZzSl9MeUhBTDlXUDIwOWo1ejFzODdsRTNCWmdPRGlqU01aT3RMMEhEMk9Sczl2UDJFdFVmQUc2OVc1TlZlemRjeTJSdXgybFJ5ZWtScGs5YWJPSHFLTTBxVDdXQUlsYw?oc=5",
       "summary": "New Meta AI tool lets users alter photos on public Instagram accounts Mashable",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQndUcHlKZDM0c3Rma19aWGhsbWZQT0NGUDQzc3hfV1pwcEhGcDJJUzVEeUt4R2FnR2JEUzdXVl9QZnVtLU5zU3BOMnFvN243Zm5zNndtX3RkMl9WMGV0ODd5UHc2STBGN3pVMzZaNmtfQ19VMWpFYjg3WlNTa2hNWG1QVmNjVjNla2oxNkUtX0RfMENScHEzVXFSZW5oSXFVbS1SWNIBqgFBVV95cUxNTlNKbW5ZdVlnZnMtSHVFMEVxMlhVWkZQWm1sMm13VDl1MVI0bXdmOVRzeTNLV2xNUnRwSTdFeGc0aEJTYTdXQmNxMjlFRVRwaEMybkZodk5vYjNxQ2ItMTlkUlBTYmxaSWpGbm5sQWJHZFVadGtYZXVDMWZvaE1PRmpFXzNuTjlUc3liSnBaOVNOMU15Y3JQcjFEOTNCSm9RUDhTS1NHNG9Wdw?oc=5",
+      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border CNBC",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Millions of Instagram users just got a new AI setting. Here’s how to opt out - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGhTZERZV2JJN1hyWFUxbzU1S2o4TTRMTkQ3MHhEYW1sZWxBQ0RoYTFNWEpUVHdRdFZlTjZLZHZmbmdXSm8ycm0xQ282RnhRODByRTJCcm1ubTZyMTNRd2hudW5uUkxuVlQ0WTNFYXRtaEdsZUJqMUFubEtNVWpEamFMMDBaRDdQS2FnRnczenhIWUZGYlFsV0NWMGhtODVuSktuOFdLOW9BdENjX2QtUkd6ZzA1aUdGRUdjMNIB0AFBVV95cUxQWEgzWXI1RHd3WFVycmhfY2FpLUZqeXVMUTdsVnlLZWVnRk9nM1RuSXNubjZxbFRKYUlicjVaVWhUSDBKNnFpbzdrN3QtX3lCRm5fcm50SFQtdUp6bmluRl85aWVsaTZuQmpZNXlKMXI4b2p0VjZXOXZfTnpFSXk3WEllWUFIS1BCZ05JSEhxbk9lWFduZEFYWlBFM0J5UjZOYWhEMGQ4dFlScFlrNFA5WUZNX1JEcmx6dXBuMkx2eEd3X2N2b3FXV3RzZmFqN1ZP?oc=5",
+      "summary": "Millions of Instagram users just got a new AI setting. Here’s how to opt out Cleveland.com",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -235,6 +259,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUtFcjdaQ2poUmNMajdmWVktWmJ3R0NkSzBXUHlNeHVmVWpUSjRRZFVZdUl5a2MxNTNqM19NYlFWWUplUVl4N19lVVVjUnd2aFpubi1pZkpUcHNNQjg5NmprTGxnZW5iUE54emw1czNBLXQ3dWdTSU51bVhHVHVXbDNqUU1tb3VuLWNxNURkdnprQ0JKQnlR?oc=5",
+      "summary": "Why the rise of open source AI isn’t hurting Anthropic … yet TechCrunch",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
       "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5",
       "summary": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge CNBC",
@@ -246,22 +278,6 @@
       "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
       "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5",
-      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUtFcjdaQ2poUmNMajdmWVktWmJ3R0NkSzBXUHlNeHVmVWpUSjRRZFVZdUl5a2MxNTNqM19NYlFWWUplUVl4N19lVVVjUnd2aFpubi1pZkpUcHNNQjg5NmprTGxnZW5iUE54emw1czNBLXQ3dWdTSU51bVhHVHVXbDNqUU1tb3VuLWNxNURkdnprQ0JKQnlR?oc=5",
-      "summary": "Why the rise of open source AI isn’t hurting Anthropic … yet TechCrunch",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -278,6 +294,14 @@
       "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
       "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZV9EQ2x1M1MxYmhKX1dhVTNQRDA5RkNKTWdqSHE3SDNTem1NX3dNREtnU0REVi1IZUdULTJBa0k0Q1Nua1ZFZ3U4bTNYU3VCY3JuMThQQ0JxVm9Nc2NrRGlsSGtkTnI5MllSWXpIOThMT3ZlTGxHR21FcllBYWNKM19sendQUnVpUmc2TXRsamlDMVV1OU5QNE1mTlgwdnZNYVlCbk8yeUNZT1NaeG56TzB5aF9yTmpKbENBRndYR2lrSmlYT0hMOGxRNGw0TFF3eTZlVDlvbVk3cm8tMXRUQTNUV19HdUlrWHZCWFBLaDBfRmRlYlZFNVhn?oc=5",
+      "summary": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot Microsoft",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -331,9 +355,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
-      "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
+      "title": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
+      "summary": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the The Times of India",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -347,9 +371,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
-      "summary": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the The Times of India",
+      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
+      "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -357,16 +381,8 @@
       "company": "Meta",
       "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
-      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta How to Prevent Meta From Using Your Instagram Images in A.I. The New York Time",
+      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
       "badge": "hot",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram - CNET",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0h1cU9CM0Z3aTlZVENpbERLbFZvbkdNdDRUVFdiZDN5Y2pUam5NS09SdFBNcWpRRkxEVjZfckJqM3hYdGp0aGNlUHVKOE94UXRMeTVLUjg4cXNGZ08xaE05aWxHZ2U1T3F2Q3RoTUx5SjJiRHRfWEhsTXNMQU5LTzdkZkp0TjVWZEp3a2VRbUQ5Um9wVWMzRHNISQ?oc=5",
-      "summary": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram CNET",
-      "badge": "new",
       "date": "2026-07-07"
     },
     {
@@ -374,14 +390,6 @@
       "title": "Microsoft Merges Enterprise and Consumer Copilot Apps - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
       "summary": "Microsoft Merges Enterprise and Consumer Copilot Apps PYMNTS.com",
-      "badge": "new",
-      "date": "2026-07-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft's AI Assistant Push Gets Unified - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmEwMHNsRUV0QTRDeUY3X3EzcVVmLU9TQmx3cGNoQXVqVUh0LVV1OW84TUxlMXV6Q1AtcTZRS01DZkFGQnVPWGdveGJOSFRUNmM4NmdmMGVJWExVVDJHdzFTc0pqWHl1ZE5TOTBPNUNscGxQNGlTam42czlkZWJpQ25PRGZsYVEzYXRuVzV4Mkgtc2tmdmRyRDRQNFpidw?oc=5",
-      "summary": "Microsoft's AI Assistant Push Gets Unified Yahoo Finance",
       "badge": "new",
       "date": "2026-07-06"
     },
@@ -424,14 +432,6 @@
       "summary": "Why Perplexity's Founder Doesn't Think the American Dream Is Over Business Insider",
       "badge": "new",
       "date": "2026-07-03"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Sneaky Chrome extension discovered secretly monitoring all search activity - Gizmochina",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtZG9HalM3UzJvdnAyaDl4THRsU0pFZDJNZGEzbGxQU2NVT255RGVwbE9fQXVETS1aMDFtWTlHeUQ1eGY1SHFlbmxpamM5SWxqUjJDNkpfeFh0eTA1RndvVDBiNkhvV2FZbnRsRG5qVnhob3RGZUJpdkFHXzNYeTgwQWMwNXd0cVhmN0RkdENGWW9ET09wQXVaanc5aS1TdjRCbktQVUlFNmZhNy0zWTJhZE5XQXVxaHhDM0VR?oc=5",
-      "summary": "Sneaky Chrome extension discovered secretly monitoring all search activity Gizmochina",
-      "badge": "new",
-      "date": "2026-07-02"
     },
     {
       "company": "Google",
