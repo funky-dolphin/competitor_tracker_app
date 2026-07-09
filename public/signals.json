@@ -1,11 +1,75 @@
 {
-  "updated": "2026-07-09T14:45:54Z",
+  "updated": "2026-07-09T19:36:49Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
-      "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
+      "company": "OpenAI",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Introducing Muse Spark 1.1 - AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
+      "summary": "Introducing Muse Spark 1.1 AI at Meta",
+      "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta updates its Spark model, releases developer version - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
+      "summary": "Meta updates its Spark model, releases developer version Axios",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
+      "summary": "Meta Launches New A.I. Model as Global Technology Race Heats Up The New York Times",
+      "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows Reuters",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEt3NDBPdVBpU2NkeHRJRXUtRWN3Y1paMDN1YmRMeHQyUV9EUFA2VW1va2Vyamdwa2dsakluYlE4cGRRbXQ3YXhPQ3BzOFRBdlpRc0VFRWNVbGZRNkxzOU5RZHhhdVVjM2VTN1JzUVR5eWRiU0hUOXdEeTY3OTNYYVRndnk?oc=5",
+      "summary": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images The Hacker News",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -18,11 +82,51 @@
       "date": "2026-07-09"
     },
     {
+      "company": "Anthropic",
+      "title": "A new way to reflect on how you use Claude - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+      "summary": "A new way to reflect on how you use Claude Anthropic",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2NaQ1M3VWIxd2NUamtRS0YxcjhSLXUyYllGbTY3b3FPSndseTRLdVVHcjRJTEpTd1N0azA5ZF81bkpVRFg2d2JYWFRTTlVhbTZBVGd0cWJ0V012VkU5dzNoRWUyMGFvT3pocTJyVlUtckpYX1A4dFpmUHlPWlVRWGM2ZXFFZmdTeXhMNW5rOTg2cjY5cnBOTQ?oc=5",
+      "summary": "Anthropic’s new Claude feature is quietly selling you on AI TechCrunch",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2Q1bHVoTU1LSEdKYzJacG80U19heGYyYkFQWk54eHZjVUpXWHB4czZpcURhMUVWLXFORTVtVE9vYmNfNkltUVA2bDNzTjNRWmtZVFo5MzNWbkt2bmlJaHRMTlFsWXJ6OEtmM3BOM0ZEeVlYZnFtN3QwMVVjeVZlZ1hyNWMzalpWZ3ZFNU1GalkwYzFPLXJjS1pISzNXcnRZWWc?oc=5",
+      "summary": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns The Guardian",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
+      "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
       "company": "Microsoft",
       "title": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEQtdG9PZk41UlY0U0dFc2IzRG51Z3o3LUlvOXY3NjExYVJsbXIwYVZCd1Z1WmN0dGR3TWtlNDRZWHFhdFZyZl96d3hmSXdaX2l1M0ZtaUphLURqZWVtNnVGS0VBbGREcm9Ca2h6RUxJNHZQSzhRZENmTGVlZXBNemxRalM0bXVVREl0NWp2YmFlOTNfUXhjdUJnUXdIWE5JRUhDdUthZDZqSmpPeUVMN0ljWXg5YUFfM2JzNUt2a29meGlnajJtRXFqemU?oc=5",
       "summary": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? Windows Central",
       "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
       "date": "2026-07-09"
     },
     {
@@ -66,38 +170,6 @@
       "date": "2026-07-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows Reuters",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta updates its Spark model, releases developer version - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
-      "summary": "Meta updates its Spark model, releases developer version Axios",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEt3NDBPdVBpU2NkeHRJRXUtRWN3Y1paMDN1YmRMeHQyUV9EUFA2VW1va2Vyamdwa2dsakluYlE4cGRRbXQ3YXhPQ3BzOFRBdlpRc0VFRWNVbGZRNkxzOU5RZHhhdVVjM2VTN1JzUVR5eWRiU0hUOXdEeTY3OTNYYVRndnk?oc=5",
-      "summary": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images The Hacker News",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
       "company": "OpenAI",
       "title": "Our approach to government and national security partnerships",
       "url": "https://openai.com/index/government-national-security-partnerships",
@@ -127,6 +199,38 @@
       "url": "https://openai.com/index/introducing-gpt-live",
       "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "badge": "hot",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5idUJkUDg3b1FRRDZHMjJxZUdPOS1uVmdUczVvZjBnaTFBZU5Cazd3YnJIbVZnOTVWbWFqQk5QZGc1Y05tNGQwbVRIakt1WGc5SzdUdzVCYVVEd0R5dW11STBkSUFTQXc1RUo1WjJ3VU94bmxpODRxdTZNNFhOYnY2MVZOeU0?oc=5",
+      "summary": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water The Guardian",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
+      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada Reuters",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "New Meta AI tool lets users alter photos on public Instagram accounts - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2w0cWIwQ0R2X09ST2ZYWnF6ZWpuSmFTN3Q1SzVXYV8zeTA0OGVtcTM4Y3pJN1UyQ0ZzSl9MeUhBTDlXUDIwOWo1ejFzODdsRTNCWmdPRGlqU01aT3RMMEhEMk9Sczl2UDJFdFVmQUc2OVc1TlZlemRjeTJSdXgybFJ5ZWtScGs5YWJPSHFLTTBxVDdXQUlsYw?oc=5",
+      "summary": "New Meta AI tool lets users alter photos on public Instagram accounts Mashable",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQndUcHlKZDM0c3Rma19aWGhsbWZQT0NGUDQzc3hfV1pwcEhGcDJJUzVEeUt4R2FnR2JEUzdXVl9QZnVtLU5zU3BOMnFvN243Zm5zNndtX3RkMl9WMGV0ODd5UHc2STBGN3pVMzZaNmtfQ19VMWpFYjg3WlNTa2hNWG1QVmNjVjNla2oxNkUtX0RfMENScHEzVXFSZW5oSXFVbS1SWNIBqgFBVV95cUxNTlNKbW5ZdVlnZnMtSHVFMEVxMlhVWkZQWm1sMm13VDl1MVI0bXdmOVRzeTNLV2xNUnRwSTdFeGc0aEJTYTdXQmNxMjlFRVRwaEMybkZodk5vYjNxQ2ItMTlkUlBTYmxaSWpGbm5sQWJHZFVadGtYZXVDMWZvaE1PRmpFXzNuTjlUc3liSnBaOVNOMU15Y3JQcjFEOTNCSm9RUDhTS1NHNG9Wdw?oc=5",
+      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border CNBC",
+      "badge": "new",
       "date": "2026-07-08"
     },
     {
@@ -170,30 +274,6 @@
       "date": "2026-07-08"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak - SemiAnalysis",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90VnJEYmotb0s3YnRUNUM0LVZuOFE5Q1FuMXYwME1DRlM1ME11STdkWDVYcl9JOTY4elNDZllCTEhxV1hIQnQ4RXRVVVMwRzFQR3FfZHZPNzdZNkJyWGdSbmd0T25wb2ttOUItWjhMbVY0WjlaRTc0ZjJtWQ?oc=5",
-      "summary": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak SemiAnalysis",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China issues 'backdoor' security alert over Anthropic's Claude Code - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmtuYVZDY0RoM0VTUW1Sa3poM1pYOHlYbVJwRk1lOXNPM1QwX25uMnlrdVUxUnlqSEhXZzlrWUxFQkRRa21HeEJWR1ZrY2UzeVUwdHBmcFR5bDR1OHNIQjRHNTZUYjd0NzJzZjNsQzdqNXRBUDZDdW1wekdXU1ZHcjNlbVVvM1NiSnJVQmppV2I3ZDNnSXIyZDBWMTZPQzhWTTRNUHo2WnZ0TG9RMzhmdjdBQnRzbUts?oc=5",
-      "summary": "China issues 'backdoor' security alert over Anthropic's Claude Code Reuters",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5",
-      "summary": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code WSJ",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0x4ZmFRSWI0VWJ6M2hWUGFXWlE1b1RWMGk0ejNNdzFORFZYSnBnejNhUElPdXI1ZWNHU2FzZm9fRjN1TVV5SlpINmRDbU9pQ0FNWXRMWVVQSXI3YTcxclRYYWlvUFlVTFAtWktYcmdzbTI2R1I5Q2N1MllMYnE5UHU0U255ZXhEVVA4bFgwWDlJVXJNTjFfYjFZaW9zR3hUY3dBenhn?oc=5",
@@ -230,54 +310,6 @@
       "title": "Perplexity Bets on NVIDIA’s Vera CPU, Calling The Max Single-Threaded Chip a “Dead-On” Fit After It Ran 1.5x Faster in Agentic Coding - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3pqR3p2eUgwSWlUcXg4a1VFbWdzRXNwQThRb0xUOTZDVHdjd2FyRUN4UmotZE9QTE1pRXVpN2Q3eTFTOXVhYlpSWjV0bGZPdWJ5Sjc2VWF5RzRIRTFuRFBOOXV2V19uMFNzamlSa01XRFd5aU5oajk0bWFvMEMzazBWdGRaVU5PNmc3VmpDeWNZcXhPaUkycVM1QlJweWVyVjZ6Mnln0gGrAUFVX3lxTFB4bmZiVmZiSXpISmNlRWxlMS1rTDQ4YTd4T19VZV9UT0VOeGVXaHQ4LWZYU2NNZERtTGtuTVpGVnFUVnFSdWtWZ2JRQ0syRWpZZkdWUU9BNFZUQ3VvaDBrUjB6TFppc0lwWkl6U3FXcjE2SVhJYk43NVZsSjZBNlIwOU10OXo4ak9kLVlqM0hzc19zT0FuVW0tR1dVUkFIWmljdHhzZHRPUzNFMA?oc=5",
       "summary": "Perplexity Bets on NVIDIA’s Vera CPU, Calling The Max Single-Threaded Chip a “Dead-On” Fit After It Ran 1.5x Faster in Agentic Coding Wccftech",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5idUJkUDg3b1FRRDZHMjJxZUdPOS1uVmdUczVvZjBnaTFBZU5Cazd3YnJIbVZnOTVWbWFqQk5QZGc1Y05tNGQwbVRIakt1WGc5SzdUdzVCYVVEd0R5dW11STBkSUFTQXc1RUo1WjJ3VU94bmxpODRxdTZNNFhOYnY2MVZOeU0?oc=5",
-      "summary": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water The Guardian",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
-      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada Reuters",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "New Meta AI tool lets users alter photos on public Instagram accounts - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2w0cWIwQ0R2X09ST2ZYWnF6ZWpuSmFTN3Q1SzVXYV8zeTA0OGVtcTM4Y3pJN1UyQ0ZzSl9MeUhBTDlXUDIwOWo1ejFzODdsRTNCWmdPRGlqU01aT3RMMEhEMk9Sczl2UDJFdFVmQUc2OVc1TlZlemRjeTJSdXgybFJ5ZWtScGs5YWJPSHFLTTBxVDdXQUlsYw?oc=5",
-      "summary": "New Meta AI tool lets users alter photos on public Instagram accounts Mashable",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQndUcHlKZDM0c3Rma19aWGhsbWZQT0NGUDQzc3hfV1pwcEhGcDJJUzVEeUt4R2FnR2JEUzdXVl9QZnVtLU5zU3BOMnFvN243Zm5zNndtX3RkMl9WMGV0ODd5UHc2STBGN3pVMzZaNmtfQ19VMWpFYjg3WlNTa2hNWG1QVmNjVjNla2oxNkUtX0RfMENScHEzVXFSZW5oSXFVbS1SWNIBqgFBVV95cUxNTlNKbW5ZdVlnZnMtSHVFMEVxMlhVWkZQWm1sMm13VDl1MVI0bXdmOVRzeTNLV2xNUnRwSTdFeGc0aEJTYTdXQmNxMjlFRVRwaEMybkZodk5vYjNxQ2ItMTlkUlBTYmxaSWpGbm5sQWJHZFVadGtYZXVDMWZvaE1PRmpFXzNuTjlUc3liSnBaOVNOMU15Y3JQcjFEOTNCSm9RUDhTS1NHNG9Wdw?oc=5",
-      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border CNBC",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Millions of Instagram users just got a new AI setting. Here’s how to opt out - Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGhTZERZV2JJN1hyWFUxbzU1S2o4TTRMTkQ3MHhEYW1sZWxBQ0RoYTFNWEpUVHdRdFZlTjZLZHZmbmdXSm8ycm0xQ282RnhRODByRTJCcm1ubTZyMTNRd2hudW5uUkxuVlQ0WTNFYXRtaEdsZUJqMUFubEtNVWpEamFMMDBaRDdQS2FnRnczenhIWUZGYlFsV0NWMGhtODVuSktuOFdLOW9BdENjX2QtUkd6ZzA1aUdGRUdjMNIB0AFBVV95cUxQWEgzWXI1RHd3WFVycmhfY2FpLUZqeXVMUTdsVnlLZWVnRk9nM1RuSXNubjZxbFRKYUlicjVaVWhUSDBKNnFpbzdrN3QtX3lCRm5fcm50SFQtdUp6bmluRl85aWVsaTZuQmpZNXlKMXI4b2p0VjZXOXZfTnpFSXk3WEllWUFIS1BCZ05JSEhxbk9lWFduZEFYWlBFM0J5UjZOYWhEMGQ4dFlScFlrNFA5WUZNX1JEcmx6dXBuMkx2eEd3X2N2b3FXV3RzZmFqN1ZP?oc=5",
-      "summary": "Millions of Instagram users just got a new AI setting. Here’s how to opt out Cleveland.com",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise. - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDVRaU9wUU1DcnlWV0JfeS1wazJCNU9qYzRkbDJTS25vR0U4VUdXbWlxMmV2VFYydW02RTdUeG81eFdwMlRxVzZfSE1od0txd3IwS3h1OGd3cENaN25SeHVLQUx1MjZDcWlxSjFTMjdNTVR4REx6dTVHY1M4SzRnV0NHMmFHTTg4b0VxYXo3YlBsVWF5VUY3U1d3UmRPbGFmd2U0M0NCcWxEWGRCRzdnUg?oc=5",
-      "summary": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise. TechCrunch",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -371,9 +403,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
-      "summary": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the The Times of India",
+      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
+      "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -387,9 +419,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
-      "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
+      "title": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
+      "summary": "Perplexity AI CEO Aravind Srinivas says Bill Gates ‘tricked’ America into desk jobs: ‘It wasn’t like the The Times of India",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -455,30 +487,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "summary": "",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "badge": "hot",
       "date": "2026-06-30"
     },
     {
