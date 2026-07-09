@@ -1,6 +1,62 @@
 {
-  "updated": "2026-07-08T19:16:49Z",
+  "updated": "2026-07-09T02:28:17Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "badge": "watch",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
     {
       "company": "OpenAI",
       "title": "Helping K–12 educators build practical AI skills",
@@ -19,9 +75,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
-      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China Says It Has Found Security Vulnerabilities in Anthropic’s",
+      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHlvQ0t3R3I5NWtGdW1SZlpMVVdka2xtT1FtLXdPRXdSN3cxYzdleEllMGRWNXR6RnN1YUZuNFZLUkRhbWtqY0hjTFN1b2lzYV96OElSZi1tX2F6WGRsaE1BNVRVQmhzazY1TGcwTmJRV0ZUbkFtQzhzZTlYdHFsVWVJalY?oc=5",
+      "summary": "China warns of \"security backdoor\" in Anthropic AI coding tool CBS News China warns about AI risks with Anthropic's Claude Code CNBC China Says It Has Found Security Vulnerabilities in Anthropic’s Cla",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -43,6 +99,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
+      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China Says It Has Found Security Vulnerabilities in Anthropic’s",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Anthropic",
       "title": "China issues 'backdoor' security alert over Anthropic's Claude Code - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmtuYVZDY0RoM0VTUW1Sa3poM1pYOHlYbVJwRk1lOXNPM1QwX25uMnlrdVUxUnlqSEhXZzlrWUxFQkRRa21HeEJWR1ZrY2UzeVUwdHBmcFR5bDR1OHNIQjRHNTZUYjd0NzJzZjNsQzdqNXRBUDZDdW1wekdXU1ZHcjNlbVVvM1NiSnJVQmppV2I3ZDNnSXIyZDBWMTZPQzhWTTRNUHo2WnZ0TG9RMzhmdjdBQnRzbUts?oc=5",
       "summary": "China issues 'backdoor' security alert over Anthropic's Claude Code Reuters",
@@ -59,14 +123,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
-      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0x4ZmFRSWI0VWJ6M2hWUGFXWlE1b1RWMGk0ejNNdzFORFZYSnBnejNhUElPdXI1ZWNHU2FzZm9fRjN1TVV5SlpINmRDbU9pQ0FNWXRMWVVQSXI3YTcxclRYYWlvUFlVTFAtWktYcmdzbTI2R1I5Q2N1MllMYnE5UHU0U255ZXhEVVA4bFgwWDlJVXJNTjFfYjFZaW9zR3hUY3dBenhn?oc=5",
       "summary": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude Yahoo Finance",
@@ -74,35 +130,11 @@
       "date": "2026-07-08"
     },
     {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "company": "Microsoft",
+      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
+      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
       "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
       "date": "2026-07-08"
     },
     {
@@ -119,6 +151,38 @@
       "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
       "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
       "badge": "hot",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQndUcHlKZDM0c3Rma19aWGhsbWZQT0NGUDQzc3hfV1pwcEhGcDJJUzVEeUt4R2FnR2JEUzdXVl9QZnVtLU5zU3BOMnFvN243Zm5zNndtX3RkMl9WMGV0ODd5UHc2STBGN3pVMzZaNmtfQ19VMWpFYjg3WlNTa2hNWG1QVmNjVjNla2oxNkUtX0RfMENScHEzVXFSZW5oSXFVbS1SWNIBqgFBVV95cUxNTlNKbW5ZdVlnZnMtSHVFMEVxMlhVWkZQWm1sMm13VDl1MVI0bXdmOVRzeTNLV2xNUnRwSTdFeGc0aEJTYTdXQmNxMjlFRVRwaEMybkZodk5vYjNxQ2ItMTlkUlBTYmxaSWpGbm5sQWJHZFVadGtYZXVDMWZvaE1PRmpFXzNuTjlUc3liSnBaOVNOMU15Y3JQcjFEOTNCSm9RUDhTS1NHNG9Wdw?oc=5",
+      "summary": "Meta is building its first big Canadian data center as AI expansion crosses the border CNBC",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Millions of Instagram users just got a new AI setting. Here’s how to opt out - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGhTZERZV2JJN1hyWFUxbzU1S2o4TTRMTkQ3MHhEYW1sZWxBQ0RoYTFNWEpUVHdRdFZlTjZLZHZmbmdXSm8ycm0xQ282RnhRODByRTJCcm1ubTZyMTNRd2hudW5uUkxuVlQ0WTNFYXRtaEdsZUJqMUFubEtNVWpEamFMMDBaRDdQS2FnRnczenhIWUZGYlFsV0NWMGhtODVuSktuOFdLOW9BdENjX2QtUkd6ZzA1aUdGRUdjMNIB0AFBVV95cUxQWEgzWXI1RHd3WFVycmhfY2FpLUZqeXVMUTdsVnlLZWVnRk9nM1RuSXNubjZxbFRKYUlicjVaVWhUSDBKNnFpbzdrN3QtX3lCRm5fcm50SFQtdUp6bmluRl85aWVsaTZuQmpZNXlKMXI4b2p0VjZXOXZfTnpFSXk3WEllWUFIS1BCZ05JSEhxbk9lWFduZEFYWlBFM0J5UjZOYWhEMGQ4dFlScFlrNFA5WUZNX1JEcmx6dXBuMkx2eEd3X2N2b3FXV3RzZmFqN1ZP?oc=5",
+      "summary": "Millions of Instagram users just got a new AI setting. Here’s how to opt out Cleveland.com",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
+      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada Reuters",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "New Meta AI tool lets users alter photos on public Instagram accounts - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2w0cWIwQ0R2X09ST2ZYWnF6ZWpuSmFTN3Q1SzVXYV8zeTA0OGVtcTM4Y3pJN1UyQ0ZzSl9MeUhBTDlXUDIwOWo1ejFzODdsRTNCWmdPRGlqU01aT3RMMEhEMk9Sczl2UDJFdFVmQUc2OVc1TlZlemRjeTJSdXgybFJ5ZWtScGs5YWJPSHFLTTBxVDdXQUlsYw?oc=5",
+      "summary": "New Meta AI tool lets users alter photos on public Instagram accounts Mashable",
+      "badge": "new",
       "date": "2026-07-08"
     },
     {
@@ -171,6 +235,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5",
+      "summary": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge CNBC",
+      "badge": "new",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Anthropic",
       "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
       "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg",
@@ -194,27 +266,19 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ScHhOLVRzTDlVWmJoMlFWVkJ4bFItekhWTWo3dldKZ1lPX2lMRnBZTzVYaVBzTkpRdkRXbDQwMjUzSGp3Q0tlcF9zeEF6SGYxNVpZOEttdW4yWjdncjljd0R3RVd0YV8wcDRaeFFrb3kxWmlZeHA4U0R3?oc=5",
-      "summary": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York The New York Times",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Microsoft Quietly Shifts Thousands of Office Prompts to In-House AI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2d2LXNtV2dHNmVGa0QtS2dwazJXQUpQaEg2ZEJwWXU0M2JSRFNSOUc0cXNJTTFwZFRKTDFBS0l0aDNQeHVOSnRPRnV4TWpSMDY1VkVyWHE4RU8zMExXMU9YV3Bfd1ZSQ0xxa2RHeGIxRktiVFFQcHZWRWpwVkxfN1BielpQczBQRV94RmxzQXQ1ZTNScDNqOHhCVjFEOFFyR1dsZ1dnRExpXzRfNjRmTW5PMUNHWFdzTnJJRHV4RG0xZTg?oc=5",
-      "summary": "Microsoft Quietly Shifts Thousands of Office Prompts to In-House AI PYMNTS.com",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
       "company": "Google",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "summary": "Managed agents feature bundle launch",
       "badge": "hot",
+      "date": "2026-07-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
+      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
+      "badge": "new",
       "date": "2026-07-07"
     },
     {
@@ -227,9 +291,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
-      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
+      "title": "Microsoft edges higher as in-house AI push takes aim at copilot costs - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkxHdkxnbUZRMkxpa0lieFVPMUh3aDBrTmlvQ0w4MlhoSVBNaWNxOFlHdjE3VjNDcTBZVml2bk10MVFTRzFJTXpHb2tPMDhBR3NaZFNLX3V4VDJpaVFCTXdVOHpHVTBnekVxVlRyRUZsTUJCV1B4bzNMRm9vVWE3TkNZQ3BKNUI4SndBellYTjF4Z1BDMU5mRUpGLW9Xd3FnNzdnV1FGM1h3Z254cDZEYWVzX2JTeDJVVjVLb25jdTU5cVk?oc=5",
+      "summary": "Microsoft edges higher as in-house AI push takes aim at copilot costs Investing.com",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -246,14 +310,6 @@
       "title": "Microsoft Gets New AI Cost Catalyst - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2xWRWFBamJvSVFmR29ZcDkwc1hIalVVcXJRdFRtMzhfTF9Fb1FWLUxLX0lVOFFoT0lsc3hOTVVYQWpoWWYtLW9MWUthUGpBSWRxRDlCZ0NVb2Nxd2dnbXo0YXJUOGsxcjI4eXBFTlhEMW0zem9yLTFpZnFvS0swbm1sczk2MUJHdTdyQmJoaW85MVk4eWFlSTlyVQ?oc=5",
       "summary": "Microsoft Gets New AI Cost Catalyst Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft edges higher as in-house AI push takes aim at copilot costs - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkxHdkxnbUZRMkxpa0lieFVPMUh3aDBrTmlvQ0w4MlhoSVBNaWNxOFlHdjE3VjNDcTBZVml2bk10MVFTRzFJTXpHb2tPMDhBR3NaZFNLX3V4VDJpaVFCTXdVOHpHVTBnekVxVlRyRUZsTUJCV1B4bzNMRm9vVWE3TkNZQ3BKNUI4SndBellYTjF4Z1BDMU5mRUpGLW9Xd3FnNzdnV1FGM1h3Z254cDZEYWVzX2JTeDJVVjVLb25jdTU5cVk?oc=5",
-      "summary": "Microsoft edges higher as in-house AI push takes aim at copilot costs Investing.com",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -301,7 +357,7 @@
       "company": "Meta",
       "title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
-      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta Millions of Instagram users just got a new AI setting. Here’s how to opt out C",
+      "summary": "Introducing Muse Image: Image Generation Built for Your World Meta Store Introducing Muse Image and Muse Video AI at Meta How to Prevent Meta From Using Your Instagram Images in A.I. The New York Time",
       "badge": "hot",
       "date": "2026-07-07"
     },
@@ -310,38 +366,6 @@
       "title": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram - CNET",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0h1cU9CM0Z3aTlZVENpbERLbFZvbkdNdDRUVFdiZDN5Y2pUam5NS09SdFBNcWpRRkxEVjZfckJqM3hYdGp0aGNlUHVKOE94UXRMeTVLUjg4cXNGZ08xaE05aWxHZ2U1T3F2Q3RoTUx5SjJiRHRfWEhsTXNMQU5LTzdkZkp0TjVWZEp3a2VRbUQ5Um9wVWMzRHNISQ?oc=5",
       "summary": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram CNET",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Glasses: Your Questions Answered - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3ltNndDSDNFQy1aRzZwZ1gzckcxS2ZfWjh2SGFRRmJFQWpDUGhTUjA4Y3dxRVdnSC01bDVBWjlJRmo4WXF5dTZqZDB4dGtNV2NVb0FuN2RVSkN2QmhRYlFMYUdhYk5zVFI2WEU0T1BTWEpPQnYtM21Da25KQ0lfRtIBhgFBVV95cUxNTjJwa1o0UEZVVUl5aUdiN0Ywcl82RklaVlROVWc1MERrNHNfc1RKMm84MGswMDMwdG9KUEVUR1drVWJmdngyZDNTc0tZd05UQUhVSnVSeUptNkh1QThRWEZfQkdra0FqQ0V6eWFsNlNtTjFCTkJSS0RRamV4bEpsSmxHelQ2Zw?oc=5",
-      "summary": "Meta’s AI Glasses: Your Questions Answered Meta Store",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXVxZUk4RjNJWWtpa3ZwTTYzN19VR3pNaXppNUhZUjZYR3doeUNrSEZfNjMwb1RHQUhOT0EwRWFmRTFYQmxyWHlxbjhhT3ZfdTE4MTIwdEtYeG5iSlM3MU5KNWVfVTMyWWFNYkk5WHIwZnY4MThTRDZZRWhCcVphRE9yQm9lYUhzTUI4WFkyeWV2eXVmdnYzTnVYUQ?oc=5",
-      "summary": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Data Center in Cheyenne Isn’t Even Open Yet. It Has Already Triggered a Wastewater Crackdown - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaERkZkl1bzhNV05iVmRhUFpobWxLcHdYcHZIVW1iUkg5MHdickVsN3pIbFlnOFItS3kwR0tKVENTSWtQeEJaa0FyUy1nOFMxVVoxeDlxc1hDM0FaNWEzdzlzTi1NbVdsaEdDQ3l6NDJsc3NDUldhNDdBcW8zVnNZWUFGMWZVb2R3SkVlc1lBb2dVZDZIUWd0Qk1aaHQ0N2FrNDg5eXI0UTIzYlVhcDFGazVReGZsb2EyTVc2MA?oc=5",
-      "summary": "Meta’s AI Data Center in Cheyenne Isn’t Even Open Yet. It Has Already Triggered a Wastewater Crackdown inc.com",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "Meta",
-      "title": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEh0RHJha2tmYnRBMmFwYVgzV2F1REJ0c3lKREViV0tXWTZqM3RUcTlwMkxlNzU3ams4RVNUbjhVeTl3M252bi1FR0NQcDRMUWFBZnl6RFBvTUs0eXJrQWtDV0tUSTNKeHQzRHlQY0NSbUhWSUNnWVZWRjlaWm5pVkI5X1FOQkxvLW5NSVIxZVZ6WVdV?oc=5",
-      "summary": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected Yahoo Finance",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -474,28 +498,12 @@
       "date": "2026-06-30"
     },
     {
-      "company": "OpenAI",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
       "company": "Google",
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
       "badge": "new",
       "date": "2026-06-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "badge": "hot",
-      "date": "2026-06-28"
     },
     {
       "company": "Amazon",
