@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-10T14:10:09Z",
+  "updated": "2026-07-10T19:20:34Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "url": "https://openai.com/index/deutsche-telekom",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Air Force pushing contractors to purge Anthropic by Sept. 1: Memo - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTdVOXR4aVFGbjVhUGNjWjNsb2s4WE5RcGV6UWRnMmVUWEdUbm1xMjJaWUxrWHJQVEd0Mm05M3VFRlRjWlVGUnVuckNCd0ZhMWpqWHdTcFN4MGlmc0NEM0QyR2drT3Q1WEc4UlpJUWNmX21Qb0h6WTRZUFZfUW4ydk5STlNMaExUSTlOMkI1N1dNdVVtUGs0WUs4TUdreUVTb1E?oc=5",
+      "summary": "Air Force pushing contractors to purge Anthropic by Sept. 1: Memo Breaking Defense",
       "badge": "new",
       "date": "2026-07-10"
     },
@@ -131,6 +139,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5",
+      "summary": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic TechCrunch",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
       "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
@@ -187,9 +203,9 @@
     },
     {
       "company": "Meta",
-      "title": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg",
+      "title": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5",
-      "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI Bloomberg",
+      "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI Bloomberg.com",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -259,6 +275,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzc1bFM3bEdMbWs0UU9rSkpDUGxMQ3AwUGFNSC1nUFdoSzRTczVDbEJaZnZpOEJRNThndk5SR05YX2FfamdEZUZWQ081OUNwRE9razhkYzJMMU5UbWw4OGcwbzROM1dVMGVTRFpZVWhCMXBMcnNRakd1aUdkanowdEZsUDVNMDQ?oc=5",
+      "summary": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost Decrypt",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Perplexity",
       "title": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejJXLXdRZFhoU2QydkNmTDhweTN1U3l6MzU1dUw5YzZWZVdSdHVJcGZrQ0lreVhzOU0tRkFuQlg1NzFLcXpMdGdHVEgtVVZlcnB1TUpxUFJKYVBpemJHVDRDY2FSQXdyeFFHVG5tWEpNRUp4NWJBM1FUM1Z5SmwtWVVySUZLN3pjZ0NqTW5LbHhubFlhejk4YmdVWWZzdVZsanNTOXlHYnpyaTlBNFA1LVg3Q1ZHWGpPcktpeE1mZXQzUTUxcGFiUHozVmRkLUU?oc=5",
       "summary": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all Tom's Guide",
@@ -306,26 +330,10 @@
       "date": "2026-07-08"
     },
     {
-      "company": "Anthropic",
-      "title": "China warns about AI risks with Anthropic's Claude Code - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
-      "summary": "China warns about AI risks with Anthropic's Claude Code CNBC China issues 'backdoor' security alert over Anthropic's Claude Code Reuters China finds security vulnerabilities in Anthropic's Claude AI m",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVlaSTZoTXpkSzNxQVZzeGk4NTlqTS1hY2dLMlJ1SkNoQ0VqSXE0SFVOVWh3eGgwXzJpeDF4OHhoU3hpMUFkUnRQT0N6Q3Q1OEdHdmJNQ1NvQ3BLd2dhZzBuNHZmTWlsWnpSNmhqVzRZWnBsUTZHNVlXaXJSdGtWYjVlbGFSNkJiNTNrOTZjalhhSHM2ZTJKX2I5bS0?oc=5",
-      "summary": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock The New York Times",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
       "company": "Microsoft",
-      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
-      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
+      "title": "Microsoft is ditching OpenAI in Copilot because AI bills are too high - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IX0xvLTZ4N3hOYnFVTG1mTTZYazlHMkNXbW9DNEpLVzZFaTF0RlpxM1ZiV3J0MDgxRWU5VFZMUkVrbVA2M1hYcUNPeFZ3SWpGLUFnNjRHaVRySFByM0VmN3BVMFhMLUFFZlg3SlJlMU5JOEhDYjVJ?oc=5",
+      "summary": "Microsoft is ditching OpenAI in Copilot because AI bills are too high Cybernews",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -334,6 +342,14 @@
       "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0x4ZmFRSWI0VWJ6M2hWUGFXWlE1b1RWMGk0ejNNdzFORFZYSnBnejNhUElPdXI1ZWNHU2FzZm9fRjN1TVV5SlpINmRDbU9pQ0FNWXRMWVVQSXI3YTcxclRYYWlvUFlVTFAtWktYcmdzbTI2R1I5Q2N1MllMYnE5UHU0U255ZXhEVVA4bFgwWDlJVXJNTjFfYjFZaW9zR3hUY3dBenhn?oc=5",
       "summary": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
+      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -410,14 +426,6 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft edges higher as in-house AI push takes aim at copilot costs - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkxHdkxnbUZRMkxpa0lieFVPMUh3aDBrTmlvQ0w4MlhoSVBNaWNxOFlHdjE3VjNDcTBZVml2bk10MVFTRzFJTXpHb2tPMDhBR3NaZFNLX3V4VDJpaVFCTXdVOHpHVTBnekVxVlRyRUZsTUJCV1B4bzNMRm9vVWE3TkNZQ3BKNUI4SndBellYTjF4Z1BDMU5mRUpGLW9Xd3FnNzdnV1FGM1h3Z254cDZEYWVzX2JTeDJVVjVLb25jdTU5cVk?oc=5",
-      "summary": "Microsoft edges higher as in-house AI push takes aim at copilot costs Investing.com",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity is building a secret weapon to join the AI coding wars - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZEZmpBWjZRU2ZqN3FpWnhEYUIwZDNwUG1ob2FMMWkxOTJ1Vkt5NUR0dFVxTmp2QU5HRlp4WkVYWkVqcjlTcjhJajJwNXQ1cGxyOC15eVFKSm5OelFsX0llV3FNWHZtSkFsVDBlbGNuTXNmTm1KMDBmQVZoUUxvM3ZoM1JlaXU2ak9uX0twc1gwYy1DVzdHSmJYRFNvTEVq?oc=5",
@@ -464,14 +472,6 @@
       "summary": "Perplexity CEO Aravind Srinivas says Microsoft created the ‘knowledge worker’ to sell more software Moneycontrol.com",
       "badge": "new",
       "date": "2026-07-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUxlSWNpUWZ5TWI1MXpBOHJFWjM2bFNFODEzQjNrZ2dOR0FEZWhjQkdjYUJnbnhsYk5XcGtnWGptWkQtRGQ2ajluX0YtRl9VQ0kza2RoSUVnSVA4bWFTN3VpcGc5LUNxNkF5Vy1weHNMbHo3Q19uSEk5a1FwN2xaMHNMcnZUVFdiekxZ?oc=5",
-      "summary": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier Decrypt",
-      "badge": "new",
-      "date": "2026-07-04"
     },
     {
       "company": "Google",
