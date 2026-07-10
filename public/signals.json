@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-10T02:30:19Z",
+  "updated": "2026-07-10T09:25:38Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Meta",
+      "title": "What Is Meta’s AI Muse Spark and Can It Overthrow Claude and ChatGPT? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlpka1BlbkVCcDN6cS1iNTAyWTd5NkgzT213WVMxMHo5N1M4NGZOUmtRRE9uWjFwNnF5VjVUbVhHM3cwUFhBcjU4ZEh5OGpJa3U3S001MWNqeWVIeTR6ZVlMeDRVdjNUVy1aNVQ2cXh3MFFBdVkxcXlqMmVzZHlVUjJ5Y2RFMk5FeVpiWUwxVzF6b2Q1ZV9r?oc=5",
+      "summary": "What Is Meta’s AI Muse Spark and Can It Overthrow Claude and ChatGPT? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
     {
       "company": "Microsoft",
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
@@ -50,18 +66,18 @@
       "date": "2026-07-10"
     },
     {
-      "company": "Meta",
-      "title": "What Is Meta’s AI Muse Spark and Can It Overthrow Claude and ChatGPT? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlpka1BlbkVCcDN6cS1iNTAyWTd5NkgzT213WVMxMHo5N1M4NGZOUmtRRE9uWjFwNnF5VjVUbVhHM3cwUFhBcjU4ZEh5OGpJa3U3S001MWNqeWVIeTR6ZVlMeDRVdjNUVy1aNVQ2cXh3MFFBdVkxcXlqMmVzZHlVUjJ5Y2RFMk5FeVpiWUwxVzF6b2Q1ZV9r?oc=5",
-      "summary": "What Is Meta’s AI Muse Spark and Can It Overthrow Claude and ChatGPT? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
       "company": "OpenAI",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -82,18 +98,66 @@
       "date": "2026-07-09"
     },
     {
-      "company": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "company": "Meta",
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
       "badge": "new",
       "date": "2026-07-09"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
-      "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
+      "company": "Meta",
+      "title": "Introducing Muse Spark 1.1 - AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
+      "summary": "Introducing Muse Spark 1.1 AI at Meta",
+      "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5",
+      "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI Bloomberg.com",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTdBQU5JZkhCZHZwVkF5RmVMSlhZMW5NaHNrSjVwZFlFVTEtakZucWNrWUNqVDBUcENvZ1U3MUI0VGtzZlpmYzFuOHVmN01GOEQzcEFNR3pGVWFIN1FZU0x3TzBnYVh3OE5nNG90RE5tbmVwVVAtZHJzemlndFRYTml5TFdVelNXaHR0UmItN1l4ZWd0cU5qNmplMzh4dTJfNU1DelZPOU5HblRPS09WWng1QQ?oc=5",
+      "summary": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense Bloomberg.com",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows Reuters",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta updates its Spark model, releases developer version - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
+      "summary": "Meta updates its Spark model, releases developer version Axios",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
+      "summary": "Meta Launches New A.I. Model as Global Technology Race Heats Up The New York Times",
+      "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEt3NDBPdVBpU2NkeHRJRXUtRWN3Y1paMDN1YmRMeHQyUV9EUFA2VW1va2Vyamdwa2dsakluYlE4cGRRbXQ3YXhPQ3BzOFRBdlpRc0VFRWNVbGZRNkxzOU5RZHhhdVVjM2VTN1JzUVR5eWRiU0hUOXdEeTY3OTNYYVRndnk?oc=5",
+      "summary": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images The Hacker News",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -107,17 +171,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Say hello to Claude Wrapped - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPall3b29yUlBVejdiN3JNVHNIUDd6R2xrVDNERE84S1NBMHo2WmVlMDlfTkpNb1ZfZW9YMGs3eU40YnQ0aFdZT3B6c3ZiZ3luOFFQS1dXalpfelpzRE5kRGNkbWdadXlkeUhZZFlZZFg0WEN2bndKdTdnc3hsMlhrY3JKQVpPX0dqc1psR045R3E3TWpXOGhZaXRoZ3F3SWtVcml0aTR3?oc=5",
-      "summary": "Say hello to Claude Wrapped The Verge",
+      "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
+      "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
       "badge": "new",
       "date": "2026-07-09"
     },
     {
       "company": "Anthropic",
-      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
+      "title": "Say hello to Claude Wrapped - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPall3b29yUlBVejdiN3JNVHNIUDd6R2xrVDNERE84S1NBMHo2WmVlMDlfTkpNb1ZfZW9YMGs3eU40YnQ0aFdZT3B6c3ZiZ3luOFFQS1dXalpfelpzRE5kRGNkbWdadXlkeUhZZFlZZFg0WEN2bndKdTdnc3hsMlhrY3JKQVpPX0dqc1psR045R3E3TWpXOGhZaXRoZ3F3SWtVcml0aTR3?oc=5",
+      "summary": "Say hello to Claude Wrapped The Verge",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -178,54 +242,6 @@
       "date": "2026-07-09"
     },
     {
-      "company": "Meta",
-      "title": "Introducing Muse Spark 1.1 - AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "summary": "Introducing Muse Spark 1.1 AI at Meta Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI Bloomberg.co",
-      "badge": "hot",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTdBQU5JZkhCZHZwVkF5RmVMSlhZMW5NaHNrSjVwZFlFVTEtakZucWNrWUNqVDBUcENvZ1U3MUI0VGtzZlpmYzFuOHVmN01GOEQzcEFNR3pGVWFIN1FZU0x3TzBnYVh3OE5nNG90RE5tbmVwVVAtZHJzemlndFRYTml5TFdVelNXaHR0UmItN1l4ZWd0cU5qNmplMzh4dTJfNU1DelZPOU5HblRPS09WWng1QQ?oc=5",
-      "summary": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows Reuters",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta updates its Spark model, releases developer version - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
-      "summary": "Meta updates its Spark model, releases developer version Axios",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
-      "summary": "Meta Launches New A.I. Model as Global Technology Race Heats Up The New York Times",
-      "badge": "hot",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEt3NDBPdVBpU2NkeHRJRXUtRWN3Y1paMDN1YmRMeHQyUV9EUFA2VW1va2Vyamdwa2dsakluYlE4cGRRbXQ3YXhPQ3BzOFRBdlpRc0VFRWNVbGZRNkxzOU5RZHhhdVVjM2VTN1JzUVR5eWRiU0hUOXdEeTY3OTNYYVRndnk?oc=5",
-      "summary": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images The Hacker News",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
       "company": "OpenAI",
       "title": "Our approach to government and national security partnerships",
       "url": "https://openai.com/index/government-national-security-partnerships",
@@ -255,6 +271,14 @@
       "url": "https://openai.com/index/introducing-gpt-live",
       "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "badge": "hot",
+      "date": "2026-07-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5idUJkUDg3b1FRRDZHMjJxZUdPOS1uVmdUczVvZjBnaTFBZU5Cazd3YnJIbVZnOTVWbWFqQk5QZGc1Y05tNGQwbVRIakt1WGc5SzdUdzVCYVVEd0R5dW11STBkSUFTQXc1RUo1WjJ3VU94bmxpODRxdTZNNFhOYnY2MVZOeU0?oc=5",
+      "summary": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water The Guardian",
+      "badge": "new",
       "date": "2026-07-08"
     },
     {
@@ -330,42 +354,10 @@
       "date": "2026-07-08"
     },
     {
-      "company": "Meta",
-      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5idUJkUDg3b1FRRDZHMjJxZUdPOS1uVmdUczVvZjBnaTFBZU5Cazd3YnJIbVZnOTVWbWFqQk5QZGc1Y05tNGQwbVRIakt1WGc5SzdUdzVCYVVEd0R5dW11STBkSUFTQXc1RUo1WjJ3VU94bmxpODRxdTZNNFhOYnY2MVZOeU0?oc=5",
-      "summary": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water The Guardian",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
-      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada Reuters",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Meta",
-      "title": "New Meta AI tool lets users alter photos on public Instagram accounts - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2w0cWIwQ0R2X09ST2ZYWnF6ZWpuSmFTN3Q1SzVXYV8zeTA0OGVtcTM4Y3pJN1UyQ0ZzSl9MeUhBTDlXUDIwOWo1ejFzODdsRTNCWmdPRGlqU01aT3RMMEhEMk9Sczl2UDJFdFVmQUc2OVc1TlZlemRjeTJSdXgybFJ5ZWtScGs5YWJPSHFLTTBxVDdXQUlsYw?oc=5",
-      "summary": "New Meta AI tool lets users alter photos on public Instagram accounts Mashable",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
       "company": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "url": "https://openai.com/index/australian-payments-plus",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
-      "company": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "badge": "new",
       "date": "2026-07-07"
     },
@@ -379,17 +371,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZV9EQ2x1M1MxYmhKX1dhVTNQRDA5RkNKTWdqSHE3SDNTem1NX3dNREtnU0REVi1IZUdULTJBa0k0Q1Nua1ZFZ3U4bTNYU3VCY3JuMThQQ0JxVm9Nc2NrRGlsSGtkTnI5MllSWXpIOThMT3ZlTGxHR21FcllBYWNKM19sendQUnVpUmc2TXRsamlDMVV1OU5QNE1mTlgwdnZNYVlCbk8yeUNZT1NaeG56TzB5aF9yTmpKbENBRndYR2lrSmlYT0hMOGxRNGw0TFF3eTZlVDlvbVk3cm8tMXRUQTNUV19HdUlrWHZCWFBLaDBfRmRlYlZFNVhn?oc=5",
-      "summary": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot Microsoft",
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
+      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
       "badge": "new",
       "date": "2026-07-07"
     },
     {
       "company": "Microsoft",
-      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
-      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
+      "title": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZV9EQ2x1M1MxYmhKX1dhVTNQRDA5RkNKTWdqSHE3SDNTem1NX3dNREtnU0REVi1IZUdULTJBa0k0Q1Nua1ZFZ3U4bTNYU3VCY3JuMThQQ0JxVm9Nc2NrRGlsSGtkTnI5MllSWXpIOThMT3ZlTGxHR21FcllBYWNKM19sendQUnVpUmc2TXRsamlDMVV1OU5QNE1mTlgwdnZNYVlCbk8yeUNZT1NaeG56TzB5aF9yTmpKbENBRndYR2lrSmlYT0hMOGxRNGw0TFF3eTZlVDlvbVk3cm8tMXRUQTNUV19HdUlrWHZCWFBLaDBfRmRlYlZFNVhn?oc=5",
+      "summary": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot Microsoft",
       "badge": "new",
       "date": "2026-07-07"
     },
