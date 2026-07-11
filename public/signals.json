@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T02:07:25Z",
+  "updated": "2026-07-11T07:46:59Z",
   "signals": [
     {
       "company": "Apple",
@@ -42,10 +42,26 @@
       "date": "2026-07-11"
     },
     {
+      "company": "Meta",
+      "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2w1dk5lS0NiRkhMejlGcFRmaDQ1QkVqWnk3M08xb0M3a0VLalhaZDBSZTkzNWc3dlJqMmJtd2swcW1tQVY3anVZYlBrbUJtRDNEMjRJZGtxQWtyZ0lzWl9oaUZ6cnFFSHJpYnhEM2ZOaFRRaFNsNFRVX2lzZUM3M3otYVQ1alF0RE5yNTUtOHp3NHY2ZENYd3dOcE51YzVUWnM3a1Vn?oc=5",
+      "summary": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy The Guardian Meta Suspends AI Image Feature After Days of Backlash Variety Meta pulls new AI image feature after days ",
+      "badge": "new",
+      "date": "2026-07-11"
+    },
+    {
       "company": "OpenAI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "url": "https://openai.com/index/deutsche-telekom",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Elon Musk admits he was ‘clearly wrong’ about Anthropic - Teslarati",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXhFcXN0d0xUUmJZdWl0Q3RrR1NUYlhFbFQtbS1Odlc1cWd1NWNXLVBQSVB6bnlvVDdDZVIyZDkza3o5MFlhTlJ1UHFFM2c0TVJjektZRXQ1dG9mVU16dGh2dVM1RWhMVHk2cGdwTWh2VWZuU1pUT0ZjTmdUb1pJRGdjSVhyMVk?oc=5",
+      "summary": "Elon Musk admits he was ‘clearly wrong’ about Anthropic Teslarati",
       "badge": "new",
       "date": "2026-07-10"
     },
@@ -63,6 +79,14 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
       "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter TechCrunch",
       "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm9JNmc5c2FlQzM4N3ltS2pqREdJcHQxZGdla19VeUMwWTA0Z29GMy1WQzZVWnFTOHU2VEtOQWJTazc5ZUVEZk8yTmt2YjVkODFzRkVmelFNMGloRHN6WjJLZF9nX1dQc2kyU25FRmNLemxHUHdEcHZJRTJMbVdDaFVWTmF6NGh2UDBiRTBhM2NqSGNMQlN4N2R4bUtVZFd2cGxxaDNR?oc=5",
+      "summary": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs Windows Central",
+      "badge": "watch",
       "date": "2026-07-10"
     },
     {
@@ -171,17 +195,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "A new way to reflect on how you use Claude - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
-      "summary": "A new way to reflect on how you use Claude Anthropic",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5",
+      "summary": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic TechCrunch",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -195,9 +211,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5",
-      "summary": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic TechCrunch",
+      "title": "A new way to reflect on how you use Claude - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+      "summary": "A new way to reflect on how you use Claude Anthropic",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -285,8 +301,16 @@
       "company": "Meta",
       "title": "Introducing Muse Spark 1.1 - AI at Meta",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "summary": "Introducing Muse Spark 1.1 AI at Meta Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI Bloomberg.co",
+      "summary": "Introducing Muse Spark 1.1 AI at Meta",
       "badge": "hot",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
+      "badge": "new",
       "date": "2026-07-09"
     },
     {
@@ -302,22 +326,6 @@
       "title": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTdBQU5JZkhCZHZwVkF5RmVMSlhZMW5NaHNrSjVwZFlFVTEtakZucWNrWUNqVDBUcENvZ1U3MUI0VGtzZlpmYzFuOHVmN01GOEQzcEFNR3pGVWFIN1FZU0x3TzBnYVh3OE5nNG90RE5tbmVwVVAtZHJzemlndFRYTml5TFdVelNXaHR0UmItN1l4ZWd0cU5qNmplMzh4dTJfNU1DelZPOU5HblRPS09WWng1QQ?oc=5",
       "summary": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows Reuters",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta updates its Spark model, releases developer version - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
-      "summary": "Meta updates its Spark model, releases developer version Axios",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -363,17 +371,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is ditching OpenAI in Copilot because AI bills are too high - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IX0xvLTZ4N3hOYnFVTG1mTTZYazlHMkNXbW9DNEpLVzZFaTF0RlpxM1ZiV3J0MDgxRWU5VFZMUkVrbVA2M1hYcUNPeFZ3SWpGLUFnNjRHaVRySFByM0VmN3BVMFhMLUFFZlg3SlJlMU5JOEhDYjVJ?oc=5",
-      "summary": "Microsoft is ditching OpenAI in Copilot because AI bills are too high Cybernews",
+      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
+      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
       "badge": "new",
       "date": "2026-07-08"
     },
     {
       "company": "Microsoft",
-      "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
-      "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
+      "title": "Microsoft is ditching OpenAI in Copilot because AI bills are too high - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IX0xvLTZ4N3hOYnFVTG1mTTZYazlHMkNXbW9DNEpLVzZFaTF0RlpxM1ZiV3J0MDgxRWU5VFZMUkVrbVA2M1hYcUNPeFZ3SWpGLUFnNjRHaVRySFByM0VmN3BVMFhMLUFFZlg3SlJlMU5JOEhDYjVJ?oc=5",
+      "summary": "Microsoft is ditching OpenAI in Copilot because AI bills are too high Cybernews",
       "badge": "new",
       "date": "2026-07-08"
     },
@@ -434,14 +442,6 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Microsoft",
-      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
-      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs the-decoder.com",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity is building a secret weapon to join the AI coding wars - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZEZmpBWjZRU2ZqN3FpWnhEYUIwZDNwUG1ob2FMMWkxOTJ1Vkt5NUR0dFVxTmp2QU5HRlp4WkVYWkVqcjlTcjhJajJwNXQ1cGxyOC15eVFKSm5OelFsX0llV3FNWHZtSkFsVDBlbGNuTXNmTm1KMDBmQVZoUUxvM3ZoM1JlaXU2ak9uX0twc1gwYy1DVzdHSmJYRFNvTEVq?oc=5",
@@ -451,17 +451,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity says it plans to use Nvidia's new CPU - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTF1eGsyZGljNVh4dHNCbVIwVnd1ZFd5LVJmUTE2bVZfQXczWGRmYzl0SWhUcU1ma2F6YnNPWnBYQ3NZNG5tTjNITExOdldseE1VaWo0Rk5UeDFJSjAxMDE2QWFvOHZHYlAwQTItblNNRlFpYlQ0VjdCeS04RlNNbHA4VWhONGxycHdoeExmSng1X3JadEk3QUJuNm9VZw?oc=5",
-      "summary": "Perplexity says it plans to use Nvidia's new CPU Yahoo Finance",
+      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
+      "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
       "badge": "new",
       "date": "2026-07-07"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
-      "summary": "Perplexity says it plans to use Nvidia's new CPU Reuters",
+      "title": "Perplexity says it plans to use Nvidia's new CPU - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTF1eGsyZGljNVh4dHNCbVIwVnd1ZFd5LVJmUTE2bVZfQXczWGRmYzl0SWhUcU1ma2F6YnNPWnBYQ3NZNG5tTjNITExOdldseE1VaWo0Rk5UeDFJSjAxMDE2QWFvOHZHYlAwQTItblNNRlFpYlQ0VjdCeS04RlNNbHA4VWhONGxycHdoeExmSng1X3JadEk3QUJuNm9VZw?oc=5",
+      "summary": "Perplexity says it plans to use Nvidia's new CPU Yahoo Finance",
       "badge": "new",
       "date": "2026-07-07"
     },
