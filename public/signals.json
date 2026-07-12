@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-12T02:11:08Z",
+  "updated": "2026-07-12T08:08:00Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Photos: Hundreds protest at Open AI, Anthropic offices in San Francisco - Mission Local",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTN6VzVIY0NldnZ2dW1WLVZCM2FaeUJVbW9IRXIwNVBkcGJZWTNZYjRfLXhFdTcyaVVNb04zclNHMnROVE1FYy1CWVBVM2xBd09XaVBlRERLd1g4RWRxak1hZDRYODRWOFlHMHpiM1RxcERrbVRza3Bya2JZTXpsVWdKdjlZVlM2NFE?oc=5",
+      "summary": "Photos: Hundreds protest at Open AI, Anthropic offices in San Francisco Mission Local",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWtGRjJqa2RoS3hXeFdjUU9XaTJFODUtMXUxNUtsbkw5MjRwNlJMdmFFVWloUEM2eWxEcHFMTTQ4eGlEZ1R3SE9HWmRUX2xWUE03Q21OSEk0VVZaU1RJZlowWDZzU29pd1RiaXRRUV9vdHZpMWNmSkdHODdmemZnY3RKMmoxbkFvMmhWQU5vNVZKTmlaaTVlSFM0Z1JxN1BFbTdDdVJ3TnFCWDNqT09xc1VyLTVBWTU5UmJtMm1Pd0NwY05tRV9mRU9hMi1jUEF3TkIw?oc=5",
+      "summary": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself Windows Latest",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
     {
       "company": "Apple",
       "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
@@ -40,6 +56,14 @@
       "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
       "badge": "new",
       "date": "2026-07-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Elon Musk Admits He Was 'Clearly Wrong' About Anthropic— and Promises Not to Weaponize SpaceXAI's Compute Access Against the Claude Maker: 'Not My Style' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzdjaWhlRlIxazNzdWppcUVBbjNnLTkzd1ItS1plN2h6QTYwUE9kRWRxbEl3eW9VcENST2pxdGhlRjlNd1BqQnU1UHFvVFUwVW9wb0NNdUNHTEdwNC04YmdIN2RiRkJfRFNkWU5YLU0zNWJreW5Rd2JxV3dvWmREVnRaMl8yTDFLdFV2eGtKbHFmRV9hYS10WHZ3?oc=5",
+      "summary": "Elon Musk Admits He Was 'Clearly Wrong' About Anthropic— and Promises Not to Weaponize SpaceXAI's Compute Access Against the Claude Maker: 'Not My Style' Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-11"
     },
     {
       "company": "Anthropic",
@@ -122,6 +146,54 @@
       "date": "2026-07-10"
     },
     {
+      "company": "Microsoft",
+      "title": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGpLUGlqQUJ6SGdJUVg2dEpPM1hrOGJHVFlJMzFETkZmMnV5V1VzQzZxU2U2RUZtTU1qZFQyTk5XX01rY3N2YzBxVkQzVndUZnAtWjRZZExLS3YyNFVYTzRJZDlnNjRvUmNKS2ZESllRUFRZTmhyeVlpam5PdWRWZWhiVEtzNWQ1WS1NUUdsY210N19SNFpsVkNHQzBQUVZuaHdTeHc4ZHJoZw?oc=5",
+      "summary": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
+      "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter TechCrunch",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm9JNmc5c2FlQzM4N3ltS2pqREdJcHQxZGdla19VeUMwWTA0Z29GMy1WQzZVWnFTOHU2VEtOQWJTazc5ZUVEZk8yTmt2YjVkODFzRkVmelFNMGloRHN6WjJLZF9nX1dQc2kyU25FRmNLemxHUHdEcHZJRTJMbVdDaFVWTmF6NGh2UDBiRTBhM2NqSGNMQlN4N2R4bUtVZFd2cGxxaDNR?oc=5",
+      "summary": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs Windows Central",
+      "badge": "watch",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
+      "summary": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot qz.com",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Perplexity",
+      "title": "The AI race is shifting from bigger models to cheaper, smarter systems - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5",
+      "summary": "The AI race is shifting from bigger models to cheaper, smarter systems CNBC",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta removes Instagram AI image generator after backlash - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFN6MlY0THNEQmhYZjdiS0ZGd25UQ2g1SG9CYVY3eFBLUHEwRWJycW5jS1lvQ082MUIwYXdpWmxvenBDSFRySWZVZmtLUlpqcGVpM09SZmUzbVFqVktUcmhSLUViZjYya3dfS1duUEdpQUhhR3VnXzRzc1pwQ0xFX3FtZ2Y4S0N6V0dF0gGTAUFVX3lxTE5qcDJjX2l0MlQzTjhVcEQ0clpseWpxZmRMUnhWMHdSZVVOaUJLek1oZXpIZDFHS1JWN0VwMkRnVmRlSGtMOXMyeUlFUlJuWU1DamNiT3I3OExVOFJmM182ZGxXcURvTU1FRkFjRWFoajZkeVhOblNBNGhUWlJiM0VfMTN2cWo1MTk3ZGdYdjhqb21Saw?oc=5",
+      "summary": "Meta removes Instagram AI image generator after backlash NBC Bay Area Meta Suspends AI Image Feature After Days of Backlash Variety Meta Removes A.I. Feature on Instagram After Days of Backlash The Ne",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
       "company": "Meta",
       "title": "Meta Suspends AI Image Feature After Days of Backlash - Variety",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR1eWNxV2sxcWd1YzNJbGxfVkN3M2FVbW1LTS03Z1FXTkx0Y3p3bHhBY2Y5X210WlU4WWRRVVhmUWhXU0E1b0dGSDBqS2xoSzdsNS1wZF9lTjdEa2FTb1oxY0ZLa2g2WXdzd0tnb2prazNLVE9TMXZVMXZWdldlbGRnU2pnSk9ScEJmR1p1N1R1aTI0S09SaW5Ccw?oc=5",
@@ -166,46 +238,6 @@
       "title": "What Is Meta’s AI Muse Spark and Can It Overthrow Claude and ChatGPT? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlpka1BlbkVCcDN6cS1iNTAyWTd5NkgzT213WVMxMHo5N1M4NGZOUmtRRE9uWjFwNnF5VjVUbVhHM3cwUFhBcjU4ZEh5OGpJa3U3S001MWNqeWVIeTR6ZVlMeDRVdjNUVy1aNVQ2cXh3MFFBdVkxcXlqMmVzZHlVUjJ5Y2RFMk5FeVpiWUwxVzF6b2Q1ZV9r?oc=5",
       "summary": "What Is Meta’s AI Muse Spark and Can It Overthrow Claude and ChatGPT? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
-      "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter TechCrunch",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGpLUGlqQUJ6SGdJUVg2dEpPM1hrOGJHVFlJMzFETkZmMnV5V1VzQzZxU2U2RUZtTU1qZFQyTk5XX01rY3N2YzBxVkQzVndUZnAtWjRZZExLS3YyNFVYTzRJZDlnNjRvUmNKS2ZESllRUFRZTmhyeVlpam5PdWRWZWhiVEtzNWQ1WS1NUUdsY210N19SNFpsVkNHQzBQUVZuaHdTeHc4ZHJoZw?oc=5",
-      "summary": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm9JNmc5c2FlQzM4N3ltS2pqREdJcHQxZGdla19VeUMwWTA0Z29GMy1WQzZVWnFTOHU2VEtOQWJTazc5ZUVEZk8yTmt2YjVkODFzRkVmelFNMGloRHN6WjJLZF9nX1dQc2kyU25FRmNLemxHUHdEcHZJRTJMbVdDaFVWTmF6NGh2UDBiRTBhM2NqSGNMQlN4N2R4bUtVZFd2cGxxaDNR?oc=5",
-      "summary": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs Windows Central",
-      "badge": "watch",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
-      "summary": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot qz.com",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Perplexity",
-      "title": "The AI race is shifting from bigger models to cheaper, smarter systems - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5",
-      "summary": "The AI race is shifting from bigger models to cheaper, smarter systems CNBC",
       "badge": "new",
       "date": "2026-07-10"
     },
@@ -259,41 +291,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBLbm9aTGI4dlBYeGpyT2N4c3Zja214TUt2QllUQmswUzJTeXR4aWlsU25ibnJCaVlaZVFuMUtBbjBSQ0JEcjZfMnA1UE94cDBBdlBfbnZFY3RLR1Y0MjJrbVJNNjB6OUwyUTJRWXlYT1gtYTI2eGRDaDd1WThvZFYxaERDOEVYeS1UbU5iS0VjSmhUTExhajBDelFQSjUwdjFJd2ZoOEhkRmRBazZaYnRidzRlLUFEOHfSAb8BQVVfeXFMUFhtUFdVa1lqQk8zdFU3NE5QLTdrY0lFdERFRnRGNmtWMjNSdFhNSTF0M29qQnUweWc0Qm9HVEh3aWtGZUNuLVZHN3FmckxCZDJMYmY2ZC1OR0N0R1ZMcG5RU2tFdFlXYms3aEVyTjN2emh2YUVGUlRQRjh1MzBiMi1SUjlEOGVBUTlhaENnbS1lZXBHS3FvMS15YnFtdFZBa2xjQ3RqeWNCUHpOandrQnI1RjZSd2ZzN0RLXzZodm8?oc=5",
-      "summary": "Anthropic found a hidden space where Claude puzzles over concepts MIT Technology Review",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5",
-      "summary": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic TechCrunch",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Elon Musk says he was wrong about Anthropic, now calls the AI rival the 'leader' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjhMU0szcDZGZEJyYzFqMnlxMVV5Z25mbVNyMi1qQnBUYWp1U3pQZnA0dnBpQll4dzZHMkdlc09heTBJYjY3UG9GX25sd1VKMEFSczR6UmFfMVNtTndFYnlGVDJ4TXI1U3JnWGNtUHlId2E3a09KUUE2ZDVkV1lqSWhEbzd1SndpZzFNUm55QWwyMEc4?oc=5",
-      "summary": "Elon Musk says he was wrong about Anthropic, now calls the AI rival the 'leader' Business Insider",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI CNBC",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92aEZBTWtLaDZSZDhqOC1nVEstbEx0TnJhQU9OZGxMMHRreWpvV2VxZ1hremxRZUZkWUxEVHVnbjYyRWlCWXZ0cFJxemIzaXFIRWYwamRvVC0wMFRPT2ZFdWlYTFZWOUFaUVBYem9DU0FlSlF0MzczSWRyZUg0U3c?oc=5",
-      "summary": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk Microsoft",
+      "title": "Inviting hard questions - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+      "summary": "Inviting hard questions Anthropic",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -302,6 +302,14 @@
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
       "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot OpenAI",
+      "badge": "new",
+      "date": "2026-07-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92aEZBTWtLaDZSZDhqOC1nVEstbEx0TnJhQU9OZGxMMHRreWpvV2VxZ1hremxRZUZkWUxEVHVnbjYyRWlCWXZ0cFJxemIzaXFIRWYwamRvVC0wMFRPT2ZFdWlYTFZWOUFaUVBYem9DU0FlSlF0MzczSWRyZUg0U3c?oc=5",
+      "summary": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk Microsoft",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -382,14 +390,6 @@
       "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dwaVo1VUloLXQ2ZnhFYjRqX2NnXzA4WWItUURTbW9jLThma293Yzlqa3JXeXhZS2Roa3JrMUFHdzRwV1VuMy1SOUpISVlfdjAyQ0FucC12NXV3RVJCUnlUUkgtcnlCN2VZSy1KUVJld0RjM3FKMnBKRDBUaWhlS3pMRXhncUU?oc=5",
       "summary": "Exclusive: In the capital of AI, government adoption is all over the place San Francisco Chronicle",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is ditching OpenAI in Copilot because AI bills are too high - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IX0xvLTZ4N3hOYnFVTG1mTTZYazlHMkNXbW9DNEpLVzZFaTF0RlpxM1ZiV3J0MDgxRWU5VFZMUkVrbVA2M1hYcUNPeFZ3SWpGLUFnNjRHaVRySFByM0VmN3BVMFhMLUFFZlg3SlJlMU5JOEhDYjVJ?oc=5",
-      "summary": "Microsoft is ditching OpenAI in Copilot because AI bills are too high Cybernews",
       "badge": "new",
       "date": "2026-07-08"
     },
