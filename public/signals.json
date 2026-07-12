@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-11T18:53:51Z",
+  "updated": "2026-07-12T02:11:08Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVZob3BlX25qanJ3VjYwdUR0bmFJWW9zUmUxLUczWHVvZ1didnZOODZMRHZ0cWdGWk1LNDNTM3FqOFU3a0FtZUF3OWxaUGFiSXVHRDdFU3M3OTVVZC1ZcTFPZUVxbUVPMmtfMDg4WkhPQXhCcjlsSmkzaWQ2OEpxR2dzcGM?oc=5",
+      "summary": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ San Francisco Chronicle",
+      "badge": "new",
+      "date": "2026-07-11"
+    },
     {
       "company": "Anthropic",
       "title": "What it’s like to be part of one of the biggest wealth creation events in history - The Washington Post",
@@ -27,14 +75,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta pulls new AI image feature after days of backlash - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5",
-      "summary": "Meta pulls new AI image feature after days of backlash BBC Meta Suspends AI Image Feature After Days of Backlash Variety The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already Gi",
-      "badge": "new",
-      "date": "2026-07-11"
-    },
-    {
-      "company": "Meta",
       "title": "Meta added a privacy-safety feature to its AI glasses but is reportedly testing a ‘super-sensing’ prototype - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnRhb00zUHRBZnZMOUp0a1FTM25FeGNRdDJDYWlTX1hSTTJXaGlNcEwzaHhQWnhpd01YTGdVSXNLVFA1a2R5U1k4dVFVODFaVVVSN1k3a2VIVFdDcFduejRPX0d6RlhnYmpZVVNvYjM0QjlRcXpORkozMWdsdjZibXZWSmYtLU5pRWpKdGh1VC1TX0VPN3FIMDhsTFNCbDhuZTNCVm54UHVtaWxNWG9IVVlfWHhJXzJXYUIwNm1CUGxRXzl0S1lLYWFUUWl4c3hlempvR3p2aEN2enVselhR?oc=5",
       "summary": "Meta added a privacy-safety feature to its AI glasses but is reportedly testing a ‘super-sensing’ prototype Fortune",
@@ -43,49 +83,17 @@
     },
     {
       "company": "Meta",
+      "title": "Meta pulls new AI image feature after days of backlash - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5",
+      "summary": "Meta pulls new AI image feature after days of backlash BBC Meta Suspends AI Image Feature After Days of Backlash Variety The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already Gi",
+      "badge": "new",
+      "date": "2026-07-11"
+    },
+    {
+      "company": "Meta",
       "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2w1dk5lS0NiRkhMejlGcFRmaDQ1QkVqWnk3M08xb0M3a0VLalhaZDBSZTkzNWc3dlJqMmJtd2swcW1tQVY3anVZYlBrbUJtRDNEMjRJZGtxQWtyZ0lzWl9oaUZ6cnFFSHJpYnhEM2ZOaFRRaFNsNFRVX2lzZUM3M3otYVQ1alF0RE5yNTUtOHp3NHY2ZENYd3dOcE51YzVUWnM3a1Vn?oc=5",
       "summary": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy The Guardian How to stop Meta from using your Instagram photos to create AI images The Washington Post Meta Removes A.",
-      "badge": "new",
-      "date": "2026-07-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
-      "badge": "new",
-      "date": "2026-07-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
       "badge": "new",
       "date": "2026-07-11"
     },
@@ -110,6 +118,14 @@
       "title": "Elon Musk admits he was ‘clearly wrong’ about Anthropic - Teslarati",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXhFcXN0d0xUUmJZdWl0Q3RrR1NUYlhFbFQtbS1Odlc1cWd1NWNXLVBQSVB6bnlvVDdDZVIyZDkza3o5MFlhTlJ1UHFFM2c0TVJjektZRXQ1dG9mVU16dGh2dVM1RWhMVHk2cGdwTWh2VWZuU1pUT0ZjTmdUb1pJRGdjSVhyMVk?oc=5",
       "summary": "Elon Musk admits he was ‘clearly wrong’ about Anthropic Teslarati",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Suspends AI Image Feature After Days of Backlash - Variety",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR1eWNxV2sxcWd1YzNJbGxfVkN3M2FVbW1LTS03Z1FXTkx0Y3p3bHhBY2Y5X210WlU4WWRRVVhmUWhXU0E1b0dGSDBqS2xoSzdsNS1wZF9lTjdEa2FTb1oxY0ZLa2g2WXdzd0tnb2prazNLVE9TMXZVMXZWdldlbGRnU2pnSk9ScEJmR1p1N1R1aTI0S09SaW5Ccw?oc=5",
+      "summary": "Meta Suspends AI Image Feature After Days of Backlash Variety Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy The Guardian Meta u-turns on AI feature amid privacy bac",
       "badge": "new",
       "date": "2026-07-10"
     },
@@ -155,6 +171,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
+      "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter TechCrunch",
+      "badge": "new",
+      "date": "2026-07-10"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGpLUGlqQUJ6SGdJUVg2dEpPM1hrOGJHVFlJMzFETkZmMnV5V1VzQzZxU2U2RUZtTU1qZFQyTk5XX01rY3N2YzBxVkQzVndUZnAtWjRZZExLS3YyNFVYTzRJZDlnNjRvUmNKS2ZESllRUFRZTmhyeVlpam5PdWRWZWhiVEtzNWQ1WS1NUUdsY210N19SNFpsVkNHQzBQUVZuaHdTeHc4ZHJoZw?oc=5",
       "summary": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report Yahoo Finance",
@@ -167,14 +191,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm9JNmc5c2FlQzM4N3ltS2pqREdJcHQxZGdla19VeUMwWTA0Z29GMy1WQzZVWnFTOHU2VEtOQWJTazc5ZUVEZk8yTmt2YjVkODFzRkVmelFNMGloRHN6WjJLZF9nX1dQc2kyU25FRmNLemxHUHdEcHZJRTJMbVdDaFVWTmF6NGh2UDBiRTBhM2NqSGNMQlN4N2R4bUtVZFd2cGxxaDNR?oc=5",
       "summary": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs Windows Central",
       "badge": "watch",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
-      "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter TechCrunch",
-      "badge": "new",
       "date": "2026-07-10"
     },
     {
@@ -266,14 +282,6 @@
       "date": "2026-07-09"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ER1FHSFRaY3NHUEtFWkV2aGpid3hnU1E4MEpoTXRyemo1ekc1WFZ0a0lBVkctYzFVaURkckc2elI2NktLaTRMek01Q0ZuM1prdHRiX2tKQW9yek44MGpkVFBzWE1rWUJvRlNFN1lTdVMxWjE5SGs4?oc=5",
-      "summary": "Anthropic's Reflection: AI gets its screen-time moment Axios",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
       "company": "Meta",
       "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
@@ -282,11 +290,11 @@
       "date": "2026-07-09"
     },
     {
-      "company": "Meta",
-      "title": "Introducing Muse Spark 1.1 - AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "summary": "Introducing Muse Spark 1.1 AI at Meta",
-      "badge": "hot",
+      "company": "Microsoft",
+      "title": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92aEZBTWtLaDZSZDhqOC1nVEstbEx0TnJhQU9OZGxMMHRreWpvV2VxZ1hremxRZUZkWUxEVHVnbjYyRWlCWXZ0cFJxemIzaXFIRWYwamRvVC0wMFRPT2ZFdWlYTFZWOUFaUVBYem9DU0FlSlF0MzczSWRyZUg0U3c?oc=5",
+      "summary": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk Microsoft",
+      "badge": "new",
       "date": "2026-07-09"
     },
     {
@@ -294,14 +302,6 @@
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
       "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot OpenAI",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92aEZBTWtLaDZSZDhqOC1nVEstbEx0TnJhQU9OZGxMMHRreWpvV2VxZ1hremxRZUZkWUxEVHVnbjYyRWlCWXZ0cFJxemIzaXFIRWYwamRvVC0wMFRPT2ZFdWlYTFZWOUFaUVBYem9DU0FlSlF0MzczSWRyZUg0U3c?oc=5",
-      "summary": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk Microsoft",
       "badge": "new",
       "date": "2026-07-09"
     },
@@ -323,17 +323,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejJXLXdRZFhoU2QydkNmTDhweTN1U3l6MzU1dUw5YzZWZVdSdHVJcGZrQ0lreVhzOU0tRkFuQlg1NzFLcXpMdGdHVEgtVVZlcnB1TUpxUFJKYVBpemJHVDRDY2FSQXdyeFFHVG5tWEpNRUp4NWJBM1FUM1Z5SmwtWVVySUZLN3pjZ0NqTW5LbHhubFlhejk4YmdVWWZzdVZsanNTOXlHYnpyaTlBNFA1LVg3Q1ZHWGpPcktpeE1mZXQzUTUxcGFiUHozVmRkLUU?oc=5",
-      "summary": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all Tom's Guide",
+      "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzc1bFM3bEdMbWs0UU9rSkpDUGxMQ3AwUGFNSC1nUFdoSzRTczVDbEJaZnZpOEJRNThndk5SR05YX2FfamdEZUZWQ081OUNwRE9razhkYzJMMU5UbWw4OGcwbzROM1dVMGVTRFpZVWhCMXBMcnNRakd1aUdkanowdEZsUDVNMDQ?oc=5",
+      "summary": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost Decrypt",
       "badge": "new",
       "date": "2026-07-09"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzc1bFM3bEdMbWs0UU9rSkpDUGxMQ3AwUGFNSC1nUFdoSzRTczVDbEJaZnZpOEJRNThndk5SR05YX2FfamdEZUZWQ081OUNwRE9razhkYzJMMU5UbWw4OGcwbzROM1dVMGVTRFpZVWhCMXBMcnNRakd1aUdkanowdEZsUDVNMDQ?oc=5",
-      "summary": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost Decrypt",
+      "title": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejJXLXdRZFhoU2QydkNmTDhweTN1U3l6MzU1dUw5YzZWZVdSdHVJcGZrQ0lreVhzOU0tRkFuQlg1NzFLcXpMdGdHVEgtVVZlcnB1TUpxUFJKYVBpemJHVDRDY2FSQXdyeFFHVG5tWEpNRUp4NWJBM1FUM1Z5SmwtWVVySUZLN3pjZ0NqTW5LbHhubFlhejk4YmdVWWZzdVZsanNTOXlHYnpyaTlBNFA1LVg3Q1ZHWGpPcktpeE1mZXQzUTUxcGFiUHozVmRkLUU?oc=5",
+      "summary": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all Tom's Guide",
       "badge": "new",
       "date": "2026-07-09"
     },
