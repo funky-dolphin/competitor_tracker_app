@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-12T18:58:16Z",
+  "updated": "2026-07-13T02:13:03Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes to iOS in Brazil",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
     {
       "company": "Anthropic",
       "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
@@ -34,50 +74,18 @@
       "date": "2026-07-12"
     },
     {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUd1T1VqMmRlUmFIaVROSmtfX244RTZ0MVUwWVR3Tm9iLVhMLWlBbDFVdEpiejVJUl9acEJnaTFwc2dudjNvNklRVVlqczdnRDhxNWltaE9Ka0JPYUZmakJIQWRfeGpQRTI1dXloMTliQW1kMjU2Mk1OY0VrRDdiQjNlaDRPYXV2WEJOVWJJZWdiM0lNTUZuUEl4RFBfUFNRSHFPOUpVNU1LUTBFOEhVZ0xHNlNINmItVDc1aTJ6eFdkaHh0QWg5UFRIX18zSThU?oc=5",
       "summary": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance 24/7 Wall St.",
+      "badge": "new",
+      "date": "2026-07-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Said Meta's AI Bets \"Haven't Come to Fruition Yet\" as Shares Fell 5% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjdCRlZQU3YySzFPdFRUd1huMUxCSndVRzNJbFdzTWotcExiNTZ3VHZMdWhTWUJXYk9oMTdNNHBfYUZ1UXBkNkhuRGp0dmNwTTVRZHNXellIMnE0SDJQaDNwTFFGQnlLdWpnLTNCcnJQS0lybUxyQ2M1TXdzc29NeGJxOEtETFB5OEVVaUxndGZOeThVX1lkQw?oc=5",
+      "summary": "Mark Zuckerberg Said Meta's AI Bets \"Haven't Come to Fruition Yet\" as Shares Fell 5% Yahoo Finance",
       "badge": "new",
       "date": "2026-07-12"
     },
@@ -125,7 +133,7 @@
       "company": "Meta",
       "title": "Meta pulls new AI image feature after days of backlash - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5",
-      "summary": "Meta pulls new AI image feature after days of backlash BBC Meta Removes A.I. Feature on Instagram After Days of Backlash The New York Times Meta AI image detector fails to identify some of its own cro",
+      "summary": "Meta pulls new AI image feature after days of backlash BBC Meta removes controversial AI feature on Instagram after backlash TechCrunch Meta shuts down AI tool after backlash over public Instagram acc",
       "badge": "new",
       "date": "2026-07-11"
     },
@@ -255,14 +263,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2Y3Q3RnOTl1RERwRml2bVN6NHM2eEdBdEVja2NYejFvYlh3S014SUNVQ3oycnN6aGFlNjhHTVd1dVVwbW5DR1o4VEo4WWp5TFZOQnJXX0NVQ1luX2NwalNtdFYtM0xsX2NMSnJvUHV6WlczN0h3aEFxZU1ERkZOV0M5ZUhWYmpYeDBuZTZBOXBkajZiM3c?oc=5",
       "summary": "Meta Stock Surges as Hidden AI Cost Breakthrough Stuns Wall Street Yahoo Finance",
       "badge": "hot",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's stock has best week since early 2024 as optimism builds around AI strategy - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2JLM2R4cGVHd2RPUnVLdlVFRFVYbUM5bGx4VDZCak9COHJjUk9NdmxfYm5Uakk3bzdvMThGX0cyaXNNT3pQenREUmt0T0lrV0J3V25WVWRqQXAwQzhTYW00YTdaYXpPLTZKd01uV0VqVmlYamdsQldjSjhNNllMRnphUzR0dkdyM2pxZkQydnbSAZYBQVVfeXFMTnNVbGJUM3lQZlNpYjh0MWFONWhqWkRmN2pPMGRwXzk4LUluWG9xSlhQSFlObmN6ZVFqM0ctaGg4S2FjNkc4RHBzbzY4RGNaekpoS04wOUlJd3hqVmRYcEdzLUNuOEt3Q0RzSDhyMkRPbjJuN0JZR3Fqa2tJQl9tMWJ1Z3JkdUhsUXBoQldiZ3BkMHpIaG1R?oc=5",
-      "summary": "Meta's stock has best week since early 2024 as optimism builds around AI strategy CNBC",
-      "badge": "new",
       "date": "2026-07-10"
     },
     {
