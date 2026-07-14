@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-14T13:21:35Z",
+  "updated": "2026-07-14T19:10:35Z",
   "signals": [
     {
       "company": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "badge": "new",
       "date": "2026-07-14"
     },
@@ -18,10 +18,50 @@
       "date": "2026-07-14"
     },
     {
+      "company": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude for Teachers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
+      "summary": "Introducing Claude for Teachers Anthropic",
+      "badge": "hot",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGw3bHY3UEZoSjM2VWU3Mzd1YWVJY3NmT18zV2tINXctT254YTkybl9FSndHUEFfaTdPeEMzaHBxNVNYZFF4SmN6V01VeG1oaUxBOHhzbWtuXzRnTFVUcmo2a3hrYWRwOFM3TlZFUlB0aTlJZjI4dEJYMkFMS0lHbDUzSlBjQ1lSRXNWMkdiOVAybUJMbTliX1hqbFFSZl9PMkJuRE5ZV2U?oc=5",
+      "summary": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety politico.eu",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
       "company": "Anthropic",
       "title": "OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire' - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGJVMmhjc0Y5b2w0WkF6MzYtR0xIOVkzdF9JVUgxakRrVkxkODJDUzR2ME9ua3RwRFRYcDh5a1QzX0V4aGJDMW5oRVd1UXBaRG1rcGtUNXFnN05YTEJwdUIyQ01GYzN1N2tPZ0NWeklvWnpQOUxOcHlBWHlWcnZaTDNTeXB0S21RN2NCSmZyUDFibFB0UnB3?oc=5",
       "summary": "OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire' Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Google",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "badge": "new",
       "date": "2026-07-14"
     },
@@ -66,18 +106,34 @@
       "date": "2026-07-14"
     },
     {
-      "company": "Anthropic",
-      "title": "How Claude's values vary by model and language - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
-      "summary": "How Claude's values vary by model and language Anthropic",
+      "company": "Meta",
+      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
       "badge": "new",
-      "date": "2026-07-13"
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Lorde Said What We're All Thinking About Meta's AI Glasses, And Celebs Like Kylie Jenner Could Take Note - BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWhOQlVtMjdZd3l6UG1xZV8yNGM5TkNyYTdQVGNJVGJOUGx2UUlqMC1qTUdWNHdKSGlkdE9lYWs5UXZUQnpfa2h2MHFlSEtPd0c2clg2cll5dXVta091cnduUXZRT3gtNXh3bHF4dzMxZ0tkX0tDU2FGVHVrMHcxSE1BMnZheGR3bW12UlhJWWh5REFDQ3Rz?oc=5",
+      "summary": "Lorde Said What We're All Thinking About Meta's AI Glasses, And Celebs Like Kylie Jenner Could Take Note BuzzFeed",
+      "badge": "new",
+      "date": "2026-07-14"
     },
     {
       "company": "Anthropic",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show - MIT Technology Review",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV04xbFRXMFBkWFJ5X3pobThNNmIwNW93RERIMTRKSEJSYThfY3JiNGU4WE5sZXRfUm1CbWVyVFJVVVJ6THEyY0FfdHBSb2lyLUtQOGk4aVRmNFNWd29odzlDbzk0emtfeWlLM2ZYOHBTSDNReXg5UUtvRE81TUJ3S2RDazhvTFN2Vm8wZkxEVEZZR1F2UUkteTJIZ3c5OWdIUFBJZjhpcWxtaHlub3fSAbMBQVVfeXFMTldHYkFfc3RVLTdKNzFPZDFiak9aV0JMN2JoSlpMdHZrejlWVzBWUTNMYlZSTG02M2RpeHV5SGtNZk83UWllRTg0NVUtaGZDY3F5TVMwRy1fd081WDM2eVNWVlU3VEZEbEs1RDFlbndKZndBY1hTQ0U2OWxkUzdKcmtFOHVCeDNnMks1R0UtQ1JaaG9PS1E1OEppemx3dzdIemNneFNDQi1SbHBMNnkxYWFUUm8?oc=5",
       "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show MIT Technology Review",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Claude's values vary by model and language - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
+      "summary": "How Claude's values vary by model and language Anthropic",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -118,22 +174,6 @@
       "title": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWVhRldnTDlKa3JYTVp3N0JxVnFSMlVjYlVyYzFSeklUeWZBLTNfX3ZIeDI0VXFpQWEtRTZuUjB4Z1lPX1hFMlZ4VjJybmN6WTdUYkF5eTVRZGtScWJKQnc3dlFGUExLTVV0TWNfTkZNTTBNZTFiVXpZdzI2cWY3VVdYVlIyWGNfR24zSXFYWFB5QjMyMmlkUW1fVnU2OHhzY2tCdFBVNkRIWmJ4dHc?oc=5",
       "summary": "Washington Is Looking to Keep China From Training Its AI on US Models Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Claude Science app is coming for Kendall Square - The Boston Globe",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1A0dFdtek0xTjB4S0RsNW1jUUxtV0xXQWV0eVVGZHl4YjVqYjVCNDFqUFZzUVRLRTI1VHlJdk5Xc21HMWRHbV8yRm85MndZbk12SDA4N2l2NHcyR2FOR2xzczkyYmROT0dVSVU1dVotZWtjUEt5Y21pUTdCXzBXcU96VkI1SGVPUTNwOWd2RnVlalFLcGtiZ1RQNjQ1NExWM1J6cXhsb0xLS2pZ?oc=5",
-      "summary": "Anthropic’s Claude Science app is coming for Kendall Square The Boston Globe",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's latest big-name hire: Monzo cofounder Tom Blomfield - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb21lWTlqUXJfZFZzd0tIdTFhYkdoMm1HNTE2MGhBOE1BWUZpRGVpTWNuOXZYVFdHLWJzVnVFQ05KNWp3T2V0WmJCZWtZVjZNcDNaV1ptM1JWVGxhRm51MUJRUE54N1NHUU1wQnk2N09IWTczX2JDX3pNRHg4YUVEVkh0QTU0MUxrX0NlR2VROFlsTUk2U3BlalBzVlNOaGRwUm00aGFGWmNVR3pR?oc=5",
-      "summary": "Anthropic's latest big-name hire: Monzo cofounder Tom Blomfield Business Insider",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -211,9 +251,9 @@
     },
     {
       "company": "Meta",
-      "title": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkphLUZ0SDJVRlVwRzFuRVZNZHEyRy1OWVRjZndzYTdwVVMyU1BhNjlPSHpKdDJyNExIRW9yQWV5YjA3VWVrV2pWMEpVRDZJei1pWEI3c1g0NHJvSmFSWnVMdkdpMkNaRGlUel9KZVZHenBpMUpHc053a3FZdGlOX3NIemRiWVhtd1Zj?oc=5",
-      "summary": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash CBC",
+      "title": "Meta abruptly rolls back feature that let people use IG photos for AI images - KRON4",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0N3MmFZQmhGOVRaWHhyWUxLMk5DeGlXemlnYlBTRnVTYUNxcnNjSWpYSDBLdkFhUUtvLWFMNGlsV3Axc3k0Tzd2N2F4U0tQOG5rUWY3UmZtQnB5QW9HeS01dFJOQlV3VGpYcnlnOGZMRE4zOE1tRFEwa0NYQXV2OUhKRXZqVjRwQU1FNXlUYVBZVTFTYm9jNDdidTYzZTk4VVY5WEVib19XdWxDNVZlNWRqTFMtX25fb3fSAb8BQVVfeXFMUHUtdVZuWmc4MUtTaTk5UXJvQThvSmNYcFpBbWh4OUprTHh1SzA2TV9zVTUtZzY1cmEyRDFKemR6MVdfMXcxTGlBWmZtMUVCMzdmbXdhV1psd3RTd2RBUnl3dFpOUVRzS2podk01MTZCR1NPMmFHZEVxNnVnQ21HbFJ0LS0xbVU5ZzN2cVNXaGoyQ3dOdzh2VkdKaVdKYmRkb1NkaHdtSFdIZnROTU5uV0pkRV9FQ05neEI1X1FrU2s?oc=5",
+      "summary": "Meta abruptly rolls back feature that let people use IG photos for AI images KRON4 Meta’s AI Detector Can’t Detect Images It Generated Itself, Report Finds Gizmodo Meta removes controversial AI featur",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -222,6 +262,14 @@
       "title": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two - Fortune",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDFvOGRkVG9sakZYekhBUnpfd3BrQ3RBaExCdFFUVHlWSVpQNzdxeFgtNUIySlVqYkFzWUFaRWd6aF9ZSU1NN2VJaF9Kcm9ycFUyNnF2WFFvb3gzRXRINktrOWxFYTFHWkhncEtXaFFja2tNS25iSl9YdmFBM1M5NHkzMDFmclM1LTd4SQ?oc=5",
       "summary": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two Fortune",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkphLUZ0SDJVRlVwRzFuRVZNZHEyRy1OWVRjZndzYTdwVVMyU1BhNjlPSHpKdDJyNExIRW9yQWV5YjA3VWVrV2pWMEpVRDZJei1pWEI3c1g0NHJvSmFSWnVMdkdpMkNaRGlUel9KZVZHenBpMUpHc053a3FZdGlOX3NIemRiWVhtd1Zj?oc=5",
+      "summary": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash CBC",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -254,30 +302,6 @@
       "title": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size - NOLA.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3IycUxsb2tWX0ZLUzlPX3pfRUxrNkxEcXd5X1lPcG1Ld1A1RmhYelB0Um9BOVN0ZWtteEtIeU1tZ3ZwWU5PRm9ZVlktNUk0VUhDbGg5R0RGck1kSFR5azlKVEpQQXJFa1JabmxJdFVKcmI2YTJDNGtrMzdPWXJYbFhqbW5OVnBSZTdVaUZxajh1WnowSVduNXVYTUh2aWo0Y01Cb3g5eV84NFAtTHlzT2lrSzREOVdmbmNEb0RlRkR2ZHRIdHc5MGNn0gHPAUFVX3lxTE1MNkR0c3BmWjBuQTlzY0JJaXFPUmJfNDVKcFlEcmZtbjJicW9uNHMxQ2F6U1lJUzlER0NPSGR4QmttUnVkVi01QVdKSWpFanVsOUFidHd3dFBvbVdHd01wd2lXWkVTRlV3Uy1BUC1kQjNoS1BpSjhJREtKVThOS21mR1B5MGo3Mno2enlRYTlvbDlHVjZkb3pMMmpZdWFRV0FnWFd0ck1tb1ItRHM4YkhyQ2pfQzF6Q3l6eVlVZTU5dXdIOS1tU1dRSEpIQndXOA?oc=5",
       "summary": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size NOLA.com",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Splurge Continues and J.P. Morgan Is Worried for the Stock - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GTkt6cU0tUnNvV0t0LTJUWkNESU1TUFZLTDJzRGs5TVVOeTF4RWhLTE9yVXRqYldlcG1Jb182N3N0ZllvRm9oTDdZVVJ3ek1rcW1FVjZLWWg2MVRsOUdEdllLZm5WTEl0WnFhZUpjZi1Ud3FKNFAtU0dn?oc=5",
-      "summary": "Meta AI Splurge Continues and J.P. Morgan Is Worried for the Stock Barron's",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Elon Musk Unfollows Meta AI Chief On X, Alexandr Wang Replies, \"Can't We Be Friends\" - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFpOUEY4U3k5ZXhPR1JJM2pfMnBDVzR3a1Y3VkQ1bk05MXpoNUlvZzFyQjZReVphOWNPMHgySDRxMmRrWHNHRk5lWFl1NUZoM25LdzI2alN0Vno2ZFowWFJJS0V0Vll5dHFaT0RsUEhZaG44QXFlTUJaNUxDVnFDVTVPZ2Z1V2J4cU5VRWtNSFpHQWdlV0FLUnZWWHpRTEt3bk42Uks5RUduazR5OVh3X0lSdGJpd3pG0gHAAUFVX3lxTE1ORlFDcGhoclZVZ0NLd3dRd2dXQktPb0dFQzdXQjZfS2cxMEkxcFp5YnA2ZVFjQjA4SzRRZWRIaTBmLXZzRkNKUGhFNTI1VDk4XzlTVHB1bGhuM0ZjTE1iN3ZQeC0yTVJuRWktY0w0MlVrZFNhNWM3NUNtUk1fd3JRU3V5SmhfNnFKWnNwVTl3N0Ryd3d5ekZKRjVTWnA5QVhjTkhjaTJoUWY4c3h0dm1ReGRsV1NtRFc3S2RYTjBhcg?oc=5",
-      "summary": "Elon Musk Unfollows Meta AI Chief On X, Alexandr Wang Replies, \"Can't We Be Friends\" NDTV",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Legally blind veterans receive Ray-Ban Meta AI glasses at WWII Museum - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ05XQUp6VlFsMXZGbnhEek5fUzRJS25MZC1TalRiUmwyb0VNSG85cTgtTjZCcWpSVHZDLTNLYzY4WV9XR1NQeFlnaldyRnNmTjhsRU95R1UwWjdISmdRM3VoMTdXT2EtUzEzcDFVcEo3c0FNZjFHQXNZeVBSNkMwUVM2SnljVmNVejhHTFYwR3NPbjF5ZHl1WFNHQkFVR0VOYlJoS1Nn0gG6AUFVX3lxTE9KZmYtT2ZmTk9rTjNJR3Bjc2JRRVhnNmMxQWxZRHkxMWdQbXA5SllkWVpscG40ck05SHV4UDJCQVNZUUxOdE9oR0YtRUx6SmpYVE9ObUs0akh0cFNMdkhtNC0ta3p5a3VrTWdnaEdxMzVLQjdyRk1DVHRaX1g2Z1hKM3FzT3E3WmZ2VjNFZzNMcW9iUUlPVDVNQ3JhNklwclVwLWQwaE9NWW42Q3ZJNHpiTG5QWVVvZWROQQ?oc=5",
-      "summary": "Legally blind veterans receive Ray-Ban Meta AI glasses at WWII Museum fox8live.com",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -426,14 +450,6 @@
       "date": "2026-07-08"
     },
     {
-      "company": "OpenAI",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
       "company": "Apple",
       "title": "Apple aids app development with new intelligence frameworks and advanced tools",
       "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
@@ -538,14 +554,6 @@
       "date": "2026-06-25"
     },
     {
-      "company": "Apple",
-      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
-      "badge": "new",
-      "date": "2026-06-18"
-    },
-    {
       "company": "Google",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
@@ -592,14 +600,6 @@
       "summary": "Amazon Ring Lawsuit Puts Face Recognition on Trial Memeburn",
       "badge": "new",
       "date": "2026-06-06"
-    },
-    {
-      "company": "Google",
-      "title": "The latest AI news we announced in May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "summary": "May AI recap",
-      "badge": "new",
-      "date": "2026-06-05"
     },
     {
       "company": "Amazon",
