@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-14T07:53:45Z",
+  "updated": "2026-07-14T13:21:35Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
     {
       "company": "Anthropic",
       "title": "OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire' - Yahoo Finance",
@@ -75,6 +91,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
+      "summary": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows Reuters",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Anthropic",
       "title": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUXJYdDFkLUdfcUNoaWlhZjdmSFEwaFpxSWRBZ3RQeTlZaEtPQndESGduWmk3Z1dHWWFzV3BzMGFqQVE2aUJFSWZEU1NZeXl3VEtmQ3hrem00aDJ1UzVydHlQdkZMMElLT2RBaGxndnc1c0g4TXc?oc=5",
       "summary": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America The New York Times",
@@ -94,14 +118,6 @@
       "title": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWVhRldnTDlKa3JYTVp3N0JxVnFSMlVjYlVyYzFSeklUeWZBLTNfX3ZIeDI0VXFpQWEtRTZuUjB4Z1lPX1hFMlZ4VjJybmN6WTdUYkF5eTVRZGtScWJKQnc3dlFGUExLTVV0TWNfTkZNTTBNZTFiVXpZdzI2cWY3VVdYVlIyWGNfR24zSXFYWFB5QjMyMmlkUW1fVnU2OHhzY2tCdFBVNkRIWmJ4dHc?oc=5",
       "summary": "Washington Is Looking to Keep China From Training Its AI on US Models Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
-      "summary": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows Reuters",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -131,17 +147,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot AI Predicts Insane XRP Price by End Of 2026 - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVluZGhRWEgxZGFsYkotOXJpRzJIV2xZRWlLZUs5TC1ZYmZqUDlfQmU4S0tadXdFbVo3M1dTOXVnbk45TTVaS1hOVnFJRWQ1bjcwczdMX0Z5TGlZRTFxN3QzWWw4b1F1b0xYWTQ0WFVCS2lPV0RjaWFZYmdzbTJEYThjRkpYVWhjaHBMUWpIaXhYLXBC?oc=5",
-      "summary": "Microsoft Copilot AI Predicts Insane XRP Price by End Of 2026 Cryptonews",
+      "title": "Microsoft Teams: Disable Copilot and Facilitator during a meeting - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmcwYWpyc2VKd0R4d1lvcEs3RlBoanlDYlI2N0lPVEVQQ2s4c2NqU3NNMUJuSnlpbGlYaFV3cHhIR204UGNLalhhXzdCY29SUW9zUmswZUNaNnRORldLNDJ3Wk1GZW1lM1RtNzl0Ul9yeXloLTNpYnEtSHQ2a2tKbnBXbGxVbEREMWhOczVITkd2YUVIMXJVWWJiaGlqSl9sTVE0YUtVODgydlVpWmc?oc=5",
+      "summary": "Microsoft Teams: Disable Copilot and Facilitator during a meeting Notebookcheck",
       "badge": "new",
       "date": "2026-07-13"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Teams: Disable Copilot and Facilitator during a meeting - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmcwYWpyc2VKd0R4d1lvcEs3RlBoanlDYlI2N0lPVEVQQ2s4c2NqU3NNMUJuSnlpbGlYaFV3cHhIR204UGNLalhhXzdCY29SUW9zUmswZUNaNnRORldLNDJ3Wk1GZW1lM1RtNzl0Ul9yeXloLTNpYnEtSHQ2a2tKbnBXbGxVbEREMWhOczVITkd2YUVIMXJVWWJiaGlqSl9sTVE0YUtVODgydlVpWmc?oc=5",
-      "summary": "Microsoft Teams: Disable Copilot and Facilitator during a meeting Notebookcheck",
+      "title": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEJXMWxSZ2loTU1KMEV2eWJodk52cUpUdmp2YTdwTHlGNUFVQ0l4M3ZaWnJYZGczTlphWmxiQzllN3ZLNHRheWctcnE0cHNFb1hzS2RHRGlVc0Q1U1p4QUw0MFNBRU5NaTVlWEh5NExWNFplWHhSZ3F3SllySHlRV1ROTUR0NTFTMlpvLUFaWTF0Yml0UWY4ZQ?oc=5",
+      "summary": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health PCMag",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot AI Predicts Insane XRP Price by End Of 2026 - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVluZGhRWEgxZGFsYkotOXJpRzJIV2xZRWlLZUs5TC1ZYmZqUDlfQmU4S0tadXdFbVo3M1dTOXVnbk45TTVaS1hOVnFJRWQ1bjcwczdMX0Z5TGlZRTFxN3QzWWw4b1F1b0xYWTQ0WFVCS2lPV0RjaWFZYmdzbTJEYThjRkpYVWhjaHBMUWpIaXhYLXBC?oc=5",
+      "summary": "Microsoft Copilot AI Predicts Insane XRP Price by End Of 2026 Cryptonews",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -187,9 +211,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUtTQ2toaDhkd1dtTmQ2MlpDVkJSSFlidkxnUjVNMllfZmd1allzZjRxUm9qYWtCOXNSUk53QWd1akdLZWJyekJjYTVhQ2ZWa1lzclhQYUpSVF9fYUg3LURpQ1dkUUg5TGpJVnY1NDVBbFBxcXFtRXU2T1VZV0dzNHVvYjVtT0xmVXJvZ19JaE9JYU52WkU5SmVnb1o4aXRrdDZPRVFDTHM5QdIBrwFBVV95cUxNSzVPT3Rpbmx1LVcwMUJnX1dKVVIzX0ZYSFZ3TExSNWtHODFpT2hOVTdOSDUteDhPdGtxOGVWaUROREVBME05dUFiSGZ2bWloN3VpZjVTaERLRENib2NSVmhkMnAzXzlvdTVWeUs0SUstME1xaE9HbXg5d3Qwd0gtT1ZVZl8tUjg0RjIzVGVsbVJMb19SSzZKTkdQR2ZFelRkaTJvaFNSQmNTWkYwMlFR?oc=5",
-      "summary": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives CNBC",
+      "title": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkphLUZ0SDJVRlVwRzFuRVZNZHEyRy1OWVRjZndzYTdwVVMyU1BhNjlPSHpKdDJyNExIRW9yQWV5YjA3VWVrV2pWMEpVRDZJei1pWEI3c1g0NHJvSmFSWnVMdkdpMkNaRGlUel9KZVZHenBpMUpHc053a3FZdGlOX3NIemRiWVhtd1Zj?oc=5",
+      "summary": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash CBC",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDFvOGRkVG9sakZYekhBUnpfd3BrQ3RBaExCdFFUVHlWSVpQNzdxeFgtNUIySlVqYkFzWUFaRWd6aF9ZSU1NN2VJaF9Kcm9ycFUyNnF2WFFvb3gzRXRINktrOWxFYTFHWkhncEtXaFFja2tNS25iSl9YdmFBM1M5NHkzMDFmclM1LTd4SQ?oc=5",
+      "summary": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two Fortune",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -203,9 +235,9 @@
     },
     {
       "company": "Meta",
-      "title": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkphLUZ0SDJVRlVwRzFuRVZNZHEyRy1OWVRjZndzYTdwVVMyU1BhNjlPSHpKdDJyNExIRW9yQWV5YjA3VWVrV2pWMEpVRDZJei1pWEI3c1g0NHJvSmFSWnVMdkdpMkNaRGlUel9KZVZHenBpMUpHc053a3FZdGlOX3NIemRiWVhtd1Zj?oc=5",
-      "summary": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash CBC",
+      "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUtTQ2toaDhkd1dtTmQ2MlpDVkJSSFlidkxnUjVNMllfZmd1allzZjRxUm9qYWtCOXNSUk53QWd1akdLZWJyekJjYTVhQ2ZWa1lzclhQYUpSVF9fYUg3LURpQ1dkUUg5TGpJVnY1NDVBbFBxcXFtRXU2T1VZV0dzNHVvYjVtT0xmVXJvZ19JaE9JYU52WkU5SmVnb1o4aXRrdDZPRVFDTHM5QdIBrwFBVV95cUxNSzVPT3Rpbmx1LVcwMUJnX1dKVVIzX0ZYSFZ3TExSNWtHODFpT2hOVTdOSDUteDhPdGtxOGVWaUROREVBME05dUFiSGZ2bWloN3VpZjVTaERLRENib2NSVmhkMnAzXzlvdTVWeUs0SUstME1xaE9HbXg5d3Qwd0gtT1ZVZl8tUjg0RjIzVGVsbVJMb19SSzZKTkdQR2ZFelRkaTJvaFNSQmNTWkYwMlFR?oc=5",
+      "summary": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives CNBC",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -274,14 +306,6 @@
       "date": "2026-07-12"
     },
     {
-      "company": "Meta",
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’ - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTdXMklDZXRwaE1wTDVfMDBLXzVpZ3BGMklFWWg2aE1YOG8yOGVGb0o2bC1NQ0wwWnhGM1lxUVhuMXhrT0RVYkE3M3Jsa0FzNVlMbnpWOHMwV0dDLWtPZTM3TEc3VWUyMHcxX0p2ejNLRXRkVWlGRDdId1NscEl4eGplN3Q0TGYyYUZBWDRiQ0dJeEUwX2VUY2F4ZHkzSWRMdnd4T1k2SFlnUQ?oc=5",
-      "summary": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’ The Verge",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
       "company": "OpenAI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "url": "https://openai.com/index/deutsche-telekom",
@@ -318,14 +342,6 @@
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
       "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter TechCrunch",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
-      "summary": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot qz.com",
       "badge": "new",
       "date": "2026-07-10"
     },
@@ -415,22 +431,6 @@
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "badge": "hot",
       "date": "2026-07-08"
     },
     {
@@ -635,9 +635,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNBVm5vYl9rcTNYRXk2QVFGMUYwTnUwOVQtdGJxWWZoRmhMdi1rOUtDOG5QbmxpS3JKNmtyektKY0FKQkplSl9oeVIwR0FkUTFFa0ZiTG5mMkluWF94MG5SMmpTUl9EcEVGOUJISllTQjNjc1Atal93ZVU5SmxEY0JTM212U0RqZFAzQkZHQnE5U1gzVVN6VXBlLTJDQWZrblp4d1hZX1FmS1RDQ0hXV0xBUG5sRlY0dVMtOHpoczhLZGM?oc=5",
-      "summary": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker Reuters",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFdQU3czaHpWd2hfTDZwLU1TNzA1eVhrUmExQXpXbzZaczcxMkdVSWxrUktBWUxtUFdoc2hCbzJXSWJEcUVPWXI3ZzRUd0hKaGhKMXp3X3YxTEQzSFdyNGc2SmtuNEd0UVctNWlDNDVXdHR0eXJ6SXBIVUJaWmlIN3hIaFRmS3pfeDBtY1JJbHRWcml1a1UzdDY1YTBSR3UzRlZxSVJGQmI?oc=5",
+      "summary": "Amazon faces class action lawsuit over Ring facial-recognition feature TechCrunch",
       "badge": "new",
       "date": "2026-06-02"
     }
