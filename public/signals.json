@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-15T13:24:37Z",
+  "updated": "2026-07-15T19:02:59Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjhJWWR3ejJUNmp4Q1ZfU1l2ZXBaOUgwUXU5S3BBWU5KaVc0WF9BdnBqOXV3dWdMODdGTWpaZEN1YUctOXV4T005NXFra25RVTh0aC00NWFCMFNwN0tKY2hIYXc0bTBVcXBDUWduYkpTT0JpeVB2LW9XRmVMeE1XMHB0cnFyY1UyRGRKSWRhR2ljaHRod2IxU3YwZ3hKYnR2RzJyS3Y3dms5c1pBbWlvYlFXMVlzMWRvQ2ZtWC1VSVhQbWc?oc=5",
+      "summary": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models TechCrunch",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Is Said to Plan IPO Investor Meetings as Listing Nears - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPXzUyRzNEVmZyVUJSQzVvWmJEcFZEUFBHVVBlVHEzeUV0M1J5TnR3cDBDX0FVZm4xQnktYWpCS2hHYXR6dWhRNmxhczJTN2ppbUFSNzhoWGNXRWZkQUNhRmpId1pHQ3NjaFlIMnI3ZlNJYnFaV2F4V1Q2aFJPRkRfUFJBZGVScklZbWZraUtqSHd1ZEU0RHNULTgzTXd0a3gyUVV2dlNpQlZVZEJKWkc3bENhWUMtdHAtN1Y1R0w5UFJHNXdIZy1Xek15WDFTbTQ?oc=5",
+      "summary": "Anthropic Is Said to Plan IPO Investor Meetings as Listing Nears Bloomberg.com",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
     {
       "company": "Anthropic",
       "title": "Inside Anthropic’s state-by-state plan to ratchet up AI rules - Politico",
@@ -10,10 +42,10 @@
       "date": "2026-07-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjhJWWR3ejJUNmp4Q1ZfU1l2ZXBaOUgwUXU5S3BBWU5KaVc0WF9BdnBqOXV3dWdMODdGTWpaZEN1YUctOXV4T005NXFra25RVTh0aC00NWFCMFNwN0tKY2hIYXc0bTBVcXBDUWduYkpTT0JpeVB2LW9XRmVMeE1XMHB0cnFyY1UyRGRKSWRhR2ljaHRod2IxU3YwZ3hKYnR2RzJyS3Y3dms5c1pBbWlvYlFXMVlzMWRvQ2ZtWC1VSVhQbWc?oc=5",
-      "summary": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models TechCrunch",
+      "company": "Microsoft",
+      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejRVTlRQbTBrUG1PelJpUTRjTjhnTlBiRDBGa1JvV2M1eEUyWHpFWnR5UGtyUjR2TEczTG8wQ0ZtRzk1cGVleE9ZUGVWeXB2Y0lQLWZqNFBtVDNqb2pEcUVpRl9QNXJZVzBwVl9rLUtTNTlLeHdCWXBRbmpFbVZoeC01QjhjXy1DeTMzSHVuTHdPNVF6MnRrcGhVdHlOODVUZk1lSjQwN3NBSk5PTWlUcGxBdkFCV0FKc0E?oc=5",
+      "summary": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot CNBC",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -22,6 +54,14 @@
       "title": "Microsoft Copilot: Websites could secretly issue commands to the AI - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzNpMnhfaEFYaVVoc0pCWFdFVFJSNGNQbjVQWm5BZEVmRnR1eDRScERMTmlJWDM5U3FmbXNsNFc5TWxaWE1BRTRYdWFWT3hqN2laNlZrNElyc3dzcU1vS2wxRkktUjktbjNPRWVmOGdjZWxSbFZzczAzbzI2Ukdoak5tZW1wUUVIT2dORHlzWUdTSTZEV1BYTkRVcF9qTGl4TUZJWkZiRUphd1NyUjN5Sw?oc=5",
       "summary": "Microsoft Copilot: Websites could secretly issue commands to the AI Notebookcheck",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -67,9 +107,41 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity launches secure sandbox to make its AI agents secure and powerful - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUR5c3YyYzRfMzROVkNlUHNGYi1Qd29lQU1Ea1o2Wnd4NUJwNDJQZTJ5cTFUNWJuMlFpNDRxa2tneTF5SlJkbnUweW4tSVZkcDcxdnZFREZKRGpCamNMTHJjUElGTWlPbzYtbGM2UC1iUnBqandfaUw3RGZTNkNFODAwcFVMSllfVmxtanUwVEVJRGd2cE8zQzZNdUZmUXpYcHBJRw?oc=5",
+      "summary": "Perplexity launches secure sandbox to make its AI agents secure and powerful SiliconANGLE",
+      "badge": "hot",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Perplexity",
       "title": "German regulator says Google and Perplexity must follow media laws - Cryptopolitan",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xQmg5ZXFjYU9VOWxDTmNKaDRTaEExZlA2cWdLWmlmckR3Ym10YWxfNFJ5SGZOMU1WZlNLV3QxSzd2bU9BVUw3bjBfNk0wNFIxOV9KQlJZQUNGdV9lbVJyWVJHSlF1SVFYRl9HOU5EVnBhNjB6MHJGWXVfWQ?oc=5",
       "summary": "German regulator says Google and Perplexity must follow media laws Cryptopolitan",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Blind Veteran Says Meta AI Glasses Changed His Life | Planet Tyrus - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aT200X3hSbVFiU3FrbkJRenppUzNhV2hlZUtXQVhudmQ5QTJUa1RQQkJsQnJfVy1BRXd4M3FFcEVUTVZnOHdiVVV4eFplWmp4N0NfUkpn?oc=5",
+      "summary": "Blind Veteran Says Meta AI Glasses Changed His Life | Planet Tyrus Fox News",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Lawsuit Says Meta's AI Targeted Workers With Medical Conditions for Layoffs - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcC1ta0VuVXRaUGZNYnFBUndaY1ZnaFRNRXBHWmhOZW5vcDlDSzdzV3FpdE90bGp0OFRIbHZBaTY4U2VTWnlGblNGZ2s3QzFBajN1YXp6bDY1ZmNXX05kb0VwRUhpSXRjb2FQQk1aWEJMOHRmbmZnY0t1WEQxWVlpdXJ1bkpvX29UVzluRnhXeDhHMzFSTTBUOHlJVlp3dElzTVVz?oc=5",
+      "summary": "Lawsuit Says Meta's AI Targeted Workers With Medical Conditions for Layoffs PCMag",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Sudden Stock Rebound Shows Investors Endorse AI Plans - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVhUQVhBaFMtZXVzSURjeTRCWnFTUVBGaU5KWDJkVkUyN2dFX0R6LW5qTVp3TDZCZlA3QXVRSUtTdUNteVR3bmV3MVdHZkpsNlpGZDJRdk1zVEl4MnFfLXV1dTRPWVVJcF9ZLWR5U2dZOHdOenlZNXFwRzhDTEpfRXc0MEpHUk5BTFpRSWJEek9nNHJJNTVxV2NZNFktYzlyMzFxX0NnVXgzVXVCX3R0QQ?oc=5",
+      "summary": "Meta’s Sudden Stock Rebound Shows Investors Endorse AI Plans Bloomberg.com",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -107,6 +179,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic launches free Claude for Teachers - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZ0hrSDhsTHprNnhsc0tGSDd4aGpUQ095bmhWRHp6eTlrdmVzRHdtT1RqRUxOb1lXVmhMZlNDSG5sdUlKakR6b3hWQ1RvWDVmYlpvbUNKV3NEai1zX2FWdTdPenY1SkNFenJLbHpGQlU5NTZzT2lPclZHc1pWd9IBgwFBVV95cUxPVGg3MUxmUWp1TG5xbzZyN2VQVEZtT1p6MmNhR0lOdjNvN1N2NUh3dDlfSkdYaXAwWVoxTS0weWNOTlVNWERYdkdhdnlZWkt3LVRBQ0txc3FmaWdSNERqSmxWRjNWTnF4R05LWmdaZng4aTFXXzhyeE9FWkRBM0NIdC0xdw?oc=5",
+      "summary": "Anthropic launches free Claude for Teachers The Hill",
+      "badge": "hot",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Anthropic",
       "title": "Another contender just joined the arms race over AI in schools - Chalkbeat",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVNCUzQtQlYtSTctLXNIUjAzRERaODhqcEplcFNkTTdxalZ3VUhhaFZzUFpYYUpoTDRZcGxjTzdNVXNENktfa1hRcENPQjZ2Qlo4V2NwMjA1Vnh1YVE4bU9sRTlwbUtLQkg1d1BjNk00cFpHSWNuMjJRSTk2MG5BLVdkTmtaZklNUW1FRmNvSmhqak5hOXB3aDBnZE5EUUR1YUY2ZlpBMVRTY1dpOWFwRkwzOG0?oc=5",
       "summary": "Another contender just joined the arms race over AI in schools Chalkbeat",
@@ -127,14 +207,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGw3bHY3UEZoSjM2VWU3Mzd1YWVJY3NmT18zV2tINXctT254YTkybl9FSndHUEFfaTdPeEMzaHBxNVNYZFF4SmN6V01VeG1oaUxBOHhzbWtuXzRnTFVUcmo2a3hrYWRwOFM3TlZFUlB0aTlJZjI4dEJYMkFMS0lHbDUzSlBjQ1lSRXNWMkdiOVAybUJMbTliX1hqbFFSZl9PMkJuRE5ZV2U?oc=5",
       "summary": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety politico.eu",
       "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic launches free Claude for Teachers - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZ0hrSDhsTHprNnhsc0tGSDd4aGpUQ095bmhWRHp6eTlrdmVzRHdtT1RqRUxOb1lXVmhMZlNDSG5sdUlKakR6b3hWQ1RvWDVmYlpvbUNKV3NEai1zX2FWdTdPenY1SkNFenJLbHpGQlU5NTZzT2lPclZHc1pWd9IBgwFBVV95cUxPVGg3MUxmUWp1TG5xbzZyN2VQVEZtT1p6MmNhR0lOdjNvN1N2NUh3dDlfSkdYaXAwWVoxTS0weWNOTlVNWERYdkdhdnlZWkt3LVRBQ0txc3FmaWdSNERqSmxWRjNWTnF4R05LWmdaZng4aTFXXzhyeE9FWkRBM0NIdC0xdw?oc=5",
-      "summary": "Anthropic launches free Claude for Teachers The Hill",
-      "badge": "hot",
       "date": "2026-07-14"
     },
     {
@@ -179,6 +251,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta Workers Accuse It",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Meta",
       "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenpoTkh5ZFJ1OW13VUdZRWFmQWE5MHlMQVBieFV5TTR5ZG9CWTMzcWwyaW95UjNWNmo2aEhISUxZV2Y3eDNhc2pKc0NFeHJ1TjcySExnQUs4QUlwZGhUUjdQQnZlMm9Yck9aZmhhSkVoZGJPOHBnWDVjNUtSZTBwOGVwR01SUQ?oc=5",
       "summary": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters 26 Meta employees sue,",
@@ -210,26 +290,10 @@
       "date": "2026-07-14"
     },
     {
-      "company": "Meta",
-      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
-      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
-      "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
       "company": "Anthropic",
       "title": "How Claude's values vary by model and language - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
       "summary": "How Claude's values vary by model and language Anthropic",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show - MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV04xbFRXMFBkWFJ5X3pobThNNmIwNW93RERIMTRKSEJSYThfY3JiNGU4WE5sZXRfUm1CbWVyVFJVVVJ6THEyY0FfdHBSb2lyLUtQOGk4aVRmNFNWd29odzlDbzk0emtfeWlLM2ZYOHBTSDNReXg5UUtvRE81TUJ3S2RDazhvTFN2Vm8wZkxEVEZZR1F2UUkteTJIZ3c5OWdIUFBJZjhpcWxtaHlub3fSAbMBQVVfeXFMTldHYkFfc3RVLTdKNzFPZDFiak9aV0JMN2JoSlpMdHZrejlWVzBWUTNMYlZSTG02M2RpeHV5SGtNZk83UWllRTg0NVUtaGZDY3F5TVMwRy1fd081WDM2eVNWVlU3VEZEbEs1RDFlbndKZndBY1hTQ0U2OWxkUzdKcmtFOHVCeDNnMks1R0UtQ1JaaG9PS1E1OEppemx3dzdIemNneFNDQi1SbHBMNnkxYWFUUm8?oc=5",
-      "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show MIT Technology Review",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -314,30 +378,6 @@
       "date": "2026-07-13"
     },
     {
-      "company": "Meta",
-      "title": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? - MyGolfSpy",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTBWdnlYMzRDWEtCa0tvTFlieEtvTS1YbEJMbDJYeTl2UVJJaFBjNzBJNE9pc05FMm1oMFdyZHVXNkpvVEFKbTVHUm5melpMalB3dC05NHlWandTOEVpUGY0aGd3Y0d6ODBjRU1haW1va3BXNFJyVjl4WUVZelUtTVVmai1JY1M3bUNDV1E3LUZtZlhqYzRzWFdpbldNRHlw?oc=5",
-      "summary": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? MyGolfSpy",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjMxUjZFZjYtZ3llTTNneFd0NW9relM0SVI5MnVDTTdBRy1tY2F1Q3FwUnZWYzlHOXNabU1CdnFYbEhpMlBnODZRNGlMSjNZNWlVSGV4LVZGMmxiVDdfMkQzbDdQMkpGaHNHY0xJaHFDaTV4V0RwOXVQVVByMXp3dVdWczdEVGNVR2dVQg?oc=5",
-      "summary": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning Yahoo Tech",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta abruptly rolls back feature that let people use IG photos for AI images - KRON4",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0N3MmFZQmhGOVRaWHhyWUxLMk5DeGlXemlnYlBTRnVTYUNxcnNjSWpYSDBLdkFhUUtvLWFMNGlsV3Axc3k0Tzd2N2F4U0tQOG5rUWY3UmZtQnB5QW9HeS01dFJOQlV3VGpYcnlnOGZMRE4zOE1tRFEwa0NYQXV2OUhKRXZqVjRwQU1FNXlUYVBZVTFTYm9jNDdidTYzZTk4VVY5WEVib19XdWxDNVZlNWRqTFMtX25fb3fSAb8BQVVfeXFMUHUtdVZuWmc4MUtTaTk5UXJvQThvSmNYcFpBbWh4OUprTHh1SzA2TV9zVTUtZzY1cmEyRDFKemR6MVdfMXcxTGlBWmZtMUVCMzdmbXdhV1psd3RTd2RBUnl3dFpOUVRzS2podk01MTZCR1NPMmFHZEVxNnVnQ21HbFJ0LS0xbVU5ZzN2cVNXaGoyQ3dOdzh2VkdKaVdKYmRkb1NkaHdtSFdIZnROTU5uV0pkRV9FQ05neEI1X1FrU2s?oc=5",
-      "summary": "Meta abruptly rolls back feature that let people use IG photos for AI images KRON4 Meta’s AI Detector Can’t Detect Images It Generated Itself, Report Finds Gizmodo Meta removes controversial AI featur",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
       "company": "Microsoft",
       "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
@@ -386,14 +426,6 @@
       "date": "2026-07-10"
     },
     {
-      "company": "Microsoft",
-      "title": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm9JNmc5c2FlQzM4N3ltS2pqREdJcHQxZGdla19VeUMwWTA0Z29GMy1WQzZVWnFTOHU2VEtOQWJTazc5ZUVEZk8yTmt2YjVkODFzRkVmelFNMGloRHN6WjJLZF9nX1dQc2kyU25FRmNLemxHUHdEcHZJRTJMbVdDaFVWTmF6NGh2UDBiRTBhM2NqSGNMQlN4N2R4bUtVZFd2cGxxaDNR?oc=5",
-      "summary": "Windows Central Podcast covers Copilot OS leaks and Microsoft layoffs Windows Central",
-      "badge": "watch",
-      "date": "2026-07-10"
-    },
-    {
       "company": "Perplexity",
       "title": "The AI race is shifting from bigger models to cheaper, smarter systems - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5",
@@ -434,14 +466,6 @@
       "date": "2026-07-09"
     },
     {
-      "company": "OpenAI",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
       "company": "Apple",
       "title": "Apple unveils innovative features and intelligence experiences across services",
       "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
@@ -456,22 +480,6 @@
       "summary": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost Decrypt",
       "badge": "new",
       "date": "2026-07-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejJXLXdRZFhoU2QydkNmTDhweTN1U3l6MzU1dUw5YzZWZVdSdHVJcGZrQ0lreVhzOU0tRkFuQlg1NzFLcXpMdGdHVEgtVVZlcnB1TUpxUFJKYVBpemJHVDRDY2FSQXdyeFFHVG5tWEpNRUp4NWJBM1FUM1Z5SmwtWVVySUZLN3pjZ0NqTW5LbHhubFlhejk4YmdVWWZzdVZsanNTOXlHYnpyaTlBNFA1LVg3Q1ZHWGpPcktpeE1mZXQzUTUxcGFiUHozVmRkLUU?oc=5",
-      "summary": "The 2026 World Cup is now down to 8 teams — I asked ChatGPT, Gemini and Perplexity which one will win it all Tom's Guide",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "badge": "watch",
-      "date": "2026-07-08"
     },
     {
       "company": "Apple",
@@ -519,14 +527,6 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "badge": "new",
-      "date": "2026-06-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
-      "badge": "hot",
       "date": "2026-06-30"
     },
     {
