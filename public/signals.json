@@ -1,19 +1,51 @@
 {
-  "updated": "2026-07-14T19:10:35Z",
+  "updated": "2026-07-15T01:55:13Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
     {
       "company": "OpenAI",
       "title": "How to manage AI investments in the agentic era",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "badge": "new",
       "date": "2026-07-14"
     },
@@ -26,10 +58,34 @@
       "date": "2026-07-14"
     },
     {
+      "company": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
       "company": "Anthropic",
       "title": "Introducing Claude for Teachers - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
       "summary": "Introducing Claude for Teachers Anthropic",
+      "badge": "hot",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Another contender just joined the arms race over AI in schools - Chalkbeat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVNCUzQtQlYtSTctLXNIUjAzRERaODhqcEplcFNkTTdxalZ3VUhhaFZzUFpYYUpoTDRZcGxjTzdNVXNENktfa1hRcENPQjZ2Qlo4V2NwMjA1Vnh1YVE4bU9sRTlwbUtLQkg1d1BjNk00cFpHSWNuMjJRSTk2MG5BLVdkTmtaZklNUW1FRmNvSmhqak5hOXB3aDBnZE5EUUR1YUY2ZlpBMVRTY1dpOWFwRkwzOG0?oc=5",
+      "summary": "Another contender just joined the arms race over AI in schools Chalkbeat",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches free Claude for Teachers - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZ0hrSDhsTHprNnhsc0tGSDd4aGpUQ095bmhWRHp6eTlrdmVzRHdtT1RqRUxOb1lXVmhMZlNDSG5sdUlKakR6b3hWQ1RvWDVmYlpvbUNKV3NEai1zX2FWdTdPenY1SkNFenJLbHpGQlU5NTZzT2lPclZHc1pWd9IBgwFBVV95cUxPVGg3MUxmUWp1TG5xbzZyN2VQVEZtT1p6MmNhR0lOdjNvN1N2NUh3dDlfSkdYaXAwWVoxTS0weWNOTlVNWERYdkdhdnlZWkt3LVRBQ0txc3FmaWdSNERqSmxWRjNWTnF4R05LWmdaZng4aTFXXzhyeE9FWkRBM0NIdC0xdw?oc=5",
+      "summary": "Anthropic launches free Claude for Teachers The Hill",
       "badge": "hot",
       "date": "2026-07-14"
     },
@@ -59,46 +115,6 @@
     },
     {
       "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
-      "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
-      "badge": "new",
-      "date": "2026-07-14"
-    },
-    {
-      "company": "Apple",
       "title": "Apple announces changes to iOS in Brazil",
       "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
       "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
@@ -106,10 +122,18 @@
       "date": "2026-07-14"
     },
     {
+      "company": "Perplexity",
+      "title": "German media regulator says Google's AI Overviews subject to German media law - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdaQ1pDbzBIdmxOcFZUUk9fOTNkdXNERWVJdHhyb3FFWlhOckJUN0ZwQmc0SUhpOURMSGI2OS1VVGhONVc4Zjh1WFhxc2lmQ0VXUjBQMmMzZnVROEFySHNMN3cyV21oQ0VLREd0YkZpYjNsTGJ0S0dVTy10MXJtSHk0cDV3dVJIamp0enctd2RpZWROekZF?oc=5",
+      "summary": "German media regulator says Google's AI Overviews subject to German media law Yahoo",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
       "company": "Meta",
-      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
-      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
+      "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenpoTkh5ZFJ1OW13VUdZRWFmQWE5MHlMQVBieFV5TTR5ZG9CWTMzcWwyaW95UjNWNmo2aEhISUxZV2Y3eDNhc2pKc0NFeHJ1TjcySExnQUs4QUlwZGhUUjdQQnZlMm9Yck9aZmhhSkVoZGJPOHBnWDVjNUtSZTBwOGVwR01SUQ?oc=5",
+      "summary": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs CNBC Meta lawsuit s",
       "badge": "new",
       "date": "2026-07-14"
     },
@@ -118,6 +142,14 @@
       "title": "Lorde Said What We're All Thinking About Meta's AI Glasses, And Celebs Like Kylie Jenner Could Take Note - BuzzFeed",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWhOQlVtMjdZd3l6UG1xZV8yNGM5TkNyYTdQVGNJVGJOUGx2UUlqMC1qTUdWNHdKSGlkdE9lYWs5UXZUQnpfa2h2MHFlSEtPd0c2clg2cll5dXVta091cnduUXZRT3gtNXh3bHF4dzMxZ0tkX0tDU2FGVHVrMHcxSE1BMnZheGR3bW12UlhJWWh5REFDQ3Rz?oc=5",
       "summary": "Lorde Said What We're All Thinking About Meta's AI Glasses, And Celebs Like Kylie Jenner Could Take Note BuzzFeed",
+      "badge": "new",
+      "date": "2026-07-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
+      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims Reuters",
       "badge": "new",
       "date": "2026-07-14"
     },
@@ -158,22 +190,6 @@
       "title": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUXJYdDFkLUdfcUNoaWlhZjdmSFEwaFpxSWRBZ3RQeTlZaEtPQndESGduWmk3Z1dHWWFzV3BzMGFqQVE2aUJFSWZEU1NZeXl3VEtmQ3hrem00aDJ1UzVydHlQdkZMMElLT2RBaGxndnc1c0g4TXc?oc=5",
       "summary": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America The New York Times",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmFacXVma1BoV2RmOXgwdFdpdEhlOHphVnVyWk5RRGxJYWpmM0t4d3BpUEpnRGNQbGJSTVZLeWdXdlJEZlV0QXdtRGJxMmR6SzJTN0JSUWdQMWFPemJMbnBjTUNPLThnaVFQTzMtdGQ0NEtoUUNmODdjaHZ1aWpHeWkzeXdfY2VsOWtiVU1WS2NieTQ4Umt5cnZvZl9HOFRLVVpTNXJIdXQtZUo1eGNNWDJIVjY0Z2FSMXZn?oc=5",
-      "summary": "Anthropic starts localizing Claude pricing for India, its biggest market after the US TechCrunch",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWVhRldnTDlKa3JYTVp3N0JxVnFSMlVjYlVyYzFSeklUeWZBLTNfX3ZIeDI0VXFpQWEtRTZuUjB4Z1lPX1hFMlZ4VjJybmN6WTdUYkF5eTVRZGtScWJKQnc3dlFGUExLTVV0TWNfTkZNTTBNZTFiVXpZdzI2cWY3VVdYVlIyWGNfR24zSXFYWFB5QjMyMmlkUW1fVnU2OHhzY2tCdFBVNkRIWmJ4dHc?oc=5",
-      "summary": "Washington Is Looking to Keep China From Training Its AI on US Models Bloomberg.com",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -219,14 +235,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbE1qdzVKRE1McEdDX2FUVU5JbDdFVnhiaU5fY08xNENrVEwzcEFyZ1JUdEJnUDlQOTVLcWhmZkg4ZjhDd2RoczZhUTVxU2V5WUFZNXJuTzh5Z1dHWmpabmpTblNJb2h5RnEteUxnaWFQSUxBRDBUWm8zamtBSmdCR2pFQTVNOHV5RWxnbU1yLWwzWDJXSFBPV0ZRRzNJX2ptazdBWWJBYWtuNDg?oc=5",
-      "summary": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous PC Guide",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Perplexity",
       "title": "Claude wants to hear your hardest questions about AI - afaqs!",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelloS0lrV0VQdTRtLWEtT204LXZ6RG9JMjZtNVBtM21IU1dxZjl2eVV4cGFGTVMxc3dUUEpHZVZEWmpKOG4zY3JmaWZjUFBtREVvbVR0YUhlSVc4RnBjdFNIWGlkVnVySmE1V3VnZ3cxcVBjN0s0S09oaXZQclR6b0ZITThyUUI0UXlTcEQtT2ZZUzJZdm83MGdObE55VHd6b0E?oc=5",
       "summary": "Claude wants to hear your hardest questions about AI afaqs!",
@@ -235,9 +243,41 @@
     },
     {
       "company": "Perplexity",
+      "title": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbE1qdzVKRE1McEdDX2FUVU5JbDdFVnhiaU5fY08xNENrVEwzcEFyZ1JUdEJnUDlQOTVLcWhmZkg4ZjhDd2RoczZhUTVxU2V5WUFZNXJuTzh5Z1dHWmpabmpTblNJb2h5RnEteUxnaWFQSUxBRDBUWm8zamtBSmdCR2pFQTVNOHV5RWxnbU1yLWwzWDJXSFBPV0ZRRzNJX2ptazdBWWJBYWtuNDg?oc=5",
+      "summary": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous PC Guide",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Perplexity",
       "title": "I asked ChatGPT, Perplexity, and Gemini to build me a gaming PC, and one made a big mistake - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnZXa01xM1dranRTSUlISjkxYndOYXRkR0Q5OHNsRXlqSUsxN2dXXzliS3AzQTM0SlpSYkRWRFFTa2RveTg1ZEx2TDNpaW84T0o0UDMxQW5OTjZvYlVLRU9ETjRKTHJVXy1wTmhkSWptUEQxTnYtaGRJWWVuTUEySW1yX1prclM5U1R0Nlo2bkZtMUZnTnlFU1Y1OUROb0IwLXljWmt6WnNvWFJtYl9QRURiZl9xMDBrOHc?oc=5",
       "summary": "I asked ChatGPT, Perplexity, and Gemini to build me a gaming PC, and one made a big mistake PC Guide",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDFvOGRkVG9sakZYekhBUnpfd3BrQ3RBaExCdFFUVHlWSVpQNzdxeFgtNUIySlVqYkFzWUFaRWd6aF9ZSU1NN2VJaF9Kcm9ycFUyNnF2WFFvb3gzRXRINktrOWxFYTFHWkhncEtXaFFja2tNS25iSl9YdmFBM1M5NHkzMDFmclM1LTd4SQ?oc=5",
+      "summary": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two Fortune",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjMxUjZFZjYtZ3llTTNneFd0NW9relM0SVI5MnVDTTdBRy1tY2F1Q3FwUnZWYzlHOXNabU1CdnFYbEhpMlBnODZRNGlMSjNZNWlVSGV4LVZGMmxiVDdfMkQzbDdQMkpGaHNHY0xJaHFDaTV4V0RwOXVQVVByMXp3dVdWczdEVGNVR2dVQg?oc=5",
+      "summary": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning Yahoo Tech",
+      "badge": "new",
+      "date": "2026-07-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? - MyGolfSpy",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTBWdnlYMzRDWEtCa0tvTFlieEtvTS1YbEJMbDJYeTl2UVJJaFBjNzBJNE9pc05FMm1oMFdyZHVXNkpvVEFKbTVHUm5melpMalB3dC05NHlWandTOEVpUGY0aGd3Y0d6ODBjRU1haW1va3BXNFJyVjl4WUVZelUtTVVmai1JY1M3bUNDV1E3LUZtZlhqYzRzWFdpbldNRHlw?oc=5",
+      "summary": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? MyGolfSpy",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -259,25 +299,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDFvOGRkVG9sakZYekhBUnpfd3BrQ3RBaExCdFFUVHlWSVpQNzdxeFgtNUIySlVqYkFzWUFaRWd6aF9ZSU1NN2VJaF9Kcm9ycFUyNnF2WFFvb3gzRXRINktrOWxFYTFHWkhncEtXaFFja2tNS25iSl9YdmFBM1M5NHkzMDFmclM1LTd4SQ?oc=5",
-      "summary": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two Fortune",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
       "title": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash - CBC",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkphLUZ0SDJVRlVwRzFuRVZNZHEyRy1OWVRjZndzYTdwVVMyU1BhNjlPSHpKdDJyNExIRW9yQWV5YjA3VWVrV2pWMEpVRDZJei1pWEI3c1g0NHJvSmFSWnVMdkdpMkNaRGlUel9KZVZHenBpMUpHc053a3FZdGlOX3NIemRiWVhtd1Zj?oc=5",
       "summary": "Lorde has a blunt message about AI smart glasses as Kylie Jenner faces backlash CBC",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? - MyGolfSpy",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTBWdnlYMzRDWEtCa0tvTFlieEtvTS1YbEJMbDJYeTl2UVJJaFBjNzBJNE9pc05FMm1oMFdyZHVXNkpvVEFKbTVHUm5melpMalB3dC05NHlWandTOEVpUGY0aGd3Y0d6ODBjRU1haW1va3BXNFJyVjl4WUVZelUtTVVmai1JY1M3bUNDV1E3LUZtZlhqYzRzWFdpbldNRHlw?oc=5",
-      "summary": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? MyGolfSpy",
       "badge": "new",
       "date": "2026-07-13"
     },
@@ -290,34 +314,18 @@
       "date": "2026-07-13"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjMxUjZFZjYtZ3llTTNneFd0NW9relM0SVI5MnVDTTdBRy1tY2F1Q3FwUnZWYzlHOXNabU1CdnFYbEhpMlBnODZRNGlMSjNZNWlVSGV4LVZGMmxiVDdfMkQzbDdQMkpGaHNHY0xJaHFDaTV4V0RwOXVQVVByMXp3dVdWczdEVGNVR2dVQg?oc=5",
-      "summary": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning Yahoo Tech",
+      "company": "Microsoft",
+      "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
+      "summary": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI Digital Trends",
       "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size - NOLA.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3IycUxsb2tWX0ZLUzlPX3pfRUxrNkxEcXd5X1lPcG1Ld1A1RmhYelB0Um9BOVN0ZWtteEtIeU1tZ3ZwWU5PRm9ZVlktNUk0VUhDbGg5R0RGck1kSFR5azlKVEpQQXJFa1JabmxJdFVKcmI2YTJDNGtrMzdPWXJYbFhqbW5OVnBSZTdVaUZxajh1WnowSVduNXVYTUh2aWo0Y01Cb3g5eV84NFAtTHlzT2lrSzREOVdmbmNEb0RlRkR2ZHRIdHc5MGNn0gHPAUFVX3lxTE1MNkR0c3BmWjBuQTlzY0JJaXFPUmJfNDVKcFlEcmZtbjJicW9uNHMxQ2F6U1lJUzlER0NPSGR4QmttUnVkVi01QVdKSWpFanVsOUFidHd3dFBvbVdHd01wd2lXWkVTRlV3Uy1BUC1kQjNoS1BpSjhJREtKVThOS21mR1B5MGo3Mno2enlRYTlvbDlHVjZkb3pMMmpZdWFRV0FnWFd0ck1tb1ItRHM4YkhyQ2pfQzF6Q3l6eVlVZTU5dXdIOS1tU1dRSEpIQndXOA?oc=5",
-      "summary": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size NOLA.com",
-      "badge": "new",
-      "date": "2026-07-13"
+      "date": "2026-07-12"
     },
     {
       "company": "Microsoft",
       "title": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWtGRjJqa2RoS3hXeFdjUU9XaTJFODUtMXUxNUtsbkw5MjRwNlJMdmFFVWloUEM2eWxEcHFMTTQ4eGlEZ1R3SE9HWmRUX2xWUE03Q21OSEk0VVZaU1RJZlowWDZzU29pd1RiaXRRUV9vdHZpMWNmSkdHODdmemZnY3RKMmoxbkFvMmhWQU5vNVZKTmlaaTVlSFM0Z1JxN1BFbTdDdVJ3TnFCWDNqT09xc1VyLTVBWTU5UmJtMm1Pd0NwY05tRV9mRU9hMi1jUEF3TkIw?oc=5",
       "summary": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself Windows Latest",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
-      "summary": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI Digital Trends",
       "badge": "new",
       "date": "2026-07-12"
     },
@@ -490,14 +498,6 @@
       "date": "2026-07-07"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity is building a secret weapon to join the AI coding wars - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZEZmpBWjZRU2ZqN3FpWnhEYUIwZDNwUG1ob2FMMWkxOTJ1Vkt5NUR0dFVxTmp2QU5HRlp4WkVYWkVqcjlTcjhJajJwNXQ1cGxyOC15eVFKSm5OelFsX0llV3FNWHZtSkFsVDBlbGNuTXNmTm1KMDBmQVZoUUxvM3ZoM1JlaXU2ak9uX0twc1gwYy1DVzdHSmJYRFNvTEVq?oc=5",
-      "summary": "Perplexity is building a secret weapon to join the AI coding wars Business Insider",
-      "badge": "new",
-      "date": "2026-07-07"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in June 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
@@ -611,9 +611,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - cnet.com",
+      "title": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws - CNET",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHpOUTNRbWQ1dHJoU1UzWndCeWFDYWxmZjhBMG5jUmYwR2Zfcy1mWXZVQmxJOU9PenJQLXVGWVNMWldmTzNEbWphc3B0RmliV2RQUERLdFIwZm1Xcy05aE41cW9iZ25neUtVZEtJRDc0d2o5MVduRi1qYzBmd3NSOVo5ZEUtaXp3MkZCTXBoWXpNREtOXzBJ?oc=5",
-      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws cnet.com",
+      "summary": "Amazon Ring Sued for Facial Recognition Technology: Here's Why It May Violate Privacy Laws CNET",
       "badge": "new",
       "date": "2026-06-03"
     },
