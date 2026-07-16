@@ -1,12 +1,44 @@
 {
-  "updated": "2026-07-16T13:38:45Z",
+  "updated": "2026-07-16T19:02:08Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "badge": "watch",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
     {
       "company": "Anthropic",
       "title": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJQT1JGSHNrRUxZWklhbkJmaklfbWJNWW9kaHpzSEwtQjZnb2tPTVhRLVUxcHNYbW91NFdyZzRteVBwNHdOTjFOcDFXcEtsLUloS2NValhlNENsYVpEWTYxYXhkb0t1cE81bUQ1SFRsRFYyV3ZVR3h3enhXOXBXV05pVXY?oc=5",
       "summary": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead Financial Times",
       "badge": "hot",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Here's Why Anthropic Is Pushing States to Regulate AI Faster - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDdTNXVvMUtsZVlJamNiSlhvREI1WTBPcE1HRjljZ2RRd09vU041c0VJWW1Gd0V2UXI5U3RtZkE5QWhkR0hhMnlNQkxjbWlBcGNrbHYxRXBkN2RMZ3VCOGtXQ0wxaEQzY3g0RW0zMzR5Yk9FMVQ0aWppZkZJazcyR3k5c0xBVzRrdWc?oc=5",
+      "summary": "Here's Why Anthropic Is Pushing States to Regulate AI Faster WIRED",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
+      "summary": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives WSJ",
+      "badge": "new",
       "date": "2026-07-16"
     },
     {
@@ -30,6 +62,22 @@
       "title": "Anthropic CEO gives $1 million to super PAC amid battle of AI big-money groups - Politico",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVNxYzJJbUZNRzh6NFdVaWlUZHhkTWdSNkhoY0tRbTVXa2tRVHBVOE1YdktnTk1KMGE0aWs5bl9pdlBWOGlyUUxEU1lrUU1kbGVlaktsMFJfUnYtenU0OWN4dW9xMjZ5R09WWm1xdWFlNGRVeU0xT05UN0ZHVEtnUlZGa21UNTVWTjBWZVUzR0xfM3R0QUxaZm5JYjU4V19TalV2UHNVU0VqYkdZT0JRN1ZhRFFVdkZmSmxmNXMxTXZybHNY?oc=5",
       "summary": "Anthropic CEO gives $1 million to super PAC amid battle of AI big-money groups Politico",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Google",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "summary": "Connected apps rendering",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Google",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -75,17 +123,17 @@
     },
     {
       "company": "Meta",
-      "title": "Teens talking to Meta AI about suicide will trigger alert - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84alg1UkpqeWViZnl3QnF2MU1hRkx2bTlVeVZWRWJVMzNZVmVBX25GVzZnTk5lbTdqX01qRjF6cDF1dVo2LUloaEM0UDYxUUxEUm5DR2twM2c1WnhLYmpIdjZISTNzZFRka1pJazAxOGtNLUo4Wlh2cw?oc=5",
-      "summary": "Teens talking to Meta AI about suicide will trigger alert Mashable",
+      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5",
+      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta AI suicide discussions with teens will trigger parental alert Mashable Meta says it will alert parents if",
       "badge": "new",
       "date": "2026-07-16"
     },
     {
       "company": "Meta",
-      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5",
-      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store",
+      "title": "Teens talking to Meta AI about suicide will trigger alert - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84alg1UkpqeWViZnl3QnF2MU1hRkx2bTlVeVZWRWJVMzNZVmVBX25GVzZnTk5lbTdqX01qRjF6cDF1dVo2LUloaEM0UDYxUUxEUm5DR2twM2c1WnhLYmpIdjZISTNzZFRka1pJazAxOGtNLUo4Wlh2cw?oc=5",
+      "summary": "Teens talking to Meta AI about suicide will trigger alert Mashable",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -143,22 +191,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhGcFEtcFZuMnlkS2tQMzA3ZFpSbEhwVHRUdTdDeXNfRFhCMzNKZGVOTDBSWUhWbzBJWU0xckdLZGtDQmNQQk41dHBkLWJlYThBOThXRFFfdndtczBRVElscndfZ196RzktTUVGTm50cG9sd25FcDV6OWl4Z0RSbF8weEhNdE1IOFhMQWJ6LWMxNkthcVpXRjFCRGhfWWtQcDJXZXU1NUF5VC1z0gG0AUFVX3lxTE9UTm5iRnJhenAwaGFaLTN1WXhSTHk0bUJNUElQZnZneGd3UFdsU0QwVl8xRi0ybi1nY0Z4THJMLXFESWgxX01mTUZUZWt2T3JybXBGekJDXzdXcjhHVFJjYThsdG85MFZTLTN6akc5TGdmZkdaa2lSNVRYSWtNNXI4MVlsanNKYklFX3lVUGdreU53LV9tZjM1R2ZWR192OXBtVng2YzFDdmRrT0ljSk5fdjlUMQ?oc=5",
       "summary": "Anthropic Launches Free Claude AI For Teachers; Here's Who Is Eligible NDTV",
       "badge": "hot",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmoxVDhqZ1NBaXFHcUJtX3plQ0t6dDl4dGk2SXZjVk42RVJGR1BVbWJCei0zMWtVUzI3WTRxSGJYRk1jSTAyY0hRSjJBSGJIcG1BMlZkbmRVcFl5UVNFYXB6RW1vZlNJOV96YkhTVXl6SWlVZUhUVzBUVXFsQ1dwQmFzUGRqcWl3T0hoblpDR2ZiWmpHWkV3Z1RVVWQyWl9yQ280UDNaYm1rTzhGUDhBQ3Q1dHNDdw?oc=5",
-      "summary": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjhJWWR3ejJUNmp4Q1ZfU1l2ZXBaOUgwUXU5S3BBWU5KaVc0WF9BdnBqOXV3dWdMODdGTWpaZEN1YUctOXV4T005NXFra25RVTh0aC00NWFCMFNwN0tKY2hIYXc0bTBVcXBDUWduYkpTT0JpeVB2LW9XRmVMeE1XMHB0cnFyY1UyRGRKSWRhR2ljaHRod2IxU3YwZ3hKYnR2RzJyS3Y3dms5c1pBbWlvYlFXMVlzMWRvQ2ZtWC1VSVhQbWc?oc=5",
-      "summary": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models TechCrunch",
-      "badge": "new",
       "date": "2026-07-15"
     },
     {
@@ -221,7 +253,7 @@
       "company": "Meta",
       "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave - AP News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRU9KU1hEeHRRaFdZQThmR0xFQXlORHNJOVcxb0NtTFJSWUZDVGhYUE8wMWhOeG9IVkVqYmkwRW1DODVIQlVqX3BpT1ZaQ3llNklUa0N6dHhVVWVrWkxpQ1lxQ2RXMEVhRTQ5Yk04bmNKV25wX2N0cUhJVFUwSzBfdWhPZmsyM0haaWlZTnRIRVFINUhPeHlzT2JzUl9MbUY0WkFWeUJDVQ?oc=5",
-      "summary": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave AP News Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta use",
+      "summary": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave AP News Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta acc",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -458,22 +490,6 @@
       "date": "2026-07-09"
     },
     {
-      "company": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "badge": "new",
-      "date": "2026-07-09"
-    },
-    {
       "company": "Apple",
       "title": "Apple unveils innovative features and intelligence experiences across services",
       "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
@@ -562,28 +578,12 @@
       "date": "2026-06-17"
     },
     {
-      "company": "Google",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "badge": "new",
-      "date": "2026-06-15"
-    },
-    {
       "company": "Amazon",
       "title": "PodCast Amazon's Jeff Bezos Returns Ring | Project Prometheus AI ​​That Wants Revolutionize Hardware John Krasinski (tXkD2o5xUv) - Fathom Journal",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VcExoR0JlRGU0VS1FOFMxdUZzaTlKS21FamkyaHpjMjNqQUFiWEJJVlpDbU5LLTRvZzYwYjJ2VnZWakhWc1ZqaDEweHJDYU5GV1d4dG5PVm5GOHVLcEhxbTlEcl8?oc=5",
       "summary": "PodCast Amazon's Jeff Bezos Returns Ring | Project Prometheus AI ​​That Wants Revolutionize Hardware John Krasinski (tXkD2o5xUv) Fathom Journal",
       "badge": "new",
       "date": "2026-06-15"
-    },
-    {
-      "company": "Google",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "badge": "new",
-      "date": "2026-06-11"
     },
     {
       "company": "Amazon",
