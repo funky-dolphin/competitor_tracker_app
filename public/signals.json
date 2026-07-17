@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-16T19:02:08Z",
+  "updated": "2026-07-17T02:08:32Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta to use AI to protect minors online. Here's how - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3l1ZktycUp1Q1dxMEJlLTZMMzJWdG9jeGdXbTBybnNENXBsV2xBMXJHdUxuZW0ySUJKTTRPVTVHZnQ3U1VoV25fX3VfdmtLVGl2cDdvVnVwNjZ6VnU5RXNxLUIyZXQzLUNBbDFQYTlpbU16bzBhMTFvTXJ6YWlaWERR0gGKAUFVX3lxTE9qMkZ1VldUVm5ReHUzR2JsVkxJeDlLcFRVWEl6ei1GVDZhRlVENjdlVmV3QzBxOFFWZVExSk9KOVNGV2hJd2wxVC15WHV0N3d6Q3JpbXkyaHhtMXZRTHlEeGtOT3diZ3hnVldiVnZETzJ2NU56bWQzc0stYmNHRHhMUWgydFRuVVVWdw?oc=5",
+      "summary": "Meta to use AI to protect minors online. Here's how NBC Bay Area",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
     {
       "company": "OpenAI",
       "title": "Why teens deserve access to safe AI",
@@ -19,18 +67,18 @@
     },
     {
       "company": "Anthropic",
-      "title": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJQT1JGSHNrRUxZWklhbkJmaklfbWJNWW9kaHpzSEwtQjZnb2tPTVhRLVUxcHNYbW91NFdyZzRteVBwNHdOTjFOcDFXcEtsLUloS2NValhlNENsYVpEWTYxYXhkb0t1cE81bUQ1SFRsRFYyV3ZVR3h3enhXOXBXV05pVXY?oc=5",
-      "summary": "Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead Financial Times",
-      "badge": "hot",
+      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5",
+      "summary": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' CNBC",
+      "badge": "new",
       "date": "2026-07-16"
     },
     {
       "company": "Anthropic",
-      "title": "Here's Why Anthropic Is Pushing States to Regulate AI Faster - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDdTNXVvMUtsZVlJamNiSlhvREI1WTBPcE1HRjljZ2RRd09vU041c0VJWW1Gd0V2UXI5U3RtZkE5QWhkR0hhMnlNQkxjbWlBcGNrbHYxRXBkN2RMZ3VCOGtXQ0wxaEQzY3g0RW0zMzR5Yk9FMVQ0aWppZkZJazcyR3k5c0xBVzRrdWc?oc=5",
-      "summary": "Here's Why Anthropic Is Pushing States to Regulate AI Faster WIRED",
-      "badge": "new",
+      "title": "Chinese AI start-up Moonshot launches model challenging Anthropic’s lead - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJQT1JGSHNrRUxZWklhbkJmaklfbWJNWW9kaHpzSEwtQjZnb2tPTVhRLVUxcHNYbW91NFdyZzRteVBwNHdOTjFOcDFXcEtsLUloS2NValhlNENsYVpEWTYxYXhkb0t1cE81bUQ1SFRsRFYyV3ZVR3h3enhXOXBXV05pVXY?oc=5",
+      "summary": "Chinese AI start-up Moonshot launches model challenging Anthropic’s lead Financial Times",
+      "badge": "hot",
       "date": "2026-07-16"
     },
     {
@@ -38,6 +86,22 @@
       "title": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
       "summary": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives WSJ",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon - Politico",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUVvVy1fTjhjanNmNlFRNU41ZGRzQ1JRYzZHbGx2RHJ6a3FCdlJSelZKNWh2SzJKY3N5YVotX19rLTEwaXpsTk9FV3Q5LXdRc25uV0ZFMUowU1FzXzRHYWwzYTFrUXFFaXRyeGU0alQySkxvRGdPTERyb2o3LUdxSFBGSHBnTG1ReG52ekozMW85T3dYUVVfdHNtM1FkcDA4dUc0QmdwWnpGSVNGMnpZekZ4VjJpakZmN1pZY3p2TEZpc3J5bVh5ZjFXdXY?oc=5",
+      "summary": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon Politico",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Here's Why Anthropic Is Pushing States to Regulate AI Faster - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDdTNXVvMUtsZVlJamNiSlhvREI1WTBPcE1HRjljZ2RRd09vU041c0VJWW1Gd0V2UXI5U3RtZkE5QWhkR0hhMnlNQkxjbWlBcGNrbHYxRXBkN2RMZ3VCOGtXQ0wxaEQzY3g0RW0zMzR5Yk9FMVQ0aWppZkZJazcyR3k5c0xBVzRrdWc?oc=5",
+      "summary": "Here's Why Anthropic Is Pushing States to Regulate AI Faster WIRED",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -82,42 +146,10 @@
       "date": "2026-07-16"
     },
     {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "company": "Perplexity",
+      "title": "Can Ethereum Hit $12,000? Arthur Hayes Buys $2.48M as Perplexity AI Reveals Bullish Prediction - CCN.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUk9zNmwydXVvWVVEOHJHZkdEemprVWt3b1Z6OUVzUHBkejdzYTdQcXMwa1dkRktud3NNRDE1RDBkcXJwdFNVakktSU51cWZIOG9GTnVKQTU1OWExUWFUaXQxNTEwTVhpVVBhUHlxb29RZG8zdVBXblVlWkZabDN6aHpoQTFUN0V3M1E?oc=5",
+      "summary": "Can Ethereum Hit $12,000? Arthur Hayes Buys $2.48M as Perplexity AI Reveals Bullish Prediction CCN.com",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -125,7 +157,7 @@
       "company": "Meta",
       "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5",
-      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta AI suicide discussions with teens will trigger parental alert Mashable Meta says it will alert parents if",
+      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot TechCrunch Teens talk",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -175,22 +207,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMmdQUDFHY0FnQXJQclVJNHdFbmt1M25LREN2dXB0VjF6Nmt6RHV3YVVvb2dTZzhqYWtSd0JDZ0M5ejEwbXZYUHphWEJPaWdERG80WTh5d1hkbFZIazlmdENjZmhQSF95cS1tS1N6XzB4ekRhb2FfSXZ1eWx5RmPSAYQBQVVfeXFMT2FQMi0zc0hGQjJ4Vk9QYUxCZWRvWW1xUXJEM3NwejVWUjAtRXBkN3g2ZnhIMGkxY0dLRFV3bjk2akg2VEJycV9vQk5Vdmx0OHpJanJrUHFDb0RPNlVKSEptSVRZQW8zbkkta3E3Ty16OXV2X205dEM0bm1VclJ0aUg1RHJV?oc=5",
       "summary": "Anthropic moves closer to mega-IPO as bankers line up investor meetings CNBC",
       "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5",
-      "summary": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip WSJ",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Launches Free Claude AI For Teachers; Here's Who Is Eligible - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhGcFEtcFZuMnlkS2tQMzA3ZFpSbEhwVHRUdTdDeXNfRFhCMzNKZGVOTDBSWUhWbzBJWU0xckdLZGtDQmNQQk41dHBkLWJlYThBOThXRFFfdndtczBRVElscndfZ196RzktTUVGTm50cG9sd25FcDV6OWl4Z0RSbF8weEhNdE1IOFhMQWJ6LWMxNkthcVpXRjFCRGhfWWtQcDJXZXU1NUF5VC1z0gG0AUFVX3lxTE9UTm5iRnJhenAwaGFaLTN1WXhSTHk0bUJNUElQZnZneGd3UFdsU0QwVl8xRi0ybi1nY0Z4THJMLXFESWgxX01mTUZUZWt2T3JybXBGekJDXzdXcjhHVFJjYThsdG85MFZTLTN6akc5TGdmZkdaa2lSNVRYSWtNNXI4MVlsanNKYklFX3lVUGdreU53LV9tZjM1R2ZWR192OXBtVng2YzFDdmRrT0ljSk5fdjlUMQ?oc=5",
-      "summary": "Anthropic Launches Free Claude AI For Teachers; Here's Who Is Eligible NDTV",
-      "badge": "hot",
       "date": "2026-07-15"
     },
     {
@@ -253,7 +269,15 @@
       "company": "Meta",
       "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave - AP News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRU9KU1hEeHRRaFdZQThmR0xFQXlORHNJOVcxb0NtTFJSWUZDVGhYUE8wMWhOeG9IVkVqYmkwRW1DODVIQlVqX3BpT1ZaQ3llNklUa0N6dHhVVWVrWkxpQ1lxQ2RXMEVhRTQ5Yk04bmNKV25wX2N0cUhJVFUwSzBfdWhPZmsyM0haaWlZTnRIRVFINUhPeHlzT2JzUl9MbUY0WkFWeUJDVQ?oc=5",
-      "summary": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave AP News Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta acc",
+      "summary": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave AP News Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta use",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Meta",
+      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026 - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1YzdEFIaHdhTC0yaDJqTXk3MzNZS2JLYTl3aUJfU1hQQUFxVXdDNWptdVZZRzZrd2t1M2NSX1RSaXo0dnlvY2dJcnd4c1FTLVk0NTBPRFo4R1g4T0JUbzRLUEJMRF9lbDg1dnpzRzA3OENuXzJWcGx1TlJBb0VCRzU5eGxDcDZLcUVGV2ZSQlJNX0drUklJZGRnOEpaT3oycVZXbWNKQVF0dzg2Q3pvd2d1eWZ0M29EOERBT2JjRjRseUU?oc=5",
+      "summary": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026 VentureBeat",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -275,14 +299,6 @@
     },
     {
       "company": "Meta",
-      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026 - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1YzdEFIaHdhTC0yaDJqTXk3MzNZS2JLYTl3aUJfU1hQQUFxVXdDNWptdVZZRzZrd2t1M2NSX1RSaXo0dnlvY2dJcnd4c1FTLVk0NTBPRFo4R1g4T0JUbzRLUEJMRF9lbDg1dnpzRzA3OENuXzJWcGx1TlJBb0VCRzU5eGxDcDZLcUVGV2ZSQlJNX0drUklJZGRnOEpaT3oycVZXbWNKQVF0dzg2Q3pvd2d1eWZ0M29EOERBT2JjRjRseUU?oc=5",
-      "summary": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026 VentureBeat",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Meta",
       "title": "Lawsuit Says Meta's AI Targeted Workers With Medical Conditions for Layoffs - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcC1ta0VuVXRaUGZNYnFBUndaY1ZnaFRNRXBHWmhOZW5vcDlDSzdzV3FpdE90bGp0OFRIbHZBaTY4U2VTWnlGblNGZ2s3QzFBajN1YXp6bDY1ZmNXX05kb0VwRUhpSXRjb2FQQk1aWEJMOHRmbmZnY0t1WEQxWVlpdXJ1bkpvX29UVzluRnhXeDhHMzFSTTBUOHlJVlp3dElzTVVz?oc=5",
       "summary": "Lawsuit Says Meta's AI Targeted Workers With Medical Conditions for Layoffs PCMag",
@@ -294,14 +310,6 @@
       "title": "The American Council of the Blind to Distribute Ray-Ban Meta AI Glasses to Blind Veterans in St. Louis on July 27 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSlVCZDNBSzBtZUxrNU0wT2tBcVllMFgxRGN1OXZoWGpnaF9FT24xTktDNXpYVzU0RTQ1ajBEbnNLdjJyeXpaWF95ZmpnTVRZcXpjUzJGY0tEUzJDZWZlYVVzM1lPM05tcmEtM21odXBxNEh0NXhMSWdNcmhHenU0M0I4QlZubDJseDR2R3hKdUhhbTgxUnp0eEdGSGxUNXQzMFgxVlI3MXBkSGhPc3o5M1F5dGRHSUROay1fdGpOT2JkcFFJVnZET1FNeFRLQzdEcUo2QTRmRGxtWFk4eXNKenlaelotUG9yLUttdmtZU0RLRDhrdldnLThqYVA?oc=5",
       "summary": "The American Council of the Blind to Distribute Ray-Ban Meta AI Glasses to Blind Veterans in St. Louis on July 27 PR Newswire",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Blind Veteran Says Meta AI Glasses Changed His Life | Planet Tyrus - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aT200X3hSbVFiU3FrbkJRenppUzNhV2hlZUtXQVhudmQ5QTJUa1RQQkJsQnJfVy1BRXd4M3FFcEVUTVZnOHdiVVV4eFplWmp4N0NfUkpn?oc=5",
-      "summary": "Blind Veteran Says Meta AI Glasses Changed His Life | Planet Tyrus Fox News",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -462,14 +470,6 @@
       "title": "Getting started with ChatGPT",
       "url": "https://openai.com/academy/getting-started",
       "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "badge": "new",
-      "date": "2026-07-10"
-    },
-    {
-      "company": "Perplexity",
-      "title": "The AI race is shifting from bigger models to cheaper, smarter systems - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5",
-      "summary": "The AI race is shifting from bigger models to cheaper, smarter systems CNBC",
       "badge": "new",
       "date": "2026-07-10"
     },
