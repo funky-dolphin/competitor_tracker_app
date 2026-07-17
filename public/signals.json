@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:08:32Z",
+  "updated": "2026-07-17T08:00:26Z",
   "signals": [
     {
       "company": "Apple",
@@ -38,6 +38,14 @@
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
       "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Perplexity",
+      "title": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXk2RWF0OWhhNndEb3E3Y2ZEVUxsNFpOTVU1d0dZSWduMlRBZ240NmtpUlk2b0hneDdNOTNKTDhjREY4Z0MzMkNQWDJ5dmEzdjlwV0pOMDM3VDF1aEw5ZmtxdGMzSU1RaEZ4UmpaWGMzTFRPQ24wODhMN2dQaElkRXU5YWo4ZkRCdkRPT3M2ejREc1V1OWRrRGlueEJmRlU2SEtLQlFZN0hJUjJLbGkzQmlUT0ZmSjdPR0lzRFl3?oc=5",
+      "summary": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning Tom's Guide",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -83,9 +91,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
-      "summary": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives WSJ",
+      "title": "For Software Engineers, the AI Reckoning Is Already Here - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFBJZXNvd0pWdVB3SGYxbjFRNVFTQXN3Wk5zYUV4dm05U0Y5NWVxTjdXMHN1X2F6WG43Q1dfd0RqNm1JY2JFTUk0RW9saXdBbzF0RGlOQVFfaVFJWlNudjdiVi1yempDQlJraGE4a09pbURMT2ZiZzNjdkxtSGZ1ZkVHOHRQMklOa1cwVkE0TmpFZWZXUUw1bXFmUjdXMzN5cmFwREtDVlJRWVZIOTdybW5n?oc=5",
+      "summary": "For Software Engineers, the AI Reckoning Is Already Here Bloomberg.com",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -94,6 +102,14 @@
       "title": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon - Politico",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUVvVy1fTjhjanNmNlFRNU41ZGRzQ1JRYzZHbGx2RHJ6a3FCdlJSelZKNWh2SzJKY3N5YVotX19rLTEwaXpsTk9FV3Q5LXdRc25uV0ZFMUowU1FzXzRHYWwzYTFrUXFFaXRyeGU0alQySkxvRGdPTERyb2o3LUdxSFBGSHBnTG1ReG52ekozMW85T3dYUVVfdHNtM1FkcDA4dUc0QmdwWnpGSVNGMnpZekZ4VjJpakZmN1pZY3p2TEZpc3J5bVh5ZjFXdXY?oc=5",
       "summary": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon Politico",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
+      "summary": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives WSJ",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -157,7 +173,15 @@
       "company": "Meta",
       "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5",
-      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot TechCrunch Teens talk",
+      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot TechCrunch Meta says ",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Oversight Board finds top AI models less likely to criticize repressive regimes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3JjU0pFR29uUnJyY09HcDVOMktVbzRDQlFXTmJBcWo0SThRVFBvMURqUkZtMmtFUFI2M3ZfSWVuaG12YTB0eE1Cc2JpajNQTjA4bV9nUW1iZzE5SjZ6Zng1Qzk4RjlOanVSLWItd0RDM0hwRng5WFZTdUdJcEZ4cXBjQ3NHOTBZdlRnUTVmVE5fXzljMkQ5UE52Z1FkTXVSWldZelRRcXZ4SktDU3VXaHJaeDFLR2NjbXc?oc=5",
+      "summary": "Meta Oversight Board finds top AI models less likely to criticize repressive regimes Reuters",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -202,18 +226,18 @@
       "date": "2026-07-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMmdQUDFHY0FnQXJQclVJNHdFbmt1M25LREN2dXB0VjF6Nmt6RHV3YVVvb2dTZzhqYWtSd0JDZ0M5ejEwbXZYUHphWEJPaWdERG80WTh5d1hkbFZIazlmdENjZmhQSF95cS1tS1N6XzB4ekRhb2FfSXZ1eWx5RmPSAYQBQVVfeXFMT2FQMi0zc0hGQjJ4Vk9QYUxCZWRvWW1xUXJEM3NwejVWUjAtRXBkN3g2ZnhIMGkxY0dLRFV3bjk2akg2VEJycV9vQk5Vdmx0OHpJanJrUHFDb0RPNlVKSEptSVRZQW8zbkkta3E3Ty16OXV2X205dEM0bm1VclJ0aUg1RHJV?oc=5",
-      "summary": "Anthropic moves closer to mega-IPO as bankers line up investor meetings CNBC",
+      "company": "Microsoft",
+      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejRVTlRQbTBrUG1PelJpUTRjTjhnTlBiRDBGa1JvV2M1eEUyWHpFWnR5UGtyUjR2TEczTG8wQ0ZtRzk1cGVleE9ZUGVWeXB2Y0lQLWZqNFBtVDNqb2pEcUVpRl9QNXJZVzBwVl9rLUtTNTlLeHdCWXBRbmpFbVZoeC01QjhjXy1DeTMzSHVuTHdPNVF6MnRrcGhVdHlOODVUZk1lSjQwN3NBSk5PTWlUcGxBdkFCV0FKc0E?oc=5",
+      "summary": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot CNBC",
       "badge": "new",
       "date": "2026-07-15"
     },
     {
       "company": "Microsoft",
-      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejRVTlRQbTBrUG1PelJpUTRjTjhnTlBiRDBGa1JvV2M1eEUyWHpFWnR5UGtyUjR2TEczTG8wQ0ZtRzk1cGVleE9ZUGVWeXB2Y0lQLWZqNFBtVDNqb2pEcUVpRl9QNXJZVzBwVl9rLUtTNTlLeHdCWXBRbmpFbVZoeC01QjhjXy1DeTMzSHVuTHdPNVF6MnRrcGhVdHlOODVUZk1lSjQwN3NBSk5PTWlUcGxBdkFCV0FKc0E?oc=5",
-      "summary": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot CNBC",
+      "title": "From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcjRwRV9xQnZMWGdhV0FqYlAwRE45aE5oME5pNkNiQ25NRVpJZ0wxVmNWdU1pekY4RU5VbERjdmZkeERKTGdNT3VPX0hYR0hmcl9fdVlFWHluaU1TbGJmWlVpeVhSbzlEbnFLUzBOOGtWTXVRZTY1dXQyajlYSUphcXJnTHo0emY4RE1sYUtEQWFXWHVYWGdsNGx4SmNCSDRoWlVXbkVacTA0WlBYX2R0dmFIQVVhNXlCVE9mcXl4N25xNDBIckU0aDBn?oc=5",
+      "summary": "From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service Microsoft",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -283,6 +307,14 @@
     },
     {
       "company": "Meta",
+      "title": "Better Artificial Intelligence (AI) Stock: Alphabet Versus Meta Platforms - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3pyaVJNaFVoc3c1c0xnOGNZaXBDdUhTVFlKcUpJR3REbDd5SFgyQ2NaWVNLYWJocGF1STFWUDQxenF2V2RKdFVUQlNxR0w2UzZqcThZZTZJSGdHNU13N0NzQ3UyaHlkTDhONTV5QnpGNjRNcEo1ekFFV1I2N0Z1R3JnRVhLcXd6eGx0UlhwVDVfWDA?oc=5",
+      "summary": "Better Artificial Intelligence (AI) Stock: Alphabet Versus Meta Platforms The Motley Fool",
+      "badge": "new",
+      "date": "2026-07-15"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave - HR Dive",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2RqbVdwd2hmOGJ4U0tiUkF0d1VCM2xRb2c2aDV6ZkgwOXZiT3g5X3B4THFKMmJQaE9HM09QbHdFQUdwQWhCeDBURFUwN05xcHdCRUk5aFJfTjRIQkVuNFFpbjd0WkNwaFo1NmNoQUhaLVcyU1pLc3RPOEVpcm9kTDRlTl9GdEl6TFdiUmFnOUp0dTF4dUxvWHdSbm54REZrcXdHTzFJa2JvMFFqQlE?oc=5",
       "summary": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave HR Dive",
@@ -294,22 +326,6 @@
       "title": "Lawsuit accuses Meta of using AI to target workers for layoffs who took medical and maternity leave - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUdrYUJXbEdlVkZNYi04MDdDZGRNalJXckMxTmxKUEN1dGw5d1ItSzlxd2JreEZza2hpOE91WFJ0LWM2MG1sUDRBSlpNMzh4REVRaHNkZWZVa2dJTUd0cGtHSkFzd2lhQmZlRVZmRXI5N2wtazJITFljRFo5Y2JKOUk3bFQ0VEhhbmRlb2YyZl9qd0w4NzlQWjBzU1NtZnc2VUVwbNIBqgFBVV95cUxQRGFxVS1mQ3hfaWhST2pQaC1Iano5Q1dqeUxfQjBkZHVHc2FnMGduN3ZnV19tZEFYcFNGMEF5RzdiWDRTVU9VTms2N1B1aTdfbzRienFyNXQtaUQtRlJ0bFhDdlcxa3lHLUFDeS1rZm40U19CZmI2Mktnd2xnWU50akZLMGFCWGMzV2VVY3NhYk84QzlyZEJMMXl4NnprbnVTLWhHc2tmMmFCQQ?oc=5",
       "summary": "Lawsuit accuses Meta of using AI to target workers for layoffs who took medical and maternity leave The Mercury News",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Lawsuit Says Meta's AI Targeted Workers With Medical Conditions for Layoffs - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcC1ta0VuVXRaUGZNYnFBUndaY1ZnaFRNRXBHWmhOZW5vcDlDSzdzV3FpdE90bGp0OFRIbHZBaTY4U2VTWnlGblNGZ2s3QzFBajN1YXp6bDY1ZmNXX05kb0VwRUhpSXRjb2FQQk1aWEJMOHRmbmZnY0t1WEQxWVlpdXJ1bkpvX29UVzluRnhXeDhHMzFSTTBUOHlJVlp3dElzTVVz?oc=5",
-      "summary": "Lawsuit Says Meta's AI Targeted Workers With Medical Conditions for Layoffs PCMag",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Meta",
-      "title": "The American Council of the Blind to Distribute Ray-Ban Meta AI Glasses to Blind Veterans in St. Louis on July 27 - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSlVCZDNBSzBtZUxrNU0wT2tBcVllMFgxRGN1OXZoWGpnaF9FT24xTktDNXpYVzU0RTQ1ajBEbnNLdjJyeXpaWF95ZmpnTVRZcXpjUzJGY0tEUzJDZWZlYVVzM1lPM05tcmEtM21odXBxNEh0NXhMSWdNcmhHenU0M0I4QlZubDJseDR2R3hKdUhhbTgxUnp0eEdGSGxUNXQzMFgxVlI3MXBkSGhPc3o5M1F5dGRHSUROay1fdGpOT2JkcFFJVnZET1FNeFRLQzdEcUo2QTRmRGxtWFk4eXNKenlaelotUG9yLUttdmtZU0RLRDhrdldnLThqYVA?oc=5",
-      "summary": "The American Council of the Blind to Distribute Ray-Ban Meta AI Glasses to Blind Veterans in St. Louis on July 27 PR Newswire",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -438,22 +454,6 @@
       "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
       "summary": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI Digital Trends",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWtGRjJqa2RoS3hXeFdjUU9XaTJFODUtMXUxNUtsbkw5MjRwNlJMdmFFVWloUEM2eWxEcHFMTTQ4eGlEZ1R3SE9HWmRUX2xWUE03Q21OSEk0VVZaU1RJZlowWDZzU29pd1RiaXRRUV9vdHZpMWNmSkdHODdmemZnY3RKMmoxbkFvMmhWQU5vNVZKTmlaaTVlSFM0Z1JxN1BFbTdDdVJ3TnFCWDNqT09xc1VyLTVBWTU5UmJtMm1Pd0NwY05tRV9mRU9hMi1jUEF3TkIw?oc=5",
-      "summary": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself Windows Latest",
-      "badge": "new",
-      "date": "2026-07-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUd1T1VqMmRlUmFIaVROSmtfX244RTZ0MVUwWVR3Tm9iLVhMLWlBbDFVdEpiejVJUl9acEJnaTFwc2dudjNvNklRVVlqczdnRDhxNWltaE9Ka0JPYUZmakJIQWRfeGpQRTI1dXloMTliQW1kMjU2Mk1OY0VrRDdiQjNlaDRPYXV2WEJOVWJJZWdiM0lNTUZuUEl4RFBfUFNRSHFPOUpVNU1LUTBFOEhVZ0xHNlNINmItVDc1aTJ6eFdkaHh0QWg5UFRIX18zSThU?oc=5",
-      "summary": "Nvidia Vs. AMD: Perplexity Choosing Nvidia Over AMD Tells a Deeper Story About Chip Dominance 24/7 Wall St.",
       "badge": "new",
       "date": "2026-07-12"
     },
