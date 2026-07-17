@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-17T08:00:26Z",
+  "updated": "2026-07-17T13:16:40Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
+      "summary": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic CNBC",
+      "badge": "hot",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVrUG9XYnlvdFlrVzlBZWpiV2R2NWxROG9zcVVUclYxcE9yeFdFQUtIU3hmV3Itc2cwS1JtZFZKdXh2WVloQWdvZGdoUUtvdUpiQUF4NmRCNl9MQWFnbTFmOHdVQW9YR2V3YTdFQ3N1bUdBak0xRFVQbmtxU2plNzEySi0?oc=5",
+      "summary": "China's open-weight Kimi model stuns AI world with frontier-level results Axios",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
+      "summary": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic WSJ",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
     {
       "company": "Apple",
       "title": "Major League Soccer returns to Apple TV tomorrow",
@@ -46,6 +70,14 @@
       "title": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXk2RWF0OWhhNndEb3E3Y2ZEVUxsNFpOTVU1d0dZSWduMlRBZ240NmtpUlk2b0hneDdNOTNKTDhjREY4Z0MzMkNQWDJ5dmEzdjlwV0pOMDM3VDF1aEw5ZmtxdGMzSU1RaEZ4UmpaWGMzTFRPQ24wODhMN2dQaElkRXU5YWo4ZkRCdkRPT3M2ejREc1V1OWRrRGlueEJmRlU2SEtLQlFZN0hJUjJLbGkzQmlUT0ZmSjdPR0lzRFl3?oc=5",
       "summary": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning Tom's Guide",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Meta",
+      "title": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakJNN3o3UjZhU1BoOGRKVTdDZ3Fib0JVX2hsX04tejBrNDBtZmJNMV9CcXlJeW5JbEJQREpWcHlmOG1jRHVQYUQ1aTBIak5sSWRKcng0RDlRMmZxZjRMMUY5OUwyTWM1RmFPMnUzYzZFbmNmMW9KMUpOcHUycXZzS2pCd0V2eFRtblphcTlqa0pkZEpuNXgxbGZzSQ?oc=5",
+      "summary": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) Seeking Alpha",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -130,22 +162,6 @@
       "date": "2026-07-16"
     },
     {
-      "company": "Anthropic",
-      "title": "Dario Amodei, Anthropic Employees Give Millions to Regulate AI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzNqS1NtbUt2a2trUzFwVmpTQ0JBdkNRcDk4bnhxZDFBQ2ZicTRmaG5hZ2lkV3ZUWElPZlkxdllZZG1KZkdfZ1ZGdGNLOWZNakVDRFNVNjF5ZExIOWZKWFl0eDRuQ2o4NXNpalZ5VFNmVm1yMjgxdW1aaTRPUUMwTnh0RTR2MVRmX2FRUDM2WUJZYm9CcGdSYUdoVk11YjZQQlhjdlRhc1Vqakh1ZWgzRXJB?oc=5",
-      "summary": "Dario Amodei, Anthropic Employees Give Millions to Regulate AI Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO gives $1 million to super PAC amid battle of AI big-money groups - Politico",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVNxYzJJbUZNRzh6NFdVaWlUZHhkTWdSNkhoY0tRbTVXa2tRVHBVOE1YdktnTk1KMGE0aWs5bl9pdlBWOGlyUUxEU1lrUU1kbGVlaktsMFJfUnYtenU0OWN4dW9xMjZ5R09WWm1xdWFlNGRVeU0xT05UN0ZHVEtnUlZGa21UNTVWTjBWZVUzR0xfM3R0QUxaZm5JYjU4V19TalV2UHNVU0VqYkdZT0JRN1ZhRFFVdkZmSmxmNXMxTXZybHNY?oc=5",
-      "summary": "Anthropic CEO gives $1 million to super PAC amid battle of AI big-money groups Politico",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
       "company": "Google",
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -214,14 +230,6 @@
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Accidentally Made the Perfect Commercial - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUZGWEtzZDNITzdScWNDY1hHemdzU2NhVkNHSXo1XzlKOG16WWFLazBGTUpJaG91Tmw0RVRhbTcxbHRVT21PQlNPeFdZSUp1bHBxb0JibzdXMnZrY1NGUHYyTzNyd0FSWVdsejFkYjdtWjgyeHktUkVFM1RLRzRKa1h5LVo?oc=5",
-      "summary": "Anthropic Accidentally Made the Perfect Commercial The Atlantic",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -318,14 +326,6 @@
       "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave - HR Dive",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2RqbVdwd2hmOGJ4U0tiUkF0d1VCM2xRb2c2aDV6ZkgwOXZiT3g5X3B4THFKMmJQaE9HM09QbHdFQUdwQWhCeDBURFUwN05xcHdCRUk5aFJfTjRIQkVuNFFpbjd0WkNwaFo1NmNoQUhaLVcyU1pLc3RPOEVpcm9kTDRlTl9GdEl6TFdiUmFnOUp0dTF4dUxvWHdSbm54REZrcXdHTzFJa2JvMFFqQlE?oc=5",
       "summary": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave HR Dive",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Lawsuit accuses Meta of using AI to target workers for layoffs who took medical and maternity leave - The Mercury News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUdrYUJXbEdlVkZNYi04MDdDZGRNalJXckMxTmxKUEN1dGw5d1ItSzlxd2JreEZza2hpOE91WFJ0LWM2MG1sUDRBSlpNMzh4REVRaHNkZWZVa2dJTUd0cGtHSkFzd2lhQmZlRVZmRXI5N2wtazJITFljRFo5Y2JKOUk3bFQ0VEhhbmRlb2YyZl9qd0w4NzlQWjBzU1NtZnc2VUVwbNIBqgFBVV95cUxQRGFxVS1mQ3hfaWhST2pQaC1Iano5Q1dqeUxfQjBkZHVHc2FnMGduN3ZnV19tZEFYcFNGMEF5RzdiWDRTVU9VTms2N1B1aTdfbzRienFyNXQtaUQtRlJ0bFhDdlcxa3lHLUFDeS1rZm40U19CZmI2Mktnd2xnWU50akZLMGFCWGMzV2VVY3NhYk84QzlyZEJMMXl4NnprbnVTLWhHc2tmMmFCQQ?oc=5",
-      "summary": "Lawsuit accuses Meta of using AI to target workers for layoffs who took medical and maternity leave The Mercury News",
       "badge": "new",
       "date": "2026-07-15"
     },
