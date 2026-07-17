@@ -1,12 +1,44 @@
 {
-  "updated": "2026-07-17T13:16:40Z",
+  "updated": "2026-07-17T18:59:39Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
+      "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports Reuters Anthropi",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
     {
       "company": "Anthropic",
       "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
-      "summary": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic CNBC",
+      "summary": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic CNBC Chinese AI start-up Moonshot launches model challenging Anthropic’s lead Financial Times China just erased America'",
       "badge": "hot",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Sam Altman Mocked Anthropic’s New Ad. Investors May See a $965-Billion IPO Pitch - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3RzNFpEYXNjdGdwLVRPSy13UHVjR1dzd1gxdFJ4amI5ZU9yRGRZVk5lT0lKLTExN0tfYlliZjlwRVUyamVHOEpPcnFuX0hsemxnZWo1ZlF5X2RVc21qSmx1bFNnSGo3b0I5cWFqakpzVDdJMEdlY0tkUEY2UkFBMzN4bFlIMU5GYlBPOXZHRFkxaDBvYy1nQWJuX2thbzBBdXQ1V2JqM0IyeFFneFFwQjlOZ3ZmYlQ0?oc=5",
+      "summary": "Sam Altman Mocked Anthropic’s New Ad. Investors May See a $965-Billion IPO Pitch inc.com",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
+      "summary": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic WSJ",
+      "badge": "new",
       "date": "2026-07-17"
     },
     {
@@ -18,10 +50,10 @@
       "date": "2026-07-17"
     },
     {
-      "company": "Anthropic",
-      "title": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
-      "summary": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic WSJ",
+      "company": "Microsoft",
+      "title": "Microsoft Teams will use AI to archive your meetings for Copilot analysis by default, plus 6 more changes - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDBRLWpNWDl0dWpiOVJMU05mN0RERHVHcl85ajNuRmU5WmNvMFBBcDdHazU5QXJCMHoxWl9TbkszbTNJZU44WlN2YWhCOEZkMWhmZkVvZFh6aHQwOWRWSGRybUZ0MjRreFdrY2tTSGZ3VFdiVl85T045NVFCXzBtNG5VeDZUaGV4U0I3ajRtREJJbUVRRUZYWlU0MGRuS2ZMQzNXbVNCTGs0TzFYR1phREJ2Yy1oMlNfNUNMSmtXSTZ6c1QyWHFXWnNHSU5US3pZWWUxd1R2MFFHTVFUN1JJ?oc=5",
+      "summary": "Microsoft Teams will use AI to archive your meetings for Copilot analysis by default, plus 6 more changes Windows Latest",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -62,6 +94,14 @@
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
       "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AI Responses Are \"Own Content\": Germany Brings Google and Perplexity Under Regulatory Scope - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakIyeGk5WEc2RTdUQ04yN3ZDQXlqdlpmY1Z4b1BWZmZSQ3p5bzcxQ0NtVW5WZ1BDVFdVbGNQSjJGT205ZFdWUTN1cTdnUHo3U0x1cTJ2RVBSNzBHWVpBeHJrMnl4dWhaTmVScE90V0xlZmpTSUw5Y3hVQUFETEpJampDdlc?oc=5",
+      "summary": "AI Responses Are \"Own Content\": Germany Brings Google and Perplexity Under Regulatory Scope XenoSpectrum",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -146,22 +186,6 @@
       "date": "2026-07-16"
     },
     {
-      "company": "Anthropic",
-      "title": "Here's Why Anthropic Is Pushing States to Regulate AI Faster - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDdTNXVvMUtsZVlJamNiSlhvREI1WTBPcE1HRjljZ2RRd09vU041c0VJWW1Gd0V2UXI5U3RtZkE5QWhkR0hhMnlNQkxjbWlBcGNrbHYxRXBkN2RMZ3VCOGtXQ0wxaEQzY3g0RW0zMzR5Yk9FMVQ0aWppZkZJazcyR3k5c0xBVzRrdWc?oc=5",
-      "summary": "Here's Why Anthropic Is Pushing States to Regulate AI Faster WIRED",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The Booming Secondary Market For Used OpenAI and Anthropic Swag - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWU5yU2xBaEpxSTZOaVRWSjBOMzI5RG1ncXpGbmpJdXQ4VHpGc2hKalJDQV9sTFcyS1lmT0F4UnhOYjVyOVZyMUtfd0c2SXE0MVZDamgwTFgydFdBOTFQMTVYaklmbWJtdG1HdDlJZWhYS1oxUU9ueG5KV0ZFaVVZU042VzVLTU5oWGJkQi1QcTlGSmZ2aFdlODlXUWU5a1lTQ3NDYUlkODI2VmZTa1c0T3pMSXlTaXJWOFdGMGRnRnZWTFQ0eEVPZXBZb2ZBX1BLYzdkLWFB?oc=5",
-      "summary": "The Booming Secondary Market For Used OpenAI and Anthropic Swag Forbes",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
       "company": "Google",
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -178,6 +202,14 @@
       "date": "2026-07-16"
     },
     {
+      "company": "Microsoft",
+      "title": "What's Going on With Microsoft Stock Thursday? - Microsoft (NASDAQ:MSFT) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUmFHTGZoQmtaVm5ENndMR0g2MW43OXU5UXlxZzZfdS00X0VnNVEzaS1HRzJxeENwTUZxSmpwdkFyMGpWZUJfTGV6aUVaWko2WW9wWkZPZzJleVVtSDNCS3hwTGd3S0MwWDFKQlJhbkNEWVRZVExEVlZrN0lxWTRWcFZuXzNvSVZhNDIwLUdVdVc1cnFjRXpDOGp2dC1manVjT0UtbnM5Ql9heGdGeDVBdUkzSUVBb0JWX1FLVEdMYU1qN1BmOHZ2LWsyX19YdVVPanNIQ2FYWGlmQkxUdGdDMQ?oc=5",
+      "summary": "What's Going on With Microsoft Stock Thursday? - Microsoft (NASDAQ:MSFT) Benzinga",
+      "badge": "new",
+      "date": "2026-07-16"
+    },
+    {
       "company": "Perplexity",
       "title": "Can Ethereum Hit $12,000? Arthur Hayes Buys $2.48M as Perplexity AI Reveals Bullish Prediction - CCN.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUk9zNmwydXVvWVVEOHJHZkdEemprVWt3b1Z6OUVzUHBkejdzYTdQcXMwa1dkRktud3NNRDE1RDBkcXJwdFNVakktSU51cWZIOG9GTnVKQTU1OWExUWFUaXQxNTEwTVhpVVBhUHlxb29RZG8zdVBXblVlWkZabDN6aHpoQTFUN0V3M1E?oc=5",
@@ -189,7 +221,7 @@
       "company": "Meta",
       "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5",
-      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot TechCrunch Meta says ",
+      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Teens talking to Meta AI about suicide will trigger alert Mashable Meta says it will alert parents if teen AI ",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -301,7 +333,7 @@
       "company": "Meta",
       "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave - AP News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRU9KU1hEeHRRaFdZQThmR0xFQXlORHNJOVcxb0NtTFJSWUZDVGhYUE8wMWhOeG9IVkVqYmkwRW1DODVIQlVqX3BpT1ZaQ3llNklUa0N6dHhVVWVrWkxpQ1lxQ2RXMEVhRTQ5Yk04bmNKV25wX2N0cUhJVFUwSzBfdWhPZmsyM0haaWlZTnRIRVFINUhPeHlzT2JzUl9MbUY0WkFWeUJDVQ?oc=5",
-      "summary": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave AP News Meta used AI to tag workers who took leave to be laid off, lawsuit claims The Guardian Meta use",
+      "summary": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave AP News",
       "badge": "new",
       "date": "2026-07-15"
     },
@@ -418,14 +450,6 @@
       "date": "2026-07-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Windows 11 Copilot Diagnoses Sluggish PCs While Eating 1GB Of RAM - HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN250QUtUdXhubGVWa204OExzTy14QjVTSHJWa1l6NTdCV0JSWVNtZHNFVTgwbEFLZTJDcHpfNWpVMm5zZHhrTHZXZzBsWlFnbVFyZ2J0UHZpOTlObHV0ZkFvaU91RVRyTGs4V1M0SUdqM1hBX3Z6cGFoZkVIbmtRR3JWUHB0M0tNT2ItSzFUV09SakxhNnlSUTFR?oc=5",
-      "summary": "Windows 11 Copilot Diagnoses Sluggish PCs While Eating 1GB Of RAM HotHardware",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
       "company": "Perplexity",
       "title": "Claude wants to hear your hardest questions about AI - afaqs!",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelloS0lrV0VQdTRtLWEtT204LXZ6RG9JMjZtNVBtM21IU1dxZjl2eVV4cGFGTVMxc3dUUEpHZVZEWmpKOG4zY3JmaWZjUFBtREVvbVR0YUhlSVc4RnBjdFNIWGlkVnVySmE1V3VnZ3cxcVBjN0s0S09oaXZQclR6b0ZITThyUUI0UXlTcEQtT2ZZUzJZdm83MGdObE55VHd6b0E?oc=5",
@@ -440,22 +464,6 @@
       "summary": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous PC Guide",
       "badge": "new",
       "date": "2026-07-13"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I asked ChatGPT, Perplexity, and Gemini to build me a gaming PC, and one made a big mistake - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnZXa01xM1dranRTSUlISjkxYndOYXRkR0Q5OHNsRXlqSUsxN2dXXzliS3AzQTM0SlpSYkRWRFFTa2RveTg1ZEx2TDNpaW84T0o0UDMxQW5OTjZvYlVLRU9ETjRKTHJVXy1wTmhkSWptUEQxTnYtaGRJWWVuTUEySW1yX1prclM5U1R0Nlo2bkZtMUZnTnlFU1Y1OUROb0IwLXljWmt6WnNvWFJtYl9QRURiZl9xMDBrOHc?oc=5",
-      "summary": "I asked ChatGPT, Perplexity, and Gemini to build me a gaming PC, and one made a big mistake PC Guide",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
-      "summary": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI Digital Trends",
-      "badge": "new",
-      "date": "2026-07-12"
     },
     {
       "company": "OpenAI",
@@ -480,14 +488,6 @@
       "summary": "Lawsuits Target AI Facial Recognition in Doorbell Cams The Legal Examiner",
       "badge": "new",
       "date": "2026-07-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "badge": "new",
-      "date": "2026-07-09"
     },
     {
       "company": "Apple",
