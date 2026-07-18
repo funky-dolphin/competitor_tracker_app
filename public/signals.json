@@ -1,11 +1,59 @@
 {
-  "updated": "2026-07-17T18:59:39Z",
+  "updated": "2026-07-18T01:58:19Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "What is Anthropic? The AI safety company behind Claude explained - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BM290Y1M2d0E5MGNubk1QMUx4RzZWOHB1X2NPWlFhQ2lYSVFwQXpkaG5ZSVFWMm9vdndVZUFIZzV5ZEtWakkw?oc=5",
+      "summary": "What is Anthropic? The AI safety company behind Claude explained qz.com",
+      "badge": "new",
+      "date": "2026-07-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-07-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-18"
+    },
     {
       "company": "OpenAI",
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -13,23 +61,15 @@
       "company": "Anthropic",
       "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
-      "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports Reuters Anthropi",
+      "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times Meta, Anthropic in talks for potential $10 billion compute lease deal, source says Reuters Anthropi",
       "badge": "new",
       "date": "2026-07-17"
     },
     {
       "company": "Anthropic",
-      "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
+      "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
-      "summary": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic CNBC Chinese AI start-up Moonshot launches model challenging Anthropic’s lead Financial Times China just erased America'",
-      "badge": "hot",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Sam Altman Mocked Anthropic’s New Ad. Investors May See a $965-Billion IPO Pitch - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3RzNFpEYXNjdGdwLVRPSy13UHVjR1dzd1gxdFJ4amI5ZU9yRGRZVk5lT0lKLTExN0tfYlliZjlwRVUyamVHOEpPcnFuX0hsemxnZWo1ZlF5X2RVc21qSmx1bFNnSGo3b0I5cWFqakpzVDdJMEdlY0tkUEY2UkFBMzN4bFlIMU5GYlBPOXZHRFkxaDBvYy1nQWJuX2thbzBBdXQ1V2JqM0IyeFFneFFwQjlOZ3ZmYlQ0?oc=5",
-      "summary": "Sam Altman Mocked Anthropic’s New Ad. Investors May See a $965-Billion IPO Pitch inc.com",
+      "summary": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift CNBC China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic BBC China just erased America's AI lead Axios",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -43,6 +83,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Sam Altman Mocked Anthropic’s New Ad. Investors May See a $965-Billion IPO Pitch - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3RzNFpEYXNjdGdwLVRPSy13UHVjR1dzd1gxdFJ4amI5ZU9yRGRZVk5lT0lKLTExN0tfYlliZjlwRVUyamVHOEpPcnFuX0hsemxnZWo1ZlF5X2RVc21qSmx1bFNnSGo3b0I5cWFqakpzVDdJMEdlY0tkUEY2UkFBMzN4bFlIMU5GYlBPOXZHRFkxaDBvYy1nQWJuX2thbzBBdXQ1V2JqM0IyeFFneFFwQjlOZ3ZmYlQ0?oc=5",
+      "summary": "Sam Altman Mocked Anthropic’s New Ad. Investors May See a $965-Billion IPO Pitch inc.com",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
       "title": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVrUG9XYnlvdFlrVzlBZWpiV2R2NWxROG9zcVVUclYxcE9yeFdFQUtIU3hmV3Itc2cwS1JtZFZKdXh2WVloQWdvZGdoUUtvdUpiQUF4NmRCNl9MQWFnbTFmOHdVQW9YR2V3YTdFQ3N1bUdBak0xRFVQbmtxU2plNzEySi0?oc=5",
       "summary": "China's open-weight Kimi model stuns AI world with frontier-level results Axios",
@@ -51,49 +99,41 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Teams will use AI to archive your meetings for Copilot analysis by default, plus 6 more changes - Windows Latest",
+      "title": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDBRLWpNWDl0dWpiOVJMU05mN0RERHVHcl85ajNuRmU5WmNvMFBBcDdHazU5QXJCMHoxWl9TbkszbTNJZU44WlN2YWhCOEZkMWhmZkVvZFh6aHQwOWRWSGRybUZ0MjRreFdrY2tTSGZ3VFdiVl85T045NVFCXzBtNG5VeDZUaGV4U0I3ajRtREJJbUVRRUZYWlU0MGRuS2ZMQzNXbVNCTGs0TzFYR1phREJ2Yy1oMlNfNUNMSmtXSTZ6c1QyWHFXWnNHSU5US3pZWWUxd1R2MFFHTVFUN1JJ?oc=5",
-      "summary": "Microsoft Teams will use AI to archive your meetings for Copilot analysis by default, plus 6 more changes Windows Latest",
+      "summary": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes Windows Latest",
       "badge": "new",
       "date": "2026-07-17"
     },
     {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "company": "Microsoft",
+      "title": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRYWWJORmxiVy1WdWhuUG5JREgtX0VQOG4tUVRKOEtpSjhzamxPZWNYSUJFQm1VaHhZY0UzdUtEd3pBdGZhc2dLc2lpdXhzbmVnekU4SzB1MlQyT3RwbUhkUU1HOHBDbm5RN3lTVUJGS093X2ZVX2NMZWpBZC11eTZJdnlOaEUxTUxZbjkzS2FaVTgwLXRj?oc=5",
+      "summary": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting Yahoo! Finance Canada",
       "badge": "new",
       "date": "2026-07-17"
     },
     {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "company": "Microsoft",
+      "title": "Your first AI agent — teach Microsoft 365 Copilot to draft the month-end commentary your way - Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajM4dElYYnphbXpNZ1UtOFYzWmJmbnVGUUhmcV84M3AyZWNMSEZxRktteS1WTW9JU1pMcWFKeGhScG5raDluUDJIODVxREk2eU9wb19NUEFlUWhWaDlXMzZrTGxwdHNoaS0tYk1GLUZ5SFAxSnRwQW9Lb1pPdWl2aXZzZXBZS2NZM1VRamI5ZWpYWmdVOUltVmtTMEh3ejFBSjdMa3dWZWwxMVU4eWVDS1dZYjk4cW9J?oc=5",
+      "summary": "Your first AI agent — teach Microsoft 365 Copilot to draft the month-end commentary your way Jamaica Observer",
       "badge": "new",
       "date": "2026-07-17"
     },
     {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "company": "Perplexity",
+      "title": "Perplexity launches SPACE runtime for AI agent tasks - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01LUHN4WEhZakp6UUJZRFI4dE5GUmJ3TkdwMXlIUkY1QnkydXhaZ0JIT2RmVnZ3QV9QWVAzd1NIa2p5NU9XS3Q3VnIzNDBRSFJXcW96UWNRSFByQkJMRHRMeEpXMkk2UE1aTTdhNXNJMXF6czhzYzFjTGc3bGJFU2tweEhUbzlTYnVmZg?oc=5",
+      "summary": "Perplexity launches SPACE runtime for AI agent tasks TestingCatalog AI News",
       "badge": "hot",
       "date": "2026-07-17"
     },
     {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "company": "Perplexity",
+      "title": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXk2RWF0OWhhNndEb3E3Y2ZEVUxsNFpOTVU1d0dZSWduMlRBZ240NmtpUlk2b0hneDdNOTNKTDhjREY4Z0MzMkNQWDJ5dmEzdjlwV0pOMDM3VDF1aEw5ZmtxdGMzSU1RaEZ4UmpaWGMzTFRPQ24wODhMN2dQaElkRXU5YWo4ZkRCdkRPT3M2ejREc1V1OWRrRGlueEJmRlU2SEtLQlFZN0hJUjJLbGkzQmlUT0ZmSjdPR0lzRFl3?oc=5",
+      "summary": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning Tom's Guide",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -106,10 +146,10 @@
       "date": "2026-07-17"
     },
     {
-      "company": "Perplexity",
-      "title": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXk2RWF0OWhhNndEb3E3Y2ZEVUxsNFpOTVU1d0dZSWduMlRBZ240NmtpUlk2b0hneDdNOTNKTDhjREY4Z0MzMkNQWDJ5dmEzdjlwV0pOMDM3VDF1aEw5ZmtxdGMzSU1RaEZ4UmpaWGMzTFRPQ24wODhMN2dQaElkRXU5YWo4ZkRCdkRPT3M2ejREc1V1OWRrRGlueEJmRlU2SEtLQlFZN0hJUjJLbGkzQmlUT0ZmSjdPR0lzRFl3?oc=5",
-      "summary": "I used Perplexity as my new productivity assistant — these 7 tips save me an hour each morning Tom's Guide",
+      "company": "Meta",
+      "title": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmRkTm5TMWxycFNMamgybkc4cnp0YThGbnNZbjJtRnU0anZvRm9TZ2hXRkVJVnB0emRrLXVGaGl3SGtpWVJvZFZoWmw1MFVTUlpnVEo3M1dxUHdDTG84Z1M1NTdwcjFKUzdOOFdKTE5iSWdmbURVOHkxaFptVzRGdnpCbW83dW9yaGE5QzdPampCM1FhUVBpZm44Qzd1YUlSU0NRVldfYlhUYkZ0a05wWFZlQXA1TnM?oc=5",
+      "summary": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit New York Post",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -174,14 +214,6 @@
       "title": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon - Politico",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUVvVy1fTjhjanNmNlFRNU41ZGRzQ1JRYzZHbGx2RHJ6a3FCdlJSelZKNWh2SzJKY3N5YVotX19rLTEwaXpsTk9FV3Q5LXdRc25uV0ZFMUowU1FzXzRHYWwzYTFrUXFFaXRyeGU0alQySkxvRGdPTERyb2o3LUdxSFBGSHBnTG1ReG52ekozMW85T3dYUVVfdHNtM1FkcDA4dUc0QmdwWnpGSVNGMnpZekZ4VjJpakZmN1pZY3p2TEZpc3J5bVh5ZjFXdXY?oc=5",
       "summary": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon Politico",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
-      "summary": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives WSJ",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -354,14 +386,6 @@
       "date": "2026-07-15"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave - HR Dive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2RqbVdwd2hmOGJ4U0tiUkF0d1VCM2xRb2c2aDV6ZkgwOXZiT3g5X3B4THFKMmJQaE9HM09QbHdFQUdwQWhCeDBURFUwN05xcHdCRUk5aFJfTjRIQkVuNFFpbjd0WkNwaFo1NmNoQUhaLVcyU1pLc3RPOEVpcm9kTDRlTl9GdEl6TFdiUmFnOUp0dTF4dUxvWHdSbm54REZrcXdHTzFJa2JvMFFqQlE?oc=5",
-      "summary": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave HR Dive",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
       "company": "OpenAI",
       "title": "How to manage AI investments in the agentic era",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
@@ -434,34 +458,10 @@
       "date": "2026-07-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEJXMWxSZ2loTU1KMEV2eWJodk52cUpUdmp2YTdwTHlGNUFVQ0l4M3ZaWnJYZGczTlphWmxiQzllN3ZLNHRheWctcnE0cHNFb1hzS2RHRGlVc0Q1U1p4QUw0MFNBRU5NaTVlWEh5NExWNFplWHhSZ3F3SllySHlRV1ROTUR0NTFTMlpvLUFaWTF0Yml0UWY4ZQ?oc=5",
-      "summary": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health PCMag",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot AI Predicts Insane XRP Price by End Of 2026 - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVluZGhRWEgxZGFsYkotOXJpRzJIV2xZRWlLZUs5TC1ZYmZqUDlfQmU4S0tadXdFbVo3M1dTOXVnbk45TTVaS1hOVnFJRWQ1bjcwczdMX0Z5TGlZRTFxN3QzWWw4b1F1b0xYWTQ0WFVCS2lPV0RjaWFZYmdzbTJEYThjRkpYVWhjaHBMUWpIaXhYLXBC?oc=5",
-      "summary": "Microsoft Copilot AI Predicts Insane XRP Price by End Of 2026 Cryptonews",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
       "company": "Perplexity",
       "title": "Claude wants to hear your hardest questions about AI - afaqs!",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelloS0lrV0VQdTRtLWEtT204LXZ6RG9JMjZtNVBtM21IU1dxZjl2eVV4cGFGTVMxc3dUUEpHZVZEWmpKOG4zY3JmaWZjUFBtREVvbVR0YUhlSVc4RnBjdFNIWGlkVnVySmE1V3VnZ3cxcVBjN0s0S09oaXZQclR6b0ZITThyUUI0UXlTcEQtT2ZZUzJZdm83MGdObE55VHd6b0E?oc=5",
       "summary": "Claude wants to hear your hardest questions about AI afaqs!",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbE1qdzVKRE1McEdDX2FUVU5JbDdFVnhiaU5fY08xNENrVEwzcEFyZ1JUdEJnUDlQOTVLcWhmZkg4ZjhDd2RoczZhUTVxU2V5WUFZNXJuTzh5Z1dHWmpabmpTblNJb2h5RnEteUxnaWFQSUxBRDBUWm8zamtBSmdCR2pFQTVNOHV5RWxnbU1yLWwzWDJXSFBPV0ZRRzNJX2ptazdBWWJBYWtuNDg?oc=5",
-      "summary": "Gemini, Perplexity and ChatGPT have picked their World Cup winner – and it’s unanimous PC Guide",
       "badge": "new",
       "date": "2026-07-13"
     },
