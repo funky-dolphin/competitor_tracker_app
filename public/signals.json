@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T01:58:19Z",
+  "updated": "2026-07-18T07:40:19Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -61,7 +61,7 @@
       "company": "Anthropic",
       "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
-      "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times Meta, Anthropic in talks for potential $10 billion compute lease deal, source says Reuters Anthropi",
+      "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times Anthropic in early talks with Meta to acquire compute power CNBC Meta in talks to rent some of its ",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -69,7 +69,15 @@
       "company": "Anthropic",
       "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
-      "summary": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift CNBC China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic BBC China just erased America's AI lead Axios",
+      "summary": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift CNBC",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5",
+      "summary": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic BBC",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -78,6 +86,14 @@
       "title": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
       "summary": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic WSJ",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Traders bet Anthropic will extend Claude Fable 5 access for a fourth time - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHhBWnZpeG8zcFZDdkhkazZnSS1OWHJJNHZNLWtULTlCR3BVSDMxRVBSSkNYNk1QMFd0UDdyRy11U0dXZFZQcWtYVWN1MHc2c01sb01lc1dVaFNxRzlvNnV5UjZic1I0eVJrZllpQnotV080clZyRkprQXlERWo5UzdETzh0WEJwS2lpMg?oc=5",
+      "summary": "Traders bet Anthropic will extend Claude Fable 5 access for a fourth time Yahoo Finance UK",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -99,17 +115,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDBRLWpNWDl0dWpiOVJMU05mN0RERHVHcl85ajNuRmU5WmNvMFBBcDdHazU5QXJCMHoxWl9TbkszbTNJZU44WlN2YWhCOEZkMWhmZkVvZFh6aHQwOWRWSGRybUZ0MjRreFdrY2tTSGZ3VFdiVl85T045NVFCXzBtNG5VeDZUaGV4U0I3ajRtREJJbUVRRUZYWlU0MGRuS2ZMQzNXbVNCTGs0TzFYR1phREJ2Yy1oMlNfNUNMSmtXSTZ6c1QyWHFXWnNHSU5US3pZWWUxd1R2MFFHTVFUN1JJ?oc=5",
-      "summary": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes Windows Latest",
+      "title": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRYWWJORmxiVy1WdWhuUG5JREgtX0VQOG4tUVRKOEtpSjhzamxPZWNYSUJFQm1VaHhZY0UzdUtEd3pBdGZhc2dLc2lpdXhzbmVnekU4SzB1MlQyT3RwbUhkUU1HOHBDbm5RN3lTVUJGS093X2ZVX2NMZWpBZC11eTZJdnlOaEUxTUxZbjkzS2FaVTgwLXRj?oc=5",
+      "summary": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting Yahoo! Finance Canada",
       "badge": "new",
       "date": "2026-07-17"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRYWWJORmxiVy1WdWhuUG5JREgtX0VQOG4tUVRKOEtpSjhzamxPZWNYSUJFQm1VaHhZY0UzdUtEd3pBdGZhc2dLc2lpdXhzbmVnekU4SzB1MlQyT3RwbUhkUU1HOHBDbm5RN3lTVUJGS093X2ZVX2NMZWpBZC11eTZJdnlOaEUxTUxZbjkzS2FaVTgwLXRj?oc=5",
-      "summary": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting Yahoo! Finance Canada",
+      "title": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDBRLWpNWDl0dWpiOVJMU05mN0RERHVHcl85ajNuRmU5WmNvMFBBcDdHazU5QXJCMHoxWl9TbkszbTNJZU44WlN2YWhCOEZkMWhmZkVvZFh6aHQwOWRWSGRybUZ0MjRreFdrY2tTSGZ3VFdiVl85T045NVFCXzBtNG5VeDZUaGV4U0I3ajRtREJJbUVRRUZYWlU0MGRuS2ZMQzNXbVNCTGs0TzFYR1phREJ2Yy1oMlNfNUNMSmtXSTZ6c1QyWHFXWnNHSU5US3pZWWUxd1R2MFFHTVFUN1JJ?oc=5",
+      "summary": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes Windows Latest",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -123,10 +139,10 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity launches SPACE runtime for AI agent tasks - TestingCatalog AI News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01LUHN4WEhZakp6UUJZRFI4dE5GUmJ3TkdwMXlIUkY1QnkydXhaZ0JIT2RmVnZ3QV9QWVAzd1NIa2p5NU9XS3Q3VnIzNDBRSFJXcW96UWNRSFByQkJMRHRMeEpXMkk2UE1aTTdhNXNJMXF6czhzYzFjTGc3bGJFU2tweEhUbzlTYnVmZg?oc=5",
-      "summary": "Perplexity launches SPACE runtime for AI agent tasks TestingCatalog AI News",
-      "badge": "hot",
+      "title": "Germany Rules Google AI Overviews and Perplexity Are Publishers Under Media Law - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0FLMng0LXB0aWJ0b3cyeDVJTE1KdDVhcVRtWU4xcFBzVkYwdlp0UWZxakd3YzlkRkZuSy1ISkJWeUVaMEZjd1B5Q3hnbDNROERKWVZXMzlpa192WE45VzllR0JqcXlLTHZla0IzVUUzRTNVYmN6R1lGUmc2NnJsU3hEcm9XQjg2b1VWajN3aUk3R0tvRjdjRWZIT1ZXN2pidXc?oc=5",
+      "summary": "Germany Rules Google AI Overviews and Perplexity Are Publishers Under Media Law MLQ.ai",
+      "badge": "new",
       "date": "2026-07-17"
     },
     {
@@ -139,6 +155,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity launches SPACE runtime for AI agent tasks - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT01LUHN4WEhZakp6UUJZRFI4dE5GUmJ3TkdwMXlIUkY1QnkydXhaZ0JIT2RmVnZ3QV9QWVAzd1NIa2p5NU9XS3Q3VnIzNDBRSFJXcW96UWNRSFByQkJMRHRMeEpXMkk2UE1aTTdhNXNJMXF6czhzYzFjTGc3bGJFU2tweEhUbzlTYnVmZg?oc=5",
+      "summary": "Perplexity launches SPACE runtime for AI agent tasks TestingCatalog AI News",
+      "badge": "hot",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Perplexity",
       "title": "AI Responses Are \"Own Content\": Germany Brings Google and Perplexity Under Regulatory Scope - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakIyeGk5WEc2RTdUQ04yN3ZDQXlqdlpmY1Z4b1BWZmZSQ3p5bzcxQ0NtVW5WZ1BDVFdVbGNQSjJGT205ZFdWUTN1cTdnUHo3U0x1cTJ2RVBSNzBHWVpBeHJrMnl4dWhaTmVScE90V0xlZmpTSUw5Y3hVQUFETEpJampDdlc?oc=5",
       "summary": "AI Responses Are \"Own Content\": Germany Brings Google and Perplexity Under Regulatory Scope XenoSpectrum",
@@ -147,17 +171,17 @@
     },
     {
       "company": "Meta",
-      "title": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmRkTm5TMWxycFNMamgybkc4cnp0YThGbnNZbjJtRnU0anZvRm9TZ2hXRkVJVnB0emRrLXVGaGl3SGtpWVJvZFZoWmw1MFVTUlpnVEo3M1dxUHdDTG84Z1M1NTdwcjFKUzdOOFdKTE5iSWdmbURVOHkxaFptVzRGdnpCbW83dW9yaGE5QzdPampCM1FhUVBpZm44Qzd1YUlSU0NRVldfYlhUYkZ0a05wWFZlQXA1TnM?oc=5",
-      "summary": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit New York Post",
+      "title": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakJNN3o3UjZhU1BoOGRKVTdDZ3Fib0JVX2hsX04tejBrNDBtZmJNMV9CcXlJeW5JbEJQREpWcHlmOG1jRHVQYUQ1aTBIak5sSWRKcng0RDlRMmZxZjRMMUY5OUwyTWM1RmFPMnUzYzZFbmNmMW9KMUpOcHUycXZzS2pCd0V2eFRtblphcTlqa0pkZEpuNXgxbGZzSQ?oc=5",
+      "summary": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) Seeking Alpha",
       "badge": "new",
       "date": "2026-07-17"
     },
     {
       "company": "Meta",
-      "title": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakJNN3o3UjZhU1BoOGRKVTdDZ3Fib0JVX2hsX04tejBrNDBtZmJNMV9CcXlJeW5JbEJQREpWcHlmOG1jRHVQYUQ1aTBIak5sSWRKcng0RDlRMmZxZjRMMUY5OUwyTWM1RmFPMnUzYzZFbmNmMW9KMUpOcHUycXZzS2pCd0V2eFRtblphcTlqa0pkZEpuNXgxbGZzSQ?oc=5",
-      "summary": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) Seeking Alpha",
+      "title": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmRkTm5TMWxycFNMamgybkc4cnp0YThGbnNZbjJtRnU0anZvRm9TZ2hXRkVJVnB0emRrLXVGaGl3SGtpWVJvZFZoWmw1MFVTUlpnVEo3M1dxUHdDTG84Z1M1NTdwcjFKUzdOOFdKTE5iSWdmbURVOHkxaFptVzRGdnpCbW83dW9yaGE5QzdPampCM1FhUVBpZm44Qzd1YUlSU0NRVldfYlhUYkZ0a05wWFZlQXA1TnM?oc=5",
+      "summary": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit New York Post",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -202,22 +226,6 @@
       "date": "2026-07-16"
     },
     {
-      "company": "Anthropic",
-      "title": "For Software Engineers, the AI Reckoning Is Already Here - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFBJZXNvd0pWdVB3SGYxbjFRNVFTQXN3Wk5zYUV4dm05U0Y5NWVxTjdXMHN1X2F6WG43Q1dfd0RqNm1JY2JFTUk0RW9saXdBbzF0RGlOQVFfaVFJWlNudjdiVi1yempDQlJraGE4a09pbURMT2ZiZzNjdkxtSGZ1ZkVHOHRQMklOa1cwVkE0TmpFZWZXUUw1bXFmUjdXMzN5cmFwREtDVlJRWVZIOTdybW5n?oc=5",
-      "summary": "For Software Engineers, the AI Reckoning Is Already Here Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon - Politico",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUVvVy1fTjhjanNmNlFRNU41ZGRzQ1JRYzZHbGx2RHJ6a3FCdlJSelZKNWh2SzJKY3N5YVotX19rLTEwaXpsTk9FV3Q5LXdRc25uV0ZFMUowU1FzXzRHYWwzYTFrUXFFaXRyeGU0alQySkxvRGdPTERyb2o3LUdxSFBGSHBnTG1ReG52ekozMW85T3dYUVVfdHNtM1FkcDA4dUc0QmdwWnpGSVNGMnpZekZ4VjJpakZmN1pZY3p2TEZpc3J5bVh5ZjFXdXY?oc=5",
-      "summary": "Mike Rounds receives briefings on Anthropic’s Mythos from Pentagon Politico",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
       "company": "Google",
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -253,7 +261,7 @@
       "company": "Meta",
       "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5",
-      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Teens talking to Meta AI about suicide will trigger alert Mashable Meta says it will alert parents if teen AI ",
+      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI Meta Store Meta Will Alert Parents If Their Teens Discuss Self Harm With Meta AI Tools Engadget Meta says it will alert p",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -454,14 +462,6 @@
       "title": "Microsoft Teams: Disable Copilot and Facilitator during a meeting - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmcwYWpyc2VKd0R4d1lvcEs3RlBoanlDYlI2N0lPVEVQQ2s4c2NqU3NNMUJuSnlpbGlYaFV3cHhIR204UGNLalhhXzdCY29SUW9zUmswZUNaNnRORldLNDJ3Wk1GZW1lM1RtNzl0Ul9yeXloLTNpYnEtSHQ2a2tKbnBXbGxVbEREMWhOczVITkd2YUVIMXJVWWJiaGlqSl9sTVE0YUtVODgydlVpWmc?oc=5",
       "summary": "Microsoft Teams: Disable Copilot and Facilitator during a meeting Notebookcheck",
-      "badge": "new",
-      "date": "2026-07-13"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Claude wants to hear your hardest questions about AI - afaqs!",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelloS0lrV0VQdTRtLWEtT204LXZ6RG9JMjZtNVBtM21IU1dxZjl2eVV4cGFGTVMxc3dUUEpHZVZEWmpKOG4zY3JmaWZjUFBtREVvbVR0YUhlSVc4RnBjdFNIWGlkVnVySmE1V3VnZ3cxcVBjN0s0S09oaXZQclR6b0ZITThyUUI0UXlTcEQtT2ZZUzJZdm83MGdObE55VHd6b0E?oc=5",
-      "summary": "Claude wants to hear your hardest questions about AI afaqs!",
       "badge": "new",
       "date": "2026-07-13"
     },
