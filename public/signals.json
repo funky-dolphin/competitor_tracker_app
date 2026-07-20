@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T08:48:50Z",
+  "updated": "2026-07-20T13:54:51Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -10,10 +10,42 @@
       "date": "2026-07-20"
     },
     {
+      "company": "Anthropic",
+      "title": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5",
+      "summary": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. Barron's",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "China delivers a one-two punch to America’s AI dominance - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTQ1UEdiYk1ZdGlvRkVOMjJaV083RVhycWt5bUJmMndZczJTY2hzeHIxX05fOUg0SkhCalhCaDBUcFRsN0dfMEVwaTc5bE9UaXUyVHJLLS15ZkY3bS1icGh5T3F6Y3hjZHFLejZXMVFHRFExb1dzVl9HQVFxLVJqZF9zVU9tVm5ONnB0cDVrZkVNcElSRGYzSXRGYi1STlFJUHNVNl8xUHRwekU0VUdTOE9xU2JaX2tSemc?oc=5",
+      "summary": "China delivers a one-two punch to America’s AI dominance The Verge",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion | Open models for AI were inevitable - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+      "summary": "Opinion | Open models for AI were inevitable The Washington Post",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
       "company": "Meta",
       "title": "Parents to get alerts if teens discuss self-harm in Meta AI chats - The Star",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjliYU5LSk5YcEFvSkFrZ2hTb21ZVU8wUmFoa1Q3cmNXWThESE1YOHZySUZseHZUMnFKSGkxUWVsd2FMUHFBZEdjZWZnM0VmSERIM3Fid0Y0R0xBMWtEcGl0aXpJOXhONUFtZlhQT2pSVUZZekdnUE91Tm0tcWEtUUctN3VCVnZTQUFBRUxxWTVucThMNjU1cWlNdC1wZkh5SzZZUmVfVzFyWVhVQnFMdVVJZElHSmlxWlE?oc=5",
       "summary": "Parents to get alerts if teens discuss self-harm in Meta AI chats The Star",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVGxfdnZESnNxZm5LeGkzSTdReVR0dmlNSUc4QW9XOWQ0aWRoRjU4YnE1R29NNGJLd3IwMGY0OHNEWW1wNnVSYmNqN1hBa0U5LThVUmZIX3lPdU1aOE42Q19ZelNXdjBCSU83OWwtRTVRenBmdzQ1NThwNWNaYTRPT2tOaW1fWkd5Tm5OQWxOTWJNcXpUc2N4NFdaUWcwSXBuak1fNVlxZW5wOEwtMUQ4MExVcVIxUGdDeGNXSnBLN3RnMTE4RFQ1TUx5MFZDSlB1cUpmbEZjajdoWWF0S2lRajFocXpzZzQ?oc=5",
+      "summary": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it Windows Central",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -178,58 +210,10 @@
       "date": "2026-07-17"
     },
     {
-      "company": "Anthropic",
-      "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
-      "summary": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift CNBC",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5",
-      "summary": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic BBC",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXNCa1F5OWZBSmxzMzlSblhsY24zVzAzQ3poZm85a3ZzM1VORXcyaF9FbEYtazE3UUhZQ2lwODR4OEE3YmtDVlN3a0dBSV96QVR0SXFwS1VIWFJlRTQ4S0sxUWpEODZNMlp1SzQ3d0FmR08wNWQzSXBTekg3SGp3d9IBhgFBVV95cUxPamJuZ0NySktUZl9VbjUtUUVFWFUwd3ZJZ3pnX2REclpHZ055SmV6cjNMS3h4ZWdGTF9qTnRPekdJZmdWVlZQZ0tTSVJGVzl2R0ZfSXRDUmx6WjNrR1BVa25fejVKejlpSmRxTzAtZFh4cXVfN2p2YjM3NTRxNkw4emxKeURLQQ?oc=5",
-      "summary": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say CNBC",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
       "company": "Meta",
       "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
       "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmRkTm5TMWxycFNMamgybkc4cnp0YThGbnNZbjJtRnU0anZvRm9TZ2hXRkVJVnB0emRrLXVGaGl3SGtpWVJvZFZoWmw1MFVTUlpnVEo3M1dxUHdDTG84Z1M1NTdwcjFKUzdOOFdKTE5iSWdmbURVOHkxaFptVzRGdnpCbW83dW9yaGE5QzdPampCM1FhUVBpZm44Qzd1YUlSU0NRVldfYlhUYkZ0a05wWFZlQXA1TnM?oc=5",
-      "summary": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit New York Post",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Anthropic in early talks with Meta to acquire compute power - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
-      "summary": "Anthropic in early talks with Meta to acquire compute power CNBC",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI bots drain publisher pockets with 9 billion Q2 2026 requests at host expense while returning ZERO traffic — as ChatGPT claims 88% of AI referrals - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeWEwc1BsQ2lBbDFoUFNyY3JzUW5LaTJ3MjJLY0FaaVREN280TTd2UFhyS2c4OEdqMzdYMGo1NFVtR0drR3JQajR0OUgwcGhEUExVUjdZLUptRXNncUlwUjZnUGlEdlhwWk1kSThHOThDT1NrclFXOTV1MzM4YjdTQkxxN2RoeVNHQ3l0NUt6akFrTlhNSGJ1QzVzYkcxN3hSaEo3bFlTS0ZjY0VqY3NqbjVCREU0cHA4bVV2TWdsNWtSajctSXdJeFA4VGhKN21RcmpBYXFDU05RT1kxa3g3LXZhQnNPVFJwcWpLcE96bHAyZWx3bjB5aVVWZjJJZm1JSGFmaW1LTzBqTDh3eEMtajhITm91Rm1z?oc=5",
-      "summary": "Meta’s AI bots drain publisher pockets with 9 billion Q2 2026 requests at host expense while returning ZERO traffic — as ChatGPT claims 88% of AI referrals TechRadar",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -243,9 +227,33 @@
     },
     {
       "company": "Meta",
-      "title": "Activism group erects lenticular They Live-style ad outside of Meta's London office - PC Gamer",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVDFIMnk1MktzSjh5NTF1eHBkMUlFbUxhMXZoSExLTHkxUF90MHF6WjNiUnA3V1U1V0ZWc0JKaDlZcjZrS3k3NkhoTEk3MGY2U1NndlU1SWNBV3l3MDlEM0dEbTFsalFYNGxzZ0IxTFJyNGJFN3laUkxjUnZVdkdBbWhYMDFwY0VqeTh1UWpPSnRCQ1FySzN2dEpMY0dTdWtmYzN2OHJWNEhsRTdfLXRjaHNyOHRVM0lfQkhGOUZ0N21jNld0NVc1dzdONTVLcklWaGRiWmFwczNEQ0s4YWZVYVRjSjRDWmNSV0gwQm9XbTFRSUw0ZHRubmJfeEVCay1jWEE2ZDRpa3l6TTAybXNYajFZYkxUQQ?oc=5",
-      "summary": "Activism group erects lenticular They Live-style ad outside of Meta's London office PC Gamer",
+      "title": "Anthropic in early talks with Meta to acquire compute power - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
+      "summary": "Anthropic in early talks with Meta to acquire compute power CNBC",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI adds additional safety measures - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVBCbG10cG93NHM5QWNoZ1M3TkYzOVNleTFDZlNjQms5dU5TUXhBeFdNN1lhcWpTMmg5VUdZcVJZcHRZVzYwVnB0MUJrcFNJUEtsb3dfX2ZjQ29jRVFRQzhuTmdhOGdaMjNmRUZIT0N2Yy1LZEFHLW9YYkV4OHl6QWYyQTlrcUluT0gzc2lR?oc=5",
+      "summary": "Meta AI adds additional safety measures Social Media Today",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmRkTm5TMWxycFNMamgybkc4cnp0YThGbnNZbjJtRnU0anZvRm9TZ2hXRkVJVnB0emRrLXVGaGl3SGtpWVJvZFZoWmw1MFVTUlpnVEo3M1dxUHdDTG84Z1M1NTdwcjFKUzdOOFdKTE5iSWdmbURVOHkxaFptVzRGdnpCbW83dW9yaGE5QzdPampCM1FhUVBpZm44Qzd1YUlSU0NRVldfYlhUYkZ0a05wWFZlQXA1TnM?oc=5",
+      "summary": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit New York Post",
+      "badge": "new",
+      "date": "2026-07-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI bots drain publisher pockets with 9 billion Q2 2026 requests at host expense while returning ZERO traffic — as ChatGPT claims 88% of AI referrals - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeWEwc1BsQ2lBbDFoUFNyY3JzUW5LaTJ3MjJLY0FaaVREN280TTd2UFhyS2c4OEdqMzdYMGo1NFVtR0drR3JQajR0OUgwcGhEUExVUjdZLUptRXNncUlwUjZnUGlEdlhwWk1kSThHOThDT1NrclFXOTV1MzM4YjdTQkxxN2RoeVNHQ3l0NUt6akFrTlhNSGJ1QzVzYkcxN3hSaEo3bFlTS0ZjY0VqY3NqbjVCREU0cHA4bVV2TWdsNWtSajctSXdJeFA4VGhKN21RcmpBYXFDU05RT1kxa3g3LXZhQnNPVFJwcWpLcE96bHAyZWx3bjB5aVVWZjJJZm1JSGFmaW1LTzBqTDh3eEMtajhITm91Rm1z?oc=5",
+      "summary": "Meta’s AI bots drain publisher pockets with 9 billion Q2 2026 requests at host expense while returning ZERO traffic — as ChatGPT claims 88% of AI referrals TechRadar",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -398,14 +406,6 @@
       "title": "From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcjRwRV9xQnZMWGdhV0FqYlAwRE45aE5oME5pNkNiQ25NRVpJZ0wxVmNWdU1pekY4RU5VbERjdmZkeERKTGdNT3VPX0hYR0hmcl9fdVlFWHluaU1TbGJmWlVpeVhSbzlEbnFLUzBOOGtWTXVRZTY1dXQyajlYSUphcXJnTHo0emY4RE1sYUtEQWFXWHVYWGdsNGx4SmNCSDRoWlVXbkVacTA0WlBYX2R0dmFIQVVhNXlCVE9mcXl4N25xNDBIckU0aDBn?oc=5",
       "summary": "From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service Microsoft",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot: Websites could secretly issue commands to the AI - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRzNpMnhfaEFYaVVoc0pCWFdFVFJSNGNQbjVQWm5BZEVmRnR1eDRScERMTmlJWDM5U3FmbXNsNFc5TWxaWE1BRTRYdWFWT3hqN2laNlZrNElyc3dzcU1vS2wxRkktUjktbjNPRWVmOGdjZWxSbFZzczAzbzI2Ukdoak5tZW1wUUVIT2dORHlzWUdTSTZEV1BYTkRVcF9qTGl4TUZJWkZiRUphd1NyUjN5Sw?oc=5",
-      "summary": "Microsoft Copilot: Websites could secretly issue commands to the AI Notebookcheck",
       "badge": "new",
       "date": "2026-07-15"
     },
