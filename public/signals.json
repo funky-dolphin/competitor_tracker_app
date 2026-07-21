@@ -1,11 +1,91 @@
 {
-  "updated": "2026-07-20T19:37:51Z",
+  "updated": "2026-07-21T02:08:06Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0VfZzJwUmpMQmtCVFRmc2p6NHlXdVEyUEMySm5SOExEVUhjMEJTM0lzUkVCZnJRMVBXNndQaGpUUDJ4bUhZRndxb2pJLVdueUVfcXNGVHN4T2RPajF5NmpKWVpoY1BGSjVweEp0bWJBY3l1RE1OMzdqSE5Gcnd0eVdiTkRaTkF1c2tHc1pOaGFac3JBNzZ3?oc=5",
+      "summary": "Anthropic’s landmark $1.5B copyright settlement is approved TechCrunch",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
     {
       "company": "OpenAI",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
+      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS3IzV0FMSEhudldPYXRhVmRYZldyVUgyNmlVaUZSUFFUVVZSS1pXdXBPTlJYRXg1bTBQLTlweU9SQXplUURYbjh1SGFoYzRPejJRWDZERVplTGgwc0ExUzZVR3JsbkhyVFNZQjRHdzVKTXVQWjJyZk1BM2Z6eHJkQXhOenB2cDYzeF9sZElsMmZkcTdPVm9lUGR3?oc=5",
+      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
+      "summary": "Apply for Anthropic’s AI for Science rare disease research grants Anthropic",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+      "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable. The Washington Post",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -22,14 +102,6 @@
       "title": "China delivers a one-two punch to America’s AI dominance - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTQ1UEdiYk1ZdGlvRkVOMjJaV083RVhycWt5bUJmMndZczJTY2hzeHIxX05fOUg0SkhCalhCaDBUcFRsN0dfMEVwaTc5bE9UaXUyVHJLLS15ZkY3bS1icGh5T3F6Y3hjZHFLejZXMVFHRFExb1dzVl9HQVFxLVJqZF9zVU9tVm5ONnB0cDVrZkVNcElSRGYzSXRGYi1STlFJUHNVNl8xUHRwekU0VUdTOE9xU2JaX2tSemc?oc=5",
       "summary": "China delivers a one-two punch to America’s AI dominance The Verge",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
-      "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable. The Washington Post",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -59,6 +131,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Looking To Save As Much As $600 Million By Swapping GPT And Claude For China’s Kimi K3 In Copilot, Risking A Rap On The Knuckles From The Trump Administration - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUXcxYTdyY3lwWXhVcWFCMUZ1Qm9pSFF1QXBXdTI3SUFzOV9wNkVzYTJpZnVxU182RGtvQ19GbGRMbk10d2cxSzk0ZlpQbEYyMGZjUWEyTEVlMzZqS0c0U3N2WEM4c0lfUE93ZG95aEdkZElCVU13VHFqRjJ4MW1ZX3RZdVI0QTdJY2ZpdzZQTklUWmtkUTZDSHpKd2dja1NqN1hGeDNfX3FYTFlWVXh2R1hkd2pDYVpqeWJtc3pmeHMtdTA1S3lVa1hTeW85VjdHSHBCQ2pURHJDaTJRY0twUWxHdXJvSUxXOEpLSlB4UlQ0alBUbzZnd3YyOTY4WGNUVU1QWF96UDRQZ1FrcVN1M28wMmlSZ9IBmwJBVV95cUxNNTF6NG1ublJTRW5FVFYtZnZsdnFDZzZGN0lrY1JvQVpHNHJXRGRZbFotMVNTRWJza05FTDhMN0NZLTBLRGRyX1lWckZOUm5KUzVMZmRIUzVfcDY5dGlKLWJ0clJUeFQtVHZFTXFoTEVseGZrUHVKcG5LOGxyT0hXY2FYd0JvQjFXUnp6eEswUDJIN1FWamFNQkdJdDNvRGZramdxVldYem1mb0lQMHpnbXJUUUFadFlxSmYtMUYzbm5scFM0a0YxQUlGbHNDWTFncFVMR2hIcVl1d2VaQ2txRzUwWjlEUUx5UHp6dm50QUpPeWNPcy1JNkprQThkMjk3N3B2QXM0VjZpTmN4RWR3aVFfUnhEc1dScTRv?oc=5",
+      "summary": "Microsoft Looking To Save As Much As $600 Million By Swapping GPT And Claude For China’s Kimi K3 In Copilot, Risking A Rap On The Knuckles From The Trump Administration Wccftech",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVGxfdnZESnNxZm5LeGkzSTdReVR0dmlNSUc4QW9XOWQ0aWRoRjU4YnE1R29NNGJLd3IwMGY0OHNEWW1wNnVSYmNqN1hBa0U5LThVUmZIX3lPdU1aOE42Q19ZelNXdjBCSU83OWwtRTVRenBmdzQ1NThwNWNaYTRPT2tOaW1fWkd5Tm5OQWxOTWJNcXpUc2N4NFdaUWcwSXBuak1fNVlxZW5wOEwtMUQ4MExVcVIxUGdDeGNXSnBLN3RnMTE4RFQ1TUx5MFZDSlB1cUpmbEZjajdoWWF0S2lRajFocXpzZzQ?oc=5",
       "summary": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it Windows Central",
@@ -66,42 +146,10 @@
       "date": "2026-07-20"
     },
     {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "company": "Perplexity",
+      "title": "Perplexity AI explained: what the AI search company does - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6aEg0MXJzUjIzcHBfeUV4d25fa0tiYl81U1ZJazRxdUZuRlNoaG5DdWNreEJXenNyeHg5bG5kalZvTDAzMi1vWmwtTUM?oc=5",
+      "summary": "Perplexity AI explained: what the AI search company does qz.com",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -110,6 +158,22 @@
       "title": "These 3 Perplexity power-user techniques make AI search more useful - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80OU93NUVCdGg0Z2RRdDdvRGtHWlhfVWcyLW94MHpXNlU3cXlFa1Y0VkVscEI1WWx4YTNXS2dFczVNZDRZSnJpS19fUkVRYUtrQXB4ejk1ZFN2M1ZuNGN0M0RjOTg?oc=5",
       "summary": "These 3 Perplexity power-user techniques make AI search more useful Fast Company",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Ambitions Keep Expanding. Is META Stock Keeping Up? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0ZPMEN0bV8yaUlqUUxwb3hDOC1aeGlGRlZWNUNlemRuMVFXMzlZTThPODdzTWx2SElONV8zR3NONGV0ZnpyNWZaUEpKZ1pCSGFTVDNyN05wX2VFNVVVNEZEZEdudHZIYmNDM1l5MXF0NWQycTlldF9CMDRqZE9MMXpHZmoxVFpXMlpoUnJoM3BOLU9FUDF2Y3hrUXhpanNWeHJYMw?oc=5",
+      "summary": "Meta’s AI Ambitions Keep Expanding. Is META Stock Keeping Up? 24/7 Wall St.",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs - HR Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1ZWeWVWZy1oNmY3Ulh6RGdjcjdZczZYV3pqVEc0dEZ3ZDJqU05kNVJwYUtoSkZfOW14NzQzUlFwbm5nSlRORUVVcFJRV2UzVmsyQnJlYTVlZ0tQRHp3dGFPNGNyR2RxUnJ6V3ZhbE94Nm9wSGU3clg0ZW9kd0FkY0dJcUs5MFAxV0FtS1dGaFAzaHc?oc=5",
+      "summary": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs HR Dive",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -138,30 +202,6 @@
       "date": "2026-07-19"
     },
     {
-      "company": "Anthropic",
-      "title": "Thinking Machines is coming for Anthropic’s intellectual vibe - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUVVWms0dFdvZU83QlJiZVdQdzZBSWhVTjZlelljT2E3eHZ6cUo2ZlVEd2ZXOV9OU3ByRlB6aU5MMHpna1BGQlB6VDFJaExVRWpUdnpLTHJyMEdGRFVtVjVhbFUxaEFNR01RbXlvWWQ1NllwQV90LVlwenFob0djT2hzbUtTVDZYbXg3alBkZF85NzlBM2dGWkJZUmhrdw?oc=5",
-      "summary": "Thinking Machines is coming for Anthropic’s intellectual vibe Fast Company",
-      "badge": "new",
-      "date": "2026-07-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "SpaceX is quietly building an AI compute business that may become key to its eye-popping valuation - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMW5jcml6Q2JKR0oxZHNKMnZpTXAteG9uQUwyNmRXbEVKQlM5ZVp4emtGQWx1OGd4a0RnS1BmTUJCd2hVa1Y1UjFMMlRuaHh1LTBKMllXUXdnNmJZc0NiWVhFRm1rMlBaay14MFptREp2dXRIZGdwaFkyR2c4SXJYXzB2SnU4UnM5ZTVNVGNDbHBod1JrMWtJelozR0xkeV9HQ1pvdmx2V1Zjd3gyWUFQcGROTUhlNWlVcE5fWUFiV1RCbVN1ckdtOHNidjZ2SlhHdl9xUWZVZG9OMVRWUFZLVDNB?oc=5",
-      "summary": "SpaceX is quietly building an AI compute business that may become key to its eye-popping valuation Fortune",
-      "badge": "new",
-      "date": "2026-07-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Could AI be conscious? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
-      "summary": "Could AI be conscious? The Guardian",
-      "badge": "new",
-      "date": "2026-07-19"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft has abandoned Outlook Classic, but Copilot keeps arriving anyway, and users are stuck - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHRlMnR0VDdWVzZTN0lZUnVFLUVyT09nOS1JTWxMazJISUNORi1TcG9GdGVNbTBLNkptWVVMblY1dTBlbE5NVVY0V2NZVVZYZkpjQXlGb3BFOUlzOG94SlFvalBweGpoVmJmMmEwQ0o2S0FaeDNvSkNBSWkzZEVlWFBNdjJHUEM3X0xtZFhlLW9rVlNhSGJ6U2llOWtPWUhSQTNWSVRXTEJ2ejFrdmlCUHRUS3hFVV93X1FVQU0zZXFDUGZidVpCUXAxVzB1QWs?oc=5",
@@ -184,14 +224,6 @@
       "summary": "Chinese Kimi K3 outshines Fable, OpenAI’s Codex hardware, and Perplexity returns with SPACE — Weekly AI Roundup 19 July financialexpress.com",
       "badge": "new",
       "date": "2026-07-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Meta, Anthropic drop bombshell news on AI market - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmNwNm1kNXFqbEE0S19iZEc4aEsxQUpqVjZBVHJWYXVhd1RlbnVsQVhlMlJIOWEwVHNBY0lPY2NOQl82YW1vN2VYS2RXMktSUDNHOERLWllOMFBwR2tXNl9VRWRCXzJhNkZxYko1eW9GRElYOVE0WGQ1X1BRVHZudnU3QmUwRUxnMTJV?oc=5",
-      "summary": "Meta, Anthropic drop bombshell news on AI market Yahoo Finance Australia",
-      "badge": "new",
-      "date": "2026-07-18"
     },
     {
       "company": "Microsoft",
@@ -330,22 +362,6 @@
       "date": "2026-07-17"
     },
     {
-      "company": "Meta",
-      "title": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTzdGTU82UkNVNG42WVFWMUlhLXg0enFBSnA1TWFxT3loLXIyRnFtVWk1bk9TX092Vm1mV3NsRUhQNkNMM0FQOGtOcjVhRXNOUTFzOERtYUhfN3MyNWZIRnlIbURxalNIODZkTTlRcC1rTlR6TGFMUkZieGNiOVlRZ0VzZG1TVlhZVlo5TngwY0QxQnFPY2RwdmdNQmRYQlVRU3hWMGpxMVNrOGFSVTBkdEFZS1JCNDNhYl92UlJyNm0wX2pNRHp4cjh5bTBUa2h3amlidg?oc=5",
-      "summary": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit Reuters",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Anthropic in early talks with Meta to acquire compute power - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
-      "summary": "Anthropic in early talks with Meta to acquire compute power CNBC",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
       "company": "OpenAI",
       "title": "Why teens deserve access to safe AI",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
@@ -410,27 +426,11 @@
       "date": "2026-07-15"
     },
     {
-      "company": "Microsoft",
-      "title": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejRVTlRQbTBrUG1PelJpUTRjTjhnTlBiRDBGa1JvV2M1eEUyWHpFWnR5UGtyUjR2TEczTG8wQ0ZtRzk1cGVleE9ZUGVWeXB2Y0lQLWZqNFBtVDNqb2pEcUVpRl9QNXJZVzBwVl9rLUtTNTlLeHdCWXBRbmpFbVZoeC01QjhjXy1DeTMzSHVuTHdPNVF6MnRrcGhVdHlOODVUZk1lSjQwN3NBSk5PTWlUcGxBdkFCV0FKc0E?oc=5",
-      "summary": "Why Jim Cramer is shocked by Citi's against-the-grain praise of Microsoft's Copilot CNBC",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
       "company": "Apple",
       "title": "Apple Creator Studio gets smarter, faster, and more connected",
       "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
       "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
       "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity launches secure sandbox to make its AI agents secure and powerful - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUR5c3YyYzRfMzROVkNlUHNGYi1Qd29lQU1Ea1o2Wnd4NUJwNDJQZTJ5cTFUNWJuMlFpNDRxa2tneTF5SlJkbnUweW4tSVZkcDcxdnZFREZKRGpCamNMTHJjUElGTWlPbzYtbGM2UC1iUnBqandfaUw3RGZTNkNFODAwcFVMSllfVmxtanUwVEVJRGd2cE8zQzZNdUZmUXpYcHBJRw?oc=5",
-      "summary": "Perplexity launches secure sandbox to make its AI agents secure and powerful SiliconANGLE",
-      "badge": "hot",
       "date": "2026-07-15"
     },
     {
