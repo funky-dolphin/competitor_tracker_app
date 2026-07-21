@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-21T08:17:13Z",
+  "updated": "2026-07-21T13:26:37Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says an AI security startup's logo looks too much like its own - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXNFNpaDFwbVZnTjhKcGNWQWpSd1hZV0ZNcEVXVjZlOUluRGg5cy1IZ0NSazdaLUV0c01WV1RWTkxSVHl5Z0FYYWdRTzBBbW9USFdlX3FuV0NfS3JmMGFXcGhseGttMlpRWTBYdWFIQkhURlUwZ09R?oc=5",
+      "summary": "Anthropic says an AI security startup's logo looks too much like its own Axios",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved - TechCrunch",
@@ -50,6 +58,14 @@
       "date": "2026-07-21"
     },
     {
+      "company": "Meta",
+      "title": "Meta Will Now Tell Parents If Their Teen’s AI Chat Turns Dark. Should It? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUFva21odW5naEdTcC1QTVdPdEpKZkUtRmZpR01jd0YtdjhKaUNVUWRJQnlmYy1oM20xa09qenRZRGJtZ0h2eTlBZ0ZjT1JPcmktMzZpWXpiME1odWFGTkYtalZTNWkxYkJCRWZid00zQ2pkeFN2eWg1aG80STFrX04yc18tX2xHYzRnLUVkUXQ5RDRTNGxZRUN4UVVZRVhZNjBpeHRUeUFiVDdiZDBNSnpVM2hNc2liOEF1TFZTMl9fdw?oc=5",
+      "summary": "Meta Will Now Tell Parents If Their Teen’s AI Chat Turns Dark. Should It? Forbes",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
       "company": "OpenAI",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -61,15 +77,7 @@
       "company": "Anthropic",
       "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
-      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVwTEtkeTNObDBVQldxZkZ0bFhqWmNtYW44aUxqYkdCQm5aUk1qY3RKMWJsRm1OeEFfc2NVQUtfM1hQamljdWh5ZEZuX3lmand1RHZiQkJzb3BPSnlXcVZ2VGFXRGZVYWZmdVB2enh3MGxIZllvQlg0aTc1SXJIeVdMZ0pMLUVsbUNIbVUtOWxPOE0zLXRualFiNlJTQmh1bDExN0ZaYVFfUGhMUXpKRlR0U2M?oc=5",
-      "summary": "Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle New York Post",
+      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters Anthropic’s landmark $1.5B copyright settlement is approved TechCrunch Anthropic AI copyright lawsuit: Update as judg",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -86,6 +94,22 @@
       "title": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
       "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable. The Washington Post",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg1aWRZV3ZuMkNSSE5XbUhYeGVwMkVzcy1BSnVCNmZDRS1veHl1LVhYNmVLb2JjZnljQzBzNEIzVlRQVUhBS0J4NFB2Ul91QWcxbHNoVUxwR2N0MUNGNU54SGdhTjVxQmk5c0xnZlpqWWRhbFZQdmJUZWJnVTB5OG5JTFN6WjI4eXY0QnJlNHl6WVlwN084aF94TFRUNmVoMnV6eTBkd3NVQUl5YUVPRjBQZ1VhdE55VUt4cmt2cUg1XzA?oc=5",
+      "summary": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers TechCrunch",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVwTEtkeTNObDBVQldxZkZ0bFhqWmNtYW44aUxqYkdCQm5aUk1qY3RKMWJsRm1OeEFfc2NVQUtfM1hQamljdWh5ZEZuX3lmand1RHZiQkJzb3BPSnlXcVZ2VGFXRGZVYWZmdVB2enh3MGxIZllvQlg0aTc1SXJIeVdMZ0pMLUVsbUNIbVUtOWxPOE0zLXRualFiNlJTQmh1bDExN0ZaYVFfUGhMUXpKRlR0U2M?oc=5",
+      "summary": "Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle New York Post",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -114,26 +138,10 @@
       "date": "2026-07-20"
     },
     {
-      "company": "Anthropic",
-      "title": "Unpacking Anthropic's 100-day sprint into biopharma: Nobel hires, M&A and major ambition - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl8tT0RXejUtYlg0dkc3YlVoeU5EU2tfZExLVEhUMDYyVXdTa2UxdE9jSl9meE9CZjBfZVEwZFZocUxRRnI5X3hpeEo3TUpIT0U0Y2dFOGlBakVScTd6QjNfVXVYaXk1bHZ0Z1BnNHFiY0ROR3RGZU5QVWIzZGtvN2RXRHRLdWRRdmp0bWpabFpFcV9MejhpOUMwaW1tSFprMGlDLXln?oc=5",
-      "summary": "Unpacking Anthropic's 100-day sprint into biopharma: Nobel hires, M&A and major ambition Endpoints News",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5",
-      "summary": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. Barron's",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
       "company": "Microsoft",
-      "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
-      "summary": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. Windows Central",
+      "title": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVGxfdnZESnNxZm5LeGkzSTdReVR0dmlNSUc4QW9XOWQ0aWRoRjU4YnE1R29NNGJLd3IwMGY0OHNEWW1wNnVSYmNqN1hBa0U5LThVUmZIX3lPdU1aOE42Q19ZelNXdjBCSU83OWwtRTVRenBmdzQ1NThwNWNaYTRPT2tOaW1fWkd5Tm5OQWxOTWJNcXpUc2N4NFdaUWcwSXBuak1fNVlxZW5wOEwtMUQ4MExVcVIxUGdDeGNXSnBLN3RnMTE4RFQ1TUx5MFZDSlB1cUpmbEZjajdoWWF0S2lRajFocXpzZzQ?oc=5",
+      "summary": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it Windows Central",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -147,9 +155,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVGxfdnZESnNxZm5LeGkzSTdReVR0dmlNSUc4QW9XOWQ0aWRoRjU4YnE1R29NNGJLd3IwMGY0OHNEWW1wNnVSYmNqN1hBa0U5LThVUmZIX3lPdU1aOE42Q19ZelNXdjBCSU83OWwtRTVRenBmdzQ1NThwNWNaYTRPT2tOaW1fWkd5Tm5OQWxOTWJNcXpUc2N4NFdaUWcwSXBuak1fNVlxZW5wOEwtMUQ4MExVcVIxUGdDeGNXSnBLN3RnMTE4RFQ1TUx5MFZDSlB1cUpmbEZjajdoWWF0S2lRajFocXpzZzQ?oc=5",
-      "summary": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it Windows Central",
+      "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
+      "summary": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. Windows Central",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -350,14 +358,6 @@
       "title": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic | CNN Business - CNN",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1neG5tT0QyM0E2V2lyWEVzaUNkS2FzdXF6UUx5LUY1SFI4RnJiSlpLUTNTWm1yRFA0QTQxWWVHSWlzTTlvZTBITmlXTGs1UE44WmZ5S3pmMU1BNFhEa2dvTHB1VEhKVWEteElkU0ZjMkcwRHJlN3JLRw?oc=5",
       "summary": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic | CNN Business CNN",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmRkTm5TMWxycFNMamgybkc4cnp0YThGbnNZbjJtRnU0anZvRm9TZ2hXRkVJVnB0emRrLXVGaGl3SGtpWVJvZFZoWmw1MFVTUlpnVEo3M1dxUHdDTG84Z1M1NTdwcjFKUzdOOFdKTE5iSWdmbURVOHkxaFptVzRGdnpCbW83dW9yaGE5QzdPampCM1FhUVBpZm44Qzd1YUlSU0NRVldfYlhUYkZ0a05wWFZlQXA1TnM?oc=5",
-      "summary": "Judge won’t block Meta from axing workers who filed AI discrimination lawsuit New York Post",
       "badge": "new",
       "date": "2026-07-17"
     },
