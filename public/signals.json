@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-21T13:26:37Z",
+  "updated": "2026-07-21T19:11:48Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "badge": "hot",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
+      "summary": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot AP News",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic ramps up lobbying spending amid AI policy fights - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcGtmeUxLaHFGLVZ4b292ZXE5dlB5ZFNaeldJNWJQb3pBTjFfUzVVUHJnZlA5cWVHOTlLcEMwdVdYU1hMR1oweFQ0YWV5RF9KRkZ4TWdVOUFzWEVyZnJoNTVyaE5BSnYzQ004NGpTcmdTYWIwX0tiU09mRHpLZWFNZE9vUTd2QzRseGdPUnpUQQ?oc=5",
+      "summary": "Anthropic ramps up lobbying spending amid AI policy fights Axios",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google Releases Three New A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5",
+      "summary": "Google Releases Three New A.I. Models The New York Times",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic says an AI security startup's logo looks too much like its own - Axios",
@@ -14,6 +46,22 @@
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0VfZzJwUmpMQmtCVFRmc2p6NHlXdVEyUEMySm5SOExEVUhjMEJTM0lzUkVCZnJRMVBXNndQaGpUUDJ4bUhZRndxb2pJLVdueUVfcXNGVHN4T2RPajF5NmpKWVpoY1BGSjVweEp0bWJBY3l1RE1OMzdqSE5Gcnd0eVdiTkRaTkF1c2tHc1pOaGFac3JBNzZ3?oc=5",
       "summary": "Anthropic’s landmark $1.5B copyright settlement is approved TechCrunch",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5",
+      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control Microsoft Source",
+      "badge": "watch",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpDX3p1ZWJZMVktdkwtSVFfREFoY2FzLXExNnFyRENhTUtXVXFvX2FCVTFXX1RfUkRtdDhFeEhTdnpfbnVWQjVNUlN1dUQ3SVlLRGtQSDBVUFRYOVdlYjNKT2dzQWgtdHVjU0VzRVlJak9ISVYyMFZ6aW93YklCNkNFNTVUSmV6dmt0R2Jn?oc=5",
+      "summary": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) Seeking Alpha",
       "badge": "new",
       "date": "2026-07-21"
     },
@@ -59,6 +107,38 @@
     },
     {
       "company": "Meta",
+      "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5",
+      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram The New York Times",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREJvZWlUZE45SFpzR3pLSDhua1UzaHNYdXYzUnpkT19hcEF5dS12bFFIR0MtWE1iRkxHNEFUQ0h0YkVTV2lwcWl1MXZoaHphdGFSbmpLQXBWSmpKMkhNWkxJV1VPaldqWFZVZ1d4M1RraWNhRnIzbEVLVWJEbGZaaVBaN2ptSE42cnp1NnF5RTB3bXBQWVE?oc=5",
+      "summary": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5",
+      "summary": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns Barron's",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Meta",
+      "title": "New \"Advertisement\" for Kylie Jenner's Meta Perv Glasses Shows Something Extremely Funny If You Look at It From the Wrong Angle - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUM1cFlINjU1ckFUNnVTRjFPaVYta3Y0eEU0SVFNalBWdXdCbklnZzBKWnRCMy1qeGl3NFlreXZwWEwwckJTLVUzM0o0blo0UEMyYVNtZnk4UE9IMThVT3BkT3o4SThrUFBwbjR5MF85RUlsNmVVVml1TnJpbVVlU2VCX0JKdGFLbVhmRkFHbW90dw?oc=5",
+      "summary": "New \"Advertisement\" for Kylie Jenner's Meta Perv Glasses Shows Something Extremely Funny If You Look at It From the Wrong Angle Futurism",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Meta",
       "title": "Meta Will Now Tell Parents If Their Teen’s AI Chat Turns Dark. Should It? - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUFva21odW5naEdTcC1QTVdPdEpKZkUtRmZpR01jd0YtdjhKaUNVUWRJQnlmYy1oM20xa09qenRZRGJtZ0h2eTlBZ0ZjT1JPcmktMzZpWXpiME1odWFGTkYtalZTNWkxYkJCRWZid00zQ2pkeFN2eWg1aG80STFrX04yc18tX2xHYzRnLUVkUXQ5RDRTNGxZRUN4UVVZRVhZNjBpeHRUeUFiVDdiZDBNSnpVM2hNc2liOEF1TFZTMl9fdw?oc=5",
       "summary": "Meta Will Now Tell Parents If Their Teen’s AI Chat Turns Dark. Should It? Forbes",
@@ -77,7 +157,7 @@
       "company": "Anthropic",
       "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
-      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters Anthropic’s landmark $1.5B copyright settlement is approved TechCrunch Anthropic AI copyright lawsuit: Update as judg",
+      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters Judge Approves Anthropic's Record-Breaking $1.5 Billion Settlement For AI Copyright Lawsuit Engadget Anthropic’s land",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -114,34 +194,10 @@
       "date": "2026-07-20"
     },
     {
-      "company": "Anthropic",
-      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS3IzV0FMSEhudldPYXRhVmRYZldyVUgyNmlVaUZSUFFUVVZSS1pXdXBPTlJYRXg1bTBQLTlweU9SQXplUURYbjh1SGFoYzRPejJRWDZERVplTGgwc0ExUzZVR3JsbkhyVFNZQjRHdzVKTXVQWjJyZk1BM2Z6eHJkQXhOenB2cDYzeF9sZElsMmZkcTdPVm9lUGR3?oc=5",
-      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Yahoo Finance",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5",
-      "summary": "Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5 WSJ",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China delivers a one-two punch to America’s AI dominance - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTQ1UEdiYk1ZdGlvRkVOMjJaV083RVhycWt5bUJmMndZczJTY2hzeHIxX05fOUg0SkhCalhCaDBUcFRsN0dfMEVwaTc5bE9UaXUyVHJLLS15ZkY3bS1icGh5T3F6Y3hjZHFLejZXMVFHRFExb1dzVl9HQVFxLVJqZF9zVU9tVm5ONnB0cDVrZkVNcElSRGYzSXRGYi1STlFJUHNVNl8xUHRwekU0VUdTOE9xU2JaX2tSemc?oc=5",
-      "summary": "China delivers a one-two punch to America’s AI dominance The Verge",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
       "company": "Microsoft",
-      "title": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVGxfdnZESnNxZm5LeGkzSTdReVR0dmlNSUc4QW9XOWQ0aWRoRjU4YnE1R29NNGJLd3IwMGY0OHNEWW1wNnVSYmNqN1hBa0U5LThVUmZIX3lPdU1aOE42Q19ZelNXdjBCSU83OWwtRTVRenBmdzQ1NThwNWNaYTRPT2tOaW1fWkd5Tm5OQWxOTWJNcXpUc2N4NFdaUWcwSXBuak1fNVlxZW5wOEwtMUQ4MExVcVIxUGdDeGNXSnBLN3RnMTE4RFQ1TUx5MFZDSlB1cUpmbEZjajdoWWF0S2lRajFocXpzZzQ?oc=5",
-      "summary": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it Windows Central",
+      "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
+      "summary": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. Windows Central",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -155,9 +211,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
-      "summary": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. Windows Central",
+      "title": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVGxfdnZESnNxZm5LeGkzSTdReVR0dmlNSUc4QW9XOWQ0aWRoRjU4YnE1R29NNGJLd3IwMGY0OHNEWW1wNnVSYmNqN1hBa0U5LThVUmZIX3lPdU1aOE42Q19ZelNXdjBCSU83OWwtRTVRenBmdzQ1NThwNWNaYTRPT2tOaW1fWkd5Tm5OQWxOTWJNcXpUc2N4NFdaUWcwSXBuak1fNVlxZW5wOEwtMUQ4MExVcVIxUGdDeGNXSnBLN3RnMTE4RFQ1TUx5MFZDSlB1cUpmbEZjajdoWWF0S2lRajFocXpzZzQ?oc=5",
+      "summary": "Microsoft is retiring Copilot Podcasts, and your generated content will disappear with it Windows Central",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -250,22 +306,6 @@
       "date": "2026-07-18"
     },
     {
-      "company": "Meta",
-      "title": "This family says they’re living right beside the future home of Alberta’s Meta AI data centre - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXVaZVc5U05sRHpwdkY5VDN0Q1ExeHdIU1RkMHdMYUI0cXFUcTFoRkt4ckJET3c1X3owaXB5Sl9pRGw4ZjZyeHh4c04yM2JZR2dSRmVORWk2UHdNc05PbkNrbUVpYlNzb2U0R1FMb055b3dHd2g1M1J1RDJQRFRxcFJNWFA5WlJmUENRYjhCVGxURnA2eWl1SS1DMFVrZGt5QnBWT19mOHNwd2QwNGx6LTB1NW1tWkloSWpTYzNtRloyYXEwcTRLd2VRdUc?oc=5",
-      "summary": "This family says they’re living right beside the future home of Alberta’s Meta AI data centre CTV News",
-      "badge": "new",
-      "date": "2026-07-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's 'AI overbuild' finds a buyer as Anthropic eyes $10 billion computing power deal - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZXJGOG5FYmZyUVo5R1B6SnZ1SllxaXlGWFZyLUE0WHRPcjBLVHo4NFRWaWszSTFkSnBpZlNqSGF1MS1xTlJYdUFSYkJ4OHdSbWxZeXlLTWFkYkd4TFNnRzlmNC1QYWQ5NS1UQkt3a3BOb0ZaVkdrbW5wZFVQT2VLdGNIYzh5VTZqMTVFclNpTU0tMkNObm9EMmVuQXZwUkRhOFg3TzB5OEZnRHUzb0N0bGxTcGVHVENJQ2E2ZGFoaVFZYzVpQm11NEJCYlh5NGRYTW4wb2MzQXBBd9IB3wFBVV95cUxOSWkyYnJqTWNZVTZ1Qi05WG0tNV9ZcjRUU2FsUHNjSkJkTU9hdEgzd1lzWk1SbktOay1oSHk3UlhwMUZsMVJtcUxaWFNyTFhVdG0tUVBya3BsamRWbDZJNmRUdEhTdFVpU1IxNGNrYWRWTWh6VG1ZUENQOXBxZFF6VFp3emRDUWd6UkZaN3ZCWHlNOXcxVGJuQ0Y3ajgzRUhDV1Y3V1hEdDVPb3lXbWZDanh2RjQ5QmkzbUNjdTZUaVBVejk5dHRmSlFJVzFRZUJSVmJmVDFBR1hhYnU3WlE4?oc=5",
-      "summary": "Meta's 'AI overbuild' finds a buyer as Anthropic eyes $10 billion computing power deal livemint.com",
-      "badge": "new",
-      "date": "2026-07-18"
-    },
-    {
       "company": "OpenAI",
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -294,14 +334,6 @@
       "title": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDBRLWpNWDl0dWpiOVJMU05mN0RERHVHcl85ajNuRmU5WmNvMFBBcDdHazU5QXJCMHoxWl9TbkszbTNJZU44WlN2YWhCOEZkMWhmZkVvZFh6aHQwOWRWSGRybUZ0MjRreFdrY2tTSGZ3VFdiVl85T045NVFCXzBtNG5VeDZUaGV4U0I3ajRtREJJbUVRRUZYWlU0MGRuS2ZMQzNXbVNCTGs0TzFYR1phREJ2Yy1oMlNfNUNMSmtXSTZ6c1QyWHFXWnNHSU5US3pZWWUxd1R2MFFHTVFUN1JJ?oc=5",
       "summary": "Microsoft Teams will use AI to archive your meetings for Copilot analysis, plus 6 more changes Windows Latest",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Your first AI agent — teach Microsoft 365 Copilot to draft the month-end commentary your way - Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajM4dElYYnphbXpNZ1UtOFYzWmJmbnVGUUhmcV84M3AyZWNMSEZxRktteS1WTW9JU1pMcWFKeGhScG5raDluUDJIODVxREk2eU9wb19NUEFlUWhWaDlXMzZrTGxwdHNoaS0tYk1GLUZ5SFAxSnRwQW9Lb1pPdWl2aXZzZXBZS2NZM1VRamI5ZWpYWmdVOUltVmtTMEh3ejFBSjdMa3dWZWwxMVU4eWVDS1dZYjk4cW9J?oc=5",
-      "summary": "Your first AI agent — teach Microsoft 365 Copilot to draft the month-end commentary your way Jamaica Observer",
       "badge": "new",
       "date": "2026-07-17"
     },
@@ -346,22 +378,6 @@
       "date": "2026-07-17"
     },
     {
-      "company": "Meta",
-      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
-      "summary": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal The New York Times",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1neG5tT0QyM0E2V2lyWEVzaUNkS2FzdXF6UUx5LUY1SFI4RnJiSlpLUTNTWm1yRFA0QTQxWWVHSWlzTTlvZTBITmlXTGs1UE44WmZ5S3pmMU1BNFhEa2dvTHB1VEhKVWEteElkU0ZjMkcwRHJlN3JLRw?oc=5",
-      "summary": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic | CNN Business CNN",
-      "badge": "new",
-      "date": "2026-07-17"
-    },
-    {
       "company": "OpenAI",
       "title": "Why teens deserve access to safe AI",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
@@ -390,14 +406,6 @@
       "title": "Create, edit and star in videos with two Google Vids updates",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
       "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "What's Going on With Microsoft Stock Thursday? - Microsoft (NASDAQ:MSFT) - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUmFHTGZoQmtaVm5ENndMR0g2MW43OXU5UXlxZzZfdS00X0VnNVEzaS1HRzJxeENwTUZxSmpwdkFyMGpWZUJfTGV6aUVaWko2WW9wWkZPZzJleVVtSDNCS3hwTGd3S0MwWDFKQlJhbkNEWVRZVExEVlZrN0lxWTRWcFZuXzNvSVZhNDIwLUdVdVc1cnFjRXpDOGp2dC1manVjT0UtbnM5Ql9heGdGeDVBdUkzSUVBb0JWX1FLVEdMYU1qN1BmOHZ2LWsyX19YdVVPanNIQ2FYWGlmQkxUdGdDMQ?oc=5",
-      "summary": "What's Going on With Microsoft Stock Thursday? - Microsoft (NASDAQ:MSFT) Benzinga",
       "badge": "new",
       "date": "2026-07-16"
     },
@@ -472,14 +480,6 @@
       "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
       "badge": "new",
       "date": "2026-07-14"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "badge": "new",
-      "date": "2026-07-10"
     },
     {
       "company": "Amazon",
