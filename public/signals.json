@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-22T13:38:31Z",
+  "updated": "2026-07-22T19:06:14Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Building AI infrastructure with the Effingham County community",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "badge": "new",
       "date": "2026-07-22"
     },
@@ -18,50 +26,10 @@
       "date": "2026-07-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5",
-      "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal WSJ",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
-      "summary": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips Reuters",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AMD and Anthropic sign chip deal worth up to $5 billion - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RMXY1XzdlQWljWTlzd1l1OGZuUTRqbWdYVWpqNW1yYUJQazFfV3N5bHRZMXNUTlFSYlN1Y1pObTBvZ3V5TWZGNlE5bDgzRU1tTmszdDRBQThhVkdDajhnbExNLXliRVk?oc=5",
-      "summary": "AMD and Anthropic sign chip deal worth up to $5 billion qz.com",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5",
-      "summary": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement Reuters",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
       "company": "Google",
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "‘Make the leap’: How I turned an idea into a corporate AI hackathon for young people - Microsoft UK Stories",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaE1oMWw5S0lwNHcyNkh1M09IMmdFX1dNb0ttbkdPWHk4ZzgzZ1AxOV9rODdmam9nUVo1ZFNiZjdLSlhfM1ZuSzBVXzdTZldnZXdpams1c1NwbnV3c2RwQzlNV2d4eUV3aXdhQkR6UXAtNjg4b2E3cnMyaVRJdm5rWWdUMDh5aWp5aWJrb0RlcWhPSXczRlhPTUpjTy1HbTJoVXVfb0N1Z0FkbFo0V1FmOHV3eFFNbUJzaUFhRXIyV00?oc=5",
-      "summary": "‘Make the leap’: How I turned an idea into a corporate AI hackathon for young people Microsoft UK Stories",
       "badge": "new",
       "date": "2026-07-22"
     },
@@ -102,6 +70,46 @@
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
       "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5",
+      "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal WSJ",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
+      "summary": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips Reuters",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AMD and Anthropic sign chip deal worth up to $5 billion - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RMXY1XzdlQWljWTlzd1l1OGZuUTRqbWdYVWpqNW1yYUJQazFfV3N5bHRZMXNUTlFSYlN1Y1pObTBvZ3V5TWZGNlE5bDgzRU1tTmszdDRBQThhVkdDajhnbExNLXliRVk?oc=5",
+      "summary": "AMD and Anthropic sign chip deal worth up to $5 billion qz.com",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5",
+      "summary": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement Reuters",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Microsoft",
+      "title": "‘Make the leap’: How I turned an idea into a corporate AI hackathon for young people - Microsoft UK Stories",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaE1oMWw5S0lwNHcyNkh1M09IMmdFX1dNb0ttbkdPWHk4ZzgzZ1AxOV9rODdmam9nUVo1ZFNiZjdLSlhfM1ZuSzBVXzdTZldnZXdpams1c1NwbnV3c2RwQzlNV2d4eUV3aXdhQkR6UXAtNjg4b2E3cnMyaVRJdm5rWWdUMDh5aWp5aWJrb0RlcWhPSXczRlhPTUpjTy1HbTJoVXVfb0N1Z0FkbFo0V1FmOHV3eFFNbUJzaUFhRXIyV00?oc=5",
+      "summary": "‘Make the leap’: How I turned an idea into a corporate AI hackathon for young people Microsoft UK Stories",
       "badge": "new",
       "date": "2026-07-22"
     },
@@ -314,22 +322,6 @@
       "date": "2026-07-20"
     },
     {
-      "company": "Perplexity",
-      "title": "These 3 Perplexity power-user techniques make AI search more useful - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80OU93NUVCdGg0Z2RRdDdvRGtHWlhfVWcyLW94MHpXNlU3cXlFa1Y0VkVscEI1WWx4YTNXS2dFczVNZDRZSnJpS19fUkVRYUtrQXB4ejk1ZFN2M1ZuNGN0M0RjOTg?oc=5",
-      "summary": "These 3 Perplexity power-user techniques make AI search more useful Fast Company",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI explained: what the AI search company does - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6aEg0MXJzUjIzcHBfeUV4d25fa0tiYl81U1ZJazRxdUZuRlNoaG5DdWNreEJXenNyeHg5bG5kalZvTDAzMi1vWmwtTUM?oc=5",
-      "summary": "Perplexity AI explained: what the AI search company does qz.com",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
       "company": "Meta",
       "title": "Meta’s AI Ambitions Keep Expanding. Is META Stock Keeping Up? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0ZPMEN0bV8yaUlqUUxwb3hDOC1aeGlGRlZWNUNlemRuMVFXMzlZTThPODdzTWx2SElONV8zR3NONGV0ZnpyNWZaUEpKZ1pCSGFTVDNyN05wX2VFNVVVNEZEZEdudHZIYmNDM1l5MXF0NWQycTlldF9CMDRqZE9MMXpHZmoxVFpXMlpoUnJoM3BOLU9FUDF2Y3hrUXhpanNWeHJYMw?oc=5",
@@ -342,6 +334,22 @@
       "title": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs - HR Dive",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1ZWeWVWZy1oNmY3Ulh6RGdjcjdZczZYV3pqVEc0dEZ3ZDJqU05kNVJwYUtoSkZfOW14NzQzUlFwbm5nSlRORUVVcFJRV2UzVmsyQnJlYTVlZ0tQRHp3dGFPNGNyR2RxUnJ6V3ZhbE94Nm9wSGU3clg0ZW9kd0FkY0dJcUs5MFAxV0FtS1dGaFAzaHc?oc=5",
       "summary": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs HR Dive",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Perplexity",
+      "title": "These 3 Perplexity power-user techniques make AI search more useful - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80OU93NUVCdGg0Z2RRdDdvRGtHWlhfVWcyLW94MHpXNlU3cXlFa1Y0VkVscEI1WWx4YTNXS2dFczVNZDRZSnJpS19fUkVRYUtrQXB4ejk1ZFN2M1ZuNGN0M0RjOTg?oc=5",
+      "summary": "These 3 Perplexity power-user techniques make AI search more useful Fast Company",
+      "badge": "new",
+      "date": "2026-07-20"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI explained: what the AI search company does - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6aEg0MXJzUjIzcHBfeUV4d25fa0tiYl81U1ZJazRxdUZuRlNoaG5DdWNreEJXenNyeHg5bG5kalZvTDAzMi1vWmwtTUM?oc=5",
+      "summary": "Perplexity AI explained: what the AI search company does qz.com",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -456,14 +464,6 @@
       "summary": "Can Ethereum Hit $12,000? Arthur Hayes Buys $2.48M as Perplexity AI Reveals Bullish Prediction CCN.com",
       "badge": "new",
       "date": "2026-07-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "badge": "new",
-      "date": "2026-07-15"
     },
     {
       "company": "Apple",
