@@ -1,11 +1,59 @@
 {
-  "updated": "2026-07-22T08:18:03Z",
+  "updated": "2026-07-22T13:38:31Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "badge": "hot",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5",
+      "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal WSJ",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
+      "summary": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips Reuters",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AMD and Anthropic sign chip deal worth up to $5 billion - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RMXY1XzdlQWljWTlzd1l1OGZuUTRqbWdYVWpqNW1yYUJQazFfV3N5bHRZMXNUTlFSYlN1Y1pObTBvZ3V5TWZGNlE5bDgzRU1tTmszdDRBQThhVkdDajhnbExNLXliRVk?oc=5",
+      "summary": "AMD and Anthropic sign chip deal worth up to $5 billion qz.com",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
     {
       "company": "Anthropic",
       "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5",
       "summary": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement Reuters",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
+      "company": "Google",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
       "badge": "new",
       "date": "2026-07-22"
     },
@@ -58,6 +106,14 @@
       "date": "2026-07-22"
     },
     {
+      "company": "Meta",
+      "title": "Meta made its own AI detection system. It should have just used Google’s - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW4yRW5lTkIzZTNremp5QmtiWHhWRTNTZ1RSRzRnMm4xaXNJWkdkeTM5T2RwaFVZbTZ0dU9PZWRXX3R0bEJqVlpGMnRtYXlMV3JZZTZrQmJrOGF6Ti1Ob0M3T2pEQXFxTkR5QVRuZmtyRDVNcjFVcms2NzBsVUdVOFJkY2VyeEpIeWFtMWdzTV9xNU1Ybl83S1J4dw?oc=5",
+      "summary": "Meta made its own AI detection system. It should have just used Google’s The Verge",
+      "badge": "new",
+      "date": "2026-07-22"
+    },
+    {
       "company": "OpenAI",
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -83,9 +139,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic sued for infringing neural network technology patents - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5",
-      "summary": "Anthropic sued for infringing neural network technology patents Reuters",
+      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
+      "summary": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot AP News US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters Harry Potter ",
       "badge": "new",
       "date": "2026-07-21"
     },
@@ -99,9 +155,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
-      "summary": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot AP News",
+      "title": "Anthropic sued for infringing neural network technology patents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5",
+      "summary": "Anthropic sued for infringing neural network technology patents Reuters",
       "badge": "new",
       "date": "2026-07-21"
     },
@@ -130,26 +186,10 @@
       "date": "2026-07-21"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0VfZzJwUmpMQmtCVFRmc2p6NHlXdVEyUEMySm5SOExEVUhjMEJTM0lzUkVCZnJRMVBXNndQaGpUUDJ4bUhZRndxb2pJLVdueUVfcXNGVHN4T2RPajF5NmpKWVpoY1BGSjVweEp0bWJBY3l1RE1OMzdqSE5Gcnd0eVdiTkRaTkF1c2tHc1pOaGFac3JBNzZ3?oc=5",
-      "summary": "Anthropic’s landmark $1.5B copyright settlement is approved TechCrunch",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
       "company": "Microsoft",
-      "title": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpDX3p1ZWJZMVktdkwtSVFfREFoY2FzLXExNnFyRENhTUtXVXFvX2FCVTFXX1RfUkRtdDhFeEhTdnpfbnVWQjVNUlN1dUQ3SVlLRGtQSDBVUFRYOVdlYjNKT2dzQWgtdHVjU0VzRVlJak9ISVYyMFZ6aW93YklCNkNFNTVUSmV6dmt0R2Jn?oc=5",
-      "summary": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft found yet another place to put Copilot inside Windows 11 - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS29TSlp5d0hGanc1OWJuUmQ1aUxWaFNVUTNIVEFvTVZvTHNwOTIxMkMtN3drWlRSNk9kclFvNFZOZXFqQlpjdTVxNTRZeGhZR05VYkJDdzVEMkV6MkE5OWdOckZBTmxlc1IxYUIzOVoyUThpWGdlTEQ3bjJ4RVBSbkhRdm8zSjlKQ2ZCdkszMEFIRWhFVlhQRzc5c1l2dG_SAZoBQVVfeXFMT3hxZm9PNjAxSUd4QTNvVkpPQ2xaYmhHUUpzZ21JNGdPRklrUGJYbGZlYzN6THk2bUVpd3hqRnZGTERwWElCQTZDb3hBNm1OQXJjTjZvc1pmUW5CVlBhdHE2Ti1UblFsWnlWczIxLUYzalpQOGp2LW1XaE5NNklKQjlEajlRRFNid290RDc2dkQwRDVlWmVzekVzUQ?oc=5",
-      "summary": "Microsoft found yet another place to put Copilot inside Windows 11 Neowin",
+      "title": "AXA accelerates Microsoft 365 Copilot rollout to employees worldwide as part of AI strategy - Reinsurance News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2lqSlBuTjdnSzNlOUh1LVRUbDM3WVhoZWdrOWk0bzdZbVdETEFUaWhPVkZrZTNqN09kLWQxRHY3YXlvWTRicFZnZE9WcmF0NGRaanBIQ3J2eEdzM0Q4NDhDcEN1aHFBc0NsV1A4YWhPOFhiT2RJWU9LaHphc25mclFyOTJtUTEtREd5aU1WNUY4Q2xoWmo0WThWQVUzVFFLcFMyUjZuRWM3clZpRVVILVFuLW1Xd2pQaWUzV1FR?oc=5",
+      "summary": "AXA accelerates Microsoft 365 Copilot rollout to employees worldwide as part of AI strategy Reinsurance News",
       "badge": "new",
       "date": "2026-07-21"
     },
@@ -166,6 +206,22 @@
       "title": "Microsoft is Retiring Copilot Deep Research and Podcasts - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXBGbkx3Ui12U1VnRmNzM204MmdMVkRTVmVKeTdfYnlOTV9QT016Ny15RGFjOWphR0dKaUZxZ1lramp0YUdYelNQVFQ0bnFMN014SHAyTUFGNEdkRS1nc3QyQ1g1YzF3cmIxWk91RmxDSjVjUkNsV3hodTlfbzZNektPUkNWaHlLQ2h4RF9TRUxFckk2dEtON2VPT3JFS0tfazFXb2R5cnhjQVNWcEFEMjFpcms?oc=5",
       "summary": "Microsoft is Retiring Copilot Deep Research and Podcasts Thurrott.com",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft found yet another place to put Copilot inside Windows 11 - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS29TSlp5d0hGanc1OWJuUmQ1aUxWaFNVUTNIVEFvTVZvTHNwOTIxMkMtN3drWlRSNk9kclFvNFZOZXFqQlpjdTVxNTRZeGhZR05VYkJDdzVEMkV6MkE5OWdOckZBTmxlc1IxYUIzOVoyUThpWGdlTEQ3bjJ4RVBSbkhRdm8zSjlKQ2ZCdkszMEFIRWhFVlhQRzc5c1l2dG_SAZoBQVVfeXFMT3hxZm9PNjAxSUd4QTNvVkpPQ2xaYmhHUUpzZ21JNGdPRklrUGJYbGZlYzN6THk2bUVpd3hqRnZGTERwWElCQTZDb3hBNm1OQXJjTjZvc1pmUW5CVlBhdHE2Ti1UblFsWnlWczIxLUYzalpQOGp2LW1XaE5NNklKQjlEajlRRFNid290RDc2dkQwRDVlWmVzekVzUQ?oc=5",
+      "summary": "Microsoft found yet another place to put Copilot inside Windows 11 Neowin",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpDX3p1ZWJZMVktdkwtSVFfREFoY2FzLXExNnFyRENhTUtXVXFvX2FCVTFXX1RfUkRtdDhFeEhTdnpfbnVWQjVNUlN1dUQ3SVlLRGtQSDBVUFRYOVdlYjNKT2dzQWgtdHVjU0VzRVlJak9ISVYyMFZ6aW93YklCNkNFNTVUSmV6dmt0R2Jn?oc=5",
+      "summary": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) Seeking Alpha",
       "badge": "new",
       "date": "2026-07-21"
     },
@@ -234,22 +290,6 @@
       "date": "2026-07-20"
     },
     {
-      "company": "Anthropic",
-      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
-      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters Bloomsbury gets payout in $1.5bn Anthropic copyright case The Times Anthropic to pay €1.3bn in biggest copyright sett",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Apply for Anthropic’s AI for Science rare disease research grants - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
-      "summary": "Apply for Anthropic’s AI for Science rare disease research grants Anthropic",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
@@ -306,14 +346,6 @@
       "date": "2026-07-20"
     },
     {
-      "company": "Meta",
-      "title": "Is Nebius Group Stock Still a Buy After Meta's AI Cloud Move? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblh1ZjZDbG5KNWhwcGZCd2JjNHN5dWtQUjBkczVkaWI3NDJoNGVtdkEwRUk0NGN2czBiaXZaa1hHUzlkLThFSVFfZHJrdGJRMDBoLTVHamlqSHJzSkg4RGNhMHp5MHI1QWZ6cTQ1ZHoxUEpBV0wzMlVnWkI3MF8xS05PcEY5SzhmN1FoaDZnOFZLQWJWUGhTZA?oc=5",
-      "summary": "Is Nebius Group Stock Still a Buy After Meta's AI Cloud Move? The Motley Fool",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft has abandoned Outlook Classic, but Copilot keeps arriving anyway, and users are stuck - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHRlMnR0VDdWVzZTN0lZUnVFLUVyT09nOS1JTWxMazJISUNORi1TcG9GdGVNbTBLNkptWVVMblY1dTBlbE5NVVY0V2NZVVZYZkpjQXlGb3BFOUlzOG94SlFvalBweGpoVmJmMmEwQ0o2S0FaeDNvSkNBSWkzZEVlWFBNdjJHUEM3X0xtZFhlLW9rVlNhSGJ6U2llOWtPWUhSQTNWSVRXTEJ2ejFrdmlCUHRUS3hFVV93X1FVQU0zZXFDUGZidVpCUXAxVzB1QWs?oc=5",
@@ -336,14 +368,6 @@
       "summary": "Chinese Kimi K3 outshines Fable, OpenAI’s Codex hardware, and Perplexity returns with SPACE — Weekly AI Roundup 19 July financialexpress.com",
       "badge": "new",
       "date": "2026-07-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is killing an Outlook feature and replacing it with Copilot - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnFLZ2M4MnFDQkFXMFJFZndxYUM4dUFfcThHd3RLZnlyQ2dtQ2M1MXdRcjNzZTMzUGxkOEIyaDZHa1ZjVXN6VXdmVlBkSFJuQUlWUWpDRDRRUkdwMmVIUXRJdkZEQnhKdTRfWE1WQlZYdlVUeTZMWkQtcmwxSkVURkxvUEMtMFFubTh4T24wejhNM2dfbEtuQkhkakFiSk3SAZ4BQVVfeXFMTnpwZzItSzQtajFRbkUxWXlBLVpYeFp3NDRMZ0oyYTcxYVhVY042SFE3aDZTNUVOS2tUN0VFaUU0UlJ4N1JJZHVETnd6NFNkU0NKblZOTVFTS0oya2pvdUFkcHVVbXlGMk9ueC1BREh4bl9XeE1reE80c2xiR3g5S3h1WVNULWUzLXprMFZPajF0YW5PQVotd3o4eDRNeWc?oc=5",
-      "summary": "Microsoft is killing an Outlook feature and replacing it with Copilot Neowin",
-      "badge": "new",
-      "date": "2026-07-18"
     },
     {
       "company": "OpenAI",
@@ -442,28 +466,12 @@
       "date": "2026-07-15"
     },
     {
-      "company": "OpenAI",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "badge": "new",
-      "date": "2026-07-15"
-    },
-    {
       "company": "Apple",
       "title": "Apple Creator Studio gets smarter, faster, and more connected",
       "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
       "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
       "badge": "new",
       "date": "2026-07-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "badge": "new",
-      "date": "2026-07-14"
     },
     {
       "company": "Google",
@@ -568,14 +576,6 @@
       "summary": "The Google Finance logo, surrounded by elements of the user interface",
       "badge": "new",
       "date": "2026-06-25"
-    },
-    {
-      "company": "Google",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "badge": "new",
-      "date": "2026-06-17"
     },
     {
       "company": "Amazon",
