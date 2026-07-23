@@ -1,11 +1,43 @@
 {
-  "updated": "2026-07-23T13:44:06Z",
+  "updated": "2026-07-23T19:06:34Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "badge": "hot",
+      "date": "2026-07-23"
+    },
     {
       "company": "Anthropic",
       "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5",
-      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says BBC Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable TechCrunch Anthropic and OpenAI under t",
+      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says BBC OpenAI and Anthropic find common ground: open-weight AI Axios Anthropic and OpenAI under threat The Economist",
+      "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic updates Claude voice mode with more capable models - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5",
+      "summary": "Anthropic updates Claude voice mode with more capable models TechCrunch",
+      "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic calls for industry-wide AI safety standards to keep models from wreaking havoc - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjgyaWlPVldPYUgtTUhxNXhSTHZFZnd3ZzlCSERNLUxIN2dickx4ZGpST2gtbXF2d2xpOFFaekN2QlVORXB5MV9MSEVBUFJoTWhDOHFRX3k3OVBpREJjOXk0NTlTVUhEd2ppMXdyNkRibTBhbG8zMEJxQjFPT0l0ZTczeDUtMHlmZ1lUQ2RlYkt5VTdmcTRESXBQM2x2dWxVVzM0dDhiai1FbU5peXU1bDhHQTBWMU1wbUQ0Z9IBwgFBVV95cUxOOHgtX3VLREtLVTB6MHdWdjJISjEza0FEc3ZsX1ZRMjlDamk5TFVCVjZzQjM1Z1Z2X2tJVW9qRzRCdHhxeGVaVVRLVHVTaGlSVERWTFFhYlYwQzNDQTJOYjQ0T2gxTFJpRFFFOERCbDk2dmNCZ3pIWXR3djZOWWhkM1ZIOTBjdVoxWnZoWHB3cThGQWFvazRrTzh1SG9TQ3N1elFHWE1DNEFGeWpGQ2tVVXdtbmtVR2s3OG1pXzludmZTZw?oc=5",
+      "summary": "Anthropic calls for industry-wide AI safety standards to keep models from wreaking havoc Fox Business",
+      "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMloybkxVSTh1eldxMkdOa0M2LWJaejlqYThGMHB6Y28xdDN6RHpRcV85aG56Y3R3THowcFE5YUxROWFyWXk4ZldPci05eUV1Y2Q0R2RSWmdDNm9fdnBJclpuMnZiNk1ZLW90ZmJ4T0UwZDh3c3hXNHNyMDloUWJ5U2Nqd0lTUW9lT0l3d0JBMndXWlhIalFKV1UybE14LTJvbi1nclNETGVoV00?oc=5",
+      "summary": "Claude’s voice mode is now available for Opus and Sonnet The Verge",
       "badge": "new",
       "date": "2026-07-23"
     },
@@ -22,6 +54,14 @@
       "title": "Anthropic joins UK FCA’s AI Sandbox testing programme - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2pFUkdFUk1jOTVnUEYwY0ROTi0xN0VzM3JPUmpaUk1RSzA5Q0VRSkRMQVJxWm1TV2s4UDJuVjJhTVVEa0Ztek9VcC1SRnRyRTJZVGdaUFptVUxGcG5CMUJCdktzM09HOHJEUlhON2xRaVpVWWdtTWhfRmpwOHgyc2daMUdUNUVBdlZvQ1BFRlJ0M0hZWDdqSG1NcEJtb3FI?oc=5",
       "summary": "Anthropic joins UK FCA’s AI Sandbox testing programme Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Inside nonprofits using AI to extend their impact - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUxjSGVYVWdEZDFjc0NXcTBmZXUxOEc3MDg1b2pseXkwb1FvVXhNMFgwLWNXblBqRUhsNmFuTVphVXY2bTJRYXVLRmNIT3N1eGtjZEtZak5IOGZVazR3b1kzSW1ZaHdVRzRxdThZR05yWTNMbmlrcW9lenNQZzNHdWR0R3p3T3I3cXlDS0xrX1FzeGg4MldXbEt3WXZBUGxSdU1iS2tqNGMyZw?oc=5",
+      "summary": "Inside nonprofits using AI to extend their impact Microsoft",
       "badge": "new",
       "date": "2026-07-23"
     },
@@ -86,6 +126,14 @@
       "title": "Mark Zuckerberg launches AI optimism campaign - Axios",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
       "summary": "Mark Zuckerberg launches AI optimism campaign Axios",
+      "badge": "hot",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWN2dEZPRl94d2toQ0lLbnZnR3BqRV8tc3ZRdV9YX0FpODluVzNteEsxMG0tN0k3T0xjWUxRVjRWaWMxd1lVQ0Z2Mnk0Z3BjLWhjREdsTmdNNEYwdEh6UUtFVFhLVEhVUExNYXVSV0p4MmwzRWNaS3RaTDBqUXhzSEoyV3VwanZtX19HcDNkUWdNQnNpSXFfVUdPaHUzdXVGZVplRVpiUzZMdw?oc=5",
+      "summary": "Meta launched a new AI optimism ad set to a song about human extinction TechCrunch",
       "badge": "hot",
       "date": "2026-07-23"
     },
@@ -158,30 +206,6 @@
       "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUF4d090UVZiZ1FLc3FNSFNHdGc3LVdUQUhrajVLVWp5eW9tVG03NllwSGtxUWZIaWU1YUxNZDRuaW5Sd0pHOGZlTmtMMUFpc2VvaEM1bG1iUUVXdXZ4eTJuNGVBWkJMT2s3azhpX21ieGFXeEhPOHpvcG4zZTBYcklRQmxnd052MEJwSUJ0azF3SEpOV0RaVE92bC1McnRNWTZWb1JLYkxqUlE?oc=5",
       "summary": "Harry Potter publisher to receive millions in Anthropic copyright settlement The Guardian",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUZkMjNIaHpOdF9nOFc3MXdnMDhmTmx2YktUM3I5QjYwdTVTTEgya1VUdW1RUmROZXNVbmNxaVk0WWdGUE1MeTJwdUJVNGVzd1BRUWFpUUhhR1o5OEhFM01kRk45ZEpYSzJsbFYzMUtEbXFQUXB2RjlTZDljcWFDZnUtcHg3czdtQVVZYUx4Q3k4dFNmQ1dVQnhybTdQelpS?oc=5",
-      "summary": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model Yahoo",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "A Startling Glimpse at AI’s Ruthless Efficiency - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjVUNXAtVU1nbmJrWkRsS1QxRVg3bTdEeWVMZVhHdDFpRzR3cV85dE5uRUZrSmFjeXV1NHlyakpVTG51YlZEcDVkZVNOT19IdGtKeUpHVEZyMHNidVNhellQUVY2U2xLVVdVcnRJU2kwTDhpV2l6dEFIX0J4RWdIRmpzbjV6Zw?oc=5",
-      "summary": "A Startling Glimpse at AI’s Ruthless Efficiency The Atlantic",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
-      "summary": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips Reuters",
       "badge": "new",
       "date": "2026-07-22"
     },
@@ -275,18 +299,18 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5",
-      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control Microsoft Source",
-      "badge": "watch",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpDX3p1ZWJZMVktdkwtSVFfREFoY2FzLXExNnFyRENhTUtXVXFvX2FCVTFXX1RfUkRtdDhFeEhTdnpfbnVWQjVNUlN1dUQ3SVlLRGtQSDBVUFRYOVdlYjNKT2dzQWgtdHVjU0VzRVlJak9ISVYyMFZ6aW93YklCNkNFNTVUSmV6dmt0R2Jn?oc=5",
       "summary": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) Seeking Alpha",
       "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5",
+      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control Microsoft Source",
+      "badge": "watch",
       "date": "2026-07-21"
     },
     {
@@ -346,14 +370,6 @@
       "date": "2026-07-21"
     },
     {
-      "company": "Meta",
-      "title": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREJvZWlUZE45SFpzR3pLSDhua1UzaHNYdXYzUnpkT19hcEF5dS12bFFIR0MtWE1iRkxHNEFUQ0h0YkVTV2lwcWl1MXZoaHphdGFSbmpLQXBWSmpKMkhNWkxJV1VPaldqWFZVZ1d4M1RraWNhRnIzbEVLVWJEbGZaaVBaN2ptSE42cnp1NnF5RTB3bXBQWVE?oc=5",
-      "summary": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
       "company": "OpenAI",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -366,14 +382,6 @@
       "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
       "summary": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. Windows Central",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Looking To Save As Much As $600 Million By Swapping GPT And Claude For China’s Kimi K3 In Copilot, Risking A Rap On The Knuckles From The Trump Administration - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUXcxYTdyY3lwWXhVcWFCMUZ1Qm9pSFF1QXBXdTI3SUFzOV9wNkVzYTJpZnVxU182RGtvQ19GbGRMbk10d2cxSzk0ZlpQbEYyMGZjUWEyTEVlMzZqS0c0U3N2WEM4c0lfUE93ZG95aEdkZElCVU13VHFqRjJ4MW1ZX3RZdVI0QTdJY2ZpdzZQTklUWmtkUTZDSHpKd2dja1NqN1hGeDNfX3FYTFlWVXh2R1hkd2pDYVpqeWJtc3pmeHMtdTA1S3lVa1hTeW85VjdHSHBCQ2pURHJDaTJRY0twUWxHdXJvSUxXOEpLSlB4UlQ0alBUbzZnd3YyOTY4WGNUVU1QWF96UDRQZ1FrcVN1M28wMmlSZ9IBmwJBVV95cUxNNTF6NG1ublJTRW5FVFYtZnZsdnFDZzZGN0lrY1JvQVpHNHJXRGRZbFotMVNTRWJza05FTDhMN0NZLTBLRGRyX1lWckZOUm5KUzVMZmRIUzVfcDY5dGlKLWJ0clJUeFQtVHZFTXFoTEVseGZrUHVKcG5LOGxyT0hXY2FYd0JvQjFXUnp6eEswUDJIN1FWamFNQkdJdDNvRGZramdxVldYem1mb0lQMHpnbXJUUUFadFlxSmYtMUYzbm5scFM0a0YxQUlGbHNDWTFncFVMR2hIcVl1d2VaQ2txRzUwWjlEUUx5UHp6dm50QUpPeWNPcy1JNkprQThkMjk3N3B2QXM0VjZpTmN4RWR3aVFfUnhEc1dScTRv?oc=5",
-      "summary": "Microsoft Looking To Save As Much As $600 Million By Swapping GPT And Claude For China’s Kimi K3 In Copilot, Risking A Rap On The Knuckles From The Trump Administration Wccftech",
       "badge": "new",
       "date": "2026-07-20"
     },
@@ -408,14 +416,6 @@
       "summary": "Chinese Kimi K3 outshines Fable, OpenAI’s Codex hardware, and Perplexity returns with SPACE — Weekly AI Roundup 19 July financialexpress.com",
       "badge": "new",
       "date": "2026-07-19"
-    },
-    {
-      "company": "OpenAI",
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "badge": "new",
-      "date": "2026-07-17"
     },
     {
       "company": "Perplexity",
