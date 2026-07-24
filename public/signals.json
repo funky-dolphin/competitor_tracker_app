@@ -1,12 +1,76 @@
 {
-  "updated": "2026-07-23T19:06:34Z",
+  "updated": "2026-07-24T02:09:12Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZG1SN3RQZTJHaUpLWDlHVnJvU2R6RXNhcUR5bHhqbHRmTGJfZE9SU1UzMl92RW5mdUZpVXBGd1BRQ0MycnItYkxjMWhQbnExaWk3Nm1Kc0luY0EwM3FiMldvdGV0RGhQYzM5dm5PY0NPbi1EVjB2OXM1U2tYTURidGZtQ0RFMVJyS3J6aktuQ0xhb0YzdFotOEctTlZDZnQ1bGt1Q05QOVU1Y29sRWJUZklyVQ?oc=5",
+      "summary": "How AI guardrails are impeding the work of offensive cybersecurity researchers TechCrunch",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump under pressure from all sides over Chinese AI surge - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEN2cXJQems0ZzhjWEFuQVJad1doYVFKUDVLQmxscVR5ZWdSNnRTeDNmMkNXaFd3bkhRSGI2SnJvZFN0ZWkzR1Z2TWV2MTA4QmhvdE85X1ZtTkI5bm1QcUpCTU9BQ3EtZzdYSUpaUG9IakNKS2Q2TGUwLUtvcUs4RWhReWI2dFU?oc=5",
+      "summary": "Trump under pressure from all sides over Chinese AI surge Yahoo Finance Singapore",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
     {
       "company": "OpenAI",
       "title": "Launching Health in ChatGPT",
       "url": "https://openai.com/index/health-in-chatgpt",
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "badge": "hot",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9Jb3NIQ2dSYlpFaC1hMVcwMHctaFRYa0dsemNDTFZjTHZncU9QR3lCeUpsNHpVLXdoMy0wN2FwQXdUWGtiY1E5MzhyaUVVUVk5Zm81WG83aDZjUG1OMnJqTHphZTktR3g3NUc1bFlOR2N3VE1KZ0Zsck9wenhkVWM0OFRMQTZ3TUk2N2JhVmItZHVHdEJib1FuaEYzMWlFQ2c0RDEtZ00?oc=5",
+      "summary": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion Bloomberg.com",
+      "badge": "new",
       "date": "2026-07-23"
     },
     {
@@ -59,49 +123,17 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbXNyTmpwdHZYZW5XR2VqdUU5RHhISGRoZDZqNTlXaHl3S3pjU2M2OG9hNFdqRjlmSFVwQXUyZGF0eFhPSGdoMTN4OHJMd014eTFqY1JTWGZMM2IxQTJ3ZjUzVnpJeDVzd0hJMXZaZUVGcUZvV2pGejFkZTR0aWt5UHpDT1FzS0M1eDNwNmRNR2YybGI3QXJCb041Mk81QnZjU0E3WG1GaXN3S3g4SlN2ZHM3VncxUUVDYWNpUDZ0ZmdXZ2ZoUDNFenFYbXNjWnJSUU15X1dIcmNhSWs4empsemRR?oc=5",
+      "summary": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it Windows Latest",
+      "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Microsoft",
       "title": "Inside nonprofits using AI to extend their impact - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUxjSGVYVWdEZDFjc0NXcTBmZXUxOEc3MDg1b2pseXkwb1FvVXhNMFgwLWNXblBqRUhsNmFuTVphVXY2bTJRYXVLRmNIT3N1eGtjZEtZak5IOGZVazR3b1kzSW1ZaHdVRzRxdThZR05yWTNMbmlrcW9lenNQZzNHdWR0R3p3T3I3cXlDS0xrX1FzeGg4MldXbEt3WXZBUGxSdU1iS2tqNGMyZw?oc=5",
       "summary": "Inside nonprofits using AI to extend their impact Microsoft",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
       "badge": "new",
       "date": "2026-07-23"
     },
@@ -111,6 +143,30 @@
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
       "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
       "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWN2dEZPRl94d2toQ0lLbnZnR3BqRV8tc3ZRdV9YX0FpODluVzNteEsxMG0tN0k3T0xjWUxRVjRWaWMxd1lVQ0Z2Mnk0Z3BjLWhjREdsTmdNNEYwdEh6UUtFVFhLVEhVUExNYXVSV0p4MmwzRWNaS3RaTDBqUXhzSEoyV3VwanZtX19HcDNkUWdNQnNpSXFfVUdPaHUzdXVGZVplRVpiUzZMdw?oc=5",
+      "summary": "Meta launched a new AI optimism ad set to a song about human extinction TechCrunch",
+      "badge": "hot",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFET3haNHd2NFZTNjUtb1VuQVp1NHZLNlh3YWczMGUtWWdYTHN0VnlNUGh4YTlWYzFMeFk1LTB4bU5Sd2lYV0ZPLUFraW1BVHh5QVQtVm14cDBnVV9oQTdaUzJydnRHMWFaN2lzT05fTTdxRU9HRkF5Zm9Qc2JyemUyTmdieXB0elE?oc=5",
+      "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending WIRED",
+      "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Meta",
+      "title": "‘Call us whatever the hell you want’: Mark Zuckerberg just launched an AI optimism blitz using nostalgia to sell Meta’s AI future amid backlash - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcXBKdGV5TlZJUUNYMHNHd2VVdjBrQS05a2RXY01INDFJckJJdF9RNXNTUktKWVhaZXdFbVk5MFRpSTNSNDRjelBiTS1kaDdfcmdkUXJlT2lOTGRHZDBsOFdJaGpsNmVQeThORjhYMS1wWFF2ZUIwM3AtXzBBd1psVkhXOFFyOTg3ekp5OVZQbFhpdlg3?oc=5",
+      "summary": "‘Call us whatever the hell you want’: Mark Zuckerberg just launched an AI optimism blitz using nostalgia to sell Meta’s AI future amid backlash Yahoo Finance",
+      "badge": "hot",
       "date": "2026-07-23"
     },
     {
@@ -126,14 +182,6 @@
       "title": "Mark Zuckerberg launches AI optimism campaign - Axios",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
       "summary": "Mark Zuckerberg launches AI optimism campaign Axios",
-      "badge": "hot",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWN2dEZPRl94d2toQ0lLbnZnR3BqRV8tc3ZRdV9YX0FpODluVzNteEsxMG0tN0k3T0xjWUxRVjRWaWMxd1lVQ0Z2Mnk0Z3BjLWhjREdsTmdNNEYwdEh6UUtFVFhLVEhVUExNYXVSV0p4MmwzRWNaS3RaTDBqUXhzSEoyV3VwanZtX19HcDNkUWdNQnNpSXFfVUdPaHUzdXVGZVplRVpiUzZMdw?oc=5",
-      "summary": "Meta launched a new AI optimism ad set to a song about human extinction TechCrunch",
       "badge": "hot",
       "date": "2026-07-23"
     },
@@ -186,30 +234,6 @@
       "date": "2026-07-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU1WRmpuUll6XzBIOWhEc1I1Y0NTMndVVGw4N3R3ZTVBaHpNZTBkcXNsYWF6Mk9leVZtb0Q4YjZqcmxPWjIyNEx1c3kzY3J0dDJPRERHVHNCckV3M1hGbzFGSWxVQXVzWXFITmc1VHFZcU1rOF9iNjlnRzRIdFVVcUtxdEVOWXQtYWhvV0NqNGVlSDZSMldQU1ZKM0h4cFV1dzQzM0xnbw?oc=5",
-      "summary": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper Fortune",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5",
-      "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal WSJ AMD to invest up to $5 billion in Anthropic as part of computing power deal CNBC AMD to sell Anthropic tens of billions in AI ser",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUF4d090UVZiZ1FLc3FNSFNHdGc3LVdUQUhrajVLVWp5eW9tVG03NllwSGtxUWZIaWU1YUxNZDRuaW5Sd0pHOGZlTmtMMUFpc2VvaEM1bG1iUUVXdXZ4eTJuNGVBWkJMT2s3azhpX21ieGFXeEhPOHpvcG4zZTBYcklRQmxnd052MEJwSUJ0azF3SEpOV0RaVE92bC1McnRNWTZWb1JLYkxqUlE?oc=5",
-      "summary": "Harry Potter publisher to receive millions in Anthropic copyright settlement The Guardian",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
       "company": "Google",
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -251,17 +275,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta made its own AI detection system. It should have just used Google’s - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW4yRW5lTkIzZTNremp5QmtiWHhWRTNTZ1RSRzRnMm4xaXNJWkdkeTM5T2RwaFVZbTZ0dU9PZWRXX3R0bEJqVlpGMnRtYXlMV3JZZTZrQmJrOGF6Ti1Ob0M3T2pEQXFxTkR5QVRuZmtyRDVNcjFVcms2NzBsVUdVOFJkY2VyeEpIeWFtMWdzTV9xNU1Ybl83S1J4dw?oc=5",
-      "summary": "Meta made its own AI detection system. It should have just used Google’s The Verge",
+      "title": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5",
+      "summary": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part Reuters",
       "badge": "new",
       "date": "2026-07-22"
     },
     {
       "company": "Meta",
-      "title": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5",
-      "summary": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part Reuters",
+      "title": "Meta made its own AI detection system. It should have just used Google’s - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW4yRW5lTkIzZTNremp5QmtiWHhWRTNTZ1RSRzRnMm4xaXNJWkdkeTM5T2RwaFVZbTZ0dU9PZWRXX3R0bEJqVlpGMnRtYXlMV3JZZTZrQmJrOGF6Ti1Ob0M3T2pEQXFxTkR5QVRuZmtyRDVNcjFVcms2NzBsVUdVOFJkY2VyeEpIeWFtMWdzTV9xNU1Ybl83S1J4dw?oc=5",
+      "summary": "Meta made its own AI detection system. It should have just used Google’s The Verge",
       "badge": "new",
       "date": "2026-07-22"
     },
@@ -299,18 +323,18 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpDX3p1ZWJZMVktdkwtSVFfREFoY2FzLXExNnFyRENhTUtXVXFvX2FCVTFXX1RfUkRtdDhFeEhTdnpfbnVWQjVNUlN1dUQ3SVlLRGtQSDBVUFRYOVdlYjNKT2dzQWgtdHVjU0VzRVlJak9ISVYyMFZ6aW93YklCNkNFNTVUSmV6dmt0R2Jn?oc=5",
-      "summary": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5",
       "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control Microsoft Source",
       "badge": "watch",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVpDX3p1ZWJZMVktdkwtSVFfREFoY2FzLXExNnFyRENhTUtXVXFvX2FCVTFXX1RfUkRtdDhFeEhTdnpfbnVWQjVNUlN1dUQ3SVlLRGtQSDBVUFRYOVdlYjNKT2dzQWgtdHVjU0VzRVlJak9ISVYyMFZ6aW93YklCNkNFNTVUSmV6dmt0R2Jn?oc=5",
+      "summary": "Microsoft's AI Transformation Is Misunderstood (NASDAQ:MSFT) Seeking Alpha",
+      "badge": "new",
       "date": "2026-07-21"
     },
     {
@@ -331,6 +355,14 @@
     },
     {
       "company": "Meta",
+      "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5",
+      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram The New York Times",
+      "badge": "new",
+      "date": "2026-07-21"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns - Barron's",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5",
       "summary": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns Barron's",
@@ -346,42 +378,10 @@
       "date": "2026-07-21"
     },
     {
-      "company": "Meta",
-      "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5",
-      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram The New York Times",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs - The Information",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGdQQ202bE1TVlRUcUpHLWlYaHk3eVdhNjdwdlNPX0R2UEc0V2JEMTdXX00tS0tWYnBkdEpGR3NwZVo2S2JfbXFiMUU1aTM3Vm9DcDBuQThEZHJLVkR1QWhxTW1nQUU3Z1gtbloxZm5TZllTcWwyYmtsSkJQZzREcGpwd095RzRXRmprMXBFVlZVcUFDOEJ1ZURtRFpiZ09UYU8wd3dB?oc=5",
-      "summary": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs The Information",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTVxZWp6eTNxdWtWM0huSTdIUXVVODVENXBxRjlhRXZpYnJsRHpmLWUwWFlKRjNndnk4NkdUOHVjVi13QkFrVUwtVDZyTUNyWFFrUmY2NWpEa2FQb3VudG9aWDNpa3NndkRYeW5QOFFPMTJ3NnVNVlc1OW02cHpXdzU3ZTNYUWZxQlprd2pNa2EwbG9ubk9rRVpRWmhZeU5uTGJJSUxDVk0?oc=5",
-      "summary": "Meta is testing an AI bedtime story app for people with no imagination TechCrunch",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
       "company": "OpenAI",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmowMy1GcGdzZ0Q5bTdmZkdHUnJneGRwb0pnT1d3X0JmemRmWkdRTTduS1drLUg2TGFOdmNBTldnLWJRRk5kMjBnbEpNU3JGNzUtaklvdXZEd1FYUnJqc3loSHh1MVlVcWJmR3E4WE5YU0NENUJ5R3dPZzlsNG5SaDFSTXJnSWtBajhyTEo0OF9zOEVJTUs3b2d1dHI0SXNqcWNzNWJ6b2U4T2hQaU5oTHhmYw?oc=5",
-      "summary": "Want your old Outlook feature back? That’ll be $30 a month for a Copilot license. Windows Central",
       "badge": "new",
       "date": "2026-07-20"
     },
