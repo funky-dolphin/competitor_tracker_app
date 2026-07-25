@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-25T07:58:40Z",
+  "updated": "2026-07-25T13:12:48Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "Why this philosopher turned down Anthropic - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5",
       "summary": "Why this philosopher turned down Anthropic Financial Times",
+      "badge": "new",
+      "date": "2026-07-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
+      "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. The New York Times",
       "badge": "new",
       "date": "2026-07-25"
     },
@@ -178,10 +186,10 @@
       "date": "2026-07-23"
     },
     {
-      "company": "Anthropic",
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWG4yRGE3QWFMTTE2M2RQTEVET1Q5Q203ZW9TN0NHN2ZORjBtSWRwY2xaYUgtQVZJQnA2enhlaFZvTTVyUlhaR05jaTVqYnktVUdQNWxVcXlvX1FLa2hlYUNEMm92Q21ONVRKSUNwbkZNTEJfd2pCM25NbC1LcC1XZ3FUU0JmV2dkWFAxTzVQTU5QWW1nUXc5Y1J5aWlfSTd6M1BtdFp3?oc=5",
-      "summary": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good TechCrunch",
+      "company": "Microsoft",
+      "title": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbXNyTmpwdHZYZW5XR2VqdUU5RHhISGRoZDZqNTlXaHl3S3pjU2M2OG9hNFdqRjlmSFVwQXUyZGF0eFhPSGdoMTN4OHJMd014eTFqY1JTWGZMM2IxQTJ3ZjUzVnpJeDVzd0hJMXZaZUVGcUZvV2pGejFkZTR0aWt5UHpDT1FzS0M1eDNwNmRNR2YybGI3QXJCb041Mk81QnZjU0E3WG1GaXN3S3g4SlN2ZHM3VncxUUVDYWNpUDZ0ZmdXZ2ZoUDNFenFYbXNjWnJSUU15X1dIcmNhSWs4empsemRR?oc=5",
+      "summary": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it Windows Latest",
       "badge": "new",
       "date": "2026-07-23"
     },
@@ -190,14 +198,6 @@
       "title": "Microsft says Outlook Classic is getting always-visible Copilot to \"help you stay in flow\" - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFNFck1wX2tWNUZfV2FKRnlQM2RmcDJ0VjdCTnNoRnM3ZzhVRHVWWGFQRGd0RUNmMk5ENGFZSkR6Ym9WbDB5WDE2OGlURFJfamdFQkp0NzIwSmt3d3JUSFVBZTlTVEViRU9hamQ2anppb3IzNm1VcnJRNkNhT1hjV2p5dk8yak9mLWZrcGxwd2phaDZYQ1piZmY4QkpDbk5lZmFDSEp0b3hKNDhFSEVCSnc0dmxUTXpDVkhQZjMtT252VlJReU9MYUl4MmJ0RUZKU2NiZkJKbU8?oc=5",
       "summary": "Microsft says Outlook Classic is getting always-visible Copilot to \"help you stay in flow\" Windows Latest",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbXNyTmpwdHZYZW5XR2VqdUU5RHhISGRoZDZqNTlXaHl3S3pjU2M2OG9hNFdqRjlmSFVwQXUyZGF0eFhPSGdoMTN4OHJMd014eTFqY1JTWGZMM2IxQTJ3ZjUzVnpJeDVzd0hJMXZaZUVGcUZvV2pGejFkZTR0aWt5UHpDT1FzS0M1eDNwNmRNR2YybGI3QXJCb041Mk81QnZjU0E3WG1GaXN3S3g4SlN2ZHM3VncxUUVDYWNpUDZ0ZmdXZ2ZoUDNFenFYbXNjWnJSUU15X1dIcmNhSWs4empsemRR?oc=5",
-      "summary": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it Windows Latest",
       "badge": "new",
       "date": "2026-07-23"
     },
@@ -227,18 +227,18 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg launches AI optimism campaign - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
-      "summary": "Mark Zuckerberg launches AI optimism campaign Axios",
-      "badge": "hot",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Meta",
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFET3haNHd2NFZTNjUtb1VuQVp1NHZLNlh3YWczMGUtWWdYTHN0VnlNUGh4YTlWYzFMeFk1LTB4bU5Sd2lYV0ZPLUFraW1BVHh5QVQtVm14cDBnVV9oQTdaUzJydnRHMWFaN2lzT05fTTdxRU9HRkF5Zm9Qc2JyemUyTmdieXB0elE?oc=5",
       "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending WIRED",
       "badge": "new",
+      "date": "2026-07-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg launches AI optimism campaign - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
+      "summary": "Mark Zuckerberg launches AI optimism campaign Axios",
+      "badge": "hot",
       "date": "2026-07-23"
     },
     {
@@ -315,17 +315,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft keeps stripping features from free Copilot to push paid subscriptions - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFBDWGF4WWtkYnhFMVBLVzJaMXVVYmI3ZlRsQXpnTVNyclJrbkZWU0pCeTNzRWtpdWFHcEM5bUZTeThzbDFTNlJPcGdCM09WalBpUHMyYnU5bTc1bm9aTFdhZ2taNVUyaUZlQmtUX0NOdWNjbkxyM1lwbFRXaDBQOFNHN09fSWlJbS1OaHM4Qk9CcXB0MV8xZ3NYLWdvRF9ic3BlQWVwTjZOcGVnMmdzZ3lLdi1ERFMwc3NlclAtX1d4RGlZQVB2R2hxNEI2SXNUdU1LYzBWMjZ1NTZ6NWRYZjR2NjZ2M0R2ZGJvWA?oc=5",
-      "summary": "Microsoft keeps stripping features from free Copilot to push paid subscriptions Windows Central",
+      "title": "10 cool things Copilot can do in PowerPoint - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFVKWE5HdFllTHdJVU5kN0RPbWI1SGNzSWRXWFF3VjQ3VGlRTjFqcS1LMmpnamNGcFB6cHhGRjVUS3dfajBrZ0hQbWw1U3hqYVhNMkVudnRlUHJtTmVONUFUeGNweENSODlUWjJvYjcxZTNYTDhKMmdfam9TUS1kT2VObkZFS0psWG10WEZDMFNDQ3hMTGU3UUln?oc=5",
+      "summary": "10 cool things Copilot can do in PowerPoint Computerworld",
       "badge": "new",
       "date": "2026-07-22"
     },
     {
       "company": "Microsoft",
-      "title": "10 cool things Copilot can do in PowerPoint - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFVKWE5HdFllTHdJVU5kN0RPbWI1SGNzSWRXWFF3VjQ3VGlRTjFqcS1LMmpnamNGcFB6cHhGRjVUS3dfajBrZ0hQbWw1U3hqYVhNMkVudnRlUHJtTmVONUFUeGNweENSODlUWjJvYjcxZTNYTDhKMmdfam9TUS1kT2VObkZFS0psWG10WEZDMFNDQ3hMTGU3UUln?oc=5",
-      "summary": "10 cool things Copilot can do in PowerPoint Computerworld",
+      "title": "Microsoft keeps stripping features from free Copilot to push paid subscriptions - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFBDWGF4WWtkYnhFMVBLVzJaMXVVYmI3ZlRsQXpnTVNyclJrbkZWU0pCeTNzRWtpdWFHcEM5bUZTeThzbDFTNlJPcGdCM09WalBpUHMyYnU5bTc1bm9aTFdhZ2taNVUyaUZlQmtUX0NOdWNjbkxyM1lwbFRXaDBQOFNHN09fSWlJbS1OaHM4Qk9CcXB0MV8xZ3NYLWdvRF9ic3BlQWVwTjZOcGVnMmdzZ3lLdi1ERFMwc3NlclAtX1d4RGlZQVB2R2hxNEI2SXNUdU1LYzBWMjZ1NTZ6NWRYZjR2NjZ2M0R2ZGJvWA?oc=5",
+      "summary": "Microsoft keeps stripping features from free Copilot to push paid subscriptions Windows Central",
       "badge": "new",
       "date": "2026-07-22"
     },
