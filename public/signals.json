@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T08:16:58Z",
+  "updated": "2026-07-26T13:07:50Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -125,8 +125,24 @@
       "company": "Anthropic",
       "title": "Introducing Claude Opus 5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-      "summary": "Introducing Claude Opus 5 Anthropic Anthropic rolls out Opus 5 AI model in efficiency upgrade Reuters Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs CNBC",
+      "summary": "Introducing Claude Opus 5 Anthropic",
       "badge": "hot",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5",
+      "summary": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs CNBC",
+      "badge": "new",
+      "date": "2026-07-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic rolls out Opus 5 AI model in efficiency upgrade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGtoSHNwQ0pjZ09saEozUGlWRVZ1ZG03ZC1Xc2UzNnZQSXRsQjkyWlBFVlM4QmM5WmtKVGhJbUZydG9UWEllUzgwbW90b0k1elZyQnpaV3VTNGZiNG5YWDdyNXFVTHhhTHN6TWpUU1RuSzYtNnpnN0M4VlpzeWp4azFmbWVyQTNlSXVfSlY5UTU2RGVsQ19ucGd2VlFEMGFEMG5J?oc=5",
+      "summary": "Anthropic rolls out Opus 5 AI model in efficiency upgrade Reuters",
+      "badge": "new",
       "date": "2026-07-24"
     },
     {
@@ -138,19 +154,11 @@
       "date": "2026-07-24"
     },
     {
-      "company": "Anthropic",
-      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44aVNXTXEzd281djAzdWZiVDFvd012MXg5Rll2TEN0SEpCeXB1ZjdVaTRlckg1SWRuN1BfclRMcEF2TE9sR0JTN1FYaXZSX2FpLTEyYkdlMkgyMlltWGJNXw?oc=5",
-      "summary": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm WIRED",
+      "company": "Microsoft",
+      "title": "Open Weights and American AI Leadership - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczZlRzdBN2sxLXp1U2Z6NnZ2elpFak1wSTUxOW5wbkNWdE5hWGp5WHJaSWJxR29rYnBXZ2hSWUNfMExHMi1Xc00zRXZJM0k3OTdhOGdDREhjYmdRR25SUUNTcGN3bXJBOVdadWtyXzRpdE9zWHlES3VNakFpbWpGb2x3?oc=5",
+      "summary": "Open Weights and American AI Leadership Microsoft",
       "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5",
-      "summary": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs CNBC Anthropic releases new model, Opus 5 Axios Introducing Claude Opus 5 Anthropic",
-      "badge": "hot",
       "date": "2026-07-24"
     },
     {
@@ -203,17 +211,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnp5eDhxN1d5VnJnVExNNmJLWUxGdFNCR3hfYy0ydmRhVEhJS3hYQWFmNXNRU1VqWmVQTFFBV1E0WVBQNElhSFNQQXlXNkcwMHl0MV9tYTNBYjlMeDFPc3BOdFhxSWlYYkVSbGNaLUVhNy1TaEUzMVRkMGRMeU9pcVphVHV0LWtmbkRkYXQ1cVZ3bWxRSWY5eg?oc=5",
-      "summary": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal Yahoo Finance",
+      "title": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5",
+      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ Tech Policy Press",
       "badge": "new",
       "date": "2026-07-24"
     },
     {
       "company": "Meta",
-      "title": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5",
-      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ Tech Policy Press",
+      "title": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnp5eDhxN1d5VnJnVExNNmJLWUxGdFNCR3hfYy0ydmRhVEhJS3hYQWFmNXNRU1VqWmVQTFFBV1E0WVBQNElhSFNQQXlXNkcwMHl0MV9tYTNBYjlMeDFPc3BOdFhxSWlYYkVSbGNaLUVhNy1TaEUzMVRkMGRMeU9pcVphVHV0LWtmbkRkYXQ1cVZ3bWxRSWY5eg?oc=5",
+      "summary": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal Yahoo Finance",
       "badge": "new",
       "date": "2026-07-24"
     },
@@ -398,14 +406,6 @@
       "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is Retiring Copilot Deep Research and Podcasts - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXBGbkx3Ui12U1VnRmNzM204MmdMVkRTVmVKeTdfYnlOTV9QT016Ny15RGFjOWphR0dKaUZxZ1lramp0YUdYelNQVFQ0bnFMN014SHAyTUFGNEdkRS1nc3QyQ1g1YzF3cmIxWk91RmxDSjVjUkNsV3hodTlfbzZNektPUkNWaHlLQ2h4RF9TRUxFckk2dEtON2VPT3JFS0tfazFXb2R5cnhjQVNWcEFEMjFpcms?oc=5",
-      "summary": "Microsoft is Retiring Copilot Deep Research and Podcasts Thurrott.com",
       "badge": "new",
       "date": "2026-07-21"
     },
