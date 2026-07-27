@@ -1,11 +1,43 @@
 {
-  "updated": "2026-07-27T09:40:19Z",
+  "updated": "2026-07-27T14:20:29Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
+      "summary": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic The Verge",
+      "badge": "hot",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Alphabet's Stake in SpaceX Just Swelled to $94.1 Billion, and Its Position in Anthropic Is Worth Even More - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEs4RWxKMm5hc0poSmMxbFh0RHZZSDVTY3QzYlFwZ3lJUTc3N29KNmQ2TWdBS1VTMHByTWhsZlpGTzNWODV1R0F1SUhkWFZyWm82X3JITUtDRHNYZ3dvYUFaeGlkYVVLbFRTX0lkcF85c3FzaEhZb0hOWTVRRC1qdUxiajhiZkRqWjk3RWk5RnJlNURuU3JFUlB6SVhwOG9MLVE?oc=5",
+      "summary": "Alphabet's Stake in SpaceX Just Swelled to $94.1 Billion, and Its Position in Anthropic Is Worth Even More Yahoo Finance",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
     {
       "company": "Anthropic",
       "title": "Nvidia rallies the open AI camp - Axios",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVEwMnQxeXZrZWF0OUViVTg4TnFxalFlclhoVGRFQS1heHF4ZjQ3V1hPQjQycG1nVXc3a0F3U0xBZW1TWnotZzJScHByMTNJRmxxTHAwQVR2NUc1MHR3TVMwSkxoclVObTZBUndreW9fWV9HY0ltbnFIamktWGNzVw?oc=5",
       "summary": "Nvidia rallies the open AI camp Axios",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft: The Market Is Right To Discount The $190 Billion Bet - For Now (MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnJ6WnBoZHJ0SGZqQi0wYTlVZVJReW1EOHV3TEVkTnZnYTJCN0NyWkFGT0RpYXRHMFdocXVhNFlGcWRHUk1RdDZjd2M3RDNwak1LakJGb1g4UDJFUFoyN01CRGV6cGgwb0tiSTFxWlNacUZVMy1tSDNaZlJ1RDFHelVsZ0xhX1dhSDg3bDZpb2ZCVlAzNEFRNUM5YVJNVjRNYnUyUjlkNXRSZkpjdGNj?oc=5",
+      "summary": "Microsoft: The Market Is Right To Discount The $190 Billion Bet - For Now (MSFT) Seeking Alpha",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -99,17 +131,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mVFJKdTZGSWhqU3hHVGl2UjZUNTVCTWxJTVFoU1RRMkNHOS1kV3NUX2xHc1FJSEIyX2JFcjN2U0NnSFo5ZlV0ZERwNVlnaFoyY19TdjEyS0hZX0loY3g4V0g0dnpaM0hhN0p0NkhhbjZGQ2EtQi1hamtrVTI?oc=5",
-      "summary": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms Futurism",
+      "title": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGV2Q29BZWJqLU1EUUdxdVp0cHVPcFBOV1pVaTRkVXdtTEE2eXJ2Z2tuOWJzWjdQcHRVaFYzbkhqR0U1OEVuTHN5emZxMXQtNXBpcmtVSDl5VlRiekFHNGRrd2FRdjB0Vzk4MF9pN1FPS0hwYkFlaEYxbEpwSmlMQTlyand6dw?oc=5",
+      "summary": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" Futurism",
       "badge": "new",
       "date": "2026-07-26"
     },
     {
       "company": "Meta",
-      "title": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGV2Q29BZWJqLU1EUUdxdVp0cHVPcFBOV1pVaTRkVXdtTEE2eXJ2Z2tuOWJzWjdQcHRVaFYzbkhqR0U1OEVuTHN5emZxMXQtNXBpcmtVSDl5VlRiekFHNGRrd2FRdjB0Vzk4MF9pN1FPS0hwYkFlaEYxbEpwSmlMQTlyand6dw?oc=5",
-      "summary": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" Futurism",
+      "title": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mVFJKdTZGSWhqU3hHVGl2UjZUNTVCTWxJTVFoU1RRMkNHOS1kV3NUX2xHc1FJSEIyX2JFcjN2U0NnSFo5ZlV0ZERwNVlnaFoyY19TdjEyS0hZX0loY3g4V0g0dnpaM0hhN0p0NkhhbjZGQ2EtQi1hamtrVTI?oc=5",
+      "summary": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms Futurism",
       "badge": "new",
       "date": "2026-07-26"
     },
@@ -178,22 +210,6 @@
       "date": "2026-07-25"
     },
     {
-      "company": "Anthropic",
-      "title": "Introducing Claude Opus 5 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-      "summary": "Introducing Claude Opus 5 Anthropic",
-      "badge": "hot",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic launches Opus 5 - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HM2hTbEJyVC1kVUZuekJnS2pqMThSQXZNSm5qbVB6aHp4VzlvTDd2T2gzOU5pSFhGRHUtSkUxcmhTdWQ5cjlNazhkRFQwOEVNMzBxbjVqQVpsZ21ROHVDVU5qbFJZM05TRERtaw?oc=5",
-      "summary": "Anthropic launches Opus 5 TechCrunch",
-      "badge": "hot",
-      "date": "2026-07-24"
-    },
-    {
       "company": "Microsoft",
       "title": "Open Weights and American AI Leadership - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczZlRzdBN2sxLXp1U2Z6NnZ2elpFak1wSTUxOW5wbkNWdE5hWGp5WHJaSWJxR29rYnBXZ2hSWUNfMExHMi1Xc00zRXZJM0k3OTdhOGdDREhjYmdRR25SUUNTcGN3bXJBOVdadWtyXzRpdE9zWHlES3VNakFpbWpGb2x3?oc=5",
@@ -243,17 +259,17 @@
     },
     {
       "company": "Meta",
-      "title": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5",
-      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ Tech Policy Press",
+      "title": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNRNXY5akdZb1hydUduUDlzVmd3c2pnTldpTGhZb2dMaWEtY2NxNDdtYTZHVWQwQlU0UWRzNUtXbVVzVXFkZTRvekJOd2hJd2h5TzFkRzJTcnhHRm4wZWxkOWNLVHNUY2FTRXVBX2VYS21zVnhaY1JrVFpqaDJBWDh3dmFKQdIBiwFBVV95cUxNVjBZb0ZvVXdEZHVlSkF4VFBOcmFZcVRqQ2VPT042Qmg2MC1LRGhjLTBfcGM1RExnbnhnZ2s1Y2xwRVkyMnlwSTUxalA5Mk5VV3BBYUlfdE5lSEZkTC15V3BqaFRBbGhMWTg1OERiUkR1a3ZwY09STjhTUWZvNFk2d3hHbHVuc3p4R19J?oc=5",
+      "summary": "Meta AI Doesn’t Just Think, It Acts Meta Store",
       "badge": "new",
       "date": "2026-07-24"
     },
     {
       "company": "Meta",
-      "title": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNRNXY5akdZb1hydUduUDlzVmd3c2pnTldpTGhZb2dMaWEtY2NxNDdtYTZHVWQwQlU0UWRzNUtXbVVzVXFkZTRvekJOd2hJd2h5TzFkRzJTcnhHRm4wZWxkOWNLVHNUY2FTRXVBX2VYS21zVnhaY1JrVFpqaDJBWDh3dmFKQdIBiwFBVV95cUxNVjBZb0ZvVXdEZHVlSkF4VFBOcmFZcVRqQ2VPT042Qmg2MC1LRGhjLTBfcGM1RExnbnhnZ2s1Y2xwRVkyMnlwSTUxalA5Mk5VV3BBYUlfdE5lSEZkTC15V3BqaFRBbGhMWTg1OERiUkR1a3ZwY09STjhTUWZvNFk2d3hHbHVuc3p4R19J?oc=5",
-      "summary": "Meta AI Doesn’t Just Think, It Acts Meta Store",
+      "title": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5",
+      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ Tech Policy Press",
       "badge": "new",
       "date": "2026-07-24"
     },
@@ -386,14 +402,6 @@
       "date": "2026-07-22"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft keeps stripping features from free Copilot to push paid subscriptions - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFBDWGF4WWtkYnhFMVBLVzJaMXVVYmI3ZlRsQXpnTVNyclJrbkZWU0pCeTNzRWtpdWFHcEM5bUZTeThzbDFTNlJPcGdCM09WalBpUHMyYnU5bTc1bm9aTFdhZ2taNVUyaUZlQmtUX0NOdWNjbkxyM1lwbFRXaDBQOFNHN09fSWlJbS1OaHM4Qk9CcXB0MV8xZ3NYLWdvRF9ic3BlQWVwTjZOcGVnMmdzZ3lLdi1ERFMwc3NlclAtX1d4RGlZQVB2R2hxNEI2SXNUdU1LYzBWMjZ1NTZ6NWRYZjR2NjZ2M0R2ZGJvWA?oc=5",
-      "summary": "Microsoft keeps stripping features from free Copilot to push paid subscriptions Windows Central",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
       "company": "Perplexity",
       "title": "I gave Perplexity's agentic AI 5 complex tasks to run on my Mac - and I'll do it again - ZDNET",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXRnWG5Qdzh4Sm41eXU1TktCYXAtSWlUcjl1OXRRaDNqTEFJSkc0UllqR3BrNExxU3hRUG5VTHJZZFhNcGdoR3l6aS1Vb05oQkVFTzBSTWljOXNsdTFvdGxKVUFvTk1fRng0Zmd4VXlhMDVzX0Jlc3lUMUc5SnhPZS13R09hdVZOaUxYRE13T25BQQ?oc=5",
@@ -424,14 +432,6 @@
       "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "badge": "new",
       "date": "2026-07-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "badge": "new",
-      "date": "2026-07-20"
     },
     {
       "company": "Perplexity",
