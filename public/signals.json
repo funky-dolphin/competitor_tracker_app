@@ -1,11 +1,51 @@
 {
-  "updated": "2026-07-27T14:20:29Z",
+  "updated": "2026-07-27T19:18:57Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Users seemingly private conversations with Anthropic's Claude showed up in Google search results - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmF0Z2hIVUJKTkp0Q09sT1RkUThycVdCczZHQU1SbVQwQW9ITlJEVURfRlJMRFNIMUhMbjJIejZqVHo1STFkZjgzM1dqemZ0cEttVTBLTm5iNUVfV29JNjhjMGhwaVVZZjVLYmt5c3F0M21qTnd5YWJ5NV9kOTB0LTJDYWlCdkVrdGZ2QVZqLWZYZTd4X0VMMmxjVXVhcHJyak1oVVR2VXdST040NWY0VWlKWmI5NkRfM01JMUFIb2ZfQW9wZWxEc0pCVnIydXRORW5tRm5LRDZVZHNTa3Q0bFlGaw?oc=5",
+      "summary": "Users seemingly private conversations with Anthropic's Claude showed up in Google search results Fortune",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzlMeGpBOXdJYWJkSmNwWXYxcllBSVVEWm84ekRMVGNZYTE5aXJwRkhKVjRySjBUbVppakRYb3RtYkFJUFVFTzdKTm8wc0kyVFZCVnJrMUtLdEdxejVub1ZfMElyVXd1c0RCcjI3aU9kN1FtWkthald6Rkk1bmppZzNOcw?oc=5",
+      "summary": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There Futurism",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude AI shared chats indexed by Google - see if your conversations were exposed - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RT2MzVGxkb20xYVBKV25FM05TT0I1RV80eHc4Q2V1MVNSOHZOaGt1Ui1ENFhEOUh4OWYybFk5WlY1NkR3Y2Rtc2ZsWHN1T2MtcTBvZWVuRnFfT1ZQRmlGQ1l5ZjBKVzRyV1FqSGRVb0dVVndIUlEzVmhCbw?oc=5",
+      "summary": "Claude AI shared chats indexed by Google - see if your conversations were exposed ZDNET",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic gets heat for being the only major AI lab not supporting open models - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3F1dGIzT2tGQUFfdXB0VVdMOGZxMUxvcUFaV2VaU05icGxhY09IZmkxNEdXTG14YWxZUTNvZjY2RF9aSmZTcmNrbFV5c3pDRVZuSjUyT0ZmeEpQbTFXLUhBVHdQMkVDX3lBYWUzLWk0aTA1SjV1UHhlT2RtakFXbjl0djdZUndpWDYtV2d6NlQ?oc=5",
+      "summary": "Anthropic gets heat for being the only major AI lab not supporting open models Business Insider",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nvidia rallies the open AI camp - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVEwMnQxeXZrZWF0OUViVTg4TnFxalFlclhoVGRFQS1heHF4ZjQ3V1hPQjQycG1nVXc3a0F3U0xBZW1TWnotZzJScHByMTNJRmxxTHAwQVR2NUc1MHR3TVMwSkxoclVObTZBUndreW9fWV9HY0ltbnFIamktWGNzVw?oc=5",
+      "summary": "Nvidia rallies the open AI camp Axios",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -26,18 +66,18 @@
       "date": "2026-07-27"
     },
     {
-      "company": "Anthropic",
-      "title": "Nvidia rallies the open AI camp - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVEwMnQxeXZrZWF0OUViVTg4TnFxalFlclhoVGRFQS1heHF4ZjQ3V1hPQjQycG1nVXc3a0F3U0xBZW1TWnotZzJScHByMTNJRmxxTHAwQVR2NUc1MHR3TVMwSkxoclVObTZBUndreW9fWV9HY0ltbnFIamktWGNzVw?oc=5",
-      "summary": "Nvidia rallies the open AI camp Axios",
+      "company": "Microsoft",
+      "title": "Microsoft: The Market Is Right To Discount The $190 Billion Bet - For Now (MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnJ6WnBoZHJ0SGZqQi0wYTlVZVJReW1EOHV3TEVkTnZnYTJCN0NyWkFGT0RpYXRHMFdocXVhNFlGcWRHUk1RdDZjd2M3RDNwak1LakJGb1g4UDJFUFoyN01CRGV6cGgwb0tiSTFxWlNacUZVMy1tSDNaZlJ1RDFHelVsZ0xhX1dhSDg3bDZpb2ZCVlAzNEFRNUM5YVJNVjRNYnUyUjlkNXRSZkpjdGNj?oc=5",
+      "summary": "Microsoft: The Market Is Right To Discount The $190 Billion Bet - For Now (MSFT) Seeking Alpha",
       "badge": "new",
       "date": "2026-07-27"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft: The Market Is Right To Discount The $190 Billion Bet - For Now (MSFT) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnJ6WnBoZHJ0SGZqQi0wYTlVZVJReW1EOHV3TEVkTnZnYTJCN0NyWkFGT0RpYXRHMFdocXVhNFlGcWRHUk1RdDZjd2M3RDNwak1LakJGb1g4UDJFUFoyN01CRGV6cGgwb0tiSTFxWlNacUZVMy1tSDNaZlJ1RDFHelVsZ0xhX1dhSDg3bDZpb2ZCVlAzNEFRNUM5YVJNVjRNYnUyUjlkNXRSZkpjdGNj?oc=5",
-      "summary": "Microsoft: The Market Is Right To Discount The $190 Billion Bet - For Now (MSFT) Seeking Alpha",
+      "title": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXp2bnQydGZBcTdVTldhMnZ5VkxYbGU3NVA0cmhSTlRMVlJkcExNYVdsSXB4bTMyUk0xV2RacFphVjZmRnZJOTVFT2VZQWZDbXVqMnZOSUFSMUpDZTI3dUkxXzFBTkUxSFlDekhsZUkxNnhOUFhxNW0xaHhlbEUydkpwVGVUYVhTNlRpQUctZm13Wk1KcUE0MFdpT1hsYmhWd0lVYU00OUkwTGxVdlB4Q3RhYm9XV3ROM1hKS3VGLVRMU3NQdV9udTRURE53Mmtlam5maUdB?oc=5",
+      "summary": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test Windows Central",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -158,38 +198,6 @@
       "title": "Why this philosopher turned down Anthropic - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5",
       "summary": "Why this philosopher turned down Anthropic Financial Times",
-      "badge": "new",
-      "date": "2026-07-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
-      "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. The New York Times",
-      "badge": "new",
-      "date": "2026-07-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and Meta are on the defensive. Can they win back trust? - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0JibExqSzlabnY5N09DMGZCT3FJTFdZVEx6MVNhZm9sSEFlQzRYVmUzWEJTaHlVSzhWbHJ4dVR0NzdFODk3bkVLd2pjcUdpY2xkLUlDeXpDUWg5aEFqYUloREJDdEtDN2R5cG5TX3VyYl9QaHRnU3lFZmF4QjREM2x3?oc=5",
-      "summary": "Anthropic and Meta are on the defensive. Can they win back trust? Business Insider",
-      "badge": "new",
-      "date": "2026-07-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nebius Is Turning Into The Open Source Anthropic (NASDAQ:NBIS) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZHVTYzlmMlBzTFJ5WVdCU0ZqR1FjV3hkR3pRQmwxSER4WU5kdXNMVnRUUU5MU2xOei1fdFMtX1hPOXk4ZFVRZ2IyM0ZBVHhjcFZXTFR0aFhGQnNQRGRqTDNOOG00eHdNc0FvWFJlVHozRm1KV2dQVmxwT25mYmI0SFlYTUhaTlpWT01xZU1VVGtnNW8?oc=5",
-      "summary": "Nebius Is Turning Into The Open Source Anthropic (NASDAQ:NBIS) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic to pay settlement to Harry Potter publisher - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXJOREdDN1VwakJSNDBkbnp4ZHVNdmZWTU1NSkVseTgta1hEOHlSbFdwSU5heENwekI3OWo4aEJ5akNCUFgtZjdRVlpMb1pJQnc1VmhPYWw0eWVpYS1Tc3FJaTVrRWdmNFhaaXp4bHpHeHgtZnFqaDZfbkNMVElIZkctbUlyTWVLN2E3dU53Zm5IME0?oc=5",
-      "summary": "Anthropic to pay settlement to Harry Potter publisher CNN",
       "badge": "new",
       "date": "2026-07-25"
     },
@@ -390,14 +398,6 @@
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "10 cool things Copilot can do in PowerPoint - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFVKWE5HdFllTHdJVU5kN0RPbWI1SGNzSWRXWFF3VjQ3VGlRTjFqcS1LMmpnamNGcFB6cHhGRjVUS3dfajBrZ0hQbWw1U3hqYVhNMkVudnRlUHJtTmVONUFUeGNweENSODlUWjJvYjcxZTNYTDhKMmdfam9TUS1kT2VObkZFS0psWG10WEZDMFNDQ3hMTGU3UUln?oc=5",
-      "summary": "10 cool things Copilot can do in PowerPoint Computerworld",
       "badge": "new",
       "date": "2026-07-22"
     },
