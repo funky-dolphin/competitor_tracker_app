@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-27T19:18:57Z",
+  "updated": "2026-07-28T02:01:55Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
     {
       "company": "OpenAI",
       "title": "How AI is expanding what people do at work",
@@ -11,9 +51,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "Users seemingly private conversations with Anthropic's Claude showed up in Google search results - Fortune",
+      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
+      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling NPR",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
+      "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Nvidia rallies the open AI camp Axios Anthropic CEO: Don’t ban cheap AI — but clamp down on China Politic",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmF0Z2hIVUJKTkp0Q09sT1RkUThycVdCczZHQU1SbVQwQW9ITlJEVURfRlJMRFNIMUhMbjJIejZqVHo1STFkZjgzM1dqemZ0cEttVTBLTm5iNUVfV29JNjhjMGhwaVVZZjVLYmt5c3F0M21qTnd5YWJ5NV9kOTB0LTJDYWlCdkVrdGZ2QVZqLWZYZTd4X0VMMmxjVXVhcHJyak1oVVR2VXdST040NWY0VWlKWmI5NkRfM01JMUFIb2ZfQW9wZWxEc0pCVnIydXRORW5tRm5LRDZVZHNTa3Q0bFlGaw?oc=5",
-      "summary": "Users seemingly private conversations with Anthropic's Claude showed up in Google search results Fortune",
+      "summary": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results Fortune",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Shared a Claude conversation? Google may have seen it. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zYkkxX3lCelN1bWhUTmtvQUNxbFBmTUhKa3lXdjIxSUhVSVFPbDlKSUNDczB6UC01RUctRFBuTklYa182U1hMbC1ZbHA0MXVmYjByU0R4MzlpemY2VGdReXJPb0c1RV9JZWd4Qm9pcGZIdWM1cXFr?oc=5",
+      "summary": "Shared a Claude conversation? Google may have seen it. Mashable",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -82,42 +146,10 @@
       "date": "2026-07-27"
     },
     {
-      "company": "Apple",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "company": "Perplexity",
+      "title": "AI Search Has Changed: Here’s How to Optimize for ChatGPT, Gemini & Perplexity - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdjOXV3ckwycU1SUHVPbEZYaWFaOHpDTHA0dG5WREJMcnh1SEQyMS1oT3RmU0ZadUVQTGI2ckVhQjhHcnNBb2pQcWVveTFWdGk2RkpvdE5ZUm1Ec3dWVG8wOHhVdF9wSXNBVml6a1pjb1dSUGFHaEFWQVpJM200Rml6NUc5TUZzc3pNaUs3Z2kwajZrUEhvVFNNODZHSkMwNmt3THZQbU1GNlZpOFlkYWY1NA?oc=5",
+      "summary": "AI Search Has Changed: Here’s How to Optimize for ChatGPT, Gemini & Perplexity AiThority",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -136,22 +168,6 @@
       "summary": "Brave might be experimenting with a Perplexity-style AI answer engine built directly into its browser PiunikaWeb",
       "badge": "new",
       "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence - The Decoder",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmtCS3FVZ0tLUXNBY0xDTzNNMUZCdnVkelR1NWhEMTBlUkdoWnMxZGdLeEdIdzl1aUJTNVN6NGxPbXZhemlLRUhIak9JY0pOY2dwb04xamhMbEVuZ21XNjYtQ05nVTVNT3VQSENzLTJMMGpBUGVpczViX2psVXBCN2hCNG5wWEp6blA1OFhvZmV3Znpqd1J6MmtkcnVsLW9HVm42V1Nkc3JCOTljek5CLWJPSEtLMVhVbnV5bmluRF9BUW01Z3dUTEZPbGk?oc=5",
-      "summary": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence The Decoder",
-      "badge": "new",
-      "date": "2026-07-26"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDdqVzNsSGsyVVZtcHQ5U2RQZlNBVE13X0xjNjBxVmw1WUl1QkRTZUpwbWoxb1VvZGRKU190cUFiS0VHZTZMTHY2cW9QVDBrWGFsLVd5SzRXVjZsczVjeFJZRjJwamo0eXJ2bkF1Q3I4VF84bVZyQURtMnRsYlNpWF9BMEpoSUJXUFNDaGNYWllCWkN1VkpmRkxtMmZRX3JVQWNsbHdIYXdmVkN2cWItVFpTM1NnY3ptZ3I2Zm1vaw?oc=5",
-      "summary": "Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic Forbes",
-      "badge": "new",
-      "date": "2026-07-26"
     },
     {
       "company": "Perplexity",
@@ -192,14 +208,6 @@
       "summary": "Residents protest Meta AI data center, voice neighborhood concerns KFOX",
       "badge": "new",
       "date": "2026-07-26"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why this philosopher turned down Anthropic - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5",
-      "summary": "Why this philosopher turned down Anthropic Financial Times",
-      "badge": "new",
-      "date": "2026-07-25"
     },
     {
       "company": "Microsoft",
@@ -454,14 +462,6 @@
       "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaWZlU1lCM29qbWJGYWNhVzlaYWY3T01OOTdLUlVNZV9KMHFDS1VnVENvODQ4Tm1hZXN2eUhVX1UxNUp2QXBocUhpVzBqSEhkR1RnSVo2RDVQVmFzaG5yZmV4Y0xwZGVLVE5XMEZXZUZzeExFQ0pieVYySFlIdHN1VmQ3NXo1Qk0zbFo1MUVsUW1nWFBzMU9ESXptellHZmpDTUR0eEVQWEhaT0UtUzVzOWRxMVNDa3oycUpMcUNWSVY2Y2p4YlF5bDk5c0ZaaVRjcmEyVGxWWWUtLXMzbGc?oc=5",
       "summary": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep MarkTechPost",
-      "badge": "new",
-      "date": "2026-07-19"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Chinese Kimi K3 outshines Fable, OpenAI’s Codex hardware, and Perplexity returns with SPACE — Weekly AI Roundup 19 July - financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdnFSaHFoTUM5T2dNcGhTQ2ZvdDNkVTFlMkxfUHhPMzJ1ZkNSTTViRks5LTJsYUxRajVISGlRZWVIX3pwY28xQzBPY2VzT3piR3ctLTVkRnZkTV9LNXlldU9YX0dOMk9qM0hwVHFNenNrNld6SEUzUHo2WnNXMXRZaV84YWI1QlhJUlh1blo5cWpzRWsybHdJMnd6T2tPX3RGMjJGRGZQLXBfVThYQUJ2SEN1dXhlTmdSNUJoaFNNWUhhUkFsSk4xTjFPSXpOT0t2a09DanBWZXJhX1U5OFRRSFh6YmtqdmNWQUh2SnNmVXV2NGRKc0o0UDdfS1VHN2JXT1HSAYgCQVVfeXFMTnVrdEZNVXhiY3ZVUWo4ZXJUZkpybHlpSXJJbnJ3NmpBSDhXUG5SVjY4bmdGVnhTSXJadFJ4WmkyTUE3VU40R1RWQ0RiVWpHdWlxYVd1OVJoczFJbnkwX2tGM1RYbjFTU0hNby1lWDZ5Q0hKS0tTOFlRMzVsel92YjJqYTFpVDkyS0M5TWxCZ2dhYUJvU2xUTzhCMzlXdGlBMXdwa1EzbTR5bHk4YVF6RTczNDZrZTZ5TE52YnlqWE1wamVZczNJR09wWW8tSXJIUUwzdkJkdmxUVUhQUjVVSjhjVkRQTEphYTdVQi1hMTU2c3VJb3RwNTA5Y3lUX1FEUElSR2FFR2hp?oc=5",
-      "summary": "Chinese Kimi K3 outshines Fable, OpenAI’s Codex hardware, and Perplexity returns with SPACE — Weekly AI Roundup 19 July financialexpress.com",
       "badge": "new",
       "date": "2026-07-19"
     },
