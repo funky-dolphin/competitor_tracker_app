@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-28T13:51:48Z",
+  "updated": "2026-07-28T19:15:24Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "summary": "Discovering cryptographic weaknesses with Claude Anthropic",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6UGlFUVFUZk51VFBqdW9TcThwY21DVDRvVkhVRWJSNnM2LUtBQm52MC1TcVhyS1hXMWpmRVhNNkM0cVk4WFVsWG1nRVR0bVJnTHk4eWxMZU5SQUtVRVlzaHVPMHZ3bHlSLXRHRlFjSUQ1Ylo2V3JMOUlnNUh4b2dBVzhBOFFzN0RtcHJhdE1fUQ?oc=5",
+      "summary": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms The New York Times",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcC02c0sta04tMGd5WTdqcW9NVjhQbzU4cXBTbEFidlgtSU1WWldmQm50RWV6OVhBZzkzYmI3X0U3Q09wdGdPLVRCbF82R0kxVFUwekhoRXpad01TNS0xUHB1TmdyeVlNSWlmb1FtZWN6bXg2c0F3SEZWOUkxTGZTQlkwQkJMNTRYYTAwVFlhbVZRNDEtWm1KbTlxbHlDa3oxMkYzWXNXY0czLTRjVFpialRjMk9xTzRnSC1UOGdR?oc=5",
+      "summary": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress Bloomberg.com",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic blows past Starbucks, McDonald's amid AI boom - Axios",
@@ -27,6 +59,14 @@
     },
     {
       "company": "Google",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Google",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
@@ -38,6 +78,22 @@
       "title": "5 ways to host the ultimate dinner party with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
       "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNGdmVzUGRIbEpfWUlqZF9Xa2VSQ1NjaF9UZFNucjBjb0RweW56eS1ZZC1GczZxU1RlOG5xMmNkd2hhR0ZvOV9oWjZ0NmRTVnQ1Ui1HWWhlbndqenJxMDZQY3pZYk9lLW91T1RIMTRyTjU5R0lKV3JTdWh3dGFYeVBqaGpZOGl5NjFmVjVyS25SR2ZQY28xYnVVVEd6RE5DTHUtVFJJRndZcWw3b1pHT3Rkak9uSlBJRjZmSWJBM1NoR1FmMEE?oc=5",
+      "summary": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation The Official Microsoft Blog",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft canceled Copilot Search for Outlook after user outrage, in a rare AI reversal - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjVHZVh1QXF0RTFJT0paYnRRYmxocXI5N3ctTTJsMzVwQjM1SmtHa25RS1k4am1HVXNuYkJ6dkhJTTE5TmxGb2RJR3g3V05HeDFyRnY4VDI5azU2SWFQdGhhVXdwSVJGTVEtalMxX3JBeGZwcVV0X29RY1VudmdKMmlZZERhWmtqc2lhQ3lZWGhtaXhfUF8yQXN0eVNkZlZJQjAzX3NLc3pmRFBXSTlmTDRqZUZIMnU0SWQ4c1BKUWNKcXljTExR?oc=5",
+      "summary": "Microsoft canceled Copilot Search for Outlook after user outrage, in a rare AI reversal Windows Latest",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -106,6 +162,22 @@
       "date": "2026-07-28"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity brings its Personal Computer AI agent to Windows - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOE50QVRhR1JJVHB0RUMzbEJobm1DM193Yno2ZW4zZDE5MmJOT2NpUUdXSm9MelJka3hZYlFZR2dSc25SMDFObUVXTklMSl9rYUFIQWhTXy1yYzVLUzhpam5rQTdpWmV4YUtiaWlxbDRDa2tGTG5HV3lyQnM4T3ZxQm5Eb0lTaVhkRGJjWmxmZ3QxaUE?oc=5",
+      "summary": "Perplexity brings its Personal Computer AI agent to Windows SiliconANGLE",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Meta",
+      "title": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised - MyGolfSpy",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5",
+      "summary": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised MyGolfSpy",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
       "company": "Meta",
       "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlY2LTE2cDVxQlUxNGdnbjlYLTJ5ajg3WHZWYnFweGpiOHBmTVhoYnBlWF9oX2FmMDRIMWhZOTZNMDlTYlp2UEdnVW54eTRvbHFCVTRDeUNmcVliZTR5dlhjMHhiY3NVWDVXZXBBU1Y0UE1jU3haZXVtTk9neFlKQWdURjJVdkVRNDJJdDVMdVRnRkNDNWROV2lldzJxWVBSMlg1V3dNc3g?oc=5",
@@ -123,6 +195,22 @@
     },
     {
       "company": "Anthropic",
+      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
+      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling NPR",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude Chats Popped Up in Google Search Results. Who's to Blame? - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS29Hb0tzNEhib1F1M01VMnlWT2FRSy15U2drU3dTcnI4dEcweGhFLWZpWE9qSUozM0RDMmdmUThPM1luRmFPYUp4VWxCZXEwaDQwaUt1M29KNW5xMDhuRDI1bml1Wm1TektKc2hTRUFReF9KNGYzOE5zelpyYnZ5TzJoNHgtWjhhT1h6Z1JfRWd5Zw?oc=5",
+      "summary": "Claude Chats Popped Up in Google Search Results. Who's to Blame? PCMag",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
       "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Anthropic CEO Dario Amodei says he does not support open-weight AI ban Axios Anthropic CEO: Don’t ban che",
@@ -134,46 +222,6 @@
       "title": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmF0Z2hIVUJKTkp0Q09sT1RkUThycVdCczZHQU1SbVQwQW9ITlJEVURfRlJMRFNIMUhMbjJIejZqVHo1STFkZjgzM1dqemZ0cEttVTBLTm5iNUVfV29JNjhjMGhwaVVZZjVLYmt5c3F0M21qTnd5YWJ5NV9kOTB0LTJDYWlCdkVrdGZ2QVZqLWZYZTd4X0VMMmxjVXVhcHJyak1oVVR2VXdST040NWY0VWlKWmI5NkRfM01JMUFIb2ZfQW9wZWxEc0pCVnIydXRORW5tRm5LRDZVZHNTa3Q0bFlGaw?oc=5",
       "summary": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results Fortune",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
-      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling NPR",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Shared a Claude conversation? Google may have seen it. - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zYkkxX3lCelN1bWhUTmtvQUNxbFBmTUhKa3lXdjIxSUhVSVFPbDlKSUNDczB6UC01RUctRFBuTklYa182U1hMbC1ZbHA0MXVmYjByU0R4MzlpemY2VGdReXJPb0c1RV9JZWd4Qm9pcGZIdWM1cXFr?oc=5",
-      "summary": "Shared a Claude conversation? Google may have seen it. Mashable",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzlMeGpBOXdJYWJkSmNwWXYxcllBSVVEWm84ekRMVGNZYTE5aXJwRkhKVjRySjBUbVppakRYb3RtYkFJUFVFTzdKTm8wc0kyVFZCVnJrMUtLdEdxejVub1ZfMElyVXd1c0RCcjI3aU9kN1FtWkthald6Rkk1bmppZzNOcw?oc=5",
-      "summary": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There Futurism",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude AI shared chats indexed by Google - see if your conversations were exposed - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RT2MzVGxkb20xYVBKV25FM05TT0I1RV80eHc4Q2V1MVNSOHZOaGt1Ui1ENFhEOUh4OWYybFk5WlY1NkR3Y2Rtc2ZsWHN1T2MtcTBvZWVuRnFfT1ZQRmlGQ1l5ZjBKVzRyV1FqSGRVb0dVVndIUlEzVmhCbw?oc=5",
-      "summary": "Claude AI shared chats indexed by Google - see if your conversations were exposed ZDNET",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic gets heat for being the only major AI lab not supporting open models - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3F1dGIzT2tGQUFfdXB0VVdMOGZxMUxvcUFaV2VaU05icGxhY09IZmkxNEdXTG14YWxZUTNvZjY2RF9aSmZTcmNrbFV5c3pDRVZuSjUyT0ZmeEpQbTFXLUhBVHdQMkVDX3lBYWUzLWk0aTA1SjV1UHhlT2RtakFXbjl0djdZUndpWDYtV2d6NlQ?oc=5",
-      "summary": "Anthropic gets heat for being the only major AI lab not supporting open models Business Insider",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -354,14 +402,6 @@
       "date": "2026-07-24"
     },
     {
-      "company": "Meta",
-      "title": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNRNXY5akdZb1hydUduUDlzVmd3c2pnTldpTGhZb2dMaWEtY2NxNDdtYTZHVWQwQlU0UWRzNUtXbVVzVXFkZTRvekJOd2hJd2h5TzFkRzJTcnhHRm4wZWxkOWNLVHNUY2FTRXVBX2VYS21zVnhaY1JrVFpqaDJBWDh3dmFKQdIBiwFBVV95cUxNVjBZb0ZvVXdEZHVlSkF4VFBOcmFZcVRqQ2VPT042Qmg2MC1LRGhjLTBfcGM1RExnbnhnZ2s1Y2xwRVkyMnlwSTUxalA5Mk5VV3BBYUlfdE5lSEZkTC15V3BqaFRBbGhMWTg1OERiUkR1a3ZwY09STjhTUWZvNFk2d3hHbHVuc3p4R19J?oc=5",
-      "summary": "Meta AI Doesn’t Just Think, It Acts Meta Store",
-      "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
       "company": "OpenAI",
       "title": "Launching Health in ChatGPT",
       "url": "https://openai.com/index/health-in-chatgpt",
@@ -374,22 +414,6 @@
       "title": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbXNyTmpwdHZYZW5XR2VqdUU5RHhISGRoZDZqNTlXaHl3S3pjU2M2OG9hNFdqRjlmSFVwQXUyZGF0eFhPSGdoMTN4OHJMd014eTFqY1JTWGZMM2IxQTJ3ZjUzVnpJeDVzd0hJMXZaZUVGcUZvV2pGejFkZTR0aWt5UHpDT1FzS0M1eDNwNmRNR2YybGI3QXJCb041Mk81QnZjU0E3WG1GaXN3S3g4SlN2ZHM3VncxUUVDYWNpUDZ0ZmdXZ2ZoUDNFenFYbXNjWnJSUU15X1dIcmNhSWs4empsemRR?oc=5",
       "summary": "Microsoft accepts defeat on the Windows 11 Copilot key with a \"Do nothing\" switch, but PCs still ship with it Windows Latest",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsft says Outlook Classic is getting always-visible Copilot to \"help you stay in flow\" - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFNFck1wX2tWNUZfV2FKRnlQM2RmcDJ0VjdCTnNoRnM3ZzhVRHVWWGFQRGd0RUNmMk5ENGFZSkR6Ym9WbDB5WDE2OGlURFJfamdFQkp0NzIwSmt3d3JUSFVBZTlTVEViRU9hamQ2anppb3IzNm1VcnJRNkNhT1hjV2p5dk8yak9mLWZrcGxwd2phaDZYQ1piZmY4QkpDbk5lZmFDSEp0b3hKNDhFSEVCSnc0dmxUTXpDVkhQZjMtT252VlJReU9MYUl4MmJ0RUZKU2NiZkJKbU8?oc=5",
-      "summary": "Microsft says Outlook Classic is getting always-visible Copilot to \"help you stay in flow\" Windows Latest",
-      "badge": "new",
-      "date": "2026-07-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Inside nonprofits using AI to extend their impact - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUxjSGVYVWdEZDFjc0NXcTBmZXUxOEc3MDg1b2pseXkwb1FvVXhNMFgwLWNXblBqRUhsNmFuTVphVXY2bTJRYXVLRmNIT3N1eGtjZEtZak5IOGZVazR3b1kzSW1ZaHdVRzRxdThZR05yWTNMbmlrcW9lenNQZzNHdWR0R3p3T3I3cXlDS0xrX1FzeGg4MldXbEt3WXZBUGxSdU1iS2tqNGMyZw?oc=5",
-      "summary": "Inside nonprofits using AI to extend their impact Microsoft",
       "badge": "new",
       "date": "2026-07-23"
     },
@@ -458,14 +482,6 @@
       "date": "2026-07-22"
     },
     {
-      "company": "Perplexity",
-      "title": "I gave Perplexity's agentic AI 5 complex tasks to run on my Mac - and I'll do it again - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXRnWG5Qdzh4Sm41eXU1TktCYXAtSWlUcjl1OXRRaDNqTEFJSkc0UllqR3BrNExxU3hRUG5VTHJZZFhNcGdoR3l6aS1Vb05oQkVFTzBSTWljOXNsdTFvdGxKVUFvTk1fRng0Zmd4VXlhMDVzX0Jlc3lUMUc5SnhPZS13R09hdVZOaUxYRE13T25BQQ?oc=5",
-      "summary": "I gave Perplexity's agentic AI 5 complex tasks to run on my Mac - and I'll do it again ZDNET",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
       "company": "OpenAI",
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -478,14 +494,6 @@
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "badge": "new",
-      "date": "2026-07-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "badge": "new",
       "date": "2026-07-21"
     },
@@ -576,14 +584,6 @@
       "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
       "badge": "new",
       "date": "2026-07-01"
-    },
-    {
-      "company": "Google",
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-      "badge": "new",
-      "date": "2026-06-30"
     },
     {
       "company": "Amazon",
