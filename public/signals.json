@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-28T08:24:37Z",
+  "updated": "2026-07-28T13:51:48Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic blows past Starbucks, McDonald's amid AI boom - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWsxRVptU010cTRHWS15WERCRFcyaHkyX3ZTRmhsUlZIUmczcjBPRzBjQXdEVkI1MG5Ub1JOR2Qxemxja1NHMXBQWFB4S1lCUUx4V3VUeHN0ZXlKWnpyQmh6bEZiaXJyaElQZnFKQ3F1ZjVPYUFBVzZvRE1wNlV3VzNUOGs2Vzcy?oc=5",
+      "summary": "Anthropic blows past Starbucks, McDonald's amid AI boom Axios",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Some people's chats with Claude AI found to be publicly available online - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5",
+      "summary": "Some people's chats with Claude AI found to be publicly available online BBC",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
@@ -10,11 +26,27 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Anthropic",
-      "title": "Some people's chats with Claude AI found publicly available online - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5",
-      "summary": "Some people's chats with Claude AI found publicly available online BBC",
+      "company": "Google",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
       "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Google",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Upgrade launches in the United States",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
+      "badge": "hot",
       "date": "2026-07-28"
     },
     {
@@ -58,6 +90,30 @@
       "date": "2026-07-28"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzczZTNqUk5BYWhBRWNDOWhjU1R4Zm1weG9KOWY4OXJ0WU9uQnppSUY1UkJaRk1NVm9qZ0JQM2NpRGJIY2NqbUVVZTdwRi1CNS10Mng2NFl3ZnNHamhLVmJwWU5hV0ladkJhWXJLUi1Xc0IzTGMxUjlPYkc0enlGaG9lNXBZZC1YNnNRMF93dlh4aC1UTm5Od2hGbHZrOXJGVGpfbFF0YWU?oc=5",
+      "summary": "Perplexity’s Personal Computer turns Windows PCs into AI agents The Verge",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity brings agentic platform Personal Computer to Windows - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1VzZUpjN1JTVkdLNFZ2TWV6UHlRQ2ZwNlI5cnEyNEtOMGNKLTg0X05ZX0lwN08zQzhGWFFqLW15MnBUQUUzWlJxLTJXbFdJQWZpSk1HcmJSMUd6S3kzZGZDMFRUUGgtYzg0aHhtM3pURVE5RDc3MHRFNXkwNHp5bThRcXJXRHNkenZFbVhSV2ZEODJZLXRScVB6STZmZ3FGNERJ?oc=5",
+      "summary": "Perplexity brings agentic platform Personal Computer to Windows Seeking Alpha",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Meta",
+      "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlY2LTE2cDVxQlUxNGdnbjlYLTJ5ajg3WHZWYnFweGpiOHBmTVhoYnBlWF9oX2FmMDRIMWhZOTZNMDlTYlp2UEdnVW54eTRvbHFCVTRDeUNmcVliZTR5dlhjMHhiY3NVWDVXZXBBU1Y0UE1jU3haZXVtTk9neFlKQWdURjJVdkVRNDJJdDVMdVRnRkNDNWROV2lldzJxWVBSMlg1V3dNc3g?oc=5",
+      "summary": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta WSJ",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
       "company": "OpenAI",
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -67,9 +123,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
-      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling NPR",
+      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
+      "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Anthropic CEO Dario Amodei says he does not support open-weight AI ban Axios Anthropic CEO: Don’t ban che",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -83,9 +139,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
-      "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Nvidia rallies the open AI camp Axios Anthropic CEO: Don’t ban cheap AI — but clamp down on China Politic",
+      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
+      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling NPR",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -122,10 +178,10 @@
       "date": "2026-07-27"
     },
     {
-      "company": "Anthropic",
-      "title": "Nvidia rallies the open AI camp - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVEwMnQxeXZrZWF0OUViVTg4TnFxalFlclhoVGRFQS1heHF4ZjQ3V1hPQjQycG1nVXc3a0F3U0xBZW1TWnotZzJScHByMTNJRmxxTHAwQVR2NUc1MHR3TVMwSkxoclVObTZBUndreW9fWV9HY0ltbnFIamktWGNzVw?oc=5",
-      "summary": "Nvidia rallies the open AI camp Axios",
+      "company": "Microsoft",
+      "title": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXp2bnQydGZBcTdVTldhMnZ5VkxYbGU3NVA0cmhSTlRMVlJkcExNYVdsSXB4bTMyUk0xV2RacFphVjZmRnZJOTVFT2VZQWZDbXVqMnZOSUFSMUpDZTI3dUkxXzFBTkUxSFlDekhsZUkxNnhOUFhxNW0xaHhlbEUydkpwVGVUYVhTNlRpQUctZm13Wk1KcUE0MFdpT1hsYmhWd0lVYU00OUkwTGxVdlB4Q3RhYm9XV3ROM1hKS3VGLVRMU3NQdV9udTRURE53Mmtlam5maUdB?oc=5",
+      "summary": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test Windows Central",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -138,18 +194,10 @@
       "date": "2026-07-27"
     },
     {
-      "company": "Microsoft",
-      "title": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXp2bnQydGZBcTdVTldhMnZ5VkxYbGU3NVA0cmhSTlRMVlJkcExNYVdsSXB4bTMyUk0xV2RacFphVjZmRnZJOTVFT2VZQWZDbXVqMnZOSUFSMUpDZTI3dUkxXzFBTkUxSFlDekhsZUkxNnhOUFhxNW0xaHhlbEUydkpwVGVUYVhTNlRpQUctZm13Wk1KcUE0MFdpT1hsYmhWd0lVYU00OUkwTGxVdlB4Q3RhYm9XV3ROM1hKS3VGLVRMU3NQdV9udTRURE53Mmtlam5maUdB?oc=5",
-      "summary": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test Windows Central",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
       "company": "Perplexity",
-      "title": "AI Search Has Changed: Here’s How to Optimize for ChatGPT, Gemini & Perplexity - AiThority",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdjOXV3ckwycU1SUHVPbEZYaWFaOHpDTHA0dG5WREJMcnh1SEQyMS1oT3RmU0ZadUVQTGI2ckVhQjhHcnNBb2pQcWVveTFWdGk2RkpvdE5ZUm1Ec3dWVG8wOHhVdF9wSXNBVml6a1pjb1dSUGFHaEFWQVpJM200Rml6NUc5TUZzc3pNaUs3Z2kwajZrUEhvVFNNODZHSkMwNmt3THZQbU1GNlZpOFlkYWY1NA?oc=5",
-      "summary": "AI Search Has Changed: Here’s How to Optimize for ChatGPT, Gemini & Perplexity AiThority",
+      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQXVXLWFxOFJ6MjE2bFNoNmFVT2NJRUVZcTZGSEVpRHpTZlJqWE9fX1JpZ0RlZGVCMWRXOExaQWhvRVZCTW1oMmNYUXlOM1ZFMVdoZTRkN2ptUGl1WlpFQzBWUzlyNXYxUDNZQlFPcjZ3Tzg?oc=5",
+      "summary": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents MarkTechPost",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -158,6 +206,14 @@
       "title": "I asked ChatGPT, Gemini, Claude and Perplexity what they think of each other - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNFE0b0dvOFkwWjB3TVZhRFg3TmE0VU1rWEhid3QtVHd6TF95Wmw3YV9rVFo2cFBuTkFBOHNKaE84Vjk4dkkyaVl4TGNxZW5XMjRvbTdfa0ROME1Ma3U3eEtqSm5wdkZNeEpBaGF5WkN0MjVPRlB4bjB1MUFsa2kzUzRmVjJQNXNyWVBUVXVMRTdFWGFhRTBEZFBodXpTWTYtMWRlX3NJWU8yRHB0bV9DYlNkWHZiRVlVS2Y1S3VSQzNKOVYyYzRuNThWdWdiU3A5WFdpNFdodTE4OVhzbGZ1UnBRT0NUb2tKY0swbzM3T1JoQkxlSm1UYldjbXNMZVk1RUduVHo1MjVvdw?oc=5",
       "summary": "I asked ChatGPT, Gemini, Claude and Perplexity what they think of each other Tom's Guide",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AI Search Has Changed: Here’s How to Optimize for ChatGPT, Gemini & Perplexity - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdjOXV3ckwycU1SUHVPbEZYaWFaOHpDTHA0dG5WREJMcnh1SEQyMS1oT3RmU0ZadUVQTGI2ckVhQjhHcnNBb2pQcWVveTFWdGk2RkpvdE5ZUm1Ec3dWVG8wOHhVdF9wSXNBVml6a1pjb1dSUGFHaEFWQVpJM200Rml6NUc5TUZzc3pNaUs3Z2kwajZrUEhvVFNNODZHSkMwNmt3THZQbU1GNlZpOFlkYWY1NA?oc=5",
+      "summary": "AI Search Has Changed: Here’s How to Optimize for ChatGPT, Gemini & Perplexity AiThority",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -174,6 +230,14 @@
       "title": "Threads users can now chat with Meta AI in their DMs - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1RKSnh5MU94Y1dCUFJnRV9fRlJQZDR4cmYzYVlVdmZ4MkF2NldtbW5aVGxYZnhhM2k5OThKQW4yYVhIb2xJTmNIdUVhTWM4WTdwY0E0SHlHelpKUUFJVVpwQ3ZmN0Z3U3h3cDR2ZXlwNGNkX0tWTUpzU3BmTjc4RE8zTjBRU28zU0hnMmRWOC0?oc=5",
       "summary": "Threads users can now chat with Meta AI in their DMs TechCrunch",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3R6VGxCVTRzaWVHWmJDMkRvMGdfMzZsb3VaaFY1NUJxUXNMZTVOYVhjQnVTeDlWejNpSGtzTWFoaTdCV2RRLXp6WTZJYno1WlFtY0FGdjdTMEhBM0FxVzl1NV85aEc4bG1wckF1MlFmS3dLbmVSTVhmeFVzdTlDNnlxZzJ4Zw?oc=5",
+      "summary": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI Meta Store",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -294,22 +358,6 @@
       "title": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNRNXY5akdZb1hydUduUDlzVmd3c2pnTldpTGhZb2dMaWEtY2NxNDdtYTZHVWQwQlU0UWRzNUtXbVVzVXFkZTRvekJOd2hJd2h5TzFkRzJTcnhHRm4wZWxkOWNLVHNUY2FTRXVBX2VYS21zVnhaY1JrVFpqaDJBWDh3dmFKQdIBiwFBVV95cUxNVjBZb0ZvVXdEZHVlSkF4VFBOcmFZcVRqQ2VPT042Qmg2MC1LRGhjLTBfcGM1RExnbnhnZ2s1Y2xwRVkyMnlwSTUxalA5Mk5VV3BBYUlfdE5lSEZkTC15V3BqaFRBbGhMWTg1OERiUkR1a3ZwY09STjhTUWZvNFk2d3hHbHVuc3p4R19J?oc=5",
       "summary": "Meta AI Doesn’t Just Think, It Acts Meta Store",
-      "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Meta",
-      "title": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5",
-      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ Tech Policy Press",
-      "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta takes first steps toward a personal AI agent - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lYkR2YlVvT2lXeXpENmRiRmRaSGJwOXkyRTlKcDZZeEkwYlNVbFg0U0NlNVJWNlZ5VG92dDQwaUdqODF5RlBIQkk1a1pOZ0h6RFFFWDN5VVJXX04zVzkyaV8tRnZiQQ?oc=5",
-      "summary": "Meta takes first steps toward a personal AI agent Axios",
       "badge": "new",
       "date": "2026-07-24"
     },
@@ -442,30 +490,6 @@
       "date": "2026-07-21"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI explained: what the AI search company does - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6aEg0MXJzUjIzcHBfeUV4d25fa0tiYl81U1ZJazRxdUZuRlNoaG5DdWNreEJXenNyeHg5bG5kalZvTDAzMi1vWmwtTUM?oc=5",
-      "summary": "Perplexity AI explained: what the AI search company does qz.com",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "These 3 Perplexity power-user techniques make AI search more useful - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80OU93NUVCdGg0Z2RRdDdvRGtHWlhfVWcyLW94MHpXNlU3cXlFa1Y0VkVscEI1WWx4YTNXS2dFczVNZDRZSnJpS19fUkVRYUtrQXB4ejk1ZFN2M1ZuNGN0M0RjOTg?oc=5",
-      "summary": "These 3 Perplexity power-user techniques make AI search more useful Fast Company",
-      "badge": "new",
-      "date": "2026-07-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaWZlU1lCM29qbWJGYWNhVzlaYWY3T01OOTdLUlVNZV9KMHFDS1VnVENvODQ4Tm1hZXN2eUhVX1UxNUp2QXBocUhpVzBqSEhkR1RnSVo2RDVQVmFzaG5yZmV4Y0xwZGVLVE5XMEZXZUZzeExFQ0pieVYySFlIdHN1VmQ3NXo1Qk0zbFo1MUVsUW1nWFBzMU9ESXptellHZmpDTUR0eEVQWEhaT0UtUzVzOWRxMVNDa3oycUpMcUNWSVY2Y2p4YlF5bDk5c0ZaaVRjcmEyVGxWWWUtLXMzbGc?oc=5",
-      "summary": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep MarkTechPost",
-      "badge": "new",
-      "date": "2026-07-19"
-    },
-    {
       "company": "Google",
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -530,14 +554,6 @@
       "date": "2026-07-09"
     },
     {
-      "company": "Apple",
-      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
-      "badge": "new",
-      "date": "2026-07-08"
-    },
-    {
       "company": "Google",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
@@ -570,28 +586,12 @@
       "date": "2026-06-30"
     },
     {
-      "company": "Google",
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
-      "badge": "new",
-      "date": "2026-06-29"
-    },
-    {
       "company": "Amazon",
       "title": "Residents express alarm over Amazon Ring feature - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEdZNnVUVmtVcWVMTGY0cUJxQlQ1NmYyU1EzbXpnY3Z6aUR4c0R6RnJySVdzNkhyVDlYcHJ2NmptMmlHQjh0MWJ4ZXdpS1lBUzVJQW9WWkxMOTRQSzM0U0NuNW9ZdllrbVhWN1hVSXlxVGt3RlhGcmxIelFCeThGSDVUdUtDb3l0eUtZejFqM2JDWHJO?oc=5",
       "summary": "Residents express alarm over Amazon Ring feature Let's Data Science",
       "badge": "new",
       "date": "2026-06-27"
-    },
-    {
-      "company": "Google",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "summary": "The Google Finance logo, surrounded by elements of the user interface",
-      "badge": "new",
-      "date": "2026-06-25"
     },
     {
       "company": "Amazon",
