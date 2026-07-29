@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-29T02:04:50Z",
+  "updated": "2026-07-29T08:30:28Z",
   "signals": [
-    {
-      "company": "Anthropic",
-      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
-      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
     {
       "company": "Anthropic",
       "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
@@ -75,17 +67,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pLaFdUbUthaG14SEtQWm5tWnVxYkhKc1owTjhocXNjZ3pKYUp0MzVyLUNET2lCZUlVSm56dEZxZXViS0NkM2pQOGRLYU41ODhTaTVodkNpQXE4RV9RcE1la185d1UwWjhiRWNnVlQ1Z0FRMXdBYkdoNU5NNGdIS3RRS2VFMVpmT29MNlNaVnZxNGJLVkg1Nm1DSHpkaE9BSko2Wk53MFk?oc=5",
-      "summary": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China Politico Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Anthropic’s Amodei defends open-weig",
+      "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6UGlFUVFUZk51VFBqdW9TcThwY21DVDRvVkhVRWJSNnM2LUtBQm52MC1TcVhyS1hXMWpmRVhNNkM0cVk4WFVsWG1nRVR0bVJnTHk4eWxMZU5SQUtVRVlzaHVPMHZ3bHlSLXRHRlFjSUQ1Ylo2V3JMOUlnNUh4b2dBVzhBOFFzN0RtcHJhdE1fUQ?oc=5",
+      "summary": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms The New York Times",
       "badge": "new",
       "date": "2026-07-28"
     },
     {
       "company": "Anthropic",
-      "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6UGlFUVFUZk51VFBqdW9TcThwY21DVDRvVkhVRWJSNnM2LUtBQm52MC1TcVhyS1hXMWpmRVhNNkM0cVk4WFVsWG1nRVR0bVJnTHk4eWxMZU5SQUtVRVlzaHVPMHZ3bHlSLXRHRlFjSUQ1Ylo2V3JMOUlnNUh4b2dBVzhBOFFzN0RtcHJhdE1fUQ?oc=5",
-      "summary": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms The New York Times",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyT3Zmb3JleWQ2VXBpSXJVZzBKS0pYUDFBVFEwMzdLVERVYXZ6c2lBeU9VMzQ0LWNkTTJXYWxxSmc2bkRJV1M1NUVYSU5tNHNjQW1wVkVuUDI0X2dieEt3TE4yT2tpRlF1QW9LdnZVYmxEaGQ4WnFlVnVQc1I0VTA?oc=5",
+      "summary": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack The Hacker News",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
+      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pLaFdUbUthaG14SEtQWm5tWnVxYkhKc1owTjhocXNjZ3pKYUp0MzVyLUNET2lCZUlVSm56dEZxZXViS0NkM2pQOGRLYU41ODhTaTVodkNpQXE4RV9RcE1la185d1UwWjhiRWNnVlQ1Z0FRMXdBYkdoNU5NNGdIS3RRS2VFMVpmT29MNlNaVnZxNGJLVkg1Nm1DSHpkaE9BSko2Wk53MFk?oc=5",
+      "summary": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China Politico Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Anthropic’s Amodei defends open-weig",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -187,14 +195,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity brings agentic platform Personal Computer to Windows - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1VzZUpjN1JTVkdLNFZ2TWV6UHlRQ2ZwNlI5cnEyNEtOMGNKLTg0X05ZX0lwN08zQzhGWFFqLW15MnBUQUUzWlJxLTJXbFdJQWZpSk1HcmJSMUd6S3kzZGZDMFRUUGgtYzg0aHhtM3pURVE5RDc3MHRFNXkwNHp5bThRcXJXRHNkenZFbVhSV2ZEODJZLXRScVB6STZmZ3FGNERJ?oc=5",
-      "summary": "Perplexity brings agentic platform Personal Computer to Windows Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity brings its Personal Computer AI agent to Windows - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOE50QVRhR1JJVHB0RUMzbEJobm1DM193Yno2ZW4zZDE5MmJOT2NpUUdXSm9MelJka3hZYlFZR2dSc25SMDFObUVXTklMSl9rYUFIQWhTXy1yYzVLUzhpam5rQTdpWmV4YUtiaWlxbDRDa2tGTG5HV3lyQnM4T3ZxQm5Eb0lTaVhkRGJjWmxmZ3QxaUE?oc=5",
       "summary": "Perplexity brings its Personal Computer AI agent to Windows SiliconANGLE",
@@ -202,10 +202,10 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Meta",
-      "title": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdW53UU1xM1Vwd0FLWnZ3Tng2UGlMUGNvbjJTZEhST2NySklBNHZtbjhabkJDd2REcGFzeU5yNXFJb29JUnpwOVZrRDl2R19Xdy1BcmFlSTVFdFlpTEVPckF0NjdkWUdRb1RKdklVNnhBcEV3MWdhdkRmWHVHREVDcU1FY0s1c2hPdmlqZ1hnOU1sdTZ3S2JpV1hR?oc=5",
-      "summary": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More Gizmodo",
+      "company": "Perplexity",
+      "title": "Perplexity brings agentic platform Personal Computer to Windows - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1VzZUpjN1JTVkdLNFZ2TWV6UHlRQ2ZwNlI5cnEyNEtOMGNKLTg0X05ZX0lwN08zQzhGWFFqLW15MnBUQUUzWlJxLTJXbFdJQWZpSk1HcmJSMUd6S3kzZGZDMFRUUGgtYzg0aHhtM3pURVE5RDc3MHRFNXkwNHp5bThRcXJXRHNkenZFbVhSV2ZEODJZLXRScVB6STZmZ3FGNERJ?oc=5",
+      "summary": "Perplexity brings agentic platform Personal Computer to Windows Seeking Alpha",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -219,6 +219,14 @@
     },
     {
       "company": "Meta",
+      "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlY2LTE2cDVxQlUxNGdnbjlYLTJ5ajg3WHZWYnFweGpiOHBmTVhoYnBlWF9oX2FmMDRIMWhZOTZNMDlTYlp2UEdnVW54eTRvbHFCVTRDeUNmcVliZTR5dlhjMHhiY3NVWDVXZXBBU1Y0UE1jU3haZXVtTk9neFlKQWdURjJVdkVRNDJJdDVMdVRnRkNDNWROV2lldzJxWVBSMlg1V3dNc3g?oc=5",
+      "summary": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta WSJ",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Meta",
       "title": "Meta, BlackRock partner on $14 billion El Paso data center venture - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
       "summary": "Meta, BlackRock partner on $14 billion El Paso data center venture Reuters",
@@ -227,9 +235,9 @@
     },
     {
       "company": "Meta",
-      "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlY2LTE2cDVxQlUxNGdnbjlYLTJ5ajg3WHZWYnFweGpiOHBmTVhoYnBlWF9oX2FmMDRIMWhZOTZNMDlTYlp2UEdnVW54eTRvbHFCVTRDeUNmcVliZTR5dlhjMHhiY3NVWDVXZXBBU1Y0UE1jU3haZXVtTk9neFlKQWdURjJVdkVRNDJJdDVMdVRnRkNDNWROV2lldzJxWVBSMlg1V3dNc3g?oc=5",
-      "summary": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta WSJ",
+      "title": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdW53UU1xM1Vwd0FLWnZ3Tng2UGlMUGNvbjJTZEhST2NySklBNHZtbjhabkJDd2REcGFzeU5yNXFJb29JUnpwOVZrRDl2R19Xdy1BcmFlSTVFdFlpTEVPckF0NjdkWUdRb1RKdklVNnhBcEV3MWdhdkRmWHVHREVDcU1FY0s1c2hPdmlqZ1hnOU1sdTZ3S2JpV1hR?oc=5",
+      "summary": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More Gizmodo",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -238,14 +246,6 @@
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
-      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling NPR",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -267,17 +267,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQXVXLWFxOFJ6MjE2bFNoNmFVT2NJRUVZcTZGSEVpRHpTZlJqWE9fX1JpZ0RlZGVCMWRXOExaQWhvRVZCTW1oMmNYUXlOM1ZFMVdoZTRkN2ptUGl1WlpFQzBWUzlyNXYxUDNZQlFPcjZ3Tzg?oc=5",
-      "summary": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents MarkTechPost",
+      "title": "I asked ChatGPT, Gemini, Claude and Perplexity what they think of each other - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNFE0b0dvOFkwWjB3TVZhRFg3TmE0VU1rWEhid3QtVHd6TF95Wmw3YV9rVFo2cFBuTkFBOHNKaE84Vjk4dkkyaVl4TGNxZW5XMjRvbTdfa0ROME1Ma3U3eEtqSm5wdkZNeEpBaGF5WkN0MjVPRlB4bjB1MUFsa2kzUzRmVjJQNXNyWVBUVXVMRTdFWGFhRTBEZFBodXpTWTYtMWRlX3NJWU8yRHB0bV9DYlNkWHZiRVlVS2Y1S3VSQzNKOVYyYzRuNThWdWdiU3A5WFdpNFdodTE4OVhzbGZ1UnBRT0NUb2tKY0swbzM3T1JoQkxlSm1UYldjbXNMZVk1RUduVHo1MjVvdw?oc=5",
+      "summary": "I asked ChatGPT, Gemini, Claude and Perplexity what they think of each other Tom's Guide",
       "badge": "new",
       "date": "2026-07-27"
     },
     {
       "company": "Perplexity",
-      "title": "I asked ChatGPT, Gemini, Claude and Perplexity what they think of each other - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNFE0b0dvOFkwWjB3TVZhRFg3TmE0VU1rWEhid3QtVHd6TF95Wmw3YV9rVFo2cFBuTkFBOHNKaE84Vjk4dkkyaVl4TGNxZW5XMjRvbTdfa0ROME1Ma3U3eEtqSm5wdkZNeEpBaGF5WkN0MjVPRlB4bjB1MUFsa2kzUzRmVjJQNXNyWVBUVXVMRTdFWGFhRTBEZFBodXpTWTYtMWRlX3NJWU8yRHB0bV9DYlNkWHZiRVlVS2Y1S3VSQzNKOVYyYzRuNThWdWdiU3A5WFdpNFdodTE4OVhzbGZ1UnBRT0NUb2tKY0swbzM3T1JoQkxlSm1UYldjbXNMZVk1RUduVHo1MjVvdw?oc=5",
-      "summary": "I asked ChatGPT, Gemini, Claude and Perplexity what they think of each other Tom's Guide",
+      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQXVXLWFxOFJ6MjE2bFNoNmFVT2NJRUVZcTZGSEVpRHpTZlJqWE9fX1JpZ0RlZGVCMWRXOExaQWhvRVZCTW1oMmNYUXlOM1ZFMVdoZTRkN2ptUGl1WlpFQzBWUzlyNXYxUDNZQlFPcjZ3Tzg?oc=5",
+      "summary": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents MarkTechPost",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -299,17 +299,17 @@
     },
     {
       "company": "Meta",
-      "title": "Threads users can now chat with Meta AI in their DMs - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1RKSnh5MU94Y1dCUFJnRV9fRlJQZDR4cmYzYVlVdmZ4MkF2NldtbW5aVGxYZnhhM2k5OThKQW4yYVhIb2xJTmNIdUVhTWM4WTdwY0E0SHlHelpKUUFJVVpwQ3ZmN0Z3U3h3cDR2ZXlwNGNkX0tWTUpzU3BmTjc4RE8zTjBRU28zU0hnMmRWOC0?oc=5",
-      "summary": "Threads users can now chat with Meta AI in their DMs TechCrunch",
+      "title": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3R6VGxCVTRzaWVHWmJDMkRvMGdfMzZsb3VaaFY1NUJxUXNMZTVOYVhjQnVTeDlWejNpSGtzTWFoaTdCV2RRLXp6WTZJYno1WlFtY0FGdjdTMEhBM0FxVzl1NV85aEc4bG1wckF1MlFmS3dLbmVSTVhmeFVzdTlDNnlxZzJ4Zw?oc=5",
+      "summary": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI Meta Store",
       "badge": "new",
       "date": "2026-07-27"
     },
     {
       "company": "Meta",
-      "title": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3R6VGxCVTRzaWVHWmJDMkRvMGdfMzZsb3VaaFY1NUJxUXNMZTVOYVhjQnVTeDlWejNpSGtzTWFoaTdCV2RRLXp6WTZJYno1WlFtY0FGdjdTMEhBM0FxVzl1NV85aEc4bG1wckF1MlFmS3dLbmVSTVhmeFVzdTlDNnlxZzJ4Zw?oc=5",
-      "summary": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI Meta Store",
+      "title": "Threads users can now chat with Meta AI in their DMs - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1RKSnh5MU94Y1dCUFJnRV9fRlJQZDR4cmYzYVlVdmZ4MkF2NldtbW5aVGxYZnhhM2k5OThKQW4yYVhIb2xJTmNIdUVhTWM4WTdwY0E0SHlHelpKUUFJVVpwQ3ZmN0Z3U3h3cDR2ZXlwNGNkX0tWTUpzU3BmTjc4RE8zTjBRU28zU0hnMmRWOC0?oc=5",
+      "summary": "Threads users can now chat with Meta AI in their DMs TechCrunch",
       "badge": "new",
       "date": "2026-07-27"
     },
