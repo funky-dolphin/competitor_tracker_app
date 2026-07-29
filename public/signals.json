@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-29T08:30:28Z",
+  "updated": "2026-07-29T13:56:44Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
       "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
+      "badge": "new",
+      "date": "2026-07-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWFZZU9TX3lLUkQ0TzVMeEtja2ZMaXBNdndaYjBXM04xMGlQVzhobzF1THhUajZkeXRjSGg5dDZKNXBwZXhHdnl0c2dJUEM2S0J5c2FmOHctQlUyU204QUhLUmtvMk1BZGM4amdiVjkwcHRfeTFVakpXOTNVVVpnaXJpVVRCRmEtU19yelFqaF9SRmxKMXpHVWF5bVJGT3NjZEFUcmxCbDVGdGs?oc=5",
+      "summary": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes Bloomberg",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -47,6 +55,14 @@
       "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
       "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
       "badge": "hot",
+      "date": "2026-07-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
+      "summary": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports Reuters",
+      "badge": "new",
       "date": "2026-07-29"
     },
     {
@@ -122,14 +138,6 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5",
-      "summary": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban Axios Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI TechCrunch Anthropic CEO: Don’t ",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
       "company": "Google",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
@@ -187,17 +195,41 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzczZTNqUk5BYWhBRWNDOWhjU1R4Zm1weG9KOWY4OXJ0WU9uQnppSUY1UkJaRk1NVm9qZ0JQM2NpRGJIY2NqbUVVZTdwRi1CNS10Mng2NFl3ZnNHamhLVmJwWU5hV0ladkJhWXJLUi1Xc0IzTGMxUjlPYkc0enlGaG9lNXBZZC1YNnNRMF93dlh4aC1UTm5Od2hGbHZrOXJGVGpfbFF0YWU?oc=5",
-      "summary": "Perplexity’s Personal Computer turns Windows PCs into AI agents The Verge",
+      "title": "Perplexity brings its Personal Computer AI agent to Windows - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOE50QVRhR1JJVHB0RUMzbEJobm1DM193Yno2ZW4zZDE5MmJOT2NpUUdXSm9MelJka3hZYlFZR2dSc25SMDFObUVXTklMSl9rYUFIQWhTXy1yYzVLUzhpam5rQTdpWmV4YUtiaWlxbDRDa2tGTG5HV3lyQnM4T3ZxQm5Eb0lTaVhkRGJjWmxmZ3QxaUE?oc=5",
+      "summary": "Perplexity brings its Personal Computer AI agent to Windows SiliconANGLE",
       "badge": "new",
       "date": "2026-07-28"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity brings its Personal Computer AI agent to Windows - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOE50QVRhR1JJVHB0RUMzbEJobm1DM193Yno2ZW4zZDE5MmJOT2NpUUdXSm9MelJka3hZYlFZR2dSc25SMDFObUVXTklMSl9rYUFIQWhTXy1yYzVLUzhpam5rQTdpWmV4YUtiaWlxbDRDa2tGTG5HV3lyQnM4T3ZxQm5Eb0lTaVhkRGJjWmxmZ3QxaUE?oc=5",
-      "summary": "Perplexity brings its Personal Computer AI agent to Windows SiliconANGLE",
+      "title": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFJOWXpLbkQybjgxQS1XczFRY0Y0TTR0eDhLenRuOFQ2ZWFISFZJcm9yOEI5aGZkRC1IZzN5SDNQT2VVUW14WjFvV3c2VG9IVG5LUXZQSVpzT29INlFIdDQ3bHFaVkJMbjJOa083a1J2MC1fOGZyLVlxY0lEZkI1S1pyLUZ3aDRIbzIxSXYyNmw5aVFzNkhYNEhCMTV1cmdaNW9MYmJZamk4RXBwVzZsVUt5YTZHaEtkNm1UanJrZjdRZTB4M2xN?oc=5",
+      "summary": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models Tech Times",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmZsUnY3TmR2dFFlZ3BGbUNSRHI3bjgyNHZrd0hGeDlpek9EQzFpVkt2QmdVbU82bmZkc1BvczduN0VsdG5jU3E4cFIzZDNJLUE3ZzBmX2t2VjJRTUVpQ2lTN0lZN1ZCS2lUSzBESUNZeldmdHA4MVZLWGVQQzNONF9NME5xZVB6Y0ZhREdUNGZzTmc5VkFiVGJOS1J2amc3T1hfdTFGZUpfUXhqb3hJaWVET0ZkMkliU0JkYzRoRUJYMndmLVlXX1Z4aw?oc=5",
+      "summary": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives The Register",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Just Dropped a Bitcoin Predicts That Has Traders Worried - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFpnUkcxREtWQklFMWY4bHFQWEJwMER2RWMzbElvWVQwZUtjdjNndU1zX1E4S3BsWjduVTVTT25yN1J3UFlram1wV21JeC11bHlkS0JTNkpXbnpsd0ZsbGVuZ0RZcHFXZGxKMzN2OFQ2WUNaTXp1UWpCLU50TGcwcWM0M05XenZPOV9VRXIyY1ZCbzI2Q2l0eWoyaFM4eUVs?oc=5",
+      "summary": "Perplexity AI Just Dropped a Bitcoin Predicts That Has Traders Worried Cryptonews",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzczZTNqUk5BYWhBRWNDOWhjU1R4Zm1weG9KOWY4OXJ0WU9uQnppSUY1UkJaRk1NVm9qZ0JQM2NpRGJIY2NqbUVVZTdwRi1CNS10Mng2NFl3ZnNHamhLVmJwWU5hV0ladkJhWXJLUi1Xc0IzTGMxUjlPYkc0enlGaG9lNXBZZC1YNnNRMF93dlh4aC1UTm5Od2hGbHZrOXJGVGpfbFF0YWU?oc=5",
+      "summary": "Perplexity’s Personal Computer turns Windows PCs into AI agents The Verge",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -246,6 +278,14 @@
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "badge": "new",
+      "date": "2026-07-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5",
+      "summary": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban Axios Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Anthropic Has Just Turned Up",
       "badge": "new",
       "date": "2026-07-27"
     },
@@ -314,10 +354,10 @@
       "date": "2026-07-27"
     },
     {
-      "company": "Perplexity",
-      "title": "Brave's $5 Search API wins AI answer test as Perplexity finishes last - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFFIT3FoeFVRbDlQRHFkc1lsazltUkJRUjFrRk96eUFBSHZYWXItcTFwU0NpbHNGcEprcXBiaGFDTGM5clUwR2J5SF9GdlU4clBpejRPeGRLeTZ5VHhWTGs3SDZId3VDYmwwNWxUUjJ1V3AxZ05naURxUGFMRV9MMXR4N0loMThuOUE0VTB3?oc=5",
-      "summary": "Brave's $5 Search API wins AI answer test as Perplexity finishes last PPC Land",
+      "company": "Meta",
+      "title": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGV2Q29BZWJqLU1EUUdxdVp0cHVPcFBOV1pVaTRkVXdtTEE2eXJ2Z2tuOWJzWjdQcHRVaFYzbkhqR0U1OEVuTHN5emZxMXQtNXBpcmtVSDl5VlRiekFHNGRrd2FRdjB0Vzk4MF9pN1FPS0hwYkFlaEYxbEpwSmlMQTlyand6dw?oc=5",
+      "summary": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" Futurism",
       "badge": "new",
       "date": "2026-07-26"
     },
@@ -331,25 +371,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGV2Q29BZWJqLU1EUUdxdVp0cHVPcFBOV1pVaTRkVXdtTEE2eXJ2Z2tuOWJzWjdQcHRVaFYzbkhqR0U1OEVuTHN5emZxMXQtNXBpcmtVSDl5VlRiekFHNGRrd2FRdjB0Vzk4MF9pN1FPS0hwYkFlaEYxbEpwSmlMQTlyand6dw?oc=5",
-      "summary": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" Futurism",
-      "badge": "new",
-      "date": "2026-07-26"
-    },
-    {
-      "company": "Meta",
       "title": "What happened when Meta used AI to ban accounts on Facebook and Instagram - The Star",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjBfQm9vNzFTQjBHR25mMkZVV1hyZUJ4ZzREOGpwU1B3azFOUWFuOWh6a0l3eTYtQUFab3RmT2w5RjdmRFU3T0tEVzk3RDI0bEhMYWN5WXNHMXh6NVFwVDZIQnJfV1BabG5fU3lhQUs4WWxvQk1kREkxcWdiNFNZRDYwdmpGV28wbTVxVXNRMkJ6V0k3OG5FRmZtQ3ZvUERwU1lEMlpOR1dGekNhWmdqajY5SUVCSk9FWGFweW81TEJmbUk0?oc=5",
       "summary": "What happened when Meta used AI to ban accounts on Facebook and Instagram The Star",
-      "badge": "new",
-      "date": "2026-07-26"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mVFJKdTZGSWhqU3hHVGl2UjZUNTVCTWxJTVFoU1RRMkNHOS1kV3NUX2xHc1FJSEIyX2JFcjN2U0NnSFo5ZlV0ZERwNVlnaFoyY19TdjEyS0hZX0loY3g4V0g0dnpaM0hhN0p0NkhhbjZGQ2EtQi1hamtrVTI?oc=5",
-      "summary": "Meta Is Letting Fake AI-Generated Doctors Sell Quack Cures on Its Platforms Futurism",
       "badge": "new",
       "date": "2026-07-26"
     },
@@ -382,30 +406,6 @@
       "title": "Shareholders Sue Microsoft Over Claims That Copilot AI is “Best in Class” - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlNDekc1bzhCdjdjQTdoQ3hMaDN1Z2doWEx1WWhpZ2JHSVRNQ2l1NElXc0xFNzVJU3NVbnJqT0ZTcU9yVW9HMXFkSDRkOFlmNElOTTNlZlVjU2xxcWp4QWpXRUMyMFlRM1VFRXNTWkZDaGVQa2FNUnZSSHZxNENtUlNGQnRJdW45Mlo0RERrT2lRY0tMcFBJVXpNNU16aHlHWHFB?oc=5",
       "summary": "Shareholders Sue Microsoft Over Claims That Copilot AI is “Best in Class” TipRanks",
-      "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Want to banish AI from everywhere in Windows 11? Well, you can't, but hey, you will be able to remap the Copilot key to do absolutely nothing - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZEROWmRONEY3YW9IS0IzTlRqczFjWVVBaUZXcFo4SW9tbzNsMDB0ZjNndTNmWVB3OHpmX1h5cDJOQ3Izckt5VTlUdjhoWUhONnhXVzRMbDZPUnNkZkl0UWZwMjhpNll5aHlwb3FLNkZHVEVpQjdFY3ltZ1czWFNuekpkTGNEQjhmX2FnN3RkYmNyRjNqSktrck5IU2lVSFB1a0E4dklUeTdLN1FlZ2oyRUVMb010MVRueTBFdy1TbjVYemRIYmpkV014cXhiNHpjSjdjZzlEWm16NHg0SzJhbmVGNnM5cFBETXFKY2Y1bXFFNWtwTFA2Z2t3T1I5dERlamY4Q0hqaDQydzhsMWYw?oc=5",
-      "summary": "Want to banish AI from everywhere in Windows 11? Well, you can't, but hey, you will be able to remap the Copilot key to do absolutely nothing TechRadar",
-      "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "What's the Latest in the Amazon vs. Perplexity AI Battle - Kavout | AI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVNnN3dXM2xhcHpEemgxR3drVWdLa1hObWIxQklpU0xYVk16VmNTdzFhRm50VlhaT0JRYkVfdGZtR1dmckg5eW9GS1MyeksyVEtORE4tOS1SR0tGbHFVckEwUjlhQWcxaHVBSm5YWjZ6dGdOS2pPWG5ERl95VXpZYzZxc0d0ZGsyZ0ZhQlNOMkdjV0ll?oc=5",
-      "summary": "What's the Latest in the Amazon vs. Perplexity AI Battle Kavout | AI",
-      "badge": "new",
-      "date": "2026-07-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity vs ChatGPT (2026): Which One Should You Use? - Memeburn",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VcW8wTGpsRGphLW5nR0YtVHpnR1VncmVEcTRmM0MwX1Y0NGtwR0xFUzZrU1lORkN5MFc2c3c2V1djMzVpVHpOMXZINlBLcmJ2Y1NZYVhB?oc=5",
-      "summary": "Perplexity vs ChatGPT (2026): Which One Should You Use? Memeburn",
       "badge": "new",
       "date": "2026-07-24"
     },
