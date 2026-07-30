@@ -1,11 +1,27 @@
 {
-  "updated": "2026-07-30T13:46:21Z",
+  "updated": "2026-07-30T19:17:27Z",
   "signals": [
     {
+      "company": "OpenAI",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
       "company": "Anthropic",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
-      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever TechCrunch",
+      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever techcrunch.com",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Judge says government's case got \"worse\" in Anthropic fight - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBia0tPUVoxbHJfaXJCNlNxUFo0enBORDFlcjVid0YwZmZNa3VpcmIxMmNsTzgzWW5vS3FfcmFqMHNiS0tFY2JjbVlVbi1UOEF3WkZma1VrU2x5UmdWS29wbWU1czF4Q3FGRGEyU25kcVFGVWF5VlVZ?oc=5",
+      "summary": "Judge says government's case got \"worse\" in Anthropic fight Axios",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -67,6 +83,30 @@
     },
     {
       "company": "Meta",
+      "title": "Analysis-Meta's AI splurge lays bare its compute conundrum - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5",
+      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum finance.yahoo.com Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes Meta’s Case for Its",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
+      "summary": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits cnbc.com",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
+      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
       "title": "Sell it or keep it? Google and Meta's AI compute quandary - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWIwMGhobGx3cXpqR2M1dDVHT3hZRmlUXy1BeURYRGlxQ1VkTDNkby0wRFVkN0xoZjBPMEJSeXJEVVpKUV9QbTZaSnVTZ2JWOUd5OGJyaGtnZVZ3UFk0ZDczMnpfVTZfM2xxWnNIRlV2ZDY2M3QyS05yY0ptYUQwdkk2dnNRV0tjMjJjNWluUFk2UExQREhZVXJGcHc?oc=5",
       "summary": "Sell it or keep it? Google and Meta's AI compute quandary Business Insider",
@@ -123,17 +163,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaS1kOV9uNmZDQmN2VzNvY0oyM2dVRFo0ek0wcDRCS3dXOHhCak41aVdKbVdLSDhaa0dkbEdvbHhCQUc1Wm1GSXN2Yml4Z1pmRkJXRmRNdkY5UVhmdlRtMDkxdktsenJ4Q2l3NVd4Z1F1eVFhOUVwOWM0TnZNeWR1WVYzVGtCMWJJaWJmaTl5YU5vc25NalBJTXNTV0JSaHY0a29mWFpUOVFIakRCNmQ3Nw?oc=5",
-      "summary": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic Bloomberg",
+      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
+      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
       "badge": "new",
       "date": "2026-07-29"
     },
     {
       "company": "Anthropic",
-      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
-      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
+      "title": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaS1kOV9uNmZDQmN2VzNvY0oyM2dVRFo0ek0wcDRCS3dXOHhCak41aVdKbVdLSDhaa0dkbEdvbHhCQUc1Wm1GSXN2Yml4Z1pmRkJXRmRNdkY5UVhmdlRtMDkxdktsenJ4Q2l3NVd4Z1F1eVFhOUVwOWM0TnZNeWR1WVYzVGtCMWJJaWJmaTl5YU5vc25NalBJTXNTV0JSaHY0a29mWFpUOVFIakRCNmQ3Nw?oc=5",
+      "summary": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic Bloomberg.com",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -211,9 +251,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - TechCrunch",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFidExRVzJrRndrYlhwOGNoRFA4Wk56MjVidG5SdERDUWxfRE01NGJlcFVQQngwdDJveTlBaXA3aTJVUEUwVEtmSGtKR0Q2aUxiOGM1eExMX1VjbWhjSUFhWFlJVWlIN0doa09MR2ZvcnZyTkRPWDQ2RVVLRUF1alVFenRnTUdENEVqWjhCMVNFT3hYdXh4WXpCb2RZY0RLWnQyMmNReWo4Tkc2QWM4M0VvTVVPcllFdmt6aklB?oc=5",
-      "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work TechCrunch",
+      "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work techcrunch.com",
       "badge": "hot",
       "date": "2026-07-29"
     },
@@ -222,6 +262,14 @@
       "title": "Perplexity vs ChatGPT vs Gemini: $295 Enterprise Gap [2026] - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tdWFqY3pRUEIzQzkycG5zN25OWjdyNDVETjhPd0tGdmdFd182WUlCRzY3UG5qcGE2U3M5N0xLRnVsRG5WMDBSN19FcmJMY1N0MURLZDE1Ukt2a2REbU5iaGU3TjlrNTRsN250MVZpVQ?oc=5",
       "summary": "Perplexity vs ChatGPT vs Gemini: $295 Enterprise Gap [2026] tech-insider.org",
+      "badge": "new",
+      "date": "2026-07-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years - techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2FlcTM4S2JHVkw0Z1F6OGtSOVBPaFF3a1dqNFFtcF9raEtsV3BqZy1SOW01b0hmRGRiVFhvaXl3a2V2OE1SVEJNZFhuU01HREk2RE80VDFGZ1RsRlVfMkJOa3JCYlBXUElCTk5ic3BoYVpkeDNNUHRRTjE3alp6WkpoTjBOLWZCWGpiV0hWeGt2bUdnOHJKd05wR1V3MGVFMUhkYUJCT2NPZE01ZTh2Q3RqX0RPbDVBb3NYSEFBNnJsYllB?oc=5",
+      "summary": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years techcrunch.com",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -242,30 +290,6 @@
       "date": "2026-07-29"
     },
     {
-      "company": "Meta",
-      "title": "Meta cash flow craters as Zuckerberg's AI spending spree accelerates - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVVsNHpKWUwyNmRVZlB2Zml0d0QtZ0U5YTdKeDlIVXNISWdsajRiUE1vQU9JaHlUeDFWRjNUTGw0Y01TTHRiTlZjRDhJUFFSWXA4aktubGNNeURsSWtVTlJMaExmVFRCTFh6U3RKdWZnQnU1dzRTbzR5dTVWNHNkMTV3V3U3a0xxQWNjTnVPMHZCOE01dmt2TWQzZTBUUQ?oc=5",
-      "summary": "Meta cash flow craters as Zuckerberg's AI spending spree accelerates reuters.com Meta shares fall as frustration grows over AI spending plans BBC Meta narrows annual capex forecast as AI buildout grow",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Senate Democrats press Meta on AI safeguards for ‘at-risk users’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDF6WXl4YnN1WnBYWi1qdjNvZ3Z3YS1Ka2t5VjZ0R1V6bUVFRnJ3Q0phelB6TmR3YWQwdldObzVBcjRDXzk5X0N4U29SRHJUcEpmSWMxRU1CNlBEbHNwcnhIMENVUmpKTzJYczNZdXBIQWl2UGJ2Mlc1clNqU2FTa3dqcGLSAYoBQVVfeXFMTjdwOHdyOFlzejItMTVIV2w5dFgwcG9XLXUycWh0VHhyNzQ0Y2hlZnU0clhkbmhYQ0RGc2doTEp0d2xuUF9Cbkx0elIzTHdiN2QwSHhFWnNGLXU0c1FIM2lqdDBOeXF5ZENTUG5fblFZa1I5SUJWU1FCUjBOd0V5cm91R0tkLVJZMXd3?oc=5",
-      "summary": "Senate Democrats press Meta on AI safeguards for ‘at-risk users’ The Hill",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
-      "summary": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports Reuters",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
       "company": "OpenAI",
       "title": "Scientific computing in the age of agentic AI",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -278,14 +302,6 @@
       "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
       "summary": "Discovering cryptographic weaknesses with Claude Anthropic",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
-      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -402,14 +418,6 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Meta",
-      "title": "This New Meta \"Advertisement\" Is Absolutely Brutal - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDBHak9fOUtQX1pJZHpzNVZLb29UX1RtWWhkVVgxT01BYXNwdTZPeV9PQ1E2Z01pWGs0UEwtUHdJdzl1QUZwcFp2MGIxS2pQUzllVGFBUWgwRDZDOVhDNHdZcnU2d0dxb1ZEc3FBMWNMQlFFaU1PeFRWaVRjYXQ2ajIzdTNJc01B?oc=5",
-      "summary": "This New Meta \"Advertisement\" Is Absolutely Brutal Futurism",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
       "company": "Amazon",
       "title": "Ring cameras may plan to track people using AI, according to leaked emails - Mashable",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xOENzYVh0TTdTNDl6TXpxd21QMXlZaDU5MDhBalNDYkY4SnJSRFBUYjdrUXN2NllpRFlCaXVLRlhCdEpBVmxRMVU0LVphbHlvakpCbWxkbG85VmlvdngxTWhFWE50aHA3dEFITEhKWm4zV2ptT05mVA?oc=5",
@@ -487,14 +495,6 @@
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "badge": "hot",
       "date": "2026-07-22"
     },
     {
