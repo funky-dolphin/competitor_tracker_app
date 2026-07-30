@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-30T01:54:55Z",
+  "updated": "2026-07-30T08:15:01Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
+      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever TechCrunch",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
     {
       "company": "Meta",
       "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
@@ -83,9 +91,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - wsj.com",
+      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
-      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley wsj.com",
+      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -99,9 +107,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta cash flow craters as Zuckerberg's AI spending spree accelerates - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVVsNHpKWUwyNmRVZlB2Zml0d0QtZ0U5YTdKeDlIVXNISWdsajRiUE1vQU9JaHlUeDFWRjNUTGw0Y01TTHRiTlZjRDhJUFFSWXA4aktubGNNeURsSWtVTlJMaExmVFRCTFh6U3RKdWZnQnU1dzRTbzR5dTVWNHNkMTV3V3U3a0xxQWNjTnVPMHZCOE01dmt2TWQzZTBUUQ?oc=5",
-      "summary": "Meta cash flow craters as Zuckerberg's AI spending spree accelerates reuters.com Meta shares fall as frustration grows over AI spending plans BBC Meta narrows annual capex forecast as AI buildout grow",
+      "title": "Meta shares fall as frustration grows over AI spending plans - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ2JRcnJSMUo2dWdmMElkbXNILWZLb052X1BING00RWdBTk0xcnZWUEthMEhrMkRQN2VrblJxZVA5dF9zVzBlcGo3bEdoenctU1RRZ1p4RFBNQQ?oc=5",
+      "summary": "Meta shares fall as frustration grows over AI spending plans bbc.com Meta cash flow craters as Zuckerberg doubles down on AI spending Reuters Meta misses earnings forecasts after Zuckerberg media push",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -110,6 +118,14 @@
       "title": "Meta and Microsoft report ballooning AI expenses: What to know - Axios",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVNzVXVFJ2bFBDbldpbTAzSEhXbkU2S0l3RFp1UXZlNXhMVW5VdU0xSktwdXQ2a0U4UGlWYkg1WlI1SkFnb0hPX1NENEgzblZPS2VpRnpOWTBjWVJoTXN5dmRUQUYwcXJmbG1rOERUSkdlbzA4Mnc?oc=5",
       "summary": "Meta and Microsoft report ballooning AI expenses: What to know Axios",
+      "badge": "new",
+      "date": "2026-07-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta cash flow craters as Zuckerberg's AI spending spree accelerates - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVVsNHpKWUwyNmRVZlB2Zml0d0QtZ0U5YTdKeDlIVXNISWdsajRiUE1vQU9JaHlUeDFWRjNUTGw0Y01TTHRiTlZjRDhJUFFSWXA4aktubGNNeURsSWtVTlJMaExmVFRCTFh6U3RKdWZnQnU1dzRTbzR5dTVWNHNkMTV3V3U3a0xxQWNjTnVPMHZCOE01dmt2TWQzZTBUUQ?oc=5",
+      "summary": "Meta cash flow craters as Zuckerberg's AI spending spree accelerates reuters.com Meta shares fall as frustration grows over AI spending plans BBC Meta narrows annual capex forecast as AI buildout grow",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -139,9 +155,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex - businessinsider.com",
+      "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
-      "summary": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex businessinsider.com",
+      "summary": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex Business Insider",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -155,17 +171,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWFZZU9TX3lLUkQ0TzVMeEtja2ZMaXBNdndaYjBXM04xMGlQVzhobzF1THhUajZkeXRjSGg5dDZKNXBwZXhHdnl0c2dJUEM2S0J5c2FmOHctQlUyU204QUhLUmtvMk1BZGM4amdiVjkwcHRfeTFVakpXOTNVVVpnaXJpVVRCRmEtU19yelFqaF9SRmxKMXpHVWF5bVJGT3NjZEFUcmxCbDVGdGs?oc=5",
-      "summary": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes Bloomberg.com",
+      "title": "Word worm crawls into Copilot, spreads chaos - The Register",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0YtajgwSVZ4U2FPMG5WcFk4bzRJVUlmUlFPMmZOMnV5QTVtdTFrR3czUUhiblBNclM1NF9PQ3FLSU84QnFGS3A0MldjVFgzb2t2NTRBVE1URXIzeHQwaUU2b0ZmdHFCY01mSFBvc1Q5OGRSRE82NElqX25fYmYtaTZnRVowbGhaVnlaM2lYdG1mRjZpUW5iN0R5LTVZUWNv?oc=5",
+      "summary": "Word worm crawls into Copilot, spreads chaos The Register",
       "badge": "new",
       "date": "2026-07-29"
     },
     {
       "company": "Microsoft",
-      "title": "Word worm crawls into Copilot, spreads chaos - The Register",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0YtajgwSVZ4U2FPMG5WcFk4bzRJVUlmUlFPMmZOMnV5QTVtdTFrR3czUUhiblBNclM1NF9PQ3FLSU84QnFGS3A0MldjVFgzb2t2NTRBVE1URXIzeHQwaUU2b0ZmdHFCY01mSFBvc1Q5OGRSRE82NElqX25fYmYtaTZnRVowbGhaVnlaM2lYdG1mRjZpUW5iN0R5LTVZUWNv?oc=5",
-      "summary": "Word worm crawls into Copilot, spreads chaos The Register",
+      "title": "Microsoft’s AI Sales Didn’t Boost Overall Growth But the Company Says It Won’t Burn Cash - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXBDSGE5ZmlsdGFzOEN1MERQcWlUQXM2NkRQSktheVA1T3RHVmprdHk3VVpSM3pEelA5b1JXaVEwYUhES1VJRkZ2VldpUFlBS08xUlBNbkRWZkZYSnkxbTlUSllZbFd6TVVyaWxGUkdKMGJCelF4cDNtX0VsWXo2YU8yVTlqMWNCTjBqdkNMeFQ1NTdzV1pNV2FTQ011NnVQbjhzeGRfcU1WUQ?oc=5",
+      "summary": "Microsoft’s AI Sales Didn’t Boost Overall Growth But the Company Says It Won’t Burn Cash The Information",
+      "badge": "new",
+      "date": "2026-07-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWFZZU9TX3lLUkQ0TzVMeEtja2ZMaXBNdndaYjBXM04xMGlQVzhobzF1THhUajZkeXRjSGg5dDZKNXBwZXhHdnl0c2dJUEM2S0J5c2FmOHctQlUyU204QUhLUmtvMk1BZGM4amdiVjkwcHRfeTFVakpXOTNVVVpnaXJpVVRCRmEtU19yelFqaF9SRmxKMXpHVWF5bVJGT3NjZEFUcmxCbDVGdGs?oc=5",
+      "summary": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes Bloomberg.com",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -250,14 +274,6 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Anthropic",
-      "title": "Some people's chats with Claude AI found to be publicly available online - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5",
-      "summary": "Some people's chats with Claude AI found to be publicly available online BBC",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
       "company": "Meta",
       "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
@@ -267,9 +283,9 @@
     },
     {
       "company": "Meta",
-      "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - wsj.com",
+      "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlY2LTE2cDVxQlUxNGdnbjlYLTJ5ajg3WHZWYnFweGpiOHBmTVhoYnBlWF9oX2FmMDRIMWhZOTZNMDlTYlp2UEdnVW54eTRvbHFCVTRDeUNmcVliZTR5dlhjMHhiY3NVWDVXZXBBU1Y0UE1jU3haZXVtTk9neFlKQWdURjJVdkVRNDJJdDVMdVRnRkNDNWROV2lldzJxWVBSMlg1V3dNc3g?oc=5",
-      "summary": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta wsj.com",
+      "summary": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta WSJ",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -286,14 +302,6 @@
       "title": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised - MyGolfSpy",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5",
       "summary": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised MyGolfSpy",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
-      "summary": "Meta, BlackRock partner on $14 billion El Paso data center venture Reuters",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -414,14 +422,6 @@
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "badge": "new",
-      "date": "2026-07-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXp2bnQydGZBcTdVTldhMnZ5VkxYbGU3NVA0cmhSTlRMVlJkcExNYVdsSXB4bTMyUk0xV2RacFphVjZmRnZJOTVFT2VZQWZDbXVqMnZOSUFSMUpDZTI3dUkxXzFBTkUxSFlDekhsZUkxNnhOUFhxNW0xaHhlbEUydkpwVGVUYVhTNlRpQUctZm13Wk1KcUE0MFdpT1hsYmhWd0lVYU00OUkwTGxVdlB4Q3RhYm9XV3ROM1hKS3VGLVRMU3NQdV9udTRURE53Mmtlam5maUdB?oc=5",
-      "summary": "Copilot and Gemini crushed Microsoft Editor in my month‑long proofreading test Windows Central",
       "badge": "new",
       "date": "2026-07-27"
     },
