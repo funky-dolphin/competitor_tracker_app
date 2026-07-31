@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-30T19:17:27Z",
+  "updated": "2026-07-31T02:13:40Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Upgrade launches in the United States",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
+      "badge": "hot",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
     {
       "company": "OpenAI",
       "title": "Advancing the price-performance frontier with GPT-5.6",
@@ -10,10 +50,18 @@
       "date": "2026-07-30"
     },
     {
+      "company": "OpenAI",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
       "company": "Anthropic",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
-      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever techcrunch.com",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic Anthropic’s AI Claude escaped testing environment and hacked organizations The Guardian Anthropic says AI models acc",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -22,6 +70,22 @@
       "title": "Judge says government's case got \"worse\" in Anthropic fight - Axios",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBia0tPUVoxbHJfaXJCNlNxUFo0enBORDFlcjVid0YwZmZNa3VpcmIxMmNsTzgzWW5vS3FfcmFqMHNiS0tFY2JjbVlVbi1UOEF3WkZma1VrU2x5UmdWS29wbWU1czF4Q3FGRGEyU25kcVFGVWF5VlVZ?oc=5",
       "summary": "Judge says government's case got \"worse\" in Anthropic fight Axios",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQal8xVXFydGExRlk0ZE9rVFJqNVhVOXYxbElNNzJ5ZU9iMk52N0hjNDAtRGRGcHgzdGhhU2xVSXh1VlhwT1ctMzZEV0o5cG9VYzZiTEpuUU5oSXpOakFDTkJIdDNIX0h2NV90ZEhnT0R6YXROMXpfcU52Snk5UHVFSEdlZG1MYW9vUDFaUWs4alo1VmNqR182TFp3U3lIX1hoYVhPYjNDNXhfN2pudjNn?oc=5",
+      "summary": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI Bloomberg.com",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
+      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever techcrunch.com",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -35,41 +99,33 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJ0RUhRWFIxTVZwOXhwUXlpSGRsck5IQi0zYlBubjF0Z2tmVHNNaUJtU05TT0Y0Y2RDb2VRRHAzWUtEaEtjZVltOFBNLURUeUViVmFUWk1HbTE3LUhpTUYtdGE5LVp0WTlkMkFxZEdnSHR1VFV5bThTSEFGd2xUM1NmMDJ3alVtUjdMSzJjYS1wbDhHZjhqdThHcW1sUQ?oc=5",
+      "summary": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools PCMag UK",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Hidden prompt turns Microsoft Copilot into an AI worm - Malwarebytes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVVQTTJ3bnBPY0xScXFpcWNtcU8ydlFlU2ZldWdpak5CNXRsTk5ieDlhMEVIdXpFSHdVVjhfY29FMmdNSHNhTFdqQ0FTVjROaXZEQk9pVk1PWkhsUEJJS0h4QmQwRms3LWtjLXEyYU5GTFlhTFMtLVROQ2hpMnVWdVBSVQ?oc=5",
+      "summary": "Hidden prompt turns Microsoft Copilot into an AI worm Malwarebytes",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUhROXNQYUtJSHFqY2R6eVhZNWhoZFpIN2xNaGdISVV3TFpGZmRYZkhzRFRoQ0dwTHFETEFyVko2bGctQ2JpZlBPS3Rja25qQTlUNVFXLU96R3dabDd6VTJQaXJJOFhIcmlNa2JwbWxoaDdpbGlzTWpXZ3lDd0pDVWh2SXZBTy1zb1hyQjV6Z0xkeWxuTWk0T2lKVTBacVEybTYxYkdRd3RrSHFhX3NiTkNhM2RaNm5RWUluZEZTaG5lQQ?oc=5",
+      "summary": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets The Information",
+      "badge": "watch",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UVlndWNmOFUyeXFBWERsa2pXbzEyYXhxSm5sLS1lVzNWSTZiTy1nNXlYNFpzZzJOM0dzMTJ0U0prUG0wM0k4ZTVoNUs4Sm1WOFJQckl3bWtfNk1tOGM4MTdyZWx6QnNRQnh1ZmpfS2VRczNscVdUVGpHLXJsSDA?oc=5",
       "summary": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents The Hacker News",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Upgrade launches in the United States",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
-      "badge": "hot",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -85,23 +141,31 @@
       "company": "Meta",
       "title": "Analysis-Meta's AI splurge lays bare its compute conundrum - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5",
-      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum finance.yahoo.com Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes Meta’s Case for Its",
+      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum finance.yahoo.com Meta cash flow craters as Zuckerberg doubles down on AI spending Reuters Meta’s Case for Its AI Spending Keeps Getting Weak",
       "badge": "new",
       "date": "2026-07-30"
     },
     {
       "company": "Meta",
-      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",
+      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
-      "summary": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits cnbc.com",
+      "summary": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits CNBC",
       "badge": "new",
       "date": "2026-07-30"
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
+      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
+      "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
-      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
+      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power nytimes.com",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -163,17 +227,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
-      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
+      "title": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaS1kOV9uNmZDQmN2VzNvY0oyM2dVRFo0ek0wcDRCS3dXOHhCak41aVdKbVdLSDhaa0dkbEdvbHhCQUc1Wm1GSXN2Yml4Z1pmRkJXRmRNdkY5UVhmdlRtMDkxdktsenJ4Q2l3NVd4Z1F1eVFhOUVwOWM0TnZNeWR1WVYzVGtCMWJJaWJmaTl5YU5vc25NalBJTXNTV0JSaHY0a29mWFpUOVFIakRCNmQ3Nw?oc=5",
+      "summary": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic Bloomberg.com",
       "badge": "new",
       "date": "2026-07-29"
     },
     {
       "company": "Anthropic",
-      "title": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaS1kOV9uNmZDQmN2VzNvY0oyM2dVRFo0ek0wcDRCS3dXOHhCak41aVdKbVdLSDhaa0dkbEdvbHhCQUc1Wm1GSXN2Yml4Z1pmRkJXRmRNdkY5UVhmdlRtMDkxdktsenJ4Q2l3NVd4Z1F1eVFhOUVwOWM0TnZNeWR1WVYzVGtCMWJJaWJmaTl5YU5vc25NalBJTXNTV0JSaHY0a29mWFpUOVFIakRCNmQ3Nw?oc=5",
-      "summary": "CoreWeave Boosts Yield on $2.6 Billion Loan Tied to Anthropic Bloomberg.com",
+      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
+      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -234,26 +298,10 @@
       "date": "2026-07-29"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWFZZU9TX3lLUkQ0TzVMeEtja2ZMaXBNdndaYjBXM04xMGlQVzhobzF1THhUajZkeXRjSGg5dDZKNXBwZXhHdnl0c2dJUEM2S0J5c2FmOHctQlUyU204QUhLUmtvMk1BZGM4amdiVjkwcHRfeTFVakpXOTNVVVpnaXJpVVRCRmEtU19yelFqaF9SRmxKMXpHVWF5bVJGT3NjZEFUcmxCbDVGdGs?oc=5",
-      "summary": "Microsoft Faces UK Probe Over Copilot-Linked Price Hikes Bloomberg.com",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button - zdnet.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DNFJqZURnblBfaGVjTzJ2VkMtVnFaWnIzQTNDQ2FoNzg2cDRxdEh2S1VPY2Zrck1WOEJSYnlWdWowSFUycWRMQjJXa3NRU0loelRSYWh2UV80UHJuREJnMzBIYUZUc2c?oc=5",
-      "summary": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button zdnet.com",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
       "company": "Perplexity",
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - techcrunch.com",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFidExRVzJrRndrYlhwOGNoRFA4Wk56MjVidG5SdERDUWxfRE01NGJlcFVQQngwdDJveTlBaXA3aTJVUEUwVEtmSGtKR0Q2aUxiOGM1eExMX1VjbWhjSUFhWFlJVWlIN0doa09MR2ZvcnZyTkRPWDQ2RVVLRUF1alVFenRnTUdENEVqWjhCMVNFT3hYdXh4WXpCb2RZY0RLWnQyMmNReWo4Tkc2QWM4M0VvTVVPcllFdmt6aklB?oc=5",
-      "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work techcrunch.com",
+      "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work TechCrunch",
       "badge": "hot",
       "date": "2026-07-29"
     },
@@ -267,9 +315,9 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years - techcrunch.com",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2FlcTM4S2JHVkw0Z1F6OGtSOVBPaFF3a1dqNFFtcF9raEtsV3BqZy1SOW01b0hmRGRiVFhvaXl3a2V2OE1SVEJNZFhuU01HREk2RE80VDFGZ1RsRlVfMkJOa3JCYlBXUElCTk5ic3BoYVpkeDNNUHRRTjE3alp6WkpoTjBOLWZCWGpiV0hWeGt2bUdnOHJKd05wR1V3MGVFMUhkYUJCT2NPZE01ZTh2Q3RqX0RPbDVBb3NYSEFBNnJsYllB?oc=5",
-      "summary": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years techcrunch.com",
+      "summary": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years TechCrunch",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -278,14 +326,6 @@
       "title": "Meta shares fall as frustration grows over AI spending plans - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ2JRcnJSMUo2dWdmMElkbXNILWZLb052X1BING00RWdBTk0xcnZWUEthMEhrMkRQN2VrblJxZVA5dF9zVzBlcGo3bEdoenctU1RRZ1p4RFBNQQ?oc=5",
       "summary": "Meta shares fall as frustration grows over AI spending plans bbc.com Meta cash flow craters as Zuckerberg doubles down on AI spending Reuters Meta misses earnings forecasts after Zuckerberg media push",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta and Microsoft report ballooning AI expenses: What to know - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVNzVXVFJ2bFBDbldpbTAzSEhXbkU2S0l3RFp1UXZlNXhMVW5VdU0xSktwdXQ2a0U4UGlWYkg1WlI1SkFnb0hPX1NENEgzblZPS2VpRnpOWTBjWVJoTXN5dmRUQUYwcXJmbG1rOERUSkdlbzA4Mnc?oc=5",
-      "summary": "Meta and Microsoft report ballooning AI expenses: What to know Axios",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -314,22 +354,6 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Anthropic",
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack - thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyT3Zmb3JleWQ2VXBpSXJVZzBKS0pYUDFBVFEwMzdLVERVYXZ6c2lBeU9VMzQ0LWNkTTJXYWxxSmc2bkRJV1M1NUVYSU5tNHNjQW1wVkVuUDI0X2dieEt3TE4yT2tpRlF1QW9LdnZVYmxEaGQ4WnFlVnVQc1I0VTA?oc=5",
-      "summary": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack thehackernews.com",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pLaFdUbUthaG14SEtQWm5tWnVxYkhKc1owTjhocXNjZ3pKYUp0MzVyLUNET2lCZUlVSm56dEZxZXViS0NkM2pQOGRLYU41ODhTaTVodkNpQXE4RV9RcE1la185d1UwWjhiRWNnVlQ1Z0FRMXdBYkdoNU5NNGdIS3RRS2VFMVpmT29MNlNaVnZxNGJLVkg1Nm1DSHpkaE9BSko2Wk53MFk?oc=5",
-      "summary": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China Politico Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC Anthropic’s Amodei defends open-weig",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
       "company": "Google",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
@@ -354,14 +378,6 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Microsoft",
-      "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation - The Official Microsoft Blog",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNGdmVzUGRIbEpfWUlqZF9Xa2VSQ1NjaF9UZFNucjBjb0RweW56eS1ZZC1GczZxU1RlOG5xMmNkd2hhR0ZvOV9oWjZ0NmRTVnQ1Ui1HWWhlbndqenJxMDZQY3pZYk9lLW91T1RIMTRyTjU5R0lKV3JTdWh3dGFYeVBqaGpZOGl5NjFmVjVyS25SR2ZQY28xYnVVVEd6RE5DTHUtVFJJRndZcWw3b1pHT3Rkak9uSlBJRjZmSWJBM1NoR1FmMEE?oc=5",
-      "summary": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation The Official Microsoft Blog",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
       "company": "Apple",
       "title": "Apple scores record 89 Emmy Award nominations",
       "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
@@ -379,14 +395,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity brings agentic platform Personal Computer to Windows - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1VzZUpjN1JTVkdLNFZ2TWV6UHlRQ2ZwNlI5cnEyNEtOMGNKLTg0X05ZX0lwN08zQzhGWFFqLW15MnBUQUUzWlJxLTJXbFdJQWZpSk1HcmJSMUd6S3kzZGZDMFRUUGgtYzg0aHhtM3pURVE5RDc3MHRFNXkwNHp5bThRcXJXRHNkenZFbVhSV2ZEODJZLXRScVB6STZmZ3FGNERJ?oc=5",
-      "summary": "Perplexity brings agentic platform Personal Computer to Windows Seeking Alpha",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity brings its Personal Computer AI agent to Windows - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOE50QVRhR1JJVHB0RUMzbEJobm1DM193Yno2ZW4zZDE5MmJOT2NpUUdXSm9MelJka3hZYlFZR2dSc25SMDFObUVXTklMSl9rYUFIQWhTXy1yYzVLUzhpam5rQTdpWmV4YUtiaWlxbDRDa2tGTG5HV3lyQnM4T3ZxQm5Eb0lTaVhkRGJjWmxmZ3QxaUE?oc=5",
       "summary": "Perplexity brings its Personal Computer AI agent to Windows SiliconANGLE",
@@ -395,9 +403,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models - techtimes.com",
+      "title": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFJOWXpLbkQybjgxQS1XczFRY0Y0TTR0eDhLenRuOFQ2ZWFISFZJcm9yOEI5aGZkRC1IZzN5SDNQT2VVUW14WjFvV3c2VG9IVG5LUXZQSVpzT29INlFIdDQ3bHFaVkJMbjJOa083a1J2MC1fOGZyLVlxY0lEZkI1S1pyLUZ3aDRIbzIxSXYyNmw5aVFzNkhYNEhCMTV1cmdaNW9MYmJZamk4RXBwVzZsVUt5YTZHaEtkNm1UanJrZjdRZTB4M2xN?oc=5",
-      "summary": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models techtimes.com",
+      "summary": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models Tech Times",
+      "badge": "new",
+      "date": "2026-07-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity brings agentic platform Personal Computer to Windows - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1VzZUpjN1JTVkdLNFZ2TWV6UHlRQ2ZwNlI5cnEyNEtOMGNKLTg0X05ZX0lwN08zQzhGWFFqLW15MnBUQUUzWlJxLTJXbFdJQWZpSk1HcmJSMUd6S3kzZGZDMFRUUGgtYzg0aHhtM3pURVE5RDc3MHRFNXkwNHp5bThRcXJXRHNkenZFbVhSV2ZEODJZLXRScVB6STZmZ3FGNERJ?oc=5",
+      "summary": "Perplexity brings agentic platform Personal Computer to Windows Seeking Alpha",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -490,14 +506,6 @@
       "date": "2026-07-22"
     },
     {
-      "company": "OpenAI",
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "badge": "new",
-      "date": "2026-07-22"
-    },
-    {
       "company": "Google",
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -560,14 +568,6 @@
       "summary": "Lawsuits Target AI Facial Recognition in Doorbell Cams The Legal Examiner",
       "badge": "new",
       "date": "2026-07-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
-      "badge": "hot",
-      "date": "2026-07-09"
     },
     {
       "company": "Google",
