@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-31T08:41:19Z",
+  "updated": "2026-07-31T13:51:16Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Morgan Stanley leading $15B loan for Anthropic Texas data center - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3Zpa1dCNHowNWJoRERqV1ZKM0tqVDVWYURkOXFjNmtWYWhPWXZ5d3VldGFxaC1CWWk1ckF5TXhBdEl1dkd6d05yUXJqbFV5cWRzQ3BTUnFpMGx0b2ROTzhLVjU5UG1HODBtcDIyMzQ3N0xHaElnZVpqTF9BUU9QTDhn?oc=5",
+      "summary": "Morgan Stanley leading $15B loan for Anthropic Texas data center qz.com",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5",
+      "summary": "Anthropic's AI models hacked 3 organizations during testing Politico",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -19,9 +43,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - Al Jazeera",
+      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - aljazeera.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDhubWRSWHEwWS11eDdqbkJUQzJsbEdDNndpMzNVYXdteGl6Z20tUTdFTW1YV1RuRk0xMUFpdWcycmtVeXBGRDNPNnVGRzNtX1U3UlVoc1BqV3FxYXhNdUdYUUNGLXA5WGZ0UzVUMkY5U1BsS1M0a3FBdjZOaGFzR0FEd1dhMTlFWlhVeGktbGpCWU9pYVF4RmhxRHdIdkRIMmVQazZPb9IBrAFBVV95cUxPSUlKcDVSWEMyWmIwU010XzBsQVJxX2lhZkFrRC1TRjdlQUhQT1JkSFVKZ3pwNTdOZHZ4NlRkTnpRMThTTHc5cGRXWV9Ua19xV2ZyYWt6U1lUV3E1NVo3V0tvNHZvallqZzN1ZHpjWGZWV1psOFlsSUNzRVBfZURSMklxLUFoeUFrWHdCeHJZQlBzdXFBNzBfSlYwVjZKMlFTRWljWHU1NkVFOXBT?oc=5",
-      "summary": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems Al Jazeera",
+      "summary": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems aljazeera.com",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -83,9 +107,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - forbes.com",
+      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
-      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents forbes.com",
+      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents Forbes",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -109,7 +133,7 @@
       "company": "Anthropic",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic Anthropic AI Models Hacked Three Organizations During Tests Bloomberg.com Anthropic Says Its AI Models Hacked Into T",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic Anthropic says its AI models hacked 3 organizations during testing apnews.com Anthropic says Claude accidentally hac",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -155,17 +179,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Will Soon Release an AI Super App - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WjZBUk9nZUVlZ0M3aU90MXBwMWx2MUM3M1pFMjhLRkhaRkRUWmJnZmRiLVhKN2JoS2FaTU43QS1Fc0xMX3YwUlhSTHRYTGFWVFpIQktBSWg0VnJraDdOTjhfTHlDRDRuQ2FtakNsZXZJczBlUUZDbkxjYXhTNUk?oc=5",
-      "summary": "Microsoft Will Soon Release an AI Super App Gizmodo",
+      "title": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJ0RUhRWFIxTVZwOXhwUXlpSGRsck5IQi0zYlBubjF0Z2tmVHNNaUJtU05TT0Y0Y2RDb2VRRHAzWUtEaEtjZVltOFBNLURUeUViVmFUWk1HbTE3LUhpTUYtdGE5LVp0WTlkMkFxZEdnSHR1VFV5bThTSEFGd2xUM1NmMDJ3alVtUjdMSzJjYS1wbDhHZjhqdThHcW1sUQ?oc=5",
+      "summary": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools PCMag UK",
       "badge": "new",
       "date": "2026-07-30"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJ0RUhRWFIxTVZwOXhwUXlpSGRsck5IQi0zYlBubjF0Z2tmVHNNaUJtU05TT0Y0Y2RDb2VRRHAzWUtEaEtjZVltOFBNLURUeUViVmFUWk1HbTE3LUhpTUYtdGE5LVp0WTlkMkFxZEdnSHR1VFV5bThTSEFGd2xUM1NmMDJ3alVtUjdMSzJjYS1wbDhHZjhqdThHcW1sUQ?oc=5",
-      "summary": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools PCMag UK",
+      "title": "Microsoft Will Soon Release an AI Super App - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WjZBUk9nZUVlZ0M3aU90MXBwMWx2MUM3M1pFMjhLRkhaRkRUWmJnZmRiLVhKN2JoS2FaTU43QS1Fc0xMX3YwUlhSTHRYTGFWVFpIQktBSWg0VnJraDdOTjhfTHlDRDRuQ2FtakNsZXZJczBlUUZDbkxjYXhTNUk?oc=5",
+      "summary": "Microsoft Will Soon Release an AI Super App Gizmodo",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -187,9 +211,9 @@
     },
     {
       "company": "Meta",
-      "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5",
-      "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep CNBC",
+      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
+      "summary": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits CNBC",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -211,17 +235,17 @@
     },
     {
       "company": "Meta",
-      "title": "Analysis-Meta's AI splurge lays bare its compute conundrum - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5",
-      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum finance.yahoo.com Meta cash flow craters as Zuckerberg doubles down on AI spending Reuters Meta’s Case for Its AI Spending Keeps Getting Weak",
+      "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5",
+      "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep CNBC",
       "badge": "new",
       "date": "2026-07-30"
     },
     {
       "company": "Meta",
-      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
-      "summary": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits CNBC",
+      "title": "Analysis-Meta's AI splurge lays bare its compute conundrum - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5",
+      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum finance.yahoo.com Meta cash flow craters as Zuckerberg doubles down on AI spending Reuters Meta’s Case for Its AI Spending Keeps Getting Weak",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -282,22 +306,6 @@
       "date": "2026-07-29"
     },
     {
-      "company": "Anthropic",
-      "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
-      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley WSJ",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. - ProPublica",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamFsZVFiVFFUN1NZdU1YZm5KaHFwajh5RVhSM3VqeURwLXlSWXpzZkJKYThRSTBaRGI4VjhWRnRPX3dhNlBXejhyY2hobXZoN0NtLU4zN3YzS21PY1h2alJxNkVVeXBKdnVtVVZtbURUSDdOSUhobGRzTlBQWmg4Qno0c3ZHTWgyZi1peFBKZw?oc=5",
-      "summary": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. ProPublica",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft confirms Copilot ‘super app’ coming this year - The Verge",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
@@ -347,9 +355,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta cash flow craters as Zuckerberg doubles down on AI spending - Reuters",
+      "title": "Meta cash flow craters as Zuckerberg doubles down on AI spending - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVVsNHpKWUwyNmRVZlB2Zml0d0QtZ0U5YTdKeDlIVXNISWdsajRiUE1vQU9JaHlUeDFWRjNUTGw0Y01TTHRiTlZjRDhJUFFSWXA4aktubGNNeURsSWtVTlJMaExmVFRCTFh6U3RKdWZnQnU1dzRTbzR5dTVWNHNkMTV3V3U3a0xxQWNjTnVPMHZCOE01dmt2TWQzZTBUUQ?oc=5",
-      "summary": "Meta cash flow craters as Zuckerberg doubles down on AI spending Reuters Meta shares fall as frustration grows over AI spending plans BBC Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
+      "summary": "Meta cash flow craters as Zuckerberg doubles down on AI spending reuters.com Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes Forbes Daily: Wall ",
       "badge": "new",
       "date": "2026-07-29"
     },
@@ -496,14 +504,6 @@
       "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
       "badge": "new",
       "date": "2026-07-23"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "badge": "new",
-      "date": "2026-07-22"
     },
     {
       "company": "Google",
