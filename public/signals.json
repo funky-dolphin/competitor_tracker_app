@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T13:06:39Z",
+  "updated": "2026-08-01T19:00:41Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -11,9 +11,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal - WIRED",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3d6WXdRRmpOT1ZxWnhNTWljeUx4X19meWpCczFiSzdyUlNjVi1Ncm92cTdMc3BhNTB4c3dJZnNsSTlNRFo2R2FhbmMtZVI4RkVWZHRFZFpQeDJKLVZVcy1fU0Y5UnlYWl9kM2ZzeVFTYWpTU1o1VDJfcVFxdkRFR254LXNfQnQzVVRUR2pqZlFMSHNabXQtOVVTd3Y?oc=5",
+      "summary": "Sam Altman is still making the case for parenting via ChatGPT TechCrunch",
+      "badge": "new",
+      "date": "2026-08-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier - WIRED",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
-      "summary": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal WIRED",
+      "summary": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier WIRED",
       "badge": "new",
       "date": "2026-08-01"
     },
@@ -107,17 +115,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-      "summary": "Anthropic says its AI models hacked 3 organizations on their own during tests ABC News - Breaking News, Latest News and Videos",
+      "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5",
+      "summary": "Anthropic's AI models hacked 3 organizations during testing Politico",
       "badge": "new",
       "date": "2026-07-31"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5",
-      "summary": "Anthropic's AI models hacked 3 organizations during testing Politico",
+      "title": "Anthropic says Claude AI hacked three companies during cyber tests - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjhVSFZGNzljcllhQktZNEgtazVYSm92SE93VDFSeFU1OWFUZnlyTVNSVERQYzlhUTVkY3dVSERiMEpfalN2OFN2VWZ5OHJuOUx2VXhfVTYxZ19QWWcwWTVyRGd4eFBwb2ZEcERmSWlYMXh1aDg4Y2ZrbVYzdUFMMUc0NGgtN0R4ZWhwUkNpVWtrV0VyQlNFY085ZnJfUFp3SmZlYkNQZGlsaEM2dGc?oc=5",
+      "summary": "Anthropic says Claude AI hacked three companies during cyber tests NBC News",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+      "summary": "Anthropic says its AI models hacked 3 organizations on their own during tests ABC News - Breaking News, Latest News and Videos",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -142,22 +158,6 @@
       "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzh0X3ZKZHpTT1p2RjFYSGxCVkx1SVhNUWljWkR1QVRIcEcybVFFa3dKLXZiRkxLdWduOC14b1BSdGdGWVhfNk1BQWlkT3U2U3JZeDRBeGVGUHdqNC1wcGFKcE1KcWFoc09RN2FVNEdFMFkzdHN1NHR2cDJkTENLRm9uMkR5cVNFaURyWWFJTlliVVVLcjBxWVI4NGl6ak0?oc=5",
       "summary": "Anthropic says its AI models hacked 3 organizations during testing AP News",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI & Tech Brief: Anthropic’s rogue agents - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOam9qRkxNMGFrS3liX1FLSGtOV1ZTZ2oxT3d4YnA4Qzh0LVNaX2RpZ3dvM1RYNkhDTUNweU1OYmpvbXhnSDJvV3JJV2lQd2hSNHJEOHhFVEdxNjhkZm42RmotU3B0aXhzdHo2R1Juc01CUnh3OWc0ZXdxNTByU3dkSWVoMzVhRHJkdzlLNXhsNFh5QldlX0N2RlZubThqdkpQd3ljRS1xLWQxUXVLNXpz?oc=5",
-      "summary": "AI & Tech Brief: Anthropic’s rogue agents The Washington Post",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic says it found 3 cases where AI programs hacked into real companies - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tV1ptYUZZeHV4V0x4aVU4RDR1YjVXa0ZMVEl1UGNMd3g0X0FtZ09fU3IxcmNHTFFiVmZLVWFSZ2l6c2hqQVlELWdNdUphaU9FLUsxUVpWVmlVTzNrWTlYN1pUZ19PRUstUWdLRDJyc3JPSE9BaXVoYmVR?oc=5",
-      "summary": "Anthropic says it found 3 cases where AI programs hacked into real companies NPR",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -195,17 +195,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
-      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents Forbes",
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObW1jTmxFNDlRQ2x2b2w2c1plWkw1TVZOZ3doX3pBcWlUQkstWnpleUJDd0NZZzczM1JZY2JPUnB2ZFVseG55N2cyVVM1cWx1b2owd1RVNEk5UkxvamlLWE1aT3NwOUs2Tmc4QkJNV0J6NDU5RTlLNXA5WjhINEJvbVVCekE4RUVHaFhnNG9WOXlfbU9sdHRNUENvZlhVT3FWMHEtRmV1N1JDdFE4b2VpTV95bWMydlNKSmRWTXVwZDM?oc=5",
+      "summary": "Reddit keeps its strange DMCA fight over Google search results alive Ars Technica",
       "badge": "new",
       "date": "2026-07-31"
     },
     {
       "company": "Perplexity",
-      "title": "Reddit keeps its strange DMCA fight over Google search results alive - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObW1jTmxFNDlRQ2x2b2w2c1plWkw1TVZOZ3doX3pBcWlUQkstWnpleUJDd0NZZzczM1JZY2JPUnB2ZFVseG55N2cyVVM1cWx1b2owd1RVNEk5UkxvamlLWE1aT3NwOUs2Tmc4QkJNV0J6NDU5RTlLNXA5WjhINEJvbVVCekE4RUVHaFhnNG9WOXlfbU9sdHRNUENvZlhVT3FWMHEtRmV1N1JDdFE4b2VpTV95bWMydlNKSmRWTXVwZDM?oc=5",
-      "summary": "Reddit keeps its strange DMCA fight over Google search results alive Ars Technica",
+      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
+      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents forbes.com",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -259,9 +259,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - The Information",
+      "title": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUhROXNQYUtJSHFqY2R6eVhZNWhoZFpIN2xNaGdISVV3TFpGZmRYZkhzRFRoQ0dwTHFETEFyVko2bGctQ2JpZlBPS3Rja25qQTlUNVFXLU96R3dabDd6VTJQaXJJOFhIcmlNa2JwbWxoaDdpbGlzTWpXZ3lDd0pDVWh2SXZBTy1zb1hyQjV6Z0xkeWxuTWk0T2lKVTBacVEybTYxYkdRd3RrSHFhX3NiTkNhM2RaNm5RWUluZEZTaG5lQQ?oc=5",
-      "summary": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets The Information",
+      "summary": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets theinformation.com",
       "badge": "watch",
       "date": "2026-07-30"
     },
@@ -299,14 +299,6 @@
     },
     {
       "company": "Meta",
-      "title": "Sell it or keep it? Google and Meta's AI compute quandary - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWIwMGhobGx3cXpqR2M1dDVHT3hZRmlUXy1BeURYRGlxQ1VkTDNkby0wRFVkN0xoZjBPMEJSeXJEVVpKUV9QbTZaSnVTZ2JWOUd5OGJyaGtnZVZ3UFk0ZDczMnpfVTZfM2xxWnNIRlV2ZDY2M3QyS05yY0ptYUQwdkk2dnNRV0tjMjJjNWluUFk2UExQREhZVXJGcHc?oc=5",
-      "summary": "Sell it or keep it? Google and Meta's AI compute quandary Business Insider Meta shares fall as frustration grows over AI spending plans BBC Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
       "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
       "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
@@ -323,6 +315,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE8zRGg1cHZHUE9HRndtaDRHUi15N29DYkx5VlRzdW05THBnbmktSi1QVXRnMXd4Qk5LZVVTQkFzYjJ1RkFubGJiRkNUQ1VJTkctQkhwQjNYcEh5SFJSQ3RBUkdSWENoeWxjSXJNUGtaS3JNYmcxZEdYeHBiazZyX1ZMajA5Mzc3TjVPMTVoeGItdw?oc=5",
+      "summary": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing Futurism",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Sell it or keep it? Google and Meta's AI compute quandary - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWIwMGhobGx3cXpqR2M1dDVHT3hZRmlUXy1BeURYRGlxQ1VkTDNkby0wRFVkN0xoZjBPMEJSeXJEVVpKUV9QbTZaSnVTZ2JWOUd5OGJyaGtnZVZ3UFk0ZDczMnpfVTZfM2xxWnNIRlV2ZDY2M3QyS05yY0ptYUQwdkk2dnNRV0tjMjJjNWluUFk2UExQREhZVXJGcHc?oc=5",
+      "summary": "Sell it or keep it? Google and Meta's AI compute quandary Business Insider Meta shares fall as frustration grows over AI spending plans BBC Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
       "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
       "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
@@ -334,14 +342,6 @@
       "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5",
       "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep CNBC Meta shares fall as frustration grows over AI spending plans BBC Meta’s Case for Its AI Spending Keeps Getting Weaker",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE8zRGg1cHZHUE9HRndtaDRHUi15N29DYkx5VlRzdW05THBnbmktSi1QVXRnMXd4Qk5LZVVTQkFzYjJ1RkFubGJiRkNUQ1VJTkctQkhwQjNYcEh5SFJSQ3RBUkdSWENoeWxjSXJNUGtaS3JNYmcxZEdYeHBiazZyX1ZMajA5Mzc3TjVPMTVoeGItdw?oc=5",
-      "summary": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing Futurism",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -499,9 +499,9 @@
     },
     {
       "company": "Amazon",
-      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - CNET",
+      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0E1WVd3dERWNnBmYjd3TXNOZjliNzBneEZKcERTZWdxVlVCRHNwV2RXckRzVW53YlFOZjRZNVNmbm8xZUEzZ2Jqazl6RmczMEdZYS1kTEtZSXVOdFZtT3dEQjVDaWRIOFZoU1BOZ1VJSkhkV1Izekxuc0F5RWlfQWcyQ0pYbTA1djRmQWNvNkMtWnFhNU0tU2NaNXpxbHctT2VYaS1n?oc=5",
-      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
+      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy cnet.com",
       "badge": "new",
       "date": "2026-07-23"
     },
