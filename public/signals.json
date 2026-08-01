@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-01T08:11:23Z",
+  "updated": "2026-08-01T13:06:39Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "badge": "new",
+      "date": "2026-08-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
+      "summary": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal WIRED",
       "badge": "new",
       "date": "2026-08-01"
     },
@@ -107,6 +115,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5",
+      "summary": "Anthropic's AI models hacked 3 organizations during testing Politico",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic says human error let Claude AI models escape test environment and hack third parties - Cybersecurity Dive",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5",
       "summary": "Anthropic says human error let Claude AI models escape test environment and hack third parties Cybersecurity Dive",
@@ -146,22 +162,6 @@
       "date": "2026-07-31"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic says three Claude models reached real-world systems during cyber tests - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SRkdEYU9lcWFmZTJ3aWVzNWYtVkxLQXVBSTEwRWp0UnNCOVJBSHpRZ3FlR3ktOEozZkVVVEtnc2Nhb0I3Vnp2MUtNT2lTSEpWam1RMWw3V1M3MjBQVUxNdFZCXzh0ODhEOW96QW9UbzB4bzNr?oc=5",
-      "summary": "Anthropic says three Claude models reached real-world systems during cyber tests Axios",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Morgan Stanley leading $15B loan for Anthropic Texas data center - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3Zpa1dCNHowNWJoRERqV1ZKM0tqVDVWYURkOXFjNmtWYWhPWXZ5d3VldGFxaC1CWWk1ckF5TXhBdEl1dkd6d05yUXJqbFV5cWRzQ3BTUnFpMGx0b2ROTzhLVjU5UG1HODBtcDIyMzQ3N0xHaElnZVpqTF9BUU9QTDhn?oc=5",
-      "summary": "Morgan Stanley leading $15B loan for Anthropic Texas data center qz.com",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
       "company": "Microsoft",
       "title": "Copilot worm can spread through Microsoft Word docs - csoonline.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFFlZThaUEJWbnhXQ2lZY0dQZFQzdkhuQ3ZBdnRERG1VNmQyYmN5N3BQVWo0d3ktMGNuSGM5MGM4VTNEbHBaLUw4T3VWc3ZrQkRTY2ZRdFk2LVpkNzRRcFN6cXZmUXR4bVhfNXdXUFRfMV8yY0RLX2p3TzJUZ3gyb2p3bDhYempQbEtQbDJDaTlFLTc2UzFqVnVqN25aZ00?oc=5",
@@ -195,9 +195,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - forbes.com",
+      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
-      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents forbes.com",
+      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents Forbes",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -211,6 +211,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Reddit's DMCA Claims Against Perplexity, SerpApi Survive AI Scraping Challenge - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUdNZklPWHNNVXdRZFFvdDJmeDM2ZGRjSDF2RW5MOUJKMVBhemhIc3pMOUpYSndSNlBUbTVFV21vUUdpQ2hESWhzUWk4Wm8tT2xGN2tURDNHei1uUHhyNjRLTTFCUkphMUxERGdxbEhlMDhuc0dYT0pUU1lOdzdjX2ZNQXhkNG9XOE9qZ0RDZTNsN2pSNDIzX1BJN0c0Z0w4SVBfWEltUDh4bFQyd2E3WHp0RFBtMW9EQTMycnVhT09XMFVl?oc=5",
+      "summary": "Reddit's DMCA Claims Against Perplexity, SerpApi Survive AI Scraping Challenge Law.com",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Perplexity",
       "title": "RDDT Stock Set For Worst Day On Record — Reddit Advances Copyright Suit Against Perplexity In Crusade Against AI Data Scraping - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUZCOWpvMlM2MV9HWUlqYVRqTUhQNzVQektIY3ZKeVZQWDJ4ckZLR2lnUzhpeGEyNFRZVEhmOG40ODFUb1EtNEtGVHdVZUZjLTQ4aktRTEhjOHZoNVNKMHFwNHNBMnZkdy1IS3plckRfNmNsT0lUeFFULUgxOGRISEpKTUp2b2prLUJkUjVvTEFUd0k?oc=5",
       "summary": "RDDT Stock Set For Worst Day On Record — Reddit Advances Copyright Suit Against Perplexity In Crusade Against AI Data Scraping finance.yahoo.com",
@@ -219,9 +227,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Forges AI Content Deal With Newsmax 07/30/2026 - MediaPost",
+      "title": "Meta Forges AI Content Deal With Newsmax 07/30/2026 - mediapost.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWhramlSSWo3RHVfUURHVWpTc2Rmamh3NHVaNGtEOXQ4TGc3Ny1QdU1fb1hRNjhndTNCc0RiYy1yekUyVHhXZjNERVNiTXpyWXctLWVCOFdYTTBMZkN4X05zTm9wU2d0UF9naTc4Y2ZFdmtqcHBWak16VjFLNEVNYVRtOWg0Z1B2Nmt3UVpiejg0dkd0STZJcm4xOVFlaFQ0?oc=5",
-      "summary": "Meta Forges AI Content Deal With Newsmax 07/30/2026 MediaPost",
+      "summary": "Meta Forges AI Content Deal With Newsmax 07/30/2026 mediapost.com",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -291,9 +299,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
-      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
+      "title": "Sell it or keep it? Google and Meta's AI compute quandary - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWIwMGhobGx3cXpqR2M1dDVHT3hZRmlUXy1BeURYRGlxQ1VkTDNkby0wRFVkN0xoZjBPMEJSeXJEVVpKUV9QbTZaSnVTZ2JWOUd5OGJyaGtnZVZ3UFk0ZDczMnpfVTZfM2xxWnNIRlV2ZDY2M3QyS05yY0ptYUQwdkk2dnNRV0tjMjJjNWluUFk2UExQREhZVXJGcHc?oc=5",
+      "summary": "Sell it or keep it? Google and Meta's AI compute quandary Business Insider Meta shares fall as frustration grows over AI spending plans BBC Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
+      "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -307,9 +323,9 @@
     },
     {
       "company": "Meta",
-      "title": "Sell it or keep it? Google and Meta's AI compute quandary - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWIwMGhobGx3cXpqR2M1dDVHT3hZRmlUXy1BeURYRGlxQ1VkTDNkby0wRFVkN0xoZjBPMEJSeXJEVVpKUV9QbTZaSnVTZ2JWOUd5OGJyaGtnZVZ3UFk0ZDczMnpfVTZfM2xxWnNIRlV2ZDY2M3QyS05yY0ptYUQwdkk2dnNRV0tjMjJjNWluUFk2UExQREhZVXJGcHc?oc=5",
-      "summary": "Sell it or keep it? Google and Meta's AI compute quandary Business Insider Meta shares fall as frustration grows over AI spending plans BBC Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
+      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power The New York Times",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -326,14 +342,6 @@
       "title": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing - Futurism",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE8zRGg1cHZHUE9HRndtaDRHUi15N29DYkx5VlRzdW05THBnbmktSi1QVXRnMXd4Qk5LZVVTQkFzYjJ1RkFubGJiRkNUQ1VJTkctQkhwQjNYcEh5SFJSQ3RBUkdSWENoeWxjSXJNUGtaS3JNYmcxZEdYeHBiazZyX1ZMajA5Mzc3TjVPMTVoeGItdw?oc=5",
       "summary": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing Futurism",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
-      "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -470,14 +478,6 @@
       "title": "Perplexity brings its Personal Computer AI agent to Windows - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOE50QVRhR1JJVHB0RUMzbEJobm1DM193Yno2ZW4zZDE5MmJOT2NpUUdXSm9MelJka3hZYlFZR2dSc25SMDFObUVXTklMSl9rYUFIQWhTXy1yYzVLUzhpam5rQTdpWmV4YUtiaWlxbDRDa2tGTG5HV3lyQnM4T3ZxQm5Eb0lTaVhkRGJjWmxmZ3QxaUE?oc=5",
       "summary": "Perplexity brings its Personal Computer AI agent to Windows SiliconANGLE",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFJOWXpLbkQybjgxQS1XczFRY0Y0TTR0eDhLenRuOFQ2ZWFISFZJcm9yOEI5aGZkRC1IZzN5SDNQT2VVUW14WjFvV3c2VG9IVG5LUXZQSVpzT29INlFIdDQ3bHFaVkJMbjJOa083a1J2MC1fOGZyLVlxY0lEZkI1S1pyLUZ3aDRIbzIxSXYyNmw5aVFzNkhYNEhCMTV1cmdaNW9MYmJZamk4RXBwVzZsVUt5YTZHaEtkNm1UanJrZjdRZTB4M2xN?oc=5",
-      "summary": "Perplexity Brings AI Desktop Agent to Windows, Routing Tasks Across 20 Models Tech Times",
       "badge": "new",
       "date": "2026-07-28"
     },
