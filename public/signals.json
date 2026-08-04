@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-04T02:00:43Z",
+  "updated": "2026-08-04T08:28:23Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlV0a0ZQV0NYRkVGM0Z4QndJSmV0U1ctNjlKT1d2dHZEcDRuVHRXZDJwRm94MXM4TUE0akFsOE9IU1ZQcU9WblJVVzMxY1pyUnNZVHRIb2l2MkhsaXhQRDVBLV96RVhIRmgxQ3ZxUU9RRkxpYjF4bC0wREZLanR6MHB2U3c?oc=5",
+      "summary": "Inside Google’s $200bn Wall Street finance machine for Anthropic Financial Times",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Meta",
+      "title": "ChatGPT and Gemini built fake news graphics, only Meta AI refused - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzdoR3pDZkt6OUdSdVFPN0VCdlpJWWpaV2wyckRfckFaUm01Mk9yRWNfOWlfMF9yNDVIVlI5V3ZPZTlpYnFYT0JUcVNHVXZXRVJBQlRtbXJrM3FnVkh5RTFhVXh2RDlhcGh0YndFUm02RllUWHl5TXZJOThVUDFjanZkRnZFMHI4SUhVMW9CRG1TNFFmeGNQWlNDTHplQU9Fai01R1ZiX3lUdVJBWlE?oc=5",
+      "summary": "ChatGPT and Gemini built fake news graphics, only Meta AI refused Notebookcheck",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
     {
       "company": "Apple",
       "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
@@ -43,6 +59,14 @@
     },
     {
       "company": "OpenAI",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "OpenAI",
       "title": "How we built a realtime system for responsive voice AI in six months",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
@@ -58,10 +82,34 @@
       "date": "2026-08-03"
     },
     {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "company": "Anthropic",
+      "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVZ0SlZoODJGekFDdGRyVkJwNll5b09xSGtra3lBRHJuQWtoc0hOZlJxdjk2YUZUZDJXZFJSdFJTcVNfQnhHUFZBMUg0ZTVmTU5qMk1TMkw0am92T2FjZlotdnd2X3RReUNWcHJyRDJxRDZ2MjczUWZ3c0pQeWYxN1d3MUV5LVA4SE5UUXlqRjR3QTM1c3NVOTNpUlh6YTllOE9j0gGoAUFVX3lxTE9jQlpJY3Q1UDdiSHVzWEJhcFdnSHdNbFNyeDQ2cUsxLUhwQ2Vnd0pnTnM4YUlnUkptOFVhUUZpaUw4anZ3R2huVkoxWmt0WkRlQUhNamF2ZE1BZHdlV2ZwMXd0YktDT1VZTmZqVXBfZmVwdVhoaGxkRWc0U2hMOWpmcWtTMlVjdzR5R2dkMFgzYVl6b1V0ZnpnejNEa21NaXctd3lsdThqQw?oc=5",
+      "summary": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture CNBC",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing Reuters",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hBOWtTak5hM3JQdjc2Z1E1anpYS0RtQW5Razg4UXdNdmNpeGN1UnVjMzRJY19IdGY3VkVOUC1JSWsxYno3ZlRXOEtDYm5wNmU4c0ZyT0dwUG1yYS1YejZqZ2hYbENNc041REV2VldRc1p2V1c1TXdvOURmOUZQaDFJY3luQTRGNEt3eFR1cTdHdzk4aVhvR2R3WW5CRkwtbDVNR0llRS1sRHFEd2hGNE5n?oc=5",
+      "summary": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "White House to meet with top AI companies ahead of first big regulation push - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjdTVHYyRWp6bnY0MFdwelV6NXJtY3Y4MmpmQmZaYV91M19aY3RwTFhCeTZEUURac3hsdWRPNDVsTDVLdV83MERQajBIanFBTDZ5VzZtUHFrTG9Tc2YtQWVCcXBtb0NOSmdJWFlmd1JuZU8xUDhFY2N5UmN2c3I0dXJYYk91Szk0X0RwREtDRWE3R0J3Z1BSWDNn?oc=5",
+      "summary": "White House to meet with top AI companies ahead of first big regulation push CNN",
       "badge": "new",
       "date": "2026-08-03"
     },
@@ -91,14 +139,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "summary": "Meta, Anthropic invited to meet with Trump officials about AI safety testing Reuters",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Anthropic",
       "title": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEt4eWd5SmIzSnZKSElsd0JCZ1hzQk4xUEFNVXFqLUNMWTVNcTc5Q19sYm1uak1zTVF5UzFudEM3cGUxaUxtQUhxaHFrRFhSNTFmNl85NjFobVZIMkJKMDcwMEtBNDFuRjJtT2l6NHM5YVhBSFZxTWR6bmpzemp2NW5FMkRhbVRLMV94clA5X1prVGtKeHBURkd2MFJ0R3ByV05XMkpzM3o2Rkp4eU5tZG03ancxYi1XdVRLcTJzeVltWjIxdTJmd2tqaTdEcUlnSVE?oc=5",
       "summary": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable Forbes",
@@ -114,42 +154,42 @@
       "date": "2026-08-03"
     },
     {
-      "company": "Anthropic",
-      "title": "AI labs can't keep their stars - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzJzNDdaQkw0bk9zWWZJQkZCVFZ4S19rS1pQamRnVVI4a3RXV1hPVTFiUmJhTFF4aVQzbklheFFQMmRuTFlrT3lXZmc3WUhoaUZxZE5WdWljUEEzdzV2b0plY0hVMmp5STFDVkdmT1MyMkVtYWRsVVBoRUtiMFAtd3FR?oc=5",
-      "summary": "AI labs can't keep their stars Axios",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
       "company": "Meta",
-      "title": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral - buzzfeed.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFRDZGtrLVVzQTlIdjFtOVRoUlNVNmNIV2pwNWMzT01CdnV0TmhRdUhIODJDcGwwQXpXNjRmdUFlM1VUMWRieXBfaDg4YkM1aWZieklyWEZRelRzMkk3R1o4OGM2bUk4bUQwVW5JSTdseHRWUWFZVmRRaVVSV1VxQ2xPaUxpWFg2ZjhRa2FmOE9DQQ?oc=5",
-      "summary": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral buzzfeed.com",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s - TechRepublic",
+      "title": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s - techrepublic.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFaVpYSzA1N3lxTHFWU3FNOVU0S1FyWm1idS1vRzV3MndpSGZNQ1E2TTlTZGVRazdVSE1HOVhkRTVkazhDM1ZrMXVockJkUkRPYU95SXJUTjMzcm82VGt3ZkR1cXRaUXdzQXQtUEN1YW1yeGdSZlJkcQ?oc=5",
-      "summary": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s TechRepublic",
+      "summary": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s techrepublic.com",
       "badge": "new",
       "date": "2026-08-03"
     },
     {
-      "company": "Anthropic",
-      "title": "Morgan Stanley leads $15B bet on Anthropic’s Texas campus - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT19meGRpQ0xGRDVEcGZtY0c2dFVvNDFUbHhzek1uWUQ3WHlXOWF3SkI3YjdNenV4WkFQMnNxZ2JSQzh2bTJLTS1XUlBuU0Z6SDdzVEVOMEVfVEFnYXlXWDBnRUJvenlOUk81M2hhTXM5VjBrTGNFUjVUM2lKdE5xRg?oc=5",
-      "summary": "Morgan Stanley leads $15B bet on Anthropic’s Texas campus thestreet.com",
+      "company": "Meta",
+      "title": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral - BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFRDZGtrLVVzQTlIdjFtOVRoUlNVNmNIV2pwNWMzT01CdnV0TmhRdUhIODJDcGwwQXpXNjRmdUFlM1VUMWRieXBfaDg4YkM1aWZieklyWEZRelRzMkk3R1o4OGM2bUk4bUQwVW5JSTdseHRWUWFZVmRRaVVSV1VxQ2xPaUxpWFg2ZjhRa2FmOE9DQQ?oc=5",
+      "summary": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral BuzzFeed",
       "badge": "new",
-      "date": "2026-08-02"
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnZXSzJzeHYzQVZQSk9NTnREWG5rODJIYWc3SWpOeWFGcUZKY01IYmZXZE9lbHZOdnZlOFFzbkRSdmx5TXV6YlBIaUR1Tm95TjVYQ2hQTThhLVBnODdEWGZwTmZqY0RXclJnOVRRZXBKeExfUjc2eUdDckVwZ1VMR1hNc0JiUVBIR1RoR2RjczItV25ad0twTThZcERUVG1QNDR1NzdQUVNZM25pdkFHLTQ3Y3o1d2JqSmVaVTIzOTBCeV9XSW5ENVFjRm44X2Jk?oc=5",
+      "summary": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping TradingView",
+      "badge": "new",
+      "date": "2026-08-03"
     },
     {
       "company": "Meta",
-      "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - nltimes.nl",
+      "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - NL Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDhZMWVJM1RGUHRMc1ZSOFFwQk16em5ZUHdCRjVDMmxyWW91Y2Q1TzJaYWJoM0NHd3RneDZtclNBeTVBUWFmaEs2bkhXeWtHOTFQTE9EV0R5RFhvX09kZWFncEUtaGJrSnIyT3MtbWYzZDh3aGU1bE9FVmdtX1NBQTMyamk5azc0ckw2aVlhc2tiWHpFNlRaWnNuaEVWcjlDaS02ZjBrVU1rOUk?oc=5",
-      "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent nltimes.nl",
+      "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent NL Times",
       "badge": "new",
       "date": "2026-08-02"
     },
@@ -166,22 +206,6 @@
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "badge": "new",
-      "date": "2026-08-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5",
-      "summary": "Why did OpenAI's and Anthropic's AI models hack other companies? NPR",
-      "badge": "new",
-      "date": "2026-08-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5",
-      "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back WSJ",
       "badge": "new",
       "date": "2026-08-01"
     },
@@ -251,17 +275,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Copilot worm can spread through Microsoft Word docs - csoonline.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFFlZThaUEJWbnhXQ2lZY0dQZFQzdkhuQ3ZBdnRERG1VNmQyYmN5N3BQVWo0d3ktMGNuSGM5MGM4VTNEbHBaLUw4T3VWc3ZrQkRTY2ZRdFk2LVpkNzRRcFN6cXZmUXR4bVhfNXdXUFRfMV8yY0RLX2p3TzJUZ3gyb2p3bDhYempQbEtQbDJDaTlFLTc2UzFqVnVqN25aZ00?oc=5",
-      "summary": "Copilot worm can spread through Microsoft Word docs csoonline.com",
+      "title": "Microsoft will release a Copilot super app this year - GSMArena.com news - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVNWMk9oMUFHTEZXMzRPTG9pTWF4c3A0NFV0Q29FZXZseGJZRE9XNEJxQmZhcGQ0ZVhZc2Ffc2lyZE1xd2pXMHlEYVpFc3RwRnRaZUJ1cXRSUmNZTEpjNkd3ck5VVHlQT25fOEpaRHpyaFFtZWdselFKa01rR1RKdG5wNE1rekI0d09iNTFabmVXSHIwYnc40gGTAUFVX3lxTE5PV09pQWROc3FWVDFETnBpUjJyTXcweDIwR2piUXBLZXJXcUJad2xVQWlUeTZMeUo1cXRncU1OOXpMVUlkQjU1Y3BWOEVoQS1QT28zLU05ZnlSZEhYYVpicV9ELXVxSkZKMmxOdFZmcFotQkFqemI2T1hmbDRaR3poS1UyRU1MeUROM1hDUlkzTlZnWQ?oc=5",
+      "summary": "Microsoft will release a Copilot super app this year - GSMArena.com news GSMArena.com",
       "badge": "new",
       "date": "2026-07-31"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft will release a Copilot super app this year - GSMArena.com news - GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVNWMk9oMUFHTEZXMzRPTG9pTWF4c3A0NFV0Q29FZXZseGJZRE9XNEJxQmZhcGQ0ZVhZc2Ffc2lyZE1xd2pXMHlEYVpFc3RwRnRaZUJ1cXRSUmNZTEpjNkd3ck5VVHlQT25fOEpaRHpyaFFtZWdselFKa01rR1RKdG5wNE1rekI0d09iNTFabmVXSHIwYnc40gGTAUFVX3lxTE5PV09pQWROc3FWVDFETnBpUjJyTXcweDIwR2piUXBLZXJXcUJad2xVQWlUeTZMeUo1cXRncU1OOXpMVUlkQjU1Y3BWOEVoQS1QT28zLU05ZnlSZEhYYVpicV9ELXVxSkZKMmxOdFZmcFotQkFqemI2T1hmbDRaR3poS1UyRU1MeUROM1hDUlkzTlZnWQ?oc=5",
-      "summary": "Microsoft will release a Copilot super app this year - GSMArena.com news GSMArena.com",
+      "title": "Copilot worm can spread through Microsoft Word docs - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFFlZThaUEJWbnhXQ2lZY0dQZFQzdkhuQ3ZBdnRERG1VNmQyYmN5N3BQVWo0d3ktMGNuSGM5MGM4VTNEbHBaLUw4T3VWc3ZrQkRTY2ZRdFk2LVpkNzRRcFN6cXZmUXR4bVhfNXdXUFRfMV8yY0RLX2p3TzJUZ3gyb2p3bDhYempQbEtQbDJDaTlFLTc2UzFqVnVqN25aZ00?oc=5",
+      "summary": "Copilot worm can spread through Microsoft Word docs csoonline.com",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -291,9 +315,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - Forbes",
+      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
-      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents Forbes",
+      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents forbes.com",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -338,14 +362,6 @@
       "date": "2026-07-30"
     },
     {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-30"
-    },
-    {
       "company": "Meta",
       "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
@@ -358,14 +374,6 @@
       "title": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5",
       "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Case for Its AI Spending Keeps Getting Weaker - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHJWNjZndFNnSktPdHZpLXczbnVkaHp6UjlyN1Z6eS1CaFlfeUpVYU82SjN5NEJqaTNxeGtSVzBBN18xNW9rLV9HWld2T1VBbE96MzExZU5TUVMwMEp0THVFcHBNZmYzMDJFYU9ybkpaYTVveV9maU0xb195cTVsVk9VZGV5SmhYdjVYU1Ezd3V0dw?oc=5",
-      "summary": "Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -410,18 +418,18 @@
       "date": "2026-07-30"
     },
     {
-      "company": "OpenAI",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "badge": "new",
-      "date": "2026-07-29"
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-30"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - techcrunch.com",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFidExRVzJrRndrYlhwOGNoRFA4Wk56MjVidG5SdERDUWxfRE01NGJlcFVQQngwdDJveTlBaXA3aTJVUEUwVEtmSGtKR0Q2aUxiOGM1eExMX1VjbWhjSUFhWFlJVWlIN0doa09MR2ZvcnZyTkRPWDQ2RVVLRUF1alVFenRnTUdENEVqWjhCMVNFT3hYdXh4WXpCb2RZY0RLWnQyMmNReWo4Tkc2QWM4M0VvTVVPcllFdmt6aklB?oc=5",
-      "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work techcrunch.com",
+      "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work TechCrunch",
       "badge": "hot",
       "date": "2026-07-29"
     },
@@ -478,14 +486,6 @@
       "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzczZTNqUk5BYWhBRWNDOWhjU1R4Zm1weG9KOWY4OXJ0WU9uQnppSUY1UkJaRk1NVm9qZ0JQM2NpRGJIY2NqbUVVZTdwRi1CNS10Mng2NFl3ZnNHamhLVmJwWU5hV0ladkJhWXJLUi1Xc0IzTGMxUjlPYkc0enlGaG9lNXBZZC1YNnNRMF93dlh4aC1UTm5Od2hGbHZrOXJGVGpfbFF0YWU?oc=5",
       "summary": "Perplexity’s Personal Computer turns Windows PCs into AI agents The Verge",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity brings agentic platform Personal Computer to Windows - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1VzZUpjN1JTVkdLNFZ2TWV6UHlRQ2ZwNlI5cnEyNEtOMGNKLTg0X05ZX0lwN08zQzhGWFFqLW15MnBUQUUzWlJxLTJXbFdJQWZpSk1HcmJSMUd6S3kzZGZDMFRUUGgtYzg0aHhtM3pURVE5RDc3MHRFNXkwNHp5bThRcXJXRHNkenZFbVhSV2ZEODJZLXRScVB6STZmZ3FGNERJ?oc=5",
-      "summary": "Perplexity brings agentic platform Personal Computer to Windows Seeking Alpha",
       "badge": "new",
       "date": "2026-07-28"
     },
