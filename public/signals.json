@@ -1,6 +1,70 @@
 {
-  "updated": "2026-08-03T19:23:37Z",
+  "updated": "2026-08-04T02:00:43Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Upgrade launches in the United States",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
+      "badge": "hot",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
     {
       "company": "Anthropic",
       "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model - Bloomberg",
@@ -54,54 +118,6 @@
       "title": "AI labs can't keep their stars - Axios",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzJzNDdaQkw0bk9zWWZJQkZCVFZ4S19rS1pQamRnVVI4a3RXV1hPVTFiUmJhTFF4aVQzbklheFFQMmRuTFlrT3lXZmc3WUhoaUZxZE5WdWljUEEzdzV2b0plY0hVMmp5STFDVkdmT1MyMkVtYWRsVVBoRUtiMFAtd3FR?oc=5",
       "summary": "AI labs can't keep their stars Axios",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Upgrade launches in the United States",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
-      "badge": "hot",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "badge": "new",
       "date": "2026-08-03"
     },
@@ -210,6 +226,30 @@
       "date": "2026-07-31"
     },
     {
+      "company": "Meta",
+      "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzJTU2h6M0U4NTdKUVFzUjBUaXc1TkNYY0RCeDJQOFdaSndJSkpHdEdCbWh4ZEd2dzVncndZZmN0NHdrRlF4OUVwUXl2enpUTE5FZGtDSUhScEd3N1VBOEFFY1RBaEZZMGpraUlYSlEtVGVuTG9JMUxHOXlBVDhoaEhIaDRsVlpUNnJNcXgtY0xFVDNQWkprRXFoMGZwdXBHdHJhWmNFQXQ1cjJRMVFBNHBHMHRPbnhIRkdEX3VJUVFwa1RSbk1vZGlCck1lMEt5aWdVME1qc1c?oc=5",
+      "summary": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin TradingView",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPN0lIcXZaZFllLXB0ZXlVMTkzMXVKb2F0azVCS0V6RVFYMldDZHhnRDMtMzNjU01yOFYycTRBcEFDcVBBaThKdkFlUXU4UHhPdG9ld2J1bERmMGNnQkRVRFVjQlBIU1VRZ1lMQXpoNE5hWU1xZWk5c2daeURDZTZ6d1Q4Y1NMYkJYaW1qa0xwNVBEUkNBYVFZUWRYZ3RHZ3B3VFpLOTNhVU40S3VIREdBOEYzMldNOF9Rc0g4R0VVTndlSGVwU0lGbXphRlRhZ1laRUJuZXVydTFmS3ZTeHVsbUUzTHl5V1NlaDkwN3k4ZHBpdnNHVm9QMWZ4U2hWMlJGOVRZMGdMYlgyN2NzaWl1aUlJRmQtNE1kN093ME1DZmpwNmd5MnNuSjR0NngwS3N4RjhlTmpZVnVrdjVmMy1rYlVaZk5rdThxYmxaYVM3NE5objZyWHBCbVdscEZnVkZIMTZkVGRXONIB7AJBVV95cUxPejJsMlFjck9Zd2dHS19NbzVfMkp0WDU3SUVfWTVqcmJKVkRneWhtWDZ0MURkUzVMckgtQVlaa3l5X1g0NmdhaS1tNFMtRkxZcWk2UU9KQ00wQWxkdFk2QklyWldxbG9oYjRyN2MtTkhqeVRhZEtEaUxnaHl0UkM1ajNWRzlUMDM2RzlpMGo4TVFQdHBhRUV1ZGRNX3FzY2VETGd1U01Ra3F4YktqdVNEWjlPQnNuU2NRUDJYMElILUwzNXJlX2pUU3BqOEp3enRldEw4SG0zMEN0d1U2ZjUyUTFWWjctZ0w5ZkxMQmxiRVRWYjFWSHh4SG1jTHZGMDJ2eV9yNHdmaUxUTXRocnJFdjN6eWZiZTBzcHZHUXNjTXROMFNUWHdJX1V6SEdsbXI4bnNla3dEc2dlQjFRMzVVUnI0X0dONVQzODVpM190M3RvZmt3elRuaXZSa0paS243MUNCSlBLWU9IZUNj?oc=5",
+      "summary": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa The Times of India",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Forges AI Content Deal With Newsmax 07/30/2026 - mediapost.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWhramlSSWo3RHVfUURHVWpTc2Rmamh3NHVaNGtEOXQ4TGc3Ny1QdU1fb1hRNjhndTNCc0RiYy1yekUyVHhXZjNERVNiTXpyWXctLWVCOFdYTTBMZkN4X05zTm9wU2d0UF9naTc4Y2ZFdmtqcHBWak16VjFLNEVNYVRtOWg0Z1B2Nmt3UVpiejg0dkd0STZJcm4xOVFlaFQ0?oc=5",
+      "summary": "Meta Forges AI Content Deal With Newsmax 07/30/2026 mediapost.com",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
       "company": "Microsoft",
       "title": "Copilot worm can spread through Microsoft Word docs - csoonline.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFFlZThaUEJWbnhXQ2lZY0dQZFQzdkhuQ3ZBdnRERG1VNmQyYmN5N3BQVWo0d3ktMGNuSGM5MGM4VTNEbHBaLUw4T3VWc3ZrQkRTY2ZRdFk2LVpkNzRRcFN6cXZmUXR4bVhfNXdXUFRfMV8yY0RLX2p3TzJUZ3gyb2p3bDhYempQbEtQbDJDaTlFLTc2UzFqVnVqN25aZ00?oc=5",
@@ -282,30 +322,6 @@
       "date": "2026-07-31"
     },
     {
-      "company": "Meta",
-      "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzJTU2h6M0U4NTdKUVFzUjBUaXc1TkNYY0RCeDJQOFdaSndJSkpHdEdCbWh4ZEd2dzVncndZZmN0NHdrRlF4OUVwUXl2enpUTE5FZGtDSUhScEd3N1VBOEFFY1RBaEZZMGpraUlYSlEtVGVuTG9JMUxHOXlBVDhoaEhIaDRsVlpUNnJNcXgtY0xFVDNQWkprRXFoMGZwdXBHdHJhWmNFQXQ1cjJRMVFBNHBHMHRPbnhIRkdEX3VJUVFwa1RSbk1vZGlCck1lMEt5aWdVME1qc1c?oc=5",
-      "summary": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin TradingView",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPN0lIcXZaZFllLXB0ZXlVMTkzMXVKb2F0azVCS0V6RVFYMldDZHhnRDMtMzNjU01yOFYycTRBcEFDcVBBaThKdkFlUXU4UHhPdG9ld2J1bERmMGNnQkRVRFVjQlBIU1VRZ1lMQXpoNE5hWU1xZWk5c2daeURDZTZ6d1Q4Y1NMYkJYaW1qa0xwNVBEUkNBYVFZUWRYZ3RHZ3B3VFpLOTNhVU40S3VIREdBOEYzMldNOF9Rc0g4R0VVTndlSGVwU0lGbXphRlRhZ1laRUJuZXVydTFmS3ZTeHVsbUUzTHl5V1NlaDkwN3k4ZHBpdnNHVm9QMWZ4U2hWMlJGOVRZMGdMYlgyN2NzaWl1aUlJRmQtNE1kN093ME1DZmpwNmd5MnNuSjR0NngwS3N4RjhlTmpZVnVrdjVmMy1rYlVaZk5rdThxYmxaYVM3NE5objZyWHBCbVdscEZnVkZIMTZkVGRXONIB7AJBVV95cUxPejJsMlFjck9Zd2dHS19NbzVfMkp0WDU3SUVfWTVqcmJKVkRneWhtWDZ0MURkUzVMckgtQVlaa3l5X1g0NmdhaS1tNFMtRkxZcWk2UU9KQ00wQWxkdFk2QklyWldxbG9oYjRyN2MtTkhqeVRhZEtEaUxnaHl0UkM1ajNWRzlUMDM2RzlpMGo4TVFQdHBhRUV1ZGRNX3FzY2VETGd1U01Ra3F4YktqdVNEWjlPQnNuU2NRUDJYMElILUwzNXJlX2pUU3BqOEp3enRldEw4SG0zMEN0d1U2ZjUyUTFWWjctZ0w5ZkxMQmxiRVRWYjFWSHh4SG1jTHZGMDJ2eV9yNHdmaUxUTXRocnJFdjN6eWZiZTBzcHZHUXNjTXROMFNUWHdJX1V6SEdsbXI4bnNla3dEc2dlQjFRMzVVUnI0X0dONVQzODVpM190M3RvZmt3elRuaXZSa0paS243MUNCSlBLWU9IZUNj?oc=5",
-      "summary": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa The Times of India",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Forges AI Content Deal With Newsmax 07/30/2026 - mediapost.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWhramlSSWo3RHVfUURHVWpTc2Rmamh3NHVaNGtEOXQ4TGc3Ny1QdU1fb1hRNjhndTNCc0RiYy1yekUyVHhXZjNERVNiTXpyWXctLWVCOFdYTTBMZkN4X05zTm9wU2d0UF9naTc4Y2ZFdmtqcHBWak16VjFLNEVNYVRtOWg0Z1B2Nmt3UVpiejg0dkd0STZJcm4xOVFlaFQ0?oc=5",
-      "summary": "Meta Forges AI Content Deal With Newsmax 07/30/2026 mediapost.com",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
       "company": "OpenAI",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -318,6 +334,38 @@
       "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
       "url": "https://openai.com/index/avatarin",
       "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "badge": "hot",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
+      "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5",
+      "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes",
+      "badge": "new",
+      "date": "2026-07-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Case for Its AI Spending Keeps Getting Weaker - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHJWNjZndFNnSktPdHZpLXczbnVkaHp6UjlyN1Z6eS1CaFlfeUpVYU82SjN5NEJqaTNxeGtSVzBBN18xNW9rLV9HWld2T1VBbE96MzExZU5TUVMwMEp0THVFcHBNZmYzMDJFYU9ybkpaYTVveV9maU0xb195cTVsVk9VZGV5SmhYdjVYU1Ezd3V0dw?oc=5",
+      "summary": "Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -362,58 +410,10 @@
       "date": "2026-07-30"
     },
     {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
-      "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5",
-      "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Case for Its AI Spending Keeps Getting Weaker - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHJWNjZndFNnSktPdHZpLXczbnVkaHp6UjlyN1Z6eS1CaFlfeUpVYU82SjN5NEJqaTNxeGtSVzBBN18xNW9rLV9HWld2T1VBbE96MzExZU5TUVMwMEp0THVFcHBNZmYzMDJFYU9ybkpaYTVveV9maU0xb195cTVsVk9VZGV5SmhYdjVYU1Ezd3V0dw?oc=5",
-      "summary": "Meta’s Case for Its AI Spending Keeps Getting Weaker WSJ",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
       "company": "OpenAI",
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "badge": "new",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "badge": "new",
       "date": "2026-07-29"
     },
