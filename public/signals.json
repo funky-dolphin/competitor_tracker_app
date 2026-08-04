@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-04T13:57:07Z",
+  "updated": "2026-08-04T19:23:22Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlV0a0ZQV0NYRkVGM0Z4QndJSmV0U1ctNjlKT1d2dHZEcDRuVHRXZDJwRm94MXM4TUE0akFsOE9IU1ZQcU9WblJVVzMxY1pyUnNZVHRIb2l2MkhsaXhQRDVBLV96RVhIRmgxQ3ZxUU9RRkxpYjF4bC0wREZLanR6MHB2U3c?oc=5",
-      "summary": "Inside Google’s $200bn Wall Street finance machine for Anthropic Financial Times",
+      "company": "OpenAI",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -18,6 +18,38 @@
       "date": "2026-08-04"
     },
     {
+      "company": "Anthropic",
+      "title": "Anthropic signs $10 billion computing deal with Volta Infra - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYnloXzJ3OUNQZHR3VTA0OFhBb1M3QXNVdlFQX1BibDROaWtRNEd6MUJMdUZZSFBPRHluTUc5R3JHRXNNMVFuUC1uSzNlcnk1MGttSlo0amRxdFpfMnRaNGFEZU91eTAyd2JSUWpnZ1V2cmUzZDZlRA?oc=5",
+      "summary": "Anthropic signs $10 billion computing deal with Volta Infra qz.com",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic signs $10B computing deal with infrastructure startup Volta: report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjVxaUowWWJfeUFsMzlfS3hoR0REM0hlZURGQWxpNDJ5YUw2TzN5Y21RVWVVcmFLQmg1d2xDakV3ODA1X3FYYV9XNXF5OTdtU1BEWHNvUXliVEszdGUxaWxjUUJxZVdfQkZ6NERKa2FHdGdGNkJobnFOcHdyLVlPV3dUbW9yZlB0MzM1WVl5R3pDaFlLUFZEXzRZeG1kTUMySDQ0aGpQRmYzekJsMi1SR09yYw?oc=5",
+      "summary": "Anthropic signs $10B computing deal with infrastructure startup Volta: report Seeking Alpha",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlV0a0ZQV0NYRkVGM0Z4QndJSmV0U1ctNjlKT1d2dHZEcDRuVHRXZDJwRm94MXM4TUE0akFsOE9IU1ZQcU9WblJVVzMxY1pyUnNZVHRIb2l2MkhsaXhQRDVBLV96RVhIRmgxQ3ZxUU9RRkxpYjF4bC0wREZLanR6MHB2U3c?oc=5",
+      "summary": "Inside Google’s $200bn Wall Street finance machine for Anthropic Financial Times",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGhSVmNXS2hTdzBLaXMyQXFTTGowXzd4ODNHRzdyYzktdU5seFg0U1JnZFUzaEd0N2RQX0c1aDVPOFE0RVRnR0szQTdEdVpnZDFJWjJoNjNhdjlRU3lNRUh1TGtRa2VaQ3dNcUpQeS1VZnVOUThBU3lQWnNpQWhUWTlB?oc=5",
+      "summary": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. Axios",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
       "company": "Google",
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -26,10 +58,10 @@
       "date": "2026-08-04"
     },
     {
-      "company": "Meta",
-      "title": "ChatGPT and Gemini built fake news graphics, only Meta AI refused - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzdoR3pDZkt6OUdSdVFPN0VCdlpJWWpaV2wyckRfckFaUm01Mk9yRWNfOWlfMF9yNDVIVlI5V3ZPZTlpYnFYT0JUcVNHVXZXRVJBQlRtbXJrM3FnVkh5RTFhVXh2RDlhcGh0YndFUm02RllUWHl5TXZJOThVUDFjanZkRnZFMHI4SUhVMW9CRG1TNFFmeGNQWlNDTHplQU9Fai01R1ZiX3lUdVJBWlE?oc=5",
-      "summary": "ChatGPT and Gemini built fake news graphics, only Meta AI refused Notebookcheck",
+      "company": "Microsoft",
+      "title": "Microsoft Copilot Dataverse: Rethinking AI Platform Security - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdURwaVlTLUtFbUlNSG54TFRRSXc4dXVPTUlJU2lacGhheFE3ZkVwX092RlUtM3NwbFBFUXFEaHFoTnk5Q0Y5OHNTN1pBMEZBeXZpX2cyY2VnalZiZUZTYjBUUElOY1ItLTBEV3FoOHVaTloxZ1RJNUhKSnJoRHEyZjJBLWI2eklLLWphUF9iYjlMbkY0RTk2cGRUUFoxbFJieFdaMG4wX3RWOEk4?oc=5",
+      "summary": "Microsoft Copilot Dataverse: Rethinking AI Platform Security Dark Reading",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -75,9 +107,49 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity Overturns Amazon Ban on AI Shopping Bot on Appeal - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnE4d3dFOFFHSmI2TWw2R3oyTVRNbmExaWVSb0NmRlhUWGpjbkJZUmM1SEExa2dZbHBmdGxkNWVLVFhCNU10UzVwOTN3bGdoM2ZUalJEWjdtUVVnampNLUFhLUtvTjN1Z0w0WUFQSFI3SEY4UEJvYm9WdkFNclNCZEZmc2loX3o2V3lPTUFha3hLako0MHROaHJqc3lJVDNTRDd2RQ?oc=5",
+      "summary": "Perplexity Overturns Amazon Ban on AI Shopping Bot on Appeal Bloomberg Law News",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Appeals Court Sides Against Amazon, Lifts Perplexity Ban 08/05/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzkxZU9VLVA0QkwwcVNLVk13YlhWcVV3ZkNfNExqNkVENHNYSy0wQlNEX2dBT2l3Z0dBY0pldFhwekR5SGhWNnZ6WllTVklzRENYajNMT25PM0djQlZPSjVaNkIwNmJDek9mcDRGMjZDaC11NS1WNnU1M1FZc284Q0R1SUFZWVl4cHRhT182aEVQWHNNTldPUF8yRk1YZjRrZWpBNFlXLXY2SW5E?oc=5",
+      "summary": "Appeals Court Sides Against Amazon, Lifts Perplexity Ban 08/05/2026 MediaPost",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Perplexity",
       "title": "13 Best AI Tools for Students 2026: Top Picks Tested & Compared - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUG53RDAzNG9tMzBMbm1VTnBlekdRNUZlNkdKd0QtRm5Fa0ZQaV8wSFMxWUNqSWdvOU9pYnVCU21BX2Z3cDBOLUxuLVZ0dTN5NFVNWko1VF9RbnRn?oc=5",
       "summary": "13 Best AI Tools for Students 2026: Top Picks Tested & Compared Memeburn",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDVfR3V5WFBWRUx6QU5Gb1R4OEtDR3prbExBZk15azJSaG9fOE9jZ2wtdUg1MXhmWWc3T2FQLVNTNWxQQXpNOU5zRXNSdHBBSzE5MEVkX3lLRzZrM0FDUDVyVlhhYzQ0aHpHOTZGcTB0TEQxUWtGY1FBUlpwWWRQVUZYSFhOU2NzWXo3OXFnbGg5cnRyN1M5OXhmZVZscXdfZjRKcFZYdERMblk?oc=5",
+      "summary": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains TipRanks",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI app sees growth in US daily active users but average time spent still low: Apptopia - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lkTGgzYjBIX09WRkN6ZFdISnFHSzNvRnp4V3F2U2pHeUZkTlc5VlV4eTdmNDNwV2tLMXlsMVhFbXJ1Wl9IQ2lSQU5lT3p5bHhNSTM1cmdoQUNVcDRpWUd5RTNvNHVJMGQtWG4zbVM3ZEI5dlBPR1Q3UnphdnNQdlY3czF4a2hDYzAtZGt4VjRxMDJxM0xSelNPY1FWcWZiMWVwbHl5R3plTHJjVUMxbTlpNUYxdHEwNXowemJHa1lqWEVwbjVN?oc=5",
+      "summary": "Meta AI app sees growth in US daily active users but average time spent still low: Apptopia Seeking Alpha",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Meta",
+      "title": "ChatGPT and Gemini built fake news graphics, only Meta AI refused - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzdoR3pDZkt6OUdSdVFPN0VCdlpJWWpaV2wyckRfckFaUm01Mk9yRWNfOWlfMF9yNDVIVlI5V3ZPZTlpYnFYT0JUcVNHVXZXRVJBQlRtbXJrM3FnVkh5RTFhVXh2RDlhcGh0YndFUm02RllUWHl5TXZJOThVUDFjanZkRnZFMHI4SUhVMW9CRG1TNFFmeGNQWlNDTHplQU9Fai01R1ZiX3lUdVJBWlE?oc=5",
+      "summary": "ChatGPT and Gemini built fake news graphics, only Meta AI refused Notebookcheck",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -146,42 +218,10 @@
       "date": "2026-08-03"
     },
     {
-      "company": "Anthropic",
-      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5",
-      "summary": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up CNBC",
-      "badge": "hot",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US-China AI Rivalry Grows With Alibaba's Anthropic Rival - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VUEzbk1tNVJGX2QtazV5Ri0ydjAwOVg4clJOYm9FeG9IUzlrUjJFQmU3SUg2cWRCbjZJM1VZRDhlYnp3V2s5V00zZFg0VDJkbXlrdnJ2QmFtc19aeTNFT3FjREdEeWRCR01rc0lNdHJlS1lpcmNPdEhmbE8?oc=5",
-      "summary": "US-China AI Rivalry Grows With Alibaba's Anthropic Rival Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEt4eWd5SmIzSnZKSElsd0JCZ1hzQk4xUEFNVXFqLUNMWTVNcTc5Q19sYm1uak1zTVF5UzFudEM3cGUxaUxtQUhxaHFrRFhSNTFmNl85NjFobVZIMkJKMDcwMEtBNDFuRjJtT2l6NHM5YVhBSFZxTWR6bmpzemp2NW5FMkRhbVRLMV94clA5X1prVGtKeHBURkd2MFJ0R3ByV05XMkpzM3o2Rkp4eU5tZG03ancxYi1XdVRLcTJzeVltWjIxdTJmd2tqaTdEcUlnSVE?oc=5",
-      "summary": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable Forbes",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFaVpYSzA1N3lxTHFWU3FNOVU0S1FyWm1idS1vRzV3MndpSGZNQ1E2TTlTZGVRazdVSE1HOVhkRTVkazhDM1ZrMXVockJkUkRPYU95SXJUTjMzcm82VGt3ZkR1cXRaUXdzQXQtUEN1YW1yeGdSZlJkcQ?oc=5",
-      "summary": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s TechRepublic",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Meta",
-      "title": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral - BuzzFeed",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFRDZGtrLVVzQTlIdjFtOVRoUlNVNmNIV2pwNWMzT01CdnV0TmhRdUhIODJDcGwwQXpXNjRmdUFlM1VUMWRieXBfaDg4YkM1aWZieklyWEZRelRzMkk3R1o4OGM2bUk4bUQwVW5JSTdseHRWUWFZVmRRaVVSV1VxQ2xPaUxpWFg2ZjhRa2FmOE9DQQ?oc=5",
-      "summary": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral BuzzFeed",
+      "company": "Google",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
       "badge": "new",
       "date": "2026-08-03"
     },
@@ -203,9 +243,25 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - NL Times",
+      "title": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral - BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFRDZGtrLVVzQTlIdjFtOVRoUlNVNmNIV2pwNWMzT01CdnV0TmhRdUhIODJDcGwwQXpXNjRmdUFlM1VUMWRieXBfaDg4YkM1aWZieklyWEZRelRzMkk3R1o4OGM2bUk4bUQwVW5JSTdseHRWUWFZVmRRaVVSV1VxQ2xPaUxpWFg2ZjhRa2FmOE9DQQ?oc=5",
+      "summary": "“She Means Business”: Christina Ricci’s A+ Response To Meta’s Divisive AI Glasses Is Going Viral BuzzFeed",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFaVpYSzA1N3lxTHFWU3FNOVU0S1FyWm1idS1vRzV3MndpSGZNQ1E2TTlTZGVRazdVSE1HOVhkRTVkazhDM1ZrMXVockJkUkRPYU95SXJUTjMzcm82VGt3ZkR1cXRaUXdzQXQtUEN1YW1yeGdSZlJkcQ?oc=5",
+      "summary": "Why Investors See More Payoff in Microsoft’s AI Spending Than Meta’s TechRepublic",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - nltimes.nl",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDhZMWVJM1RGUHRMc1ZSOFFwQk16em5ZUHdCRjVDMmxyWW91Y2Q1TzJaYWJoM0NHd3RneDZtclNBeTVBUWFmaEs2bkhXeWtHOTFQTE9EV0R5RFhvX09kZWFncEUtaGJrSnIyT3MtbWYzZDh3aGU1bE9FVmdtX1NBQTMyamk5azc0ckw2aVlhc2tiWHpFNlRaWnNuaEVWcjlDaS02ZjBrVU1rOUk?oc=5",
-      "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent NL Times",
+      "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent nltimes.nl",
       "badge": "new",
       "date": "2026-08-02"
     },
@@ -262,30 +318,6 @@
       "title": "Disrupting a Criminal Scam Operation",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Meta",
-      "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzJTU2h6M0U4NTdKUVFzUjBUaXc1TkNYY0RCeDJQOFdaSndJSkpHdEdCbWh4ZEd2dzVncndZZmN0NHdrRlF4OUVwUXl2enpUTE5FZGtDSUhScEd3N1VBOEFFY1RBaEZZMGpraUlYSlEtVGVuTG9JMUxHOXlBVDhoaEhIaDRsVlpUNnJNcXgtY0xFVDNQWkprRXFoMGZwdXBHdHJhWmNFQXQ1cjJRMVFBNHBHMHRPbnhIRkdEX3VJUVFwa1RSbk1vZGlCck1lMEt5aWdVME1qc1c?oc=5",
-      "summary": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin TradingView",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPN0lIcXZaZFllLXB0ZXlVMTkzMXVKb2F0azVCS0V6RVFYMldDZHhnRDMtMzNjU01yOFYycTRBcEFDcVBBaThKdkFlUXU4UHhPdG9ld2J1bERmMGNnQkRVRFVjQlBIU1VRZ1lMQXpoNE5hWU1xZWk5c2daeURDZTZ6d1Q4Y1NMYkJYaW1qa0xwNVBEUkNBYVFZUWRYZ3RHZ3B3VFpLOTNhVU40S3VIREdBOEYzMldNOF9Rc0g4R0VVTndlSGVwU0lGbXphRlRhZ1laRUJuZXVydTFmS3ZTeHVsbUUzTHl5V1NlaDkwN3k4ZHBpdnNHVm9QMWZ4U2hWMlJGOVRZMGdMYlgyN2NzaWl1aUlJRmQtNE1kN093ME1DZmpwNmd5MnNuSjR0NngwS3N4RjhlTmpZVnVrdjVmMy1rYlVaZk5rdThxYmxaYVM3NE5objZyWHBCbVdscEZnVkZIMTZkVGRXONIB7AJBVV95cUxPejJsMlFjck9Zd2dHS19NbzVfMkp0WDU3SUVfWTVqcmJKVkRneWhtWDZ0MURkUzVMckgtQVlaa3l5X1g0NmdhaS1tNFMtRkxZcWk2UU9KQ00wQWxkdFk2QklyWldxbG9oYjRyN2MtTkhqeVRhZEtEaUxnaHl0UkM1ajNWRzlUMDM2RzlpMGo4TVFQdHBhRUV1ZGRNX3FzY2VETGd1U01Ra3F4YktqdVNEWjlPQnNuU2NRUDJYMElILUwzNXJlX2pUU3BqOEp3enRldEw4SG0zMEN0d1U2ZjUyUTFWWjctZ0w5ZkxMQmxiRVRWYjFWSHh4SG1jTHZGMDJ2eV9yNHdmaUxUTXRocnJFdjN6eWZiZTBzcHZHUXNjTXROMFNUWHdJX1V6SEdsbXI4bnNla3dEc2dlQjFRMzVVUnI0X0dONVQzODVpM190M3RvZmt3elRuaXZSa0paS243MUNCSlBLWU9IZUNj?oc=5",
-      "summary": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa The Times of India",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Forges AI Content Deal With Newsmax 07/30/2026 - mediapost.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWhramlSSWo3RHVfUURHVWpTc2Rmamh3NHVaNGtEOXQ4TGc3Ny1QdU1fb1hRNjhndTNCc0RiYy1yekUyVHhXZjNERVNiTXpyWXctLWVCOFdYTTBMZkN4X05zTm9wU2d0UF9naTc4Y2ZFdmtqcHBWak16VjFLNEVNYVRtOWg0Z1B2Nmt3UVpiejg0dkd0STZJcm4xOVFlaFQ0?oc=5",
-      "summary": "Meta Forges AI Content Deal With Newsmax 07/30/2026 mediapost.com",
       "badge": "new",
       "date": "2026-07-31"
     },
@@ -362,34 +394,34 @@
       "date": "2026-07-31"
     },
     {
+      "company": "Meta",
+      "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzJTU2h6M0U4NTdKUVFzUjBUaXc1TkNYY0RCeDJQOFdaSndJSkpHdEdCbWh4ZEd2dzVncndZZmN0NHdrRlF4OUVwUXl2enpUTE5FZGtDSUhScEd3N1VBOEFFY1RBaEZZMGpraUlYSlEtVGVuTG9JMUxHOXlBVDhoaEhIaDRsVlpUNnJNcXgtY0xFVDNQWkprRXFoMGZwdXBHdHJhWmNFQXQ1cjJRMVFBNHBHMHRPbnhIRkdEX3VJUVFwa1RSbk1vZGlCck1lMEt5aWdVME1qc1c?oc=5",
+      "summary": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin TradingView",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPN0lIcXZaZFllLXB0ZXlVMTkzMXVKb2F0azVCS0V6RVFYMldDZHhnRDMtMzNjU01yOFYycTRBcEFDcVBBaThKdkFlUXU4UHhPdG9ld2J1bERmMGNnQkRVRFVjQlBIU1VRZ1lMQXpoNE5hWU1xZWk5c2daeURDZTZ6d1Q4Y1NMYkJYaW1qa0xwNVBEUkNBYVFZUWRYZ3RHZ3B3VFpLOTNhVU40S3VIREdBOEYzMldNOF9Rc0g4R0VVTndlSGVwU0lGbXphRlRhZ1laRUJuZXVydTFmS3ZTeHVsbUUzTHl5V1NlaDkwN3k4ZHBpdnNHVm9QMWZ4U2hWMlJGOVRZMGdMYlgyN2NzaWl1aUlJRmQtNE1kN093ME1DZmpwNmd5MnNuSjR0NngwS3N4RjhlTmpZVnVrdjVmMy1rYlVaZk5rdThxYmxaYVM3NE5objZyWHBCbVdscEZnVkZIMTZkVGRXONIB7AJBVV95cUxPejJsMlFjck9Zd2dHS19NbzVfMkp0WDU3SUVfWTVqcmJKVkRneWhtWDZ0MURkUzVMckgtQVlaa3l5X1g0NmdhaS1tNFMtRkxZcWk2UU9KQ00wQWxkdFk2QklyWldxbG9oYjRyN2MtTkhqeVRhZEtEaUxnaHl0UkM1ajNWRzlUMDM2RzlpMGo4TVFQdHBhRUV1ZGRNX3FzY2VETGd1U01Ra3F4YktqdVNEWjlPQnNuU2NRUDJYMElILUwzNXJlX2pUU3BqOEp3enRldEw4SG0zMEN0d1U2ZjUyUTFWWjctZ0w5ZkxMQmxiRVRWYjFWSHh4SG1jTHZGMDJ2eV9yNHdmaUxUTXRocnJFdjN6eWZiZTBzcHZHUXNjTXROMFNUWHdJX1V6SEdsbXI4bnNla3dEc2dlQjFRMzVVUnI0X0dONVQzODVpM190M3RvZmt3elRuaXZSa0paS243MUNCSlBLWU9IZUNj?oc=5",
+      "summary": "Meta AI head shares message for Google Cloud head, who announced he is joining ScaleAI; the company Alexa The Times of India",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Forges AI Content Deal With Newsmax 07/30/2026 - mediapost.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWhramlSSWo3RHVfUURHVWpTc2Rmamh3NHVaNGtEOXQ4TGc3Ny1QdU1fb1hRNjhndTNCc0RiYy1yekUyVHhXZjNERVNiTXpyWXctLWVCOFdYTTBMZkN4X05zTm9wU2d0UF9naTc4Y2ZFdmtqcHBWak16VjFLNEVNYVRtOWg0Z1B2Nmt3UVpiejg0dkd0STZJcm4xOVFlaFQ0?oc=5",
+      "summary": "Meta Forges AI Content Deal With Newsmax 07/30/2026 mediapost.com",
+      "badge": "new",
+      "date": "2026-07-31"
+    },
+    {
       "company": "OpenAI",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
-      "summary": "Meta, Microsoft, and the AI Capex Divide Barron's",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5",
-      "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending Forbes",
       "badge": "new",
       "date": "2026-07-30"
     },
@@ -426,14 +458,6 @@
       "date": "2026-07-30"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJ0RUhRWFIxTVZwOXhwUXlpSGRsck5IQi0zYlBubjF0Z2tmVHNNaUJtU05TT0Y0Y2RDb2VRRHAzWUtEaEtjZVltOFBNLURUeUViVmFUWk1HbTE3LUhpTUYtdGE5LVp0WTlkMkFxZEdnSHR1VFV5bThTSEFGd2xUM1NmMDJ3alVtUjdMSzJjYS1wbDhHZjhqdThHcW1sUQ?oc=5",
-      "summary": "Microsoft Confirms Plan for Copilot 'Super App' Merging Its AI Tools PCMag UK",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
       "company": "Apple",
       "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
       "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
@@ -447,14 +471,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFidExRVzJrRndrYlhwOGNoRFA4Wk56MjVidG5SdERDUWxfRE01NGJlcFVQQngwdDJveTlBaXA3aTJVUEUwVEtmSGtKR0Q2aUxiOGM1eExMX1VjbWhjSUFhWFlJVWlIN0doa09MR2ZvcnZyTkRPWDQ2RVVLRUF1alVFenRnTUdENEVqWjhCMVNFT3hYdXh4WXpCb2RZY0RLWnQyMmNReWo4Tkc2QWM4M0VvTVVPcllFdmt6aklB?oc=5",
       "summary": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work TechCrunch",
       "badge": "hot",
-      "date": "2026-07-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity vs ChatGPT vs Gemini: $295 Enterprise Gap [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tdWFqY3pRUEIzQzkycG5zN25OWjdyNDVETjhPd0tGdmdFd182WUlCRzY3UG5qcGE2U3M5N0xLRnVsRG5WMDBSN19FcmJMY1N0MURLZDE1Ukt2a2REbU5iaGU3TjlrNTRsN250MVZpVQ?oc=5",
-      "summary": "Perplexity vs ChatGPT vs Gemini: $295 Enterprise Gap [2026] tech-insider.org",
-      "badge": "new",
       "date": "2026-07-29"
     },
     {
@@ -486,14 +502,6 @@
       "title": "Apple scores record 89 Emmy Award nominations",
       "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
       "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TUXFlbFFCTWg3Q0NqcTBkd1R1MmtieG4ydTVxdHpvNWNkSEtfZktCc2V3cFlLYWpqS1VuOVAtQXFfYUdiU0EwM3EwNURiN0RSZzhsaWNiV1Z1NHhKV09lN2R6cVRUTU9lLXBKTU1n?oc=5",
-      "summary": "Perplexity AI Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
       "badge": "new",
       "date": "2026-07-28"
     },
@@ -584,14 +592,6 @@
       "summary": "Managed agents feature bundle launch",
       "badge": "hot",
       "date": "2026-07-07"
-    },
-    {
-      "company": "Google",
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "summary": "June Pixel Drop hero",
-      "badge": "new",
-      "date": "2026-07-01"
     },
     {
       "company": "Amazon",
