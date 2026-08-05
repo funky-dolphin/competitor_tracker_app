@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-05T01:59:04Z",
+  "updated": "2026-08-05T08:27:01Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
+      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches Reuters OpenAI and Anthropic Model Tests Reveal More Hacking Bloomberg.com Anthropic's AI used fake human profiles to trick people in sa",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjBQTzA3UUUybzRWRFJHRFJVQUdseXFPTzFqcUktOVRvc19iMzVHSEYxRzNKRUhKWEdPQWRzaDl4QXdIUm1vS0dpQkxyTG41ZWJEc2VGN0tTdk14UHY4Wkt3LVZjV2FYY3Zpdnp2TldZRUMxc1ZEbFczUjJucHdxSGk2aEc?oc=5",
+      "summary": "Banks to offload $15bn of debt for Anthropic data centre backed by Google Financial Times",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic's AI used fake human profiles to trick people in safety test - BBC",
@@ -75,9 +91,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup - bloomberg.com",
+      "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5",
-      "summary": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup bloomberg.com",
+      "summary": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup Bloomberg.com",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -86,6 +102,14 @@
       "title": "Anthropic signs $10B deal with AI cloud startup Volta - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2JyWl9wTHQ1RHBJZEp6a1NQOExuUEZyb1RieEdTSkJ6OVhlT1lIR2NteENWblYzNURiNlR5dDZZN0FtZWlMNDFoUEE5eV82WXloVU5qZHhKWE9LUlNZcUtzZWFEMTF0S3lMU25HTS05X05DQ3huWWl0UzJCV1U3WDhzczczWDZvUTZDQnFfVU5fQnV0eUFPdHdn?oc=5",
       "summary": "Anthropic signs $10B deal with AI cloud startup Volta TechCrunch",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Eight-month-old UK start-up strikes $10bn deal with Anthropic - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHJ5aU1aeFBHbjdnUlU1bjRTWU1EZl9FaUpBcVdiQnZQd0Y2VWN1VXdNNS1nZjBwbzU2SS0tYm9vNnRra0tzbXRUSDN4Y29wVzdiWjFBRjkwZ3dERVA5ZjE3T0h3a2VneWRRN1ZTMVlxTW5fR3JOZHZKWXdHX0tha0xVUVdROV91S0JjR3hDWlBGTkVUWG9sVEdEQm1FdkZaUVlxaEhvUQ?oc=5",
+      "summary": "Eight-month-old UK start-up strikes $10bn deal with Anthropic The Telegraph",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -122,14 +146,6 @@
       "date": "2026-08-04"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGhSVmNXS2hTdzBLaXMyQXFTTGowXzd4ODNHRzdyYzktdU5seFg0U1JnZFUzaEd0N2RQX0c1aDVPOFE0RVRnR0szQTdEdVpnZDFJWjJoNjNhdjlRU3lNRUh1TGtRa2VaQ3dNcUpQeS1VZnVOUThBU3lQWnNpQWhUWTlB?oc=5",
-      "summary": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. Axios",
-      "badge": "new",
-      "date": "2026-08-04"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -139,17 +155,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot Dataverse: Rethinking AI Platform Security - Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdURwaVlTLUtFbUlNSG54TFRRSXc4dXVPTUlJU2lacGhheFE3ZkVwX092RlUtM3NwbFBFUXFEaHFoTnk5Q0Y5OHNTN1pBMEZBeXZpX2cyY2VnalZiZUZTYjBUUElOY1ItLTBEV3FoOHVaTloxZ1RJNUhKSnJoRHEyZjJBLWI2eklLLWphUF9iYjlMbkY0RTk2cGRUUFoxbFJieFdaMG4wX3RWOEk4?oc=5",
-      "summary": "Microsoft Copilot Dataverse: Rethinking AI Platform Security Dark Reading",
-      "badge": "new",
-      "date": "2026-08-04"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
-      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools reuters.com",
+      "title": "Hackers Can Weaponize Microsoft Copilot to Hijack CEO Accounts and Redirect Wire Transfers - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14TUhmZkRTYk5jUjg2YWdRdE55ekEwdV9BYV94RDN5eGlYQTBqenlNcFRzdXVQYnM2U1l3RGJScjZKMFVRY1dpZXlUbzYzX3FseHlrNEV6c0RyTm1wTXV1aFFZT3dSbXpiQTlobThuVUpRbThq0gF6QVVfeXFMTVRaV0JGWFByYnZ6OFhWWXZyMGxwN21fOG85YkdMZ3ZQSC1UeVljcHFTWF9mM0REUmVZbVgxWnZlRTUyd2VJYlM5TmhaVGlWM3RPTGhjbGlDd1U5RG5NNjlYUVk4LVlrZlRKTU9LTDItR2NnY2ZuS3hqZVE?oc=5",
+      "summary": "Hackers Can Weaponize Microsoft Copilot to Hijack CEO Accounts and Redirect Wire Transfers CyberSecurityNews",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -158,6 +166,14 @@
       "title": "Perplexity Has Successfully Overturned Amazon's Injunction On Its AI Shopping Bot - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVlqa1N5cVlmRXZiTkt0Nm53R1VOVlVIc0VzNTlVMGtaTmxvN2w1dTRmMS1iOUlZNFZmTldnY2RFM3QwRTJOVTc3ZzBTLWNySnBvMUQzODIyN0t0QzBiYUlGX0RvNXozakZYREY2MXNSNVhaZ2ZNaUk0X0NtRjgzOEpldGZmOHJDdTNZNU52ZmVxa0ZCYzJZVU45c3ZJQkRhRjUwWlY0czZ1RDRnazJkNmQ0Yw?oc=5",
       "summary": "Perplexity Has Successfully Overturned Amazon's Injunction On Its AI Shopping Bot Engadget",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdUaG1LOUY4WU1sbWdYSlR1UlRpbEpUeXZDTkVJU0s0RXZNR0wtN1Y2akJscWZtZ3NXZlZXaWNJZWpUdVlHdjFlUmItRDE5dm82RG5FWTc1N20xcTRlVUpvZjlGM3pmZ01GUUc0R21fTXZxWkk2akNYNXNtSEVrQTlsd2FTTFdKM1NNd19oTnlWc1ItYV81eDZZSS05VHd5QkR4clJzcnE5ci1yMkEyMFY0a2o3V00?oc=5",
+      "summary": "Amazon loses US court ban on Perplexity's AI shopping tools Reuters",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -187,9 +203,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains - tipranks.com",
+      "title": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDVfR3V5WFBWRUx6QU5Gb1R4OEtDR3prbExBZk15azJSaG9fOE9jZ2wtdUg1MXhmWWc3T2FQLVNTNWxQQXpNOU5zRXNSdHBBSzE5MEVkX3lLRzZrM0FDUDVyVlhhYzQ0aHpHOTZGcTB0TEQxUWtGY1FBUlpwWWRQVUZYSFhOU2NzWXo3OXFnbGg5cnRyN1M5OXhmZVZscXdfZjRKcFZYdERMblk?oc=5",
-      "summary": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains tipranks.com",
+      "summary": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains TipRanks",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -250,26 +266,18 @@
       "date": "2026-08-03"
     },
     {
-      "company": "Anthropic",
-      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing Reuters",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "White House to meet with top AI companies ahead of first big regulation push - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjdTVHYyRWp6bnY0MFdwelV6NXJtY3Y4MmpmQmZaYV91M19aY3RwTFhCeTZEUURac3hsdWRPNDVsTDVLdV83MERQajBIanFBTDZ5VzZtUHFrTG9Tc2YtQWVCcXBtb0NOSmdJWFlmd1JuZU8xUDhFY2N5UmN2c3I0dXJYYk91Szk0X0RwREtDRWE3R0J3Z1BSWDNn?oc=5",
-      "summary": "White House to meet with top AI companies ahead of first big regulation push CNN",
-      "badge": "new",
-      "date": "2026-08-03"
-    },
-    {
       "company": "Google",
       "title": "Inside our 353,000-person vibe coding course",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
+      "badge": "new",
+      "date": "2026-08-03"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot Dataverse: Rethinking AI Platform Security - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdURwaVlTLUtFbUlNSG54TFRRSXc4dXVPTUlJU2lacGhheFE3ZkVwX092RlUtM3NwbFBFUXFEaHFoTnk5Q0Y5OHNTN1pBMEZBeXZpX2cyY2VnalZiZUZTYjBUUElOY1ItLTBEV3FoOHVaTloxZ1RJNUhKSnJoRHEyZjJBLWI2eklLLWphUF9iYjlMbkY0RTk2cGRUUFoxbFJieFdaMG4wX3RWOEk4?oc=5",
+      "summary": "Microsoft Copilot Dataverse: Rethinking AI Platform Security Dark Reading",
       "badge": "new",
       "date": "2026-08-03"
     },
@@ -458,14 +466,6 @@
       "date": "2026-07-30"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Will Soon Release an AI Super App - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WjZBUk9nZUVlZ0M3aU90MXBwMWx2MUM3M1pFMjhLRkhaRkRUWmJnZmRiLVhKN2JoS2FaTU43QS1Fc0xMX3YwUlhSTHRYTGFWVFpIQktBSWg0VnJraDdOTjhfTHlDRDRuQ2FtakNsZXZJczBlUUZDbkxjYXhTNUk?oc=5",
-      "summary": "Microsoft Will Soon Release an AI Super App Gizmodo",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
       "company": "Apple",
       "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
       "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
@@ -523,9 +523,9 @@
     },
     {
       "company": "Amazon",
-      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - CNET",
+      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0E1WVd3dERWNnBmYjd3TXNOZjliNzBneEZKcERTZWdxVlVCRHNwV2RXckRzVW53YlFOZjRZNVNmbm8xZUEzZ2Jqazl6RmczMEdZYS1kTEtZSXVOdFZtT3dEQjVDaWRIOFZoU1BOZ1VJSkhkV1Izekxuc0F5RWlfQWcyQ0pYbTA1djRmQWNvNkMtWnFhNU0tU2NaNXpxbHctT2VYaS1n?oc=5",
-      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
+      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy cnet.com",
       "badge": "new",
       "date": "2026-07-23"
     },
