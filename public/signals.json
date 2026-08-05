@@ -1,11 +1,43 @@
 {
-  "updated": "2026-08-05T13:54:47Z",
+  "updated": "2026-08-05T19:22:05Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "AI agents fake identities, target real people in new security incident - CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRy1kMlN3OGN3MGJXWllocTc3MUFNNmpKRjd0MUVjcHNYbUtWWlNhMUp5ME5YNHZBVjVoaWJHWHlXaGlkcV9icFlvOHhKVVk1QzU3b2FVbW56dHNDOUI0U1NGRjd2U0UtTENzajdidWNjOHVuQmlmRzAtZlpsWmw5d3lXX2VQNFU?oc=5",
-      "summary": "AI agents fake identities, target real people in new security incident CNN Anthropic AI created fake profiles and impersonated people in attempted hack BBC Anthropic's AI model created fake identities",
+      "summary": "AI agents fake identities, target real people in new security incident CNN Anthropic's Mythos created fake identities to fool humans in new cyber incident CNBC Anthropic AI used fake profiles to targe",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why is Anthropic destroying books? | Kathryn James - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEVlRFRITW81TFBYNkJON2N0aGs4UXRmaG9qR0xaUG1HaVNlc0RGbEdPUlJXZjd0cHRDa1p1Mk1tTC16S3RBOWFuTHpCQmpTdzVVOW55cGNwOGk3clh2UGxhdnN4S09CTjUxbEk0anF5aXRjRGc2Q2VTSmQ1UmZvVlVwQWI0RkhNQVdV?oc=5",
+      "summary": "Why is Anthropic destroying books? | Kathryn James The Guardian",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI CNBC",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion: Why $372,000 from Anthropic employees should give Alaskans pause - adn.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9hWTc3RzRBVDAwcksxMlNTcE9Id2twNXNJc3E3RFZMbUlvaTVhbzdud2xGMXRTN3R4ZGdQZnVIRnlneWZpVkYwR3dJcGpKcV9vR0ZGbkFzRGtyb0xoMUM3Rl8zUUJVUWVPekdmcDRNeVVfa2tYdmpUQ29uOVYtZ0lueEFHeGFwMkNtdHhSVGhGOGM4Wm9lS3dieEFhNklWUWtvNGRfTlAyU1pNQ0pTeA?oc=5",
+      "summary": "Opinion: Why $372,000 from Anthropic employees should give Alaskans pause adn.com",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "It's Official: Anthropic Is Building an in-House Chip Team for Claude - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG53MU9DNjhkQ0Z1X19kRl9qTUk0ZFgtR2dHZGtWbmdtMVhEX3pyZmJLMkNrRHJUWDUtaUZGRGZfb0dVbEgtZ29iTkQtdmJNQjRHTVVmbWJqODBZY1YwekFoWk9HUWVKNE9xSmxVQmNFS2xVQ3JOeWlfYWFEY0p1a3ktdTAzaVRKcmc?oc=5",
+      "summary": "It's Official: Anthropic Is Building an in-House Chip Team for Claude Business Insider",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -22,22 +54,6 @@
       "title": "China’s AI blitz puts OpenAI and Anthropic in a ‘death zone’ on price - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFo2N3pjS2JHOEJrU1NRN0U5QTZYa0xMeWh6OV9oeGN0c0x4UGZxREp3aUoxOTU0VldZeU1YV2R1MHRsNktsbkxkd0xvVlktNXNIOU82UVB6R1B1Ml9IbXRBOGlUejE3MjhnVnNhbUpWSXFGaDZNMTFoc2M5Wjd5a05mTm5CZ2dqcHNmanZkSlJ6ZVc5a3BlNDRWLWVVV21BUWZXWi1BQllPTU1Rb2FJ?oc=5",
       "summary": "China’s AI blitz puts OpenAI and Anthropic in a ‘death zone’ on price Los Angeles Times",
-      "badge": "new",
-      "date": "2026-08-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Confirms It's Building an in-House Chip Team for Claude - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG53MU9DNjhkQ0Z1X19kRl9qTUk0ZFgtR2dHZGtWbmdtMVhEX3pyZmJLMkNrRHJUWDUtaUZGRGZfb0dVbEgtZ29iTkQtdmJNQjRHTVVmbWJqODBZY1YwekFoWk9HUWVKNE9xSmxVQmNFS2xVQ3JOeWlfYWFEY0p1a3ktdTAzaVRKcmc?oc=5",
-      "summary": "Anthropic Confirms It's Building an in-House Chip Team for Claude Business Insider",
-      "badge": "new",
-      "date": "2026-08-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Why is Anthropic destroying books? | Kathryn James - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEVlRFRITW81TFBYNkJON2N0aGs4UXRmaG9qR0xaUG1HaVNlc0RGbEdPUlJXZjd0cHRDa1p1Mk1tTC16S3RBOWFuTHpCQmpTdzVVOW55cGNwOGk3clh2UGxhdnN4S09CTjUxbEk0anF5aXRjRGc2Q2VTSmQ1UmZvVlVwQWI0RkhNQVdV?oc=5",
-      "summary": "Why is Anthropic destroying books? | Kathryn James The Guardian",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -62,6 +78,22 @@
       "title": "Anthropic's AI used fake human profiles to trick people in safety test - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cW1FRW5ELW1tV0ZySExSZG4zek5yT3BaZVBJMDdBYms0Wk4ySEQ1YjVNVnp6X2RGR29ERG9OakpRQlpRT1JvTXhtZVdMTWVIV1JxUFdUQU9GUQ?oc=5",
       "summary": "Anthropic's AI used fake human profiles to trick people in safety test BBC Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture CNBC AI Just Went Rogue Again. This Time",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft tells engineers to curb their token-burning enthusiasm - The Register",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODFNVnlURTRIa0JrUkhjanR4WVQ0N05WMkNialVVeU02Zm45MDFKZEE4OEpRT0xBQ0lRWTk3X1ROckp2dUw5eHE5WlJOUjFqRjdFVXcwN19UcjdFbl9XR05wNjBhbXdyb0R3TFZrbUZmbWM3eS1PRFU4QzJBY3Z1S0tHaEg0M0ZNX25RbzJFRGt3U0JzaVNScnJzRjRrVVN0MG9JR3FXbG9DdnhfaFhreEFCYmc0UGk5WThqTzhR?oc=5",
+      "summary": "Microsoft tells engineers to curb their token-burning enthusiasm The Register",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV5OEtoaW9BSkotZ3hmTnhXSmxvcmNscjJOVXVZUml4d1VJUUI4SHZzbzJ0RnRQYzZoMlItWUpnVDJmN2s3Z0E1cnVVUjhsVVlESEhZM05Hb3dRbXpPamwxcW55T0Fyc2huT0d0VjlqcllDdjFOUmFjVnNfa1VnZ2ZTZ2cxeG1reFlRR0Ywbm1ia2xxVDlYaEFMTENma3RRMkl6T0wydEZQS3hleVhkZi0xUHB3RXFUTVJMWE5n0gG8AUFVX3lxTE5uZGc4NXE0bFFWZHMyNTQwdk5ORjJsR3R0NkZRb0hfSFFSVlhycldzdVRTZi1KMFk0MlJUSTljczU4WlpOTTZyZ3p6OTdzaTFBNGY3dUNfeFJPYThibHM2WkJ3Z2RILWpVRE1WMmNCX2Z0SU1lbWthQUxISENULXo2R0hRckxXcE9WTjdidU5zLTJPQklKUHYtVHZ4NVFuckg5aC13M2UtemZ1aTJfRUVQZm5iTC0zY0MtR0p0?oc=5",
+      "summary": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation Neowin",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -107,9 +139,33 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity’s Appeal Win Over Amazon Keeps Hacking Liability Risk - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVDRVUkMxcXFYd2FJOGprQ1lqc3RqeW9zZ21SVGszekItT1BFbDNmeTZ1NTNtd0E0aHlGQVQ5UUxVT1k4c2poWFY4X3VRNGZBY3FYdEp4UUFrT280TnhxSTc2R2ZEYW1icFRtT2JiUHNvcVF4Q1FCaDd5TU1HazhUaGJ0VHcwOXRQZHpHUk5FZVlQMDlCT2J1a1lNMnRydGQ5QVlRdWNNT18?oc=5",
+      "summary": "Perplexity’s Appeal Win Over Amazon Keeps Hacking Liability Risk Bloomberg Law News",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Perplexity",
       "title": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXB0X2lYWVlKQWhDRzZEMXdmcXh1RkZpdGcybWszcGliNEs2YWYtS2V0M3pvMmlKU0dyLWV3Nmpnb1FCSk4yc2RNQTRfR0F4cmxLd1puTzlVM3o3X1AtbFBOaURVRUFmbmRScjB6OTFnZDNzOVRYMm9IdkpJN1BRUUlPeFVfeUN3Y3Z3MEp3aTR5Y1BoZXdhenJBelNJOF9wNlc5a2ZmdVpGdw?oc=5",
       "summary": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon PYMNTS.com",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Why blind users are embracing Meta’s AI smart glasses - ktla.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnZFQjBkZzlwUklocVFEN01TeGljMlZOZ3VDSjZXWW4talRkS2kza0Jta2NnUDhwbEZOd2Y3MDRSZ0FfeVU1b1dOaGF6NEZfb29Jb0doTmVYN0ZXTkNLcEVmemFjX3JCVWJiM3oydTVJTEVZTThWUEh4UWNRYzNWVHVlcU9iN2Riczhz0gGQAUFVX3lxTE9jTHQtczIzZ3V1clJPbmFKUlhrYTdDa0swQ1B5SHN0aThiT0hsM0QyWXFPejdIMlhOV1ZDSGszSDNJRFFCWTF6ejF2THU3N0hEMV9GRnBvMk5kLWhjaU9UYVYyQnpKWDc0eGpmUFFuLXFyWENsbHduYXRLTnYzV28xYXRka1QyWXU5VzBHYlR4Rg?oc=5",
+      "summary": "Why blind users are embracing Meta’s AI smart glasses ktla.com",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta makes AI Developer Assistant its primary support option - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTBHek5udGlkV2poS0xqVlZqZEJMXzVpWGFYdlBYN2dyNi1sZlF0bndjNHdZbjZlc2hCMzVRNGVaVnlOd2hPa19jcGJ3NHM1RGQ2NVhuR3FiQmNfcmtLbnFPd2xGVUtrd2dPcGtwQ0JmTVpyaFV1dW5BUkl5OXNOR2FkN3Q1WDBEUTR4ZHcxNHBGMWI0TFdGQzA3NlBCTGI5NEU1YkFHeTlrUQ?oc=5",
+      "summary": "Meta makes AI Developer Assistant its primary support option Social Media Today",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -130,22 +186,6 @@
       "date": "2026-08-04"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5",
-      "summary": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2JyWl9wTHQ1RHBJZEp6a1NQOExuUEZyb1RieEdTSkJ6OVhlT1lIR2NteENWblYzNURiNlR5dDZZN0FtZWlMNDFoUEE5eV82WXloVU5qZHhKWE9LUlNZcUtzZWFEMTF0S3lMU25HTS05X05DQ3huWWl0UzJCV1U3WDhzczczWDZvUTZDQnFfVU5fQnV0eUFPdHdn?oc=5",
-      "summary": "Anthropic signs $10B deal with AI cloud startup Volta TechCrunch",
-      "badge": "new",
-      "date": "2026-08-04"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -158,6 +198,14 @@
       "title": "Hackers Can Weaponize Microsoft Copilot to Hijack CEO Accounts and Redirect Wire Transfers - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14TUhmZkRTYk5jUjg2YWdRdE55ekEwdV9BYV94RDN5eGlYQTBqenlNcFRzdXVQYnM2U1l3RGJScjZKMFVRY1dpZXlUbzYzX3FseHlrNEV6c0RyTm1wTXV1aFFZT3dSbXpiQTlobThuVUpRbThq0gF6QVVfeXFMTVRaV0JGWFByYnZ6OFhWWXZyMGxwN21fOG85YkdMZ3ZQSC1UeVljcHFTWF9mM0REUmVZbVgxWnZlRTUyd2VJYlM5TmhaVGlWM3RPTGhjbGlDd1U5RG5NNjlYUVk4LVlrZlRKTU9LTDItR2NnY2ZuS3hqZVE?oc=5",
       "summary": "Hackers Can Weaponize Microsoft Copilot to Hijack CEO Accounts and Redirect Wire Transfers CyberSecurityNews",
+      "badge": "new",
+      "date": "2026-08-04"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot AI Predicts the Price of XRP by The End of 2026 - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1zRzRHb3hYWEl0cEFnYU4tZnlnTjNBNVJ1b1Zsbm5tVGtramNZZ0V6NWFQV0p4Q01jS0JrUmlrVl9XV0d4QW1SYzJNV3Y3UXBOZFQ0Q3Q5ZVUyVmd1aXVRaXR6c0l5UFQ3RldYUVVwbURycTZ2VjlOVERnc29IVUUybFN6cy0wUzBqVXpZaHk1QjRjbUEzTGNB?oc=5",
+      "summary": "Microsoft Copilot AI Predicts the Price of XRP by The End of 2026 Cryptonews",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -211,17 +259,17 @@
     },
     {
       "company": "Meta",
-      "title": "Inside Meta’s AI data center in Temple: See photos from the facility - Austin American-Statesman",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHNSbG1NVFpZVXhNekNNNjlueFBIVUVtZ3lMYzVaNTRmZEdqclBEbTNFNVE1dXlabmpQSzFJeWxycmdOVjVQTkJGdlZqTzZDZnl0ZjlfQjBhN1Y1LWs2NE8xR3JJdzlMUlZHNnQzUHRNR2pXdTlnYzJjcDNvNENUMl9MZDdsd0Y3cnIxbTIzdG1ONW5jVDY4cUxSVzRKSjJpR2c?oc=5",
-      "summary": "Inside Meta’s AI data center in Temple: See photos from the facility Austin American-Statesman",
+      "title": "Groups question Entergy’s plan to build gas plants for Meta’s AI data center; Entergy responds - fox8live.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEVKNEpSRjk4XzRpRTQ2QXFGUXV3dnRoMW1tOXdoaTBrbnZhY0dlY01jZTNCT2xqcEtuanhEMjJ6MnNzeEVHUUo2eW1SWTdUczZBMVh3T01HSjhGMEVES3haamRXc1JKYy1TX2dhZWVhb1VtYXdqUXFscHdGX2xtLXNpS29UT09RX0x5bkxMOHFONHpMRVFSNVlmc2F4Z1htV1d1eDNBUEJhZDRSTTBnSkN1bVhxWmVOT2VlZDlB0gHSAUFVX3lxTE1raThVRGRvSFhPbGJ0YXlqZ0huNXJTTkoxeU5CWGx2TUR2VWZmYnN1cUIteFB2RmJrb2F3ekplQzd4aDBndUJOMUMyN3kyR0t6VjJ2c2VJc2JCa0xrMFc5cVJtNWFIUDRNRzU4clhfbzFBQV9Ja2NHZTFuc24xMmRDRm54eXVoZ21wLWNrYWdZWUFLVnl1eExkbVZTRUJkLXFmUnlEMEJaM0lselVWOHFOUWx0Sy1KRFBKVVJVeGdoUmU3dVc2T29hY19NcmJYUFZZUQ?oc=5",
+      "summary": "Groups question Entergy’s plan to build gas plants for Meta’s AI data center; Entergy responds fox8live.com",
       "badge": "new",
       "date": "2026-08-04"
     },
     {
       "company": "Meta",
-      "title": "Groups question Entergy’s plan to build gas plants for Meta’s AI data center; Entergy responds - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEVKNEpSRjk4XzRpRTQ2QXFGUXV3dnRoMW1tOXdoaTBrbnZhY0dlY01jZTNCT2xqcEtuanhEMjJ6MnNzeEVHUUo2eW1SWTdUczZBMVh3T01HSjhGMEVES3haamRXc1JKYy1TX2dhZWVhb1VtYXdqUXFscHdGX2xtLXNpS29UT09RX0x5bkxMOHFONHpMRVFSNVlmc2F4Z1htV1d1eDNBUEJhZDRSTTBnSkN1bVhxWmVOT2VlZDlB0gHSAUFVX3lxTE1raThVRGRvSFhPbGJ0YXlqZ0huNXJTTkoxeU5CWGx2TUR2VWZmYnN1cUIteFB2RmJrb2F3ekplQzd4aDBndUJOMUMyN3kyR0t6VjJ2c2VJc2JCa0xrMFc5cVJtNWFIUDRNRzU4clhfbzFBQV9Ja2NHZTFuc24xMmRDRm54eXVoZ21wLWNrYWdZWUFLVnl1eExkbVZTRUJkLXFmUnlEMEJaM0lselVWOHFOUWx0Sy1KRFBKVVJVeGdoUmU3dVc2T29hY19NcmJYUFZZUQ?oc=5",
-      "summary": "Groups question Entergy’s plan to build gas plants for Meta’s AI data center; Entergy responds fox8live.com",
+      "title": "Inside Meta’s AI data center in Temple: See photos from the facility - statesman.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHNSbG1NVFpZVXhNekNNNjlueFBIVUVtZ3lMYzVaNTRmZEdqclBEbTNFNVE1dXlabmpQSzFJeWxycmdOVjVQTkJGdlZqTzZDZnl0ZjlfQjBhN1Y1LWs2NE8xR3JJdzlMUlZHNnQzUHRNR2pXdTlnYzJjcDNvNENUMl9MZDdsd0Y3cnIxbTIzdG1ONW5jVDY4cUxSVzRKSjJpR2c?oc=5",
+      "summary": "Inside Meta’s AI data center in Temple: See photos from the facility statesman.com",
       "badge": "new",
       "date": "2026-08-04"
     },
@@ -323,17 +371,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - nltimes.nl",
+      "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - NL Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDhZMWVJM1RGUHRMc1ZSOFFwQk16em5ZUHdCRjVDMmxyWW91Y2Q1TzJaYWJoM0NHd3RneDZtclNBeTVBUWFmaEs2bkhXeWtHOTFQTE9EV0R5RFhvX09kZWFncEUtaGJrSnIyT3MtbWYzZDh3aGU1bE9FVmdtX1NBQTMyamk5azc0ckw2aVlhc2tiWHpFNlRaWnNuaEVWcjlDaS02ZjBrVU1rOUk?oc=5",
-      "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent nltimes.nl",
-      "badge": "new",
-      "date": "2026-08-02"
-    },
-    {
-      "company": "Meta",
-      "title": "What’s the Deal With Meta’s ‘Pervert Glasses’? - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbjZ4WDRvOXhldU93V1J0V2VPMUtLaE9xQ1J4ZzdJM1I3VFhyUTk1NDQ0S0JkSGxQdlNEdVpqQlFXRXFUc0FjR0ZMSmVab1FLbm85am1pSjU1R213S3lrRjhQbXgzeGo1RG51R2owYmxoU3Qy?oc=5",
-      "summary": "What’s the Deal With Meta’s ‘Pervert Glasses’? Decrypt",
+      "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent NL Times",
       "badge": "new",
       "date": "2026-08-02"
     },
@@ -410,14 +450,6 @@
       "date": "2026-07-31"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft confirms an AI worm is propagating through Copilot and other MS apps - csoonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3VwbzU1X19hUmkxT1Jnbjh2QmRuTzVRLVdZcUdJY25ueTBqYnR6X2o0azc1SHpKZ1pyTlRwaDU2RnI2VjBtckZKNEp4SXEyU1lKbXROczQ2U0ZSZDdxcjhlNVVMdEdrTG5QNDlXSlhkTzVEZHhUdTFaYVIzN3lzbGUwaXFaX1JsNUVObHRzcGZ6N1R3WkFHYi1JZkNadGwwVXZzbFpVeUxtOHM2d0FVbzcwX2pyc29rX2hzM2hCRHJBVkU?oc=5",
-      "summary": "Microsoft confirms an AI worm is propagating through Copilot and other MS apps csoonline.com",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVhrM1VrbW1hT2x1Q0NrXy1jZkFWazdFNWtGN2VNV19lYnh4bXdjMnE1Ym90V3VQMDFSbTdDLTRIenM3RFFoa0psNmljMFdxODJ4U1hzcUpmZWhLUnVJcktPZ3FXamNnVTc4dFRhZ08tdjVyYlE4NVY0LXhPYU9nUUsxRWs5R3BUbE5BMllTbTE3MjdFWUp3ZVdKWmR0ZDgxYVdqYklmX2R5Z2lZTTlmN0hTdmtVdw?oc=5",
@@ -432,38 +464,6 @@
       "summary": "Reddit's DMCA Claims Against Perplexity, SerpApi Survive AI Scraping Challenge Law.com",
       "badge": "new",
       "date": "2026-07-31"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents - forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
-      "summary": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents forbes.com",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Meta",
-      "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzJTU2h6M0U4NTdKUVFzUjBUaXc1TkNYY0RCeDJQOFdaSndJSkpHdEdCbWh4ZEd2dzVncndZZmN0NHdrRlF4OUVwUXl2enpUTE5FZGtDSUhScEd3N1VBOEFFY1RBaEZZMGpraUlYSlEtVGVuTG9JMUxHOXlBVDhoaEhIaDRsVlpUNnJNcXgtY0xFVDNQWkprRXFoMGZwdXBHdHJhWmNFQXQ1cjJRMVFBNHBHMHRPbnhIRkdEX3VJUVFwa1RSbk1vZGlCck1lMEt5aWdVME1qc1c?oc=5",
-      "summary": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin TradingView",
-      "badge": "new",
-      "date": "2026-07-31"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UVlndWNmOFUyeXFBWERsa2pXbzEyYXhxSm5sLS1lVzNWSTZiTy1nNXlYNFpzZzJOM0dzMTJ0U0prUG0wM0k4ZTVoNUs4Sm1WOFJQckl3bWtfNk1tOGM4MTdyZWx6QnNRQnh1ZmpfS2VRczNscVdUVGpHLXJsSDA?oc=5",
-      "summary": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents The Hacker News",
-      "badge": "new",
-      "date": "2026-07-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUhROXNQYUtJSHFqY2R6eVhZNWhoZFpIN2xNaGdISVV3TFpGZmRYZkhzRFRoQ0dwTHFETEFyVko2bGctQ2JpZlBPS3Rja25qQTlUNVFXLU96R3dabDd6VTJQaXJJOFhIcmlNa2JwbWxoaDdpbGlzTWpXZ3lDd0pDVWh2SXZBTy1zb1hyQjV6Z0xkeWxuTWk0T2lKVTBacVEybTYxYkdRd3RrSHFhX3NiTkNhM2RaNm5RWUluZEZTaG5lQQ?oc=5",
-      "summary": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets The Information",
-      "badge": "watch",
-      "date": "2026-07-30"
     },
     {
       "company": "Apple",
