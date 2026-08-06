@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:25:30Z",
+  "updated": "2026-08-06T13:52:16Z",
   "signals": [
     {
       "company": "Meta",
@@ -14,6 +14,14 @@
       "title": "Meta AI agent latest model to hack external company during testing - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkVENGZ3Y3l5S2ZIc1JGaWItZ0RjSkFHa29Nd1JiSE8tS1dyOTVwazhqa3ZaeWx0bm5sOGM2YzIwYVZVRHduTXZwUThNSUh2MUgxNkpjRzExV3JUU01NbE93QzZWWGV4T2NSNzVrYkR5Y08xREdjTzlvLXVMS2swdnRFTnlHaTVidkY0M0RSem9NX0c0R3BvdVRLdy01dkJXU2RVSUdyV2NJR1pxY1E?oc=5",
       "summary": "Meta AI agent latest model to hack external company during testing ABC News & Headlines – Australian Broadcasting Corporation",
+      "badge": "new",
+      "date": "2026-08-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Millennium Partners With Anthropic to Develop AI Risk Analyst - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0VBek1nQnIxb0ZfSUtEdVhXa1NDbmRySHNwOVluQjBCSXJtVTBjVVBIa0VjVVBqNm1oQTE4Vjhha2lhbVdJS2FmNk5mMC10OXJiZXBicWJybVdhTS1rWDU5Q0hTZ2dyZUhBRldiQkxla3J0Rm5BUnBlMDJta1dhYlhLc1NXWGZ6bHlLX2V1VC1NakV3djBOWC0zSEtFM1lsd2xQSldDQXRKYzhtNGdMQzBn?oc=5",
+      "summary": "Millennium Partners With Anthropic to Develop AI Risk Analyst bloomberg.com",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -85,7 +93,31 @@
       "company": "Meta",
       "title": "An AI model from Meta also hacked another company during testing - CNN",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5",
-      "summary": "An AI model from Meta also hacked another company during testing CNN Meta AI model hacks another company during testing Reuters Meta says AI model accessed the internet and hacked another firm BBC",
+      "summary": "An AI model from Meta also hacked another company during testing CNN Meta AI model hacks another company during testing Reuters Meta's AI model also breached a third-party company's systems during sec",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGRXRERPd014TW9tQVpvejVDUElQUHhsVVBkUU5ZR0FoaGdsU3R0Mlp2dFFqV3ZicVZDVTdUQjd2RkxOQWNtdHBFRWZZcFVrRHZjajc4ODZsRmFKRUN1MzJkRWVGQWdCNVZWVmpOak9HM1hDbFB2Z1pRbXNZNHhoYWVhUFJEWl81eUN5b1IxRFAydDZHT1NLZlpfWUg?oc=5",
+      "summary": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery WIRED",
+      "badge": "new",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launches Muse Code, an AI agent for large code bases - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY19KajJZY25ldlo5YVB0WE0tRWZ4bmZubzh4VG1abTZDX19EaUJjVVdKRVpvemNXdkFHSlFxRDJYZEFLZzYxRml2Y1B3Z3dsSEVFOWNoMFM3SHZ3N0RSXzZhM0c4OTVscmNLT1B2R1JmTmhlRk9tTmNFbFJQV1g0Mk1DMGQxWW1ZWHlpbzB0UUdWYXRUeEE?oc=5",
+      "summary": "Meta launches Muse Code, an AI agent for large code bases TechCrunch",
+      "badge": "hot",
+      "date": "2026-08-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Muse Code is yet another AI coding agent on macOS - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGJxd1poczRpUHh1VkdScmxmaURLQVZlTllpZEVxSExYT1ZaMnl5NjdBYWJNVkdZYUhYMEtudy1xcG9wTlJ6T1FqMnBTejVfa0JIUHFxcWZOZF91a09tYlh5T3loOWg3d0xGNF83X2h2S20wOEM5aHNaRHNjWWtPQzF2ajZsOFVUdlZid2JyNHl5dDlmTzk2bmhqZnp3Rzg?oc=5",
+      "summary": "Meta's Muse Code is yet another AI coding agent on macOS AppleInsider",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -114,22 +146,6 @@
       "date": "2026-08-05"
     },
     {
-      "company": "Meta",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGRXRERPd014TW9tQVpvejVDUElQUHhsVVBkUU5ZR0FoaGdsU3R0Mlp2dFFqV3ZicVZDVTdUQjd2RkxOQWNtdHBFRWZZcFVrRHZjajc4ODZsRmFKRUN1MzJkRWVGQWdCNVZWVmpOak9HM1hDbFB2Z1pRbXNZNHhoYWVhUFJEWl81eUN5b1IxRFAydDZHT1NLZlpfWUg?oc=5",
-      "summary": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery WIRED",
-      "badge": "new",
-      "date": "2026-08-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta makes AI Developer Assistant its primary support option - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTBHek5udGlkV2poS0xqVlZqZEJMXzVpWGFYdlBYN2dyNi1sZlF0bndjNHdZbjZlc2hCMzVRNGVaVnlOd2hPa19jcGJ3NHM1RGQ2NVhuR3FiQmNfcmtLbnFPd2xGVUtrd2dPcGtwQ0JmTVpyaFV1dW5BUkl5OXNOR2FkN3Q1WDBEUTR4ZHcxNHBGMWI0TFdGQzA3NlBCTGI5NEU1YkFHeTlrUQ?oc=5",
-      "summary": "Meta makes AI Developer Assistant its primary support option Social Media Today",
-      "badge": "new",
-      "date": "2026-08-05"
-    },
-    {
       "company": "Anthropic",
       "title": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5",
@@ -139,9 +155,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
+      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5",
-      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic Bloomberg.com",
+      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic bloomberg.com",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -149,7 +165,7 @@
       "company": "Anthropic",
       "title": "AI agents fake identities, target real people in new security incident - CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRy1kMlN3OGN3MGJXWllocTc3MUFNNmpKRjd0MUVjcHNYbUtWWlNhMUp5ME5YNHZBVjVoaWJHWHlXaGlkcV9icFlvOHhKVVk1QzU3b2FVbW56dHNDOUI0U1NGRjd2U0UtTENzajdidWNjOHVuQmlmRzAtZlpsWmw5d3lXX2VQNFU?oc=5",
-      "summary": "AI agents fake identities, target real people in new security incident CNN Anthropic’s AI used fake identities, malware in rogue attack on GitHub project Ars Technica Anthropic's Mythos created fake i",
+      "summary": "AI agents fake identities, target real people in new security incident CNN Anthropic's Mythos created fake identities to fool humans in new cyber incident CNBC Meta says its AI model hacked into anoth",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -186,10 +202,10 @@
       "date": "2026-08-05"
     },
     {
-      "company": "Anthropic",
-      "title": "It's Official: Anthropic Is Building an in-House Chip Team for Claude - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG53MU9DNjhkQ0Z1X19kRl9qTUk0ZFgtR2dHZGtWbmdtMVhEX3pyZmJLMkNrRHJUWDUtaUZGRGZfb0dVbEgtZ29iTkQtdmJNQjRHTVVmbWJqODBZY1YwekFoWk9HUWVKNE9xSmxVQmNFS2xVQ3JOeWlfYWFEY0p1a3ktdTAzaVRKcmc?oc=5",
-      "summary": "It's Official: Anthropic Is Building an in-House Chip Team for Claude Business Insider",
+      "company": "Microsoft",
+      "title": "Microsoft tells engineers to curb their token-burning enthusiasm - The Register",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODFNVnlURTRIa0JrUkhjanR4WVQ0N05WMkNialVVeU02Zm45MDFKZEE4OEpRT0xBQ0lRWTk3X1ROckp2dUw5eHE5WlJOUjFqRjdFVXcwN19UcjdFbl9XR05wNjBhbXdyb0R3TFZrbUZmbWM3eS1PRFU4QzJBY3Z1S0tHaEg0M0ZNX25RbzJFRGt3U0JzaVNScnJzRjRrVVN0MG9JR3FXbG9DdnhfaFhreEFCYmc0UGk5WThqTzhR?oc=5",
+      "summary": "Microsoft tells engineers to curb their token-burning enthusiasm The Register",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -203,9 +219,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft tells engineers to curb their token-burning enthusiasm - The Register",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODFNVnlURTRIa0JrUkhjanR4WVQ0N05WMkNialVVeU02Zm45MDFKZEE4OEpRT0xBQ0lRWTk3X1ROckp2dUw5eHE5WlJOUjFqRjdFVXcwN19UcjdFbl9XR05wNjBhbXdyb0R3TFZrbUZmbWM3eS1PRFU4QzJBY3Z1S0tHaEg0M0ZNX25RbzJFRGt3U0JzaVNScnJzRjRrVVN0MG9JR3FXbG9DdnhfaFhreEFCYmc0UGk5WThqTzhR?oc=5",
-      "summary": "Microsoft tells engineers to curb their token-burning enthusiasm The Register",
+      "title": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV5OEtoaW9BSkotZ3hmTnhXSmxvcmNscjJOVXVZUml4d1VJUUI4SHZzbzJ0RnRQYzZoMlItWUpnVDJmN2s3Z0E1cnVVUjhsVVlESEhZM05Hb3dRbXpPamwxcW55T0Fyc2huT0d0VjlqcllDdjFOUmFjVnNfa1VnZ2ZTZ2cxeG1reFlRR0Ywbm1ia2xxVDlYaEFMTENma3RRMkl6T0wydEZQS3hleVhkZi0xUHB3RXFUTVJMWE5n0gG8AUFVX3lxTE5uZGc4NXE0bFFWZHMyNTQwdk5ORjJsR3R0NkZRb0hfSFFSVlhycldzdVRTZi1KMFk0MlJUSTljczU4WlpOTTZyZ3p6OTdzaTFBNGY3dUNfeFJPYThibHM2WkJ3Z2RILWpVRE1WMmNCX2Z0SU1lbWthQUxISENULXo2R0hRckxXcE9WTjdidU5zLTJPQklKUHYtVHZ4NVFuckg5aC13M2UtemZ1aTJfRUVQZm5iTC0zY0MtR0p0?oc=5",
+      "summary": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation Neowin",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -214,14 +230,6 @@
       "title": "Microsoft Copilot EVP on AI growth and adoption - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUpMaHVQeXBuXzhZRlR6emxMS2tCbERkR1ZYQnBHUjhyN2VVcUdCOWsxTUwySG8xd3kwNlozOHhHRjgzWFB4MlBTdmN5OEx1VFBuOWxLTVg0bHd2bzNyamNUVUFDM1hVUjRUV2JEc1dPRmpRVS1uRUEwaE5UX2E3V0pKYi1xd1VjUXFadXM0cENZNTRmbXZBM3R3?oc=5",
       "summary": "Microsoft Copilot EVP on AI growth and adoption Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV5OEtoaW9BSkotZ3hmTnhXSmxvcmNscjJOVXVZUml4d1VJUUI4SHZzbzJ0RnRQYzZoMlItWUpnVDJmN2s3Z0E1cnVVUjhsVVlESEhZM05Hb3dRbXpPamwxcW55T0Fyc2huT0d0VjlqcllDdjFOUmFjVnNfa1VnZ2ZTZ2cxeG1reFlRR0Ywbm1ia2xxVDlYaEFMTENma3RRMkl6T0wydEZQS3hleVhkZi0xUHB3RXFUTVJMWE5n0gG8AUFVX3lxTE5uZGc4NXE0bFFWZHMyNTQwdk5ORjJsR3R0NkZRb0hfSFFSVlhycldzdVRTZi1KMFk0MlJUSTljczU4WlpOTTZyZ3p6OTdzaTFBNGY3dUNfeFJPYThibHM2WkJ3Z2RILWpVRE1WMmNCX2Z0SU1lbWthQUxISENULXo2R0hRckxXcE9WTjdidU5zLTJPQklKUHYtVHZ4NVFuckg5aC13M2UtemZ1aTJfRUVQZm5iTC0zY0MtR0p0?oc=5",
-      "summary": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation Neowin",
       "badge": "new",
       "date": "2026-08-05"
     },
@@ -282,14 +290,6 @@
       "date": "2026-08-04"
     },
     {
-      "company": "Meta",
-      "title": "Groups question Entergy’s plan to build gas plants for Meta’s AI data center; Entergy responds - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEVKNEpSRjk4XzRpRTQ2QXFGUXV3dnRoMW1tOXdoaTBrbnZhY0dlY01jZTNCT2xqcEtuanhEMjJ6MnNzeEVHUUo2eW1SWTdUczZBMVh3T01HSjhGMEVES3haamRXc1JKYy1TX2dhZWVhb1VtYXdqUXFscHdGX2xtLXNpS29UT09RX0x5bkxMOHFONHpMRVFSNVlmc2F4Z1htV1d1eDNBUEJhZDRSTTBnSkN1bVhxWmVOT2VlZDlB0gHSAUFVX3lxTE1raThVRGRvSFhPbGJ0YXlqZ0huNXJTTkoxeU5CWGx2TUR2VWZmYnN1cUIteFB2RmJrb2F3ekplQzd4aDBndUJOMUMyN3kyR0t6VjJ2c2VJc2JCa0xrMFc5cVJtNWFIUDRNRzU4clhfbzFBQV9Ja2NHZTFuc24xMmRDRm54eXVoZ21wLWNrYWdZWUFLVnl1eExkbVZTRUJkLXFmUnlEMEJaM0lselVWOHFOUWx0Sy1KRFBKVVJVeGdoUmU3dVc2T29hY19NcmJYUFZZUQ?oc=5",
-      "summary": "Groups question Entergy’s plan to build gas plants for Meta’s AI data center; Entergy responds fox8live.com",
-      "badge": "new",
-      "date": "2026-08-04"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
@@ -331,17 +331,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA - Electronic Frontier Foundation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3ZYVzVVTVkwRmx1M2J6bjdFUlh5VnhXdGZ0VGpSeWc0Yl81b2ZMWk1RTlJBaVdtbW8xQV95cUV4cTdhUzhhbXRSSWxQRk1iaXZhbmpXWE1IOTh6WTFmSldLRjZXbFVCVTVHQ2hvQ19CSzJrX2dBTlJSX2N1eGhhLUM3V3FBbXZoQ1p1SFp3S0FiMzY4dXpLWUMyX2dwLUxkVldCRUtR?oc=5",
-      "summary": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA Electronic Frontier Foundation",
+      "title": "Perplexity Has Successfully Overturned Amazon's Injunction On Its AI Shopping Bot - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVlqa1N5cVlmRXZiTkt0Nm53R1VOVlVIc0VzNTlVMGtaTmxvN2w1dTRmMS1iOUlZNFZmTldnY2RFM3QwRTJOVTc3ZzBTLWNySnBvMUQzODIyN0t0QzBiYUlGX0RvNXozakZYREY2MXNSNVhaZ2ZNaUk0X0NtRjgzOEpldGZmOHJDdTNZNU52ZmVxa0ZCYzJZVU45c3ZJQkRhRjUwWlY0czZ1RDRnazJkNmQ0Yw?oc=5",
+      "summary": "Perplexity Has Successfully Overturned Amazon's Injunction On Its AI Shopping Bot Engadget",
       "badge": "new",
       "date": "2026-08-04"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Has Successfully Overturned Amazon's Injunction On Its AI Shopping Bot - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVlqa1N5cVlmRXZiTkt0Nm53R1VOVlVIc0VzNTlVMGtaTmxvN2w1dTRmMS1iOUlZNFZmTldnY2RFM3QwRTJOVTc3ZzBTLWNySnBvMUQzODIyN0t0QzBiYUlGX0RvNXozakZYREY2MXNSNVhaZ2ZNaUk0X0NtRjgzOEpldGZmOHJDdTNZNU52ZmVxa0ZCYzJZVU45c3ZJQkRhRjUwWlY0czZ1RDRnazJkNmQ0Yw?oc=5",
-      "summary": "Perplexity Has Successfully Overturned Amazon's Injunction On Its AI Shopping Bot Engadget",
+      "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA - Electronic Frontier Foundation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3ZYVzVVTVkwRmx1M2J6bjdFUlh5VnhXdGZ0VGpSeWc0Yl81b2ZMWk1RTlJBaVdtbW8xQV95cUV4cTdhUzhhbXRSSWxQRk1iaXZhbmpXWE1IOTh6WTFmSldLRjZXbFVCVTVHQ2hvQ19CSzJrX2dBTlJSX2N1eGhhLUM3V3FBbXZoQ1p1SFp3S0FiMzY4dXpLWUMyX2dwLUxkVldCRUtR?oc=5",
+      "summary": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA Electronic Frontier Foundation",
       "badge": "new",
       "date": "2026-08-04"
     },
