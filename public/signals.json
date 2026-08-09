@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-09T12:38:32Z",
+  "updated": "2026-08-09T18:32:07Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
       "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC",
+      "badge": "new",
+      "date": "2026-08-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The world's leading AI companies are all struggling to contain their latest models - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0Q1NjhDZUhMYTd6ZzZFMndvNkFaNFpjQlU5Q0lCU2RZZFdYcW1RUk91WkoxeWVsVXBBX2I1a1EzMThrdHBEUmpraEFWYnpUZHFKYWZqc09zVk5TU1h1cEk0NUFhaWhVNlp4WF83WVlIeXF3OURTWXI5STdwcWdTenhneGtIMG01QzRrODVSRDF6cVg1UTdjakVRbEtfWkU?oc=5",
+      "summary": "The world's leading AI companies are all struggling to contain their latest models Business Insider",
       "badge": "new",
       "date": "2026-08-09"
     },
@@ -115,9 +123,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Improving Fable 5's biology safeguards - Anthropic",
+      "title": "Improving Fable 5's biology safeguards - anthropic.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-      "summary": "Improving Fable 5's biology safeguards Anthropic",
+      "summary": "Improving Fable 5's biology safeguards anthropic.com",
       "badge": "new",
       "date": "2026-08-07"
     },
@@ -195,6 +203,14 @@
     },
     {
       "company": "Meta",
+      "title": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' - Common Dreams",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tT194LXRpQ1dpS1lHOVdvV2ZvRnlzZm40LVVUcmx2Mmp2NkhER1psWS1ZaTh3NGlSZ2NfNkY2UmFLWVJFbjhGSmFBM3FPbTdKbnc0NXZRS01sMHNRbDhnTHBjaDkwTFc1c0h5X1JfLVY?oc=5",
+      "summary": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' Common Dreams",
+      "badge": "new",
+      "date": "2026-08-07"
+    },
+    {
+      "company": "Meta",
       "title": "Meta prepares desktop AI app for macOS as rivals race ahead - TestingCatalog AI News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmVuZHdnLVlNUVFseTZfbjlqWUM0dnhBeTk2OXY2T2lZbkJ6UUVZRVFkWmRmeGs4Q2VSemp2NzUyZXZGVk80SlhsekJpTDNkODJ2UTFhY3ZNZHYtTXlPWTZQMldnZG1fblV5QTRwOHl0ck4wNWNSZDA2aGFKOTJwQ0pJUTAtQWhlR01PWUh3RzZPZ2p1OHc?oc=5",
       "summary": "Meta prepares desktop AI app for macOS as rivals race ahead TestingCatalog AI News",
@@ -206,14 +222,6 @@
       "title": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2UyYTBxQkdqMFFmaE1mNHJIbkl5NGxReFRkX25xanZ3V2ZJNE1Hc24zek41bGhHRllqVGRTZkxPTGtuTzZRWkZTMktWdlk4bUVwUDQ2WFhoQWx4RmJSaW5GRV9la2RjMFlyTGM4bFF5Ykl3Sk1JSUJ1RkllMEZUUVJudw?oc=5",
       "summary": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off Business Insider",
-      "badge": "new",
-      "date": "2026-08-07"
-    },
-    {
-      "company": "Meta",
-      "title": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' - Common Dreams",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tT194LXRpQ1dpS1lHOVdvV2ZvRnlzZm40LVVUcmx2Mmp2NkhER1psWS1ZaTh3NGlSZ2NfNkY2UmFLWVJFbjhGSmFBM3FPbTdKbnc0NXZRS01sMHNRbDhnTHBjaDkwTFc1c0h5X1JfLVY?oc=5",
-      "summary": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' Common Dreams",
       "badge": "new",
       "date": "2026-08-07"
     },
@@ -254,14 +262,6 @@
       "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5",
       "summary": "Meta says its AI model hacked another company, adding to worries about bots going rogue AP News",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5",
-      "summary": "First OpenAI, now Meta - why do AI hacks keep happening? BBC Taming AI’s wild frontier Financial Times Anthropic’s AI used fake identities, malware in rogue attack on GitHub project Ars Technica",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -315,6 +315,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
+      "summary": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ",
+      "badge": "new",
+      "date": "2026-08-06"
+    },
+    {
+      "company": "Meta",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5",
+      "summary": "First OpenAI, now Meta - why do AI hacks keep happening? BBC",
+      "badge": "new",
+      "date": "2026-08-06"
+    },
+    {
+      "company": "Meta",
       "title": "Why Meta Builds Its Own AI Data Centers - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNHZzMzY4XzRJZDMwb3FnUWYxY3hWZW01RDBFZ1pVdWFabXc4OGpxTkx2N2pVdXozcXZUblRGZjMzdVpQT0lnNWhtVHQ2YkNJcHJLcmNGRzhnSmxQX0VBRGJTdzhkQmhBWTNxanZ6aXZEWGE3c1lXRVd0a9IBgAFBVV95cUxPbHgtcndtbWdWbzNxT005dFNOeEJRTFFJU2V3Wm56RHppZWEyYUdWN1dOMzFYeXNrZXU2UU1BRWhJeTF6cGpual9oN0owVFFBcmpfYlVFMFcyY3d3Um5HY0VNdVc2QndfZUd1M1N5UnI1dzV6X0NnSm9wT3pEV0dBTg?oc=5",
       "summary": "Why Meta Builds Its Own AI Data Centers Meta Store",
@@ -339,25 +355,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
-      "summary": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ An AI model from Meta also hacked another company during testing | CNN Business CNN Meta says its AI model hacked another c",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
       "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5",
       "summary": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing Bloomberg.com Meta becomes latest firm to say its AI hacked another company BBC Meta says its AI model hacked another company, adding to",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Hacked External Systems During Cybersecurity Testing - SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2RhQjJNZUlkUW1SYTdxSkVOMXQxRFViWGc1OXNqM2R0Z2Nxd2Qyc2g2cXZCamZPMHliTURXNmNfeXdLb1VuRjdXdDNjaGM1TkdEQnpyaC02MnVtT1VaUXJOVVBnMGtDRVZCYUppN3JLRVNEdjVPTlJYQVRFb19tZEsyREdrcG9GNDg4OWQ1WjBQVkZW0gGaAUFVX3lxTE5FWll1Sk9ZZ0xtUDdTelJsbmt1VmthUERnMnZ1azBmUnpCdUJFOVFubkhPZGJtcGlmZk45bkhyQlVyNFlaZ01iaEE4M2JOUjhWN09hNnpCSWQwQ2JwX0RkYll2Y3kyVkUwaWt3Mm9OY1BabUFtaVdueUstU3VQaFZOU2xQMDFLbDJqYWsxWVY0M3RWS2tjR3pSaWc?oc=5",
-      "summary": "Meta AI Hacked External Systems During Cybersecurity Testing SecurityWeek Meta says its AI model hacked another company, adding to worries about bots going rogue AP News Meta becomes latest firm to sa",
       "badge": "new",
       "date": "2026-08-06"
     },
