@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-09T06:45:37Z",
+  "updated": "2026-08-09T12:38:32Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
+      "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC",
+      "badge": "new",
+      "date": "2026-08-09"
+    },
     {
       "company": "Apple",
       "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
@@ -39,6 +47,14 @@
       "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
       "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "badge": "new",
+      "date": "2026-08-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Pallix launches an AI visibility tool built for India, tracking what ChatGPT, Perplexity and Google AI tell buyers - 24-7 Press Release Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeWFrandVSGlaTlE5TzFlYkRuak4tQlRUNDlLV3JkTVZ2U2lGVWhaOFg5V0JZVFNRN3prc2lVZ0pialpzX3djcEZtWU52RkplSDNFQk5QSERZZmhhcjk4N1QzWVF5Z0VrUnZDMzV3d2ZiUHNvUlE5VnZTY3lCUmNTaEh6eklpZW1nYUNfQkQ5NFZEd3ZiR3JxX1Q1VnlqR3NQWjhIYmRaYmpEVUFXSnlITV9fUlNUTTAwaldpVHRaeUtzajJhanJLVVdzaDhCdW9oVTVobGlMd1pCbzdUei10NnZpaUVrbVh0cDY3alRoWDIwbXFRVlc2OUJn?oc=5",
+      "summary": "Pallix launches an AI visibility tool built for India, tracking what ChatGPT, Perplexity and Google AI tell buyers 24-7 Press Release Newswire",
+      "badge": "hot",
       "date": "2026-08-09"
     },
     {
@@ -179,9 +195,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off - businessinsider.com",
+      "title": "Meta prepares desktop AI app for macOS as rivals race ahead - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmVuZHdnLVlNUVFseTZfbjlqWUM0dnhBeTk2OXY2T2lZbkJ6UUVZRVFkWmRmeGs4Q2VSemp2NzUyZXZGVk80SlhsekJpTDNkODJ2UTFhY3ZNZHYtTXlPWTZQMldnZG1fblV5QTRwOHl0ck4wNWNSZDA2aGFKOTJwQ0pJUTAtQWhlR01PWUh3RzZPZ2p1OHc?oc=5",
+      "summary": "Meta prepares desktop AI app for macOS as rivals race ahead TestingCatalog AI News",
+      "badge": "new",
+      "date": "2026-08-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2UyYTBxQkdqMFFmaE1mNHJIbkl5NGxReFRkX25xanZ3V2ZJNE1Hc24zek41bGhHRllqVGRTZkxPTGtuTzZRWkZTMktWdlk4bUVwUDQ2WFhoQWx4RmJSaW5GRV9la2RjMFlyTGM4bFF5Ykl3Sk1JSUJ1RkllMEZUUVJudw?oc=5",
-      "summary": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off businessinsider.com",
+      "summary": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off Business Insider",
       "badge": "new",
       "date": "2026-08-07"
     },
@@ -242,14 +266,6 @@
       "date": "2026-08-06"
     },
     {
-      "company": "Anthropic",
-      "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1l6aFNsVEZsZlhEeTFLSF9SNkt6YVhoRW5fTkNybWRWOWR0c1ZPbGhRT25hMmVDRjBZYzNraVZCeEItWV83NE9ra1oxbFB0dTJ0TmFDS0ZvdlhiczZHQktUTjkybTNEU0FqSVdZaE53NS10QkNwMVo3SHdzWEFIblA4elrSAYoBQVVfeXFMTkx6VWpCNjhHdHc1VjlHMW44Q1FTeVF1ZDJ2WDNXbW9JVzRRWVFHQnVTU3MxZ19HNklldXBiQmkwU3JfdUdEMWN0TTlnSmRVMk02NnV6R2lHM25ZdndZRGJ3WURqYm1CcnhHbWFaaXRJbDU4aFFpYXotWTBJcVBXLTBoRXhQb2QxSVJR?oc=5",
-      "summary": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says CNBC",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft's AI growth has won back investors, for the time being - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHJ6LW1Ia21kZ0oydXFQRWZqMzRiZXN3UGJkTWtrd1REcU5hTHQ1RnA2a1VPZld5WGtDQ1R4QUVqa1RVaTYweDhzU09lSmNfWDNKWENqZWxPaUNNdGRsc1h2MF9pX1k0dk5iRXFfY2QzV3NtQW1LcDZ1WnZVa3dtR2t3aGQ2LXRhZTNFYm83a1JnS3Vaak14NXR5Q0U5UnF6QVhsS180dmRtWldnUS1ST3VvU1J5bl9zZnF4LTBtZw?oc=5",
@@ -267,9 +283,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft excludes Domain Exclusion from MS 365 Copilot – days after rolling it out - The Register",
+      "title": "Microsoft excludes Domain Exclusion from MS 365 Copilot – days after rolling it out - theregister.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3BqSi04SWFvNGxSR1FPMmkyZllPU21tOHBHYnBDT2pWYXV4NUNkYXpQUXp3cGJpUW9WTnRCNnRLSGgtMHhHSS1nQmpRUklrVHpDSGtSeHg4c2FMZVk2X0NOQ05UQ0EycGVhX1AzQzFITUdJNkgzWC1KUDhTRGRRV21GM0VSZ1NJTGFoWkF3QU42NEdIZ1Y1NG5uWkJqYVJWQXNTdlJJbWszSjEtXzRPVXhvMDRfazN0VHY0RUJWVnh6Mi1tOUNKMFJlaDJ6ZTduWTl6UA?oc=5",
-      "summary": "Microsoft excludes Domain Exclusion from MS 365 Copilot – days after rolling it out The Register",
+      "summary": "Microsoft excludes Domain Exclusion from MS 365 Copilot – days after rolling it out theregister.com",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -299,17 +315,17 @@
     },
     {
       "company": "Meta",
-      "title": "‘I’m not spying’: how Meta’s smartglasses have divided opinion - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEE3Z2YxMlYzS2NQVEZIMHlDM2gweXRkWWpaLVV5eVpfT2FwdklqcnBjVi1ud25Mby12ZVhOYUE4eGVCZjR6VUppc2hjY1VEa1VzNkFTMVhfTHVVWFdHN0JkdG1DaV9CWERnQUtRc3lMS19ZMV9Za0xrSHdjcm1QVy1RN3VManM?oc=5",
-      "summary": "‘I’m not spying’: how Meta’s smartglasses have divided opinion The Guardian",
+      "title": "Why Meta Builds Its Own AI Data Centers - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNHZzMzY4XzRJZDMwb3FnUWYxY3hWZW01RDBFZ1pVdWFabXc4OGpxTkx2N2pVdXozcXZUblRGZjMzdVpQT0lnNWhtVHQ2YkNJcHJLcmNGRzhnSmxQX0VBRGJTdzhkQmhBWTNxanZ6aXZEWGE3c1lXRVd0a9IBgAFBVV95cUxPbHgtcndtbWdWbzNxT005dFNOeEJRTFFJU2V3Wm56RHppZWEyYUdWN1dOMzFYeXNrZXU2UU1BRWhJeTF6cGpual9oN0owVFFBcmpfYlVFMFcyY3d3Um5HY0VNdVc2QndfZUd1M1N5UnI1dzV6X0NnSm9wT3pEV0dBTg?oc=5",
+      "summary": "Why Meta Builds Its Own AI Data Centers Meta Store",
       "badge": "new",
       "date": "2026-08-06"
     },
     {
       "company": "Meta",
-      "title": "Why Meta Builds Its Own AI Data Centers - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNHZzMzY4XzRJZDMwb3FnUWYxY3hWZW01RDBFZ1pVdWFabXc4OGpxTkx2N2pVdXozcXZUblRGZjMzdVpQT0lnNWhtVHQ2YkNJcHJLcmNGRzhnSmxQX0VBRGJTdzhkQmhBWTNxanZ6aXZEWGE3c1lXRVd0a9IBgAFBVV95cUxPbHgtcndtbWdWbzNxT005dFNOeEJRTFFJU2V3Wm56RHppZWEyYUdWN1dOMzFYeXNrZXU2UU1BRWhJeTF6cGpual9oN0owVFFBcmpfYlVFMFcyY3d3Um5HY0VNdVc2QndfZUd1M1N5UnI1dzV6X0NnSm9wT3pEV0dBTg?oc=5",
-      "summary": "Why Meta Builds Its Own AI Data Centers Meta Store",
+      "title": "‘I’m not spying’: how Meta’s smartglasses have divided opinion - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEE3Z2YxMlYzS2NQVEZIMHlDM2gweXRkWWpaLVV5eVpfT2FwdklqcnBjVi1ud25Mby12ZVhOYUE4eGVCZjR6VUppc2hjY1VEa1VzNkFTMVhfTHVVWFdHN0JkdG1DaV9CWERnQUtRc3lMS19ZMV9Za0xrSHdjcm1QVy1RN3VManM?oc=5",
+      "summary": "‘I’m not spying’: how Meta’s smartglasses have divided opinion The Guardian",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -342,14 +358,6 @@
       "title": "Meta AI Hacked External Systems During Cybersecurity Testing - SecurityWeek",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2RhQjJNZUlkUW1SYTdxSkVOMXQxRFViWGc1OXNqM2R0Z2Nxd2Qyc2g2cXZCamZPMHliTURXNmNfeXdLb1VuRjdXdDNjaGM1TkdEQnpyaC02MnVtT1VaUXJOVVBnMGtDRVZCYUppN3JLRVNEdjVPTlJYQVRFb19tZEsyREdrcG9GNDg4OWQ1WjBQVkZW0gGaAUFVX3lxTE5FWll1Sk9ZZ0xtUDdTelJsbmt1VmthUERnMnZ1azBmUnpCdUJFOVFubkhPZGJtcGlmZk45bkhyQlVyNFlaZ01iaEE4M2JOUjhWN09hNnpCSWQwQ2JwX0RkYll2Y3kyVkUwaWt3Mm9OY1BabUFtaVdueUstU3VQaFZOU2xQMDFLbDJqYWsxWVY0M3RWS2tjR3pSaWc?oc=5",
       "summary": "Meta AI Hacked External Systems During Cybersecurity Testing SecurityWeek Meta says its AI model hacked another company, adding to worries about bots going rogue AP News Meta becomes latest firm to sa",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI agent latest model to hack external company during testing - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkVENGZ3Y3l5S2ZIc1JGaWItZ0RjSkFHa29Nd1JiSE8tS1dyOTVwazhqa3ZaeWx0bm5sOGM2YzIwYVZVRHduTXZwUThNSUh2MUgxNkpjRzExV3JUU01NbE93QzZWWGV4T2NSNzVrYkR5Y08xREdjTzlvLXVMS2swdnRFTnlHaTVidkY0M0RSem9NX0c0R3BvdVRLdy01dkJXU2RVSUdyV2NJR1pxY1E?oc=5",
-      "summary": "Meta AI agent latest model to hack external company during testing ABC News & Headlines – Australian Broadcasting Corporation",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -387,17 +395,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "US court overturns Amazon injunction against Perplexity AI - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUZDM2V1ZVFCWUtJV3dUWUh3QmgwaW9jcVVRZGxQUFE3SVVHQXZOZjRFb0tPc3Q3UXdza2pNX0k3QTcwS2gtNzdVNjFzLXVKMldPWTlrQmVacGJyRlJWTjViZU9kWnpFMnVnUGc5QmRWWUJhaFpvS1RmdU9pM1dKVjY4OHNsN3l4M0pYNWtvZ1R2dUY5eHUzTEVRUjFIeTZqdWc?oc=5",
-      "summary": "US court overturns Amazon injunction against Perplexity AI Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon - pymnts.com",
+      "title": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXB0X2lYWVlKQWhDRzZEMXdmcXh1RkZpdGcybWszcGliNEs2YWYtS2V0M3pvMmlKU0dyLWV3Nmpnb1FCSk4yc2RNQTRfR0F4cmxLd1puTzlVM3o3X1AtbFBOaURVRUFmbmRScjB6OTFnZDNzOVRYMm9IdkpJN1BRUUlPeFVfeUN3Y3Z3MEp3aTR5Y1BoZXdhenJBelNJOF9wNlc5a2ZmdVpGdw?oc=5",
-      "summary": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon pymnts.com",
+      "summary": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon PYMNTS.com",
       "badge": "new",
       "date": "2026-08-05"
     },
