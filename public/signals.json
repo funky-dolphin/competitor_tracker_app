@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-09T18:32:07Z",
+  "updated": "2026-08-10T01:17:23Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Upgrade launches in the United States",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
+      "badge": "hot",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
     {
       "company": "Anthropic",
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
@@ -11,49 +51,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUhsdFk2X0hXZVBLOFBkUEZHR3FCLVEweG5WSHVaYnJFNnhlOGtVWUxOaVNGNDhXZzNJR1JtbnlJWnZseFF0NGt2bFBRTnJldGdOb19zVnhHQ3MzNzg4ODY5MVJvamFETV83bUhGc3JmenoxRmNzTnZOWXlhYU45VmVpamRveDIwT1Ytc2xLTV9YZUp0MFdN?oc=5",
+      "summary": "Anthropic is turning Claude Code’s auto mode on by default TechCrunch",
+      "badge": "new",
+      "date": "2026-08-09"
+    },
+    {
+      "company": "Anthropic",
       "title": "The world's leading AI companies are all struggling to contain their latest models - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0Q1NjhDZUhMYTd6ZzZFMndvNkFaNFpjQlU5Q0lCU2RZZFdYcW1RUk91WkoxeWVsVXBBX2I1a1EzMThrdHBEUmpraEFWYnpUZHFKYWZqc09zVk5TU1h1cEk0NUFhaWhVNlp4WF83WVlIeXF3OURTWXI5STdwcWdTenhneGtIMG01QzRrODVSRDF6cVg1UTdjakVRbEtfWkU?oc=5",
       "summary": "The world's leading AI companies are all struggling to contain their latest models Business Insider",
-      "badge": "new",
-      "date": "2026-08-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "badge": "new",
-      "date": "2026-08-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
-      "badge": "new",
-      "date": "2026-08-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Upgrade launches in the United States",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
-      "badge": "hot",
-      "date": "2026-08-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
-      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
-      "badge": "new",
-      "date": "2026-08-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "badge": "new",
       "date": "2026-08-09"
     },
@@ -123,9 +131,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Improving Fable 5's biology safeguards - anthropic.com",
+      "title": "Improving Fable 5's biology safeguards - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-      "summary": "Improving Fable 5's biology safeguards anthropic.com",
+      "summary": "Improving Fable 5's biology safeguards Anthropic",
       "badge": "new",
       "date": "2026-08-07"
     },
@@ -211,6 +219,14 @@
     },
     {
       "company": "Meta",
+      "title": "Are Ray-Ban Meta Glasses A Privacy Risk? Here's What You Should Know - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjlHV2JWZmdOaU1NeXpwUkUyMHlteUl4RFdxSWRKRUJacWVxQU15am5QV2lySG0za3pWZ1VHbElJOENBYmh5NGZVcDB6cnltNG5oVm4zU0dJZGkyTFF6cWtpYmF5ME5FbzYxV1lkdV96TzRvSjBFMXdoU0hWdFdaZVJBUXBEb0ZIREpOV0VyVGZPY2h6clZGZEJGS01JNjRwdm1J?oc=5",
+      "summary": "Are Ray-Ban Meta Glasses A Privacy Risk? Here's What You Should Know Engadget",
+      "badge": "new",
+      "date": "2026-08-07"
+    },
+    {
+      "company": "Meta",
       "title": "Meta prepares desktop AI app for macOS as rivals race ahead - TestingCatalog AI News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmVuZHdnLVlNUVFseTZfbjlqWUM0dnhBeTk2OXY2T2lZbkJ6UUVZRVFkWmRmeGs4Q2VSemp2NzUyZXZGVk80SlhsekJpTDNkODJ2UTFhY3ZNZHYtTXlPWTZQMldnZG1fblV5QTRwOHl0ck4wNWNSZDA2aGFKOTJwQ0pJUTAtQWhlR01PWUh3RzZPZ2p1OHc?oc=5",
       "summary": "Meta prepares desktop AI app for macOS as rivals race ahead TestingCatalog AI News",
@@ -254,14 +270,6 @@
       "title": "Anthropic will design its own hardware to power Claude - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1hXb3VvUjdRM0s0U0JMdGEwR2tiNU02RXkyZmd0RFFjZUlGbnBwdnRsQW13YU5Dc1ctM0E4ZlE1alFTYkQzZHlyZ01tQU95aVhVNF9DRjhvbk43cmo5MFJLaFV0RmxQWkx0UG5SM3JLS2hFM2FTSkV6aGxWUlJJak5yZDZRamt0M2VhQlB4Q1RGU3dJRkNmUDN3?oc=5",
       "summary": "Anthropic will design its own hardware to power Claude Ars Technica",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5",
-      "summary": "Meta says its AI model hacked another company, adding to worries about bots going rogue AP News",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -315,17 +323,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
-      "summary": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5",
+      "summary": "First OpenAI, now Meta - why do AI hacks keep happening? BBC",
       "badge": "new",
       "date": "2026-08-06"
     },
     {
       "company": "Meta",
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5",
-      "summary": "First OpenAI, now Meta - why do AI hacks keep happening? BBC",
+      "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5",
+      "summary": "Meta says its AI model hacked another company, adding to worries about bots going rogue AP News",
       "badge": "new",
       "date": "2026-08-06"
     },
@@ -339,25 +347,17 @@
     },
     {
       "company": "Meta",
+      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
+      "summary": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ",
+      "badge": "new",
+      "date": "2026-08-06"
+    },
+    {
+      "company": "Meta",
       "title": "‘I’m not spying’: how Meta’s smartglasses have divided opinion - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEE3Z2YxMlYzS2NQVEZIMHlDM2gweXRkWWpaLVV5eVpfT2FwdklqcnBjVi1ud25Mby12ZVhOYUE4eGVCZjR6VUppc2hjY1VEa1VzNkFTMVhfTHVVWFdHN0JkdG1DaV9CWERnQUtRc3lMS19ZMV9Za0xrSHdjcm1QVy1RN3VManM?oc=5",
       "summary": "‘I’m not spying’: how Meta’s smartglasses have divided opinion The Guardian",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta says its AI model hacked into another company during testing - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5",
-      "summary": "Meta says its AI model hacked into another company during testing The Guardian Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ Meta says its AI model hacked another compan",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5",
-      "summary": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing Bloomberg.com Meta becomes latest firm to say its AI hacked another company BBC Meta says its AI model hacked another company, adding to",
       "badge": "new",
       "date": "2026-08-06"
     },
