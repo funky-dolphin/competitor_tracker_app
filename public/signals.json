@@ -1,6 +1,38 @@
 {
-  "updated": "2026-08-10T07:20:34Z",
+  "updated": "2026-08-10T12:55:20Z",
   "signals": [
+    {
+      "company": "Meta",
+      "title": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5",
+      "summary": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model The New York Times Zuckerberg reveals new Meta AI model as US faces AI arms race Fox Business Meta Releases Scaled-Down AI Model Cons",
+      "badge": "hot",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta CTO Dismisses Vacation Requests: 'It's Very Dumb' to Ask for More Time Off - International Business Times UK",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMbWRiOUZqNEs4d1lEQ2czR0xkM1dVcHdIRjRHYjNZUklHUW9IbFZIaEpQbHJTOHlYbWpUbXZaVURhNS1iRDRyRlZlRFVxY3Y0dVduLW1TOWdIb1prT3pqb2dqcnlUYTBkYVJJRDAzaWt0dl9NaEJTMVdB?oc=5",
+      "summary": "Meta CTO Dismisses Vacation Requests: 'It's Very Dumb' to Ask for More Time Off International Business Times UK",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0Y5VVJWSkc1aEJOMEF4QlNaeGxsVDg0YklRUzluTE5rVTVKekh5ZnM5VWh4NUcxNXBvNXB3djlZbm1DbHkxNTJhMFI4anFvakJnSndGYTI1WktTS2hOSmhXcUE5c0hXS1lrTmhjTEY3aGNERmlKOWc5TER3MUQtOHk4VHg3T0FwU0NLQmlNR09FbnMwLV9FaE80VU5qWG9HMXg2TDFKVENTeHJ6d0E5Mg?oc=5",
+      "summary": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI's fear factor hits a fever pitch - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Ty1WLWJ0bmdYNmZuVnRYRi0yam8yTFE1TzVJam1JZjhfMHJnekdXajZjYzlLejFPX3FiZVNnT0lfTmZFUFk1YkVCZG5jVnl5RkFSc1h2SFlnekRpZWNrMTAwUExld3BqVDNoa1VJNkYzWE9qUWdwTQ?oc=5",
+      "summary": "AI's fear factor hits a fever pitch Axios",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
     {
       "company": "Apple",
       "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
@@ -139,17 +171,17 @@
     },
     {
       "company": "Meta",
-      "title": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' - Common Dreams",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tT194LXRpQ1dpS1lHOVdvV2ZvRnlzZm40LVVUcmx2Mmp2NkhER1psWS1ZaTh3NGlSZ2NfNkY2UmFLWVJFbjhGSmFBM3FPbTdKbnc0NXZRS01sMHNRbDhnTHBjaDkwTFc1c0h5X1JfLVY?oc=5",
-      "summary": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' Common Dreams",
+      "title": "Are Ray-Ban Meta Glasses A Privacy Risk? Here's What You Should Know - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjlHV2JWZmdOaU1NeXpwUkUyMHlteUl4RFdxSWRKRUJacWVxQU15am5QV2lySG0za3pWZ1VHbElJOENBYmh5NGZVcDB6cnltNG5oVm4zU0dJZGkyTFF6cWtpYmF5ME5FbzYxV1lkdV96TzRvSjBFMXdoU0hWdFdaZVJBUXBEb0ZIREpOV0VyVGZPY2h6clZGZEJGS01JNjRwdm1J?oc=5",
+      "summary": "Are Ray-Ban Meta Glasses A Privacy Risk? Here's What You Should Know Engadget",
       "badge": "new",
       "date": "2026-08-07"
     },
     {
       "company": "Meta",
-      "title": "Are Ray-Ban Meta Glasses A Privacy Risk? Here's What You Should Know - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjlHV2JWZmdOaU1NeXpwUkUyMHlteUl4RFdxSWRKRUJacWVxQU15am5QV2lySG0za3pWZ1VHbElJOENBYmh5NGZVcDB6cnltNG5oVm4zU0dJZGkyTFF6cWtpYmF5ME5FbzYxV1lkdV96TzRvSjBFMXdoU0hWdFdaZVJBUXBEb0ZIREpOV0VyVGZPY2h6clZGZEJGS01JNjRwdm1J?oc=5",
-      "summary": "Are Ray-Ban Meta Glasses A Privacy Risk? Here's What You Should Know Engadget",
+      "title": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' - Common Dreams",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tT194LXRpQ1dpS1lHOVdvV2ZvRnlzZm40LVVUcmx2Mmp2NkhER1psWS1ZaTh3NGlSZ2NfNkY2UmFLWVJFbjhGSmFBM3FPbTdKbnc0NXZRS01sMHNRbDhnTHBjaDkwTFc1c0h5X1JfLVY?oc=5",
+      "summary": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' Common Dreams",
       "badge": "new",
       "date": "2026-08-07"
     },
@@ -203,17 +235,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Tired of waiting for Microsoft? This Linux developer built his own native Copilot app. - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVnBISF9oMnF0TXozeWQzUldzQ2psenNFY2NrU1ZvOEEwdG01TlVHbHF5cDRpdVJzM2RhTm80RXRxM1d3NlJ3TG8zSFRpaWtmeU5HSGdfVm93Wm5fXzFJWHRORGVvTVNXVTdkcVV1X2RSRktaLWphVjFjak0zQ0lwRU9icFNkall2bWxHYUdSTzZyeTdNMlFNcmt0RUh6NVJTRUdKejdLSnJ5b0tVdG9oUW9iZjJhV05ZclRPR2l2YWpUdVZDalhsQzF5NDByN0JKQVBhLW9sUUdsU2NpS1dmTFBR?oc=5",
-      "summary": "Tired of waiting for Microsoft? This Linux developer built his own native Copilot app. Windows Central",
+      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDkyaVhlUDdvZmRJRjFIdnJBSWhrSFN3ZjZqRV9Kd1NfZVFnSkpOamJQbEJnUkZMOFdCbGx3d0RhU1NUUkZ2aVNwWFEwSUN1bmFUVS1KaWdfZWNwNHN6U3BjQi1nMUEyRzdRc0NRa3lXdWI0YkVjeVNVUllTbzNXNmRHSkswbDZTX2FxUG02TdIBlAFBVV95cUxQSUxwYUN0Q2lJc2dsZW9KODhxN2haS0pTQlRxcy1Ub1lmWlM1emcwMkRkaW1uQ3gyTmZ1dnA2eTk2cFNUM1FjS1RKekhwSldxUGxXMTczdExaRzUwU2ozR2Y5Y1F2NVl6SGg0dEpZbUxmRGZ4V0RxdkxaSDlWQXBuNUdYbU9ZSGhoRU5ZWUx5dWNLU0pY?oc=5",
+      "summary": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot MarkTechPost",
       "badge": "new",
       "date": "2026-08-07"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDkyaVhlUDdvZmRJRjFIdnJBSWhrSFN3ZjZqRV9Kd1NfZVFnSkpOamJQbEJnUkZMOFdCbGx3d0RhU1NUUkZ2aVNwWFEwSUN1bmFUVS1KaWdfZWNwNHN6U3BjQi1nMUEyRzdRc0NRa3lXdWI0YkVjeVNVUllTbzNXNmRHSkswbDZTX2FxUG02TdIBlAFBVV95cUxQSUxwYUN0Q2lJc2dsZW9KODhxN2haS0pTQlRxcy1Ub1lmWlM1emcwMkRkaW1uQ3gyTmZ1dnA2eTk2cFNUM1FjS1RKekhwSldxUGxXMTczdExaRzUwU2ozR2Y5Y1F2NVl6SGg0dEpZbUxmRGZ4V0RxdkxaSDlWQXBuNUdYbU9ZSGhoRU5ZWUx5dWNLU0pY?oc=5",
-      "summary": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot MarkTechPost",
+      "title": "Tired of waiting for Microsoft? This Linux developer built his own native Copilot app. - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVnBISF9oMnF0TXozeWQzUldzQ2psenNFY2NrU1ZvOEEwdG01TlVHbHF5cDRpdVJzM2RhTm80RXRxM1d3NlJ3TG8zSFRpaWtmeU5HSGdfVm93Wm5fXzFJWHRORGVvTVNXVTdkcVV1X2RSRktaLWphVjFjak0zQ0lwRU9icFNkall2bWxHYUdSTzZyeTdNMlFNcmt0RUh6NVJTRUdKejdLSnJ5b0tVdG9oUW9iZjJhV05ZclRPR2l2YWpUdVZDalhsQzF5NDByN0JKQVBhLW9sUUdsU2NpS1dmTFBR?oc=5",
+      "summary": "Tired of waiting for Microsoft? This Linux developer built his own native Copilot app. Windows Central",
       "badge": "new",
       "date": "2026-08-07"
     },
@@ -286,30 +318,6 @@
       "title": "First OpenAI, now Meta - why do AI hacks keep happening? - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5",
       "summary": "First OpenAI, now Meta - why do AI hacks keep happening? BBC",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Why Meta Builds Its Own AI Data Centers - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNHZzMzY4XzRJZDMwb3FnUWYxY3hWZW01RDBFZ1pVdWFabXc4OGpxTkx2N2pVdXozcXZUblRGZjMzdVpQT0lnNWhtVHQ2YkNJcHJLcmNGRzhnSmxQX0VBRGJTdzhkQmhBWTNxanZ6aXZEWGE3c1lXRVd0a9IBgAFBVV95cUxPbHgtcndtbWdWbzNxT005dFNOeEJRTFFJU2V3Wm56RHppZWEyYUdWN1dOMzFYeXNrZXU2UU1BRWhJeTF6cGpual9oN0owVFFBcmpfYlVFMFcyY3d3Um5HY0VNdVc2QndfZUd1M1N5UnI1dzV6X0NnSm9wT3pEV0dBTg?oc=5",
-      "summary": "Why Meta Builds Its Own AI Data Centers Meta Store",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
-      "summary": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic will design its own hardware to power Claude - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1hXb3VvUjdRM0s0U0JMdGEwR2tiNU02RXkyZmd0RFFjZUlGbnBwdnRsQW13YU5Dc1ctM0E4ZlE1alFTYkQzZHlyZ01tQU95aVhVNF9DRjhvbk43cmo5MFJLaFV0RmxQWkx0UG5SM3JLS2hFM2FTSkV6aGxWUlJJak5yZDZRamt0M2VhQlB4Q1RGU3dJRkNmUDN3?oc=5",
-      "summary": "Anthropic will design its own hardware to power Claude Ars Technica",
       "badge": "new",
       "date": "2026-08-06"
     },
