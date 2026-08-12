@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-12T01:23:42Z",
+  "updated": "2026-08-12T07:16:04Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ30gF_QVVfeXFMTUZqWnlpYnMzVXlYeW9XYXFDWEVhUjdjZzIxaU1VbmdRUXI1eHhkUjRGOGxkNDQ2c3RRdnRNRGVRXzFUcDNzRXQtYW5pTjNsc1lTVzRzaGNTREtYVDRzbFdrenFBVklKRDZRVW9NSnN1LXJaYl9PZ18zYXpDd05VNA?oc=5",
+      "summary": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic CNBC",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
     {
       "company": "Apple",
       "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
@@ -42,6 +50,14 @@
       "date": "2026-08-12"
     },
     {
+      "company": "Meta",
+      "title": "Meta's Muse Glimmer wants to bring AI agents to your laptop - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMlRwYU51WHM2c1U2bEJsTTh4bE1ES3FSWnMxWTVaWm5ObmRIMjMzYUhHSHpna20zTUgtcjR6aGVRRVVzV1lyWmNJU3F1XzBUMlZyVmF0SkZtRGZPM3BrdktUZzFTLUI1Z05V?oc=5",
+      "summary": "Meta's Muse Glimmer wants to bring AI agents to your laptop Mashable",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
       "company": "OpenAI",
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -61,7 +77,23 @@
       "company": "Anthropic",
       "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure - CNBC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWxYNUZ5WjBMLVUyVlNrYVl5dlpWeTdjZldZY1JJVnhVa2VxdHVORTlja3NHdG5DTU5XWS1JMWM0a2VRUjY2dWc3SGhWdmp6amNTbkw1VTVHa2NJYVdLekhUQWR6bm9jNTVnbUpCbWxEcXFxSFZybUotWGxMbjVKWEJ4RmZFck5RV3VTUFBTMTdxdHU1SVA2UkpOVFJobVZsLXFOMjNRODFsVW5LdFFz0gG0AUFVX3lxTE5UcEFfSUNIOW9FRDd1ZkFvX20xMjRlRVoxMy10blZRVnJHWnpwNy0xX2FpNlpyNVQ2a0QzTnlxNFRZcnB3clI2aDUtM0xBQ05tM1RPajAzT2JGQ25hZHFCUTlpV3F5RktVMGhmTE1VbE5USlBkd0o0VnI5eHFUUWtiOGZuUFJaNnMydm1tZ2hUeEVqVU5WOE41dHg1YUluN3gyVEYwZ2EweUZPZThhOExLX0tWdA?oc=5",
-      "summary": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure CNBC Anthropic Strikes $9 Billion Computing Deal With Riot Platforms Bloomberg.com Anthropic IPO timeline ",
+      "summary": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure CNBC",
+      "badge": "new",
+      "date": "2026-08-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Strikes $9 Billion Computing Deal With Riot Platforms - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUh6enBVWEI2ZTNVakNYcVRtd2gzREpSb3VvbGlyZ3pWZVYzcndna1dTWC1wV0sxcTNsWmRKQzA5ME1hTGdYSmFMUFlCdmZ4YkdHWTgzV0ozNnBiMXFVWm1ob09ZbUx6LVZ4VGR0Rlh1ekNzeVpISS1FOE4wRXRiYUlVOGpXcVppWEFLWndtSDFCYzQtSDJmVTU2dnhBSTNTOUtGcjZVX1hwWUxRRHFDcTB6Uk4?oc=5",
+      "summary": "Anthropic Strikes $9 Billion Computing Deal With Riot Platforms Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why Anthropic’s $9 Billion Deal With Riot Is a Watershed Moment for Bitcoin Miners - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0pULWpheWpycWQxZHhQOUowU20yaXRrN1hxWFlRNEdwcUhwQWlHOGtWMUxGQnFjTXFqZFdCRmRJRHlMZmdmNkJucmZtSlZyTk1McC1zNTd4U0F2THYxT2tYcl9KYWQwWDNWVUkxMUtUZVRMRW5aTHNvcUczN1h2bWN6aTkwUkJZZEE?oc=5",
+      "summary": "Why Anthropic’s $9 Billion Deal With Riot Is a Watershed Moment for Bitcoin Miners Barron's",
       "badge": "new",
       "date": "2026-08-11"
     },
@@ -107,25 +139,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUh6enBVWEI2ZTNVakNYcVRtd2gzREpSb3VvbGlyZ3pWZVYzcndna1dTWC1wV0sxcTNsWmRKQzA5ME1hTGdYSmFMUFlCdmZ4YkdHWTgzV0ozNnBiMXFVWm1ob09ZbUx6LVZ4VGR0Rlh1ekNzeVpISS1FOE4wRXRiYUlVOGpXcVppWEFLWndtSDFCYzQtSDJmVTU2dnhBSTNTOUtGcjZVX1hwWUxRRHFDcTB6Uk4?oc=5",
-      "summary": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms Bloomberg.com Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms Yahoo Finance Anthropic signs $9.1 billion data center deal with R",
-      "badge": "new",
-      "date": "2026-08-11"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQU40MzZTalREVVJrRjZ2ZGlxU0NaMHEyNjV5dF9lcV8wQzE1RU90eENQT2xrTFEyUjhWSE5ZZE54MHNGZE9RM0pXVy1ieE00UVBpYjNRUWw0RmJCMlg1YzY0VFpLcnZDVUN4QjBKbUdFb2N3a2NkSE1lVE53dUNpU25iME5jYlk5b2NfSDB5X3NGSmdIUUFZZ2MwTVBTZw?oc=5",
       "summary": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic signs $9.1 billion cloud deal with Riot, Bloomberg reports - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHJXOUJKZWdCbWJKbHBERi1QNlRPVmJDUGhnUERsNzN4VFp2VjBqNW1sYkpNYkpZYUpObnlDVUlsNjdKZWtrNWlSZkotX0VDSFdFem5SQmoxMmV5YkpOVWpocHVfN2ZVdFJEMWs3ekZhSlRQLUZMb25fYktXd2w0U1UxZk01X05CQlllTzhhSVgwczVubk0xa2FHMDd1SnlKa3lwbEFiM0xQRGktZTRmY2Z5MGdYSEtSNDczNUR5OA?oc=5",
-      "summary": "Anthropic signs $9.1 billion cloud deal with Riot, Bloomberg reports Investing.com",
       "badge": "new",
       "date": "2026-08-11"
     },
@@ -139,17 +155,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "PowerToys is adding the on-device AI model used by Copilot+ PCs - windowscentral.com",
+      "title": "PowerToys is adding the on-device AI model used by Copilot+ PCs - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVk0UkNBbVhtWXZNbnQxRWp4S21tTk5TT19uM1FFZ2lFS1J2dGxCVG1acXBCTV9BdVJUaWlFcm1yVUkySThXSlpWOGJOaDNJU1YySnpPcjJ5OTN2WTA5RmRYWjUwVEY3Ulp1VjZDVzZvakpPa0FqSVRHaThxaDZwRmVqN2dlX0VhQkhGSTZud2d1bWdsdDBFTmJnSExwSDBBN0REMndGNngwdTZvSjl6REs2clNmZVJFWVdUbmQzcnBZaVN1NnNFdlpPZE9Tdw?oc=5",
-      "summary": "PowerToys is adding the on-device AI model used by Copilot+ PCs windowscentral.com",
+      "summary": "PowerToys is adding the on-device AI model used by Copilot+ PCs Windows Central",
       "badge": "new",
       "date": "2026-08-11"
     },
     {
       "company": "Microsoft",
-      "title": "8 New Features in Microsoft 365 Copilot: Real-Time Editing Arrives - geeky-gadgets.com",
+      "title": "8 New Features in Microsoft 365 Copilot: Real-Time Editing Arrives - Geeky Gadgets",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BczlBQUZGSnJVN0lYTURQWllqTFpxdDg4ckFhUGFRcTI5UnhZUnlsNTVFUi14d2p2WkxmNGJ3VzJMejJFbUJtdmxDWFF3VmpaYUV5ZTNncUlSNEFoenR2bXRieG9jbU1JcDFEODdyV3JGUWd1V005SVBkeVVZdw?oc=5",
-      "summary": "8 New Features in Microsoft 365 Copilot: Real-Time Editing Arrives geeky-gadgets.com",
+      "summary": "8 New Features in Microsoft 365 Copilot: Real-Time Editing Arrives Geeky Gadgets",
       "badge": "new",
       "date": "2026-08-11"
     },
@@ -174,6 +190,14 @@
       "title": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’ - Digiday",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUU8xc2pERllIM2RSOHFqd3Ffb05DVGwwMmxTNVN0T1o0QkJwV2RHVk5GS1RqWTFRb0RBQU9pTnBLRTdQRUxlV0dTZ1dKM3QyNHJyRzRacHU4Wnh5OENuUFc4RDJ2d1FCeGppaVlKX3hObllBd2YyTUI3Tnp1WmVXRTd2eDkzXzdGLWw0VzNfRUJFajMyN1d2WXhnVk9udw?oc=5",
       "summary": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’ Digiday",
+      "badge": "new",
+      "date": "2026-08-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckVrWEo5NEhCZmJuSVlMd3NYWmR4eWx3NG1WcVpiSnhyYnd2ZGVoM05wdlNsNEhoWUp1bG9kZ3d0dEVjNkJnS182Yklza1ROcmw3RjJEZkt1Z21taWhpbjZWWWRNRDI4Nm9QOG5fRG1fSVNld0tvc0QzeXZCT0ctdTZhOWNXbXNxdV9MSw?oc=5",
+      "summary": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent Yahoo",
       "badge": "new",
       "date": "2026-08-11"
     },
@@ -258,14 +282,6 @@
       "date": "2026-08-10"
     },
     {
-      "company": "Anthropic",
-      "title": "Learning more about Claude's mathematical capabilities - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
-      "summary": "Learning more about Claude's mathematical capabilities Anthropic",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
       "company": "Google",
       "title": "Evolve your marketing with new AI tools",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -315,41 +331,25 @@
     },
     {
       "company": "Meta",
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
+      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push Reuters Zuckerberg: AI's biggest risk is one entity with too much control Axios Mark Zuckerberg’s latest manifesto promises to save ",
+      "badge": "hot",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5",
+      "summary": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic CNBC",
+      "badge": "new",
+      "date": "2026-08-10"
+    },
+    {
+      "company": "Meta",
       "title": "Meta just picked a side in a big debate over the future of AI - CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0dlVnMtdktjeHZPUDczQXQzLWVlenJyTHZHT3ZrVWN0eGs1NkM3UlFucjJsWnAyLVJxcUVTelZKNXNXNS1UdGlvOGlMZDY2N0ZJME0zYldLYkRQLVNzMW1DRjBRRDMtcDBKLTNEOUpYaXd6eTRXT2pGT1lOSFNKOE41VQ?oc=5",
       "summary": "Meta just picked a side in a big debate over the future of AI CNN Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model The Guardian Mark Zuckerberg’s latest manifesto promis",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA | NVIDIA Technical Blog - NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2l4UGplR3p1OXVuS2tCc3Q3TDV6MmtVRkVmdUhodzJSZE9EeG91dmt0S3VQbkU4OWpFM3dHb2NHS1R3M21uOVloT25jdTh2M2IzZ3EyUnVzUDhRRTZQc2NxbjNjUkpONnRMSFZqWUJRTHlaMWZJanlOLUFUSzRlUExXVFFpWDRpRFF2M3d5X1FKZ2ItNXdWR1FwZVF6V2xP?oc=5",
-      "summary": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA | NVIDIA Technical Blog NVIDIA Developer",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Zuckerberg manifesto sketches out Meta’s ambitions for world-changing AI technology - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSng0SGtoSVVRMlNMU19RakFvVGtGbk82WWdBY25STHV4OG84ZGljaWgzUUZRa1ROb2g2eERJV2pOTUlsRjNtbzFEU290QTBVcUV6UVpEQ0g1UEt2S1RFRDNhRGRLcnlTUFVTcWtXVU45WXF1cVNPMWgxQ3J3WWRqVFEweU5ZRkRQZXA5SmNUWkVCSEN1ZVdvaEI5M3B5aG1WeVctcW9YWmtIZ2c?oc=5",
-      "summary": "Zuckerberg manifesto sketches out Meta’s ambitions for world-changing AI technology apnews.com",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "Meta",
-      "title": "You Can (Maybe) Run Meta's Latest AI Model Locally on Your Computer - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHlyMEM3c2VWb3BKVURULVNHLXF0di0zMlVXXzRLRFNsbUMwQWdROXNtdnhvbGczellBX2t1R2hfUldDVTVBRTRZTDhIaXFSeWNIRVZzVXprcnU3ZTI5d1h2bDBHRjVmaTNyQjMzclNOYnc1OGdtWkNVcjNEb0ZLVGt4TkpseDd3Q3Bidmh3?oc=5",
-      "summary": "You Can (Maybe) Run Meta's Latest AI Model Locally on Your Computer Lifehacker",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
-      "summary": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision TechCrunch",
       "badge": "new",
       "date": "2026-08-10"
     },
@@ -411,17 +411,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "TECHNOLOGY/INTERNET—9th Cir.:... - VitalLaw.com",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObW0xWVZqNU1COFRob25vRHFCVlFlQUh3Nk9ieFdyUF9oLVZYSWo1SzFpOHk5MC1ZS2xwemZiX0pwbmhLd3pwZ3JJR29OSWJSVTFKd2VldnVDWlJSeVZ3Y0dSSF9NSWd6c0RBRUhleFNuVzdvYld3bzlhdVVMaVdqUUlJWjI5eXV6UG9fWTFiUmF5U1laeThwb1NVdFl2TXFqUTBiYzVobC1tY2ZfcS1uUmh3MUFQclp2Yy1kakw1cE9xYUt6UDF5QU92WHZHdEJGWUF3Wl9zb0ZkUEtxZGc0YjhNT2g4UEFDS0RLWXZkX2I5MzBUYS1rT2RKVF9kR0huMkZkdFhaOGhucVQ0VC1tNS11Z0NqaUk?oc=5",
-      "summary": "TECHNOLOGY/INTERNET—9th Cir.:... VitalLaw.com",
+      "title": "TECHNOLOGY/INTERNET—9th Cir.: Amazon’s unlawful access claims against Perplexity AI unlikely to succeed; injunction vacated - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZndlMmYzaGYwSlA0V1RkSWViZG9Hc0hXUkRLYVlKYmJyMjhUREM0ZU8ySk1kUVJrTkZmMm1MZU9QS3N6RUE3UWliR2pNek55SWxiS19jVjhtYWozY2REMU1UWTVHTjREZnFIb2tRMEtGVkM1VXNDRXNCcnlYOTNuZXBwSmhVTWpEdC1VbGxMMVB3Z2tOdjZYZkQ5S2E0UHdKOFNSODBtT0xrRXp2VC1GRFVfdzlkUnU3OG53d0I3UmJPdjgwX3JyYWlYdGdyU2tfRjhRVVRBaDRWX09RbVRhbFJRZFJ6M09uME9QYzNKS0pwWHlFVXlwMWpKeDl4c1JwWkNPdWkzd3hsazctWUhTRlc2d2doNS1VSGc?oc=5",
+      "summary": "TECHNOLOGY/INTERNET—9th Cir.: Amazon’s unlawful access claims against Perplexity AI unlikely to succeed; injunction vacated VitalLaw.com",
       "badge": "new",
       "date": "2026-08-07"
     },
     {
       "company": "Perplexity",
-      "title": "TECHNOLOGY/INTERNET—9th Cir.: Amazon’s unlawful access claims against Perplexity AI unlikely to succeed; injunction vacated - vitallaw.com",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZndlMmYzaGYwSlA0V1RkSWViZG9Hc0hXUkRLYVlKYmJyMjhUREM0ZU8ySk1kUVJrTkZmMm1MZU9QS3N6RUE3UWliR2pNek55SWxiS19jVjhtYWozY2REMU1UWTVHTjREZnFIb2tRMEtGVkM1VXNDRXNCcnlYOTNuZXBwSmhVTWpEdC1VbGxMMVB3Z2tOdjZYZkQ5S2E0UHdKOFNSODBtT0xrRXp2VC1GRFVfdzlkUnU3OG53d0I3UmJPdjgwX3JyYWlYdGdyU2tfRjhRVVRBaDRWX09RbVRhbFJRZFJ6M09uME9QYzNKS0pwWHlFVXlwMWpKeDl4c1JwWkNPdWkzd3hsazctWUhTRlc2d2doNS1VSGc?oc=5",
-      "summary": "TECHNOLOGY/INTERNET—9th Cir.: Amazon’s unlawful access claims against Perplexity AI unlikely to succeed; injunction vacated vitallaw.com",
+      "title": "TECHNOLOGY/INTERNET—9th Cir.:... - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObW0xWVZqNU1COFRob25vRHFCVlFlQUh3Nk9ieFdyUF9oLVZYSWo1SzFpOHk5MC1ZS2xwemZiX0pwbmhLd3pwZ3JJR29OSWJSVTFKd2VldnVDWlJSeVZ3Y0dSSF9NSWd6c0RBRUhleFNuVzdvYld3bzlhdVVMaVdqUUlJWjI5eXV6UG9fWTFiUmF5U1laeThwb1NVdFl2TXFqUTBiYzVobC1tY2ZfcS1uUmh3MUFQclp2Yy1kakw1cE9xYUt6UDF5QU92WHZHdEJGWUF3Wl9zb0ZkUEtxZGc0YjhNT2g4UEFDS0RLWXZkX2I5MzBUYS1rT2RKVF9kR0huMkZkdFhaOGhucVQ0VC1tNS11Z0NqaUk?oc=5",
+      "summary": "TECHNOLOGY/INTERNET—9th Cir.:... VitalLaw.com",
       "badge": "new",
       "date": "2026-08-07"
     },
