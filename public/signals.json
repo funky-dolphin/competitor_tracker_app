@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-12T12:56:13Z",
+  "updated": "2026-08-12T18:54:31Z",
   "signals": [
     {
+      "company": "OpenAI",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
       "company": "Anthropic",
-      "title": "Anthropic's text watermarks signal new front in AI detection - axios.com",
+      "title": "Anthropic's text watermarks signal new front in AI detection - Axios",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TMFZTUmdmZWw4Q3RNNlpOcG01TkQ3bi1QRVF6LUpnWTJlTGFKT1Z5QmtONlJ1SXdtbnNfdEVpdkgxY2dvOHZGRTVPRlJBdVYyVFB0UzlGUjBsNmlvMzh3RDFWblk2SGNCZGRNM2xmS3BuMXN1SUFXZ0U0TVdOdw?oc=5",
-      "summary": "Anthropic's text watermarks signal new front in AI detection axios.com Claude Users Can’t Opt Out Of New Watermarks—Here’s What We Know Forbes Anthropic plans to add an invisible mark to AI text—as th",
+      "summary": "Anthropic's text watermarks signal new front in AI detection Axios Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files CNET Claude Users Can’t Opt Out Of New Watermarks—Here’s What W",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -14,6 +22,22 @@
       "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEtIeUhGRW5BN25TUG9kcWZaRnRhcUZQNHVMWVpFaUhGYXFQU2J5T2NZMkdZTFNQMk1mUWNRMWFSOVlUajk2cTIwYjk3WjdCSm91RTEyU3I4UzdtcWxqYkJDZ09fUjJwbHZHWkRNSkpjeklINGpDZGRDNVRiR0ZNaFJFS19FeE0?oc=5",
       "summary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders The Guardian",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "DeepSeek Publicizes Efforts to Challenge Anthropic’s Claude Code - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVR5Qm1Mb1dzd1BRNzUxYjlnQlhPbmZVV1l3STR0UDV5d19VaDloOTdXUGp2LWNJNk5RVTdrS04zTUw5aEZQUnRXSkRLUXpPUUc2OTdGMHZ2cmVKejNLek56SlhDVG1IbnBoZzRpMFNOa1FvbDVXMDVmemFXVnZDTUxkc2NfQ0thRm9pcVpDZ1FMTWNMWnlud0plN1p5NmhVY0JHdnYzRzU1OVJyNms1T1FlZFlYZw?oc=5",
+      "summary": "DeepSeek Publicizes Efforts to Challenge Anthropic’s Claude Code Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ3?oc=5",
+      "summary": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic CNBC",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -35,9 +59,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Windows 11 ships nine AI components, you can delete one - Notebookcheck",
+      "title": "Windows 11 ships nine AI components, you can delete one - notebookcheck.net",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONklBLTJ2UEdfT0g4QWR2ek00UGJacXluNXdqYkNjNmtiY1hSYTQxQ3FUQTRlQkI1V09Zb1dxbjNxR1RXeG4tUG9jdWIwM3liSHprYWFoeV9lS0tnX0lUdTVzQ1Z1d3o0QjZXYWxsb1FoRG5WVVJxUUZIM3FtU3JncGxQRkNLc2d0VndpaVpCVU11Umo3Yy1IeWVOSzZNVE1H?oc=5",
-      "summary": "Windows 11 ships nine AI components, you can delete one Notebookcheck",
+      "summary": "Windows 11 ships nine AI components, you can delete one notebookcheck.net",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -82,10 +106,34 @@
       "date": "2026-08-12"
     },
     {
+      "company": "Perplexity",
+      "title": "The dream of serving ads to AI agents has hit a snag - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPby0wdTFtVmpSdHprNjBoVlFGYlliaVRDZTRQMElXQ2hPSnR5d2dYTGNKNlRPWW10WWl3clVXb2xLNTBERXBZRldyTWQ4dGdvdXR5T2tmRzl5ckZPYnVUVEZEV2lKaUF1ZEZ6eTZfbEdCVng3S0xzdkFhZWFMYjVHQWtPNTNDZ2xXQUN6UHdkaDNzNFB6?oc=5",
+      "summary": "The dream of serving ads to AI agents has hit a snag Business Insider",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Wild XRP Scenario Nodody has Mentioned - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3NOWW9QUVNsQ3lFN1Z4OWNnRmtrb05NNlFXczNTeDFRTnY1cmpXRTNqQlJfWldGVFlBd1dYZjVxUnNvOVEwdk4tS1M1WFpyWnNKcXhUa2wxbEZBUFRnWENyX05LRXJ4TFBCS3JBbndGRVoyaUl5YVhFSU9obHduLVZrUUNFbHE4c2o2MkhBcnRHZnhYQ0E?oc=5",
+      "summary": "Perplexity AI Predicts a Wild XRP Scenario Nodody has Mentioned Cryptonews",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
       "company": "Meta",
       "title": "German advocacy group lodges criminal complaint over Meta AI glasses - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3N0UGpsR1NtWEdwbzM0TVlkakRJQUNxNmMxYzdXZE9KLXZvTDR4bE1vbnhFNTFZOWVCQWsya0ozUmx2czlHck5fQ2x1SDY2NFAwV0kwMFgxV1NoMTlvc294THNtSjJ3dzNOS3dzbzJMbVJfc0xxS29ueFNCRnJjNl96TDJvT2Jyb3lRMmhvUUp6c0tKNDI0eGhjZFluZ2l3MnZldm9QaEx1d05vSGxSRVo0YnRBV0NpQ1FPMHRR?oc=5",
       "summary": "German advocacy group lodges criminal complaint over Meta AI glasses Reuters",
+      "badge": "new",
+      "date": "2026-08-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1QzcjFlN082S0dyck9OZ3FZM2JXZVhyQ1diUmxoeEItRmNEZnlKRFA3aVNlbFRvUVpCajREVDZwLU52NEEwWFFzNXprdkduRW44WWFyMGozOGY2X3p5SGtCQW10QlY1RjY0VU9TcXFaYnVlMGw0QjBQYjQ5YzY0TEFHVHRpZml5VEgyY2dLUlV6TTlNWVNkNF9IaTVwTVNlQzNhaXBqd3F6SmIxbDBlWGhHQVhBY3Bxdi1ITjl2Uzc?oc=5",
+      "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion USA Today",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -154,22 +202,6 @@
       "date": "2026-08-11"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Tries to Shore Up Investor Confidence Ahead of Blockbuster IPO - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkwyZ1VpWlNrT3d1MXNJbmJkXzRSSVpjMkl6UWt6TmlxZF9rdVFaeWc5TmZ1bVBYbjJsNkZpS2txNi1Yal82amFHYjdiRGlrWGswT3RTUVEzc1Q3Zzg2WUNscDZsV3IwTE80aGJFUjJvVzRWQ3pIbnZlSWlLLWZlX0l1N1FiaHpYVEpJTWlzNTJuOVRKdXpnUHlab2NCMnlaNFVtdXJPZWV2RW1DX0E?oc=5",
-      "summary": "Anthropic Tries to Shore Up Investor Confidence Ahead of Blockbuster IPO WSJ",
-      "badge": "new",
-      "date": "2026-08-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU9WU2lITXVsNkVXSV9xSldxQWdnUWwyMWN6bzFMY1J3OUY4RWtBSVpTaG9od3pzYy1BWkdwVHhNcllRNlN2MTJBU3d5aEJXQ2JCQ1F1SEVoMWl1bUFLd3V0OXZUb01sZVhERHg4RnlON3ZvYmprcWU3eEJVbGJtNW13dTBwZjJOUkloV0l0TzJnOEFfeUpYQlZfdVRFQWVRNkM1LXZlNVYyRmRGM0QxRmlKdmRPeURqazI1RQ?oc=5",
-      "summary": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems TechCrunch",
-      "badge": "hot",
-      "date": "2026-08-11"
-    },
-    {
       "company": "Google",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
@@ -203,9 +235,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’ - digiday.com",
+      "title": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’ - Digiday",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUU8xc2pERllIM2RSOHFqd3Ffb05DVGwwMmxTNVN0T1o0QkJwV2RHVk5GS1RqWTFRb0RBQU9pTnBLRTdQRUxlV0dTZ1dKM3QyNHJyRzRacHU4Wnh5OENuUFc4RDJ2d1FCeGppaVlKX3hObllBd2YyTUI3Tnp1WmVXRTd2eDkzXzdGLWw0VzNfRUJFajMyN1d2WXhnVk9udw?oc=5",
-      "summary": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’ digiday.com",
+      "summary": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’ Digiday",
       "badge": "new",
       "date": "2026-08-11"
     },
@@ -219,17 +251,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckVrWEo5NEhCZmJuSVlMd3NYWmR4eWx3NG1WcVpiSnhyYnd2ZGVoM05wdlNsNEhoWUp1bG9kZ3d0dEVjNkJnS182Yklza1ROcmw3RjJEZkt1Z21taWhpbjZWWWRNRDI4Nm9QOG5fRG1fSVNld0tvc0QzeXZCT0ctdTZhOWNXbXNxdV9MSw?oc=5",
-      "summary": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent Yahoo",
+      "title": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkJPOWFKV2pzdXU1VXNtaDZUVFNxXzdhZ0dscllBTE9ManhkbVRwNHo1RzRIUWJ0ejktTENOUFVoT1o3dDFYdmJIbTVMd0J4U2o3N011V1NpX1MxMVU1WDZpc3MxeHJLM3ptZ181TWE4Q2FUbHZvdTNjZTVHa1NSMlNJWW5ENEdjUkU3b0FGQjI3NW1pSGJ2VjZIUkJObnIzeGVocw?oc=5",
+      "summary": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent NBC News",
       "badge": "new",
       "date": "2026-08-11"
     },
     {
       "company": "Meta",
-      "title": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkJPOWFKV2pzdXU1VXNtaDZUVFNxXzdhZ0dscllBTE9ManhkbVRwNHo1RzRIUWJ0ejktTENOUFVoT1o3dDFYdmJIbTVMd0J4U2o3N011V1NpX1MxMVU1WDZpc3MxeHJLM3ptZ181TWE4Q2FUbHZvdTNjZTVHa1NSMlNJWW5ENEdjUkU3b0FGQjI3NW1pSGJ2VjZIUkJObnIzeGVocw?oc=5",
-      "summary": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent NBC News",
+      "title": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckVrWEo5NEhCZmJuSVlMd3NYWmR4eWx3NG1WcVpiSnhyYnd2ZGVoM05wdlNsNEhoWUp1bG9kZ3d0dEVjNkJnS182Yklza1ROcmw3RjJEZkt1Z21taWhpbjZWWWRNRDI4Nm9QOG5fRG1fSVNld0tvc0QzeXZCT0ctdTZhOWNXbXNxdV9MSw?oc=5",
+      "summary": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent Yahoo",
       "badge": "new",
       "date": "2026-08-11"
     },
@@ -354,14 +386,6 @@
       "date": "2026-08-10"
     },
     {
-      "company": "Meta",
-      "title": "Meta just picked a side in a big debate over the future of AI - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0dlVnMtdktjeHZPUDczQXQzLWVlenJyTHZHT3ZrVWN0eGs1NkM3UlFucjJsWnAyLVJxcUVTelZKNXNXNS1UdGlvOGlMZDY2N0ZJME0zYldLYkRQLVNzMW1DRjBRRDMtcDBKLTNEOUpYaXd6eTRXT2pGT1lOSFNKOE41VQ?oc=5",
-      "summary": "Meta just picked a side in a big debate over the future of AI CNN Zuckerberg: AI's biggest risk is one entity with too much control axios.com Zuckerberg lays out Meta’s new vision for AI: Personal int",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
       "company": "Perplexity",
       "title": "Pallix launches an AI visibility tool built for India, tracking what ChatGPT, Perplexity and Google AI tell buyers - 24-7 Press Release Newswire",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeWFrandVSGlaTlE5TzFlYkRuak4tQlRUNDlLV3JkTVZ2U2lGVWhaOFg5V0JZVFNRN3prc2lVZ0pialpzX3djcEZtWU52RkplSDNFQk5QSERZZmhhcjk4N1QzWVF5Z0VrUnZDMzV3d2ZiUHNvUlE5VnZTY3lCUmNTaEh6eklpZW1nYUNfQkQ5NFZEd3ZiR3JxX1Q1VnlqR3NQWjhIYmRaYmpEVUFXSnlITV9fUlNUTTAwaldpVHRaeUtzajJhanJLVVdzaDhCdW9oVTVobGlMd1pCbzdUei10NnZpaUVrbVh0cDY3alRoWDIwbXFRVlc2OUJn?oc=5",
@@ -442,34 +466,10 @@
       "date": "2026-08-07"
     },
     {
-      "company": "Perplexity",
-      "title": "Aravind Srinivas: Rejected by IIT Madras Computer Science, MIT and even his first startup — how setbacks - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQS0M1a1gzM1VQV3R5MTFZYzFBZXZoLWNzaEplbFBuU3d5WUZGMHZ3cEpySVcyaHJ5NVhIS0NsWmFJZTVQUHl6aHFJMXNXb0V0TzBxZTFhOFU5SUg3LVpGOVd3ZGswNzJaaU1aNHUtUExISEg4cnJVXzZ6Zk9LTjdxZG9SaVRhcWk5azZxcjl1S0E1cUIwWnBRaWNNOG56QUZMYmxxd3hLS3pTV01uTkdRSHhTR3VYSWo1U2czdVJjQkdGTUdVeHdPUXMtNTVUS3k4Q0ZCaEpIMDhPdWROcUpqRXdxM3BDeDV0eTIzRmkyUHBneXNCVDN2VkEzVjJJM2s5ejNOWkxjMlRiQUVnZExXanFhNGNnaTNrVk1NNW1mVUI1d0ZiRGVPbWRhUnBrd2VGakVDcHVMSnR2V3PSAcACQVVfeXFMUExja284U3JkUHpLZ0dMc2RjSmpQaUNMNVFEVHdGYlkxNWxScmkwTU1pMmZIRnhKRlg0bWk5ekVfWVZPQ0hXX19HVTBSVl9xaXJpM0JmNXduMEQ2M3JZQURNdnJWdzFUdFItQ0RnbVd5UFdCSGtTeVlUMFpXZDBTd2V6ZHBwREFPVDFkcUxXMU05d2gyOHdsU2oySXhjdHNCa2VIdU1DbzUtNHJsN0tDQ0pRVEZwbXY0VUFoUHBIcDJPVC1lVEpYOXR3bHpYYnlaaUFENm02ZlFYQ2hZSXJJUHNEaS1naXBhUHhjM3NiQmJ6TXRGQzZSVzBOZEZ1V1RpM0RMSmRwTlI3SlpJakdXREFLNXBKNlp2X3lkWE9SRjIzY0hNTUtTb2k4WTRxVm1ZN3dBazFUd2FrcExMRWdYNjM?oc=5",
-      "summary": "Aravind Srinivas: Rejected by IIT Madras Computer Science, MIT and even his first startup — how setbacks The Times of India",
-      "badge": "new",
-      "date": "2026-08-07"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft excludes Domain Exclusion from MS 365 Copilot – days after rolling it out - The Register",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3BqSi04SWFvNGxSR1FPMmkyZllPU21tOHBHYnBDT2pWYXV4NUNkYXpQUXp3cGJpUW9WTnRCNnRLSGgtMHhHSS1nQmpRUklrVHpDSGtSeHg4c2FMZVk2X0NOQ05UQ0EycGVhX1AzQzFITUdJNkgzWC1KUDhTRGRRV21GM0VSZ1NJTGFoWkF3QU42NEdIZ1Y1NG5uWkJqYVJWQXNTdlJJbWszSjEtXzRPVXhvMDRfazN0VHY0RUJWVnh6Mi1tOUNKMFJlaDJ6ZTduWTl6UA?oc=5",
       "summary": "Microsoft excludes Domain Exclusion from MS 365 Copilot – days after rolling it out The Register",
-      "badge": "new",
-      "date": "2026-08-06"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Appeals court sides with Perplexity AI in Amazon shopping dispute - Northeast Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenU4M3ozNWUybko3SlRJaElYSk15MTdYU1h6eXFfdmdMY1N5QzljTkZ3QzNhMHR6d19EOUgySnQ2b0ZxaUJaX0ZWbC1nZmVnVU83dVljZXNyNXE5UWZBaHVZLXpvQWhBWGVNUHFOQkNCek0tSExqMGotY3N5TjlvSnFqbTJNS0pqV0dhdU9KZHROM0ZpREhSYnRMNEMzeWZGdXVPZEhyTQ?oc=5",
-      "summary": "Appeals court sides with Perplexity AI in Amazon shopping dispute Northeast Times",
       "badge": "new",
       "date": "2026-08-06"
     },
