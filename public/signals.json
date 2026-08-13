@@ -1,35 +1,43 @@
 {
-  "updated": "2026-08-13T12:57:17Z",
+  "updated": "2026-08-13T18:54:58Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "Anthropic investors bet on $2tn valuation in record IPO - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM?oc=5",
-      "summary": "Anthropic investors bet on $2tn valuation in record IPO Financial Times",
+      "company": "OpenAI",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "badge": "new",
       "date": "2026-08-13"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGg2WHkzMjJKbTVZOTQwZEx0Q2lWZ1pTT2FTa0FVZjFHdFNTTDVQNlRweURVZ0hSTm1SdUVVZ0owbjhHaDZ1bm1udnVKWHpJOElSeDBNb1d1VTctUWd3MEd1UTRrSUIwSHB1VGtmSHFTVGlkT0E4MVdCS21YbnZ1MndnQmJZWm4wQVZLcg?oc=5",
-      "summary": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX Fortune",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion - Bloomberg.com",
+      "title": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-      "summary": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion Bloomberg.com Anthropic in talks to buy Decart AI, source says Reuters Anthropic in talks to acquire Israeli AI startup Decart for $6 billi",
+      "summary": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
       "badge": "new",
       "date": "2026-08-13"
     },
     {
       "company": "Anthropic",
-      "title": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXc3ZnJEY3ZvOU5QLUs3YlNmNTNsQ1FSdS1LT0phclRMZmZmaTNzMWFpcUt3NUZEdXhXNlUwVjhiWmNGNlFJMjhiUlk0elA5X3B4c2V3Z1oyMWpHcXZIWEFIbFQtazRYQnVENFc2dTJneXJTdzZDNW9OVDFpZHp4dkdaSmRxdmot?oc=5",
-      "summary": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks The New York Times",
+      "title": "Anthropic in talks to acquire Israeli AI startup Decart for $6 billion - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YZmhfWnFacjlJZmdyeXlyYW5GSTNka3ZTM3FHUjdzLUhRb3o4a210T1ptWEVfSF9VZnhOdkxQaEo5eFlpMVJhaElfODdyOTl0eFB6UmE2N05EUXZCWkZ1aV9TYlp4ZEk?oc=5",
+      "summary": "Anthropic in talks to acquire Israeli AI startup Decart for $6 billion calcalistech.com",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -43,9 +51,73 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic investors bet on $2tn valuation in record IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM?oc=5",
+      "summary": "Anthropic investors bet on $2tn valuation in record IPO Financial Times Anthropic investors target $2 trillion IPO valuation in October qz.com Anthropic CFO Krishna Rao is leading early IPO meetings w",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGg2WHkzMjJKbTVZOTQwZEx0Q2lWZ1pTT2FTa0FVZjFHdFNTTDVQNlRweURVZ0hSTm1SdUVVZ0owbjhHaDZ1bm1udnVKWHpJOElSeDBNb1d1VTctUWd3MEd1UTRrSUIwSHB1VGtmSHFTVGlkT0E4MVdCS21YbnZ1MndnQmJZWm4wQVZLcg?oc=5",
+      "summary": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX Fortune",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXc3ZnJEY3ZvOU5QLUs3YlNmNTNsQ1FSdS1LT0phclRMZmZmaTNzMWFpcUt3NUZEdXhXNlUwVjhiWmNGNlFJMjhiUlk0elA5X3B4c2V3Z1oyMWpHcXZIWEFIbFQtazRYQnVENFc2dTJneXJTdzZDNW9OVDFpZHp4dkdaSmRxdmot?oc=5",
+      "summary": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks The New York Times",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0lraXlNdFZaSnNiVTByNTBSSFNkRlVleERhdEFmTVJjblpKT3p5T0JaSU13dDA0TmNQRV9RN1Q0bUx5bS14b2Nvc3Y4SjB3WUZkRVZ2OGpubmg5WkxPLW9DT1hKMnFlVXNPUW5uOXpscFFzNHh3QkdVSXUxRVJDYWVGZUtDY0FVS2NSUUY5em1CVUhuRm1Fa2Y3dXA?oc=5",
       "summary": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Google",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "summary": "The video shows Sheets canvas in action.",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1U3bmhsSG43ejd1b250NHlkTjdfSG9IbmZxTS1mTlUzTllwSzNSVTltUm05UXJ0UVNTZGlfNFk5TlIzNWFVOUcwWVY2S25kZkhlNDQ3Vngxb05hRG5JaU01M2VycjV0ZDliSUNITFhEX0VPdmtfUmJYeXZQS3loNGxudWthcFZFZnRILUhVMFRDcWJfd0psWVlPbTNTaU5VaUJPNTB3b0g3Ti1KV21MRDFQVG8xeWtCRE9GS0F4eWRHYjVE?oc=5",
+      "summary": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout GeekWire Microsoft kills off unsuccessful AI features while merging its separate Copilot apps TechCrun",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "TokenOps: Real-time, run-scoped cost control for AI agents - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdldHaVZUUEQtLXU2N1NUSTBCMVV0b0UwVl9xTVRMREYtNkZXbU5BSUVCcU5oQXc5THFvdUEtN09ZYWwyZEViSVZqVFpaRmg2WXoxLS1POG90eFUxTXVrbDk4ZVJlYllDajNkOVprR0Z6UmxKOVZKM1hvaVV2OFh5TnM0bzk1cWtrWWxGQkZMQV8?oc=5",
+      "summary": "TokenOps: Real-time, run-scoped cost control for AI agents Microsoft",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Unifies Copilot Across Personal and Work Accounts in a Single App - Petri IT Knowledgebase",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyVnloWU9yYzVYS0VreVZGYmtmNWwtV2FYS2lkbXp3d2tHb29xaldnZmhwb19rd1BnSkFob2NyVmpxaWhKekpLbDY5cGdZTDZkMkJzcDh5SnRKSmJhR2NxZWhIeXg2VVJqS05v?oc=5",
+      "summary": "Microsoft Unifies Copilot Across Personal and Work Accounts in a Single App Petri IT Knowledgebase",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Merges Copilot Apps, Kills 3 Features - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWTFlYzJKRmRoS0pDczFWZ3NITzVQZXM2OXNleG5iRGJLVVF2dE03dlVZd01QeUFUcmtIWFFjUWxNTnpEOTFJTUE1b0NOVDI3NzZtN0laTVF4Y3gyX1l3OGk4bUs0UnRwVFFRS3dvRWtpcm9oVnUxNHZGUEJLRnZESkRMeUF3Zw?oc=5",
+      "summary": "Microsoft Merges Copilot Apps, Kills 3 Features The Tech Buzz",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -54,6 +126,14 @@
       "title": "Microsoft in spotlight as JP Morgan ups target, citing Copilot, infrastructure acceleration (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSl9hNEtpYTNFRGtMWGlVREo1S2hUVVk5TG1EX2U3ZlR3NWh3Q2VJb3p1ZzJqcERfYzlSa1YtckhFaUVZTkxlSDdHc1R1S1J6eGZBb2w4cEpSNXNzTGxia2xzMmFzdVNLVXFscEpIVTlCZVA0ZVB5UGNWU1VBeGx3ZHJSMDNsbC1qS3BKMlhhNVhCb2k0TnFmRGpXdUxxc0xsOG5hUm9Kd3Y4bm1JVHN2cHFYMkNBLUlvVFc4YUhWLXJNUzFQWmc?oc=5",
       "summary": "Microsoft in spotlight as JP Morgan ups target, citing Copilot, infrastructure acceleration (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -125,7 +205,7 @@
       "company": "Anthropic",
       "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEVNMnZGYXhTZUZwOUdOOEsxUGpaVnJNa1RGdkZ3SE9ldzRoaUF1cVFXcWJ5bzRvaXV1N2txOFAtTkt1andTTWdiZVY4UU92UTBqRHVQbXBYQzlaMVFCZ2dMamhoc05jckdPdnpycmE0SHQ4Snp2LTFMOTRqT3Q2cE5XNDUwREhzMEZBalpEaUhabzJzRFd3X20tQmlGLVlmYVJhb1k5cHpmbEd3dWNZQjhPTC03OVpMM0FhSDAxY1lLZkJMX0w4a3JMR0pBVDJySHVNMg?oc=5",
-      "summary": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes TechCrunch Anthropic's text watermarks signal new front in AI detection axios.com ‘I think tha",
+      "summary": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes TechCrunch Anthropic's text watermarks signal new front in AI detection Axios Claude’s new Sca",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -146,14 +226,6 @@
       "date": "2026-08-12"
     },
     {
-      "company": "Anthropic",
-      "title": "Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXFzeTVXN3RETVU0emZVTWZqRV9HQ3JHYnRkLXlHTEtLZHA5LWtjVlo2c1lxTFZYclVCeVg4R1RFR3pxMU9pa0tkMUp4enktMFNjeFNhWk1rQks3Ym0xNFJ2WFdOdWFDVktnUXNCVlNDTUloN0luYVlZTmliNzhKOGJWOHo5U3Z5bGRRXzlhUG96VFVVRzVPZHQySlI3aU1Qa1A2QWU3ejRxY0k?oc=5",
-      "summary": "Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
       "company": "Microsoft",
       "title": "Windows 11 ships nine AI components, you can delete one - notebookcheck.net",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONklBLTJ2UEdfT0g4QWR2ek00UGJacXluNXdqYkNjNmtiY1hSYTQxQ3FUQTRlQkI1V09Zb1dxbjNxR1RXeG4tUG9jdWIwM3liSHprYWFoeV9lS0tnX0lUdTVzQ1Z1d3o0QjZXYWxsb1FoRG5WVVJxUUZIM3FtU3JncGxQRkNLc2d0VndpaVpCVU11Umo3Yy1IeWVOSzZNVE1H?oc=5",
@@ -163,9 +235,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "The dream of serving ads to AI agents has hit a snag - businessinsider.com",
+      "title": "The dream of serving ads to AI agents has hit a snag - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPby0wdTFtVmpSdHprNjBoVlFGYlliaVRDZTRQMElXQ2hPSnR5d2dYTGNKNlRPWW10WWl3clVXb2xLNTBERXBZRldyTWQ4dGdvdXR5T2tmRzl5ckZPYnVUVEZEV2lKaUF1ZEZ6eTZfbEdCVng3S0xzdkFhZWFMYjVHQWtPNTNDZ2xXQUN6UHdkaDNzNFB6?oc=5",
-      "summary": "The dream of serving ads to AI agents has hit a snag businessinsider.com",
+      "summary": "The dream of serving ads to AI agents has hit a snag Business Insider",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -195,17 +267,17 @@
     },
     {
       "company": "Meta",
-      "title": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FPRUtHWlY4Tm0zOEFNWExiUEVRY0xDQ3A4ZFVBakc5YzZGU1ZRRjNIQ1Btb3lUT1EtS1ByeVcyNWI0TjcyQ3ZKVkFONlZ0LVhMSlZFTUdXUy1qUVhUQWVsaGJ0T1puUlVwOFh2QVhvekp0UEt0YlBmUjlvclNlbnlocw?oc=5",
-      "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion Yahoo",
+      "title": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1QzcjFlN082S0dyck9OZ3FZM2JXZVhyQ1diUmxoeEItRmNEZnlKRFA3aVNlbFRvUVpCajREVDZwLU52NEEwWFFzNXprdkduRW44WWFyMGozOGY2X3p5SGtCQW10QlY1RjY0VU9TcXFaYnVlMGw0QjBQYjQ5YzY0TEFHVHRpZml5VEgyY2dLUlV6TTlNWVNkNF9IaTVwTVNlQzNhaXBqd3F6SmIxbDBlWGhHQVhBY3Bxdi1ITjl2Uzc?oc=5",
+      "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion USA Today",
       "badge": "new",
       "date": "2026-08-12"
     },
     {
       "company": "Meta",
-      "title": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1QzcjFlN082S0dyck9OZ3FZM2JXZVhyQ1diUmxoeEItRmNEZnlKRFA3aVNlbFRvUVpCajREVDZwLU52NEEwWFFzNXprdkduRW44WWFyMGozOGY2X3p5SGtCQW10QlY1RjY0VU9TcXFaYnVlMGw0QjBQYjQ5YzY0TEFHVHRpZml5VEgyY2dLUlV6TTlNWVNkNF9IaTVwTVNlQzNhaXBqd3F6SmIxbDBlWGhHQVhBY3Bxdi1ITjl2Uzc?oc=5",
-      "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion USA Today",
+      "title": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FPRUtHWlY4Tm0zOEFNWExiUEVRY0xDQ3A4ZFVBakc5YzZGU1ZRRjNIQ1Btb3lUT1EtS1ByeVcyNWI0TjcyQ3ZKVkFONlZ0LVhMSlZFTUdXUy1qUVhUQWVsaGJ0T1puUlVwOFh2QVhvekp0UEt0YlBmUjlvclNlbnlocw?oc=5",
+      "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion Yahoo",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -346,22 +418,6 @@
       "date": "2026-08-10"
     },
     {
-      "company": "OpenAI",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
       "company": "Google",
       "title": "Evolve your marketing with new AI tools",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -382,14 +438,6 @@
       "title": "Microsoft Copilot AI Reveals the Solana Setup Traders Are Watching Closely - 99Bitcoins",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFMwMnR0d0F4cVhGVlhJQkFCNmcwV2sxdTFiNkIxVEZHSkktUFVSTmdvWTdfYzNEOTJEOHRLdTc5LTZ3bFRKUklxTk4xVzFNb1l5d0UyOUx3M0tvUGJtemdkNkZmOVhtbWg1S3VXY1VVd2MzZDBNMzNGT3pFLU9HbzFxLWtXazBJLXc0QzZKNlJJN0dVT25fNkhLcWNTem1VRkMtNzYxTnY5cTRLeFJMQ0VR?oc=5",
       "summary": "Microsoft Copilot AI Reveals the Solana Setup Traders Are Watching Closely 99Bitcoins",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Watch From Coding to Finance: Microsoft’s AI Agent Push - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhlSlAyTGZJUUpkbHQ4eWEycTR5XzR6cTFvUVVIMXpCTV94YzhfclBWd1RJMjlsWGlla0Z4dTZ0V1hOZFY1TGxfenU3THNkMmxNTGZ1SXZCWEdxcGFhX2lodTVZNkFQR2xtSkt3OW44Q0lCQk5Oa3RJYkZBWGpoTm1BZVlBVjVRVlRLd1ZXYWlabE8zX01rQUV2Ry03Sml1X1NVY2dR?oc=5",
-      "summary": "Watch From Coding to Finance: Microsoft’s AI Agent Push Bloomberg.com",
       "badge": "new",
       "date": "2026-08-10"
     },
@@ -418,44 +466,12 @@
       "date": "2026-08-09"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft's top AI boss has a message for engineers using GitHub Copilot: Your token spend is now being t - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPOUZ1YTJRN2xQYTVOZl9nZlJ4TW9CSjdDSVAtbENra0dBYTBsWE1PQ3JaeF9ZcDZCSktiTHJCT0kwRVp0VDMxUVd2ck5TNzQ0SnE2Zjlsa3Y2LVVFY3BJcGtpVk9waW1wQ1BhS1pzckhldmRzWWlMQjdtLUdTVWZrVUZrZDJObURRTWxUbm9SX0xFS2lIMVo0Rzl4WHIwMDg2bkFuR1BuSFdXck9zQ3F1T1BDLS1FbU9NVkg5X2dSbVFDYUxzYW9nY1E2ZUlSQXdpS0NDZVQtblNUOGxkM1hVaEgyOXhoaUYtcFF6S2QzeERuSWhfN0xONVdfNGl2ZGdHVDNTalF6YmFUYnNERE1LRjU4ZHlIRGt2Rk9UWdIBogJBVV95cUxPb1lCcl9acXZ1c0dsbUlNai1fLUJnN0JUZjZxRTI3a2ZsNHBxN0xMenl5THJyMUp0TDltWVo1d0k5UjZDeFBmNXhZQkJkUHMtMVRnX2JoTk9rVk9SQlU0X0FPWGtPWHB0Nzl0Q29kMEtmN05DcWJ2eXpzdk90b2VRM3VVNEFydXNoS05TOHp5YnlvWWRJbktQR29VSk9TaktRcUowU2tuUTc3RjBPMlJqSUFiYjduTEl4VlRjUldiNmNFUFVyVjVXQmZoaWRJc1VPbDNLbnVFS0hubWwyQkwyVUVPMW1RT2l2QXhRVENHaE1MWkhsM2NRbERDcHM1dTRNMllTVXZINVlLc1czY0JxdjUzWi1QR2stSC1USl9GbUcyQQ?oc=5",
-      "summary": "Microsoft's top AI boss has a message for engineers using GitHub Copilot: Your token spend is now being t The Times of India",
-      "badge": "new",
-      "date": "2026-08-08"
-    },
-    {
       "company": "Perplexity",
       "title": "A Federal Court Just Ruled Perplexity's AI Agent Can Keep Shopping on Amazon - startupfortune.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0FOQUgyV3o0ZmlQVF9JOEpEdkFpTWc5TnllWWdTRW9vOHA1RUt4SzhvOEJiNkJ1LU1GaTUtYmtVaG1ucFg5T3ctWHotbW82UjNXekJDZjJ5WklSRW1UcENDQ3pyeFpMTF9LYmdUQzNtR3B1SjhxMWlzZHEtZXh6TnB1aWc0VVhYWG1IdDZ4RUVfa3hvVW9FY1hTTTZNWkRWZHRKalZR?oc=5",
       "summary": "A Federal Court Just Ruled Perplexity's AI Agent Can Keep Shopping on Amazon startupfortune.com",
       "badge": "new",
       "date": "2026-08-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "badge": "new",
-      "date": "2026-08-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Tired of waiting for Microsoft? This Linux developer built his own native Copilot app. - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVnBISF9oMnF0TXozeWQzUldzQ2psenNFY2NrU1ZvOEEwdG01TlVHbHF5cDRpdVJzM2RhTm80RXRxM1d3NlJ3TG8zSFRpaWtmeU5HSGdfVm93Wm5fXzFJWHRORGVvTVNXVTdkcVV1X2RSRktaLWphVjFjak0zQ0lwRU9icFNkall2bWxHYUdSTzZyeTdNMlFNcmt0RUh6NVJTRUdKejdLSnJ5b0tVdG9oUW9iZjJhV05ZclRPR2l2YWpUdVZDalhsQzF5NDByN0JKQVBhLW9sUUdsU2NpS1dmTFBR?oc=5",
-      "summary": "Tired of waiting for Microsoft? This Linux developer built his own native Copilot app. Windows Central",
-      "badge": "new",
-      "date": "2026-08-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDkyaVhlUDdvZmRJRjFIdnJBSWhrSFN3ZjZqRV9Kd1NfZVFnSkpOamJQbEJnUkZMOFdCbGx3d0RhU1NUUkZ2aVNwWFEwSUN1bmFUVS1KaWdfZWNwNHN6U3BjQi1nMUEyRzdRc0NRa3lXdWI0YkVjeVNVUllTbzNXNmRHSkswbDZTX2FxUG02TdIBlAFBVV95cUxQSUxwYUN0Q2lJc2dsZW9KODhxN2haS0pTQlRxcy1Ub1lmWlM1emcwMkRkaW1uQ3gyTmZ1dnA2eTk2cFNUM1FjS1RKekhwSldxUGxXMTczdExaRzUwU2ozR2Y5Y1F2NVl6SGg0dEpZbUxmRGZ4V0RxdkxaSDlWQXBuNUdYbU9ZSGhoRU5ZWUx5dWNLU0pY?oc=5",
-      "summary": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot MarkTechPost",
-      "badge": "new",
-      "date": "2026-08-07"
     },
     {
       "company": "Perplexity",
@@ -530,14 +546,6 @@
       "date": "2026-07-28"
     },
     {
-      "company": "Apple",
-      "title": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
-      "badge": "new",
-      "date": "2026-07-28"
-    },
-    {
       "company": "Amazon",
       "title": "Ring cameras may plan to track people using AI, according to leaked emails - Mashable",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xOENzYVh0TTdTNDl6TXpxd21QMXlZaDU5MDhBalNDYkY4SnJSRFBUYjdrUXN2NllpRFlCaXVLRlhCdEpBVmxRMVU0LVphbHlvakpCbWxkbG85VmlvdngxTWhFWE50aHA3dEFITEhKWm4zV2ptT05mVA?oc=5",
@@ -566,14 +574,6 @@
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "summary": "Connected apps rendering",
-      "badge": "new",
-      "date": "2026-07-16"
-    },
-    {
-      "company": "Google",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
       "badge": "new",
       "date": "2026-07-16"
     },
