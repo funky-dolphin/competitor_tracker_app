@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-14T18:44:41Z",
+  "updated": "2026-08-15T00:55:19Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-08-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Claude's text watermarking works - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "summary": "How Claude's text watermarking works Anthropic Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark Business Insider Facing Backlash, Anthropic Explains Why Users Should",
+      "badge": "new",
+      "date": "2026-08-14"
+    },
     {
       "company": "Anthropic",
       "title": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ",
@@ -11,9 +59,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic boss’s wife ‘tried to raise money from Epstein for porn business’ - telegraph.co.uk",
+      "title": "Anthropic boss’s wife ‘tried to raise money from Epstein for porn business’ - The Telegraph",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXk2X3JHMDZRYnF4Tm9NWk5uY2QzZDY1XzUzVzJ2WDNDdFJWdVkxdWcxNEdJdjRKNmhqdWpFTS1BeVdEMGZjVVNDUk10ZVRSNVA1WXk3RXZMMlhSTUhDRzZlN1Qxb25DNUhPQlVCMTZ4ZUpMR3loS2dIdVJRVUoyLUlwbjREeTZ4UGZKX21EejdJRC1UNlJhdkV6RkwtNmYzV1laNzZB?oc=5",
-      "summary": "Anthropic boss’s wife ‘tried to raise money from Epstein for porn business’ telegraph.co.uk",
+      "summary": "Anthropic boss’s wife ‘tried to raise money from Epstein for porn business’ The Telegraph",
+      "badge": "new",
+      "date": "2026-08-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Who Is Cami Clark? Anthropic CEO’s Wife Asked Epstein To Invest In Porn Business - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPakZhdkEzcnJOSUNIX0I5S1d2clpKajROMnV4Si1HOVVVYXkzRUxITzVRQTRHcjJ1ZmhTd1ZtNWRjc1dxdlBENWR3dFIzZUNiN1NBUjdmYkJQVXU0TXZTTDdCSURXOFVlSGtIYW5XTFN2NnFNQ2dVXzdteTJSaXdzV0FBZHpOeUxRUllYMjMtQVNQNV91aHkxWjFlcmtpV0ZBZTVnYW1UQ0hKYjRYYnNtRmx0QW1qYlMyMVhubUgxYUJneDlfak1YMzFaS2k?oc=5",
+      "summary": "Who Is Cami Clark? Anthropic CEO’s Wife Asked Epstein To Invest In Porn Business Forbes",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -82,42 +138,10 @@
       "date": "2026-08-14"
     },
     {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "company": "Meta",
+      "title": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFBDRDRXTVlSOWxucVJhWE9hOEhCalRJRXBKQ3FpUno2T0kwUFMzRWFmN3R2S1I3Z0paVjlJMTJjczJZQWZ5NnFmdEVrbndteFVxSy12MXp0MWl0dVNVanBYdXJBS1hnRjNSemw5TlpMWVFIMUhwMnFIOExUU2VkclBhQWdiSVdDdlNBV0NISFltQjQ?oc=5",
+      "summary": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race Yahoo Finance",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -147,33 +171,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
+      "summary": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say CNBC Anthropic investors bet on $2tn valuation in record IPO Financial Times Anthrop",
+      "badge": "new",
+      "date": "2026-08-13"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic’s ‘First Lady’ Took a Winding Road to the Top - The Information",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1pkMTZBZVVsODhZc3FDTXRuMVpkeXBlNjFEZXZBVTFWQmU4MVlEMkd5U2NNbk4zWXp2RHA4cGNfY3dVZkFGLW5HQXloQ3l5eGpCbWdaT25CTW1VR0NWWU41bTdJWWQxdDViRW1nOEhraUNlTVo2SHFxaFd4NVBvNGt1eEVqcjVNTmFZ?oc=5",
       "summary": "Anthropic’s ‘First Lady’ Took a Winding Road to the Top The Information",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-      "summary": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
-      "summary": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say CNBC Anthropic investors bet on $2tn valuation in record IPO ft.com SpaceX set an IP",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFDcUl1V3FOWEM4WmhQQVlwVElDbmdPcnIzb1otRVE2akVDbUJBRHoxVU83bXpEM0hkclloQ0ZvUkUzVGVHLU1zenBvUzIwWmt0WTA3WnVnV3dsVHhtVU1jNmN3bGphc05YT3pUR0I5eFU2SXltUjl3OThDNk8xaVFwQkE3Yk9PNk1aNDFXcXRnSFBrNTE0WUo4ZUpmNXhUTDNORXRib2w?oc=5",
-      "summary": "Anthropic set AI agents loose on the same task. They started a turf war. TechCrunch",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -189,7 +197,7 @@
       "company": "Microsoft",
       "title": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1U3bmhsSG43ejd1b250NHlkTjdfSG9IbmZxTS1mTlUzTllwSzNSVTltUm05UXJ0UVNTZGlfNFk5TlIzNWFVOUcwWVY2S25kZkhlNDQ3Vngxb05hRG5JaU01M2VycjV0ZDliSUNITFhEX0VPdmtfUmJYeXZQS3loNGxudWthcFZFZnRILUhVMFRDcWJfd0psWVlPbTNTaU5VaUJPNTB3b0g3Ti1KV21MRDFQVG8xeWtCRE9GS0F4eWRHYjVE?oc=5",
-      "summary": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout GeekWire Microsoft is combining its Copilot apps ahead of a ‘super app’ The Verge Microsoft ditches Co",
+      "summary": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout GeekWire Microsoft is combining its Copilot apps ahead of a ‘super app’ The Verge Mico, Microsoft's We",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -350,14 +358,6 @@
       "title": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - Yahoo News Canada",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SWVo3a2NFMWlrdFc5eW04SDZVdzlwYlVtSXc4d0RSYTEyRS02Y1FyQl82dmpXNGFuLUotY080eTVvYm5qLS1xekxIaXNLQ0o0YVNfZ2g1cmM0X0FMa0tYLWlvZkxuMlZqQi15Uk90VXJTdw?oc=5",
       "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion Yahoo News Canada",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's Muse Glimmer wants to bring AI agents to your laptop - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMlRwYU51WHM2c1U2bEJsTTh4bE1ES3FSWnMxWTVaWm5ObmRIMjMzYUhHSHpna20zTUgtcjR6aGVRRVVzV1lyWmNJU3F1XzBUMlZyVmF0SkZtRGZPM3BrdktUZzFTLUI1Z05V?oc=5",
-      "summary": "Meta's Muse Glimmer wants to bring AI agents to your laptop Mashable",
       "badge": "new",
       "date": "2026-08-12"
     },
