@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-16T12:27:55Z",
+  "updated": "2026-08-16T18:19:53Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
       "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times",
+      "badge": "new",
+      "date": "2026-08-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
+      "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -75,17 +83,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots - theconversation.com",
+      "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots - The Conversation",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWHpWSUY4aE5HRHpmYUVmS0RuXzlpU0hUZ3hySENYX3FJREhTWlhpSHBrbUs4ZnA5U0pNMmRZVjZXenRSeU5sS05KdENicmFvVTh5dW1aX0IyZGlZdG8xQnNNS2Fzd054QXVnc2t3STBLU18xLTliaFFzMjNBd2JLbzBHR3NLTWVKenRMRE9XMUtTdFl0YnBCamk5c0IyMFRhcmJnN2lPb003QkFVN2hIYUdfSHdZRnNvbTR0ak1mczh2UzJFTkVJTC1MV2JfWkYzbXJDOVVoOTA2VTB5Y1E?oc=5",
-      "summary": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots theconversation.com",
+      "summary": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots The Conversation",
       "badge": "new",
       "date": "2026-08-16"
     },
     {
       "company": "Meta",
-      "title": "Instagram vowed to crack down on Meta glasses creeps. A month later, it was easy to find dozens of the videos still up. - Business Insider",
+      "title": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5",
-      "summary": "Instagram vowed to crack down on Meta glasses creeps. A month later, it was easy to find dozens of the videos still up. Business Insider",
+      "summary": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. Business Insider",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -170,18 +178,26 @@
       "date": "2026-08-15"
     },
     {
+      "company": "Meta",
+      "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdXS05xRW1WQ2ItQmhUZEd1SVowVkJISVhwQ1Z5STF5dnJkV2pVRmExN1JoLXNEMkZKdGV1eGZnWnVvV2I1QllUZ3JJTktoeFdKa3JtY3NSMFlBRUYta3k5d2RJdnFzVUJIMGVGY2V0SThGTG94SlEzMl9KQWRsZkduN0RycGx1SjBGOVViQVNvbXE4TS1WdTU2MGhLNjhZLUtUVHM2WVF3ZGZKalBmOURR?oc=5",
+      "summary": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-15"
+    },
+    {
       "company": "Anthropic",
-      "title": "How Claude's text watermarking works - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-      "summary": "How Claude's text watermarking works Anthropic Anthropic shares more details about how Claude’s new watermarks will work TechCrunch Claude users are canceling their subscriptions, citing Anthropic’s n",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
+      "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground Financial Times",
       "badge": "new",
       "date": "2026-08-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Who Is Cami Clark? Anthropic CEO’s Wife Asked Epstein To Invest In Porn Business - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPakZhdkEzcnJOSUNIX0I5S1d2clpKajROMnV4Si1HOVVVYXkzRUxITzVRQTRHcjJ1ZmhTd1ZtNWRjc1dxdlBENWR3dFIzZUNiN1NBUjdmYkJQVXU0TXZTTDdCSURXOFVlSGtIYW5XTFN2NnFNQ2dVXzdteTJSaXdzV0FBZHpOeUxRUllYMjMtQVNQNV91aHkxWjFlcmtpV0ZBZTVnYW1UQ0hKYjRYYnNtRmx0QW1qYlMyMVhubUgxYUJneDlfak1YMzFaS2k?oc=5",
-      "summary": "Who Is Cami Clark? Anthropic CEO’s Wife Asked Epstein To Invest In Porn Business Forbes",
+      "company": "Microsoft",
+      "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5",
+      "summary": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) Lifehacker Less than a year on, Microsoft tells Mico to pipe down The Register Microsoft’s Clippy-like Mico character ",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -198,14 +214,6 @@
       "title": "Microsoft’s Copilot Super App: The Race to Consolidate AI - Cloud Wars",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFdqeWdkMkdkUGdaRE0tVGQ2Tm02RHpYWTNqUTJ1Q2JScWxfTjM4QjdHVkpZczltbFB5S2ROYkRlOVdIc1ZwN0ZSZVNsVlBOLUtvTUpuWl9GV2JFd3lCXzhIX1ZINkxUMVBiREJIRW9YUHpFZTE1VmNfMllaUjctd0Q5bWZVMDR5?oc=5",
       "summary": "Microsoft’s Copilot Super App: The Race to Consolidate AI Cloud Wars",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5",
-      "summary": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) Lifehacker Microsoft is combining its Copilot apps ahead of a ‘super app’ The Verge Mico, Microsoft's Weird Lil' AI Gu",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -285,15 +293,15 @@
       "company": "Microsoft",
       "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’ - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmpleXNsa2QzS3dnal9fNkJoV0ZKdl9zdllIOFQtUU1hTzAtSVdRRk5iQWRuSTg2NFdjODE2SHFJeEdSNDRKUEZhSGVFQ2dpLTZObXlGMWlPWnRNeUV0U0Y0MXBLMFByWEdXa0F0SmhZM0ZFdEpVLWxRRGpWeklGUEFDdm5tVVJ6?oc=5",
-      "summary": "Microsoft is combining its Copilot apps ahead of a ‘super app’ The Verge Microsoft kills off unsuccessful AI features while merging its separate Copilot apps TechCrunch Less than a year on, Microsoft ",
+      "summary": "Microsoft is combining its Copilot apps ahead of a ‘super app’ The Verge",
       "badge": "new",
       "date": "2026-08-13"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Unifies Consumer and Enterprise Copilot in Push for Single Platform - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORFVNaEc5V2JqQ3AtN3BDUHA4eHRiV2YwUXdVbnJUM0dGeG5MVzVXWXA5bkhkLTBHWDQtVUM0R3BtYnBfdGhsZG1kUDJkU0dDOFl6MHU0UTZnWGRuejNRT3NZQzRKb1hFYlc0OHNCc2szVTFoWEprYkhid1Y0UjR2M3g0eUFBRkJnNHN0cFAwSi1fbWZ5ZTg2QVJZNTdnYkxDSEFRMUJKVjNDZjR4U3dzTjQzWWVkMkc5UDRTSWZfWUtkZVFkSEMxcVViU2U2S3BfRGpjdA?oc=5",
-      "summary": "Microsoft Unifies Consumer and Enterprise Copilot in Push for Single Platform PYMNTS.com",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWV3ek1ranctOEsyeU5jWlJwcmpCSmNfM1Z6MVl2MzZtcmtpMGRnMzV4MHRhcXBuVGVTLUMzRjhhblVQTDBacVo0alo2UVl6SmYxeGRsakZnbTZLZFB0SWFhWlB1VWlzMEJGakdPT01CYnVZS1VYSVZUbmJyRlBlUkVHVlJTdkcxc05TbUQwLTVIUFJQaGw2alYwWWpTa0h5VDV6a2pWeVFNcUF0NUg4MjVNYWRmMlVjV1pj?oc=5",
+      "summary": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps TechCrunch",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -315,17 +323,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Is Giving Away 15,000 AI Glasses To Blind And Visually Impaired People In Ireland - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekQxZ0ZELWREaC1BVlNabTgxN2FFR1hyMUtMbTJTX0w0RGRjbG9WQUk3V1B0Z1Zqb00yWk9JbVJobTBLSnJYOXlRd3Y4Wl83Zi1kMS10ODEwcWZhVUVESEdPU0lmX2pJUV9wVjNNSmVTU0pMbVNObVVaUUE3MGEwUXR5MlBFbE94Y2FHVmJ1OE92MmpnMlE?oc=5",
-      "summary": "Meta Is Giving Away 15,000 AI Glasses To Blind And Visually Impaired People In Ireland Engadget",
+      "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUQzZVJhT1NBYkxxQ2FFTlZ4Wk4zcmw3VGktbFB1VXBrOXVBenRwOEU3dFVOcUFPekR1MkZSaTdJY3BTNjEtUHFaOVBjMFFUQ0EweFc0WEJWN0ZMRDh3N1ZybjdWdnNoeVN0ZldOSlhJUHRaZGMxX25GcTNzSlpBM3N3b2ptUVNCWDNBMHBMdk1fTlFnU05OcVJKemowVUk5TEdpUDJQV01xbnM?oc=5",
+      "summary": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters The Guardian",
       "badge": "new",
       "date": "2026-08-13"
     },
     {
       "company": "Meta",
-      "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUQzZVJhT1NBYkxxQ2FFTlZ4Wk4zcmw3VGktbFB1VXBrOXVBenRwOEU3dFVOcUFPekR1MkZSaTdJY3BTNjEtUHFaOVBjMFFUQ0EweFc0WEJWN0ZMRDh3N1ZybjdWdnNoeVN0ZldOSlhJUHRaZGMxX25GcTNzSlpBM3N3b2ptUVNCWDNBMHBMdk1fTlFnU05OcVJKemowVUk5TEdpUDJQV01xbnM?oc=5",
-      "summary": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters The Guardian",
+      "title": "Meta Is Giving Away 15,000 AI Glasses To Blind And Visually Impaired People In Ireland - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekQxZ0ZELWREaC1BVlNabTgxN2FFR1hyMUtMbTJTX0w0RGRjbG9WQUk3V1B0Z1Zqb00yWk9JbVJobTBLSnJYOXlRd3Y4Wl83Zi1kMS10ODEwcWZhVUVESEdPU0lmX2pJUV9wVjNNSmVTU0pMbVNObVVaUUE3MGEwUXR5MlBFbE94Y2FHVmJ1OE92MmpnMlE?oc=5",
+      "summary": "Meta Is Giving Away 15,000 AI Glasses To Blind And Visually Impaired People In Ireland Engadget",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -382,14 +390,6 @@
       "title": "Meta AI glasses face criminal complaint in Germany - politico.eu",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3NLUXV0TU14UWhNbm9wcW50S1pTTURUUHNyeWhDeGhrS1RMZDZyYUJZemZITGJ3X1EwV0JmMzlMSklXZUM2RjVMdnlnT0dsV2lhRnZwSmtHMEN6TS14WXNnaTA4aUs4ZWI2SVBvT2dqNVIzaVVRQjFxRHJ2U3VkdkhPREZTSjMyZHpV?oc=5",
       "summary": "Meta AI glasses face criminal complaint in Germany politico.eu",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "Meta",
-      "title": "The first Midwest Meta Lab is coming to Chicago - Axios",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjQwN2NueHFWVnFVazFGYkQxZVNsVEw1N3RqRmxyeFktWkxLOHl4R05OWjFtS291MTZ6WV9ObXNya281WFRJSDJBRjhDWmZQeUMtWTZqbFFiWS0xQ3QwUFJnUl9UWTdCUEd3S1VCU0FuR1JrRzZSbFBuWC04VE9PdGxtUXREMUxRR3hPV2lFOEtQbDNsNXF6RVVEMnE5RXc?oc=5",
-      "summary": "The first Midwest Meta Lab is coming to Chicago Axios",
       "badge": "new",
       "date": "2026-08-12"
     },
