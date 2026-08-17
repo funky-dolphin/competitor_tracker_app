@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T00:55:42Z",
+  "updated": "2026-08-17T06:42:05Z",
   "signals": [
     {
       "company": "Apple",
@@ -90,6 +90,14 @@
       "date": "2026-08-16"
     },
     {
+      "company": "Microsoft",
+      "title": "Microsoft retires its AI companion from Copilot Voice less than a year after launch - notebookcheck.net",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamc4czRmc2R1Q2NFeGxDLW5pUEd6aDFNZ1QwR0E2QXlTY1pZRTdrdE1rdHIxbjY3OWM3WG92ckhwR1IwLVpzUnV0VnctdEs0WFhsdExfZEQ0LUlJZHRvSEVJendkeUsxalVUUWliaGx0QTd6cmRhbTZhRGdhLXZWTzFTeGJoXzFzUk9mRUdoM19ScndIRzEyMGtVRGxldjhndDlxVnFEcEZkZlhVVjVXS3VBNFFPSV84OTNXa0VLVlhNWXZqQW5v?oc=5",
+      "summary": "Microsoft retires its AI companion from Copilot Voice less than a year after launch notebookcheck.net",
+      "badge": "hot",
+      "date": "2026-08-16"
+    },
+    {
       "company": "Perplexity",
       "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots - The Conversation",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWHpWSUY4aE5HRHpmYUVmS0RuXzlpU0hUZ3hySENYX3FJREhTWlhpSHBrbUs4ZnA5U0pNMmRZVjZXenRSeU5sS05KdENicmFvVTh5dW1aX0IyZGlZdG8xQnNNS2Fzd054QXVnc2t3STBLU18xLTliaFFzMjNBd2JLbzBHR3NLTWVKenRMRE9XMUtTdFl0YnBCamk5c0IyMFRhcmJnN2lPb003QkFVN2hIYUdfSHdZRnNvbTR0ak1mczh2UzJFTkVJTC1MV2JfWkYzbXJDOVVoOTA2VTB5Y1E?oc=5",
@@ -112,6 +120,14 @@
       "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses The Independent",
       "badge": "new",
       "date": "2026-08-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
+      "summary": "Anthropic shares more details about how Claude’s new watermarks will work TechCrunch",
+      "badge": "new",
+      "date": "2026-08-15"
     },
     {
       "company": "Anthropic",
@@ -138,10 +154,10 @@
       "date": "2026-08-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVwQ3JiUlNPS3Q4QUJjTXA0WWo4OGVfTm1qOVdPbGFIUnFueExrTldXdzZsTjJFVTdXTWsyanJGWjUxQ29IeFJqVWVHNUJtdW9oTFRzSmNtbm05S1VlWVlkZ1lDVnNWOXFPbTVCT2JIZU5aR3M4WHktMmhjNjVrNjZUNERyU2ZnV2pJTWVPTnc3SWs?oc=5",
-      "summary": "Anthropic says its AI agents are killing rivals and hiding their tracks Business Insider",
+      "company": "Microsoft",
+      "title": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release - XDA",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0RWQWFfekhGM0ctdDUxSGdQRV9rS2JvbjRya3BOY2tfaEdNRURraE00aXU5aHhoUVNPQmY5NmFfSjRIWVFCaERQY3BSV2tPVS1pZlJySHZiRVdpck52dy10bzRoRDQxYzZtMTZqQzJrOGNTNXltQU8tb3ZZYWp1dzdoMnlURkF5QnEta3ZLbG9iaE01TWJwekd4bnVQZkY2WGtqOFZrb2cxdFdNUm9HSHVBcWdyUmcxSTI5aUk1dw?oc=5",
+      "summary": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release XDA",
       "badge": "new",
       "date": "2026-08-15"
     },
@@ -150,14 +166,6 @@
       "title": "Microsoft kills off COPILOT function in Excel - Neowin",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ua0dIbWgwdkw0N1J1QlpEU09BbVRZUFNqTzJMM1c4cnh0SGRCbE9sNWxENFdpTjRPQ3dhOUN1bFc4ZXJURkotZXU5UXJCYzUzLVRCT3lfaHpGMGwyQjBNT2NHdF9RUk1HXzhwTHlhQUtxQklrVE5vYlQzd1F2M1E?oc=5",
       "summary": "Microsoft kills off COPILOT function in Excel Neowin",
-      "badge": "new",
-      "date": "2026-08-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release - XDA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0RWQWFfekhGM0ctdDUxSGdQRV9rS2JvbjRya3BOY2tfaEdNRURraE00aXU5aHhoUVNPQmY5NmFfSjRIWVFCaERQY3BSV2tPVS1pZlJySHZiRVdpck52dy10bzRoRDQxYzZtMTZqQzJrOGNTNXltQU8tb3ZZYWp1dzdoMnlURkF5QnEta3ZLbG9iaE01TWJwekd4bnVQZkY2WGtqOFZrb2cxdFdNUm9HSHVBcWdyUmcxSTI5aUk1dw?oc=5",
-      "summary": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release XDA",
       "badge": "new",
       "date": "2026-08-15"
     },
@@ -258,6 +266,14 @@
       "date": "2026-08-14"
     },
     {
+      "company": "Meta",
+      "title": "Meta's 'Pervert Glasses' Are Absolutely Being Used to Stalk Women, Study Reveals - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1pjanhNUGFsbUM2cWE0Y1EzMmduNGN2WEFDNFVCallDMVIyenB0ckItRjVkMWY5Z3JhczRaVTdvOFpsN09fRVliVzJ2bkNEUHdQcEhjYjBXNkZ2RnJuQmhhYzY4VVJ0bmlyb3dJNFBKUWhMZEpVa0N1UnBxNC03SWZkT2tXeWN2S0twWmF3UGtBOFY3akEtcDd2MnQ?oc=5",
+      "summary": "Meta's 'Pervert Glasses' Are Absolutely Being Used to Stalk Women, Study Reveals Yahoo Tech",
+      "badge": "new",
+      "date": "2026-08-14"
+    },
+    {
       "company": "OpenAI",
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -291,17 +307,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’ - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmpleXNsa2QzS3dnal9fNkJoV0ZKdl9zdllIOFQtUU1hTzAtSVdRRk5iQWRuSTg2NFdjODE2SHFJeEdSNDRKUEZhSGVFQ2dpLTZObXlGMWlPWnRNeUV0U0Y0MXBLMFByWEdXa0F0SmhZM0ZFdEpVLWxRRGpWeklGUEFDdm5tVVJ6?oc=5",
-      "summary": "Microsoft is combining its Copilot apps ahead of a ‘super app’ The Verge",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft simplifies AI offerings with unified Copilot app rollout - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZVE1S0JPQndhS3hyMTBBQmdrWE1FaDRfSnlVWnZ1eHdLb0daWEtkSm5sRWFoVHVMT1JKQ0QtOWdhY3F3cW9VZnZOZldVbGIwTmFKTW5PSktLUVNaMlJQQ3RlOHctWUhOWThxVktXMjNhME5zQXk2dzkxUzJsa3dXbVhSd2Q1QVNQZ2hxa3dYVDVOakFGYk5nUHpHOEp3SUV0SEFLMTNENkZTSDFBd1Vyd2ZRWGZ5ZEhZdWpqRkdrVEpoRVdBaEZWb1RQRW13eTMweVBZdmRNSGRGMXhXLXBTQlNsaXA1S21WOWN6RW5GY2JOeGIyWjZTRUFrbkFHRkk0Qm8zNy03c3J6dlZjdFpFcm5RUlcxaXZFUnBkTTJBaHF3MXI0ODF1eEhWUHlhaTdXYy1LZmtYdW1tNzBDLUxBMld5UkhGOUxJSGxQQg?oc=5",
-      "summary": "Microsoft simplifies AI offerings with unified Copilot app rollout Windows Central",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qalV2T2J3amIwRmQxN182WHhGWUt3LXQ4Uk45cG5nSFhySWcyMEdYUFZfNVJvWUpPaWN1Z05qQVJCVFFqZGVfYTdGT3UzSWdDN2NJSC13Mmw4azROcHFZR0JUbzAzU2htZEZTeDZRX19IdERHU3c?oc=5",
+      "summary": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot The Verge",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -315,9 +323,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "I replaced Perplexity with a local LLM on Android to get instant offline search answers - Android Police",
+      "title": "I replaced Perplexity with a local LLM on Android to get instant offline search answers - androidpolice.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3otTE11SjI4bHk4RnJ2ZFk0VTd5MmFvZlJEZkRpaVNYb25NaEF1T3d4Q3VVeUF4bDhIQ3RvX0VhQ20xVFdtajg4amd3RGZPVzl1cU9MTXplMVMzSEFPWk10dTVURjFfcVVGbEVDeGtXdWRsdzJOaktHMnVyMGhiLTRhZ3dvcWZacV9KTTRaY2pUNThra2dqVHhMRVlUazllMUNxRUNSVFloYjB6bG9fQlNBUTE?oc=5",
-      "summary": "I replaced Perplexity with a local LLM on Android to get instant offline search answers Android Police",
+      "summary": "I replaced Perplexity with a local LLM on Android to get instant offline search answers androidpolice.com",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -382,14 +390,6 @@
       "title": "New Research On Meta’s ‘Pervert Glasses’ Show How They Are Being Used to Stalk Women - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtnakM0QXlRX3M5ME1QZks0dUNjTlc2cU1jZldROW83d1V4UC1zYlo5YldrWmFwTzRsRmNiWlJEQURjMnRuVXJ5V2RSQi12bjRMZUlZVXE1TVNqTnNhNkxTVGxTRW84QmtsUEhWU3pwZmVYNWowdjVFQ0NqTWI1OEVyZUNHTHRVam1vS2RiYXZybW5UYmlR?oc=5",
       "summary": "New Research On Meta’s ‘Pervert Glasses’ Show How They Are Being Used to Stalk Women Yahoo Tech",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI glasses face criminal complaint in Germany - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3NLUXV0TU14UWhNbm9wcW50S1pTTURUUHNyeWhDeGhrS1RMZDZyYUJZemZITGJ3X1EwV0JmMzlMSklXZUM2RjVMdnlnT0dsV2lhRnZwSmtHMEN6TS14WXNnaTA4aUs4ZWI2SVBvT2dqNVIzaVVRQjFxRHJ2U3VkdkhPREZTSjMyZHpV?oc=5",
-      "summary": "Meta AI glasses face criminal complaint in Germany politico.eu",
       "badge": "new",
       "date": "2026-08-12"
     },
