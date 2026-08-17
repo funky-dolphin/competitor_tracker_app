@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-16T18:19:53Z",
+  "updated": "2026-08-17T00:55:42Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
     {
       "company": "Anthropic",
       "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
@@ -27,6 +67,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
+      "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ TechCrunch",
+      "badge": "new",
+      "date": "2026-08-16"
+    },
+    {
+      "company": "Anthropic",
       "title": "First AI Protester Sent To Jail Tells OpenAI, Anthropic And Meta To \"Regain Your Humanity\" - ndtv.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1BTUkhSN3ZoSEJmQWZNS1k3Q0pfRkNNeWw3dmkyVXluMEV6OGpQQlo0WGtHel9JWUo1TTFQakR1c3ZWdGhIdjFSajNVdnJmMWpmaGl0a1dCdmZCQmlvaDlLVmppN2xWako3Zm5BNmpLWVV4cGRNVW5iaVZGbjRZa2dkeXZGT2NiWEdpYlhaWnlkYVFtY2pzSlpTTlU0OFZiTWJ0b3BoZGpjN0xQd3FTQWNKVDNpZS1ld1ZPb2xXWkVmZXhWcG5F0gHPAUFVX3lxTE5Ub0pfV1FkamRqN1lVWHc0MC02aUZ3V0VpSmJLbWVObEJudXFMZVIzNk9nMTlZS3R1aktQVTRPSTlpWG8zdlY0LUlqZmNRMERFVDVodzY4OWhVSkEyLWxQcmJnZ0hYTnFfS0ViT0tXeERBSGl0aFgtWEIwa0VLWVlYQmpIWlhfZDV6OW5TRXI3T0M0RjExWWNBYWpGdE9Rb0tPVFZ4VEF2T1pQcDlFZ3prNzB1Q0w5UnpCR19IcGJiQ05uckNJWFI1R2tMYWNZRQ?oc=5",
       "summary": "First AI Protester Sent To Jail Tells OpenAI, Anthropic And Meta To \"Regain Your Humanity\" ndtv.com",
@@ -38,46 +86,6 @@
       "title": "'Luxury porn' pitch to Epstein: Anthropic CEO's wife Cami Clark's ties surface - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUnhuMndlXzIxWW96VmZLaGF3NHNhWlUybElzeER2OHp1eHZiWUhVMnBUTElCRXVGdnUyVEpmTWpNUWJPNExaeE80RllKVFJ6MTR5YnVQZWVkSE9OV3BDcGNiMV9xdzdtaVBiN3pCYzRHTEFBX1hmOXZ1c2cza0NnNUN4MFBoOV9fM2xPQXRxSVVPdkp3UGR1dXZmdVlPTVNxV3lkdVMtLVo3UW5mYm51RGVhTXZiUEdPZDhfM2MxVFQyNzJDeWpfdVAzUEI4aVcxR3lsVG5KY2pHNG550gHiAUFVX3lxTE8tS3JWUldSU0N3RGJnN2hOOTBTQkozakg5aTBQTkZsMk80WG5uYWx0a1hDSmtDSktiV0xISHBGV28xb3luNUJqYy1OYi1UWkEzdXpOLXR1eVBfdkExV3BoWEtwNk1sX2lJU2VjUVQ2ZzdNbXhUT2NoTGVVRkYwOU9kSHIyN0taUVpLamJ5NkVxUW1RNlhjelUyMXB0NzFDdUtNc09IaXU4dGtCalpUOHhvV1NoUURpdWRiMUpNR0JHRUQyWnhhblltZDVzOXEzQzBTMkpnX3JtcWw0QUtQUFA2T2c?oc=5",
       "summary": "'Luxury porn' pitch to Epstein: Anthropic CEO's wife Cami Clark's ties surface The Times of India",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -186,18 +194,18 @@
       "date": "2026-08-15"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
-      "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground Financial Times",
+      "company": "Microsoft",
+      "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5",
+      "summary": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) Lifehacker",
       "badge": "new",
       "date": "2026-08-14"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5",
-      "summary": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) Lifehacker Less than a year on, Microsoft tells Mico to pipe down The Register Microsoft’s Clippy-like Mico character ",
+      "title": "Less than a year on, Microsoft tells Mico to pipe down - The Register",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjUyMDRobE15eVc2ejlCenJIbkpqeGtXcEJXRVFZaUxzc1JoOWROU2VZdm9NYllidTlCNjVMQ1VmQ1NJNmZ4MFp5TVNoeDg2RG9adU9mV1FKZ1Q0U1gtbFlpUU5MVVZtQWIwUEhFVWx6MGx6SDl4LUYtOEVfcjc2ekZPSUc1a1ZIWmxhamF2NXFVZjYxWHc4RFprUVZNYl9rSmtWUXp2dzR1UHVrcmtn?oc=5",
+      "summary": "Less than a year on, Microsoft tells Mico to pipe down The Register",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -230,14 +238,6 @@
       "title": "Microsoft Is Merging Its Copilot Apps Into a Single Experience - Redmondmag.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFIyNzVjbktDQWwtZWY2Tm9tREZHZlhOU0RIbzA5OGtwdW56QXdPX2c0eHNSNjBxcGR6S0JFWmZnLU1KZWNIdnp5WUZCT1ktbTExTURjR2ozRHBKWTJfa0tGRTNJSDBaUXNOSGF0NTU1WTJGcFlsME1DS3I3MjVNa1RBdHBENHlPSWVXNzBBSW9mOHBWTkVnQzlXMlJwRWlSSVNPa1VaT2RWMmtYQmc0?oc=5",
       "summary": "Microsoft Is Merging Its Copilot Apps Into a Single Experience Redmondmag.com",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Less than a year on, Microsoft tells Mico to pipe down - The Register",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjUyMDRobE15eVc2ejlCenJIbkpqeGtXcEJXRVFZaUxzc1JoOWROU2VZdm9NYllidTlCNjVMQ1VmQ1NJNmZ4MFp5TVNoeDg2RG9adU9mV1FKZ1Q0U1gtbFlpUU5MVVZtQWIwUEhFVWx6MGx6SDl4LUYtOEVfcjc2ekZPSUc1a1ZIWmxhamF2NXFVZjYxWHc4RFprUVZNYl9rSmtWUXp2dzR1UHVrcmtn?oc=5",
-      "summary": "Less than a year on, Microsoft tells Mico to pipe down The Register",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -299,9 +299,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWV3ek1ranctOEsyeU5jWlJwcmpCSmNfM1Z6MVl2MzZtcmtpMGRnMzV4MHRhcXBuVGVTLUMzRjhhblVQTDBacVo0alo2UVl6SmYxeGRsakZnbTZLZFB0SWFhWlB1VWlzMEJGakdPT01CYnVZS1VYSVZUbmJyRlBlUkVHVlJTdkcxc05TbUQwLTVIUFJQaGw2alYwWWpTa0h5VDV6a2pWeVFNcUF0NUg4MjVNYWRmMlVjV1pj?oc=5",
-      "summary": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps TechCrunch",
+      "title": "Microsoft simplifies AI offerings with unified Copilot app rollout - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZVE1S0JPQndhS3hyMTBBQmdrWE1FaDRfSnlVWnZ1eHdLb0daWEtkSm5sRWFoVHVMT1JKQ0QtOWdhY3F3cW9VZnZOZldVbGIwTmFKTW5PSktLUVNaMlJQQ3RlOHctWUhOWThxVktXMjNhME5zQXk2dzkxUzJsa3dXbVhSd2Q1QVNQZ2hxa3dYVDVOakFGYk5nUHpHOEp3SUV0SEFLMTNENkZTSDFBd1Vyd2ZRWGZ5ZEhZdWpqRkdrVEpoRVdBaEZWb1RQRW13eTMweVBZdmRNSGRGMXhXLXBTQlNsaXA1S21WOWN6RW5GY2JOeGIyWjZTRUFrbkFHRkk0Qm8zNy03c3J6dlZjdFpFcm5RUlcxaXZFUnBkTTJBaHF3MXI0ODF1eEhWUHlhaTdXYy1LZmtYdW1tNzBDLUxBMld5UkhGOUxJSGxQQg?oc=5",
+      "summary": "Microsoft simplifies AI offerings with unified Copilot app rollout Windows Central",
       "badge": "new",
       "date": "2026-08-13"
     },
