@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-17T06:42:05Z",
+  "updated": "2026-08-17T12:32:50Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Google",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Excel's Copilot function is headed for the Recycle Bin - The Register",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZ2WG1POFA3UGZSUHdBRXNhc091U29KbHhWOEgzSktRQTg2eWZhS0hlSHJyS05xZTl2WWRoeXl0ZFoyTUljTjRKV0pucHJleFFPUkdJajVDWHRvZWVpNXo2cjZZOVFxTjIyN2xCRUtxUFZuMV9uMkM2SFA1NEtSalA1M3A0bGpHYktwaXBuYVhFRng2ZHJOY3BobmhMMWtYOWpEZHdHRlVSQzJlOHdZ?oc=5",
+      "summary": "Excel's Copilot function is headed for the Recycle Bin The Register",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
     {
       "company": "Apple",
       "title": "Apple opens Advanced Manufacturing Center in Houston",
@@ -42,6 +66,46 @@
       "date": "2026-08-17"
     },
     {
+      "company": "Perplexity",
+      "title": "How to Tell If Your AI Account Was Hacked - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVRabEN6bHlwUEpSckxReFZEZjVrT25FR0VNcWpZSnhtNm1qVmhWQ1V3b2I5UHR5VTFJNUd0M19sVVVJZmxPaGhjYmFxX0VEdDVmOUVBSThNVjR6T1BVc3Q0dlpmOUJhMVVfdWVLdnNLNHgyc3BiaHJ5NTQ5VkpZOVFtMjNkWXhm?oc=5",
+      "summary": "How to Tell If Your AI Account Was Hacked Technology Org",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
+      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
+      "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ TechCrunch",
+      "badge": "new",
+      "date": "2026-08-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5",
+      "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer Business Insider",
+      "badge": "new",
+      "date": "2026-08-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzlIdWpnMXozSkZObS1RbEdadnFzUHFkVC1LY3NCYVNGd2JneUN6NHJKQXdDaDU0UExhWXVyeHlMMk8zV1hLRGgzWHZrWTNDYjFpd191MFBMUzRLNm9iZzlIV3BPUWZFSGtlUDc1b3JqUE1kbHpsWHlTT2lwdjlacUk3djBpaW1FX2NacDFfaVNMR0JCUUprQ0ZvRXBETHBmN250UUZyOW44dEJfMHN5NEZKUXJiQkl4?oc=5",
+      "summary": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' Fortune",
+      "badge": "new",
+      "date": "2026-08-16"
+    },
+    {
       "company": "Anthropic",
       "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
@@ -62,14 +126,6 @@
       "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
       "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ The Guardian",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
-      "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ TechCrunch",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -138,18 +194,10 @@
       "date": "2026-08-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
-      "summary": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter CNBC",
-      "badge": "new",
-      "date": "2026-08-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
-      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say Reuters",
+      "company": "Microsoft",
+      "title": "Microsoft kills off COPILOT function in Excel - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ua0dIbWgwdkw0N1J1QlpEU09BbVRZUFNqTzJMM1c4cnh0SGRCbE9sNWxENFdpTjRPQ3dhOUN1bFc4ZXJURkotZXU5UXJCYzUzLVRCT3lfaHpGMGwyQjBNT2NHdF9RUk1HXzhwTHlhQUtxQklrVE5vYlQzd1F2M1E?oc=5",
+      "summary": "Microsoft kills off COPILOT function in Excel Neowin",
       "badge": "new",
       "date": "2026-08-15"
     },
@@ -163,9 +211,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft kills off COPILOT function in Excel - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ua0dIbWgwdkw0N1J1QlpEU09BbVRZUFNqTzJMM1c4cnh0SGRCbE9sNWxENFdpTjRPQ3dhOUN1bFc4ZXJURkotZXU5UXJCYzUzLVRCT3lfaHpGMGwyQjBNT2NHdF9RUk1HXzhwTHlhQUtxQklrVE5vYlQzd1F2M1E?oc=5",
-      "summary": "Microsoft kills off COPILOT function in Excel Neowin",
+      "title": "Microsoft Is Retiring Excel’s COPILOT() Function After Just One Year - Windows Report",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTJuTl9HQUxrNmpobllqejRWZl9oVVZTUmpIWHdIWkp2RmZBOXY4SE1PSl9UMjNGd0ZCbHZpSk45ZkRUYm9LTmhrMS0xbzJXbXluV2JyS3ZzOE81WWJjZ2ppSmNVVGRLWUNwVmYxNE0wVU9xc1FhRmRjWDRrV0k0S2NodjRNdTNLYW1RdUwybHowMjlmb1hB?oc=5",
+      "summary": "Microsoft Is Retiring Excel’s COPILOT() Function After Just One Year Windows Report",
       "badge": "new",
       "date": "2026-08-15"
     },
@@ -242,10 +290,10 @@
       "date": "2026-08-14"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Is Merging Its Copilot Apps Into a Single Experience - Redmondmag.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFIyNzVjbktDQWwtZWY2Tm9tREZHZlhOU0RIbzA5OGtwdW56QXdPX2c0eHNSNjBxcGR6S0JFWmZnLU1KZWNIdnp5WUZCT1ktbTExTURjR2ozRHBKWTJfa0tGRTNJSDBaUXNOSGF0NTU1WTJGcFlsME1DS3I3MjVNa1RBdHBENHlPSWVXNzBBSW9mOHBWTkVnQzlXMlJwRWlSSVNPa1VaT2RWMmtYQmc0?oc=5",
-      "summary": "Microsoft Is Merging Its Copilot Apps Into a Single Experience Redmondmag.com",
+      "company": "Meta",
+      "title": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFBDRDRXTVlSOWxucVJhWE9hOEhCalRJRXBKQ3FpUno2T0kwUFMzRWFmN3R2S1I3Z0paVjlJMTJjczJZQWZ5NnFmdEVrbndteFVxSy12MXp0MWl0dVNVanBYdXJBS1hnRjNSemw5TlpMWVFIMUhwMnFIOExUU2VkclBhQWdiSVdDdlNBV0NISFltQjQ?oc=5",
+      "summary": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race Yahoo Finance",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -254,14 +302,6 @@
       "title": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVPWER1UEFaZEgwWnJJTlBfS1Z5SHdSY3g3c1dJMWE3SkplclJvRlEwUFFEaW5DNHJVb0NhZlBmWGZOWC1RS1JSTEVmYjdRSnY4VWtUc0NaeFh1RW83NlBsZlJycFZRQUg2NExQd3JKVkc5aTE3UU85cVZVdExjS0s3VzExczZ0SklDN3VUZEwzdUM0?oc=5",
       "summary": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage Yahoo Tech",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Meta",
-      "title": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFBDRDRXTVlSOWxucVJhWE9hOEhCalRJRXBKQ3FpUno2T0kwUFMzRWFmN3R2S1I3Z0paVjlJMTJjczJZQWZ5NnFmdEVrbndteFVxSy12MXp0MWl0dVNVanBYdXJBS1hnRjNSemw5TlpMWVFIMUhwMnFIOExUU2VkclBhQWdiSVdDdlNBV0NISFltQjQ?oc=5",
-      "summary": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race Yahoo Finance",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -306,14 +346,6 @@
       "date": "2026-08-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qalV2T2J3amIwRmQxN182WHhGWUt3LXQ4Uk45cG5nSFhySWcyMEdYUFZfNVJvWUpPaWN1Z05qQVJCVFFqZGVfYTdGT3UzSWdDN2NJSC13Mmw4azROcHFZR0JUbzAzU2htZEZTeDZRX19IdERHU3c?oc=5",
-      "summary": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot The Verge",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
       "company": "Apple",
       "title": "Apple Upgrade launches in the United States",
       "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
@@ -323,9 +355,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "I replaced Perplexity with a local LLM on Android to get instant offline search answers - androidpolice.com",
+      "title": "I replaced Perplexity with a local LLM on Android to get instant offline search answers - Android Police",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3otTE11SjI4bHk4RnJ2ZFk0VTd5MmFvZlJEZkRpaVNYb25NaEF1T3d4Q3VVeUF4bDhIQ3RvX0VhQ20xVFdtajg4amd3RGZPVzl1cU9MTXplMVMzSEFPWk10dTVURjFfcVVGbEVDeGtXdWRsdzJOaktHMnVyMGhiLTRhZ3dvcWZacV9KTTRaY2pUNThra2dqVHhMRVlUazllMUNxRUNSVFloYjB6bG9fQlNBUTE?oc=5",
-      "summary": "I replaced Perplexity with a local LLM on Android to get instant offline search answers androidpolice.com",
+      "summary": "I replaced Perplexity with a local LLM on Android to get instant offline search answers Android Police",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -382,14 +414,6 @@
       "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs - CNBC",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbG55ODQ1MkFvUG1lN1VpX2RiZlFkYUJLenJBaURVamhSSi1jUVRvT0VRTVI5c2tJN2xMUlhjM3dzMFJZbGo4ZUpLM2ZkYTQ4UW5CRi1aMlpUTi01TUpIYWV5N1UwdzlTUGpOTkhkdTc2TjA3Q211OHNwcHNKRk3SAYQBQVVfeXFMTTNJdG5JRE9Ca044b2JZemp6NVZuNW5ORFo0SnFveEhYWHhOYjc3WWlLY2l6SXctS2dTRjdwRlBnbDV4Z3h1ajYxVDR3SHZ1dXdDMm4xc1RzNnhvTDBXNEx5bTEtdnRnVEd3cnNZc0hKV3otZFZGQ3p1MUZ4RmJNT3lXT0hh?oc=5",
       "summary": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs CNBC",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "Meta",
-      "title": "New Research On Meta’s ‘Pervert Glasses’ Show How They Are Being Used to Stalk Women - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtnakM0QXlRX3M5ME1QZks0dUNjTlc2cU1jZldROW83d1V4UC1zYlo5YldrWmFwTzRsRmNiWlJEQURjMnRuVXJ5V2RSQi12bjRMZUlZVXE1TVNqTnNhNkxTVGxTRW84QmtsUEhWU3pwZmVYNWowdjVFQ0NqTWI1OEVyZUNHTHRVam1vS2RiYXZybW5UYmlR?oc=5",
-      "summary": "New Research On Meta’s ‘Pervert Glasses’ Show How They Are Being Used to Stalk Women Yahoo Tech",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -458,14 +482,6 @@
       "date": "2026-08-10"
     },
     {
-      "company": "OpenAI",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
       "company": "Google",
       "title": "Evolve your marketing with new AI tools",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -478,14 +494,6 @@
       "title": "Major League Soccer returns to Apple TV tomorrow",
       "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
       "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
-      "badge": "new",
-      "date": "2026-08-10"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amazon Loses Bid to Block Perplexity’s AI Shopping Tools - Global Cosmetics News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFN0V0I2eTFZUUwtd0VId0dMZmUxMHllNmx4T19lM3NISUhISTlZSGNaRzQyUzFDUnloUlpnRVRRNU5Ya0lzem1pSE80Y0tHckMwcU9RLWZIRkgySHBMSmdPUGdBQXRvRDRmVDdqOGpoMHgwZFJGMG1PemdFTGRSanlWY2lfb0ZwSTVSOUwtUHZoTnlwZ2c0?oc=5",
-      "summary": "Amazon Loses Bid to Block Perplexity’s AI Shopping Tools Global Cosmetics News",
       "badge": "new",
       "date": "2026-08-10"
     },
@@ -568,14 +576,6 @@
       "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
       "badge": "new",
       "date": "2026-07-22"
-    },
-    {
-      "company": "Google",
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "summary": "Connected apps rendering",
-      "badge": "new",
-      "date": "2026-07-16"
     },
     {
       "company": "Amazon",
