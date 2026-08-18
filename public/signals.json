@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-18T06:33:16Z",
+  "updated": "2026-08-18T12:33:58Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "badge": "hot",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot: Deep Research ends, successor is paid only - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbi1UbjNnUDlNVFRmUFhXRHN2QXJNQ2swRWZ1VURLSjd2cmZ3R3lQR2Jza2pvSkFFaHZzNUNYS0ZqXzhiRG9DX25Yek1VU1Z3ZTlDdEZJcFktbUl4cFRjdU5zdUNkdUZLOENGZWtvSmFDc1VKYS1IWGE0Vk8xX0tBWlFzbXRMQjBwV3pnNWo4Tl9kX2FLV1haVWozUXJteFpHdWg2d2o5SQ?oc=5",
+      "summary": "Microsoft Copilot: Deep Research ends, successor is paid only Notebookcheck",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
     {
       "company": "Apple",
       "title": "Apple opens Advanced Manufacturing Center in Houston",
@@ -42,6 +66,22 @@
       "date": "2026-08-18"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity challenges Time’s AI agent advertising push - Marketing Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWI5SXE3UnhiLXdreVdwSGtoRVJ6Q2xhMzNiaF9BbG83Q3dSODFnQ3JRN1RFR1RuUkozazcyUUE4UllBZC1RVzNBM2FkUXRJSUdqc2tKa1EzSnRmbEkwblk4NkVLU09Lb2tKZjJVUFZwX3NDdkNnNHE3TDNqN3dMcG1n?oc=5",
+      "summary": "Perplexity challenges Time’s AI agent advertising push Marketing Tech News",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Meta",
+      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0pVbGh2cjRPNnk2YkR3RDJEd2RLSU1zazBlMFJ0OUJ4Wlk1aDQ2OGRyWXpRNi04ejc0T3hBUWR0aTRFMHVpdXFwTU9CV2EwRXVhN1dDS0d4cG1lSXB2VEp4VWY2MkFkS3YyWk5oVm5MVGdMdVdlLWdhLXFqbDNfY0YwY1Exd1hLdWZSRw?oc=5",
+      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Yahoo",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
       "company": "Meta",
       "title": "Meta Taps Disability Groups To Explore Uses For AI Glasses - Disability Scoop",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFIQjljRUdFXzZBRTdNc2lzc0Z5dGtVS0FPX01MVlZPNzNSMmpQdk5rVWt4Vkk0NThMbWJ6eEtQbFpzZkZNTGw5MjVGQTYzYVgyU05yNVZrNkNOcWM5S2lTenJoRzIweHVCSmtxT2xzTU1lZkxTSjlyeF9rTWFwTEdNaU44SGdYY1ZzVldrMXFzT2cySEZwQVVyLUlDeFdvcjBXVUEtS205d1RF?oc=5",
@@ -75,6 +115,22 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic revenue run rate tops $65 billion, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ?oc=5",
+      "summary": "Anthropic revenue run rate tops $65 billion, source says Reuters Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO Axios Anthropic’s Annualized Revenue Tops $65 Billion Before IPO ",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdndROUV5bmltd1BSWktMaVBwMnJDdE41TXd4bzJqSGpZQ2x0cXREXzd1eUp5dmQ0cXR1MmxFVXRtNFRlWEN5aVR2aUVRQ085X0ZUalRkZlNpbmcwYll1cUUxeWZSMGNOcVdNT1B5dVhjUkN6UHNtY3VELTFSNTVROENfc0FvUzlaeXFKSDJfQkNoRWFadDVSSTVXV09uX3Nud0ZUVklJSXE3RFpMRUJxQk9fdWh6bW04S2hwSA?oc=5",
+      "summary": "Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic The Hollywood Reporter",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
       "summary": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO Bloomberg.com Anthropic revenue run rate tops $65 billion, source says Reuters Anthropic's revenue run rate reportedly surpasses $65 billi",
@@ -86,14 +142,6 @@
       "title": "Anthropic's new invisible watermark marks content generated by AI chatbot Claude - NPR",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWxhMXFJelFTUzM5UVlDQ2MzeHBfWkxRaVpEeVFuNDhnaDBBU2VkV3BpaFpZdWNCMXNzb2Q3Y0VNam5iLUFFZGNVaFZ0MXBPdDBXdFEwZlU4UDhEWGdreTVxbjAtOThiWXZwMXFlYXRLR3pLV0F0RmxQemI5UWxRcHY0T3BJUVRUNkc5bTRCb0d2NGxfUFc0dFJnYzR6Y3lhaW0yQXZlNzdDc1VwbmNiQ1ZrX2M4ZGxfbU5CUmQ2ZFFPdw?oc=5",
       "summary": "Anthropic's new invisible watermark marks content generated by AI chatbot Claude NPR Anthropic shares more details about how Claude’s new watermarks will work TechCrunch Claude to start watermarking A",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdndROUV5bmltd1BSWktMaVBwMnJDdE41TXd4bzJqSGpZQ2x0cXREXzd1eUp5dmQ0cXR1MmxFVXRtNFRlWEN5aVR2aUVRQ085X0ZUalRkZlNpbmcwYll1cUUxeWZSMGNOcVdNT1B5dVhjUkN6UHNtY3VELTFSNTVROENfc0FvUzlaeXFKSDJfQkNoRWFadDVSSTVXV09uX3Nud0ZUVklJSXE3RFpMRUJxQk9fdWh6bW04S2hwSA?oc=5",
-      "summary": "Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic The Hollywood Reporter",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -123,14 +171,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb29iOTJzRTNiNWd1QXVGU1J4bkE3cVhiOXlBWkZjektxM0dGUFFrakkyZDBpNUFQOWFZTS1lamtEZGVDLW1mY29oNGFNWExNeFNUWG5DTUc5WDlzaTl1cG5JbmNzZVhoVm5sbmtDb0VtQ0Y4Qk84N2dENkpBVTBBTkVEeGU1Z1BDRlRDTXVLdWRZS3RGMXVnTjF2SFQza2d3U21fQW10a0pUUXFCOWlyS3dfczJnakJpb09rMXVMa1NtWE1tOUNLa3ZrNTZLTUF2Z1FlaW9iRDNUdGxfdUtSTm53?oc=5",
-      "summary": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing Windows Central",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1ExTFNFaWNHV2prZ0JBd0tEb0FGamRKWnBZY1plb1R6YXpBSXdmVE9WZ0twWmNvRjVnN1l4NWNEMWZMdmRoOHJpWHI3VDhOTm5lRXc3QjRKLWdXZUxFVjZVWFhkeWFhZ0hkbkJGb1V0aVFYclJSLUY3bGJ0VU9ncHNxWVpQUzh5alFCcnU3U2IxbXhLSHktVW1aTkU2cTI5ODd0N1I1OXBzTzFBdHRqVGhwSUtjR2dNTW00TFh6bFhCVTFHVy1Pa0Zxclo2WHJ6SmhsS1VhaHhsQQ?oc=5",
       "summary": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch TechRadar",
@@ -139,9 +179,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+      "summary": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform GeekWire",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Microsoft",
       "title": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZsQWxqOUNIdndmRWJoS2ZfWXNQMGhYd2t5cFAzT2JCODRkNXZyYm9DampzRWhaWjg5XzFqWTNSZ2hhVTVOa0tra2VvRS1WMlVDT0dUN3FnLW03SUJEOHhRLUN6TWl3Y1hQTWNtYU9MM0JhajJXeDNiQWowZktQX1A1VjRYVGhmMk1sdFdJVE9IRlZWTFIxRFlWNjFYYkdUcm5lXzZGT3o?oc=5",
       "summary": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time Windows Central",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb29iOTJzRTNiNWd1QXVGU1J4bkE3cVhiOXlBWkZjektxM0dGUFFrakkyZDBpNUFQOWFZTS1lamtEZGVDLW1mY29oNGFNWExNeFNUWG5DTUc5WDlzaTl1cG5JbmNzZVhoVm5sbmtDb0VtQ0Y4Qk84N2dENkpBVTBBTkVEeGU1Z1BDRlRDTXVLdWRZS3RGMXVnTjF2SFQza2d3U21fQW10a0pUUXFCOWlyS3dfczJnakJpb09rMXVMa1NtWE1tOUNLa3ZrNTZLTUF2Z1FlaW9iRDNUdGxfdUtSTm53?oc=5",
+      "summary": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing Windows Central",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -179,6 +235,14 @@
     },
     {
       "company": "Meta",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
+      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Meta",
       "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeklad2pDM09EUXVQdlRXQWg5T1NQZFFPTEV0S0VBZnF3S0dvOHk2d2lHZml1NUFySTVaNFl4V0F1bmxPVVBWR2M2ZWZuRExkcFBHR1A0ZnRkXzg1VmtSbnNIX3luR1FEUFVrWWVmNk5LSW1NSzg4alRORXlBMFpZbkhDNXNlN1Vqa1hZaWg5ekJkTG02U1Q2T0Y1TUI4Z1luZWlQV0NBcmJwVHUxVUVpRlA5cmliM3oyTmNxWU1QZUVLcGJuTlJyaEU3cWl4LWZxRGoyY1hxVWlJVVpMMnpLQUFMWUZLSkw3dGF5QWV5bS1vakQ4UVhDaUw5NWVJTmUtMmJKRnFBUWhOb3FzOHA1ZnJLYVNFVmtwUVM3WEZIMTFYc2JqbWY0cUp4Z00zYnZoR1pB?oc=5",
       "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically Tom's Guide",
@@ -186,12 +250,12 @@
       "date": "2026-08-17"
     },
     {
-      "company": "Meta",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
-      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
+      "company": "Anthropic",
+      "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
+      "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ",
       "badge": "new",
-      "date": "2026-08-17"
+      "date": "2026-08-16"
     },
     {
       "company": "Anthropic",
@@ -226,22 +290,6 @@
       "date": "2026-08-16"
     },
     {
-      "company": "Anthropic",
-      "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
-      "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
-      "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ The Guardian",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft retires its AI companion from Copilot Voice less than a year after launch - notebookcheck.net",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamc4czRmc2R1Q2NFeGxDLW5pUEd6aDFNZ1QwR0E2QXlTY1pZRTdrdE1rdHIxbjY3OWM3WG92ckhwR1IwLVpzUnV0VnctdEs0WFhsdExfZEQ0LUlJZHRvSEVJendkeUsxalVUUWliaGx0QTd6cmRhbTZhRGdhLXZWTzFTeGJoXzFzUk9mRUdoM19ScndIRzEyMGtVRGxldjhndDlxVnFEcEZkZlhVVjVXS3VBNFFPSV84OTNXa0VLVlhNWXZqQW5v?oc=5",
@@ -267,17 +315,17 @@
     },
     {
       "company": "Meta",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmhVRUEzVUpPbjE0T2g1RjRLZVhVWEVGSEY3M3JEd19NVDdwSzR4SUJuNTFUVTlKX09xakFRNGxsWTg0cDVXZ2tEaGYxMzhFWTlDWlZvd2tDR2YtNWlnU3dHcEdDcWtRZnAxU1ZxOWxJcjRnTDk0OVBnYTRmbGNSaHZ2Ti11c2RDUHc?oc=5",
-      "summary": "Why people aren’t buying Mark Zuckerberg’s AI future Yahoo Tech",
+      "title": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
+      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses The Independent",
       "badge": "new",
       "date": "2026-08-16"
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
-      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses The Independent",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmhVRUEzVUpPbjE0T2g1RjRLZVhVWEVGSEY3M3JEd19NVDdwSzR4SUJuNTFUVTlKX09xakFRNGxsWTg0cDVXZ2tEaGYxMzhFWTlDWlZvd2tDR2YtNWlnU3dHcEdDcWtRZnAxU1ZxOWxJcjRnTDk0OVBnYTRmbGNSaHZ2Ti11c2RDUHc?oc=5",
+      "summary": "Why people aren’t buying Mark Zuckerberg’s AI future Yahoo Tech",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -294,14 +342,6 @@
       "title": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release - XDA",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0RWQWFfekhGM0ctdDUxSGdQRV9rS2JvbjRya3BOY2tfaEdNRURraE00aXU5aHhoUVNPQmY5NmFfSjRIWVFCaERQY3BSV2tPVS1pZlJySHZiRVdpck52dy10bzRoRDQxYzZtMTZqQzJrOGNTNXltQU8tb3ZZYWp1dzdoMnlURkF5QnEta3ZLbG9iaE01TWJwekd4bnVQZkY2WGtqOFZrb2cxdFdNUm9HSHVBcWdyUmcxSTI5aUk1dw?oc=5",
       "summary": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release XDA",
-      "badge": "new",
-      "date": "2026-08-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Is Retiring Excel’s COPILOT() Function After Just One Year - Windows Report",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTJuTl9HQUxrNmpobllqejRWZl9oVVZTUmpIWHdIWkp2RmZBOXY4SE1PSl9UMjNGd0ZCbHZpSk45ZkRUYm9LTmhrMS0xbzJXbXluV2JyS3ZzOE81WWJjZ2ppSmNVVGRLWUNwVmYxNE0wVU9xc1FhRmRjWDRrV0k0S2NodjRNdTNLYW1RdUwybHowMjlmb1hB?oc=5",
-      "summary": "Microsoft Is Retiring Excel’s COPILOT() Function After Just One Year Windows Report",
       "badge": "new",
       "date": "2026-08-15"
     },
@@ -338,14 +378,6 @@
       "date": "2026-08-15"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - lifehacker.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5",
-      "summary": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) lifehacker.com",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
       "company": "Meta",
       "title": "Analyst Says Meta’s (META) AI Gains Are an ‘Illusion,’ Company Isn’t Well Positioned in AI Race - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFBDRDRXTVlSOWxucVJhWE9hOEhCalRJRXBKQ3FpUno2T0kwUFMzRWFmN3R2S1I3Z0paVjlJMTJjczJZQWZ5NnFmdEVrbndteFVxSy12MXp0MWl0dVNVanBYdXJBS1hnRjNSemw5TlpMWVFIMUhwMnFIOExUU2VkclBhQWdiSVdDdlNBV0NISFltQjQ?oc=5",
@@ -358,14 +390,6 @@
       "title": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVPWER1UEFaZEgwWnJJTlBfS1Z5SHdSY3g3c1dJMWE3SkplclJvRlEwUFFEaW5DNHJVb0NhZlBmWGZOWC1RS1JSTEVmYjdRSnY4VWtUc0NaeFh1RW83NlBsZlJycFZRQUg2NExQd3JKVkc5aTE3UU85cVZVdExjS0s3VzExczZ0SklDN3VUZEwzdUM0?oc=5",
       "summary": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage Yahoo Tech",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's 'Pervert Glasses' Are Absolutely Being Used to Stalk Women, Study Reveals - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1pjanhNUGFsbUM2cWE0Y1EzMmduNGN2WEFDNFVCallDMVIyenB0ckItRjVkMWY5Z3JhczRaVTdvOFpsN09fRVliVzJ2bkNEUHdQcEhjYjBXNkZ2RnJuQmhhYzY4VVJ0bmlyb3dJNFBKUWhMZEpVa0N1UnBxNC03SWZkT2tXeWN2S0twWmF3UGtBOFY3akEtcDd2MnQ?oc=5",
-      "summary": "Meta's 'Pervert Glasses' Are Absolutely Being Used to Stalk Women, Study Reveals Yahoo Tech",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -440,30 +464,6 @@
       "summary": "The dream of serving ads to AI agents has hit a snag Business Insider",
       "badge": "new",
       "date": "2026-08-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Wild XRP Scenario Nodody has Mentioned - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3NOWW9QUVNsQ3lFN1Z4OWNnRmtrb05NNlFXczNTeDFRTnY1cmpXRTNqQlJfWldGVFlBd1dYZjVxUnNvOVEwdk4tS1M1WFpyWnNKcXhUa2wxbEZBUFRnWENyX05LRXJ4TFBCS3JBbndGRVoyaUl5YVhFSU9obHduLVZrUUNFbHE4c2o2MkhBcnRHZnhYQ0E?oc=5",
-      "summary": "Perplexity AI Predicts a Wild XRP Scenario Nodody has Mentioned Cryptonews",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "badge": "new",
-      "date": "2026-08-11"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "badge": "new",
-      "date": "2026-08-11"
     },
     {
       "company": "Google",
