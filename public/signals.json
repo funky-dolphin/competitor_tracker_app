@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-17T18:30:30Z",
+  "updated": "2026-08-18T00:54:38Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
     {
       "company": "OpenAI",
       "title": "The Defender’s Window",
@@ -22,6 +62,22 @@
       "title": "New policy ideas for the Intelligence Age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
+      "summary": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO Bloomberg.com Anthropic revenue run rate tops $65 billion, source says Reuters Anthropic’s annualized revenue surges to $65B TechCrunch",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdndROUV5bmltd1BSWktMaVBwMnJDdE41TXd4bzJqSGpZQ2x0cXREXzd1eUp5dmQ0cXR1MmxFVXRtNFRlWEN5aVR2aUVRQ085X0ZUalRkZlNpbmcwYll1cUUxeWZSMGNOcVdNT1B5dVhjUkN6UHNtY3VELTFSNTVROENfc0FvUzlaeXFKSDJfQkNoRWFadDVSSTVXV09uX3Nud0ZUVklJSXE3RFpMRUJxQk9fdWh6bW04S2hwSA?oc=5",
+      "summary": "Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic The Hollywood Reporter",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -59,49 +115,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "GitHub is down, and it's potentially costing millions in lost productivity - Windows Central",
+      "title": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZsQWxqOUNIdndmRWJoS2ZfWXNQMGhYd2t5cFAzT2JCODRkNXZyYm9DampzRWhaWjg5XzFqWTNSZ2hhVTVOa0tra2VvRS1WMlVDT0dUN3FnLW03SUJEOHhRLUN6TWl3Y1hQTWNtYU9MM0JhajJXeDNiQWowZktQX1A1VjRYVGhmMk1sdFdJVE9IRlZWTFIxRFlWNjFYYkdUcm5lXzZGT3o?oc=5",
-      "summary": "GitHub is down, and it's potentially costing millions in lost productivity Windows Central",
+      "summary": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time Windows Central",
       "badge": "new",
       "date": "2026-08-17"
     },
     {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "company": "Microsoft",
+      "title": "Microsoft Begins to Merge Consumer and Enterprise Copilot Apps to Make New Super App - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYYU5yNFpNdDBzSXVBOTdJejR4STVEUExyUGhDNXE4aWpJUzlISXFoSGYtTlY3RlVwN0JzTnpLeDFYbFRJem42aTlTY3M2cEF4cEs0NFFNSlBRbXZNcGdReFFSMDZuWU1vRlhHcFlSNNIBdEFVX3lxTE1IUVFmOVFHVDh1WlI0a3BKMUljSkxSU2Z4YTVzWWdGblcwdGwwOTlJaHo3UjFLTWU1MW9BdTBndjlDWDNpVjhNTWZjaVpPWUlQaW5zWnozczZjeExfYnc4TWlibWs2NHNTb0xTenVQQ1h1aGJr?oc=5",
+      "summary": "Microsoft Begins to Merge Consumer and Enterprise Copilot Apps to Make New Super App CyberSecurityNews",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -115,9 +139,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows - Yahoo Finance",
+      "title": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiRTEyR1dQRFlVS1Fpc2pWUTBTSGlkNXJwdUR4enNkNkZqZ2Y4dUxFbFBhTDZtVUY2TjBFektWOG9xSkp2aENENXdIS3V3aWFiVTVlMGNobUVTalU4WUFwZVM0VDdwRXpjZnpwcGNYRUdxLWxURy1RTkFxcnJFUzBfRWthM25xS3dQYTdoNE9qSkFuRXZyZXFBNk5Xbmljenc?oc=5",
-      "summary": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows Yahoo Finance",
+      "summary": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows finance.yahoo.com",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -138,6 +162,22 @@
       "date": "2026-08-17"
     },
     {
+      "company": "Meta",
+      "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeklad2pDM09EUXVQdlRXQWg5T1NQZFFPTEV0S0VBZnF3S0dvOHk2d2lHZml1NUFySTVaNFl4V0F1bmxPVVBWR2M2ZWZuRExkcFBHR1A0ZnRkXzg1VmtSbnNIX3luR1FEUFVrWWVmNk5LSW1NSzg4alRORXlBMFpZbkhDNXNlN1Vqa1hZaWg5ekJkTG02U1Q2T0Y1TUI4Z1luZWlQV0NBcmJwVHUxVUVpRlA5cmliM3oyTmNxWU1QZUVLcGJuTlJyaEU3cWl4LWZxRGoyY1hxVWlJVVpMMnpLQUFMWUZLSkw3dGF5QWV5bS1vakQ4UVhDaUw5NWVJTmUtMmJKRnFBUWhOb3FzOHA1ZnJLYVNFVmtwUVM3WEZIMTFYc2JqbWY0cUp4Z00zYnZoR1pB?oc=5",
+      "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically Tom's Guide",
+      "badge": "new",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
+      "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times",
+      "badge": "new",
+      "date": "2026-08-16"
+    },
+    {
       "company": "Anthropic",
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
@@ -150,14 +190,6 @@
       "title": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzlIdWpnMXozSkZObS1RbEdadnFzUHFkVC1LY3NCYVNGd2JneUN6NHJKQXdDaDU0UExhWXVyeHlMMk8zV1hLRGgzWHZrWTNDYjFpd191MFBMUzRLNm9iZzlIV3BPUWZFSGtlUDc1b3JqUE1kbHpsWHlTT2lwdjlacUk3djBpaW1FX2NacDFfaVNMR0JCUUprQ0ZvRXBETHBmN250UUZyOW44dEJfMHN5NEZKUXJiQkl4?oc=5",
       "summary": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' fortune.com",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
-      "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -194,14 +226,6 @@
       "date": "2026-08-16"
     },
     {
-      "company": "Anthropic",
-      "title": "'Luxury porn' pitch to Epstein: Anthropic CEO's wife Cami Clark's ties surface - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUnhuMndlXzIxWW96VmZLaGF3NHNhWlUybElzeER2OHp1eHZiWUhVMnBUTElCRXVGdnUyVEpmTWpNUWJPNExaeE80RllKVFJ6MTR5YnVQZWVkSE9OV3BDcGNiMV9xdzdtaVBiN3pCYzRHTEFBX1hmOXZ1c2cza0NnNUN4MFBoOV9fM2xPQXRxSVVPdkp3UGR1dXZmdVlPTVNxV3lkdVMtLVo3UW5mYm51RGVhTXZiUEdPZDhfM2MxVFQyNzJDeWpfdVAzUEI4aVcxR3lsVG5KY2pHNG550gHiAUFVX3lxTE8tS3JWUldSU0N3RGJnN2hOOTBTQkozakg5aTBQTkZsMk80WG5uYWx0a1hDSmtDSktiV0xISHBGV28xb3luNUJqYy1OYi1UWkEzdXpOLXR1eVBfdkExV3BoWEtwNk1sX2lJU2VjUVQ2ZzdNbXhUT2NoTGVVRkYwOU9kSHIyN0taUVpLamJ5NkVxUW1RNlhjelUyMXB0NzFDdUtNc09IaXU4dGtCalpUOHhvV1NoUURpdWRiMUpNR0JHRUQyWnhhblltZDVzOXEzQzBTMkpnX3JtcWw0QUtQUFA2T2c?oc=5",
-      "summary": "'Luxury porn' pitch to Epstein: Anthropic CEO's wife Cami Clark's ties surface The Times of India",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft retires its AI companion from Copilot Voice less than a year after launch - notebookcheck.net",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamc4czRmc2R1Q2NFeGxDLW5pUEd6aDFNZ1QwR0E2QXlTY1pZRTdrdE1rdHIxbjY3OWM3WG92ckhwR1IwLVpzUnV0VnctdEs0WFhsdExfZEQ0LUlJZHRvSEVJendkeUsxalVUUWliaGx0QTd6cmRhbTZhRGdhLXZWTzFTeGJoXzFzUk9mRUdoM19ScndIRzEyMGtVRGxldjhndDlxVnFEcEZkZlhVVjVXS3VBNFFPSV84OTNXa0VLVlhNWXZqQW5v?oc=5",
@@ -227,9 +251,9 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - independent.co.uk",
+      "title": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
-      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses independent.co.uk",
+      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses The Independent",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -240,14 +264,6 @@
       "summary": "Why people aren’t buying Mark Zuckerberg’s AI future Yahoo Tech",
       "badge": "new",
       "date": "2026-08-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
-      "summary": "Anthropic shares more details about how Claude’s new watermarks will work TechCrunch",
-      "badge": "new",
-      "date": "2026-08-15"
     },
     {
       "company": "Microsoft",
@@ -318,14 +334,6 @@
       "title": "Less than a year on, Microsoft tells Mico to pipe down - The Register",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjUyMDRobE15eVc2ejlCenJIbkpqeGtXcEJXRVFZaUxzc1JoOWROU2VZdm9NYllidTlCNjVMQ1VmQ1NJNmZ4MFp5TVNoeDg2RG9adU9mV1FKZ1Q0U1gtbFlpUU5MVVZtQWIwUEhFVWx6MGx6SDl4LUYtOEVfcjc2ekZPSUc1a1ZIWmxhamF2NXFVZjYxWHc4RFprUVZNYl9rSmtWUXp2dzR1UHVrcmtn?oc=5",
       "summary": "Less than a year on, Microsoft tells Mico to pipe down The Register",
-      "badge": "new",
-      "date": "2026-08-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft brings Copilot apps together ahead of ‘super app’ overhaul - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEFGTTRfVVlWSmg2Q2dwdEZ2RnF2Ny1kbk5vTWNGS21ONTdPM3V6Mzg3dnFEVG5Remg5TWNtME14M1dJQnZ2b1lsNldicjVFZHdPTWRUVjNuNWFXNFVqb3otWUN6U0xSaXhPaGU2c09qcTU4MDZSNE53dDhwUDd6ZF96YUZnWWxVSWJkZzNXamU1Y1BUQnRTT1E1ZUg2aERhOC1EN0Q5c2U5ZDZFenB3YXQ1emJQMEky?oc=5",
-      "summary": "Microsoft brings Copilot apps together ahead of ‘super app’ overhaul Computerworld",
       "badge": "new",
       "date": "2026-08-14"
     },
@@ -406,14 +414,6 @@
       "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUQzZVJhT1NBYkxxQ2FFTlZ4Wk4zcmw3VGktbFB1VXBrOXVBenRwOEU3dFVOcUFPekR1MkZSaTdJY3BTNjEtUHFaOVBjMFFUQ0EweFc0WEJWN0ZMRDh3N1ZybjdWdnNoeVN0ZldOSlhJUHRaZGMxX25GcTNzSlpBM3N3b2ptUVNCWDNBMHBMdk1fTlFnU05OcVJKemowVUk5TEdpUDJQV01xbnM?oc=5",
       "summary": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters The Guardian",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Is Giving Away 15,000 AI Glasses To Blind And Visually Impaired People In Ireland - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekQxZ0ZELWREaC1BVlNabTgxN2FFR1hyMUtMbTJTX0w0RGRjbG9WQUk3V1B0Z1Zqb00yWk9JbVJobTBLSnJYOXlRd3Y4Wl83Zi1kMS10ODEwcWZhVUVESEdPU0lmX2pJUV9wVjNNSmVTU0pMbVNObVVaUUE3MGEwUXR5MlBFbE94Y2FHVmJ1OE92MmpnMlE?oc=5",
-      "summary": "Meta Is Giving Away 15,000 AI Glasses To Blind And Visually Impaired People In Ireland Engadget",
       "badge": "new",
       "date": "2026-08-13"
     },
@@ -563,9 +563,9 @@
     },
     {
       "company": "Amazon",
-      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - CNET",
+      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0E1WVd3dERWNnBmYjd3TXNOZjliNzBneEZKcERTZWdxVlVCRHNwV2RXckRzVW53YlFOZjRZNVNmbm8xZUEzZ2Jqazl6RmczMEdZYS1kTEtZSXVOdFZtT3dEQjVDaWRIOFZoU1BOZ1VJSkhkV1Izekxuc0F5RWlfQWcyQ0pYbTA1djRmQWNvNkMtWnFhNU0tU2NaNXpxbHctT2VYaS1n?oc=5",
-      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
+      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy cnet.com",
       "badge": "new",
       "date": "2026-07-23"
     },
