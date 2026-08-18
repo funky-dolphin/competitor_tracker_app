@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T12:33:58Z",
+  "updated": "2026-08-18T18:29:16Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -18,10 +18,66 @@
       "date": "2026-08-18"
     },
     {
+      "company": "OpenAI",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
+      "summary": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO Bloomberg.com Anthropic revenue run rate tops $65 billion, source says Reuters Anthropic’s $65-billion revenue surge turbocharges IPO race wi",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Optics Stocks Drop on Anthropic News, WSJ Report: Lumentum Down 10%, Corning Down 8%, AXT Down 12% - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2RXS2c0aW1TSzgwa2VseTFDMXBESDAtWGJwNEp0dDdXZHFmMmQyQU5FNjBNQTY2cTRXd1JpZFhXZThWSUJSX3JRME4tRVo2cHdZTFFmU3JtNUtFb1hxM0dBMEg5NFlfOWlPQzI1MWJoaVhPY2hXOXRoX3J5a05ZRElYZ1EzYTZjN253aDZNZ1FhVUNaY3dJbWh0d05fU2xhXzBPWW1hMVdRRUdoOEI3N1NzQUY1MExJV0prMzdTWmZ2dllwVHhWNlZMbkFYdEg1?oc=5",
+      "summary": "Optics Stocks Drop on Anthropic News, WSJ Report: Lumentum Down 10%, Corning Down 8%, AXT Down 12% 24/7 Wall St.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic nears $6 billion deal for Israeli AI startup Decart, creating new billionaires - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZjNEQxYmh6N3dHS1RoOXNJVGxuaDRnYXRvemZuLWVDYUNudHBCaURVdHdFSHNaTlRoNWFsSUhkc2k5RU9OcVpWeVh1UGg3QjJZc3dwWVduTGJNNEh4MV9OR0FmQkthSnhmVXdxZjZGcUZiNFh5MXk0OGZUbkJwdThFaFBMdw?oc=5",
+      "summary": "Anthropic nears $6 billion deal for Israeli AI startup Decart, creating new billionaires The Jerusalem Post",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm41RXVjYlV4blQ4VE9uY0h4UWZwaWtrSGo5VHRoc1lJVC1zdU9SeEVzLUJlTnNJYmRmRnJCVWRkR2l1ck9lOWcxQ09YSkx6SUJQQVN2dDhkbS0zNjhUMVNsU0o1aWZTRWE3bzZIZDFPVUY2WDJfWUYwUGg3bTF2ZDZMbnFMc0RMMmljVGRjb2RlYUVHb1E4VmZOVUF4Y2cwSDhqSVZoTk1Ea0RoS0E?oc=5",
+      "summary": "Microsoft Copilot reveals secret input that allowed it to be hacked arstechnica.com",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
+      "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
       "company": "Microsoft",
       "title": "Microsoft Copilot: Deep Research ends, successor is paid only - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbi1UbjNnUDlNVFRmUFhXRHN2QXJNQ2swRWZ1VURLSjd2cmZ3R3lQR2Jza2pvSkFFaHZzNUNYS0ZqXzhiRG9DX25Yek1VU1Z3ZTlDdEZJcFktbUl4cFRjdU5zdUNkdUZLOENGZWtvSmFDc1VKYS1IWGE0Vk8xX0tBWlFzbXRMQjBwV3pnNWo4Tl9kX2FLV1haVWozUXJteFpHdWg2d2o5SQ?oc=5",
       "summary": "Microsoft Copilot: Deep Research ends, successor is paid only Notebookcheck",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -67,9 +123,25 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity’s free AI offer left it with millions more users in India - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGtBWjFBcWVYb3BpV2xKc2hpWEtvbmJNbEFJeDFzWmZ5SF8xVjdPaVA0ZGpBWldKbVRoTURwNDdpaVRUeWx6SEpjMFp6OVFmcWVmbkhTMGFHN3MyQi1oSXlCNzBUYzNRbmJEenFLbXVYRi05dHd3aGtrMWU4Y0FKWllpdmZHUW1qc1BiVUtfZjlXSC1RY2FEc2xrd1k5Q2l2VG1Gdg?oc=5",
+      "summary": "Perplexity’s free AI offer left it with millions more users in India TechCrunch",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity challenges Time’s AI agent advertising push - Marketing Tech News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWI5SXE3UnhiLXdreVdwSGtoRVJ6Q2xhMzNiaF9BbG83Q3dSODFnQ3JRN1RFR1RuUkozazcyUUE4UllBZC1RVzNBM2FkUXRJSUdqc2tKa1EzSnRmbEkwblk4NkVLU09Lb2tKZjJVUFZwX3NDdkNnNHE3TDNqN3dMcG1n?oc=5",
       "summary": "Perplexity challenges Time’s AI agent advertising push Marketing Tech News",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity's India Revenue Jumps 60% After Airtel Deal Ends - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGVvZHpKTGUtTWlCY1B3NEpObWozNWdhMUlsakU3WFhmeWJrSTJnbkZQNU0wX2RCT2NFZEdUTjhnMWpMdlMwckZNSFdFTDZMVkFlc1BCbVJaUjVHRmVlSVczd1lnT0RfR0VEWnJmLTYxWTY5MUJrSWZpcUpvVUNwVWtyUkd6SXBzdHVnVnBBbFUxUUF4X3c?oc=5",
+      "summary": "Perplexity's India Revenue Jumps 60% After Airtel Deal Ends The Tech Buzz",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -131,14 +203,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
-      "summary": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO Bloomberg.com Anthropic revenue run rate tops $65 billion, source says Reuters Anthropic's revenue run rate reportedly surpasses $65 billi",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic's new invisible watermark marks content generated by AI chatbot Claude - NPR",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWxhMXFJelFTUzM5UVlDQ2MzeHBfWkxRaVpEeVFuNDhnaDBBU2VkV3BpaFpZdWNCMXNzb2Q3Y0VNam5iLUFFZGNVaFZ0MXBPdDBXdFEwZlU4UDhEWGdreTVxbjAtOThiWXZwMXFlYXRLR3pLV0F0RmxQemI5UWxRcHY0T3BJUVRUNkc5bTRCb0d2NGxfUFc0dFJnYzR6Y3lhaW0yQXZlNzdDc1VwbmNiQ1ZrX2M4ZGxfbU5CUmQ2ZFFPdw?oc=5",
       "summary": "Anthropic's new invisible watermark marks content generated by AI chatbot Claude NPR Anthropic shares more details about how Claude’s new watermarks will work TechCrunch Claude to start watermarking A",
@@ -171,14 +235,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1ExTFNFaWNHV2prZ0JBd0tEb0FGamRKWnBZY1plb1R6YXpBSXdmVE9WZ0twWmNvRjVnN1l4NWNEMWZMdmRoOHJpWHI3VDhOTm5lRXc3QjRKLWdXZUxFVjZVWFhkeWFhZ0hkbkJGb1V0aVFYclJSLUY3bGJ0VU9ncHNxWVpQUzh5alFCcnU3U2IxbXhLSHktVW1aTkU2cTI5ODd0N1I1OXBzTzFBdHRqVGhwSUtjR2dNTW00TFh6bFhCVTFHVy1Pa0Zxclo2WHJ6SmhsS1VhaHhsQQ?oc=5",
-      "summary": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch TechRadar",
-      "badge": "hot",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Microsoft",
       "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
       "summary": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform GeekWire",
@@ -187,17 +243,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZsQWxqOUNIdndmRWJoS2ZfWXNQMGhYd2t5cFAzT2JCODRkNXZyYm9DampzRWhaWjg5XzFqWTNSZ2hhVTVOa0tra2VvRS1WMlVDT0dUN3FnLW03SUJEOHhRLUN6TWl3Y1hQTWNtYU9MM0JhajJXeDNiQWowZktQX1A1VjRYVGhmMk1sdFdJVE9IRlZWTFIxRFlWNjFYYkdUcm5lXzZGT3o?oc=5",
-      "summary": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time Windows Central",
+      "title": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb29iOTJzRTNiNWd1QXVGU1J4bkE3cVhiOXlBWkZjektxM0dGUFFrakkyZDBpNUFQOWFZTS1lamtEZGVDLW1mY29oNGFNWExNeFNUWG5DTUc5WDlzaTl1cG5JbmNzZVhoVm5sbmtDb0VtQ0Y4Qk84N2dENkpBVTBBTkVEeGU1Z1BDRlRDTXVLdWRZS3RGMXVnTjF2SFQza2d3U21fQW10a0pUUXFCOWlyS3dfczJnakJpb09rMXVMa1NtWE1tOUNLa3ZrNTZLTUF2Z1FlaW9iRDNUdGxfdUtSTm53?oc=5",
+      "summary": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing Windows Central",
       "badge": "new",
       "date": "2026-08-17"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb29iOTJzRTNiNWd1QXVGU1J4bkE3cVhiOXlBWkZjektxM0dGUFFrakkyZDBpNUFQOWFZTS1lamtEZGVDLW1mY29oNGFNWExNeFNUWG5DTUc5WDlzaTl1cG5JbmNzZVhoVm5sbmtDb0VtQ0Y4Qk84N2dENkpBVTBBTkVEeGU1Z1BDRlRDTXVLdWRZS3RGMXVnTjF2SFQza2d3U21fQW10a0pUUXFCOWlyS3dfczJnakJpb09rMXVMa1NtWE1tOUNLa3ZrNTZLTUF2Z1FlaW9iRDNUdGxfdUtSTm53?oc=5",
-      "summary": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing Windows Central",
+      "title": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1ExTFNFaWNHV2prZ0JBd0tEb0FGamRKWnBZY1plb1R6YXpBSXdmVE9WZ0twWmNvRjVnN1l4NWNEMWZMdmRoOHJpWHI3VDhOTm5lRXc3QjRKLWdXZUxFVjZVWFhkeWFhZ0hkbkJGb1V0aVFYclJSLUY3bGJ0VU9ncHNxWVpQUzh5alFCcnU3U2IxbXhLSHktVW1aTkU2cTI5ODd0N1I1OXBzTzFBdHRqVGhwSUtjR2dNTW00TFh6bFhCVTFHVy1Pa0Zxclo2WHJ6SmhsS1VhaHhsQQ?oc=5",
+      "summary": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch TechRadar",
+      "badge": "hot",
+      "date": "2026-08-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZsQWxqOUNIdndmRWJoS2ZfWXNQMGhYd2t5cFAzT2JCODRkNXZyYm9DampzRWhaWjg5XzFqWTNSZ2hhVTVOa0tra2VvRS1WMlVDT0dUN3FnLW03SUJEOHhRLUN6TWl3Y1hQTWNtYU9MM0JhajJXeDNiQWowZktQX1A1VjRYVGhmMk1sdFdJVE9IRlZWTFIxRFlWNjFYYkdUcm5lXzZGT3o?oc=5",
+      "summary": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time Windows Central",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -235,17 +299,17 @@
     },
     {
       "company": "Meta",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
-      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
+      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model cnbc.com",
       "badge": "new",
       "date": "2026-08-17"
     },
     {
       "company": "Meta",
-      "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - Tom's Guide",
+      "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - tomsguide.com",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeklad2pDM09EUXVQdlRXQWg5T1NQZFFPTEV0S0VBZnF3S0dvOHk2d2lHZml1NUFySTVaNFl4V0F1bmxPVVBWR2M2ZWZuRExkcFBHR1A0ZnRkXzg1VmtSbnNIX3luR1FEUFVrWWVmNk5LSW1NSzg4alRORXlBMFpZbkhDNXNlN1Vqa1hZaWg5ekJkTG02U1Q2T0Y1TUI4Z1luZWlQV0NBcmJwVHUxVUVpRlA5cmliM3oyTmNxWU1QZUVLcGJuTlJyaEU3cWl4LWZxRGoyY1hxVWlJVVpMMnpLQUFMWUZLSkw3dGF5QWV5bS1vakQ4UVhDaUw5NWVJTmUtMmJKRnFBUWhOb3FzOHA1ZnJLYVNFVmtwUVM3WEZIMTFYc2JqbWY0cUp4Z00zYnZoR1pB?oc=5",
-      "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically Tom's Guide",
+      "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically tomsguide.com",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -270,22 +334,6 @@
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
       "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ TechCrunch",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzlIdWpnMXozSkZObS1RbEdadnFzUHFkVC1LY3NCYVNGd2JneUN6NHJKQXdDaDU0UExhWXVyeHlMMk8zV1hLRGgzWHZrWTNDYjFpd191MFBMUzRLNm9iZzlIV3BPUWZFSGtlUDc1b3JqUE1kbHpsWHlTT2lwdjlacUk3djBpaW1FX2NacDFfaVNMR0JCUUprQ0ZvRXBETHBmN250UUZyOW44dEJfMHN5NEZKUXJiQkl4?oc=5",
-      "summary": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' fortune.com",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5",
-      "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer Business Insider",
       "badge": "new",
       "date": "2026-08-16"
     },
@@ -328,22 +376,6 @@
       "summary": "Why people aren’t buying Mark Zuckerberg’s AI future Yahoo Tech",
       "badge": "new",
       "date": "2026-08-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft kills off COPILOT function in Excel - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ua0dIbWgwdkw0N1J1QlpEU09BbVRZUFNqTzJMM1c4cnh0SGRCbE9sNWxENFdpTjRPQ3dhOUN1bFc4ZXJURkotZXU5UXJCYzUzLVRCT3lfaHpGMGwyQjBNT2NHdF9RUk1HXzhwTHlhQUtxQklrVE5vYlQzd1F2M1E?oc=5",
-      "summary": "Microsoft kills off COPILOT function in Excel Neowin",
-      "badge": "new",
-      "date": "2026-08-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release - XDA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0RWQWFfekhGM0ctdDUxSGdQRV9rS2JvbjRya3BOY2tfaEdNRURraE00aXU5aHhoUVNPQmY5NmFfSjRIWVFCaERQY3BSV2tPVS1pZlJySHZiRVdpck52dy10bzRoRDQxYzZtMTZqQzJrOGNTNXltQU8tb3ZZYWp1dzdoMnlURkF5QnEta3ZLbG9iaE01TWJwekd4bnVQZkY2WGtqOFZrb2cxdFdNUm9HSHVBcWdyUmcxSTI5aUk1dw?oc=5",
-      "summary": "Microsoft is scrapping the =COPILOT function from Excel after only a year since its release XDA",
-      "badge": "new",
-      "date": "2026-08-15"
     },
     {
       "company": "Perplexity",
@@ -434,34 +466,10 @@
       "date": "2026-08-13"
     },
     {
-      "company": "Perplexity",
-      "title": "I replaced Perplexity with a local LLM on Android to get instant offline search answers - Android Police",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3otTE11SjI4bHk4RnJ2ZFk0VTd5MmFvZlJEZkRpaVNYb25NaEF1T3d4Q3VVeUF4bDhIQ3RvX0VhQ20xVFdtajg4amd3RGZPVzl1cU9MTXplMVMzSEFPWk10dTVURjFfcVVGbEVDeGtXdWRsdzJOaktHMnVyMGhiLTRhZ3dvcWZacV9KTTRaY2pUNThra2dqVHhMRVlUazllMUNxRUNSVFloYjB6bG9fQlNBUTE?oc=5",
-      "summary": "I replaced Perplexity with a local LLM on Android to get instant offline search answers Android Police",
-      "badge": "new",
-      "date": "2026-08-13"
-    },
-    {
       "company": "OpenAI",
       "title": "From assistance to execution: How enterprises put AI to work",
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "badge": "new",
-      "date": "2026-08-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "The dream of serving ads to AI agents has hit a snag - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPby0wdTFtVmpSdHprNjBoVlFGYlliaVRDZTRQMElXQ2hPSnR5d2dYTGNKNlRPWW10WWl3clVXb2xLNTBERXBZRldyTWQ4dGdvdXR5T2tmRzl5ckZPYnVUVEZEV2lKaUF1ZEZ6eTZfbEdCVng3S0xzdkFhZWFMYjVHQWtPNTNDZ2xXQUN6UHdkaDNzNFB6?oc=5",
-      "summary": "The dream of serving ads to AI agents has hit a snag Business Insider",
       "badge": "new",
       "date": "2026-08-12"
     },
@@ -520,14 +528,6 @@
       "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "badge": "new",
       "date": "2026-08-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
-      "badge": "hot",
-      "date": "2026-07-30"
     },
     {
       "company": "Google",
