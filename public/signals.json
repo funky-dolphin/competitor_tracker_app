@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-19T00:55:10Z",
+  "updated": "2026-08-19T06:34:23Z",
   "signals": [
+    {
+      "company": "Microsoft",
+      "title": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3JKYVRhQ1Z1ekUwdXRjRTJ6OGN3SzZUSm52eUVVVGV0azVCSjFWQnNPdzBrUTRDMlBPMm5VcDZ0TDZUeTlsOXQ2TndtU3BGZk9VMmx3cGplX1VSY2hTb0NHb25BVmt0VGxsdUFpVDU4UmUxZWZZUVdCSHBJSU91dVQxb2loWUx3RW1JUDRscHpGSllxN3g2akczT1BoZmZ2NldHTzlReTB2akstTnBldU53TEZhazF4ajc3Mjk0a190SDkyTnZOOERfaDhpUnlJcVRVMTFTMFJXQ3RXRnhMNHpCOVVsWEZEOTBPeEpQeEQ2QWM?oc=5",
+      "summary": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it Computerworld",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
@@ -40,6 +48,14 @@
       "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
       "badge": "new",
       "date": "2026-08-19"
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "badge": "new",
+      "date": "2026-08-18"
     },
     {
       "company": "OpenAI",
@@ -93,7 +109,7 @@
       "company": "Anthropic",
       "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic WSJ Anthropic’s Annualized Revenue Tops $65 Billion Before IPO Bloomberg.com Top Market Strategist Warns Anthropic’s",
+      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic WSJ Anthropic’s Annualized Revenue Tops $65 Billion Before IPO Bloomberg.com The Math Of The AI Bubble Is Changing S",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -147,9 +163,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
+      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
       "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot tricked into telling reseachers how to hack itself - The Register",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl84cGExeXJBYVlkVEZqTmwta2hjWTN5Rk95X0o3UmNIenBiMjdfck5UVGpTR0Y3R0l4SzRyQTJYMUxwMGxxV0RGMXVRY1UxTGhKUUZodWF5cEg4ZkQweE5aZWIyNzZPTDJubExrTHg3NVFBNXBhcmVWQWlaUkl6dDJZUHpzQmc1Uzl4Z3pocl9EMTd2Uy1jYy1QNGpRVVktbXByOENNRkVXZDRWVnhwaHZsdGs?oc=5",
+      "summary": "Copilot tricked into telling reseachers how to hack itself The Register",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -179,9 +211,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity’s free AI offer left it with millions more users in India - techcrunch.com",
+      "title": "Perplexity’s free AI offer left it with millions more users in India - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGtBWjFBcWVYb3BpV2xKc2hpWEtvbmJNbEFJeDFzWmZ5SF8xVjdPaVA0ZGpBWldKbVRoTURwNDdpaVRUeWx6SEpjMFp6OVFmcWVmbkhTMGFHN3MyQi1oSXlCNzBUYzNRbmJEenFLbXVYRi05dHd3aGtrMWU4Y0FKWllpdmZHUW1qc1BiVUtfZjlXSC1RY2FEc2xrd1k5Q2l2VG1Gdg?oc=5",
-      "summary": "Perplexity’s free AI offer left it with millions more users in India techcrunch.com",
+      "summary": "Perplexity’s free AI offer left it with millions more users in India TechCrunch",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -219,17 +251,17 @@
     },
     {
       "company": "Meta",
-      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0pVbGh2cjRPNnk2YkR3RDJEd2RLSU1zazBlMFJ0OUJ4Wlk1aDQ2OGRyWXpRNi04ejc0T3hBUWR0aTRFMHVpdXFwTU9CV2EwRXVhN1dDS0d4cG1lSXB2VEp4VWY2MkFkS3YyWk5oVm5MVGdMdVdlLWdhLXFqbDNfY0YwY1Exd1hLdWZSRw?oc=5",
-      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Yahoo",
+      "title": "Meta Taps Disability Groups To Explore Uses For AI Glasses - Disability Scoop",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFIQjljRUdFXzZBRTdNc2lzc0Z5dGtVS0FPX01MVlZPNzNSMmpQdk5rVWt4Vkk0NThMbWJ6eEtQbFpzZkZNTGw5MjVGQTYzYVgyU05yNVZrNkNOcWM5S2lTenJoRzIweHVCSmtxT2xzTU1lZkxTSjlyeF9rTWFwTEdNaU44SGdYY1ZzVldrMXFzT2cySEZwQVVyLUlDeFdvcjBXVUEtS205d1RF?oc=5",
+      "summary": "Meta Taps Disability Groups To Explore Uses For AI Glasses Disability Scoop",
       "badge": "new",
       "date": "2026-08-18"
     },
     {
       "company": "Meta",
-      "title": "Meta Taps Disability Groups To Explore Uses For AI Glasses - Disability Scoop",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFIQjljRUdFXzZBRTdNc2lzc0Z5dGtVS0FPX01MVlZPNzNSMmpQdk5rVWt4Vkk0NThMbWJ6eEtQbFpzZkZNTGw5MjVGQTYzYVgyU05yNVZrNkNOcWM5S2lTenJoRzIweHVCSmtxT2xzTU1lZkxTSjlyeF9rTWFwTEdNaU44SGdYY1ZzVldrMXFzT2cySEZwQVVyLUlDeFdvcjBXVUEtS205d1RF?oc=5",
-      "summary": "Meta Taps Disability Groups To Explore Uses For AI Glasses Disability Scoop",
+      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0pVbGh2cjRPNnk2YkR3RDJEd2RLSU1zazBlMFJ0OUJ4Wlk1aDQ2OGRyWXpRNi04ejc0T3hBUWR0aTRFMHVpdXFwTU9CV2EwRXVhN1dDS0d4cG1lSXB2VEp4VWY2MkFkS3YyWk5oVm5MVGdMdVdlLWdhLXFqbDNfY0YwY1Exd1hLdWZSRw?oc=5",
+      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Yahoo",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -322,30 +354,6 @@
       "date": "2026-08-17"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1ExTFNFaWNHV2prZ0JBd0tEb0FGamRKWnBZY1plb1R6YXpBSXdmVE9WZ0twWmNvRjVnN1l4NWNEMWZMdmRoOHJpWHI3VDhOTm5lRXc3QjRKLWdXZUxFVjZVWFhkeWFhZ0hkbkJGb1V0aVFYclJSLUY3bGJ0VU9ncHNxWVpQUzh5alFCcnU3U2IxbXhLSHktVW1aTkU2cTI5ODd0N1I1OXBzTzFBdHRqVGhwSUtjR2dNTW00TFh6bFhCVTFHVy1Pa0Zxclo2WHJ6SmhsS1VhaHhsQQ?oc=5",
-      "summary": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch TechRadar",
-      "badge": "hot",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZsQWxqOUNIdndmRWJoS2ZfWXNQMGhYd2t5cFAzT2JCODRkNXZyYm9DampzRWhaWjg5XzFqWTNSZ2hhVTVOa0tra2VvRS1WMlVDT0dUN3FnLW03SUJEOHhRLUN6TWl3Y1hQTWNtYU9MM0JhajJXeDNiQWowZktQX1A1VjRYVGhmMk1sdFdJVE9IRlZWTFIxRFlWNjFYYkdUcm5lXzZGT3o?oc=5",
-      "summary": "GitHub going offline is bad — Copilot crashing at the same time is a developer disaster unfolding in real time Windows Central",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Begins to Merge Consumer and Enterprise Copilot Apps to Make New Super App - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYYU5yNFpNdDBzSXVBOTdJejR4STVEUExyUGhDNXE4aWpJUzlISXFoSGYtTlY3RlVwN0JzTnpLeDFYbFRJem42aTlTY3M2cEF4cEs0NFFNSlBRbXZNcGdReFFSMDZuWU1vRlhHcFlSNNIBdEFVX3lxTE1IUVFmOVFHVDh1WlI0a3BKMUljSkxSU2Z4YTVzWWdGblcwdGwwOTlJaHo3UjFLTWU1MW9BdTBndjlDWDNpVjhNTWZjaVpPWUlQaW5zWnozczZjeExfYnc4TWlibWs2NHNTb0xTenVQQ1h1aGJr?oc=5",
-      "summary": "Microsoft Begins to Merge Consumer and Enterprise Copilot Apps to Make New Super App CyberSecurityNews",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
       "company": "Perplexity",
       "title": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiRTEyR1dQRFlVS1Fpc2pWUTBTSGlkNXJwdUR4enNkNkZqZ2Y4dUxFbFBhTDZtVUY2TjBFektWOG9xSkp2aENENXdIS3V3aWFiVTVlMGNobUVTalU4WUFwZVM0VDdwRXpjZnpwcGNYRUdxLWxURy1RTkFxcnJFUzBfRWthM25xS3dQYTdoNE9qSkFuRXZyZXFBNk5Xbmljenc?oc=5",
@@ -379,17 +387,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s true AI costs exceed previous accounts - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFFDWkpZYzJlU0RYcHlHUXBXRUwydkNCcEdDRWV6V2FqX0RRdFpudTJwaTh2bjRmZFNWX2trZEV6ajRRVDd2b0pCSDZkdTd6b3BEX3BKTmtJQ21lZzF1SGdoVHFMSnctSnllWE1IRmJ0X1dzaktWYTNxeEdZN1NlVVRZU3hDeXhtZXd2bGxRQzdfeG9z?oc=5",
-      "summary": "Meta’s true AI costs exceed previous accounts Social Media Today",
+      "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - tomsguide.com",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeklad2pDM09EUXVQdlRXQWg5T1NQZFFPTEV0S0VBZnF3S0dvOHk2d2lHZml1NUFySTVaNFl4V0F1bmxPVVBWR2M2ZWZuRExkcFBHR1A0ZnRkXzg1VmtSbnNIX3luR1FEUFVrWWVmNk5LSW1NSzg4alRORXlBMFpZbkhDNXNlN1Vqa1hZaWg5ekJkTG02U1Q2T0Y1TUI4Z1luZWlQV0NBcmJwVHUxVUVpRlA5cmliM3oyTmNxWU1QZUVLcGJuTlJyaEU3cWl4LWZxRGoyY1hxVWlJVVpMMnpLQUFMWUZLSkw3dGF5QWV5bS1vakQ4UVhDaUw5NWVJTmUtMmJKRnFBUWhOb3FzOHA1ZnJLYVNFVmtwUVM3WEZIMTFYc2JqbWY0cUp4Z00zYnZoR1pB?oc=5",
+      "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically tomsguide.com",
       "badge": "new",
       "date": "2026-08-17"
     },
     {
       "company": "Meta",
-      "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - tomsguide.com",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeklad2pDM09EUXVQdlRXQWg5T1NQZFFPTEV0S0VBZnF3S0dvOHk2d2lHZml1NUFySTVaNFl4V0F1bmxPVVBWR2M2ZWZuRExkcFBHR1A0ZnRkXzg1VmtSbnNIX3luR1FEUFVrWWVmNk5LSW1NSzg4alRORXlBMFpZbkhDNXNlN1Vqa1hZaWg5ekJkTG02U1Q2T0Y1TUI4Z1luZWlQV0NBcmJwVHUxVUVpRlA5cmliM3oyTmNxWU1QZUVLcGJuTlJyaEU3cWl4LWZxRGoyY1hxVWlJVVpMMnpLQUFMWUZLSkw3dGF5QWV5bS1vakQ4UVhDaUw5NWVJTmUtMmJKRnFBUWhOb3FzOHA1ZnJLYVNFVmtwUVM3WEZIMTFYc2JqbWY0cUp4Z00zYnZoR1pB?oc=5",
-      "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically tomsguide.com",
+      "title": "Meta’s true AI costs exceed previous accounts - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFFDWkpZYzJlU0RYcHlHUXBXRUwydkNCcEdDRWV6V2FqX0RRdFpudTJwaTh2bjRmZFNWX2trZEV6ajRRVDd2b0pCSDZkdTd6b3BEX3BKTmtJQ21lZzF1SGdoVHFMSnctSnllWE1IRmJ0X1dzaktWYTNxeEdZN1NlVVRZU3hDeXhtZXd2bGxRQzdfeG9z?oc=5",
+      "summary": "Meta’s true AI costs exceed previous accounts Social Media Today",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -448,14 +456,6 @@
       "summary": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google Bloomberg.com",
       "badge": "new",
       "date": "2026-08-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "badge": "new",
-      "date": "2026-08-13"
     },
     {
       "company": "Google",
