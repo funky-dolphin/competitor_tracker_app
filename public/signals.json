@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-19T12:35:03Z",
+  "updated": "2026-08-19T18:25:49Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmFhYU5mVjhXb0FnQ0NHTk1CMXE1azlabnZiN1pnZVN6aXhqUkdNLTVsMU9DTDJVVWVxVGxVMHFtaGx5QmRNWlc4ODljVnJYOXgxZEpUV1ZrYXBJUFplSXhHeDJKN293TXRUUHh4c1ZkVDFvdFBzSXJ0WXg0OVZVWUJFdVJmUmdlTFB5NjFJV0xQTWloM1lGZEQ4aFFWMDlYRkVFTGxiVDdLYmZCVVYw?oc=5",
+      "summary": "Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart CNBC",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
+      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data wsj.com",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSm9USkx5Qy1HeWdnOUw5QkhkSy1tVTlCN2gxRWpVbXptNVdUbmc0YllIYTdyTGd1QVB6NGVWNXpXZ0NhR2hqQ3RFeWdnM2pOVWdSMTVKWDVUbDJGWlVSVkMzQjNGckVYZDhiMlpFYWo4TU5wNkZOYzFyQlFrNlBYbDE2NGJzblNqUVNzaWE2SktnU2JzakZ3LV91UQ?oc=5",
+      "summary": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
     {
       "company": "Anthropic",
       "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses - SiliconANGLE",
@@ -74,6 +114,38 @@
       "date": "2026-08-19"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity AI Search Guide | Professional Services - ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOU5QVFZ2c25Ma2ZSVXNJWHljR1I2Y1NGOHltR19hNWUwak4ySU1UUlhtMzNLcUxfaUoxQWxFRWZUcms4dlRUcjNzOUt2X2xfNlpQRWx3Y2JvS0pfUUxfdHNVUWo5RXdxQ3VmWWlucTRtNDVWOW11c28wcjFjaWFJVEhqdFhyNjd4WGhsb3d1Tm1SYlNrbV9YM2tVbVQweVZQSXVibTFpdFllOE5MUnAtVWQ1NDFfczlpN3VldENTQ29mN1Rha19CbUl3Z2RHUElRZXd0YkNRRGM2OTlyRS1Kcm5Lc0M?oc=5",
+      "summary": "Perplexity AI Search Guide | Professional Services ACCESS Newswire",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Gujarat Eyes AI, Semiconductor Pacts; CM Woos Google, Micron, Perplexity During US Visit - ndtvprofit.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnpldEY2UFItSF9IVEloRGJjNUNkdDYwV214UzhGMk9TOGRFMExvTFRyWm1DOHNFemNHeGZlc3NXWUFESm1sT0FrWmtvTFNiamVObkZ1X1JIeU12UFB0RGstcy1zdzFNaFRnWWJVaVZWNl9kUGJ6NDZnWmtwTFRkMEZKc0FpbW9jZTl0VFcyMEwzRFFSRzNHZmpHejZRVFozSGJCUl8yTTRqSzN2Y19HRW9sa1FmcHM1R2g1M2JPN091U1FHQlgxVdIB0AFBVV95cUxNZWpPQ0dIWHlMZzU3blRKVVFaZjJIc1A1SHVBZXZHNWtxWThtUUYwRDdLVmEyeFM5NmNmSnoyTU9YeTF0U29VRFBqd3NxLTZtamd4LXMyc2VmYmF2SjktOE1DUGZKdXlvNnl0dmp2TzBIcnFfX1ViRHR2c1B1VEtLcVEtdHpGUTV0QkQ1dHZlbUJvcTExdzBaV3JBdEJlYTN6R016SWFPY2JwUFB0RVhLU1NucVd5ZG5hZzk4eThBck5TNXNlbnVnNEs3NWh3bWpj?oc=5",
+      "summary": "Gujarat Eyes AI, Semiconductor Pacts; CM Woos Google, Micron, Perplexity During US Visit ndtvprofit.com",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's new Mac app takes aim at creators, small businesses - Axios",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
+      "summary": "Meta's new Mac app takes aim at creators, small businesses Axios",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI Payoff Has Already Begun (NASDAQ:META) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dnZfUHctT0FBaDdUeUthMWtMTWNDYlY5WjVRajVTbkJXT1dOZEM5SVc2eXM3OS1RUlYtT0FhYXZLS0lXYzBuUjdBdnE0VUNMeW8tOWs4NlJHRjBHb0JwSDBwbGtGWTFRaWlVWDNXMTJFdFpsTElDRHVOVWdjQQ?oc=5",
+      "summary": "Meta's AI Payoff Has Already Begun (NASDAQ:META) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
       "company": "Amazon",
       "title": "Key facts: Amazon (AMZN) $25B AI sale; MS $500 target; 500 Tesla Semis - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzF6WVJYTmd0LTdfd1V1RUFRYmVBTU9yYXYyeUxhTGhvYjdzWGp1c1JtNHhZQnNaNFRjcVN5bjZ3d2xtdktkM19Tek1aS05pNVRRblFDZjBROUR6VzFTcVpYSkhWcEtpdFlUYW9QakVXR1prWkY0UUNmWFdReHFEb2w3Vy1DZmswYWR4MzMzelF6bXV3MzNpd1NRck5iRW44aUI1V3I4djdDa1VGZnhkY3dhZ2pXSThXaHNGR2hoTmhranc?oc=5",
@@ -139,17 +211,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
-      "summary": "How Claude is accelerating protein design and analytical chemistry Anthropic",
+      "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
+      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic wsj.com",
       "badge": "new",
       "date": "2026-08-18"
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic WSJ",
+      "title": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
+      "summary": "How Claude is accelerating protein design and analytical chemistry Anthropic",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -170,26 +242,10 @@
       "date": "2026-08-18"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
-      "summary": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO Bloomberg.com Anthropic revenue run rate tops $65 billion, source says Reuters Anthropic’s $65-billion revenue surge turbocharges IPO race wi",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Optics Stocks Drop on Anthropic News, WSJ Report: Lumentum Down 10%, Corning Down 8%, AXT Down 12% - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2RXS2c0aW1TSzgwa2VseTFDMXBESDAtWGJwNEp0dDdXZHFmMmQyQU5FNjBNQTY2cTRXd1JpZFhXZThWSUJSX3JRME4tRVo2cHdZTFFmU3JtNUtFb1hxM0dBMEg5NFlfOWlPQzI1MWJoaVhPY2hXOXRoX3J5a05ZRElYZ1EzYTZjN253aDZNZ1FhVUNaY3dJbWh0d05fU2xhXzBPWW1hMVdRRUdoOEI3N1NzQUY1MExJV0prMzdTWmZ2dllwVHhWNlZMbkFYdEg1?oc=5",
-      "summary": "Optics Stocks Drop on Anthropic News, WSJ Report: Lumentum Down 10%, Corning Down 8%, AXT Down 12% 24/7 Wall St.",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic nears $6 billion deal for Israeli AI startup Decart, creating new billionaires - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZjNEQxYmh6N3dHS1RoOXNJVGxuaDRnYXRvemZuLWVDYUNudHBCaURVdHdFSHNaTlRoNWFsSUhkc2k5RU9OcVpWeVh1UGg3QjJZc3dwWVduTGJNNEh4MV9OR0FmQkthSnhmVXdxZjZGcUZiNFh5MXk0OGZUbkJwdThFaFBMdw?oc=5",
-      "summary": "Anthropic nears $6 billion deal for Israeli AI startup Decart, creating new billionaires The Jerusalem Post",
+      "company": "Microsoft",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
+      "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -203,17 +259,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
-      "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
+      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - darkreading.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
-      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
+      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture darkreading.com",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -291,9 +339,17 @@
     },
     {
       "company": "Meta",
-      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - businessinsider.com",
+      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHcxX2JheThPT19sMGluVWFpQmQ4bFpXbkY4azBLMkFpRHZWNGtkSkdYYnhRNU1TRDRCenNGVUx2TV90QUl4LVJqR2pzSVFtYTNTaXNhSFhWX2E5ZldKaWRJLVdjMEFZdUVwcFRubzhvc3dmRmp3MjFiU1l2QUFhbkZEeEtHVlQ0V3FDaFR4cU0?oc=5",
-      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. businessinsider.com",
+      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Business Insider",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Meta",
+      "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fVDZUWUhCdENoRjB0M2JPMGRLeVdvZlJtNU1ZM0RqUnJHUm1HV1lmXzUxMWg1Q3FoMHRleEJUVWpGQ1dqeEJzY3lZYzhwUV9nQWlsUlZYcnFxeTFVTHBxaERvUXBTblgzMVpqRDVWVS1hWWRPcUlVVEhWWmhMdw?oc=5",
+      "summary": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job The New York Times",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -322,22 +378,6 @@
       "date": "2026-08-17"
     },
     {
-      "company": "OpenAI",
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "OpenAI",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
       "company": "Google",
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -347,17 +387,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
-      "summary": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform GeekWire",
+      "title": "Excel's Copilot function is headed for the Recycle Bin - The Register",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZ2WG1POFA3UGZSUHdBRXNhc091U29KbHhWOEgzSktRQTg2eWZhS0hlSHJyS05xZTl2WWRoeXl0ZFoyTUljTjRKV0pucHJleFFPUkdJajVDWHRvZWVpNXo2cjZZOVFxTjIyN2xCRUtxUFZuMV9uMkM2SFA1NEtSalA1M3A0bGpHYktwaXBuYVhFRng2ZHJOY3BobmhMMWtYOWpEZHdHRlVSQzJlOHdZ?oc=5",
+      "summary": "Excel's Copilot function is headed for the Recycle Bin The Register",
       "badge": "new",
       "date": "2026-08-17"
     },
     {
       "company": "Microsoft",
-      "title": "Excel's Copilot function is headed for the Recycle Bin - The Register",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZ2WG1POFA3UGZSUHdBRXNhc091U29KbHhWOEgzSktRQTg2eWZhS0hlSHJyS05xZTl2WWRoeXl0ZFoyTUljTjRKV0pucHJleFFPUkdJajVDWHRvZWVpNXo2cjZZOVFxTjIyN2xCRUtxUFZuMV9uMkM2SFA1NEtSalA1M3A0bGpHYktwaXBuYVhFRng2ZHJOY3BobmhMMWtYOWpEZHdHRlVSQzJlOHdZ?oc=5",
-      "summary": "Excel's Copilot function is headed for the Recycle Bin The Register",
+      "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+      "summary": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform GeekWire",
       "badge": "new",
       "date": "2026-08-17"
     },
@@ -418,52 +458,12 @@
       "date": "2026-08-17"
     },
     {
-      "company": "Perplexity",
-      "title": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWHpWSUY4aE5HRHpmYUVmS0RuXzlpU0hUZ3hySENYX3FJREhTWlhpSHBrbUs4ZnA5U0pNMmRZVjZXenRSeU5sS05KdENicmFvVTh5dW1aX0IyZGlZdG8xQnNNS2Fzd054QXVnc2t3STBLU18xLTliaFFzMjNBd2JLbzBHR3NLTWVKenRMRE9XMUtTdFl0YnBCamk5c0IyMFRhcmJnN2lPb003QkFVN2hIYUdfSHdZRnNvbTR0ak1mczh2UzJFTkVJTC1MV2JfWkYzbXJDOVVoOTA2VTB5Y1E?oc=5",
-      "summary": "We asked ChatGPT, Claude and Perplexity for financial advice: what we got was practical, but with big blind spots The Conversation",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
       "company": "Meta",
       "title": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
       "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses The Independent",
       "badge": "new",
       "date": "2026-08-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmhVRUEzVUpPbjE0T2g1RjRLZVhVWEVGSEY3M3JEd19NVDdwSzR4SUJuNTFUVTlKX09xakFRNGxsWTg0cDVXZ2tEaGYxMzhFWTlDWlZvd2tDR2YtNWlnU3dHcEdDcWtRZnAxU1ZxOWxJcjRnTDk0OVBnYTRmbGNSaHZ2Ti11c2RDUHc?oc=5",
-      "summary": "Why people aren’t buying Mark Zuckerberg’s AI future Yahoo Tech",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5",
-      "summary": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. Business Insider",
-      "badge": "new",
-      "date": "2026-08-16"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI vs ChatGPT vs Grok: $180 Price Gap [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSRnpRdEdQbURYaF9OREhpeW1mQjNldFlnRThCQWhHN2EyMGd5ZWhsdEc4RHBFamtTb0xTR0dpbGU3TGdKNjFZMzZtdy10YjQzaUJUWmtqeGdzLWwtRFRsOUhMVTRSRUJaVUg2SnZ5M0F4MVo2?oc=5",
-      "summary": "Perplexity AI vs ChatGPT vs Grok: $180 Price Gap [2026] tech-insider.org",
-      "badge": "new",
-      "date": "2026-08-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdXS05xRW1WQ2ItQmhUZEd1SVowVkJISVhwQ1Z5STF5dnJkV2pVRmExN1JoLXNEMkZKdGV1eGZnWnVvV2I1QllUZ3JJTktoeFdKa3JtY3NSMFlBRUYta3k5d2RJdnFzVUJIMGVGY2V0SThGTG94SlEzMl9KQWRsZkduN0RycGx1SjBGOVViQVNvbXE4TS1WdTU2MGhLNjhZLUtUVHM2WVF3ZGZKalBmOURR?oc=5",
-      "summary": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-15"
     },
     {
       "company": "Google",
