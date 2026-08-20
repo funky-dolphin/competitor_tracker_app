@@ -1,10 +1,50 @@
 {
-  "updated": "2026-08-19T18:25:49Z",
+  "updated": "2026-08-20T00:55:05Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
     {
       "company": "OpenAI",
       "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "badge": "new",
       "date": "2026-08-19"
@@ -14,6 +54,38 @@
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Rogue AI agent incidents fuel push for tech transparency - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3JfNHA5N1VRNGtXOGtHQWZxWDg1VDF5Y0UzbGZocS0zbHVtS2Z5X3JLdGliWktQekgxYlY0WURzRmNNZEdJWFJnUmc0NGthZGd3TnZtY1dkMU5adWdXOTM1ZmhiaUdTeVo0VXFwbkhfbkVndkN3a1ZqNEdiRzVtdW1xYnJ0OUt0V1lyWmF6Z1A5VjFEN1ZjS1lpVW4tWVpPeUM4Z0JCTkxtdDV4SS10Ng?oc=5",
+      "summary": "Rogue AI agent incidents fuel push for tech transparency NBC News",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0hWZktsTEJtWklDQmI0N1BRV2RHY3c5NHVEVWFOZWVKUkhjZExVazNWaDBmaWFGd3REcVROZEZlVjFNS1FWdDRueVl0Sk1Ga2M1VERzRXU2UUdoVEFLeWFTRE44UVNOWl9zcG1zTHVaX18xQ1RybFlHSDdyVlh1RHlJVjZnd0FIYi1SbG56eXlSU3BOZzI3cGJHZ3AyWVh1ZEtEVDFYNml0S3I1Q2hZalVKN1Q2ZmNGVnFIbzgyR1NqRllqR0E?oc=5",
+      "summary": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s AI watermark has already spawned tools to remove it - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XN1FQQnJURFp4elNPLWk0OERWSDg3NlFoeV81N2Z2ZTNpVGJvUjc2M3BVQUlocjNTbXgwSzA0cjRSWmVtaXlnWHNrMUNXbjM0MlFWaTlNNWZpeERvMHRLczlXRW9ua2lvRWRXNHRZR3pxSTM0c1lpWUtB?oc=5",
+      "summary": "Anthropic’s AI watermark has already spawned tools to remove it The Next Web Anthropic’s New AI Watermark Sparks Backlash From Claude Subscribers inc.com Coders Say They Already Found Workarounds to C",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -66,50 +138,18 @@
       "date": "2026-08-19"
     },
     {
+      "company": "Google",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
       "company": "Microsoft",
       "title": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3JKYVRhQ1Z1ekUwdXRjRTJ6OGN3SzZUSm52eUVVVGV0azVCSjFWQnNPdzBrUTRDMlBPMm5VcDZ0TDZUeTlsOXQ2TndtU3BGZk9VMmx3cGplX1VSY2hTb0NHb25BVmt0VGxsdUFpVDU4UmUxZWZZUVdCSHBJSU91dVQxb2loWUx3RW1JUDRscHpGSllxN3g2akczT1BoZmZ2NldHTzlReTB2akstTnBldU53TEZhazF4ajc3Mjk0a190SDkyTnZOOERfaDhpUnlJcVRVMTFTMFJXQ3RXRnhMNHpCOVVsWEZEOTBPeEpQeEQ2QWM?oc=5",
       "summary": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it Computerworld",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -131,9 +171,25 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's new Mac app takes aim at creators, small businesses - Axios",
+      "title": "Meta's new Mac app takes aim at creators, small businesses - axios.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
-      "summary": "Meta's new Mac app takes aim at creators, small businesses Axios",
+      "summary": "Meta's new Mac app takes aim at creators, small businesses axios.com",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI is getting a Mac app - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
+      "summary": "Meta AI is getting a Mac app The Verge",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Now Has A Dedicated Desktop App For Mac - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFFWNGtQRk5UUV9DSlRNek9IYXVMVGV3VE40ZEZsNmxPQW9meFpGSHJwLXJwemJGYTJpamJ3VGJQN1dnSmdnNzlWMUdwblBOQUszR1Y2NUFoY3hhaXhHc1oxWXdYbm94cXllUlBUQmdrRlVrUUNaSEpmRm9WMDR4Ym9lcTgwMlAx?oc=5",
+      "summary": "Meta AI Now Has A Dedicated Desktop App For Mac Engadget",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -211,33 +267,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - wsj.com",
+      "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic wsj.com",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
-      "summary": "How Claude is accelerating protein design and analytical chemistry Anthropic",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU9mVXV0ZTMtd20xVkxqQXZwVF9rMTRQMmZJOGlZV0hvb1pGQUpRemRlZHYxUEJUbXFUQTBKWGNfSTg0TWxNbEJGb3JjWVdfSGVvOERjemJabTFmSFlHRlB5Mk1kbWE1c2dOQm92enZfVV9McTdDZmxRMDc1UmlHaDAyR3FJb3NVbE9NVmJaVVgyeTdTb1g4dnFCcXY1bXZTNV9MX0szN0FOblBmdmNHRm5Sdw?oc=5",
-      "summary": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWhlcVlRMWxYS3FJNUhUVXRBbHBaMXh6OTdJYm9JODFsNUF3Z2NVd2tjWGpCUkExSENidW9ZSzlObEtvbWJ4dlIxd21ab3lseXRRY21ad1dyeGdNV2dZdXNWc0lhR3NBYWo4SGwxYm9wZi1CVzNXQlVObGROTVZxcm93SzlIVkhJTG5QWVplMV9WNm9yZEpsOTZxb0Z5QjJ4OWF4czUtRDdkWWV5TlRiVzVqWWV0YXd3WEVQQw?oc=5",
-      "summary": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports Reuters",
+      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic WSJ OpenAI seeks to one-up Anthropic with new customer privacy protections TechCrunch Stock winners and losers as An",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -259,9 +291,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - darkreading.com",
+      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
-      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture darkreading.com",
+      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -370,14 +402,6 @@
       "date": "2026-08-18"
     },
     {
-      "company": "OpenAI",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
       "company": "Google",
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -448,22 +472,6 @@
       "summary": "Meta’s true AI costs exceed previous accounts Social Media Today",
       "badge": "new",
       "date": "2026-08-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - tomsguide.com",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeklad2pDM09EUXVQdlRXQWg5T1NQZFFPTEV0S0VBZnF3S0dvOHk2d2lHZml1NUFySTVaNFl4V0F1bmxPVVBWR2M2ZWZuRExkcFBHR1A0ZnRkXzg1VmtSbnNIX3luR1FEUFVrWWVmNk5LSW1NSzg4alRORXlBMFpZbkhDNXNlN1Vqa1hZaWg5ekJkTG02U1Q2T0Y1TUI4Z1luZWlQV0NBcmJwVHUxVUVpRlA5cmliM3oyTmNxWU1QZUVLcGJuTlJyaEU3cWl4LWZxRGoyY1hxVWlJVVpMMnpLQUFMWUZLSkw3dGF5QWV5bS1vakQ4UVhDaUw5NWVJTmUtMmJKRnFBUWhOb3FzOHA1ZnJLYVNFVmtwUVM3WEZIMTFYc2JqbWY0cUp4Z00zYnZoR1pB?oc=5",
-      "summary": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically tomsguide.com",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
-      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses The Independent",
-      "badge": "new",
-      "date": "2026-08-16"
     },
     {
       "company": "Google",
@@ -576,14 +584,6 @@
       "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
       "badge": "new",
       "date": "2026-07-23"
-    },
-    {
-      "company": "Google",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "badge": "new",
-      "date": "2026-07-22"
     },
     {
       "company": "Amazon",
