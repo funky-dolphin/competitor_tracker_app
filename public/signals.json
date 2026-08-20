@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-20T06:36:16Z",
+  "updated": "2026-08-20T12:36:07Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFBRWZSMEJKd2JBSGJVeWtqZXNLTTM5WlR5T2hiLTFha2l6WGhaamRZdnJ3bkI1SUV6enN0NVh4R3dwSDVzaU82ckE1SUlFOTl2X3NhbXdtaVlaMFNieXYxTE5Zc3VUSTB1WkpNNDc5SFg1NFFGUFFLY2NCVy1KYlJ3MGpjVVhoMHdxekhlaWdrZ3gxbU94aEZ6UkVJczVhX1N0ZWVPMWV4ZFpoa1RQZWI2MjU?oc=5",
+      "summary": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV191MlFmd2p5ckgtNlM3RExrQ1hYSlNRbmtNMXljYmZnVS0zUF9WUENyRmZzZVpXc3Fud0dHVE5IYlMwa0xsN2s0QUR5ME5uSUlCWDJobzZyWXRrRGd1NHlxalB1M0FzRFhnSGI5ZF9QUG5PQTJVTXJId0VRdnVoSS1RZTFJcGdMMUp3TGVjdmtNMnhqQ3FUamh2TGxzenlWY2xOMGlEb2I2UG1u?oc=5",
+      "summary": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself extremetech.com",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
@@ -50,6 +66,30 @@
       "date": "2026-08-20"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity Builds Guardrails to Rein in Rogue AI Agents - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3h6cVFubk41YS1EWDZKakJ4Z2F0Zm93ZkhhNkhrRm5QOGJoblMwN3JhcmI2N3N6Q2FqblotbU44M2Utd2tlR2tQUTlDZ0w4TDNnbHdwR0RnU2tQT3QxdG5WVU5USS1KenlLVlNjQmk2aFdwVy1lazlkejFkY1BKdEMxeVB1WXRYdW1BVmhiMFg5a0tXZldHUHlHdXc?oc=5",
+      "summary": "Perplexity Builds Guardrails to Rein in Rogue AI Agents BankInfoSecurity",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's new Mac app takes aim at creators, small businesses - Axios",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
+      "summary": "Meta's new Mac app takes aim at creators, small businesses Axios",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDhQTEJnN2VjR2haXzQ5UUY3TEt4TDlmVHJBb1dCWnh2TGtBWjlURVBETXNpUTJqRHRHZ01yN1hfa1ZINVBDWWo1SWpJSk13T1RwRnBTUUZUWEx0MlBVOWh4NUFKZWU0N2tzcTRIVU1mYzNZQXlzS212eF8wTTZ3dmxpZV8xVHI0T2h4clVncw?oc=5",
+      "summary": "Meta AI’s new Mac app wants you to talk to your apps TechCrunch",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
       "company": "Meta",
       "title": "UK cinemas consider ban on Meta glasses - Sky News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUNvMzRGazZkaVpGSVpGVDBmMEZxTkpHM3Zyak1kTTlzaGlXZ2NDWW13VnNDUE5uYzdpNFZfemJtZnNTY1JZZkI1VmU3M3BMZTNJRG9sZmdOcUN0X0NrVDFUQjV0cHVWSUE3b0JXczVQb0tkRXYzVmdTMHo2WFBtWA?oc=5",
@@ -83,9 +123,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
-      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data WSJ",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5",
+      "summary": "OpenAI seeks to one-up Anthropic with new customer privacy protections TechCrunch",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -94,6 +134,14 @@
       "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
       "summary": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees CNBC",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
+      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data WSJ",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -146,22 +194,6 @@
       "date": "2026-08-19"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic surpasses OpenAI in Q2 revenue for the first time - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpMjEzenFONU9uZG5jODcyS2RTWndfVWVHZXJveTVwdEd4bHRHMW1EemFhV1NSWGE5TjFIUEdFbDhzRUNTZFJDT0UxRWtTVlpHMlVRRjlldzR3OG5vdDFlcHNMcjdvNFd5NjhXOXp2MHQwdw?oc=5",
-      "summary": "Anthropic surpasses OpenAI in Q2 revenue for the first time qz.com",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTRXdVh6UmJ1d2VNeTVzUTZvR3gyak9FeUlDSlFSR243LUxJUHgtZ2NCV3c1Y29SU1NrWlIyeHplQVFiSHZiYTFXYVlzRjBHd2cxdS14TmNBTXdCSzNPT0JZUzk2eWlMZWVKY0ZucEtiQi01T2pqTGdhRTZUVUttLXNYQVJXcHU0VklVZjlGQV85Si1SYm9LcFR2OTNTM09jNWpVY1FWc3J2enFtTnBBMlI3aTE?oc=5",
-      "summary": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
       "company": "Google",
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -187,9 +219,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Search Guide | Professional Services - accessnewswire.com",
+      "title": "Perplexity AI Search Guide | Professional Services - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOU5QVFZ2c25Ma2ZSVXNJWHljR1I2Y1NGOHltR19hNWUwak4ySU1UUlhtMzNLcUxfaUoxQWxFRWZUcms4dlRUcjNzOUt2X2xfNlpQRWx3Y2JvS0pfUUxfdHNVUWo5RXdxQ3VmWWlucTRtNDVWOW11c28wcjFjaWFJVEhqdFhyNjd4WGhsb3d1Tm1SYlNrbV9YM2tVbVQweVZQSXVibTFpdFllOE5MUnAtVWQ1NDFfczlpN3VldENTQ29mN1Rha19CbUl3Z2RHUElRZXd0YkNRRGM2OTlyRS1Kcm5Lc0M?oc=5",
-      "summary": "Perplexity AI Search Guide | Professional Services accessnewswire.com",
+      "summary": "Perplexity AI Search Guide | Professional Services ACCESS Newswire",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -206,14 +238,6 @@
       "title": "Meta AI is getting a Mac app - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
       "summary": "Meta AI is getting a Mac app The Verge",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's new Mac app takes aim at creators, small businesses - Axios",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
-      "summary": "Meta's new Mac app takes aim at creators, small businesses Axios",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -315,17 +339,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
-      "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
+      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
+      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
       "badge": "new",
       "date": "2026-08-18"
     },
     {
       "company": "Microsoft",
-      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
-      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
+      "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -366,14 +390,6 @@
       "title": "Perplexity’s free AI offer left it with millions more users in India - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGtBWjFBcWVYb3BpV2xKc2hpWEtvbmJNbEFJeDFzWmZ5SF8xVjdPaVA0ZGpBWldKbVRoTURwNDdpaVRUeWx6SEpjMFp6OVFmcWVmbkhTMGFHN3MyQi1oSXlCNzBUYzNRbmJEenFLbXVYRi05dHd3aGtrMWU4Y0FKWllpdmZHUW1qc1BiVUtfZjlXSC1RY2FEc2xrd1k5Q2l2VG1Gdg?oc=5",
       "summary": "Perplexity’s free AI offer left it with millions more users in India TechCrunch",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Builds Guardrails to Rein in Rogue AI Agents - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3h6cVFubk41YS1EWDZKakJ4Z2F0Zm93ZkhhNkhrRm5QOGJoblMwN3JhcmI2N3N6Q2FqblotbU44M2Utd2tlR2tQUTlDZ0w4TDNnbHdwR0RnU2tQT3QxdG5WVU5USS1KenlLVlNjQmk2aFdwVy1lazlkejFkY1BKdEMxeVB1WXRYdW1BVmhiMFg5a0tXZldHUHlHdXc?oc=5",
-      "summary": "Perplexity Builds Guardrails to Rein in Rogue AI Agents BankInfoSecurity",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -426,14 +442,6 @@
       "date": "2026-08-18"
     },
     {
-      "company": "Meta",
-      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0pVbGh2cjRPNnk2YkR3RDJEd2RLSU1zazBlMFJ0OUJ4Wlk1aDQ2OGRyWXpRNi04ejc0T3hBUWR0aTRFMHVpdXFwTU9CV2EwRXVhN1dDS0d4cG1lSXB2VEp4VWY2MkFkS3YyWk5oVm5MVGdMdVdlLWdhLXFqbDNfY0YwY1Exd1hLdWZSRw?oc=5",
-      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Yahoo",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
       "company": "Google",
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -446,14 +454,6 @@
       "title": "Excel's Copilot function is headed for the Recycle Bin - The Register",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZ2WG1POFA3UGZSUHdBRXNhc091U29KbHhWOEgzSktRQTg2eWZhS0hlSHJyS05xZTl2WWRoeXl0ZFoyTUljTjRKV0pucHJleFFPUkdJajVDWHRvZWVpNXo2cjZZOVFxTjIyN2xCRUtxUFZuMV9uMkM2SFA1NEtSalA1M3A0bGpHYktwaXBuYVhFRng2ZHJOY3BobmhMMWtYOWpEZHdHRlVSQzJlOHdZ?oc=5",
       "summary": "Excel's Copilot function is headed for the Recycle Bin The Register",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
-      "summary": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform GeekWire",
       "badge": "new",
       "date": "2026-08-17"
     },
