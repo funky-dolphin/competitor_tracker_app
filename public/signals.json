@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:55:05Z",
+  "updated": "2026-08-20T06:36:16Z",
   "signals": [
     {
       "company": "Apple",
@@ -42,6 +42,22 @@
       "date": "2026-08-20"
     },
     {
+      "company": "Perplexity",
+      "title": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI - Law360",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TS2VWUDRzVmVlemdEVzJPZVZtSVdzOE5kT0VJcWdIVkwyUm4tcExSM0tGRURzZ3VuUGplaWpOaUVwQmNPa1VoOGx1aGZnSXdXWkQ2VF9B0gFWQVVfeXFMTlNLZVZQNHNWZWV6Z0RXMk9lVm1JV3M4TmRPRUlxZ0hWTDJSbi1wTFIzS0ZFRHNndW5QamVpak5pRXBCY09rVWg4bHVoZmdJd1daRDZUX0E?oc=5",
+      "summary": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI Law360",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Meta",
+      "title": "UK cinemas consider ban on Meta glasses - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUNvMzRGazZkaVpGSVpGVDBmMEZxTkpHM3Zyak1kTTlzaGlXZ2NDWW13VnNDUE5uYzdpNFZfemJtZnNTY1JZZkI1VmU3M3BMZTNJRG9sZmdOcUN0X0NrVDFUQjV0cHVWSUE3b0JXczVQb0tkRXYzVmdTMHo2WFBtWA?oc=5",
+      "summary": "UK cinemas consider ban on Meta glasses Sky News",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
       "company": "OpenAI",
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -67,9 +83,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Rogue AI agent incidents fuel push for tech transparency - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3JfNHA5N1VRNGtXOGtHQWZxWDg1VDF5Y0UzbGZocS0zbHVtS2Z5X3JLdGliWktQekgxYlY0WURzRmNNZEdJWFJnUmc0NGthZGd3TnZtY1dkMU5adWdXOTM1ZmhiaUdTeVo0VXFwbkhfbkVndkN3a1ZqNEdiRzVtdW1xYnJ0OUt0V1lyWmF6Z1A5VjFEN1ZjS1lpVW4tWVpPeUM4Z0JCTkxtdDV4SS10Ng?oc=5",
-      "summary": "Rogue AI agent incidents fuel push for tech transparency NBC News",
+      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
+      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data WSJ",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
+      "summary": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees CNBC",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -78,6 +102,14 @@
       "title": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0hWZktsTEJtWklDQmI0N1BRV2RHY3c5NHVEVWFOZWVKUkhjZExVazNWaDBmaWFGd3REcVROZEZlVjFNS1FWdDRueVl0Sk1Ga2M1VERzRXU2UUdoVEFLeWFTRE44UVNOWl9zcG1zTHVaX18xQ1RybFlHSDdyVlh1RHlJVjZnd0FIYi1SbG56eXlSU3BOZzI3cGJHZ3AyWVh1ZEtEVDFYNml0S3I1Q2hZalVKN1Q2ZmNGVnFIbzgyR1NqRllqR0E?oc=5",
       "summary": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Rogue AI agent incidents fuel push for tech transparency - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3JfNHA5N1VRNGtXOGtHQWZxWDg1VDF5Y0UzbGZocS0zbHVtS2Z5X3JLdGliWktQekgxYlY0WURzRmNNZEdJWFJnUmc0NGthZGd3TnZtY1dkMU5adWdXOTM1ZmhiaUdTeVo0VXFwbkhfbkVndkN3a1ZqNEdiRzVtdW1xYnJ0OUt0V1lyWmF6Z1A5VjFEN1ZjS1lpVW4tWVpPeUM4Z0JCTkxtdDV4SS10Ng?oc=5",
+      "summary": "Rogue AI agent incidents fuel push for tech transparency NBC News",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -94,14 +126,6 @@
       "title": "Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart - CNBC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmFhYU5mVjhXb0FnQ0NHTk1CMXE1azlabnZiN1pnZVN6aXhqUkdNLTVsMU9DTDJVVWVxVGxVMHFtaGx5QmRNWlc4ODljVnJYOXgxZEpUV1ZrYXBJUFplSXhHeDJKN293TXRUUHh4c1ZkVDFvdFBzSXJ0WXg0OVZVWUJFdVJmUmdlTFB5NjFJV0xQTWloM1lGZEQ4aFFWMDlYRkVFTGxiVDdLYmZCVVYw?oc=5",
       "summary": "Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart CNBC",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
-      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data wsj.com",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -147,6 +171,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Meta-hacking got Microsoft Copilot to snitch on itself - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVmNkTnRXY0JFdG8yWGJxb1ZqSWlpaFlPZDRLSUlnRVNNOWtRM29sOVlRNkZ4WDZNSVBEcURocEpTLVhYX1psYUt0dy1lM1FKckVoajN6S0tMU2t0c2NucmlWbjVuX245bEswOVFjQ1FYWTJYSzNwNGptVXNrZzlRN09BQQ?oc=5",
+      "summary": "Meta-hacking got Microsoft Copilot to snitch on itself Cybernews",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3JKYVRhQ1Z1ekUwdXRjRTJ6OGN3SzZUSm52eUVVVGV0azVCSjFWQnNPdzBrUTRDMlBPMm5VcDZ0TDZUeTlsOXQ2TndtU3BGZk9VMmx3cGplX1VSY2hTb0NHb25BVmt0VGxsdUFpVDU4UmUxZWZZUVdCSHBJSU91dVQxb2loWUx3RW1JUDRscHpGSllxN3g2akczT1BoZmZ2NldHTzlReTB2akstTnBldU53TEZhazF4ajc3Mjk0a190SDkyTnZOOERfaDhpUnlJcVRVMTFTMFJXQ3RXRnhMNHpCOVVsWEZEOTBPeEpQeEQ2QWM?oc=5",
       "summary": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it Computerworld",
@@ -155,9 +187,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Search Guide | Professional Services - ACCESS Newswire",
+      "title": "Perplexity AI Search Guide | Professional Services - accessnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOU5QVFZ2c25Ma2ZSVXNJWHljR1I2Y1NGOHltR19hNWUwak4ySU1UUlhtMzNLcUxfaUoxQWxFRWZUcms4dlRUcjNzOUt2X2xfNlpQRWx3Y2JvS0pfUUxfdHNVUWo5RXdxQ3VmWWlucTRtNDVWOW11c28wcjFjaWFJVEhqdFhyNjd4WGhsb3d1Tm1SYlNrbV9YM2tVbVQweVZQSXVibTFpdFllOE5MUnAtVWQ1NDFfczlpN3VldENTQ29mN1Rha19CbUl3Z2RHUElRZXd0YkNRRGM2OTlyRS1Kcm5Lc0M?oc=5",
-      "summary": "Perplexity AI Search Guide | Professional Services ACCESS Newswire",
+      "summary": "Perplexity AI Search Guide | Professional Services accessnewswire.com",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -171,17 +203,25 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's new Mac app takes aim at creators, small businesses - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
-      "summary": "Meta's new Mac app takes aim at creators, small businesses axios.com",
+      "title": "Meta AI is getting a Mac app - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
+      "summary": "Meta AI is getting a Mac app The Verge",
       "badge": "new",
       "date": "2026-08-19"
     },
     {
       "company": "Meta",
-      "title": "Meta AI is getting a Mac app - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
-      "summary": "Meta AI is getting a Mac app The Verge",
+      "title": "Meta's new Mac app takes aim at creators, small businesses - Axios",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
+      "summary": "Meta's new Mac app takes aim at creators, small businesses Axios",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI is now available as a more capable desktop app for Mac - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWm5TalVhWHB0WmFuejVwNUp6MEl6cW9xVE1FdlBkN0ZNQ3VLeDNKZmtUNzZVelBXRVFLdE1NRGtrVDV0RWVHYkphSm9WUThGdHFpRC1CRVdSOC1uSDdSUHNuTVNCVnJicFR6MTFJWDZSSWY0N3dWdm94SFpfVUF2U0FMTTVXeE1odmp0TUtwaXRZMlBUa1oyb3RR?oc=5",
+      "summary": "Meta AI is now available as a more capable desktop app for Mac 9to5Mac",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -266,10 +306,10 @@
       "date": "2026-08-18"
     },
     {
-      "company": "Anthropic",
-      "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic WSJ OpenAI seeks to one-up Anthropic with new customer privacy protections TechCrunch Stock winners and losers as An",
+      "company": "Microsoft",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm41RXVjYlV4blQ4VE9uY0h4UWZwaWtrSGo5VHRoc1lJVC1zdU9SeEVzLUJlTnNJYmRmRnJCVWRkR2l1ck9lOWcxQ09YSkx6SUJQQVN2dDhkbS0zNjhUMVNsU0o1aWZTRWE3bzZIZDFPVUY2WDJfWUYwUGg3bTF2ZDZMbnFMc0RMMmljVGRjb2RlYUVHb1E4VmZOVUF4Y2cwSDhqSVZoTk1Ea0RoS0E?oc=5",
+      "summary": "Microsoft Copilot reveals secret input that allowed it to be hacked Ars Technica",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -283,14 +323,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm41RXVjYlV4blQ4VE9uY0h4UWZwaWtrSGo5VHRoc1lJVC1zdU9SeEVzLUJlTnNJYmRmRnJCVWRkR2l1ck9lOWcxQ09YSkx6SUJQQVN2dDhkbS0zNjhUMVNsU0o1aWZTRWE3bzZIZDFPVUY2WDJfWUYwUGg3bTF2ZDZMbnFMc0RMMmljVGRjb2RlYUVHb1E4VmZOVUF4Y2cwSDhqSVZoTk1Ea0RoS0E?oc=5",
-      "summary": "Microsoft Copilot reveals secret input that allowed it to be hacked Ars Technica",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Microsoft",
       "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
       "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
@@ -299,17 +331,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXBVUTREd3VORnBqaUw2Ykpid3paM3ZpSTlWcmpUaWRhZml1RDAwNXRuMlJhaTRncVE5enVXbmVfcEFubVpMNWRLaFRTRTFTTWQzdm9MeFFuRlZZaXpzLWYxUGtWRFZHQWJ2cGwwOXlYRHliQnJFTUVIVnZ3UGdxZXdSenVhTTVUTF9QMWhPcFA4cF9rSTFoRVpzc25NcXFPWWowTU1xZWJPWkZmWmxzOVFPYkpSZ0xaWFlFRVpFRDN6REZMRmlJd09aUTdrQWtWaEhVSnRfS1pDbjdQQ3ZCUHpmQVozQ0Nra3dTYUl5YTZMWjk3ZTlxWTFUZHdsNjRvS1R0bg?oc=5",
-      "summary": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app Windows Central",
+      "title": "Copilot tricked into telling reseachers how to hack itself - The Register",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl84cGExeXJBYVlkVEZqTmwta2hjWTN5Rk95X0o3UmNIenBiMjdfck5UVGpTR0Y3R0l4SzRyQTJYMUxwMGxxV0RGMXVRY1UxTGhKUUZodWF5cEg4ZkQweE5aZWIyNzZPTDJubExrTHg3NVFBNXBhcmVWQWlaUkl6dDJZUHpzQmc1Uzl4Z3pocl9EMTd2Uy1jYy1QNGpRVVktbXByOENNRkVXZDRWVnhwaHZsdGs?oc=5",
+      "summary": "Copilot tricked into telling reseachers how to hack itself The Register",
       "badge": "new",
       "date": "2026-08-18"
     },
     {
       "company": "Microsoft",
-      "title": "Copilot tricked into telling reseachers how to hack itself - The Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl84cGExeXJBYVlkVEZqTmwta2hjWTN5Rk95X0o3UmNIenBiMjdfck5UVGpTR0Y3R0l4SzRyQTJYMUxwMGxxV0RGMXVRY1UxTGhKUUZodWF5cEg4ZkQweE5aZWIyNzZPTDJubExrTHg3NVFBNXBhcmVWQWlaUkl6dDJZUHpzQmc1Uzl4Z3pocl9EMTd2Uy1jYy1QNGpRVVktbXByOENNRkVXZDRWVnhwaHZsdGs?oc=5",
-      "summary": "Copilot tricked into telling reseachers how to hack itself The Register",
+      "title": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXBVUTREd3VORnBqaUw2Ykpid3paM3ZpSTlWcmpUaWRhZml1RDAwNXRuMlJhaTRncVE5enVXbmVfcEFubVpMNWRLaFRTRTFTTWQzdm9MeFFuRlZZaXpzLWYxUGtWRFZHQWJ2cGwwOXlYRHliQnJFTUVIVnZ3UGdxZXdSenVhTTVUTF9QMWhPcFA4cF9rSTFoRVpzc25NcXFPWWowTU1xZWJPWkZmWmxzOVFPYkpSZ0xaWFlFRVpFRDN6REZMRmlJd09aUTdrQWtWaEhVSnRfS1pDbjdQQ3ZCUHpmQVozQ0Nra3dTYUl5YTZMWjk3ZTlxWTFUZHdsNjRvS1R0bg?oc=5",
+      "summary": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app Windows Central",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -371,17 +403,17 @@
     },
     {
       "company": "Meta",
-      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHcxX2JheThPT19sMGluVWFpQmQ4bFpXbkY4azBLMkFpRHZWNGtkSkdYYnhRNU1TRDRCenNGVUx2TV90QUl4LVJqR2pzSVFtYTNTaXNhSFhWX2E5ZldKaWRJLVdjMEFZdUVwcFRubzhvc3dmRmp3MjFiU1l2QUFhbkZEeEtHVlQ0V3FDaFR4cU0?oc=5",
-      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Business Insider",
+      "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fVDZUWUhCdENoRjB0M2JPMGRLeVdvZlJtNU1ZM0RqUnJHUm1HV1lmXzUxMWg1Q3FoMHRleEJUVWpGQ1dqeEJzY3lZYzhwUV9nQWlsUlZYcnFxeTFVTHBxaERvUXBTblgzMVpqRDVWVS1hWWRPcUlVVEhWWmhMdw?oc=5",
+      "summary": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job The New York Times",
       "badge": "new",
       "date": "2026-08-18"
     },
     {
       "company": "Meta",
-      "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fVDZUWUhCdENoRjB0M2JPMGRLeVdvZlJtNU1ZM0RqUnJHUm1HV1lmXzUxMWg1Q3FoMHRleEJUVWpGQ1dqeEJzY3lZYzhwUV9nQWlsUlZYcnFxeTFVTHBxaERvUXBTblgzMVpqRDVWVS1hWWRPcUlVVEhWWmhMdw?oc=5",
-      "summary": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job The New York Times",
+      "title": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHcxX2JheThPT19sMGluVWFpQmQ4bFpXbkY4azBLMkFpRHZWNGtkSkdYYnhRNU1TRDRCenNGVUx2TV90QUl4LVJqR2pzSVFtYTNTaXNhSFhWX2E5ZldKaWRJLVdjMEFZdUVwcFRubzhvc3dmRmp3MjFiU1l2QUFhbkZEeEtHVlQ0V3FDaFR4cU0?oc=5",
+      "summary": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. Business Insider",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -426,22 +458,6 @@
       "date": "2026-08-17"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb29iOTJzRTNiNWd1QXVGU1J4bkE3cVhiOXlBWkZjektxM0dGUFFrakkyZDBpNUFQOWFZTS1lamtEZGVDLW1mY29oNGFNWExNeFNUWG5DTUc5WDlzaTl1cG5JbmNzZVhoVm5sbmtDb0VtQ0Y4Qk84N2dENkpBVTBBTkVEeGU1Z1BDRlRDTXVLdWRZS3RGMXVnTjF2SFQza2d3U21fQW10a0pUUXFCOWlyS3dfczJnakJpb09rMXVMa1NtWE1tOUNLa3ZrNTZLTUF2Z1FlaW9iRDNUdGxfdUtSTm53?oc=5",
-      "summary": "Microsoft is pulling the plug on Excel’s COPILOT function after almost a year of testing Windows Central",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiRTEyR1dQRFlVS1Fpc2pWUTBTSGlkNXJwdUR4enNkNkZqZ2Y4dUxFbFBhTDZtVUY2TjBFektWOG9xSkp2aENENXdIS3V3aWFiVTVlMGNobUVTalU4WUFwZVM0VDdwRXpjZnpwcGNYRUdxLWxURy1RTkFxcnJFUzBfRWthM25xS3dQYTdoNE9qSkFuRXZyZXFBNk5Xbmljenc?oc=5",
-      "summary": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
       "company": "Perplexity",
       "title": "I Tested ChatGPT, Gemini, Perplexity, and Grok on Deep Research. One Clear Winner Emerged - PCMag",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHZndmpNZTE3UTMzNzh2NlNKQWVtazFZRDhBMjNBMWZaZWZDemtVbVVRQ2k5VEF2N1RjNm5XdUwtR0NvQ1dnd0YxYkRkNHRnWUd3NnliRWFzLWV6X09uYnRmR0pMMEdVY2VxZ3ZKWHJQeEI3dkptaWhZdmNGR19hRmxOYzJNZGtid3VOdHMyZXpRSWY5U01KMQ?oc=5",
@@ -451,25 +467,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "How to Tell If Someone Broke Into Your ChatGPT, Claude or Perplexity Account - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVRabEN6bHlwUEpSckxReFZEZjVrT25FR0VNcWpZSnhtNm1qVmhWQ1V3b2I5UHR5VTFJNUd0M19sVVVJZmxPaGhjYmFxX0VEdDVmOUVBSThNVjR6T1BVc3Q0dlpmOUJhMVVfdWVLdnNLNHgyc3BiaHJ5NTQ5VkpZOVFtMjNkWXhm?oc=5",
-      "summary": "How to Tell If Someone Broke Into Your ChatGPT, Claude or Perplexity Account Technology Org",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
-      "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model CNBC",
-      "badge": "new",
-      "date": "2026-08-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s true AI costs exceed previous accounts - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFFDWkpZYzJlU0RYcHlHUXBXRUwydkNCcEdDRWV6V2FqX0RRdFpudTJwaTh2bjRmZFNWX2trZEV6ajRRVDd2b0pCSDZkdTd6b3BEX3BKTmtJQ21lZzF1SGdoVHFMSnctSnllWE1IRmJ0X1dzaktWYTNxeEdZN1NlVVRZU3hDeXhtZXd2bGxRQzdfeG9z?oc=5",
-      "summary": "Meta’s true AI costs exceed previous accounts Social Media Today",
+      "title": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiRTEyR1dQRFlVS1Fpc2pWUTBTSGlkNXJwdUR4enNkNkZqZ2Y4dUxFbFBhTDZtVUY2TjBFektWOG9xSkp2aENENXdIS3V3aWFiVTVlMGNobUVTalU4WUFwZVM0VDdwRXpjZnpwcGNYRUdxLWxURy1RTkFxcnJFUzBfRWthM25xS3dQYTdoNE9qSkFuRXZyZXFBNk5Xbmljenc?oc=5",
+      "summary": "Canary Data and Perplexity Partner to Bring World-Class Investment Research into Perplexity Workflows Yahoo Finance",
       "badge": "new",
       "date": "2026-08-17"
     },
