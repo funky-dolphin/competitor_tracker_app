@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-21T06:36:25Z",
+  "updated": "2026-08-21T12:35:06Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "DeepSeek Unveils Test Model to Rival Anthropic’s Opus 4.8 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUnVMT3pFdktJSVA3NlpCazVXRlp6b2pkaEVHMzk4S2hfQ2hkRHliOWlodnd5aHlnSDVCOGVlRTBkVFNhdVZqSGhHYm8wUFRBSTFhTWJWSjNDOTRHZmFuek8zNi00dlFDT2s2OE5tNnVIWDVrblh6aUNWaEs3cDhjZ0FpbHEzUlB1LXZSeHQxU3hWclNIWF9IRnl5cXAzckNlNVVDTWZxUlcyWE9mWWdEV2lLZEhIamhaT1RLSHB0eDAwa0E?oc=5",
+      "summary": "DeepSeek Unveils Test Model to Rival Anthropic’s Opus 4.8 Bloomberg.com",
+      "badge": "hot",
+      "date": "2026-08-21"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
@@ -50,6 +58,14 @@
       "date": "2026-08-21"
     },
     {
+      "company": "Meta",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5",
+      "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings Ars Technica",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
       "company": "OpenAI",
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures",
@@ -69,15 +85,7 @@
       "company": "Anthropic",
       "title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5",
-      "summary": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size Bloomberg.com Anthropic Expects to Match SpaceX’s Record IPO Size or Top It Yahoo Finance Anthropic’s Revenue Run Rate Just Hit $65 Billion. ",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Enterprise AI Venture Buys Consultancy - The Information",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWtOUFRTLWtoemREQ09uOVpoQUJPQ2lyUjU2SVpEMEFNNXNoaGs4UWZfeGFING1pcG41VFlEUEx6NWxCNU5pTnFYd0RkNlhYWGJpdUp4d1dxNV9abWZBb3JtZkFwNVhuSE94Z2l3T1hzcFM4YjNGWXpmRHBWLXJQRVV1Y0VRMnlRRHdGV0lDRW1Ndzg?oc=5",
-      "summary": "Anthropic’s Enterprise AI Venture Buys Consultancy The Information",
+      "summary": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size Bloomberg.com Anthropic Expects to Match SpaceX’s Record IPO Size or Top It Yahoo Finance What retail investors need to know before jumping i",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -94,6 +102,14 @@
       "title": "Anthropic plans to change enterprise data retention policy, source says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDlfRWVSb2Q5ZEhuaWFqdHR3WThoM2tOalBxeW91VEZGZWgzTUNJZF9NZUxFTmhINXlHS1V3YlZvTXAtNExsT3JtaTdmajA2UlZvYUtOOTI4ZEtBRFIzYTVBNl9nRUhzVUFybmZfX3BIVjd4aDJMM1hpUXQtMC1lZzZXR0k2c3poNlUtUWl0RGZ5NzhNSmtaTzI2NmF0QU54WWZvYVhzREpmanpmN2lfNHh3?oc=5",
       "summary": "Anthropic plans to change enterprise data retention policy, source says Reuters",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Enterprise AI Venture Buys Consultancy - The Information",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWtOUFRTLWtoemREQ09uOVpoQUJPQ2lyUjU2SVpEMEFNNXNoaGs4UWZfeGFING1pcG41VFlEUEx6NWxCNU5pTnFYd0RkNlhYWGJpdUp4d1dxNV9abWZBb3JtZkFwNVhuSE94Z2l3T1hzcFM4YjNGWXpmRHBWLXJQRVV1Y0VRMnlRRHdGV0lDRW1Ndzg?oc=5",
+      "summary": "Anthropic’s Enterprise AI Venture Buys Consultancy The Information",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -163,14 +179,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDhQTEJnN2VjR2haXzQ5UUY3TEt4TDlmVHJBb1dCWnh2TGtBWjlURVBETXNpUTJqRHRHZ01yN1hfa1ZINVBDWWo1SWpJSk13T1RwRnBTUUZUWEx0MlBVOWh4NUFKZWU0N2tzcTRIVU1mYzNZQXlzS212eF8wTTZ3dmxpZV8xVHI0T2h4clVncw?oc=5",
-      "summary": "Meta AI’s new Mac app wants you to talk to your apps TechCrunch Meta AI is getting a Mac app The Verge Meta adds AI-powered assistant for SMB owners Social Media Today",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Meta",
       "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5",
       "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Bloomberg.com",
@@ -182,6 +190,14 @@
       "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkl2b3pLTG1FMTdCTGgzZGxhMmF3MFJqck5Ga29PQ2RFNFVqc0pSdThiZjBkbXEtVWNSc0NZc2daN2tIZHZyNjdGdFRReTZkRk9sZlNzZm9CNXVqdGU1dVl4RXhadmZUTzkxNVZrbFBHZ3luaW9zal8yaU5GMHFIVmdQYWJ5NVBwWFg4Sk9DeW56QkNsXzdmUXZWby11U0NKRWNwUlRySzdyX0lVdmFTQjAyeEpkNXdFUVVhaE96Ym1COFhnMC1qWXhR?oc=5",
       "summary": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns Reuters",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDhQTEJnN2VjR2haXzQ5UUY3TEt4TDlmVHJBb1dCWnh2TGtBWjlURVBETXNpUTJqRHRHZ01yN1hfa1ZINVBDWWo1SWpJSk13T1RwRnBTUUZUWEx0MlBVOWh4NUFKZWU0N2tzcTRIVU1mYzNZQXlzS212eF8wTTZ3dmxpZV8xVHI0T2h4clVncw?oc=5",
+      "summary": "Meta AI’s new Mac app wants you to talk to your apps TechCrunch Meta AI is getting a Mac app The Verge Meta adds AI-powered assistant for SMB owners Social Media Today",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -258,14 +274,6 @@
       "date": "2026-08-19"
     },
     {
-      "company": "Anthropic",
-      "title": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0hWZktsTEJtWklDQmI0N1BRV2RHY3c5NHVEVWFOZWVKUkhjZExVazNWaDBmaWFGd3REcVROZEZlVjFNS1FWdDRueVl0Sk1Ga2M1VERzRXU2UUdoVEFLeWFTRE44UVNOWl9zcG1zTHVaX18xQ1RybFlHSDdyVlh1RHlJVjZnd0FIYi1SbG56eXlSU3BOZzI3cGJHZ3AyWVh1ZEtEVDFYNml0S3I1Q2hZalVKN1Q2ZmNGVnFIbzgyR1NqRllqR0E?oc=5",
-      "summary": "Chip Firm Fractile Seeks $6.5 Billion Value After Anthropic Deal Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
       "company": "Google",
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -307,33 +315,25 @@
     },
     {
       "company": "Meta",
+      "title": "Meta AI is getting a Mac app - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
+      "summary": "Meta AI is getting a Mac app The Verge Meta AI’s new Mac app wants you to talk to your apps TechCrunch Meta adds AI-powered assistant for SMB owners Social Media Today",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
+      "title": "Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools and Middle Schools - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTJ0ZElIM1VSQUNuejZDcG5UY0J3TEwwTExZQW1VSU5zQjZod0ota1VURC0wTkpyUWlTejA3YkxtSW1sUWRwUldxcWs2NmZtWmszRHRpV2oyUE1lVW40b2xzSmg0NklMd0VFRWs1U0VhQTV3WDhOZ1lVaUl0NnpsZVVLWlpzNmxacUp0eFNtR0ZfbmNPckctbQ?oc=5",
+      "summary": "Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools and Middle Schools Futurism",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
+      "company": "Meta",
       "title": "Meta's AI Payoff Has Already Begun (NASDAQ:META) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dnZfUHctT0FBaDdUeUthMWtMTWNDYlY5WjVRajVTbkJXT1dOZEM5SVc2eXM3OS1RUlYtT0FhYXZLS0lXYzBuUjdBdnE0VUNMeW8tOWs4NlJHRjBHb0JwSDBwbGtGWTFRaWlVWDNXMTJFdFpsTElDRHVOVWdjQQ?oc=5",
       "summary": "Meta's AI Payoff Has Already Begun (NASDAQ:META) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI is getting a Mac app - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
-      "summary": "Meta AI is getting a Mac app The Verge",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI is now available as a more capable desktop app for Mac - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWm5TalVhWHB0WmFuejVwNUp6MEl6cW9xVE1FdlBkN0ZNQ3VLeDNKZmtUNzZVelBXRVFLdE1NRGtrVDV0RWVHYkphSm9WUThGdHFpRC1CRVdSOC1uSDdSUHNuTVNCVnJicFR6MTFJWDZSSWY0N3dWdm94SFpfVUF2U0FMTTVXeE1odmp0TUtwaXRZMlBUa1oyb3RR?oc=5",
-      "summary": "Meta AI is now available as a more capable desktop app for Mac 9to5Mac",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Now Has A Dedicated Desktop App For Mac - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFFWNGtQRk5UUV9DSlRNek9IYXVMVGV3VE40ZEZsNmxPQW9meFpGSHJwLXJwemJGYTJpamJ3VGJQN1dnSmdnNzlWMUdwblBOQUszR1Y2NUFoY3hhaXhHc1oxWXdYbm94cXllUlBUQmdrRlVrUUNaSEpmRm9WMDR4Ym9lcTgwMlAx?oc=5",
-      "summary": "Meta AI Now Has A Dedicated Desktop App For Mac Engadget",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -395,22 +395,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Copilot tricked into telling reseachers how to hack itself - The Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl84cGExeXJBYVlkVEZqTmwta2hjWTN5Rk95X0o3UmNIenBiMjdfck5UVGpTR0Y3R0l4SzRyQTJYMUxwMGxxV0RGMXVRY1UxTGhKUUZodWF5cEg4ZkQweE5aZWIyNzZPTDJubExrTHg3NVFBNXBhcmVWQWlaUkl6dDJZUHpzQmc1Uzl4Z3pocl9EMTd2Uy1jYy1QNGpRVVktbXByOENNRkVXZDRWVnhwaHZsdGs?oc=5",
-      "summary": "Copilot tricked into telling reseachers how to hack itself The Register",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXBVUTREd3VORnBqaUw2Ykpid3paM3ZpSTlWcmpUaWRhZml1RDAwNXRuMlJhaTRncVE5enVXbmVfcEFubVpMNWRLaFRTRTFTTWQzdm9MeFFuRlZZaXpzLWYxUGtWRFZHQWJ2cGwwOXlYRHliQnJFTUVIVnZ3UGdxZXdSenVhTTVUTF9QMWhPcFA4cF9rSTFoRVpzc25NcXFPWWowTU1xZWJPWkZmWmxzOVFPYkpSZ0xaWFlFRVpFRDN6REZMRmlJd09aUTdrQWtWaEhVSnRfS1pDbjdQQ3ZCUHpmQVozQ0Nra3dTYUl5YTZMWjk3ZTlxWTFUZHdsNjRvS1R0bg?oc=5",
-      "summary": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app Windows Central",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
       "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
@@ -419,9 +403,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Copilot tricked into telling reseachers how to hack itself - The Register",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl84cGExeXJBYVlkVEZqTmwta2hjWTN5Rk95X0o3UmNIenBiMjdfck5UVGpTR0Y3R0l4SzRyQTJYMUxwMGxxV0RGMXVRY1UxTGhKUUZodWF5cEg4ZkQweE5aZWIyNzZPTDJubExrTHg3NVFBNXBhcmVWQWlaUkl6dDJZUHpzQmc1Uzl4Z3pocl9EMTd2Uy1jYy1QNGpRVVktbXByOENNRkVXZDRWVnhwaHZsdGs?oc=5",
+      "summary": "Copilot tricked into telling reseachers how to hack itself The Register",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
       "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
       "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXBVUTREd3VORnBqaUw2Ykpid3paM3ZpSTlWcmpUaWRhZml1RDAwNXRuMlJhaTRncVE5enVXbmVfcEFubVpMNWRLaFRTRTFTTWQzdm9MeFFuRlZZaXpzLWYxUGtWRFZHQWJ2cGwwOXlYRHliQnJFTUVIVnZ3UGdxZXdSenVhTTVUTF9QMWhPcFA4cF9rSTFoRVpzc25NcXFPWWowTU1xZWJPWkZmWmxzOVFPYkpSZ0xaWFlFRVpFRDN6REZMRmlJd09aUTdrQWtWaEhVSnRfS1pDbjdQQ3ZCUHpmQVozQ0Nra3dTYUl5YTZMWjk3ZTlxWTFUZHdsNjRvS1R0bg?oc=5",
+      "summary": "Windows 11 Ask Copilot Taskbar feature removed as Microsoft pivots to unified app Windows Central",
       "badge": "new",
       "date": "2026-08-18"
     },
