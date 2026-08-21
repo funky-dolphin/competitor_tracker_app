@@ -1,9 +1,57 @@
 {
-  "updated": "2026-08-20T18:30:30Z",
+  "updated": "2026-08-21T00:59:22Z",
   "signals": [
     {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
       "company": "OpenAI",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "badge": "hot",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "url": "https://openai.com/index/stampli",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "badge": "hot",
@@ -54,46 +102,6 @@
       "title": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself - extremetech.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV191MlFmd2p5ckgtNlM3RExrQ1hYSlNRbmtNMXljYmZnVS0zUF9WUENyRmZzZVpXc3Fud0dHVE5IYlMwa0xsN2s0QUR5ME5uSUlCWDJobzZyWXRrRGd1NHlxalB1M0FzRFhnSGI5ZF9QUG5PQTJVTXJId0VRdnVoSS1RZTFJcGdMMUp3TGVjdmtNMnhqQ3FUamh2TGxzenlWY2xOMGlEb2I2UG1u?oc=5",
       "summary": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself extremetech.com",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -178,6 +186,14 @@
       "date": "2026-08-19"
     },
     {
+      "company": "Google",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "badge": "new",
+      "date": "2026-08-19"
+    },
+    {
       "company": "Anthropic",
       "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
@@ -222,14 +238,6 @@
       "title": "Anthropic’s AI watermark has already spawned tools to remove it - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XN1FQQnJURFp4elNPLWk0OERWSDg3NlFoeV81N2Z2ZTNpVGJvUjc2M3BVQUlocjNTbXgwSzA0cjRSWmVtaXlnWHNrMUNXbjM0MlFWaTlNNWZpeERvMHRLczlXRW9ua2lvRWRXNHRZR3pxSTM0c1lpWUtB?oc=5",
       "summary": "Anthropic’s AI watermark has already spawned tools to remove it The Next Web Anthropic’s New AI Watermark Sparks Backlash From Claude Subscribers inc.com Coders Say They Already Found Workarounds to C",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Google",
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -346,10 +354,10 @@
       "date": "2026-08-18"
     },
     {
-      "company": "OpenAI",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "company": "Apple",
+      "title": "Apple reports third quarter results",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
       "badge": "new",
       "date": "2026-08-18"
     },
@@ -398,14 +406,6 @@
       "title": "Microsoft Copilot: Deep Research ends, successor is paid only - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbi1UbjNnUDlNVFRmUFhXRHN2QXJNQ2swRWZ1VURLSjd2cmZ3R3lQR2Jza2pvSkFFaHZzNUNYS0ZqXzhiRG9DX25Yek1VU1Z3ZTlDdEZJcFktbUl4cFRjdU5zdUNkdUZLOENGZWtvSmFDc1VKYS1IWGE0Vk8xX0tBWlFzbXRMQjBwV3pnNWo4Tl9kX2FLV1haVWozUXJteFpHdWg2d2o5SQ?oc=5",
       "summary": "Microsoft Copilot: Deep Research ends, successor is paid only Notebookcheck",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
       "badge": "new",
       "date": "2026-08-18"
     },
