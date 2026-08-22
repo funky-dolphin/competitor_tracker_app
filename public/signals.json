@@ -1,11 +1,59 @@
 {
-  "updated": "2026-08-21T18:28:10Z",
+  "updated": "2026-08-22T00:54:59Z",
   "signals": [
     {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-22"
+    },
+    {
       "company": "Anthropic",
-      "title": "Anthropic is planning to let enterprise customers store their own AI data - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MVW9udHotUlQ4VEI5ODZPQkR4SmhTNVpWMFI2MjZSdUdVcEtiRl9zSWhsa0NHSXM5QWhVQWRldXFuNkVZMUxhYXZ0SFBoYXJjSC1tQmFWMW92UTJkVnR5ZUV0UXNCNUMyZVV0WVlMaHdtbGtzeVZz?oc=5",
-      "summary": "Anthropic is planning to let enterprise customers store their own AI data qz.com",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5",
+      "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC Anthropic Expects to Match or Top SpaceX’s Record IPO Size Bloomberg Anthropic Could Aim to Raise $100 Billion in Blockbus",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5",
+      "summary": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware Bloomberg",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -14,6 +62,22 @@
       "title": "Broadcom seeks up to $80 billion in debt for AI chip deal - qz.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41cVFYeWJYb0ZzSEVjSEJYMjd2cmczYU15dXlMZDJ5MUc1MnpBR0JMeUd1X1Z3LW9GbkNXRTRtSlBiZE03eDIzVklWUjVTWXQtQzZrYnk4YXctdVd2d2lYU3NnVmpZRm9ZRDR0aWVUZHU1Zw?oc=5",
       "summary": "Broadcom seeks up to $80 billion in debt for AI chip deal qz.com",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
+      "summary": "Anthropic’s Opus 4.6 is a smut-machine TechCrunch",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic is planning to let enterprise customers store their own AI data - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MVW9udHotUlQ4VEI5ODZPQkR4SmhTNVpWMFI2MjZSdUdVcEtiRl9zSWhsa0NHSXM5QWhVQWRldXFuNkVZMUxhYXZ0SFBoYXJjSC1tQmFWMW92UTJkVnR5ZUV0UXNCNUMyZVV0WVlMaHdtbGtzeVZz?oc=5",
+      "summary": "Anthropic is planning to let enterprise customers store their own AI data qz.com",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -34,42 +98,10 @@
       "date": "2026-08-21"
     },
     {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "company": "Microsoft",
+      "title": "This ‘AI refuser’ quit her dream job, and hopes others follow - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEVNR3lGbW9kTGMtTXlLazAxLWZJTHpQYjU3d2xMeWVBSlZTTHJoYy1MTmxLb2hCdmUzbjBmUkVVOFpJLUJXbFlzdUN5VHpra1hIdEY0VExXTkxZQlptNkUxZXAyRms0RXhBS0pxWmRnQmJsalRHSUh6cXdfd2hnNHlYMnFFTm11YkowYVVsMFZ4YnFMRzhMOEdfMmFhOUJfZkF4WDZPVVpWcTk4UkdleVhZRQ?oc=5",
+      "summary": "This ‘AI refuser’ quit her dream job, and hopes others follow SMH.com.au",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -102,6 +134,14 @@
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5",
       "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings Ars Technica",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Woman filmed without consent by Meta AI glasses says video went viral with 200,000 views - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlBjX2k4ZjBKN2xBNTE3eW00Ni1xRlFlTGhjeEdqeV9jb3M2WkhnRk5zV0Z0ZGM5b3lRbDlMSE9ib2trT0s2UzdPUWdJNU1YWmhyV0R1bm8zUk1UeWRNdHUzdmUwRlV1SUIyeklveW1vbzFSWm8wR21NbXNxQ1pieFl0elhrV2gzZkFnOElJUHQ0RFNrd2kyVTYwSVhyVGVNdHdGdXNRRk9hYmNWdENMNWd4UHEtaUdKdVByM21QbGx1Q1BY?oc=5",
+      "summary": "Woman filmed without consent by Meta AI glasses says video went viral with 200,000 views CBS News",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -162,22 +202,6 @@
       "date": "2026-08-20"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0dDcm5LNjRqTjcxaTdsWG8wTjBncjVoei1vT2dpOU5TQ05ieWNZOVhqYkQxZGpXclN2ekpMX084bl9udzJTRnhrd2dQNlBEem04bDBSZzhVR1plRF93VS15WDJGZElDSDhJbEVwcTZxRkJtNWxUc3YwZFhmX0JseFZfTXhkM0p5VWJrb3o0RXFCX3h5WkFEME1EQXE0VGdvcjhPYUxSZnhFblVzYjh6bGsyVmQ?oc=5",
-      "summary": "Anthropic Plans to Change Data Retention Policy for Advanced AI Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFBRWZSMEJKd2JBSGJVeWtqZXNLTTM5WlR5T2hiLTFha2l6WGhaamRZdnJ3bkI1SUV6enN0NVh4R3dwSDVzaU82ckE1SUlFOTl2X3NhbXdtaVlaMFNieXYxTE5Zc3VUSTB1WkpNNDc5SFg1NFFGUFFLY2NCVy1KYlJ3MGpjVVhoMHdxekhlaWdrZ3gxbU94aEZ6UkVJczVhX1N0ZWVPMWV4ZFpoa1RQZWI2MjU?oc=5",
-      "summary": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is making multitasking with Copilot in Outlook easier for more customers - Neowin",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlZ3MTU4b0V5TVlRVVJ4VDhPczdydVVlMGRyNlJ3c29XSkZwSnlCNC1RazlKS2dEc2I0cmxIRHNRaFZiY1dzb0pJMkZtbHFCdUE5bDQzOXpEN3p6NTI2cy1uR3dvZS0tT0RzNnNGeDFwVGl0bjRPWjRSYWtLQ3ZyMVVCMlUxaTlEX25YclZtMFNBZktrbWpqWTZhZC1xTmtoaVNFX3oxSXF0RUIwX0RMU9IBrwFBVV95cUxPM3dCRmJDY3VHM0Nhblk2QTdQX0J2aGpfOUpxckN0M0EwM2Zqd0swTDFnQXVRVmFGTGtpMjhsVF84TlBrVWs5TDl5a09WaTFyUE9TaHY0bTFSem9xODBJRjd6aFZVdGkxeU5qcm5zdGJiU0pQeGdxV2szZm5veUR3WmpGbl9IR2l2dUQzcGxPLVZQUGNSUGpnUGhEd09ycFlVNDd6YXdBVTU0Tml6ZWRv?oc=5",
@@ -203,6 +227,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI - Law360",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TS2VWUDRzVmVlemdEVzJPZVZtSVdzOE5kT0VJcWdIVkwyUm4tcExSM0tGRURzZ3VuUGplaWpOaUVwQmNPa1VoOGx1aGZnSXdXWkQ2VF9B0gFWQVVfeXFMTlNLZVZQNHNWZWV6Z0RXMk9lVm1JV3M4TmRPRUlxZ0hWTDJSbi1wTFIzS0ZFRHNndW5QamVpak5pRXBCY09rVWg4bHVoZmdJd1daRDZUX0E?oc=5",
+      "summary": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI Law360",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Perplexity",
       "title": "Amazon v. Perplexity Ruling Limits CFAA Reach Over AI Tools - Law360",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUk0aTBnZGdTbEF5RmttU1FxcXBmbzZDYlBHb3lSeXJ2MHNOdE5idEc2LW03clNDVHJ4VjBYVmxvOEFrWWN0WWZ2M3ZsWE5IVEo3bXBmNUF0YXIwUW8yYmJ2WW4ya0p3dm1jcV9BS05qa01LWGJ5YjFBM3ZUeTBFTmxiZW1hS0Ryb18xSDZCbmdRREFVY0tzYklxTnFTU2PSAVZBVV95cUxQQ3VoX0dCQmc1cVFjV2phQWJwZkZ1UXRzMkZIb2ZjQXpEVW9jdzBJcndLeXBRcU9SdENYc0twdk1GNmlHcFVHUzQzWHdGdTYzUXlPZ0lKdw?oc=5",
       "summary": "Amazon v. Perplexity Ruling Limits CFAA Reach Over AI Tools Law360",
@@ -218,10 +250,10 @@
       "date": "2026-08-20"
     },
     {
-      "company": "Perplexity",
-      "title": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TS2VWUDRzVmVlemdEVzJPZVZtSVdzOE5kT0VJcWdIVkwyUm4tcExSM0tGRURzZ3VuUGplaWpOaUVwQmNPa1VoOGx1aGZnSXdXWkQ2VF9B0gFWQVVfeXFMTlNLZVZQNHNWZWV6Z0RXMk9lVm1JV3M4TmRPRUlxZ0hWTDJSbi1wTFIzS0ZFRHNndW5QamVpak5pRXBCY09rVWg4bHVoZmdJd1daRDZUX0E?oc=5",
-      "summary": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI Law360",
+      "company": "Meta",
+      "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFJzOTN6dkpqYWhtdkJDMjZkS2tsS2RzaXAzZ1JkdWVvckFmR1RKRDQwYzByU2JrWVM0YkIxRTNDdTlQZW4wZXpabjVrY2U0UGlSV0ZqUHp4bkxqdnFfYVdvWkpvQ3c4bkM1Ml9qQ2RVRTJPVXZFVkIxNHRwMVhvUU5iX2VUdVR5ZWdDbGt0WUV6VXZIUnVqdUVqQy1NZw?oc=5",
+      "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Yahoo Finance",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -266,14 +298,6 @@
       "date": "2026-08-20"
     },
     {
-      "company": "Meta",
-      "title": "Meta's new Mac app takes aim at creators, small businesses - Axios",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
-      "summary": "Meta's new Mac app takes aim at creators, small businesses Axios",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
       "company": "OpenAI",
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -294,14 +318,6 @@
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
-      "summary": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees CNBC",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -342,14 +358,6 @@
       "title": "Gujarat Eyes AI, Semiconductor Pacts; CM Woos Google, Micron, Perplexity During US Visit - ndtvprofit.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnpldEY2UFItSF9IVEloRGJjNUNkdDYwV214UzhGMk9TOGRFMExvTFRyWm1DOHNFemNHeGZlc3NXWUFESm1sT0FrWmtvTFNiamVObkZ1X1JIeU12UFB0RGstcy1zdzFNaFRnWWJVaVZWNl9kUGJ6NDZnWmtwTFRkMEZKc0FpbW9jZTl0VFcyMEwzRFFSRzNHZmpHejZRVFozSGJCUl8yTTRqSzN2Y19HRW9sa1FmcHM1R2g1M2JPN091U1FHQlgxVdIB0AFBVV95cUxNZWpPQ0dIWHlMZzU3blRKVVFaZjJIc1A1SHVBZXZHNWtxWThtUUYwRDdLVmEyeFM5NmNmSnoyTU9YeTF0U29VRFBqd3NxLTZtamd4LXMyc2VmYmF2SjktOE1DUGZKdXlvNnl0dmp2TzBIcnFfX1ViRHR2c1B1VEtLcVEtdHpGUTV0QkQ1dHZlbUJvcTExdzBaV3JBdEJlYTN6R016SWFPY2JwUFB0RVhLU1NucVd5ZG5hZzk4eThBck5TNXNlbnVnNEs3NWh3bWpj?oc=5",
       "summary": "Gujarat Eyes AI, Semiconductor Pacts; CM Woos Google, Micron, Perplexity During US Visit ndtvprofit.com",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI is getting a Mac app - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
-      "summary": "Meta AI is getting a Mac app The Verge Meta AI’s new Mac app wants you to talk to your apps TechCrunch Meta's new Mac app takes aim at creators, small businesses Axios",
       "badge": "new",
       "date": "2026-08-19"
     },
@@ -403,14 +411,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm41RXVjYlV4blQ4VE9uY0h4UWZwaWtrSGo5VHRoc1lJVC1zdU9SeEVzLUJlTnNJYmRmRnJCVWRkR2l1ck9lOWcxQ09YSkx6SUJQQVN2dDhkbS0zNjhUMVNsU0o1aWZTRWE3bzZIZDFPVUY2WDJfWUYwUGg3bTF2ZDZMbnFMc0RMMmljVGRjb2RlYUVHb1E4VmZOVUF4Y2cwSDhqSVZoTk1Ea0RoS0E?oc=5",
-      "summary": "Microsoft Copilot reveals secret input that allowed it to be hacked Ars Technica",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRi1xSEFXSjltWVNMX2ZRYS1fa2FRM0V5QWJHZGIwUkNfd2lfWlVpWTgxeFQtR01GaWhIakxRNnNuOFVhbUhrUVdSQmlxcVVjUzVNMVl5TVRXRUVlemYtLWtDSGFRMGpVZWREeG1LTHhQUGwzVzNoa0lfbWlQbDlZUDd1QQ?oc=5",
       "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps The Hacker News",
@@ -419,17 +419,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
-      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm41RXVjYlV4blQ4VE9uY0h4UWZwaWtrSGo5VHRoc1lJVC1zdU9SeEVzLUJlTnNJYmRmRnJCVWRkR2l1ck9lOWcxQ09YSkx6SUJQQVN2dDhkbS0zNjhUMVNsU0o1aWZTRWE3bzZIZDFPVUY2WDJfWUYwUGg3bTF2ZDZMbnFMc0RMMmljVGRjb2RlYUVHb1E4VmZOVUF4Y2cwSDhqSVZoTk1Ea0RoS0E?oc=5",
+      "summary": "Microsoft Copilot reveals secret input that allowed it to be hacked Ars Technica",
       "badge": "new",
       "date": "2026-08-18"
     },
     {
       "company": "Microsoft",
-      "title": "Copilot tricked into telling reseachers how to hack itself - The Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl84cGExeXJBYVlkVEZqTmwta2hjWTN5Rk95X0o3UmNIenBiMjdfck5UVGpTR0Y3R0l4SzRyQTJYMUxwMGxxV0RGMXVRY1UxTGhKUUZodWF5cEg4ZkQweE5aZWIyNzZPTDJubExrTHg3NVFBNXBhcmVWQWlaUkl6dDJZUHpzQmc1Uzl4Z3pocl9EMTd2Uy1jYy1QNGpRVVktbXByOENNRkVXZDRWVnhwaHZsdGs?oc=5",
-      "summary": "Copilot tricked into telling reseachers how to hack itself The Register",
+      "title": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
+      "summary": "'CoSnitch' Attack Tricked Copilot into Revealing Own Architecture Dark Reading",
       "badge": "new",
       "date": "2026-08-18"
     },
