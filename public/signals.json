@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:29:49Z",
+  "updated": "2026-08-22T12:27:00Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -70,6 +70,14 @@
       "title": "Anthropic’s Opus 4.6 is a smut-machine - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
       "summary": "Anthropic’s Opus 4.6 is a smut-machine TechCrunch",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why Anthropic’s AI watermark is going further than its rivals — for now - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5",
+      "summary": "Why Anthropic’s AI watermark is going further than its rivals — for now Business Insider",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -202,14 +210,6 @@
       "date": "2026-08-20"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGJmajZkeWM5S2ptNElzb25JeVc3Qm1Ic291SXFRSjdBNWtmY3E2Mkk5MENZS3hYWi1HMUQyQ3FOWnhqSllGYlhEMmtXVjVZWGJiUTRyUS1CamJhazJNem9scU5oMHNSSWF2SVdiSlVUNEdOOC1Vc1JYN2Flazl2RURzelJUWkc1dTlzT2hrRGdSQTFZVWJJN3NYalVfM3YtdkZ6cGRuaw?oc=5",
-      "summary": "OpenAI is gaining on Anthropic with business users, new data indicates TechCrunch",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Copilot revealed its own flaw, one link read your inbox - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREdFMmhVT2tnTlhSdEpveDBSUVBSaFhSYWhEdDlPaGJXancyNktrQ2ZESldUOGFEQ3ZOSUxqRzBaWTlCYjYzT1ZHc2gzRWh6a3d0V3JrNy1VTldocWN1ODJYMGdyYWtBMjAtT1RKTGRsMjZ3YXJlS0ZhS3pBTE0wMVgtejg5SWpvaGQ1RE9BU1gyaEllWUFVTWJYSC1TUE0xTHVGQzExRms4M2dUQUE?oc=5",
@@ -227,17 +227,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is making multitasking with Copilot in Outlook easier for more customers - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlZ3MTU4b0V5TVlRVVJ4VDhPczdydVVlMGRyNlJ3c29XSkZwSnlCNC1RazlKS2dEc2I0cmxIRHNRaFZiY1dzb0pJMkZtbHFCdUE5bDQzOXpEN3p6NTI2cy1uR3dvZS0tT0RzNnNGeDFwVGl0bjRPWjRSYWtLQ3ZyMVVCMlUxaTlEX25YclZtMFNBZktrbWpqWTZhZC1xTmtoaVNFX3oxSXF0RUIwX0RMU9IBrwFBVV95cUxPM3dCRmJDY3VHM0Nhblk2QTdQX0J2aGpfOUpxckN0M0EwM2Zqd0swTDFnQXVRVmFGTGtpMjhsVF84TlBrVWs5TDl5a09WaTFyUE9TaHY0bTFSem9xODBJRjd6aFZVdGkxeU5qcm5zdGJiU0pQeGdxV2szZm5veUR3WmpGbl9IR2l2dUQzcGxPLVZQUGNSUGpnUGhEd09ycFlVNDd6YXdBVTU0Tml6ZWRv?oc=5",
-      "summary": "Microsoft is making multitasking with Copilot in Outlook easier for more customers Neowin",
+      "title": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV191MlFmd2p5ckgtNlM3RExrQ1hYSlNRbmtNMXljYmZnVS0zUF9WUENyRmZzZVpXc3Fud0dHVE5IYlMwa0xsN2s0QUR5ME5uSUlCWDJobzZyWXRrRGd1NHlxalB1M0FzRFhnSGI5ZF9QUG5PQTJVTXJId0VRdnVoSS1RZTFJcGdMMUp3TGVjdmtNMnhqQ3FUamh2TGxzenlWY2xOMGlEb2I2UG1u?oc=5",
+      "summary": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself extremetech.com",
       "badge": "new",
       "date": "2026-08-20"
     },
     {
       "company": "Microsoft",
-      "title": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself - extremetech.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV191MlFmd2p5ckgtNlM3RExrQ1hYSlNRbmtNMXljYmZnVS0zUF9WUENyRmZzZVpXc3Fud0dHVE5IYlMwa0xsN2s0QUR5ME5uSUlCWDJobzZyWXRrRGd1NHlxalB1M0FzRFhnSGI5ZF9QUG5PQTJVTXJId0VRdnVoSS1RZTFJcGdMMUp3TGVjdmtNMnhqQ3FUamh2TGxzenlWY2xOMGlEb2I2UG1u?oc=5",
-      "summary": "Researchers Tricked Microsoft Copilot Into Revealing How to Hack Itself extremetech.com",
+      "title": "Microsoft is making multitasking with Copilot in Outlook easier for more customers - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlZ3MTU4b0V5TVlRVVJ4VDhPczdydVVlMGRyNlJ3c29XSkZwSnlCNC1RazlKS2dEc2I0cmxIRHNRaFZiY1dzb0pJMkZtbHFCdUE5bDQzOXpEN3p6NTI2cy1uR3dvZS0tT0RzNnNGeDFwVGl0bjRPWjRSYWtLQ3ZyMVVCMlUxaTlEX25YclZtMFNBZktrbWpqWTZhZC1xTmtoaVNFX3oxSXF0RUIwX0RMU9IBrwFBVV95cUxPM3dCRmJDY3VHM0Nhblk2QTdQX0J2aGpfOUpxckN0M0EwM2Zqd0swTDFnQXVRVmFGTGtpMjhsVF84TlBrVWs5TDl5a09WaTFyUE9TaHY0bTFSem9xODBJRjd6aFZVdGkxeU5qcm5zdGJiU0pQeGdxV2szZm5veUR3WmpGbl9IR2l2dUQzcGxPLVZQUGNSUGpnUGhEd09ycFlVNDd6YXdBVTU0Tml6ZWRv?oc=5",
+      "summary": "Microsoft is making multitasking with Copilot in Outlook easier for more customers Neowin",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -267,9 +267,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Bloomberg.com",
+      "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5",
-      "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Bloomberg.com",
+      "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Bloomberg",
+      "badge": "new",
+      "date": "2026-08-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkI5Tk5QcVFETTNLSHl1UlBjbTJHT1pxUEl3ZFUwbUt5RG4wZHNRTFpRM0pzVlBIa2Q0MllIdEE1M0poRkhzT19VRmtxdTRtUUF5djZhWVpaRzd0c1lXbmM2MmpLd2R5SzZBVjU3bWszMUFKUTBRelphbGxobWtOY0tEWG5uTXJiQ3lKZlVBM0NGckxfX1RjTFdQdzNsb2ZXXzI5X3g0WXN6ajhiTWthZmZn?oc=5",
+      "summary": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users TechCrunch",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -294,14 +302,6 @@
       "title": "Meta AI’s new Mac app wants you to talk to your apps - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDhQTEJnN2VjR2haXzQ5UUY3TEt4TDlmVHJBb1dCWnh2TGtBWjlURVBETXNpUTJqRHRHZ01yN1hfa1ZINVBDWWo1SWpJSk13T1RwRnBTUUZUWEx0MlBVOWh4NUFKZWU0N2tzcTRIVU1mYzNZQXlzS212eF8wTTZ3dmxpZV8xVHI0T2h4clVncw?oc=5",
       "summary": "Meta AI’s new Mac app wants you to talk to your apps TechCrunch Meta AI is getting a Mac app The Verge Meta adds AI-powered assistant for SMB owners Social Media Today",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's App For Creating Generative AI Minigames Is Now Available In The US - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWxHUDFSSXFkVVlMVmFLUjFJdTU1Rmw5cnZDYW9RQnBpWEhmamNMZXFmbmZjaEVJWE9BYlA4a2FRaVNMOXlDOXI2NktBNExxbUhCWHdIRVg0Q19HLUZmVEg0cEZ6blJDUEs5b0JBRXA1MUMyXy1TV1ptb0pCMjhWLWhzQlFKclNaUVdybVVCRUFGVDZlWUlkNTM3Q2RqNDI5c2ljYg?oc=5",
-      "summary": "Meta's App For Creating Generative AI Minigames Is Now Available In The US Engadget",
       "badge": "new",
       "date": "2026-08-20"
     },
