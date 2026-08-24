@@ -1,27 +1,51 @@
 {
-  "updated": "2026-08-23T18:20:24Z",
+  "updated": "2026-08-24T00:57:11Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
       "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive Financial Times",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "I created a viral AI watermark remover. I wasn't ready for all the attention. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUJTeUpSR1FiYzRDYm9Camx4amRFRWxGSWJKZ0FJeU85R0ItaE8yX1ZXNndHVHdTUkYxcUpsdjlMeXJsS21WVG1BM2NvSGNzbGF6dHVNaGg1YVdJbmZTdWNKZE1lRE5UZXl3cTVvXzVQZUhGRy1zaUxQazBuQjNQV0FPaTM0UXlybzNoX0pmNk5HaEhtMFFTVlJpNzNPa3BtN01SMDZR?oc=5",
-      "summary": "I created a viral AI watermark remover. I wasn't ready for all the attention. Business Insider",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSy1GSHhzQ3RhZnNlUXRGdUU0UXAzYUdjNm5leHBlR2lsQmtMeFhhTl83Qy0zcThqSVBWRTl2REM1dDVHVUpaRG1heUNGRTNicmc3OHctX0pOSm4xTFNTRFpGU0VOTklnMUxMaVRFcWJqLUlsRy1aUmV5b1lfTmpVOUdqaS12Mzcxa3F6RlJFTVdWZDZ4MWZvZWl2VQ?oc=5",
-      "summary": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says Yahoo Finance",
       "badge": "new",
       "date": "2026-08-23"
     },
@@ -35,49 +59,33 @@
     },
     {
       "company": "Anthropic",
+      "title": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSy1GSHhzQ3RhZnNlUXRGdUU0UXAzYUdjNm5leHBlR2lsQmtMeFhhTl83Qy0zcThqSVBWRTl2REM1dDVHVUpaRG1heUNGRTNicmc3OHctX0pOSm4xTFNTRFpGU0VOTklnMUxMaVRFcWJqLUlsRy1aUmV5b1lfTmpVOUdqaS12Mzcxa3F6RlJFTVdWZDZ4MWZvZWl2VQ?oc=5",
+      "summary": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Decart’s $7 billion Anthropic deal could become far more valuable after the IPO - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icVRMd3dSeFhQTWpObmNESTFpUlhLUjdiY3E1eW9YZlE1ZktBRDctX04tMkRjQ2FjTVFUS3ZRRUZRdFA2UjhkbEQ1R0RIUU5vVGhsZ3hWRktLeC14NWplbVFoeXZpQXdR?oc=5",
+      "summary": "Decart’s $7 billion Anthropic deal could become far more valuable after the IPO calcalistech.com",
+      "badge": "new",
+      "date": "2026-08-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "I created a viral AI watermark remover. I wasn't ready for all the attention. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUJTeUpSR1FiYzRDYm9Camx4amRFRWxGSWJKZ0FJeU85R0ItaE8yX1ZXNndHVHdTUkYxcUpsdjlMeXJsS21WVG1BM2NvSGNzbGF6dHVNaGg1YVdJbmZTdWNKZE1lRE5UZXl3cTVvXzVQZUhGRy1zaUxQazBuQjNQV0FPaTM0UXlybzNoX0pmNk5HaEhtMFFTVlJpNzNPa3BtN01SMDZR?oc=5",
+      "summary": "I created a viral AI watermark remover. I wasn't ready for all the attention. Business Insider",
+      "badge": "new",
+      "date": "2026-08-23"
+    },
+    {
+      "company": "Anthropic",
       "title": "OpenAI Is Adding Business Users Faster Than Anthropic. That May Matter More Than Valuation - inc.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2hVS3doNVlVVGdCeEQ0UnM1R0dhTGdXX2hxZ2xodVdONkk1TXZCNXVUUF9TRER1MFQ5RERTd0JNbHc5cnVXZ0tOUWx2Nlo2Y0duOVJQRVQ3WkQzWHRLUFdBMDFMNm5zTkJWVGRsQjh6NlQwbXlTTkFvUU9ZcW5kOGRudDZRU3luUUdPR3BaREpaQ3oxZzFrZ3dJWF81NVRRWjNLekhoS2s0TmI5VWFMcnpCemJwRUdSSkozeVNpcF8xcmhsbXZvM2tlTQ?oc=5",
       "summary": "OpenAI Is Adding Business Users Faster Than Anthropic. That May Matter More Than Valuation inc.com",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
       "badge": "new",
       "date": "2026-08-23"
     },
@@ -120,14 +128,6 @@
       "summary": "Copilot vs Gemini vs Perplexity: 1B Users, $325 Gap [2026] tech-insider.org",
       "badge": "new",
       "date": "2026-08-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5",
-      "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC",
-      "badge": "new",
-      "date": "2026-08-21"
     },
     {
       "company": "Microsoft",
@@ -299,9 +299,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5",
-      "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Bloomberg.com",
+      "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkl2b3pLTG1FMTdCTGgzZGxhMmF3MFJqck5Ga29PQ2RFNFVqc0pSdThiZjBkbXEtVWNSc0NZc2daN2tIZHZyNjdGdFRReTZkRk9sZlNzZm9CNXVqdGU1dVl4RXhadmZUTzkxNVZrbFBHZ3luaW9zal8yaU5GMHFIVmdQYWJ5NVBwWFg4Sk9DeW56QkNsXzdmUXZWby11U0NKRWNwUlRySzdyX0lVdmFTQjAyeEpkNXdFUVVhaE96Ym1COFhnMC1qWXhR?oc=5",
+      "summary": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns Reuters",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -315,17 +315,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's App For Creating Generative AI Minigames Is Now Available In The US - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWxHUDFSSXFkVVlMVmFLUjFJdTU1Rmw5cnZDYW9RQnBpWEhmamNMZXFmbmZjaEVJWE9BYlA4a2FRaVNMOXlDOXI2NktBNExxbUhCWHdIRVg0Q19HLUZmVEg0cEZ6blJDUEs5b0JBRXA1MUMyXy1TV1ptb0pCMjhWLWhzQlFKclNaUVdybVVCRUFGVDZlWUlkNTM3Q2RqNDI5c2ljYg?oc=5",
-      "summary": "Meta's App For Creating Generative AI Minigames Is Now Available In The US Engadget",
+      "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5",
+      "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Bloomberg.com",
       "badge": "new",
       "date": "2026-08-20"
     },
     {
       "company": "Meta",
-      "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkl2b3pLTG1FMTdCTGgzZGxhMmF3MFJqck5Ga29PQ2RFNFVqc0pSdThiZjBkbXEtVWNSc0NZc2daN2tIZHZyNjdGdFRReTZkRk9sZlNzZm9CNXVqdGU1dVl4RXhadmZUTzkxNVZrbFBHZ3luaW9zal8yaU5GMHFIVmdQYWJ5NVBwWFg4Sk9DeW56QkNsXzdmUXZWby11U0NKRWNwUlRySzdyX0lVdmFTQjAyeEpkNXdFUVVhaE96Ym1COFhnMC1qWXhR?oc=5",
-      "summary": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns Reuters",
+      "title": "Meta's App For Creating Generative AI Minigames Is Now Available In The US - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWxHUDFSSXFkVVlMVmFLUjFJdTU1Rmw5cnZDYW9RQnBpWEhmamNMZXFmbmZjaEVJWE9BYlA4a2FRaVNMOXlDOXI2NktBNExxbUhCWHdIRVg0Q19HLUZmVEg0cEZ6blJDUEs5b0JBRXA1MUMyXy1TV1ptb0pCMjhWLWhzQlFKclNaUVdybVVCRUFGVDZlWUlkNTM3Q2RqNDI5c2ljYg?oc=5",
+      "summary": "Meta's App For Creating Generative AI Minigames Is Now Available In The US Engadget",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -450,18 +450,18 @@
       "date": "2026-08-18"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity’s free AI offer left it with millions more users in India - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGtBWjFBcWVYb3BpV2xKc2hpWEtvbmJNbEFJeDFzWmZ5SF8xVjdPaVA0ZGpBWldKbVRoTURwNDdpaVRUeWx6SEpjMFp6OVFmcWVmbkhTMGFHN3MyQi1oSXlCNzBUYzNRbmJEenFLbXVYRi05dHd3aGtrMWU4Y0FKWllpdmZHUW1qc1BiVUtfZjlXSC1RY2FEc2xrd1k5Q2l2VG1Gdg?oc=5",
-      "summary": "Perplexity’s free AI offer left it with millions more users in India TechCrunch",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
       "company": "Apple",
       "title": "Apple reports third quarter results",
       "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
       "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "badge": "new",
+      "date": "2026-08-18"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity’s free AI offer left it with millions more users in India - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGtBWjFBcWVYb3BpV2xKc2hpWEtvbmJNbEFJeDFzWmZ5SF8xVjdPaVA0ZGpBWldKbVRoTURwNDdpaVRUeWx6SEpjMFp6OVFmcWVmbkhTMGFHN3MyQi1oSXlCNzBUYzNRbmJEenFLbXVYRi05dHd3aGtrMWU4Y0FKWllpdmZHUW1qc1BiVUtfZjlXSC1RY2FEc2xrd1k5Q2l2VG1Gdg?oc=5",
+      "summary": "Perplexity’s free AI offer left it with millions more users in India TechCrunch",
       "badge": "new",
       "date": "2026-08-18"
     },
