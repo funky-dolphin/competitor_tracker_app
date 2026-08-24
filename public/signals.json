@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-24T06:44:20Z",
+  "updated": "2026-08-24T12:37:06Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Scoop: Anthropic asks about mission versus money in candidate interviews - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklqampjeURCbHdfR3J2ZEdOUG1hdnF6T3dMd0lKbVQyRE9ESWFsNkFxRnBxNlRnY1RLd1duUEZabVRvMWhHWXh4ZzhRNm1haC1XY2hmZF90LVRZVzItdTVudUtBb2g3eWZpXzNwdDI5RVVyR29FeWxJNXFneVJWZ0xQTGtZdFNQTjlGRHpn?oc=5",
+      "summary": "Scoop: Anthropic asks about mission versus money in candidate interviews Axios",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+      "summary": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots The New York Times",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude is down (Update: Resolved) - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcmZqZWVhUHpfa2VhZGdVWm9jTmktdU9FNTd1TGVJSEM0T2w3T2ZhTmdZT0syeHlpNWJicmk1MVJpd1M4VDBpZm15OGVaN2dtN1RMMHZUNkFmVFE?oc=5",
+      "summary": "Claude is down (Update: Resolved) Mashable",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
@@ -43,17 +67,25 @@
     },
     {
       "company": "Perplexity",
-      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg?oc=5",
-      "summary": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters",
+      "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5",
+      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information Nvidia in talks to invest in Perplexity at over $30B valuation, The Information reports (NVDA:NASDAQ) Seeking Alpha",
       "badge": "new",
       "date": "2026-08-24"
     },
     {
       "company": "Perplexity",
-      "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5",
-      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information",
+      "title": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal - The Information",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9lc0VwTXhBMHF2bVFTWm1OR0hkcHVnU0U2VVRsN2FlVEFnZFZBMWJkSjdjNm1MUUR4cE55RHZ0R21PVDlTSk9rRlZnaVl4NUxnQS16YUlhdUVfcTBCbzNvU0tWaUdNU0U3SndtaUpWRGtLOEFJOU5XVzdfZmRnTUVOVi1XMWxQT0otTEpDTTM3cEl5QlMtaHYycFZNMzFPMUUwZFJadG9QalVLUFMteGRaNzhycVMzMF9kaw?oc=5",
+      "summary": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal The Information",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg?oc=5",
+      "summary": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -78,6 +110,14 @@
       "title": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenu - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkFSNUdfMG5VV2xONS1xM0NmaUZRemVlUDZUTW5kMXo2WFFqSm9wTURSOHR1cVlQR3ppdXh3OUZmZ1pXMkN6a0hjeVVOZnRJWTZwVFZqTk1VVDZsYUxEcHJRSlNzODRBUC1LZWdnMmxvY0hzWEZ6d0hrQWJZRVV1REFnVWd4enJDV1NVeXdmQkpieTVFX1BEV0VhNFBDZWtqTzZyS0NVeTZNOTBlRXV3RnFwLU0zTlJL?oc=5",
       "summary": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenu Benzinga",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Meta",
+      "title": "AI chatbot privacy: What your AI may know about you - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkR1bzRQZjBUSXZTOC1CNmVXaDNOU1oxYU9mT2xza2hvWHE4QW82U2lNRWlTc0NRaGVwNm5EOFFjYTJ1U2ZpV2hLTm8zSWRaRjNIMTJGNldXR0ljV2RGb1p6c2JMWUIwa3Q5ZTUzNTFBa3FHV3FJNXM4eUFpM0RUeEF0RjR1UdIBiwFBVV95cUxPZkl0MTAxTmRjLVVHRl9MUV84Y21FRHk3WGc1aWJBMVlfT191Qi12T1VjMHBCek9LMlF6NVJVOXZheHFXQ29VN1RSRU9FSUhPY3Znd0tFak5kcFVZOGJyLUVTQ3FjWnFNVEJzVlhybEJPTDM3ZDN1SEc4SU95eXhnUDUxOVBueXdkbnNj?oc=5",
+      "summary": "AI chatbot privacy: What your AI may know about you Fox News",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -138,30 +178,6 @@
       "date": "2026-08-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic market debut could break SpaceX IPO record: media - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjM1Wk5qZHJ3WXJaVTJoeDFhei1yVXRvaldVWEt4TUdNcVhmVFFyVURtWldLeDk3dVB4eWdIT3hlWV9UMzBJbHNEajBlbHU1OTQ3OFJWVWppcmQwWUVGa0RRUVJEYnE3WnRfZkRiZlV3NzBWLWVoRkVySFJWdnZTc1d6U3Fha2R2Y19uMm02bkc1WWhtejFNaEt1OVk3a1U?oc=5",
-      "summary": "Anthropic market debut could break SpaceX IPO record: media Yahoo Finance Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC Anthropic Could Aim to Raise $100 Billion in Blo",
-      "badge": "new",
-      "date": "2026-08-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Meet Cami Clark, the ‘first lady of AI’ shaping Anthropic and Dario Amodei behind the scenes - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yYWFtYks5QjdhOVFtOEpxV3RiaWxweW1ReGdtR2RqVzRYUVJLeFpoOHZfTWcxd3NIMU1kUkdXazdOMGczWjVRemg2elVXN19ORjV6cmJyYVR3b1RUT3RWM3p3?oc=5",
-      "summary": "Meet Cami Clark, the ‘first lady of AI’ shaping Anthropic and Dario Amodei behind the scenes Ynetnews",
-      "badge": "new",
-      "date": "2026-08-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5",
-      "summary": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. The New York Times",
-      "badge": "new",
-      "date": "2026-08-22"
-    },
-    {
       "company": "Perplexity",
       "title": "Copilot vs Gemini vs Perplexity: 1B Users, $325 Gap [2026] - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MWTJPczZlVWtxdy04M0ZSd1JaZlZCVnBTeHhCbndUekdobTBSSGF2XzdVX0ZmSmRGd21wRGMwb2JhOFhOSWhRS0Q3c1VaRU5Ia2VjMWVka2RCSEo2cnBfSFhveVZXbXhqLUptUEZuaw?oc=5",
@@ -174,6 +190,14 @@
       "title": "This ‘AI refuser’ quit her dream job, and hopes others follow - SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEVNR3lGbW9kTGMtTXlLazAxLWZJTHpQYjU3d2xMeWVBSlZTTHJoYy1MTmxLb2hCdmUzbjBmUkVVOFpJLUJXbFlzdUN5VHpra1hIdEY0VExXTkxZQlptNkUxZXAyRms0RXhBS0pxWmRnQmJsalRHSUh6cXdfd2hnNHlYMnFFTm11YkowYVVsMFZ4YnFMRzhMOEdfMmFhOUJfZkF4WDZPVVpWcTk4UkdleVhZRQ?oc=5",
       "summary": "This ‘AI refuser’ quit her dream job, and hopes others follow SMH.com.au",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "6 tips for better research with Microsoft Copilot - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnM3OTJxa0o5eWxVOXZ0VlNWWTFOREdDbjYwYnhsYm1kRnh3RmM4WmFGUDVvNFAxU3Ffd19aQVgxMFQyZW5TQ2FBSFhid3o1V3hoaFJDWXRwTGNpSWZKczhzeUVTS0U0LVpyR3lYdFN4NWhCV0lGRFN2ZFRNRnpiUk9IRFlGTkpTeVE?oc=5",
+      "summary": "6 tips for better research with Microsoft Copilot Computerworld",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -330,14 +354,6 @@
       "date": "2026-08-20"
     },
     {
-      "company": "Perplexity",
-      "title": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TS2VWUDRzVmVlemdEVzJPZVZtSVdzOE5kT0VJcWdIVkwyUm4tcExSM0tGRURzZ3VuUGplaWpOaUVwQmNPa1VoOGx1aGZnSXdXWkQ2VF9B0gFWQVVfeXFMTlNLZVZQNHNWZWV6Z0RXMk9lVm1JV3M4TmRPRUlxZ0hWTDJSbi1wTFIzS0ZFRHNndW5QamVpak5pRXBCY09rVWg4bHVoZmdJd1daRDZUX0E?oc=5",
-      "summary": "Amazon Wants Full 9th Circ. To Rethink Block On Perplexity AI Law360",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
       "company": "Meta",
       "title": "Meta's App For Creating Generative AI Minigames Is Now Available In The US - Engadget",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWxHUDFSSXFkVVlMVmFLUjFJdTU1Rmw5cnZDYW9RQnBpWEhmamNMZXFmbmZjaEVJWE9BYlA4a2FRaVNMOXlDOXI2NktBNExxbUhCWHdIRVg0Q19HLUZmVEg0cEZ6blJDUEs5b0JBRXA1MUMyXy1TV1ptb0pCMjhWLWhzQlFKclNaUVdybVVCRUFGVDZlWUlkNTM3Q2RqNDI5c2ljYg?oc=5",
@@ -358,14 +374,6 @@
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkI5Tk5QcVFETTNLSHl1UlBjbTJHT1pxUEl3ZFUwbUt5RG4wZHNRTFpRM0pzVlBIa2Q0MllIdEE1M0poRkhzT19VRmtxdTRtUUF5djZhWVpaRzd0c1lXbmM2MmpLd2R5SzZBVjU3bWszMUFKUTBRelphbGxobWtOY0tEWG5uTXJiQ3lKZlVBM0NGckxfX1RjTFdQdzNsb2ZXXzI5X3g0WXN6ajhiTWthZmZn?oc=5",
       "summary": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users TechCrunch",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5",
-      "summary": "Meta Has Quietly Become One of Microsoft’s Largest AI Customers Bloomberg.com",
       "badge": "new",
       "date": "2026-08-20"
     },
@@ -398,14 +406,6 @@
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "badge": "new",
-      "date": "2026-08-19"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Experts manage to hack Microsoft Copilot by continually asking it questions about itself - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFBXN2JMdm9wdUp5QkphNWpZWEUteGVVWlIybFFKTmstWUZMN2FRLTdnWXFMbzJJb2tTc0RuUGhkVlZrYUVyMl9QdXdMWThMdjNxenhwVUNOeFBNZ2JvT01aZ2ROeHZ1YXhFY1ljOVZSMFg4RmZ3enVuZW51MXpaOGdrbFlhYlpBZFVSTnhBYWZUdWdMNk4yNnlmOA?oc=5",
-      "summary": "Experts manage to hack Microsoft Copilot by continually asking it questions about itself Yahoo Tech",
       "badge": "new",
       "date": "2026-08-19"
     },
