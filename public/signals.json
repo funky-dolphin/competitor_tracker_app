@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-25T06:36:26Z",
+  "updated": "2026-08-25T12:36:31Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI giant Anthropic in talks to lease massive Bastrop County data center, sources said - KXAN Austin",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlVUWGdCV3hiNFdydVphZlpwYXctSHAzRnZ3SzNMTmVxQm9QcVpkS0F4WVdQcGtYb1pGNXdnMjRHVVlHUlBFZ2JRdkU4eV9pQWduaXlWV1lneXJkMFNrZkhmTmI1czhGOUhFbjJ1U1VOcXgzMFhMMjl0WnphbXFEMXZGSzNuU1VONDBrNXhhRHRGVEY2R0V1SFNDSV9GbnNRUDN0OVlzYW1EQnpiQU01NVJrYkU4MEF00gG-AUFVX3lxTE5takJHbTd3Y1FjNjg4SVl2dEJNdHp6b2ZySVVsbnlzZXFBZ0YwVHgwUmdvQXN0RmtQbEJfNzRoNVhCeWl4bWU0ZFliOE54TVZINHBmN2s4QVpRNHI0NkFIUWY0VzA3WWx2aHJmOThNSDRQYUNuZVpINU9CdVFaSnZkZVd0cVZBNUZDWkZVWjFfWjRLYkNfNG5WSFlDd01ZNmNzX2lQZ3Z0bFRiTVlIZk5oTVdrYzhRaXk0d1V4anc?oc=5",
+      "summary": "AI giant Anthropic in talks to lease massive Bastrop County data center, sources said KXAN Austin",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5",
+      "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike Business Insider",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
     {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
@@ -47,6 +71,22 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODRCQVd6ekVqcUxvRXNCZkx0YXdMZVd0eDlEQVJGbjhvSWg1SFc3ZGo0UWx3Vm13TG5mMWVraGVuV3ZaclFaUVg4dWl5eEVxLU1NbHBnc0JvbTNUT1d3cjRyMXBIekdmWGt2WWdXWFg2MGF4VGxUWmlwbjNtTTVDNHBQSU4zeEtZQ3F0T1ZrbU4tcXo1Z1FZ0gFWQVVfeXFMT25EUFh0WWNIVUJtWVR4YUpFZG1QVlgwMzRGYTg0X0ZnZ3RvM2pXUUMwcDU1RV90UXFGaDhJdGRfY19ZVEdNZ3JZbjdaMUdPUmNKRzEyMHc?oc=5",
       "summary": "AI Co. Perplexity Moves To Trim CNN Infringement Suit Law360",
       "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1dpZkpRNTdHQnBteE41RWozaUdXT2xrZGk1SXNzZ1M4WXVuTEluUkt0STNVUWJOandjY1FqV21JNksyYlhDNDRSOGxYYzdCODNwa0tkbjU3SXFjeTJKN1NVVzdfRHgzXzdvUDhuNUNSNkxQNndqVGJWWXFLc0JoSFBYdDlDNFFwZGxlenpYYmJxX2FDLUJrX3NzX3dodG9Gc2FGcG5fczFEamxfYjNLVWg2V0g3TFE?oc=5",
+      "summary": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch PYMNTS.com",
+      "badge": "hot",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta to launch Hatch AI agent platform in coming weeks- The Information - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXVCbUl3alRMeUVSSmRXa1c5Y0VJVV9YN0NmTktmaHRNQnFhQk5lN3lJczVoYWZ4ZF84Zk1NZXVQSWNZQVNTSExpV2RsdmdRZWZVa3o3SE1WTk85RWdUMTlPTFZiQ2dkOEdQeTNJV1ltOTE3VEpuNi1mM2ZoZ0hiN1FMMnhlc3g5WTVHLVRPNDlKQXhWYmIxR1RtbnVUR0s4cHRLc0hHUk1pTTMwbHBKRGloRGk1OVNzNWdWbklBVk4ycUZGMnFFRTY3dlM?oc=5",
+      "summary": "Meta to launch Hatch AI agent platform in coming weeks- The Information Investing.com",
+      "badge": "hot",
       "date": "2026-08-25"
     },
     {
@@ -163,9 +203,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Nvidia Considers Backing Perplexity at $30 Billion Valuation - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjBjSmRFejZmNUFnZ1NfV2xQMG85d1p0OVNabDN5TzVzQVBMYkctVHVnZkRIQXlhY2hsbXlEUUxHbzB6dmhUTER0cTctR2k2Q0ctS2d0aDZZZ2xQMVRoN0VkRkxOWEdCZGVtc1JVSk5hc2lTQTM4aTBQTmNyQ29FVTNGR2I1QlZkZFFkc2pteUFvWl92RVJJYjk1MkF4cXhkLWwzYmZGYWp3ai1lYkN0VVQ4TWFzXy1Fa3M4UmF3?oc=5",
-      "summary": "Nvidia Considers Backing Perplexity at $30 Billion Valuation PYMNTS.com",
+      "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHRsd0xBWDV2MlZUN1QwWDZjS2hvUmotdlV3Z2dCY3ZJQkZwMURmcWhVN2puVVl5V20xQXR0bm9oejYyZm9jdHBkQkhpVHVzckZjc1hKS19iUlBCZTE5XzZlaElEVkQyYmdVcWtYazV4dHJZT1YzSjNCYks4RzRQYlhxZUZDMEx2MF81WTh2MU53S2h6bGMxbWxKUUd6aklIUFFqaGh0cWRKTTRPSWxwc3RIenQ?oc=5",
+      "summary": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation SiliconANGLE",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -174,6 +214,14 @@
       "title": "Nvidia Reportedly Weighs Perplexity Investment at More Than $30 Billion Valuation - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTy0xVXBzRmkzTlc0QklURnFjSmdpMDVBTGZUb05kaHJMT0swR2FQbUd4T2NUVlNHSzBuX2p4WHZsbVhJTmJqS0t3WVVKb3BVdkZ4aTFyNnc1UWhteWJPbVRDZVZrb3M5OHY0eUVCcHBzRkhUOW1mSHpNRVhMUUVxVFpMVjZFcXhPckpXNVdoR1p1RDIyUUcwTXRFd0NnbF91NTNNNlZlMFl2MUdiS3kw?oc=5",
       "summary": "Nvidia Reportedly Weighs Perplexity Investment at More Than $30 Billion Valuation Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia Considers Backing Perplexity at $30 Billion Valuation - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjBjSmRFejZmNUFnZ1NfV2xQMG85d1p0OVNabDN5TzVzQVBMYkctVHVnZkRIQXlhY2hsbXlEUUxHbzB6dmhUTER0cTctR2k2Q0ctS2d0aDZZZ2xQMVRoN0VkRkxOWEdCZGVtc1JVSk5hc2lTQTM4aTBQTmNyQ29FVTNGR2I1QlZkZFFkc2pteUFvWl92RVJJYjk1MkF4cXhkLWwzYmZGYWp3ai1lYkN0VVQ4TWFzXy1Fa3M4UmF3?oc=5",
+      "summary": "Nvidia Considers Backing Perplexity at $30 Billion Valuation PYMNTS.com",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -206,14 +254,6 @@
       "title": "Nvidia Could Double Down on Perplexity. AI Startup Seeks $30 Billion-Plus Valuation. - International Business Times",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeF85d3Bsa1RNQ0UzRnJHUXZwWjM1U2FWV3hvZG92OEJyZWZQeGJLeTU4OEZmclgyamRvb3lhU1NYWnYtSzREenM5RmV4R25OZTlDajkxeWpoSjc0SFp3UV9vLUlzWGE2Vk42VWlISkhjMk5EM0t4cUZ0Zlc5REZzQVdTeG9wN3NlLWMyQ3poZVM3c0l0NmtaVi1jenF6X1ZWcU01YWtlcWJ1TXpKbks0?oc=5",
       "summary": "Nvidia Could Double Down on Perplexity. AI Startup Seeks $30 Billion-Plus Valuation. International Business Times",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg?oc=5",
-      "summary": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -254,22 +294,6 @@
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
       "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive Financial Times",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Fears of AI-induced armageddon are overdone - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
-      "summary": "Fears of AI-induced armageddon are overdone The Economist",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Decart’s $7 billion Anthropic deal could become far more valuable after the IPO - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icVRMd3dSeFhQTWpObmNESTFpUlhLUjdiY3E1eW9YZlE1ZktBRDctX04tMkRjQ2FjTVFUS3ZRRUZRdFA2UjhkbEQ1R0RIUU5vVGhsZ3hWRktLeC14NWplbVFoeXZpQXdR?oc=5",
-      "summary": "Decart’s $7 billion Anthropic deal could become far more valuable after the IPO calcalistech.com",
       "badge": "new",
       "date": "2026-08-23"
     },
@@ -326,22 +350,6 @@
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5",
       "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings Ars Technica",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Zuckerberg's AI manifesto joins a growing chorus of tech bosses preaching an AI utopia - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHdBdEZkT0Q5dkJDRUxGUmhoenNmbUdSV3F0dzFMVVJIbW9YTVdOVE9MOVptWDFGUUdBcWplanEtSmg1OWdCX2Y0SHN6VFZXcHU4V0VwY1pEbEloUlVsTFgzbXlKdlFPa1BxYjdIYjZFZTVqWjZZOVRvWlQtREwtejE1ZDUyM09xYjZVN0t0ZFNyY1JNcUJBbUh6OWY?oc=5",
-      "summary": "Zuckerberg's AI manifesto joins a growing chorus of tech bosses preaching an AI utopia Yahoo Tech",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Woman filmed without consent by Meta AI glasses says video went viral with 200,000 views - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlBjX2k4ZjBKN2xBNTE3eW00Ni1xRlFlTGhjeEdqeV9jb3M2WkhnRk5zV0Z0ZGM5b3lRbDlMSE9ib2trT0s2UzdPUWdJNU1YWmhyV0R1bm8zUk1UeWRNdHUzdmUwRlV1SUIyeklveW1vbzFSWm8wR21NbXNxQ1pieFl0elhrV2gzZkFnOElJUHQ0RFNrd2kyVTYwSVhyVGVNdHdGdXNRRk9hYmNWdENMNWd4UHEtaUdKdVByM21QbGx1Q1BY?oc=5",
-      "summary": "Woman filmed without consent by Meta AI glasses says video went viral with 200,000 views CBS News",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -446,14 +454,6 @@
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "url": "https://openai.com/index/partnering-with-codeai",
       "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
       "badge": "new",
       "date": "2026-08-18"
     },
