@@ -1,6 +1,70 @@
 {
-  "updated": "2026-08-24T18:31:41Z",
+  "updated": "2026-08-25T00:57:05Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "badge": "hot",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Apple",
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is developing an AI glasses kill switch - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlVTV29tZk9NanNNV0tydzFiLVA2TER2UHRLczZ3REdoa05LSE1mMkJyT0hBdGdUWDVzbHo4SE5abjIzLWROS2tVTWFXSGJIb1VxcVlXb2Z1enRKVjV1TFJiVXBKcEtVOUlWZXFLdWFyd2Y3cjE3STRTRTRmMWdNZVF5aVkwZWxudXduWFRRN2VmOEJ0?oc=5",
+      "summary": "Meta is developing an AI glasses kill switch Social Media Today",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+      "summary": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots The New York Times",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
     {
       "company": "Anthropic",
       "title": "Scoop: Anthropic candidates face blunt money question in job interviews - Axios",
@@ -11,9 +75,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
-      "summary": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots The New York Times",
+      "title": "More tidbits from Epic UGM: Anthropic's Project Glasswing and a deeper partnership with UpToDate - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ18zMV9kMHZXcHBIMjRTdUxKQ3VuV25tLWVJOUlFX0c4SUk4ODRCc0FfdWdvbTJiZ3NKcldlRzRjV0JOcWJrY2NWQkljUk9CX283OUlSTDJiSFVXT001MG1TVUNGLUdLVjdWTFQ3NGhDNzFrakktMG03bGVYNVdGbnhsNTJjWTdmN1pNN1g5T1NWRHJMdlcyc1I1YUtKOVZyRTN6UFc3ZzJFeTcwR1NTZTlwcVRVNDd2aEh1cUVDWW93dkVBcHc?oc=5",
+      "summary": "More tidbits from Epic UGM: Anthropic's Project Glasswing and a deeper partnership with UpToDate Fierce Healthcare",
+      "badge": "watch",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnZNMXhfbDFCLU1UTnhqaGxMdFBhQkZGYlJfdDJXZm5GaTd0T0lIaDc5QTd5RUVwRUkxcUlOM3EySWctY1ZITDAzWE9raFJUS25aYlpHajVNSl9TRGVPUk9WTC1SMUwtSXlVQm9EaFFVeW5pTVFWUlNmOW1QcW55dG5iNmdCTHFvMkI2RWhCN3RGcUlqd0hn?oc=5",
+      "summary": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First Yahoo Finance",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -58,50 +130,34 @@
       "date": "2026-08-24"
     },
     {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
-      "badge": "hot",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Apple",
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "company": "Perplexity",
+      "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5",
+      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters Nvidia Report",
       "badge": "new",
       "date": "2026-08-24"
     },
     {
       "company": "Perplexity",
-      "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5",
-      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters Nvidia Report",
+      "title": "Nvidia Considers Backing Perplexity at $30 Billion Valuation - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjBjSmRFejZmNUFnZ1NfV2xQMG85d1p0OVNabDN5TzVzQVBMYkctVHVnZkRIQXlhY2hsbXlEUUxHbzB6dmhUTER0cTctR2k2Q0ctS2d0aDZZZ2xQMVRoN0VkRkxOWEdCZGVtc1JVSk5hc2lTQTM4aTBQTmNyQ29FVTNGR2I1QlZkZFFkc2pteUFvWl92RVJJYjk1MkF4cXhkLWwzYmZGYWp3ai1lYkN0VVQ4TWFzXy1Fa3M4UmF3?oc=5",
+      "summary": "Nvidia Considers Backing Perplexity at $30 Billion Valuation PYMNTS.com",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia Eyes Perplexity Investment at $30B+ Valuation to Deepen AI Ambitions - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1JSeVhyYkhraTR6d19SamVWcDh4VElDUGRBNmw2bk9CYzlVNnNWRWRBUWF0bjREWEdTeWtELTFtaTBkeVc2c3dzLUw0UDBrS0VwVzlReHRBTWtjcC1kZUV4a0k4b0dRQWxDd0JWeVdkMDI2TlFJZHlERWYyMmllTlJWc1lybjlrLVlSMGc5NjhVc0pyX0tzYUpmblNmTHdEd2Z4bkRR?oc=5",
+      "summary": "Nvidia Eyes Perplexity Investment at $30B+ Valuation to Deepen AI Ambitions TipRanks",
+      "badge": "new",
+      "date": "2026-08-24"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal - The Information",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9lc0VwTXhBMHF2bVFTWm1OR0hkcHVnU0U2VVRsN2FlVEFnZFZBMWJkSjdjNm1MUUR4cE55RHZ0R21PVDlTSk9rRlZnaVl4NUxnQS16YUlhdUVfcTBCbzNvU0tWaUdNU0U3SndtaUpWRGtLOEFJOU5XVzdfZmRnTUVOVi1XMWxQT0otTEpDTTM3cEl5QlMtaHYycFZNMzFPMUUwZFJadG9QalVLUFMteGRaNzhycVMzMF9kaw?oc=5",
+      "summary": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal The Information",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -131,14 +187,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal - The Information",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9lc0VwTXhBMHF2bVFTWm1OR0hkcHVnU0U2VVRsN2FlVEFnZFZBMWJkSjdjNm1MUUR4cE55RHZ0R21PVDlTSk9rRlZnaVl4NUxnQS16YUlhdUVfcTBCbzNvU0tWaUdNU0U3SndtaUpWRGtLOEFJOU5XVzdfZmRnTUVOVi1XMWxQT0otTEpDTTM3cEl5QlMtaHYycFZNMzFPMUUwZFJadG9QalVLUFMteGRaNzhycVMzMF9kaw?oc=5",
-      "summary": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal The Information",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Perplexity",
       "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg?oc=5",
       "summary": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters",
@@ -162,10 +210,10 @@
       "date": "2026-08-24"
     },
     {
-      "company": "Perplexity",
-      "title": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenu - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkFSNUdfMG5VV2xONS1xM0NmaUZRemVlUDZUTW5kMXo2WFFqSm9wTURSOHR1cVlQR3ppdXh3OUZmZ1pXMkN6a0hjeVVOZnRJWTZwVFZqTk1VVDZsYUxEcHJRSlNzODRBUC1LZWdnMmxvY0hzWEZ6d0hrQWJZRVV1REFnVWd4enJDV1NVeXdmQkpieTVFX1BEV0VhNFBDZWtqTzZyS0NVeTZNOTBlRXV3RnFwLU0zTlJL?oc=5",
-      "summary": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenu Benzinga",
+      "company": "Meta",
+      "title": "Meta hires OpenAI veteran Luke Metz - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VjNSRXExSEgtMXVkMzJySkp0bkxvT0RLUi0wV0pqSC1sSi0xYzlCbUxvNVFDdXpCZUppeGpYUG0wSDVfNkkwZEI2ZjQ2Tno3S0Z4QVl6NnhjMWphODRELTdvOHJaei1oeTcxeQ?oc=5",
+      "summary": "Meta hires OpenAI veteran Luke Metz Axios",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -210,34 +258,18 @@
       "date": "2026-08-23"
     },
     {
-      "company": "Anthropic",
-      "title": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSy1GSHhzQ3RhZnNlUXRGdUU0UXAzYUdjNm5leHBlR2lsQmtMeFhhTl83Qy0zcThqSVBWRTl2REM1dDVHVUpaRG1heUNGRTNicmc3OHctX0pOSm4xTFNTRFpGU0VOTklnMUxMaVRFcWJqLUlsRy1aUmV5b1lfTmpVOUdqaS12Mzcxa3F6RlJFTVdWZDZ4MWZvZWl2VQ?oc=5",
-      "summary": "Amazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI Is Adding Business Users Faster Than Anthropic. That May Matter More Than Valuation - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2hVS3doNVlVVGdCeEQ0UnM1R0dhTGdXX2hxZ2xodVdONkk1TXZCNXVUUF9TRER1MFQ5RERTd0JNbHc5cnVXZ0tOUWx2Nlo2Y0duOVJQRVQ3WkQzWHRLUFdBMDFMNm5zTkJWVGRsQjh6NlQwbXlTTkFvUU9ZcW5kOGRudDZRU3luUUdPR3BaREpaQ3oxZzFrZ3dJWF81NVRRWjNLekhoS2s0TmI5VWFMcnpCemJwRUdSSkozeVNpcF8xcmhsbXZvM2tlTQ?oc=5",
-      "summary": "OpenAI Is Adding Business Users Faster Than Anthropic. That May Matter More Than Valuation inc.com",
-      "badge": "new",
-      "date": "2026-08-23"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Copilot vs Gemini vs Perplexity: 1B Users, $325 Gap [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MWTJPczZlVWtxdy04M0ZSd1JaZlZCVnBTeHhCbndUekdobTBSSGF2XzdVX0ZmSmRGd21wRGMwb2JhOFhOSWhRS0Q3c1VaRU5Ia2VjMWVka2RCSEo2cnBfSFhveVZXbXhqLUptUEZuaw?oc=5",
-      "summary": "Copilot vs Gemini vs Perplexity: 1B Users, $325 Gap [2026] tech-insider.org",
-      "badge": "new",
-      "date": "2026-08-22"
-    },
-    {
       "company": "Microsoft",
       "title": "This ‘AI refuser’ quit her dream job, and hopes others follow - SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEVNR3lGbW9kTGMtTXlLazAxLWZJTHpQYjU3d2xMeWVBSlZTTHJoYy1MTmxLb2hCdmUzbjBmUkVVOFpJLUJXbFlzdUN5VHpra1hIdEY0VExXTkxZQlptNkUxZXAyRms0RXhBS0pxWmRnQmJsalRHSUh6cXdfd2hnNHlYMnFFTm11YkowYVVsMFZ4YnFMRzhMOEdfMmFhOUJfZkF4WDZPVVpWcTk4UkdleVhZRQ?oc=5",
       "summary": "This ‘AI refuser’ quit her dream job, and hopes others follow SMH.com.au",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Shared agentic work with GitHub Copilot in Microsoft Teams - The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzJvaEZrdkdXajduWnRNb2ZyZEhOdEZrOW9WOHdtVnU5Q05rb2ZGMFdCYUJ0aXJ3M0ZhdmJfRUVhUjNWcmxXT0FLdGJaTVNrVDNyc3ZBNnVWMGF6QVFnR2xuc0xCRXAxWnBWNWVUOWNTdXd0cWxRTXBEU1FIcmVPVVpJVXBQN3Q2LW1HeTJyNEtXY2tTZHNTdnpqellvNjYyemc?oc=5",
+      "summary": "Shared agentic work with GitHub Copilot in Microsoft Teams The GitHub Blog",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -258,22 +290,6 @@
       "date": "2026-08-21"
     },
     {
-      "company": "Microsoft",
-      "title": "Shared agentic work with GitHub Copilot in Microsoft Teams - The GitHub Blog",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzJvaEZrdkdXajduWnRNb2ZyZEhOdEZrOW9WOHdtVnU5Q05rb2ZGMFdCYUJ0aXJ3M0ZhdmJfRUVhUjNWcmxXT0FLdGJaTVNrVDNyc3ZBNnVWMGF6QVFnR2xuc0xCRXAxWnBWNWVUOWNTdXd0cWxRTXBEU1FIcmVPVVpJVXBQN3Q2LW1HeTJyNEtXY2tTZHNTdnpqellvNjYyemc?oc=5",
-      "summary": "Shared agentic work with GitHub Copilot in Microsoft Teams The GitHub Blog",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Meta",
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5",
-      "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings Ars Technica",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
       "company": "Meta",
       "title": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" - CBS News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5",
@@ -286,6 +302,14 @@
       "title": "Vibe Coding Goes Mainstream: Meta Brings AI Creation to Social Media - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX09QQjVrTzZ3YjJBSXVsX3hEMVhYY3pkSy13Vm53SWxQQURsdUFJUUVvd0F4TkhUOXRhc0RHSFdGd3NmeTRVWWd2TERscnZybnFOR29xbDJhRTRxYkZZWjlUeVk4ODZ2d2llcURUNFVNVFZndHRJUmJCUTZXU0o5US1Iaw?oc=5",
       "summary": "Vibe Coding Goes Mainstream: Meta Brings AI Creation to Social Media TechRepublic",
+      "badge": "new",
+      "date": "2026-08-21"
+    },
+    {
+      "company": "Meta",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5",
+      "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings Ars Technica",
       "badge": "new",
       "date": "2026-08-21"
     },
@@ -362,22 +386,6 @@
       "date": "2026-08-20"
     },
     {
-      "company": "Meta",
-      "title": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkl2b3pLTG1FMTdCTGgzZGxhMmF3MFJqck5Ga29PQ2RFNFVqc0pSdThiZjBkbXEtVWNSc0NZc2daN2tIZHZyNjdGdFRReTZkRk9sZlNzZm9CNXVqdGU1dVl4RXhadmZUTzkxNVZrbFBHZ3luaW9zal8yaU5GMHFIVmdQYWJ5NVBwWFg4Sk9DeW56QkNsXzdmUXZWby11U0NKRWNwUlRySzdyX0lVdmFTQjAyeEpkNXdFUVVhaE96Ym1COFhnMC1qWXhR?oc=5",
-      "summary": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns Reuters",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkI5Tk5QcVFETTNLSHl1UlBjbTJHT1pxUEl3ZFUwbUt5RG4wZHNRTFpRM0pzVlBIa2Q0MllIdEE1M0poRkhzT19VRmtxdTRtUUF5djZhWVpaRzd0c1lXbmM2MmpLd2R5SzZBVjU3bWszMUFKUTBRelphbGxobWtOY0tEWG5uTXJiQ3lKZlVBM0NGckxfX1RjTFdQdzNsb2ZXXzI5X3g0WXN6ajhiTWthZmZn?oc=5",
-      "summary": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users TechCrunch",
-      "badge": "new",
-      "date": "2026-08-20"
-    },
-    {
       "company": "OpenAI",
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -447,14 +455,6 @@
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
       "badge": "new",
-      "date": "2026-08-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "badge": "hot",
       "date": "2026-08-18"
     },
     {
