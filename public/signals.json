@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-25T18:31:43Z",
+  "updated": "2026-08-26T00:58:15Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
     {
       "company": "OpenAI",
       "title": "The full stack behind abundant intelligence",
@@ -37,8 +77,16 @@
       "company": "Anthropic",
       "title": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN?oc=5",
-      "summary": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue WSJ Anthropic is pitching IPO investors on a $30 trillion market opportunity qz.com Anthropic expected t",
+      "summary": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue WSJ Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports Reu",
       "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Funding better evaluations of AI’s impact on wellbeing - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
+      "summary": "Funding better evaluations of AI’s impact on wellbeing Anthropic",
+      "badge": "watch",
       "date": "2026-08-25"
     },
     {
@@ -51,9 +99,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million - Bloomberg",
+      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
-      "summary": "AI Security Startup Working With Anthropic and Google Raises $140 Million Bloomberg",
+      "summary": "AI Security Startup Working With Anthropic and Google Raises $140 Million Bloomberg.com",
       "badge": "new",
       "date": "2026-08-25"
     },
@@ -107,6 +155,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Copilot is the new Internet Explorer: Inside Microsoft’s plan to force AI lock-in - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFhlMnJfTVk1QjEzRlU0UklUODNGOTNYd05lMkhpc0lEd2FnMzVsekZtOE9PRlVMbC0wX3dqcmphUUV5dnhxQURSek8yQUJuQzRqSWxIX1RsZDFmRzhZZkdXMkdPVmw0MksxbHloYVJ6NVg2b3o2azJBdUZDcnJjSzdCazFlbFo5M2ZVS1JLMDN0ZXM?oc=5",
+      "summary": "Copilot is the new Internet Explorer: Inside Microsoft’s plan to force AI lock-in Washington Examiner",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Microsoft",
       "title": "'The version Microsoft will build should be known as Copilot OS': Windows built around AI may not be happening, but leaked concept remains a grim portent for desktops - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPdFdSLUF4MVlFQzdYdmNYMi03SnhFd3hDcEpCYnd5UmdKRTEtWWdyWVhQVkdzT1VBQnZ2TFVqeEN3NkdkWTNaem5JVmloUGw5VVhYMUd4YkhMd1VHSUU1T01RT01DVE5xbUt4NElyQTUweXE3ejlsWFY1MG5hQ3BMdlBHQkYzc0tYVHhsVTJNV2I0OVVuR0FhQ1REQlVBNnE3eFByR3B6cnh1cm1tMTJSRUVfM19oRWJRWHRNcEs0dndGcFZBRTA5UnFOUXc0QnNlNUZBN1ViQ0NuYnRrNGFwM2J2c1hOYzNBMFFGdW5uWEFhV1RIcVNQVWZsamlva0l5cmRHSnNqM1JJYWJRbVZqazJ4TElWc0kzdDF1T2oxWG1HbWEzMXVVa2JLU2ZVMlk?oc=5",
       "summary": "'The version Microsoft will build should be known as Copilot OS': Windows built around AI may not be happening, but leaked concept remains a grim portent for desktops TechRadar",
@@ -115,49 +171,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Cypris Brings R&D Intelligence Directly Into Microsoft Copilot - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGZnZ0hHcjM3THM5NXRqaW1qazFzcUEwaDRrTzdVTUdXckhiZ3JLVzV4a0owTUlReFotRkVsVkdnT2E4TVhWVnZSakJlYU9EVGtEM3Z1MTJaek1UU2ZCMXlvUUJmYnJCR0RYczRGTVloWVFtc2Y4V2dXSU8tU05iSDVkdlB1WnVIVm1yOFZXcEVFQVNsZ3ZZZ1RtX1Y0UHdnX2R0WkZqWkRTYk12N1J1aGNReF9hZlFN?oc=5",
+      "summary": "Cypris Brings R&D Intelligence Directly Into Microsoft Copilot PR Newswire",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "S&P Global (SPGI) Is Up 6.1% After Embedding AI Data Into Microsoft 365 Copilot Workflows - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcG9qcVB5S2F4Yy1QcExoMm96SnZjb1hoSjFxeWZJRlNRLXhydEcxN2pPS2NnNnZZNkFFSDg4MTNEUlNHNm5QR193Q0o2Q1ZoRzhmNzRXOTB1ZFUzWXlPRE1BVzFEa0IwLWZVOExSLUEwTERBb2hESGpWbmZCOXhGV0dvaERyblVrbkNrV3poVTVjZjZpejlNbEVsWlhfVkZlYnMtRXdjYmsyaEJnTGRfMVBqblpibWtURVNZbXZrMHRhckpjNFRZRDZ0V1dQbERsVWU0M3RVZ9IB3AFBVV95cUxQRXBkU1RhcmxtOFBjVFZFa0xEZDl0VjFGODZzM19PdE15dlBTcHliNVpVb0puWjQ4QlExQ2ItU1JtN1FaS2gxZkZDcWk5OUN1UExSUmEtazJpclFPZjFLdTNUN21sRmRJdnBqLVhQT3BwWFNJbUl2bmJmT1VyYVJfT2k0MkZTSFJodklFeWpaLS1hUDRhbXlUd1JzTTE2Q2lwaXFJdXM4R2ZpMXNtcUpBTEhjTXh1WDFFcUwyZmFncGkwdFlyWUdLVFNZWnVNVlhacGxkQWNGMXdDTV9N?oc=5",
+      "summary": "S&P Global (SPGI) Is Up 6.1% After Embedding AI Data Into Microsoft 365 Copilot Workflows simplywall.st",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Microsoft",
       "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXRwa2lEWTJSZkM5Sk1WX3Nzd0RQaEdrYlBkZkI3UzhxQ0tjcXVLelUtbWFUcmtWdXRycHZxYW5NUnNyYVRSUmhPTk91WFdUNS00NFAya2plb3NkckFJVVNwOW5hLWZhNUFveElYWHg3bThkNDVpQXdYVUVqVGw5cUxqTWdPbEI2bE9OUlFjQnZyWnVI?oc=5",
       "summary": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations TechRepublic",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
       "badge": "new",
       "date": "2026-08-25"
     },
@@ -199,6 +231,22 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzVfQml4N0tXV1hOd3JfNzRiOURvZTYzTzk1dGFBT0V4UkxYSVFUVkVSdFlGazJVLWticGJTeFhBZDlxQXNZSFNlenZ3cEM0c3huTVdicFRnTVE1OEVJYmd2ZUtEYTNOLVJkSmJzZjZyM2ZBLS1JNnBmS2JMVVpNaFUtQUJMVFoxV0pUd3FNUVg4cEcwM2VkRnZfTnlTSk5tNlJkSFptQi1qbk1KUmhZVXJR?oc=5",
       "summary": "Perplexity Launches Local AI Model That Will Run on Your GPU Instead of the Cloud Gizmodo",
       "badge": "hot",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Portable Computer is Perplexity's new local AI agent - why it's a game changer - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdExYeUM1ako3bXhhRjl1YU96dlJUb21Ea0ExX2JuQ3FUeTFkN3UzZFp3c3dKMUFSWE1hczk3amo5UlBGV3huTmhpck9aR1Z3LUNRWVVPcXpvRmxQS0ptSmUwUFBmdWZhTFZEQ282NnY0UVFxXzc5b0d4UUZ2ZUE?oc=5",
+      "summary": "Portable Computer is Perplexity's new local AI agent - why it's a game changer ZDNET",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHRwU2FtbzZQemFpVlQ4ODZ2NFdDQUwzYTVLRy1rVk4yb2ZKZUFIRG12V0tHbmduMk9yMmtuMjNYa2gyTXNRQlMtMGhmQmFfRDFVbEk3TVNRTWpMMW1XLW5wcDNvb05MLWFNWDcyVjJVR0NaUzVaSnhFRzVFRkhERVdRMHM0QVlRU0R2MFJDSVhzM2oxelJ4WGhQY3ZjUmRSWGtlOElsb09sN0hLRmFLb2dIeGowREhyWjdrVmRDblBWY0ZFODFhODB1NA?oc=5",
+      "summary": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers CNBC",
+      "badge": "new",
       "date": "2026-08-25"
     },
     {
@@ -262,14 +310,6 @@
       "title": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnZNMXhfbDFCLU1UTnhqaGxMdFBhQkZGYlJfdDJXZm5GaTd0T0lIaDc5QTd5RUVwRUkxcUlOM3EySWctY1ZITDAzWE9raFJUS25aYlpHajVNSl9TRGVPUk9WTC1SMUwtSXlVQm9EaFFVeW5pTVFWUlNmOW1QcW55dG5iNmdCTHFvMkI2RWhCN3RGcUlqd0hn?oc=5",
       "summary": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Wants to Beat SpaceX’s IPO, and It Could Reprice Every AI Stock You Own - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXg5al9ya0lBS2dXbWhHYVp4MDhuX0ZKdU5ueWE1VE9rX3FQRHdhQjlwSHNqV3c0MkUwZ2VRSHVLckJNT3d4VlRYTlM0dDJlQXphSFdhWHQtYkhtYTIwNk9pQmw1UDJLc3VJb0tLRlVRZm03ZEZWZDJta1Q5TE1fVk1LUnZadElqZjUxeDBLY1dJQzNRSkJKOURLcw?oc=5",
-      "summary": "Anthropic Wants to Beat SpaceX’s IPO, and It Could Reprice Every AI Stock You Own Yahoo Finance",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -341,7 +381,7 @@
       "company": "Perplexity",
       "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5",
-      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters Nvidia report",
+      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters Nvidia Consid",
       "badge": "new",
       "date": "2026-08-24"
     },
@@ -370,22 +410,6 @@
       "date": "2026-08-24"
     },
     {
-      "company": "Perplexity",
-      "title": "Nvidia Considers Backing Perplexity at $30 Billion Valuation - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjBjSmRFejZmNUFnZ1NfV2xQMG85d1p0OVNabDN5TzVzQVBMYkctVHVnZkRIQXlhY2hsbXlEUUxHbzB6dmhUTER0cTctR2k2Q0ctS2d0aDZZZ2xQMVRoN0VkRkxOWEdCZGVtc1JVSk5hc2lTQTM4aTBQTmNyQ29FVTNGR2I1QlZkZFFkc2pteUFvWl92RVJJYjk1MkF4cXhkLWwzYmZGYWp3ai1lYkN0VVQ4TWFzXy1Fa3M4UmF3?oc=5",
-      "summary": "Nvidia Considers Backing Perplexity at $30 Billion Valuation PYMNTS.com",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia Eyes Perplexity Investment at $30B+ Valuation to Deepen AI Ambitions - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1JSeVhyYkhraTR6d19SamVWcDh4VElDUGRBNmw2bk9CYzlVNnNWRWRBUWF0bjREWEdTeWtELTFtaTBkeVc2c3dzLUw0UDBrS0VwVzlReHRBTWtjcC1kZUV4a0k4b0dRQWxDd0JWeVdkMDI2TlFJZHlERWYyMmllTlJWc1lybjlrLVlSMGc5NjhVc0pyX0tzYUpmblNmTHdEd2Z4bkRR?oc=5",
-      "summary": "Nvidia Eyes Perplexity Investment at $30B+ Valuation to Deepen AI Ambitions TipRanks",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
       "company": "Meta",
       "title": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" - CBS News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5",
@@ -410,22 +434,6 @@
       "date": "2026-08-21"
     },
     {
-      "company": "Microsoft",
-      "title": "6 tips for better research with Microsoft Copilot - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnM3OTJxa0o5eWxVOXZ0VlNWWTFOREdDbjYwYnhsYm1kRnh3RmM4WmFGUDVvNFAxU3Ffd19aQVgxMFQyZW5TQ2FBSFhid3o1V3hoaFJDWXRwTGNpSWZKczhzeUVTS0U0LVpyR3lYdFN4NWhCV0lGRFN2ZFRNRnpiUk9IRFlGTkpTeVE?oc=5",
-      "summary": "6 tips for better research with Microsoft Copilot Computerworld",
-      "badge": "new",
-      "date": "2026-08-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft just culled a helpful Copilot feature in Excel before it's been released - GB News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VLVlkVkI5ZWUxWWRMb19xOS1pWnJqaFduR2xlaVhmSjFUd2N0TlU4MzBKcmNDaHI4U0FrczZSbVphaHZ3OTNGbHlHR0dHVjViQUNvdUt3aEpjYlhMTThJcGJnaFh5MnBBQ3otd1Y4MS1LQQ?oc=5",
-      "summary": "Microsoft just culled a helpful Copilot feature in Excel before it's been released GB News",
-      "badge": "hot",
-      "date": "2026-08-21"
-    },
-    {
       "company": "OpenAI",
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures",
@@ -439,14 +447,6 @@
       "url": "https://openai.com/index/stampli",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "badge": "hot",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "From AI assistant to capable teammate: How Copilot Cowork is changing the way we work at Microsoft - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTzNhQ0VpQkxzaG00OTlZUE1kU2xPdUkwVXlaUnFRN1FjcnV2NWp2anYzSXY4WE4zczlPdzZjS1Z5ODY5QXo5SFNXNVR3SEVLWjFuVGdiTGFwWEx0MGtkRWlVdEp0d0lFTHlRdzFqSDZUZ1pxWkRpVGtzblAzcUJoeXRrWW1qM3hHUV9hNjNoWmhXUFp3dC1IUU1xaEpEV2ZzMWFsLWRrVmY2bGU1M2ZoQlBxWnE0TnFxQlM1X3Q4Mmdzb1I5UFYxZ2JfcWNrX0I5di02MHJZVG4?oc=5",
-      "summary": "From AI assistant to capable teammate: How Copilot Cowork is changing the way we work at Microsoft Microsoft",
-      "badge": "new",
       "date": "2026-08-20"
     },
     {
