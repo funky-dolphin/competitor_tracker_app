@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-26T19:41:24Z",
+  "updated": "2026-08-27T06:49:29Z",
   "signals": [
+    {
+      "company": "Meta",
+      "title": "Meta’s plans to replace workers with AI fell flat, report says - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnlWVUR0RHpySk1pampXS25SRFMzNGo0UVd6Z0dDV2pLRlhLN2dBRWdmemtpVUlsbmU3bnRUcDBONzlGX0NzMnVoejZ3cnoxZWd0ak1QaFBRQnZvM191MnpHREN4aWF6OEphZjJxZEd5YjRGZHBFUzdwemFPQ054MGJ2RGJqY3Vta19mdVZhbGI3eVpWNE1yaXdHcjIwR0JsRHV2T0ZFbml5d2ZVWEdNOA?oc=5",
+      "summary": "Meta’s plans to replace workers with AI fell flat, report says Computerworld",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
     {
       "company": "OpenAI",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -19,9 +67,49 @@
     },
     {
       "company": "OpenAI",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "OpenAI",
       "title": "How loveholidays is making everyone a builder with Codex",
       "url": "https://openai.com/index/loveholidays",
       "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+      "summary": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM Salesforce",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTW1nZ1BhT3YyWDkwRnhzWXdOU3dQVU5RUUtiNkYxRTNFdVhuNDJKM0Y1RUM0a2xOUFVQdUNDTlQ2LVNJMW8xZXhTMUpnRTVPbzA0X1ZrNi1XeFlpZmJENzh4NGstVWgtZEtnbEdSQ2k5Sm5DNXdwMndpekNIbjBmME1xMzVMNnJSNVRpMFFWalFQUUJBTjN3MnJFRTBhR1FFdWhPS0R3?oc=5",
+      "summary": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings MarketWatch",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
+      "summary": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns CNBC",
+      "badge": "watch",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Enabling independent research on how people use Claude - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
+      "summary": "Enabling independent research on how people use Claude Anthropic",
       "badge": "new",
       "date": "2026-08-26"
     },
@@ -58,58 +146,10 @@
       "date": "2026-08-26"
     },
     {
-      "company": "Microsoft",
-      "title": "Here are all the new features Microsoft added to Excel in August 2026 - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV05YNUwxTFNVbUNmNV96ai1DNW1yMTEwZzN0Ny1OUmNiNUgxMkFUel80aHBWVTVJbVY3dGl6WkJQVGxUd01pMUNoSkVvaFdBTk10NW1WZHdmLVg0TlhLOWhwaTdXMVpRdnlZcV8zdnAyTTB6U1A3cmFvX2tRLVBwWXFQVDlWWWdnTTg1VnJ4NzAtRE1BSWVtd1NpcU82cjjSAZ4BQVVfeXFMUEFNcmNBa3JyVWNweFhERm9mQ08zamcwMi1kNnpnbmNvbjFibU9PMXpxWHdONWIxZ2MyTllFMmxzM3oydjRQTEZyaFBWUjZWLVQ3NU44c1VCSW9KNUNqZU1xWm9EUnR1ZWpPQmF0ckRzUlc1WXpFb0dCaXpCSUNHNlE0YWZSX2ZQekFENmVSMW03ZVhhWThpU1pjTE9KWEE?oc=5",
-      "summary": "Here are all the new features Microsoft added to Excel in August 2026 Neowin",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Paint AI watermark raises privacy concerns - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FLUItSVhMVDhocGNKODRkelVVcGdtYklkeGJGeldPR1hZZzkzYWtjMDgxcElTNC02T3ljcmZHQUhNcVd4Si1TOUNaczd6LTRRRGVNSklzVXQ1Y1hxNXlCXzhVY1MxOXJkUHJrZ2xWX1RDOW1hNGhESw?oc=5",
-      "summary": "Microsoft Paint AI watermark raises privacy concerns Cybernews",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "company": "Meta",
+      "title": "NEWSLETTER: How Meta’s AI layoff plans went kaput - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjY5eWhaSGFuNFFCTVVVQWNXZDhFM2FOUEFLNUo5QjY0QWl6OWtVRmlrU3F0YVRSZTA5NFpteUdlUHBPTGlNTThXYlNfTV9PX0UyaVh0Y3oyMkIxSDJGRDJZLXJLQ1hQeWFzZkJWQnBqVHBGTVU4Z0VXR3FlWmtEZmM0dFRJczNvNFlweEdEc3E4NWRGZl90NVZrWjJWam9ZYXpZQ3R5WWphVXhNUWZMcmF1LUZmLThQMkdVUy04d3FVUU0?oc=5",
+      "summary": "NEWSLETTER: How Meta’s AI layoff plans went kaput Reuters AI agents meant to replace Meta workers made “large-scale, disruptive actions” Ars Technica Mark Zuckerberg’s Botched AI Makeover of Meta New ",
       "badge": "new",
       "date": "2026-08-26"
     },
@@ -142,6 +182,38 @@
       "title": "Meta Explored Cutting Some Teams by Up to 60% as AI Productivity Fell Short - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0E4YkphaElRSHJYbmt3MHktWFlMU0Q2VUdGOFNIUnJBcDU3Z1Y1WTh5MklVcHZVaXpvcjFYX29OR2ducVBfa2ZSdEZOQU5XRUFCT2g1QkZZb01HZ2dqSXluZEFEcFFkSC1BZWlsVU8tN1dzWm42eWRnSUFVSUN2dFJBRXA2aUlsQ0pWd203SDRNeXk3ZjhQa2lFM0lfR1Q4d182YndQOA?oc=5",
       "summary": "Meta Explored Cutting Some Teams by Up to 60% as AI Productivity Fell Short TipRanks",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's latest rebrand proves that it just wants to shoehorn AI everywhere - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalZHaFZLdldHbEFoQW1QX0Z6SUxHNUZDY3h1ejUzbUFWU2tiemxuamRYeUVfcGFnbzEtUk50WEVfWTJkZXZ4TVlHQ0g4ZkhPSUYzVk40LURDUThoU3lUQy1jZEI5MkJTVEFRNDA0Zk5IOVFydzhLaXQtaUQzZkcxQ2pCVC12WlA1bjdtYm41NDJmZEV3TFRDcmIxUkFORDF5bDhWQjhWRkZUelJ0V1lr0gGoAUFVX3lxTE0tQlYxeDNreGRxeElXX0c5ajRZdmZkOHBFbU45ZEcxVVkyQnRHaE5vRnhnRjBNdGJtVGJHWHBBSWtzZmpWV3NpTGswa2tmdmxqNXNsWHhBX1pvVXEya0dPdVk4dURSaFc2UWxLTDdsYW9Kd2o4M3p1VEJydUcwX0xSUmU3NWZfYWkzUUd4MWh4NWd4RmYzSGdLdnRic2U5S3A1NXY2ZkF6Sw?oc=5",
+      "summary": "Microsoft's latest rebrand proves that it just wants to shoehorn AI everywhere Neowin",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Paint AI watermark raises privacy concerns - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FLUItSVhMVDhocGNKODRkelVVcGdtYklkeGJGeldPR1hZZzkzYWtjMDgxcElTNC02T3ljcmZHQUhNcVd4Si1TOUNaczd6LTRRRGVNSklzVXQ1Y1hxNXlCXzhVY1MxOXJkUHJrZ2xWX1RDOW1hNGhESw?oc=5",
+      "summary": "Microsoft Paint AI watermark raises privacy concerns Cybernews",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Here are all the new features Microsoft added to Excel in August 2026 - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV05YNUwxTFNVbUNmNV96ai1DNW1yMTEwZzN0Ny1OUmNiNUgxMkFUel80aHBWVTVJbVY3dGl6WkJQVGxUd01pMUNoSkVvaFdBTk10NW1WZHdmLVg0TlhLOWhwaTdXMVpRdnlZcV8zdnAyTTB6U1A3cmFvX2tRLVBwWXFQVDlWWWdnTTg1VnJ4NzAtRE1BSWVtd1NpcU82cjjSAZ4BQVVfeXFMUEFNcmNBa3JyVWNweFhERm9mQ08zamcwMi1kNnpnbmNvbjFibU9PMXpxWHdONWIxZ2MyTllFMmxzM3oydjRQTEZyaFBWUjZWLVQ3NU44c1VCSW9KNUNqZU1xWm9EUnR1ZWpPQmF0ckRzUlc1WXpFb0dCaXpCSUNHNlE0YWZSX2ZQekFENmVSMW03ZVhhWThpU1pjTE9KWEE?oc=5",
+      "summary": "Here are all the new features Microsoft added to Excel in August 2026 Neowin",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd093RTRnYmk5SHZHdkhNZDhxWm1DU3BaZkdWNXVkdThhd1dCZzNUN3JGUXNpTVFZZ2RpSDJmM3BzTnZHb1ZMcjhRR0ZBUEVlWDZTZG1DWXdMejB1OWFQYmEtd3l3UVdDYUJ6T3NlcjdtLXZLOE1ac3UxZE93OG9McUpSWkdtSVMxODVsTkNwblNyaUt6MzZ2ZFNpNVR4TkJmQUhMY1otcW1yY0JUeVMtUjhmdzA5b3BZMzRnRlVzT0h5ZERsT09ZT053?oc=5",
+      "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Barchart.com",
       "badge": "new",
       "date": "2026-08-26"
     },
@@ -202,26 +274,34 @@
       "date": "2026-08-25"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5",
-      "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike Business Insider",
+      "company": "Meta",
+      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
+      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails The New York Times",
       "badge": "new",
       "date": "2026-08-25"
     },
     {
-      "company": "Anthropic",
-      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
-      "summary": "AI Security Startup Working With Anthropic and Google Raises $140 Million Bloomberg.com",
-      "badge": "new",
+      "company": "Meta",
+      "title": "Meta to launch Hatch AI agent platform in coming weeks- The Information - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXVCbUl3alRMeUVSSmRXa1c5Y0VJVV9YN0NmTktmaHRNQnFhQk5lN3lJczVoYWZ4ZF84Zk1NZXVQSWNZQVNTSExpV2RsdmdRZWZVa3o3SE1WTk85RWdUMTlPTFZiQ2dkOEdQeTNJV1ltOTE3VEpuNi1mM2ZoZ0hiN1FMMnhlc3g5WTVHLVRPNDlKQXhWYmIxR1RtbnVUR0s4cHRLc0hHUk1pTTMwbHBKRGloRGk1OVNzNWdWbklBVk4ycUZGMnFFRTY3dlM?oc=5",
+      "summary": "Meta to launch Hatch AI agent platform in coming weeks- The Information Investing.com",
+      "badge": "hot",
       "date": "2026-08-25"
     },
     {
-      "company": "Anthropic",
-      "title": "AI giant Anthropic in talks to lease massive Bastrop County data center, sources said - KXAN Austin",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlVUWGdCV3hiNFdydVphZlpwYXctSHAzRnZ3SzNMTmVxQm9QcVpkS0F4WVdQcGtYb1pGNXdnMjRHVVlHUlBFZ2JRdkU4eV9pQWduaXlWV1lneXJkMFNrZkhmTmI1czhGOUhFbjJ1U1VOcXgzMFhMMjl0WnphbXFEMXZGSzNuU1VONDBrNXhhRHRGVEY2R0V1SFNDSV9GbnNRUDN0OVlzYW1EQnpiQU01NVJrYkU4MEF00gG-AUFVX3lxTE5takJHbTd3Y1FjNjg4SVl2dEJNdHp6b2ZySVVsbnlzZXFBZ0YwVHgwUmdvQXN0RmtQbEJfNzRoNVhCeWl4bWU0ZFliOE54TVZINHBmN2s4QVpRNHI0NkFIUWY0VzA3WWx2aHJmOThNSDRQYUNuZVpINU9CdVFaSnZkZVd0cVZBNUZDWkZVWjFfWjRLYkNfNG5WSFlDd01ZNmNzX2lQZ3Z0bFRiTVlIZk5oTVdrYzhRaXk0d1V4anc?oc=5",
-      "summary": "AI giant Anthropic in talks to lease massive Bastrop County data center, sources said KXAN Austin",
+      "company": "Meta",
+      "title": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1dpZkpRNTdHQnBteE41RWozaUdXT2xrZGk1SXNzZ1M4WXVuTEluUkt0STNVUWJOandjY1FqV21JNksyYlhDNDRSOGxYYzdCODNwa0tkbjU3SXFjeTJKN1NVVzdfRHgzXzdvUDhuNUNSNkxQNndqVGJWWXFLc0JoSFBYdDlDNFFwZGxlenpYYmJxX2FDLUJrX3NzX3dodG9Gc2FGcG5fczFEamxfYjNLVWg2V0g3TFE?oc=5",
+      "summary": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch PYMNTS.com",
+      "badge": "hot",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is developing an AI glasses kill switch - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlVTV29tZk9NanNNV0tydzFiLVA2TER2UHRLczZ3REdoa05LSE1mMkJyT0hBdGdUWDVzbHo4SE5abjIzLWROS2tVTWFXSGJIb1VxcVlXb2Z1enRKVjV1TFJiVXBKcEtVOUlWZXFLdWFyd2Y3cjE3STRTRTRmMWdNZVF5aVkwZWxudXduWFRRN2VmOEJ0?oc=5",
+      "summary": "Meta is developing an AI glasses kill switch Social Media Today",
       "badge": "new",
       "date": "2026-08-25"
     },
@@ -298,42 +378,10 @@
       "date": "2026-08-25"
     },
     {
-      "company": "Meta",
-      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails The New York Times",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta to launch Hatch AI agent platform in coming weeks- The Information - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXVCbUl3alRMeUVSSmRXa1c5Y0VJVV9YN0NmTktmaHRNQnFhQk5lN3lJczVoYWZ4ZF84Zk1NZXVQSWNZQVNTSExpV2RsdmdRZWZVa3o3SE1WTk85RWdUMTlPTFZiQ2dkOEdQeTNJV1ltOTE3VEpuNi1mM2ZoZ0hiN1FMMnhlc3g5WTVHLVRPNDlKQXhWYmIxR1RtbnVUR0s4cHRLc0hHUk1pTTMwbHBKRGloRGk1OVNzNWdWbklBVk4ycUZGMnFFRTY3dlM?oc=5",
-      "summary": "Meta to launch Hatch AI agent platform in coming weeks- The Information Investing.com",
-      "badge": "hot",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1dpZkpRNTdHQnBteE41RWozaUdXT2xrZGk1SXNzZ1M4WXVuTEluUkt0STNVUWJOandjY1FqV21JNksyYlhDNDRSOGxYYzdCODNwa0tkbjU3SXFjeTJKN1NVVzdfRHgzXzdvUDhuNUNSNkxQNndqVGJWWXFLc0JoSFBYdDlDNFFwZGxlenpYYmJxX2FDLUJrX3NzX3dodG9Gc2FGcG5fczFEamxfYjNLVWg2V0g3TFE?oc=5",
-      "summary": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch PYMNTS.com",
-      "badge": "hot",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is developing an AI glasses kill switch - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlVTV29tZk9NanNNV0tydzFiLVA2TER2UHRLczZ3REdoa05LSE1mMkJyT0hBdGdUWDVzbHo4SE5abjIzLWROS2tVTWFXSGJIb1VxcVlXb2Z1enRKVjV1TFJiVXBKcEtVOUlWZXFLdWFyd2Y3cjE3STRTRTRmMWdNZVF5aVkwZWxudXduWFRRN2VmOEJ0?oc=5",
-      "summary": "Meta is developing an AI glasses kill switch Social Media Today",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
-      "summary": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs VentureBeat",
+      "summary": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs VentureBeat Now Perplexity is trying to get into the local AI action The Register Perplexity, ",
       "badge": "hot",
       "date": "2026-08-25"
     },
@@ -410,14 +458,6 @@
       "date": "2026-08-24"
     },
     {
-      "company": "Anthropic",
-      "title": "Scoop: Anthropic candidates face blunt money question in job interviews - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklqampjeURCbHdfR3J2ZEdOUG1hdnF6T3dMd0lKbVQyRE9ESWFsNkFxRnBxNlRnY1RLd1duUEZabVRvMWhHWXh4ZzhRNm1haC1XY2hmZF90LVRZVzItdTVudUtBb2g3eWZpXzNwdDI5RVVyR29FeWxJNXFneVJWZ0xQTGtZdFNQTjlGRHpn?oc=5",
-      "summary": "Scoop: Anthropic candidates face blunt money question in job interviews Axios",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
       "company": "Microsoft",
       "title": "HP 14-Inch AI Copilot Laptop at 40% Off Now Costs Less Than an Entry-Level iPad, With a 1-Year Microsoft 365 Subscription Included - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUXZ0a3lJYlFrQ0JNbFN6ZmpXRWRSTE9zZnlQSEJ5Y1d2MDZ4OHNuU1gyMTdMTmtJUklGU0hEVWlPV2k1Wnl3VHV3NjU3Q3Q1LU5jN2pPTmptOG5hN3lrWFltZ3NLNmhreEFvYWhmRERDTnNqV3RKR2JoRnNvaEsyaTU4eFVrdTJFVEI3bFFGemRraGxhdDZKQ3FoR1FNNXI4RkZ0cEt3M0ZRdXRJcVpIOWJ0ZHlfMGRUSm1oOHZObHQ2SnRYQU15b2M5dlBjWWNHakxfWkg2R2tST2xfRGpBc09ibWtOX2lrUzJQaGRBbGk?oc=5",
@@ -434,50 +474,10 @@
       "date": "2026-08-24"
     },
     {
-      "company": "Microsoft",
-      "title": "Researchers Sweet-Talk Microsoft Copilot Into Stealing Data - CPO Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejI5OUR1MHJzYlBoRmVuT1ZFX2NCUjVUczVydnp2Vk1xTl8yRGRvVm1FQktKaXVVdkJCLTN6TWItemxqeU1vMkgxQUx6YjBqVWZVejZhc01SYzJXRlFfTDY3NEVEeTNDejFBeG9oRURFaDZnN1pGUmIyWmlOU2FGaFI3VWNkQ0ozMnUzUzloMnM5UlRROFNyNkpIQWpBYUYzempHeDVR?oc=5",
-      "summary": "Researchers Sweet-Talk Microsoft Copilot Into Stealing Data CPO Magazine",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
-      "summary": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks The Information",
-      "badge": "hot",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Meta",
-      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet - Engineering at Meta Blog",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR21wcW5UUC1CbExfZmQ3QV9vVjhSMkVvUnpnd0s1WnFQOXB4cVFEOXoyUDhYRWo0ZmU0S1pwNDlyM0pEMjZjWUpsZDR0dkdUcGxkQjRjTVFZRDZUU2dWa0tIdmtwMi1mUndndDlzZXh3N2FiZ213WjJFclNSOURJeUlEak1ndEdhYklhZ1hpTXlhUXkzTWJMOQ?oc=5",
-      "summary": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet Engineering at Meta Blog",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5",
-      "summary": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation The Information Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports Reuters Nvidia Consid",
-      "badge": "new",
-      "date": "2026-08-24"
-    },
-    {
       "company": "OpenAI",
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "badge": "hot",
-      "date": "2026-08-20"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "badge": "hot",
       "date": "2026-08-20"
     },
