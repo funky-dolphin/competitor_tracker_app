@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-27T21:36:47Z",
+  "updated": "2026-08-28T08:37:08Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5",
+      "summary": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk CNBC Judge says Pentagon's measures against Anthropic were 'illegal and baseless' NPR US judge blocks Pentagon blacklisting of AI firm",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
     {
       "company": "OpenAI",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -19,6 +67,22 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic unveils new framework allowing AI agents to operate physical devices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA?oc=5",
+      "summary": "Anthropic unveils new framework allowing AI agents to operate physical devices Reuters",
+      "badge": "hot",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRE9pN0ZXS1ItNVdDQmJZbGtPYzdQRUJtaEF5cU8yajZGRkFzUC11WXlqSDViZS1feTJ2a05iQTNveG1UeThiNVNKUFU0d21NMkFiWTVFQjdHbDBhVzlEbEp6d2FvQVVVR3VwWnJIUGV4U0p6VlR0U0dhYWhFSm1rMUZJbzhiT0V3TVlSeGFMZVhzSlVzSXVwYkpUVlNqZjhSX3JwZ2hLRmRrZVJldm5qcFh3b3dIVWtycWJXTXRQaG1IcFFs0gHKAUFVX3lxTFA4X09HaXl2TVgxZWVFWkxZZmU0UC1RUXB1cEkwZFRPNkIweVh5b2J2aHlhRFludUpfMU9SdHpqdkItVUV4OUdnaU54UkpiWnhXVVNXUEZpNl8wNkkwdUNGalRTSzFhdnE0WjN0dmotV25QQVRwcnhZVERwMkdNUDZ0X0NGZWdIYm9oc3B4YmRXd1puNXpwY2p1MFpKRU9FbnBPNzBhODNraS1EeFRRbzZCaWZTY2R3aVcteG1LY1VXcmtJSlE4dkZOOXc?oc=5",
+      "summary": "Anthropic pushes into physical world with new standard to help AI agents operate machines CNBC",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Anthropic",
       "title": "Previewing the Model Hardware Standard - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
       "summary": "Previewing the Model Hardware Standard Anthropic",
@@ -27,41 +91,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnU3QkdiNk1jYklqWmJZWXlJbGlCWUhjTEM5REpHcFJxX0c0ZndUZUFnTDJVNWJKQ1dnN2Z6QkxJSHdhYmlkN2p5blZUUFUxaTdBWXJUcl9WaHNyVjN3M0N3RzBPZUNRaHBZdkU0YmtvRDc1MzBkME9EamdoYTEwYlU3QTJ5RmtmV2dKdHpWMm9EY3hURkFhYS1DSWVmSVVPS28xaEEwbklDMTU5Yk1kM2RjZHZveVhhV1pUTF90R0ZWaE9pcUkwSXNn?oc=5",
-      "summary": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools Bloomberg",
+      "title": "Dario and Daniela Amodei: The 100 Most Influential People in AI 2026 - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EQ2xfQmdVZ0lfWFNkWXlEX25Ra2t2NFVGb0VzbFVYWWgzNG5sY1hneXNJcHU4VEpXaXFZRUtwX1ZqZjhYWkVuekhFbGxEWXBlQXVvMzJGWmliNkxpYkZqTTRMTUJTNGdENGgtYnF3eWRDeXJDSUtGWjVwUHM?oc=5",
+      "summary": "Dario and Daniela Amodei: The 100 Most Influential People in AI 2026 Time Magazine",
       "badge": "new",
       "date": "2026-08-27"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic unveils new framework allowing AI agents to operate physical devices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWhmNnhIejBEcG1zQWRzeWtHbVZCOUtZZmtraGJiNHdjVzdpU3liY2VfZTF0X3pUUl8tNWN1TXMxcTNqRk9xRXRTZ3VGQUV2MVl1MllqWHpCby1ua2R2VWJJR1hRUi1aTWJxQ1lXWHBEcklUb1hZS3dkTEZkSDFxUjNzbFFiZUktaXJ3WGJRUjF5RHROREJSd2c3N0RfRkNIbzNxd05GdnJ4VnZma0R5QU5QTEJwOG1aUmZuaERmMA?oc=5",
-      "summary": "Anthropic unveils new framework allowing AI agents to operate physical devices Reuters",
-      "badge": "hot",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5",
-      "summary": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. The New York Times",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDBMR3lILS1vUWwyQkNMUm13YWNlNVRNUER4ZFZNWmhzRVRyV3M4c21VRkFDOUtoR0xsWXIyQzlEM19mLWhpYzBkOHppLVBDOHktWFhKc2xYTmJrVTdCMmFmQzVoWTd4QTdtc3NaTTdzYXlVMEkycTVITXlkTnl4bjBfNGdiSHRlYmstWTBsZzg1U2NUckRESjBGOA?oc=5",
-      "summary": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter Business Insider",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s plans to replace workers with AI fell flat, report says - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnlWVUR0RHpySk1pampXS25SRFMzNGo0UVd6Z0dDV2pLRlhLN2dBRWdmemtpVUlsbmU3bnRUcDBONzlGX0NzMnVoejZ3cnoxZWd0ak1QaFBRQnZvM191MnpHREN4aWF6OEphZjJxZEd5YjRGZHBFUzdwemFPQ054MGJ2RGJqY3Vta19mdVZhbGI3eVpWNE1yaXdHcjIwR0JsRHV2T0ZFbml5d2ZVWEdNOA?oc=5",
-      "summary": "Meta’s plans to replace workers with AI fell flat, report says Computerworld",
+      "title": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnU3QkdiNk1jYklqWmJZWXlJbGlCWUhjTEM5REpHcFJxX0c0ZndUZUFnTDJVNWJKQ1dnN2Z6QkxJSHdhYmlkN2p5blZUUFUxaTdBWXJUcl9WaHNyVjN3M0N3RzBPZUNRaHBZdkU0YmtvRDc1MzBkME9EamdoYTEwYlU3QTJ5RmtmV2dKdHpWMm9EY3hURkFhYS1DSWVmSVVPS28xaEEwbklDMTU5Yk1kM2RjZHZveVhhV1pUTF90R0ZWaE9pcUkwSXNn?oc=5",
+      "summary": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools Bloomberg",
       "badge": "new",
       "date": "2026-08-27"
     },
@@ -83,49 +123,41 @@
     },
     {
       "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Apple",
       "title": "Apple opens Advanced Manufacturing Center in Houston",
       "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
       "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5",
+      "summary": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. The New York Times",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDBMR3lILS1vUWwyQkNMUm13YWNlNVRNUER4ZFZNWmhzRVRyV3M4c21VRkFDOUtoR0xsWXIyQzlEM19mLWhpYzBkOHppLVBDOHktWFhKc2xYTmJrVTdCMmFmQzVoWTd4QTdtc3NaTTdzYXlVMEkycTVITXlkTnl4bjBfNGdiSHRlYmstWTBsZzg1U2NUckRESjBGOA?oc=5",
+      "summary": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter Business Insider",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg is buying Meta a seat at the AI table. Does he know what to do with it? - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamtVVjk2ek1CZ1JTOFFzZGo5VGpDUzROVEVSc3ZILVhzSTdpQWEyVkxNRVlwTURLVVBqUW5UdnMxZTNfRlcxaDVtckp1TnVhdHgxOGtESVFNLXFVaTIxX3FqNTdEeGFUbmhGY0hrc2FqeGJManN5UlRfU0hQRG1JR3BvdThCTVpkRmlfcVhqYXo?oc=5",
+      "summary": "Mark Zuckerberg is buying Meta a seat at the AI table. Does he know what to do with it? Fast Company",
+      "badge": "new",
+      "date": "2026-08-27"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s plans to replace workers with AI fell flat, report says - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnlWVUR0RHpySk1pampXS25SRFMzNGo0UVd6Z0dDV2pLRlhLN2dBRWdmemtpVUlsbmU3bnRUcDBONzlGX0NzMnVoejZ3cnoxZWd0ak1QaFBRQnZvM191MnpHREN4aWF6OEphZjJxZEd5YjRGZHBFUzdwemFPQ054MGJ2RGJqY3Vta19mdVZhbGI3eVpWNE1yaXdHcjIwR0JsRHV2T0ZFbml5d2ZVWEdNOA?oc=5",
+      "summary": "Meta’s plans to replace workers with AI fell flat, report says Computerworld",
       "badge": "new",
       "date": "2026-08-27"
     },
@@ -202,26 +234,34 @@
       "date": "2026-08-26"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic to Pay Nscale $45 Billion for AI Computing Power - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzVZckV2QWFDb2xsVWN6OGhuamVpbENEQTZxZWk3SjFxVWxhSlVWeERya1lGM0dzbGx0RGlsMU1kLWhxcFQxVldKZThrR01CUS1Gcnhya0NEMGk2aklKMnZIRHIzZlNlTWRIekdlQ19jaU5NczBNUmpqY1hWVlVTbTFVclF2dWRGUVZ3SUN2NFp4OXA3QktYcW5LWWNHZWtmMDBxVFItc2FBS3Iy?oc=5",
-      "summary": "Anthropic to Pay Nscale $45 Billion for AI Computing Power Bloomberg",
+      "company": "Microsoft",
+      "title": "Microsoft's latest rebrand proves that it just wants to shoehorn AI everywhere - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalZHaFZLdldHbEFoQW1QX0Z6SUxHNUZDY3h1ejUzbUFWU2tiemxuamRYeUVfcGFnbzEtUk50WEVfWTJkZXZ4TVlHQ0g4ZkhPSUYzVk40LURDUThoU3lUQy1jZEI5MkJTVEFRNDA0Zk5IOVFydzhLaXQtaUQzZkcxQ2pCVC12WlA1bjdtYm41NDJmZEV3TFRDcmIxUkFORDF5bDhWQjhWRkZUelJ0V1lr0gGoAUFVX3lxTE0tQlYxeDNreGRxeElXX0c5ajRZdmZkOHBFbU45ZEcxVVkyQnRHaE5vRnhnRjBNdGJtVGJHWHBBSWtzZmpWV3NpTGswa2tmdmxqNXNsWHhBX1pvVXEya0dPdVk4dURSaFc2UWxLTDdsYW9Kd2o4M3p1VEJydUcwX0xSUmU3NWZfYWkzUUd4MWh4NWd4RmYzSGdLdnRic2U5S3A1NXY2ZkF6Sw?oc=5",
+      "summary": "Microsoft's latest rebrand proves that it just wants to shoehorn AI everywhere Neowin",
       "badge": "new",
       "date": "2026-08-26"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHkzbVhyLS1hNG8xcnI2cXhwUnE5N01KZE5sRnJRNnNfcHExOGlDYl9JM05XTlRVMUJCM3pRbmNfNEd5NllyVkxXdUc2ZU5OMl9pVUNoZ0taV0U2eVZ3MkZDZ0lLZ29fLWNObzBhYmpDdnpQMVdHanp0bzlXekVUT1hIM1FEV1BBYVpiQW50M3czTEJYZ2ZVUkVkUnhrbFXSAaQBQVVfeXFMT0VLWU96MG5fRksyN0FHZVF6RUExb2R4UlhScjJGUzRLejc5aXctcVpEUkVSd0lBa2d4cF9xSDZlaXJ3MzByZEpsN08yQU4wcnRSaDVIR3AtaGlCdG9SbVUwOU91Tk9QSnVoclRNdEEtMUhnRnd1LUNrV2h6MTIyVHUzazVUT3JpcGlldGlLdjZLRU9BV3VWMXhhNXZ2RzZNcFdqQWU?oc=5",
-      "summary": "Anthropic and Nscale strike $45 billion cloud deal, sources say CNBC",
+      "company": "Microsoft",
+      "title": "Microsoft Paint AI watermark raises privacy concerns - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FLUItSVhMVDhocGNKODRkelVVcGdtYklkeGJGeldPR1hZZzkzYWtjMDgxcElTNC02T3ljcmZHQUhNcVd4Si1TOUNaczd6LTRRRGVNSklzVXQ1Y1hxNXlCXzhVY1MxOXJkUHJrZ2xWX1RDOW1hNGhESw?oc=5",
+      "summary": "Microsoft Paint AI watermark raises privacy concerns Cybernews",
       "badge": "new",
       "date": "2026-08-26"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic to rent AI computing power from Nscale for $45 billion, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEZ0RVh4UE8tSXpXc3F4VXU2N0k1dk93YWNPMFNnQV9ucTU1bi0zZnJqTTJxNFpjTGczVmItNVhicEpTZmN3X2JySUlMZXo0c2RKcVQ3NkEzb0tGeHRKNXBFMWFqeXppMDF3ZVRjWjc5NTZqaUVRMm1adzFCOU96QzFGaGhYbm5PQ1RBc3lLcVpWbUZ1bDhwekV3X0NUQmpodW9iTUo1aFNJNkJhWHFPRE94Z3RIVzgzZEVycVpWbERvcVk?oc=5",
-      "summary": "Anthropic to rent AI computing power from Nscale for $45 billion, source says Reuters",
+      "company": "Perplexity",
+      "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVZRbXlrX29mV1BFWW5aSlNRTTdPaU5NcFlFeW5zMXVYVlVuOXJkUVR1ZU44TTlWNE81dFBYcDR5NWxZWTlCbl8wX2cwWEIzUTVLbms3elFwZ1lZTjNsUzhlVFdmaWVtcDMzbGlVNTAySTVsRzFIU1FPZTE2WEhLVkFWUmFSVll5MVdxTTRoTkp4amtWNVNuUl93VHdkeHJR?oc=5",
+      "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd093RTRnYmk5SHZHdkhNZDhxWm1DU3BaZkdWNXVkdThhd1dCZzNUN3JGUXNpTVFZZ2RpSDJmM3BzTnZHb1ZMcjhRR0ZBUEVlWDZTZG1DWXdMejB1OWFQYmEtd3l3UVdDYUJ6T3NlcjdtLXZLOE1ac3UxZE93OG9McUpSWkdtSVMxODVsTkNwblNyaUt6MzZ2ZFNpNVR4TkJmQUhMY1otcW1yY0JUeVMtUjhmdzA5b3BZMzRnRlVzT0h5ZERsT09ZT053?oc=5",
+      "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Barchart.com",
       "badge": "new",
       "date": "2026-08-26"
     },
@@ -229,7 +269,15 @@
       "company": "Meta",
       "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
-      "summary": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. Reuters",
+      "summary": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. Reuters Mark Zuckerberg’s Botched AI Makeover of Meta New York Magazine AI agents meant to replace Meta workers m",
+      "badge": "new",
+      "date": "2026-08-26"
+    },
+    {
+      "company": "Meta",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE5obFRWRzVJRDJxbThWYzh6eFZ6N2c2Z2xyYnJkMjFSUGdFR1dFa3lKTVBXaFV3cTg4eXNJS0ljU1BzY0kwV24yd0FyOHY3RFpibVlFbTBxU3VObVNSTDhHTjAyUktjOWJLRzl2b3Jhclo4WUJsdlJXVU9OOWotbjN4d0thMmhjUzdMUWNYUFFreEs3QXRmSmdpNWVNMTQ?oc=5",
+      "summary": "Ex-Meta scientists want to bring visual AI to the factory floor TechCrunch",
       "badge": "new",
       "date": "2026-08-26"
     },
@@ -262,54 +310,6 @@
       "title": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGNxazdtc2NaY0kyLUQxT1YwVV9aUEhSTWowdGxoYjByb1d2cjJXTTk4TGcxSTgybGplUVZKZ0Z4YUI5VzZDcTc4bmJYcmlYTXNjaG1jM0EwN2prdVlnUFhULXFLV1NwUUh3enV1MmhtT195VVQ1YThpOU5KQ2RsM1I5YlhiODR5U0lCOWQzSHFSVmRqUTBockZZcGxBSU1CYVJsS1ZRaDItdw?oc=5",
       "summary": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt Reuters",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Explored Cutting Some Teams by Up to 60% as AI Productivity Fell Short - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0E4YkphaElRSHJYbmt3MHktWFlMU0Q2VUdGOFNIUnJBcDU3Z1Y1WTh5MklVcHZVaXpvcjFYX29OR2ducVBfa2ZSdEZOQU5XRUFCT2g1QkZZb01HZ2dqSXluZEFEcFFkSC1BZWlsVU8tN1dzWm42eWRnSUFVSUN2dFJBRXA2aUlsQ0pWd203SDRNeXk3ZjhQa2lFM0lfR1Q4d182YndQOA?oc=5",
-      "summary": "Meta Explored Cutting Some Teams by Up to 60% as AI Productivity Fell Short TipRanks",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft's latest rebrand proves that it just wants to shoehorn AI everywhere - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalZHaFZLdldHbEFoQW1QX0Z6SUxHNUZDY3h1ejUzbUFWU2tiemxuamRYeUVfcGFnbzEtUk50WEVfWTJkZXZ4TVlHQ0g4ZkhPSUYzVk40LURDUThoU3lUQy1jZEI5MkJTVEFRNDA0Zk5IOVFydzhLaXQtaUQzZkcxQ2pCVC12WlA1bjdtYm41NDJmZEV3TFRDcmIxUkFORDF5bDhWQjhWRkZUelJ0V1lr0gGoAUFVX3lxTE0tQlYxeDNreGRxeElXX0c5ajRZdmZkOHBFbU45ZEcxVVkyQnRHaE5vRnhnRjBNdGJtVGJHWHBBSWtzZmpWV3NpTGswa2tmdmxqNXNsWHhBX1pvVXEya0dPdVk4dURSaFc2UWxLTDdsYW9Kd2o4M3p1VEJydUcwX0xSUmU3NWZfYWkzUUd4MWh4NWd4RmYzSGdLdnRic2U5S3A1NXY2ZkF6Sw?oc=5",
-      "summary": "Microsoft's latest rebrand proves that it just wants to shoehorn AI everywhere Neowin",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Paint AI watermark raises privacy concerns - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FLUItSVhMVDhocGNKODRkelVVcGdtYklkeGJGeldPR1hZZzkzYWtjMDgxcElTNC02T3ljcmZHQUhNcVd4Si1TOUNaczd6LTRRRGVNSklzVXQ1Y1hxNXlCXzhVY1MxOXJkUHJrZ2xWX1RDOW1hNGhESw?oc=5",
-      "summary": "Microsoft Paint AI watermark raises privacy concerns Cybernews",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Here are all the new features Microsoft added to Excel in August 2026 - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV05YNUwxTFNVbUNmNV96ai1DNW1yMTEwZzN0Ny1OUmNiNUgxMkFUel80aHBWVTVJbVY3dGl6WkJQVGxUd01pMUNoSkVvaFdBTk10NW1WZHdmLVg0TlhLOWhwaTdXMVpRdnlZcV8zdnAyTTB6U1A3cmFvX2tRLVBwWXFQVDlWWWdnTTg1VnJ4NzAtRE1BSWVtd1NpcU82cjjSAZ4BQVVfeXFMUEFNcmNBa3JyVWNweFhERm9mQ08zamcwMi1kNnpnbmNvbjFibU9PMXpxWHdONWIxZ2MyTllFMmxzM3oydjRQTEZyaFBWUjZWLVQ3NU44c1VCSW9KNUNqZU1xWm9EUnR1ZWpPQmF0ckRzUlc1WXpFb0dCaXpCSUNHNlE0YWZSX2ZQekFENmVSMW03ZVhhWThpU1pjTE9KWEE?oc=5",
-      "summary": "Here are all the new features Microsoft added to Excel in August 2026 Neowin",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVZRbXlrX29mV1BFWW5aSlNRTTdPaU5NcFlFeW5zMXVYVlVuOXJkUVR1ZU44TTlWNE81dFBYcDR5NWxZWTlCbl8wX2cwWEIzUTVLbms3elFwZ1lZTjNsUzhlVFdmaWVtcDMzbGlVNTAySTVsRzFIU1FPZTE2WEhLVkFWUmFSVll5MVdxTTRoTkp4amtWNVNuUl93VHdkeHJR?oc=5",
-      "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd093RTRnYmk5SHZHdkhNZDhxWm1DU3BaZkdWNXVkdThhd1dCZzNUN3JGUXNpTVFZZ2RpSDJmM3BzTnZHb1ZMcjhRR0ZBUEVlWDZTZG1DWXdMejB1OWFQYmEtd3l3UVdDYUJ6T3NlcjdtLXZLOE1ac3UxZE93OG9McUpSWkdtSVMxODVsTkNwblNyaUt6MzZ2ZFNpNVR4TkJmQUhMY1otcW1yY0JUeVMtUjhmdzA5b3BZMzRnRlVzT0h5ZERsT09ZT053?oc=5",
-      "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Barchart.com",
       "badge": "new",
       "date": "2026-08-26"
     },
@@ -354,14 +354,6 @@
       "date": "2026-08-25"
     },
     {
-      "company": "Meta",
-      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails The New York Times",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
       "company": "Google",
       "title": "5 ways to upgrade your home decor with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -383,6 +375,14 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPdFdSLUF4MVlFQzdYdmNYMi03SnhFd3hDcEpCYnd5UmdKRTEtWWdyWVhQVkdzT1VBQnZ2TFVqeEN3NkdkWTNaem5JVmloUGw5VVhYMUd4YkhMd1VHSUU1T01RT01DVE5xbUt4NElyQTUweXE3ejlsWFY1MG5hQ3BMdlBHQkYzc0tYVHhsVTJNV2I0OVVuR0FhQ1REQlVBNnE3eFByR3B6cnh1cm1tMTJSRUVfM19oRWJRWHRNcEs0dndGcFZBRTA5UnFOUXc0QnNlNUZBN1ViQ0NuYnRrNGFwM2J2c1hOYzNBMFFGdW5uWEFhV1RIcVNQVWZsamlva0l5cmRHSnNqM1JJYWJRbVZqazJ4TElWc0kzdDF1T2oxWG1HbWEzMXVVa2JLU2ZVMlk?oc=5",
       "summary": "'The version Microsoft will build should be known as Copilot OS': Windows built around AI may not be happening, but leaked concept remains a grim portent for desktops TechRadar",
       "badge": "watch",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Here are all the new features Microsoft added to Excel in August 2026 - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV05YNUwxTFNVbUNmNV96ai1DNW1yMTEwZzN0Ny1OUmNiNUgxMkFUel80aHBWVTVJbVY3dGl6WkJQVGxUd01pMUNoSkVvaFdBTk10NW1WZHdmLVg0TlhLOWhwaTdXMVpRdnlZcV8zdnAyTTB6U1A3cmFvX2tRLVBwWXFQVDlWWWdnTTg1VnJ4NzAtRE1BSWVtd1NpcU82cjjSAZ4BQVVfeXFMUEFNcmNBa3JyVWNweFhERm9mQ08zamcwMi1kNnpnbmNvbjFibU9PMXpxWHdONWIxZ2MyTllFMmxzM3oydjRQTEZyaFBWUjZWLVQ3NU44c1VCSW9KNUNqZU1xWm9EUnR1ZWpPQmF0ckRzUlc1WXpFb0dCaXpCSUNHNlE0YWZSX2ZQekFENmVSMW03ZVhhWThpU1pjTE9KWEE?oc=5",
+      "summary": "Here are all the new features Microsoft added to Excel in August 2026 Neowin",
+      "badge": "new",
       "date": "2026-08-25"
     },
     {
@@ -435,33 +435,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - Venturebeat",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
-      "summary": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs Venturebeat",
-      "badge": "hot",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Launches Local AI Model That Will Run on Your GPU Instead of the Cloud - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzVfQml4N0tXV1hOd3JfNzRiOURvZTYzTzk1dGFBT0V4UkxYSVFUVkVSdFlGazJVLWticGJTeFhBZDlxQXNZSFNlenZ3cEM0c3huTVdicFRnTVE1OEVJYmd2ZUtEYTNOLVJkSmJzZjZyM2ZBLS1JNnBmS2JMVVpNaFUtQUJMVFoxV0pUd3FNUVg4cEcwM2VkRnZfTnlTSk5tNlJkSFptQi1qbk1KUmhZVXJR?oc=5",
-      "summary": "Perplexity Launches Local AI Model That Will Run on Your GPU Instead of the Cloud Gizmodo",
-      "badge": "hot",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHRwU2FtbzZQemFpVlQ4ODZ2NFdDQUwzYTVLRy1rVk4yb2ZKZUFIRG12V0tHbmduMk9yMmtuMjNYa2gyTXNRQlMtMGhmQmFfRDFVbEk3TVNRTWpMMW1XLW5wcDNvb05MLWFNWDcyVjJVR0NaUzVaSnhFRzVFRkhERVdRMHM0QVlRU0R2MFJDSVhzM2oxelJ4WGhQY3ZjUmRSWGtlOElsb09sN0hLRmFLb2dIeGowREhyWjdrVmRDblBWY0ZFODFhODB1NA?oc=5",
-      "summary": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers CNBC",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5",
-      "summary": "Perplexity AI launches Portable Computer on-device AI agent SiliconANGLE",
+      "summary": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs VentureBeat",
       "badge": "hot",
       "date": "2026-08-25"
     },
@@ -475,10 +451,34 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHRwU2FtbzZQemFpVlQ4ODZ2NFdDQUwzYTVLRy1rVk4yb2ZKZUFIRG12V0tHbmduMk9yMmtuMjNYa2gyTXNRQlMtMGhmQmFfRDFVbEk3TVNRTWpMMW1XLW5wcDNvb05MLWFNWDcyVjJVR0NaUzVaSnhFRzVFRkhERVdRMHM0QVlRU0R2MFJDSVhzM2oxelJ4WGhQY3ZjUmRSWGtlOElsb09sN0hLRmFLb2dIeGowREhyWjdrVmRDblBWY0ZFODFhODB1NA?oc=5",
+      "summary": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers CNBC",
+      "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity and NVIDIA team up to release a local AI agent - How-To Geek",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW42SEZFMWNEdC1XZElHVXhaTkZiamhzQ2V6bUY3SkJEcG5pUllzQlNjNk9Zd0lnZm5qc2FNYnpBYUVuamRRRk5NdkxrZENzUEFKMHYxOEhjN0g5OXlQWTVySDRsM2NvM2tKVElYMzBUZ25Penl3b3MxMnhCaEpNNnBoemZINUk?oc=5",
       "summary": "Perplexity and NVIDIA team up to release a local AI agent How-To Geek",
       "badge": "new",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Launches Local AI Model That Will Run on Your GPU Instead of the Cloud - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzVfQml4N0tXV1hOd3JfNzRiOURvZTYzTzk1dGFBT0V4UkxYSVFUVkVSdFlGazJVLWticGJTeFhBZDlxQXNZSFNlenZ3cEM0c3huTVdicFRnTVE1OEVJYmd2ZUtEYTNOLVJkSmJzZjZyM2ZBLS1JNnBmS2JMVVpNaFUtQUJMVFoxV0pUd3FNUVg4cEcwM2VkRnZfTnlTSk5tNlJkSFptQi1qbk1KUmhZVXJR?oc=5",
+      "summary": "Perplexity Launches Local AI Model That Will Run on Your GPU Instead of the Cloud Gizmodo",
+      "badge": "hot",
+      "date": "2026-08-25"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5",
+      "summary": "Perplexity AI launches Portable Computer on-device AI agent SiliconANGLE",
+      "badge": "hot",
       "date": "2026-08-25"
     },
     {
