@@ -1,21 +1,13 @@
 {
-  "updated": "2026-08-30T20:24:37Z",
+  "updated": "2026-08-31T03:02:46Z",
   "signals": [
-    {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0ZqeXlZb19BNzJuZ0N2bXFhRF9xRkJURlA2MXJPRkQ3eGp6VnJIRkxqVk5vTURVdVl4bVpkLTd5d0tEcTQxZ2Itei0zUlNMUFRrM0ROTllIOThILU9tYzI0ZHY1ZXRlYlVXNTB4TUtBbmlXcFNYVU9LT3U2ajl2ajBuNng2dENRdWpFT3RmOTJVTkNRRWFpYXdFdWdtcXAxNFdpLXlnYWJxYW9iTVE?oc=5",
-      "summary": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not. Business Insider",
-      "badge": "new",
-      "date": "2026-08-30"
-    },
     {
       "company": "Apple",
       "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
       "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
       "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
       "badge": "new",
-      "date": "2026-08-30"
+      "date": "2026-08-31"
     },
     {
       "company": "Apple",
@@ -23,7 +15,7 @@
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
       "badge": "new",
-      "date": "2026-08-30"
+      "date": "2026-08-31"
     },
     {
       "company": "Apple",
@@ -31,7 +23,7 @@
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
       "badge": "hot",
-      "date": "2026-08-30"
+      "date": "2026-08-31"
     },
     {
       "company": "Apple",
@@ -39,13 +31,29 @@
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
       "badge": "new",
-      "date": "2026-08-30"
+      "date": "2026-08-31"
     },
     {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
       "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFpaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
+      "summary": "Sony Music, Warner sue Anthropic, alleging copyright infringement Mashable",
+      "badge": "new",
+      "date": "2026-08-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0ZqeXlZb19BNzJuZ0N2bXFhRF9xRkJURlA2MXJPRkQ3eGp6VnJIRkxqVk5vTURVdVl4bVpkLTd5d0tEcTQxZ2Itei0zUlNMUFRrM0ROTllIOThILU9tYzI0ZHY1ZXRlYlVXNTB4TUtBbmlXcFNYVU9LT3U2ajl2ajBuNng2dENRdWpFT3RmOTJVTkNRRWFpYXdFdWdtcXAxNFdpLXlnYWJxYW9iTVE?oc=5",
+      "summary": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not. Business Insider",
       "badge": "new",
       "date": "2026-08-30"
     },
@@ -59,9 +67,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
+      "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft TechCrunch",
+      "badge": "new",
+      "date": "2026-08-29"
+    },
+    {
+      "company": "Anthropic",
       "title": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit - Music Business Worldwide",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONzV0ZEROLUxEM0gwRHJMc2VlMnh3N0R1c09wbFcta2tsV2JpbnA5UE1TR0Vrd0hwQnN0MHV4bmVYaGg4aVo0TXhKeUxCN3dNZXprQkU0dVM0MXhDZ2pURGQxREdxS0paSkZwaGxpWS1GRUVrS3k2OUU1V2ZFb1JodE8tVlJVSmdnRnZsZmhTUnNaLUprR2l2eEk4QVFTVHh4a3A5SjdqWk01YjdoV2tvTEh5b2oxaWRPcDBkUzZQR0o4VDBLWURJWFdNOHFJZUZZaE0yZU0xYzFjbW93cDNqVE1OZXRwWkhwZWhsdC1Lb29vR1JBMTFlOHBPSFhSS0xNZW5UTEV1NW9CclJhb3lVRDRybjhZSllxNnZ1ekRsaUFSTGFseHl2WjNTaFM2WDB2d3J2cEVXVm5YOEIzVzRR?oc=5",
-      "summary": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit Music Business Worldwide Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property",
+      "summary": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit Music Business Worldwide",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -78,14 +94,6 @@
       "title": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2UzVXpWdjFZRHpLRWg5NUpJVUlha3lwdVVjVWp2YmE0OWwxV2lXblFQaGpoNFVxRmJ1Q1l3YUlvd0JqWnB1dVhFR01nTTd4QnBJS2tlaG9FTkpWU1NXRDNaeFdjNy15TmVFLXBtUlNBZ253WkxETzFiRzdDck9QUHV6dFRiRFhyd1dOLXBCblFfMVVreE5Md3RvdDBsdHE3RDdid2JVTWxUZw?oc=5",
       "summary": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property Gizmodo",
-      "badge": "new",
-      "date": "2026-08-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
-      "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft TechCrunch",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -158,14 +166,6 @@
       "title": "OpenAI and Anthropic are ruining San Francisco - SFGATE",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5",
       "summary": "OpenAI and Anthropic are ruining San Francisco SFGATE",
-      "badge": "new",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5",
-      "summary": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk CNBC Federal judge blocks Pentagon blacklisting of Anthropic, calling it ‘illegal and baseless’ NBC News Judge says Pentagon's measure",
       "badge": "new",
       "date": "2026-08-28"
     },
