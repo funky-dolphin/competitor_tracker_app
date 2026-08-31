@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-31T03:02:46Z",
+  "updated": "2026-08-31T12:27:45Z",
   "signals": [
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers - Search Engine Roundtable",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZUczQVBPRmowU3IzNGRhLS10RUE0RnBNaHozRExndWN6dWNDQXlJc2dBWE1LMWI1b3h1UElxaTVmaGtLdFh2N19WUDgtOTBXT2ZLcnU1WjNMV2M5bXRzZDk1YkZaS0E0RFBzcFZiNWc?oc=5",
+      "summary": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers Search Engine Roundtable",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
     {
       "company": "Apple",
       "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
@@ -42,6 +50,14 @@
       "date": "2026-08-31"
     },
     {
+      "company": "Perplexity",
+      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
+      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
       "company": "Anthropic",
       "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement - Mashable",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFpaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
@@ -66,18 +82,26 @@
       "date": "2026-08-30"
     },
     {
-      "company": "Anthropic",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
-      "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft TechCrunch",
+      "company": "Meta",
+      "title": "Meta's AI Strategy Is Misunderstood By The Market - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2I2V1E1VVh5aklyQkNsYmVwVTM1T0prbmdfekFmNGRwMENpQWlvcjVkNVpzSnJaeDI2QXpNYlRKV1VPb3czSVZMWDgza2dSRmpOM0FJX19MV1lrbEFJU0pDeFFHdm8wcDlxNTIzdkJLd2VMeXQwc0stcU16VVBMOEpqZEZFdXEzYWZ6QXNkR2tTYzQ?oc=5",
+      "summary": "Meta's AI Strategy Is Misunderstood By The Market Seeking Alpha",
       "badge": "new",
-      "date": "2026-08-29"
+      "date": "2026-08-30"
     },
     {
       "company": "Anthropic",
       "title": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit - Music Business Worldwide",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONzV0ZEROLUxEM0gwRHJMc2VlMnh3N0R1c09wbFcta2tsV2JpbnA5UE1TR0Vrd0hwQnN0MHV4bmVYaGg4aVo0TXhKeUxCN3dNZXprQkU0dVM0MXhDZ2pURGQxREdxS0paSkZwaGxpWS1GRUVrS3k2OUU1V2ZFb1JodE8tVlJVSmdnRnZsZmhTUnNaLUprR2l2eEk4QVFTVHh4a3A5SjdqWk01YjdoV2tvTEh5b2oxaWRPcDBkUzZQR0o4VDBLWURJWFdNOHFJZUZZaE0yZU0xYzFjbW93cDNqVE1OZXRwWkhwZWhsdC1Lb29vR1JBMTFlOHBPSFhSS0xNZW5UTEV1NW9CclJhb3lVRDRybjhZSllxNnZ1ekRsaUFSTGFseHl2WjNTaFM2WDB2d3J2cEVXVm5YOEIzVzRR?oc=5",
       "summary": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit Music Business Worldwide",
+      "badge": "new",
+      "date": "2026-08-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
+      "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft TechCrunch",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -107,17 +131,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmY1dTFqbVdxaUpvam0xaTVGQ1RNbWFlRzQ4UTdYelJ2S3U3SF9aRjN5N0N1NWVhU0FicUZyYndHNFg1WVJsWnhvWnYwYjhvRnJBa3VyekNBb2hLcVo4ZXlGdkJqUF9Ca3RpSUVhai0xN09FRF83T3NqMGpQY0lfSXdRZmhtcm9qRm9ReF9iQ0FXYjFyX2VyNzVFMA?oc=5",
-      "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? Yahoo Finance",
+      "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw?oc=5",
+      "summary": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives 9to5Mac",
       "badge": "new",
       "date": "2026-08-29"
     },
     {
       "company": "Meta",
-      "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw?oc=5",
-      "summary": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives 9to5Mac",
+      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmY1dTFqbVdxaUpvam0xaTVGQ1RNbWFlRzQ4UTdYelJ2S3U3SF9aRjN5N0N1NWVhU0FicUZyYndHNFg1WVJsWnhvWnYwYjhvRnJBa3VyekNBb2hLcVo4ZXlGdkJqUF9Ca3RpSUVhai0xN09FRF83T3NqMGpQY0lfSXdRZmhtcm9qRm9ReF9iQ0FXYjFyX2VyNzVFMA?oc=5",
+      "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? Yahoo Finance",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -195,14 +219,6 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnU5ZVpVWVR0X2tKWmQ3SGtoeVRxaS1pOWYyTTZ1THlKWmFObmM1cXZ4ZlpCT0k5dGtETXFDOHdxTzBjMG1xQlNncE9ZMC1HVjREeUZzaWFtVm1paDNtY01SX3RsMDlkakFCbjV5RDBNQWVaWmF6dHFUNkxiTGl1Ri1tNmFOVWpYTEdQUEN3Y1p0Z21TYXIyOVFR?oc=5",
-      "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly Futurism",
-      "badge": "new",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "Meta",
       "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNYdkVJRERJMFJXNkFXT2xWREZzc01nNnphdTItRFNFTXlWSUtuNi05ZUdDR0xjV1ZqQUZCdDhpNlNoeURrUUxVdEtIVElFUktrZC1TN2o3WThwdXcxRWJQMm9Zc1dfNm1tQ0pvdGV6N2JIMlhsMU8wRWdSVTJTQ1RyRG9uY0RiM0Y0a2d3YTJ0dmlTS01BdkVRUHVYWW11c1VyQ0s2QzZFQ2p2TmNPYkRuckZ4UXNmcjU2c3M0QmpIdw?oc=5",
       "summary": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording Ars Technica",
@@ -214,6 +230,14 @@
       "title": "COMMENTARY: Weekend Reads: Meta's AI revolt, China's power play, Fed's messaging fight - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1JQbV9mOFpmRm40QzM0Smpra2dTSlc2LS0waXJXYlBockpxM2FHeWJJT1I0UU5Nd2tJUFQ4blBuQkEyM3ZBd0NqZXNEcVlaZXNNck9rTm1QS0JFMENhcWw4TWZnNGVPSzh2SmVWU1lETGZ0ZHpiUnVZMkJ5VElSUllUQnNseDNycDdvZHlQZ3NLcXdxN2VJV2ZKRHZOcm9CeGo3NHNwMllRMzltUHplZjgzMVpEeTRkLU1oZEJ0S0Y1dlh0ZGs1UUJ2Sk5WcjBHUHBV?oc=5",
       "summary": "COMMENTARY: Weekend Reads: Meta's AI revolt, China's power play, Fed's messaging fight Reuters",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnU5ZVpVWVR0X2tKWmQ3SGtoeVRxaS1pOWYyTTZ1THlKWmFObmM1cXZ4ZlpCT0k5dGtETXFDOHdxTzBjMG1xQlNncE9ZMC1HVjREeUZzaWFtVm1paDNtY01SX3RsMDlkakFCbjV5RDBNQWVaWmF6dHFUNkxiTGl1Ri1tNmFOVWpYTEdQUEN3Y1p0Z21TYXIyOVFR?oc=5",
+      "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly Futurism",
       "badge": "new",
       "date": "2026-08-28"
     },
@@ -450,14 +474,6 @@
       "date": "2026-08-25"
     },
     {
-      "company": "Microsoft",
-      "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXRwa2lEWTJSZkM5Sk1WX3Nzd0RQaEdrYlBkZkI3UzhxQ0tjcXVLelUtbWFUcmtWdXRycHZxYW5NUnNyYVRSUmhPTk91WFdUNS00NFAya2plb3NkckFJVVNwOW5hLWZhNUFveElYWHg3bThkNDVpQXdYVUVqVGw5cUxqTWdPbEI2bE9OUlFjQnZyWnVI?oc=5",
-      "summary": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations TechRepublic",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
       "company": "Apple",
       "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
       "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
@@ -502,14 +518,6 @@
       "title": "Now Perplexity is trying to get into the local AI action - The Register",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdU1JYlBBZGZ2R1hvbFhEd21CUGIxS2o3bmlPTE9zZ2ZLc1JmOW0tTUs4aUVCU3RUbC1DOXoyN0M5ZHJQOHE5SDhQczZrVGtqYUttWG9ka2N4RkN3Z1UwOVdGSjFrQ3J5bllWLWVFdDFPd1ZYOW5nbmU4UDd1OHRlOWIyMFNNVmE3X1pHbFY5WGZzM0NQNnR2WEN0SDlvTVlXZHloeHBpZVktM25pOXdRaGlESQ?oc=5",
       "summary": "Now Perplexity is trying to get into the local AI action The Register",
-      "badge": "new",
-      "date": "2026-08-25"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHRwU2FtbzZQemFpVlQ4ODZ2NFdDQUwzYTVLRy1rVk4yb2ZKZUFIRG12V0tHbmduMk9yMmtuMjNYa2gyTXNRQlMtMGhmQmFfRDFVbEk3TVNRTWpMMW1XLW5wcDNvb05MLWFNWDcyVjJVR0NaUzVaSnhFRzVFRkhERVdRMHM0QVlRU0R2MFJDSVhzM2oxelJ4WGhQY3ZjUmRSWGtlOElsb09sN0hLRmFLb2dIeGowREhyWjdrVmRDblBWY0ZFODFhODB1NA?oc=5",
-      "summary": "Perplexity, Nvidia partner to run AI directly on desktop instead of major cloud providers CNBC",
       "badge": "new",
       "date": "2026-08-25"
     },
