@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-01T15:56:52Z",
+  "updated": "2026-09-01T20:24:40Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic releases new models, cuts agent costs - Axios",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5",
+      "summary": "Anthropic releases new models, cuts agent costs Axios",
+      "badge": "hot",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s $1.5B piracy settlement is back to haunt it - Politico",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjVsdGd3cHdJMHEzVTJhQ3hQUGVDQXJLNmdMWG1NNFZKOVRTa3dBNUV4dmhycnhOX1A5amFQMjhmb3dMUDdnVnQ1WnJQUXljd0pIcEE5OTJnaWNjNHNvZ0JCS0JSMFp6NDl0SWdOck9zTW9YVWR3N0sxWkhTZF9QQTFMdy1mbXBsX3RQM3BCUWNUUVBDa25WUUZFalBhTW5xSG01UzZBMnF2SEdRNXB6N3Y3ZmtNXzhEdU9WZGNTdXNtZGNEVlNDWnZOSEg0M0U?oc=5",
+      "summary": "Anthropic’s $1.5B piracy settlement is back to haunt it Politico",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5",
+      "summary": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding Bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic agrees to $35bn cloud contract with Lambda - Yahoo Finance",
@@ -22,6 +70,14 @@
       "title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5",
       "summary": "Anthropic paused some AI training after Claude took unauthorized actions Axios",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Google",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -90,6 +146,30 @@
       "date": "2026-09-01"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity claims to protect privacy by splitting AI tasks between local and cloud models. - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnlod0hxSzl3OTg4UmQzWGRlX3hlSW9xX3dnM0VUcFQ3MWxYQmlwYnNKRVdybGVvM21LSTJVTEdUd2lDZjZRb0Z3a1lwRkxaejhvX2paeUJwanRYQzVDMENVdUZUdkJaRVhSTHVPWThRN2xKT1hYX0ppRlpYcFZ4aENNMFF0YXdkaGphQTlqeS1ycmExVllaNFA1Yy1takpDcnlwQXRhbVFUQWNFdUh1aWI4UnhpRUhNWmZjMURVeDlRMXl4dklkX0xOTFI?oc=5",
+      "summary": "Perplexity claims to protect privacy by splitting AI tasks between local and cloud models. AppleInsider",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Meta",
+      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5",
+      "summary": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways cnbc.com",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmtqNlN1YmtwTnJDTWJhUVZsVlFzd3dMbGF1TWZHQzFKVGdMeGxEWXhYNE1zbEdmUTJSd1VEVldLUFlVdUlfVENYc1F3eWFBZGk5OVZsVWJqdmNyc0NFVHVfdHFqX2UtZVZlUGdST0t2bEVhZnoyS3FMTGNnX0RLeTJsSHJsOG5Jc0J4T1YyTDRoS1JucFYtd3J3YnZqRlVPMWl4OUMtNA?oc=5",
+      "summary": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac 9to5Mac",
+      "badge": "hot",
+      "date": "2026-09-01"
+    },
+    {
       "company": "OpenAI",
       "title": "OpenAI supports California’s bill to advance youth AI safety",
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
@@ -115,9 +195,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Improving our alignment and security practices - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "summary": "Improving our alignment and security practices Anthropic",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
       "title": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "summary": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia WSJ",
+      "summary": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia WSJ Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda Bloomberg.com Nvidia-Backed Anthropic Inks $35 Billion Deal. Ju",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -138,42 +226,10 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic to resume external testing of AI models following security incidents - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Y5eFQ4dWtTbDlKWE1yeXpuR25wNXBRMzVpeTJMM01vdzBiREpsR1IxSTVTWTU0YUxTNzZyZjBsQUVfS1I2bzJQRWtUcGVLaUJKbmxhLUJhQ2RGaWdjN3c4ZjZvcWVQdExIbWlHb3hpQ3lXXzlRcUZhNlVkLVBRMlFpRWFySk1XVzlSbmxNNkx4bTZhMXZMR3FpTVU4bTg2dzQtVG14b3FNZXZvcVM1QWV2Yk5BMllIMkxV?oc=5",
-      "summary": "Anthropic to resume external testing of AI models following security incidents Reuters",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTlFc2NRUEtocndRTGpPRnNGT1djeW1FbnZjUm9vSTVjclRudzktQlNvY1huVVNUVVpkX1A0SXh1ZkZyVDZpeVZfVEdQdGtPc0VqRVZ1ZUNzcG5oWmtVVktCRzdPZGFZUkd6Mm5rdEhINUZQZjFrQzZCaUdtV2ZTLXRqdWNTMVpCOWUyU3BWNDZoeHJZOXd0cXdhRE5BaG1uV3lyUTBKWkNIaXp6NHdRaUVCd3I?oc=5",
-      "summary": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Improving our alignment and security practices - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
-      "summary": "Improving our alignment and security practices Anthropic",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Sony, Warner Music sue Anthropic over songs used in AI training - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5",
-      "summary": "Sony, Warner Music sue Anthropic over songs used in AI training Reuters Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft TechCrunch Anthropic sued over all",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
       "company": "Microsoft",
-      "title": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams - prnewswire.com",
+      "title": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN3BlWUFmUFpEeVRobVVzVWRCalp2c1Zvc29DcGtyUHJ2Z3JRdXZZb1oyODhFYlREVmxfby0tdzg0YlhOSUVlYXJzNWJydGJwb1JPcGh1aVNpWi00d2hET3h4VDFUdnlkRjdnVFhZX1Q4X1p2UnUzR3ZkNmtNNmxKaGZrdlpZQUVqb1BpRXo5cXduS2pYa0QtbFIyNjBtT0FMeWYwZFpjdWFpLUhiYnhIcmRNRUtGX1pWZjNFY3BCUlg2SWdUaF9hV2JReURZXzMzQTlHMG80bmhBRU1sT2NuZFNxYzBLbjA3eGIzRDVvNnBrMmcyVXNFWDhzdlBJSGVXMlo0TA?oc=5",
-      "summary": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams prnewswire.com",
+      "summary": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams PR Newswire",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -187,14 +243,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft’s Blue Jays deal brings Copilot signs and Azure data into stadium operations - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNU5pU2xvT0M1YnZ3RU0xVlBSVngxSERtd2dhNl9uYnhzRnpPNW9lQXktcWxpRjdIQTRsQThPUjJ6U0xNY2JTUVJLQTgwQ0VZbC1XSWdaYVBoM0F4WENOVjduN3lOMVBJZnRNbXh2aTRIM0JLaFpqdDlGRXZiT2xjbERNTkE2WFE5TTFab0cxR1BsdFZJUGxyclZna09WOVZoTE1WdFNDRi1ybjEtdEpCOExDaUJ2V2NJZ3ladnBITmdoQXIxMUNUTkJlX1Y0Yjl1RkVpLVVBalNqMndvekE?oc=5",
-      "summary": "Microsoft’s Blue Jays deal brings Copilot signs and Azure data into stadium operations MarketScale",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers - Search Engine Roundtable",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZUczQVBPRmowU3IzNGRhLS10RUE0RnBNaHozRExndWN6dWNDQXlJc2dBWE1LMWI1b3h1UElxaTVmaGtLdFh2N19WUDgtOTBXT2ZLcnU1WjNMV2M5bXRzZDk1YkZaS0E0RFBzcFZiNWc?oc=5",
       "summary": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers Search Engine Roundtable",
@@ -202,10 +250,10 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Perplexity",
-      "title": "Intuit and Perplexity Team on AI Integrations - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2Y3N01jREZyeE9keDdBX1F6SFdERU1BMk9TS2hQak1rSzFVTDZtTkZwc0Nyd2FRcmRPd1dwZlA4ZWJGMVQ2TWJ1SDNnQ3VUUTRTazJDNGpoZ2FqWUlKNEh1MUhlWmNZQm8wV0RwM2c4MVhGVURkaVVDZ0JmS0sydEtIODhnV2pTSVZ4QThuM0VnY3JVb0YxX093Z3VVdVNoQ3BraThn?oc=5",
-      "summary": "Intuit and Perplexity Team on AI Integrations PYMNTS.com",
+      "company": "Microsoft",
+      "title": "Microsoft’s Blue Jays deal brings Copilot signs and Azure data into stadium operations - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNU5pU2xvT0M1YnZ3RU0xVlBSVngxSERtd2dhNl9uYnhzRnpPNW9lQXktcWxpRjdIQTRsQThPUjJ6U0xNY2JTUVJLQTgwQ0VZbC1XSWdaYVBoM0F4WENOVjduN3lOMVBJZnRNbXh2aTRIM0JLaFpqdDlGRXZiT2xjbERNTkE2WFE5TTFab0cxR1BsdFZJUGxyclZna09WOVZoTE1WdFNDRi1ybjEtdEpCOExDaUJ2V2NJZ3ladnBITmdoQXIxMUNUTkJlX1Y0Yjl1RkVpLVVBalNqMndvekE?oc=5",
+      "summary": "Microsoft’s Blue Jays deal brings Copilot signs and Azure data into stadium operations MarketScale",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -219,9 +267,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - ZDNET",
+      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - zdnet.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWpWUmlVTWVWS2pXNnNyWGkzVDdGRUZDSk5ESm9jUXJPdURibkRvcDc4SWktTS1UMjZWN1dGTlRXNjc2Sk1lR3JtTzNZZnBxRE16RHNlN0Rib21Xd3JpNFAzdkt0MzU1QVRXNllWWjl0QzE5WnJLRC1ydkRQNEdvMDhBZndzd3hDeUNpbnk1M1NtNWpweEhN?oc=5",
-      "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most ZDNET",
+      "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most zdnet.com",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Intuit and Perplexity Team on AI Integrations - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2Y3N01jREZyeE9keDdBX1F6SFdERU1BMk9TS2hQak1rSzFVTDZtTkZwc0Nyd2FRcmRPd1dwZlA4ZWJGMVQ2TWJ1SDNnQ3VUUTRTazJDNGpoZ2FqWUlKNEh1MUhlWmNZQm8wV0RwM2c4MVhGVURkaVVDZ0JmS0sydEtIODhnV2pTSVZ4QThuM0VnY3JVb0YxX093Z3VVdVNoQ3BraThn?oc=5",
+      "summary": "Intuit and Perplexity Team on AI Integrations PYMNTS.com",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -259,17 +315,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's AI Infrastructure: Mispriced, Misread, and Massive - UncoverAlpha",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMC1zZG50d0tuUklFRmFlbjFfdi1QN05wNmdnYldBQXpnemNyaVNkanlWdE5UZkw1Uk00UkpucEpoLTJCd0ZoRmZvOXJiUVhablZPeXFsV1daTkZKVjdtQlh6eWdXeWRJOE01UEk0MUY0UQ?oc=5",
-      "summary": "Meta's AI Infrastructure: Mispriced, Misread, and Massive UncoverAlpha",
+      "title": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGNsOVZHSHltcHVMbmNpajMyVWExcHJSYlNHOExJU0oxN3dqTFJNZENFLTFLaVV3T3BKZEtjbTVyVGYwSF9uSzA2a25PMV9vSkRhN0M4QWNxcTlCV3I1bk5wMElLMUtHNy1vNzAwY0JNRGtTVmg5c2JYejBid0NZU3BWWDluX2RqVEJBQklZdVRZZkFDRGZ5dA?oc=5",
+      "summary": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses businessinsider.com",
       "badge": "new",
       "date": "2026-08-30"
     },
     {
       "company": "Meta",
-      "title": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGNsOVZHSHltcHVMbmNpajMyVWExcHJSYlNHOExJU0oxN3dqTFJNZENFLTFLaVV3T3BKZEtjbTVyVGYwSF9uSzA2a25PMV9vSkRhN0M4QWNxcTlCV3I1bk5wMElLMUtHNy1vNzAwY0JNRGtTVmg5c2JYejBid0NZU3BWWDluX2RqVEJBQklZdVRZZkFDRGZ5dA?oc=5",
-      "summary": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses Business Insider",
+      "title": "Meta's AI Infrastructure: Mispriced, Misread, and Massive - UncoverAlpha",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMC1zZG50d0tuUklFRmFlbjFfdi1QN05wNmdnYldBQXpnemNyaVNkanlWdE5UZkw1Uk00UkpucEpoLTJCd0ZoRmZvOXJiUVhablZPeXFsV1daTkZKVjdtQlh6eWdXeWRJOE01UEk0MUY0UQ?oc=5",
+      "summary": "Meta's AI Infrastructure: Mispriced, Misread, and Massive UncoverAlpha",
       "badge": "new",
       "date": "2026-08-30"
     },
@@ -302,14 +358,6 @@
       "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmY1dTFqbVdxaUpvam0xaTVGQ1RNbWFlRzQ4UTdYelJ2S3U3SF9aRjN5N0N1NWVhU0FicUZyYndHNFg1WVJsWnhvWnYwYjhvRnJBa3VyekNBb2hLcVo4ZXlGdkJqUF9Ca3RpSUVhai0xN09FRF83T3NqMGpQY0lfSXdRZmhtcm9qRm9ReF9iQ0FXYjFyX2VyNzVFMA?oc=5",
       "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-08-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw?oc=5",
-      "summary": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives 9to5Mac",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -350,14 +398,6 @@
       "title": "4 local AI search tools that make abandoning Perplexity surprisingly easy - Android Police",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkRrdi1OM0o0ZTROcHV1MVNJOXVRTEFmZF83dEN2c0xrY1JBU3BtV2dCQ2s4RjVMaEpxNC1YRThKRFhPY2JyOG81d2Z6NkhicEdqU0dEbkdGRDRsWG1QbW5xaTE1Mk5YTzFoNHluSk4yMWM0M1VnSjBUNm5XM2NpbEhzd3lrZWw3anlsZWpvN2pRRmJVYmxNei13c2NIcVcyTXNZRg?oc=5",
       "summary": "4 local AI search tools that make abandoning Perplexity surprisingly easy Android Police",
-      "badge": "new",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI's EvoHarness-RL boosts agent efficiency - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
-      "summary": "Meta AI's EvoHarness-RL boosts agent efficiency VentureBeat",
       "badge": "new",
       "date": "2026-08-28"
     },
@@ -434,43 +474,11 @@
       "date": "2026-08-27"
     },
     {
-      "company": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
       "company": "Perplexity",
       "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVZRbXlrX29mV1BFWW5aSlNRTTdPaU5NcFlFeW5zMXVYVlVuOXJkUVR1ZU44TTlWNE81dFBYcDR5NWxZWTlCbl8wX2cwWEIzUTVLbms3elFwZ1lZTjNsUzhlVFdmaWVtcDMzbGlVNTAySTVsRzFIU1FPZTE2WEhLVkFWUmFSVll5MVdxTTRoTkp4amtWNVNuUl93VHdkeHJR?oc=5",
       "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Yahoo Finance",
       "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity launches a local AI agent with zero token costs - Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHpSTWZFLUJMMTFhZjN2NE91a0ItSDdfY3pia3gyMWdWcDdEdzBxdHJTYjJ4M1hFWGtYZ0xZTnVYc0lEWkNLTF9DVWQ2SEFPUVE0ZS1pak1fSTNTRGFVTDFSSGRLMVUyWGllVHhOSlpRRlFmOW1hOEx1NjcwQjFsX0paaDBLREd0d1F5c1hR?oc=5",
-      "summary": "Perplexity launches a local AI agent with zero token costs Android Authority",
-      "badge": "hot",
       "date": "2026-08-26"
     },
     {
@@ -592,14 +600,6 @@
       "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
       "badge": "new",
       "date": "2026-08-03"
-    },
-    {
-      "company": "Google",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "badge": "new",
-      "date": "2026-07-28"
     },
     {
       "company": "Amazon",
