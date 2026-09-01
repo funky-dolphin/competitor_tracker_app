@@ -1,11 +1,99 @@
 {
-  "updated": "2026-08-31T22:18:10Z",
+  "updated": "2026-09-01T03:09:28Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5",
+      "summary": "Anthropic paused some AI training after Claude took unauthorized actions Axios",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
     {
       "company": "OpenAI",
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "summary": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia WSJ",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTlFc2NRUEtocndRTGpPRnNGT1djeW1FbnZjUm9vSTVjclRudzktQlNvY1huVVNUVVpkX1A0SXh1ZkZyVDZpeVZfVEdQdGtPc0VqRVZ1ZUNzcG5oWmtVVktCRzdPZGFZUkd6Mm5rdEhINUZQZjFrQzZCaUdtV2ZTLXRqdWNTMVpCOWUyU3BWNDZoeHJZOXd0cXdhRE5BaG1uV3lyUTBKWkNIaXp6NHdRaUVCd3I?oc=5",
+      "summary": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda Bloomberg.com",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5",
+      "summary": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says Reuters",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Improving our alignment and security practices - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "summary": "Improving our alignment and security practices Anthropic",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -74,58 +162,10 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
       "company": "Perplexity",
-      "title": "Intuit + Perplexity: Trusted Financial Action for Businesses - Intuit",
+      "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
-      "summary": "Intuit + Perplexity: Trusted Financial Action for Businesses Intuit",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
-      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
-      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
+      "summary": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer Intuit",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -146,10 +186,18 @@
       "date": "2026-08-31"
     },
     {
+      "company": "Perplexity",
+      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
+      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
       "company": "Meta",
-      "title": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End - 247wallst.com",
+      "title": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLW53UG1CbUs4cHBhMFd4eFh0SS12RVE1MnloaUJtNU5NRDFGdktKSHdQeFIyR1o5MDV5R255eHVVWkdlRDA3VUVPOGxBMElJZzVxb2J2MW9hQVA4a1NYeURENWhRT3FIQVZnRnZ0akhwWGVHZGZnM0hfczczVElLS0Q0ODRGVEIwUXJiNERSYUVjMmdCLUkwa19TSVE0cXNCNERkdkdlRHpXUDEtb2ttYV93?oc=5",
-      "summary": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End 247wallst.com",
+      "summary": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End 24/7 Wall St.",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -158,14 +206,6 @@
       "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement - Mashable",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFpaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
       "summary": "Sony Music, Warner sue Anthropic, alleging copyright infringement Mashable",
-      "badge": "new",
-      "date": "2026-08-30"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0ZqeXlZb19BNzJuZ0N2bXFhRF9xRkJURlA2MXJPRkQ3eGp6VnJIRkxqVk5vTURVdVl4bVpkLTd5d0tEcTQxZ2Itei0zUlNMUFRrM0ROTllIOThILU9tYzI0ZHY1ZXRlYlVXNTB4TUtBbmlXcFNYVU9LT3U2ajl2ajBuNng2dENRdWpFT3RmOTJVTkNRRWFpYXdFdWdtcXAxNFdpLXlnYWJxYW9iTVE?oc=5",
-      "summary": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not. Business Insider",
       "badge": "new",
       "date": "2026-08-30"
     },
@@ -186,42 +226,10 @@
       "date": "2026-08-30"
     },
     {
-      "company": "Anthropic",
-      "title": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit - Music Business Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONzV0ZEROLUxEM0gwRHJMc2VlMnh3N0R1c09wbFcta2tsV2JpbnA5UE1TR0Vrd0hwQnN0MHV4bmVYaGg4aVo0TXhKeUxCN3dNZXprQkU0dVM0MXhDZ2pURGQxREdxS0paSkZwaGxpWS1GRUVrS3k2OUU1V2ZFb1JodE8tVlJVSmdnRnZsZmhTUnNaLUprR2l2eEk4QVFTVHh4a3A5SjdqWk01YjdoV2tvTEh5b2oxaWRPcDBkUzZQR0o4VDBLWURJWFdNOHFJZUZZaE0yZU0xYzFjbW93cDNqVE1OZXRwWkhwZWhsdC1Lb29vR1JBMTFlOHBPSFhSS0xNZW5UTEV1NW9CclJhb3lVRDRybjhZSllxNnZ1ekRsaUFSTGFseHl2WjNTaFM2WDB2d3J2cEVXVm5YOEIzVzRR?oc=5",
-      "summary": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit Music Business Worldwide",
-      "badge": "new",
-      "date": "2026-08-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
-      "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft TechCrunch",
-      "badge": "new",
-      "date": "2026-08-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
-      "summary": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music Axios Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft TechCrunch Sony and War",
-      "badge": "new",
-      "date": "2026-08-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2UzVXpWdjFZRHpLRWg5NUpJVUlha3lwdVVjVWp2YmE0OWwxV2lXblFQaGpoNFVxRmJ1Q1l3YUlvd0JqWnB1dVhFR01nTTd4QnBJS2tlaG9FTkpWU1NXRDNaeFdjNy15TmVFLXBtUlNBZ253WkxETzFiRzdDck9QUHV6dFRiRFhyd1dOLXBCblFfMVVreE5Md3RvdDBsdHE3RDdid2JVTWxUZw?oc=5",
-      "summary": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property Gizmodo",
-      "badge": "new",
-      "date": "2026-08-29"
-    },
-    {
       "company": "Perplexity",
-      "title": "Gemini Spark is almost a dream AI assistant — except for 1 thing Perplexity does better - Android Authority",
+      "title": "Gemini Spark is almost a dream AI assistant — except for 1 thing Perplexity does better - androidauthority.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUndQNVRHbzV6MGU3ajd6X1lwYnpEYmVDeC0zRW5pTG12QUZoRHNJbXRJbWYxOTIyeUN1akExLThRYXA0QW1QQ3ROalhtSk1tRVdSU2RrSWlqUzRNTXVqT21qSXQ1cWgxcW1yWThqcFdEcXFIMk9UaFdGZHBtVjVrS3d0WQ?oc=5",
-      "summary": "Gemini Spark is almost a dream AI assistant — except for 1 thing Perplexity does better Android Authority",
+      "summary": "Gemini Spark is almost a dream AI assistant — except for 1 thing Perplexity does better androidauthority.com",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -230,6 +238,14 @@
       "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmY1dTFqbVdxaUpvam0xaTVGQ1RNbWFlRzQ4UTdYelJ2S3U3SF9aRjN5N0N1NWVhU0FicUZyYndHNFg1WVJsWnhvWnYwYjhvRnJBa3VyekNBb2hLcVo4ZXlGdkJqUF9Ca3RpSUVhai0xN09FRF83T3NqMGpQY0lfSXdRZmhtcm9qRm9ReF9iQ0FXYjFyX2VyNzVFMA?oc=5",
       "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg sends shocking message to Meta employees - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFJcXF0d1BYX2dBeUxUcjRnVjZFOUNCTUdnM3lTRVloTUthV1Y4b3V1YW5qYl9hQ3hjNEZhVzFVZlRyWkYweVBPN1MtMGx4UzhTR2RHWTk1WlFHUlhjemk3TjltTzRqdTRyLXFFaklTOGJFaVk4UVRHWG51SVNmbnN1dTFIcHJWWWdLMGpGNDlRX2FPUndLVlRyeGNJaklMa2JGU1RjQVRpMlpDZ085YnNhQ3BwUQ?oc=5",
+      "summary": "Mark Zuckerberg sends shocking message to Meta employees thestreet.com",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -278,6 +294,14 @@
       "title": "4 local AI search tools that make abandoning Perplexity surprisingly easy - Android Police",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkRrdi1OM0o0ZTROcHV1MVNJOXVRTEFmZF83dEN2c0xrY1JBU3BtV2dCQ2s4RjVMaEpxNC1YRThKRFhPY2JyOG81d2Z6NkhicEdqU0dEbkdGRDRsWG1QbW5xaTE1Mk5YTzFoNHluSk4yMWM0M1VnSjBUNm5XM2NpbEhzd3lrZWw3anlsZWpvN2pRRmJVYmxNei13c2NIcVcyTXNZRg?oc=5",
       "summary": "4 local AI search tools that make abandoning Perplexity surprisingly easy Android Police",
+      "badge": "new",
+      "date": "2026-08-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI's EvoHarness-RL boosts agent efficiency - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
+      "summary": "Meta AI's EvoHarness-RL boosts agent efficiency VentureBeat",
       "badge": "new",
       "date": "2026-08-28"
     },
@@ -378,22 +402,6 @@
       "date": "2026-08-27"
     },
     {
-      "company": "Meta",
-      "title": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDBMR3lILS1vUWwyQkNMUm13YWNlNVRNUER4ZFZNWmhzRVRyV3M4c21VRkFDOUtoR0xsWXIyQzlEM19mLWhpYzBkOHppLVBDOHktWFhKc2xYTmJrVTdCMmFmQzVoWTd4QTdtc3NaTTdzYXlVMEkycTVITXlkTnl4bjBfNGdiSHRlYmstWTBsZzg1U2NUckRESjBGOA?oc=5",
-      "summary": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter Business Insider",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI - Meta Store",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamZteXQ3bmVXNTk3blIyTXk2Y3JkRlNEX3Qxb1hVTXJTYlJCU1hlbVRXWjhEOWFTLTN5OVJtZ2pXWEp6VXRtRHhjazhEbjdhcnFHWTVFeXpMMnlVUnZnTGMyQ0RNUTV4T2ctaVZsYkdoWGdDZFRkZ29oVjA4MGluOG9MT2J1WXE4U3JlbU0zNF81ZjU5THF5WdIBngFBVV95cUxNQXdqaGFUMDlRLVhjRWhFZzV6M1Y0emEwTHZleDNGbTdkazBlVW0yUEZyMnpKUWtuUHl4QTlyVmotMk5KMGxQMkJfb1VxSmh2S05rWWNCbnpVTUlGa1ZORl9LQ2hCTy1HQ0RiVU9LaHJGWHhrbGVHQXEwRXJzREZJV3M1cmxXSUVrUDFiejdqWjBmVEt6UVMyUWh6cmd1Zw?oc=5",
-      "summary": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI Meta Store",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
       "company": "Amazon",
       "title": "Ring TAKE encryption comes with key privacy caveats - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KaWtjRHpDcWNqUUdUYlFPOHFaOWcwTlozVmFXSnRjekdlT3VqcU9vWHN1NTdUNmlOamdTYy1VT1FrWjFNSERhVnliNHNUZnpaazhRQnAxVnJPOWFqSlFPNEloQUNLSkUzY0hYTmlXeEZlUnNMSWxzN1p3?oc=5",
@@ -480,14 +488,6 @@
       "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
       "badge": "new",
       "date": "2026-08-26"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "badge": "new",
-      "date": "2026-08-25"
     },
     {
       "company": "Google",
