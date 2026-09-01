@@ -1,11 +1,43 @@
 {
-  "updated": "2026-09-01T10:57:29Z",
+  "updated": "2026-09-01T15:56:52Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic agrees to $35bn cloud contract with Lambda - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHJlaEo2ZmNHZ3BJV2lxdjM0VENxTXR2QXRzOGQybWJWYld3LVEwa3RjQXpwZ3I4MlVNWl82ZDhZRkpseWJVOFJXN2gxUUJKVE5PX3VHM09kMTFPSWd2TzlYQ0ZxdHUtXzVqUDVmb2V4eG41RU9lTW13eGpvMXVqRE9hbEQzT3BHTDZDcVhwb0RNQUJLY25Ec2RKbkZvQmRvV0E?oc=5",
+      "summary": "Anthropic agrees to $35bn cloud contract with Lambda Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGFjc2FGWHhOeE9TaEJnVXhGYTl4cEZQVzNKTTNWcmVueTB4eWNTVTI1X0luZnd5cFRiQThjRk9nYXh2TmRybTFNb2o1SjhBWnJlN3dOQTFLZkJNeVowUkFNQWdGMWJ0aExWSWhaUFdHa19sa3dLSmIyc2dkdDZ5Vl9zWUtFYjl4dlotUUpYOHRXSUt4RWc?oc=5",
+      "summary": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents The Guardian",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5",
       "summary": "Anthropic paused some AI training after Claude took unauthorized actions Axios",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Stock Hasn’t Done Much This Year. Why Azure Growth Means the Stock Has 19% Upside. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXpyeGxJQkJoLXo0cnR5MGxqS21tNUZPTGhkcU5uLUNfeldMUlNtTXhiWWlrT1RGQlMyZ2VUUXhkdmR0M01qMV9hQUo5Q3B4eUJFZlNidnRMTmYxTXpuZFJ3bF8xdXpPTHFjYkQ2VjRhVUlTckdSMmpBUG5OZzZYdTBramo0Y1d5?oc=5",
+      "summary": "Microsoft Stock Hasn’t Done Much This Year. Why Azure Growth Means the Stock Has 19% Upside. Barron's",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The Microsoft 365 outage explained: What happened, what apps are affected, and is a fix available? - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcG9WYnlwRk02MHZxU2NHNTY4ZFlkTDUyT0xfWjdBOXpwaDdkQmhCcnQtV01UWDRNcEh2WVlDLXpSa2xqOVQ1MW1WQlAzcXVGd24xSE1QalNmaVVYSDhDMFhtTFVZaGt5NWw5Z05xaWVZVzlTQkhsVzRTLTEzRDBsUTd3ZlV0YnVjRzZPR2FNUkY3VGYyai1OdTRsY20tUzgtQWV3N0VvSjZUU3R4a095WVZrUWU1M3dxZk5uNlNhNGJNdmhDNExtcDNIb210bFkx?oc=5",
+      "summary": "The Microsoft 365 outage explained: What happened, what apps are affected, and is a fix available? IT Pro",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -46,6 +78,14 @@
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
       "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5",
+      "summary": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI Engadget",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -130,26 +170,10 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic’s Claude: What You Need to Know About This AI Tool - CNET",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkM3YWVoYjBiSGdHNVJ2MVhPY2E3bS1NT1F6U3RWaGo0c2dZMjBqa3ktLUFTTGl0N2cwam93aWdYUldGVlQzSWtubW5sbFF2aENVWEhrSFhuR041V20wNjAtWGM0NE1mNGRPdGlpNUpFS0NEdVduU05rZ2tuWWVfX3NqNWxzY05iU3hKQnBPUDJoNTl6TDZld2M1SlVCQ1ZhWmhTbDJFc1IyMGU3TlE?oc=5",
-      "summary": "Anthropic’s Claude: What You Need to Know About This AI Tool CNET",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVi1ZbjlzZlUyb2ZVRVNPcHIxWHU2VGtOOURZeExiMXlCLUI1WXBadWI1X293LUdKQnk4a0pQd2d1eW1pTUpkMWNpSlhHemdfVGRPRFFabVQ1NGJMX1BSMnhaaGw2N1BIbUExcUVJMGZzclU3R3c5WDhRX1V2VDlzb1M1aDFnZERMYlpGNDRpTW1vOGdNTEd4TFp6MUVZdHk3M1NRd0p0TXB0RmtFak1rbjV5T24?oc=5",
-      "summary": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
       "company": "Microsoft",
-      "title": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams - PR Newswire",
+      "title": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams - prnewswire.com",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN3BlWUFmUFpEeVRobVVzVWRCalp2c1Zvc29DcGtyUHJ2Z3JRdXZZb1oyODhFYlREVmxfby0tdzg0YlhOSUVlYXJzNWJydGJwb1JPcGh1aVNpWi00d2hET3h4VDFUdnlkRjdnVFhZX1Q4X1p2UnUzR3ZkNmtNNmxKaGZrdlpZQUVqb1BpRXo5cXduS2pYa0QtbFIyNjBtT0FMeWYwZFpjdWFpLUhiYnhIcmRNRUtGX1pWZjNFY3BCUlg2SWdUaF9hV2JReURZXzMzQTlHMG80bmhBRU1sT2NuZFNxYzBLbjA3eGIzRDVvNnBrMmcyVXNFWDhzdlBJSGVXMlo0TA?oc=5",
-      "summary": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams PR Newswire",
+      "summary": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams prnewswire.com",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -179,25 +203,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
-      "summary": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer Intuit",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
-      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
-      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
       "title": "Intuit and Perplexity Team on AI Integrations - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2Y3N01jREZyeE9keDdBX1F6SFdERU1BMk9TS2hQak1rSzFVTDZtTkZwc0Nyd2FRcmRPd1dwZlA4ZWJGMVQ2TWJ1SDNnQ3VUUTRTazJDNGpoZ2FqWUlKNEh1MUhlWmNZQm8wV0RwM2c4MVhGVURkaVVDZ0JmS0sydEtIODhnV2pTSVZ4QThuM0VnY3JVb0YxX093Z3VVdVNoQ3BraThn?oc=5",
       "summary": "Intuit and Perplexity Team on AI Integrations PYMNTS.com",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
+      "summary": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer Intuit",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -210,10 +226,10 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Meta",
-      "title": "Zuckerberg's plan to replace staff with AI lasted four months - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bFdPUDRUZ1JTbEg0N21WUEdlbDRvdEEtQTZjWjJjaktvZEdLTWx0X3hVZnFyZkFvRXVoaXczU0ZLamkwZ3NoeXBueE9nZ3otc2d0ZV9XSVYzb2dMb0NNWlFLbm1XRkRYZ3V5Sy1USTZkUW0yNUFMSEhRYw?oc=5",
-      "summary": "Zuckerberg's plan to replace staff with AI lasted four months The Next Web",
+      "company": "Perplexity",
+      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
+      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -222,6 +238,22 @@
       "title": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLW53UG1CbUs4cHBhMFd4eFh0SS12RVE1MnloaUJtNU5NRDFGdktKSHdQeFIyR1o5MDV5R255eHVVWkdlRDA3VUVPOGxBMElJZzVxb2J2MW9hQVA4a1NYeURENWhRT3FIQVZnRnZ0akhwWGVHZGZnM0hfczczVElLS0Q0ODRGVEIwUXJiNERSYUVjMmdCLUkwa19TSVE0cXNCNERkdkdlRHpXUDEtb2ttYV93?oc=5",
       "summary": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End 24/7 Wall St.",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI agent push puts focus on new consumer business (META:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDNfMUtFcnFubHNtdGdtVU9Ucm5DT3lsa1hLSnhpLUJYTkZpdy1qNDVObG01b2FmT3hzNEhDR0lVM3VhNWdSWE9VZDFuNGpkTkFzRFd0ZVVvTTRtQ2Q2R01IbHVteFM2UHFMR0daTUx0YnFFUUJvbWNJYVFaemMwajRxbzNIWDMwb0hibzgyTXpmR3B2TnlscA?oc=5",
+      "summary": "Meta’s AI agent push puts focus on new consumer business (META:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Zuckerberg's plan to replace staff with AI lasted four months - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bFdPUDRUZ1JTbEg0N21WUEdlbDRvdEEtQTZjWjJjaktvZEdLTWx0X3hVZnFyZkFvRXVoaXczU0ZLamkwZ3NoeXBueE9nZ3otc2d0ZV9XSVYzb2dMb0NNWlFLbm1XRkRYZ3V5Sy1USTZkUW0yNUFMSEhRYw?oc=5",
+      "summary": "Zuckerberg's plan to replace staff with AI lasted four months The Next Web",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -330,14 +362,6 @@
       "date": "2026-08-28"
     },
     {
-      "company": "Meta",
-      "title": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnU5ZVpVWVR0X2tKWmQ3SGtoeVRxaS1pOWYyTTZ1THlKWmFObmM1cXZ4ZlpCT0k5dGtETXFDOHdxTzBjMG1xQlNncE9ZMC1HVjREeUZzaWFtVm1paDNtY01SX3RsMDlkakFCbjV5RDBNQWVaWmF6dHFUNkxiTGl1Ri1tNmFOVWpYTEdQUEN3Y1p0Z21TYXIyOVFR?oc=5",
-      "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly Futurism",
-      "badge": "new",
-      "date": "2026-08-28"
-    },
-    {
       "company": "OpenAI",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -378,22 +402,6 @@
       "date": "2026-08-27"
     },
     {
-      "company": "Microsoft",
-      "title": "6 tips for better research with Microsoft Copilot - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnM3OTJxa0o5eWxVOXZ0VlNWWTFOREdDbjYwYnhsYm1kRnh3RmM4WmFGUDVvNFAxU3Ffd19aQVgxMFQyZW5TQ2FBSFhid3o1V3hoaFJDWXRwTGNpSWZKczhzeUVTS0U0LVpyR3lYdFN4NWhCV0lGRFN2ZFRNRnpiUk9IRFlGTkpTeVE?oc=5",
-      "summary": "6 tips for better research with Microsoft Copilot Computerworld",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft OS Prototype Project Aion Leaked, Revealing Copilot-Centered Interface - gHacks",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWdmN1NMbDhXVVdoTjM1bm1UeFJBWUk5dXk0VmVVZDg3cGJ5c25nWUdVRDR3Tzdxbkx3Sk5sQXZsS2ZEblY5OUVvTDh6Z1h3R2RieFlSYllHNkpRa1pKWFhxSXZjOVEzWDV4TV8zdW9DZEZ5dzJzRHJqcWJSTWMtUFRadzBPbElhV29nZms0b09mNzhlT2NfNjRiV1huZUhlTXd1cjhyamowXzd1UTBfZDRhSTE?oc=5",
-      "summary": "Microsoft OS Prototype Project Aion Leaked, Revealing Copilot-Centered Interface gHacks",
-      "badge": "watch",
-      "date": "2026-08-27"
-    },
-    {
       "company": "Apple",
       "title": "Apple opens Advanced Manufacturing Center in Houston",
       "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
@@ -411,9 +419,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring TAKE encryption comes with key privacy caveats - cybernews.com",
+      "title": "Ring TAKE encryption comes with key privacy caveats - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KaWtjRHpDcWNqUUdUYlFPOHFaOWcwTlozVmFXSnRjekdlT3VqcU9vWHN1NTdUNmlOamdTYy1VT1FrWjFNSERhVnliNHNUZnpaazhRQnAxVnJPOWFqSlFPNEloQUNLSkUzY0hYTmlXeEZlUnNMSWxzN1p3?oc=5",
-      "summary": "Ring TAKE encryption comes with key privacy caveats cybernews.com",
+      "summary": "Ring TAKE encryption comes with key privacy caveats Cybernews",
       "badge": "new",
       "date": "2026-08-27"
     },
@@ -463,14 +471,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHpSTWZFLUJMMTFhZjN2NE91a0ItSDdfY3pia3gyMWdWcDdEdzBxdHJTYjJ4M1hFWGtYZ0xZTnVYc0lEWkNLTF9DVWQ2SEFPUVE0ZS1pak1fSTNTRGFVTDFSSGRLMVUyWGllVHhOSlpRRlFmOW1hOEx1NjcwQjFsX0paaDBLREd0d1F5c1hR?oc=5",
       "summary": "Perplexity launches a local AI agent with zero token costs Android Authority",
       "badge": "hot",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd093RTRnYmk5SHZHdkhNZDhxWm1DU3BaZkdWNXVkdThhd1dCZzNUN3JGUXNpTVFZZ2RpSDJmM3BzTnZHb1ZMcjhRR0ZBUEVlWDZTZG1DWXdMejB1OWFQYmEtd3l3UVdDYUJ6T3NlcjdtLXZLOE1ac3UxZE93OG9McUpSWkdtSVMxODVsTkNwblNyaUt6MzZ2ZFNpNVR4TkJmQUhMY1otcW1yY0JUeVMtUjhmdzA5b3BZMzRnRlVzT0h5ZERsT09ZT053?oc=5",
-      "summary": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare. Barchart.com",
-      "badge": "new",
       "date": "2026-08-26"
     },
     {
