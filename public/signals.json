@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T03:09:28Z",
+  "updated": "2026-09-01T10:57:29Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -51,6 +51,14 @@
     },
     {
       "company": "OpenAI",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "OpenAI",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "url": "https://openai.com/index/polimill",
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
@@ -75,17 +83,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTlFc2NRUEtocndRTGpPRnNGT1djeW1FbnZjUm9vSTVjclRudzktQlNvY1huVVNUVVpkX1A0SXh1ZkZyVDZpeVZfVEdQdGtPc0VqRVZ1ZUNzcG5oWmtVVktCRzdPZGFZUkd6Mm5rdEhINUZQZjFrQzZCaUdtV2ZTLXRqdWNTMVpCOWUyU3BWNDZoeHJZOXd0cXdhRE5BaG1uV3lyUTBKWkNIaXp6NHdRaUVCd3I?oc=5",
-      "summary": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda Bloomberg.com",
+      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5",
+      "summary": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says Reuters",
       "badge": "new",
       "date": "2026-08-31"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5",
-      "summary": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says Reuters",
+      "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDd1emRvMmV1OUJFQVRFWGQ1T2I2Y3JxVXoxMTFxaDYzdnVfWXRzTF8xay1aMFVBR0x5YVRzbzY1NjZlYTBCR0FQd2VaVU9kMmU3ZlhGQlY4NWFxRGxaS0FhdzN5dEN6Y0JJcE1KaUFmZ1BzTGJvMS02V0NVcUcxNUZ2VXd1SjN4ZUtxWkl3cXBKT3g5amZiLTBKRmk?oc=5",
+      "summary": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda Yahoo Finance",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to resume external testing of AI models following security incidents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Y5eFQ4dWtTbDlKWE1yeXpuR25wNXBRMzVpeTJMM01vdzBiREpsR1IxSTVTWTU0YUxTNzZyZjBsQUVfS1I2bzJQRWtUcGVLaUJKbmxhLUJhQ2RGaWdjN3c4ZjZvcWVQdExIbWlHb3hpQ3lXXzlRcUZhNlVkLVBRMlFpRWFySk1XVzlSbmxNNkx4bTZhMXZMR3FpTVU4bTg2dzQtVG14b3FNZXZvcVM1QWV2Yk5BMllIMkxV?oc=5",
+      "summary": "Anthropic to resume external testing of AI models following security incidents Reuters",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTlFc2NRUEtocndRTGpPRnNGT1djeW1FbnZjUm9vSTVjclRudzktQlNvY1huVVNUVVpkX1A0SXh1ZkZyVDZpeVZfVEdQdGtPc0VqRVZ1ZUNzcG5oWmtVVktCRzdPZGFZUkd6Mm5rdEhINUZQZjFrQzZCaUdtV2ZTLXRqdWNTMVpCOWUyU3BWNDZoeHJZOXd0cXdhRE5BaG1uV3lyUTBKWkNIaXp6NHdRaUVCd3I?oc=5",
+      "summary": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda Bloomberg.com",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -118,14 +142,6 @@
       "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVi1ZbjlzZlUyb2ZVRVNPcHIxWHU2VGtOOURZeExiMXlCLUI1WXBadWI1X293LUdKQnk4a0pQd2d1eW1pTUpkMWNpSlhHemdfVGRPRFFabVQ1NGJMX1BSMnhaaGw2N1BIbUExcUVJMGZzclU3R3c5WDhRX1V2VDlzb1M1aDFnZERMYlpGNDRpTW1vOGdNTEd4TFp6MUVZdHk3M1NRd0p0TXB0RmtFak1rbjV5T24?oc=5",
       "summary": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue Bloomberg.com",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic employees are pouring cash into Jonathan Kreiss-Tomkins’ campaign for Alaska governor - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdnA5czFYRGUwa3hxakNkNkZiTm10N1hJT2xfTFdnM0dkaHF4emowYVZYdDRPcjZlSjlnNGNUdHhtQ3RUT2huajZIN29QWFJQZzNXOVQ2RFhsQzhPb3k4V2thRnI3QVZaU3NWQmp0OWh4ZVFRbDFVYzkzMVVNQ0ZSTW1iaTlwbWZWazlObHBPMFR1a0dX?oc=5",
-      "summary": "Anthropic employees are pouring cash into Jonathan Kreiss-Tomkins’ campaign for Alaska governor The San Francisco Standard",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -171,9 +187,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWpWUmlVTWVWS2pXNnNyWGkzVDdGRUZDSk5ESm9jUXJPdURibkRvcDc4SWktTS1UMjZWN1dGTlRXNjc2Sk1lR3JtTzNZZnBxRE16RHNlN0Rib21Xd3JpNFAzdkt0MzU1QVRXNllWWjl0QzE5WnJLRC1ydkRQNEdvMDhBZndzd3hDeUNpbnk1M1NtNWpweEhN?oc=5",
-      "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most ZDNET",
+      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
+      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -187,9 +203,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
-      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
+      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWpWUmlVTWVWS2pXNnNyWGkzVDdGRUZDSk5ESm9jUXJPdURibkRvcDc4SWktTS1UMjZWN1dGTlRXNjc2Sk1lR3JtTzNZZnBxRE16RHNlN0Rib21Xd3JpNFAzdkt0MzU1QVRXNllWWjl0QzE5WnJLRC1ydkRQNEdvMDhBZndzd3hDeUNpbnk1M1NtNWpweEhN?oc=5",
+      "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most ZDNET",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Meta",
+      "title": "Zuckerberg's plan to replace staff with AI lasted four months - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bFdPUDRUZ1JTbEg0N21WUEdlbDRvdEEtQTZjWjJjaktvZEdLTWx0X3hVZnFyZkFvRXVoaXczU0ZLamkwZ3NoeXBueE9nZ3otc2d0ZV9XSVYzb2dMb0NNWlFLbm1XRkRYZ3V5Sy1USTZkUW0yNUFMSEhRYw?oc=5",
+      "summary": "Zuckerberg's plan to replace staff with AI lasted four months The Next Web",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -202,18 +226,18 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Anthropic",
-      "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFpaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
-      "summary": "Sony Music, Warner sue Anthropic, alleging copyright infringement Mashable",
+      "company": "Meta",
+      "title": "Meta's AI Infrastructure: Mispriced, Misread, and Massive - UncoverAlpha",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMC1zZG50d0tuUklFRmFlbjFfdi1QN05wNmdnYldBQXpnemNyaVNkanlWdE5UZkw1Uk00UkpucEpoLTJCd0ZoRmZvOXJiUVhablZPeXFsV1daTkZKVjdtQlh6eWdXeWRJOE01UEk0MUY0UQ?oc=5",
+      "summary": "Meta's AI Infrastructure: Mispriced, Misread, and Massive UncoverAlpha",
       "badge": "new",
       "date": "2026-08-30"
     },
     {
       "company": "Meta",
-      "title": "Meta's AI Infrastructure: Mispriced, Misread, and Massive - UncoverAlpha",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMC1zZG50d0tuUklFRmFlbjFfdi1QN05wNmdnYldBQXpnemNyaVNkanlWdE5UZkw1Uk00UkpucEpoLTJCd0ZoRmZvOXJiUVhablZPeXFsV1daTkZKVjdtQlh6eWdXeWRJOE01UEk0MUY0UQ?oc=5",
-      "summary": "Meta's AI Infrastructure: Mispriced, Misread, and Massive UncoverAlpha",
+      "title": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGNsOVZHSHltcHVMbmNpajMyVWExcHJSYlNHOExJU0oxN3dqTFJNZENFLTFLaVV3T3BKZEtjbTVyVGYwSF9uSzA2a25PMV9vSkRhN0M4QWNxcTlCV3I1bk5wMElLMUtHNy1vNzAwY0JNRGtTVmg5c2JYejBid0NZU3BWWDluX2RqVEJBQklZdVRZZkFDRGZ5dA?oc=5",
+      "summary": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses Business Insider",
       "badge": "new",
       "date": "2026-08-30"
     },
@@ -235,17 +259,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmY1dTFqbVdxaUpvam0xaTVGQ1RNbWFlRzQ4UTdYelJ2S3U3SF9aRjN5N0N1NWVhU0FicUZyYndHNFg1WVJsWnhvWnYwYjhvRnJBa3VyekNBb2hLcVo4ZXlGdkJqUF9Ca3RpSUVhai0xN09FRF83T3NqMGpQY0lfSXdRZmhtcm9qRm9ReF9iQ0FXYjFyX2VyNzVFMA?oc=5",
-      "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? Yahoo Finance",
+      "title": "Mark Zuckerberg sends shocking message to Meta employees - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFJcXF0d1BYX2dBeUxUcjRnVjZFOUNCTUdnM3lTRVloTUthV1Y4b3V1YW5qYl9hQ3hjNEZhVzFVZlRyWkYweVBPN1MtMGx4UzhTR2RHWTk1WlFHUlhjemk3TjltTzRqdTRyLXFFaklTOGJFaVk4UVRHWG51SVNmbnN1dTFIcHJWWWdLMGpGNDlRX2FPUndLVlRyeGNJaklMa2JGU1RjQVRpMlpDZ085YnNhQ3BwUQ?oc=5",
+      "summary": "Mark Zuckerberg sends shocking message to Meta employees thestreet.com",
       "badge": "new",
       "date": "2026-08-29"
     },
     {
       "company": "Meta",
-      "title": "Mark Zuckerberg sends shocking message to Meta employees - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFJcXF0d1BYX2dBeUxUcjRnVjZFOUNCTUdnM3lTRVloTUthV1Y4b3V1YW5qYl9hQ3hjNEZhVzFVZlRyWkYweVBPN1MtMGx4UzhTR2RHWTk1WlFHUlhjemk3TjltTzRqdTRyLXFFaklTOGJFaVk4UVRHWG51SVNmbnN1dTFIcHJWWWdLMGpGNDlRX2FPUndLVlRyeGNJaklMa2JGU1RjQVRpMlpDZ085YnNhQ3BwUQ?oc=5",
-      "summary": "Mark Zuckerberg sends shocking message to Meta employees thestreet.com",
+      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmY1dTFqbVdxaUpvam0xaTVGQ1RNbWFlRzQ4UTdYelJ2S3U3SF9aRjN5N0N1NWVhU0FicUZyYndHNFg1WVJsWnhvWnYwYjhvRnJBa3VyekNBb2hLcVo4ZXlGdkJqUF9Ca3RpSUVhai0xN09FRF83T3NqMGpQY0lfSXdRZmhtcm9qRm9ReF9iQ0FXYjFyX2VyNzVFMA?oc=5",
+      "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? Yahoo Finance",
       "badge": "new",
       "date": "2026-08-29"
     },
@@ -310,22 +334,6 @@
       "title": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly - Futurism",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnU5ZVpVWVR0X2tKWmQ3SGtoeVRxaS1pOWYyTTZ1THlKWmFObmM1cXZ4ZlpCT0k5dGtETXFDOHdxTzBjMG1xQlNncE9ZMC1HVjREeUZzaWFtVm1paDNtY01SX3RsMDlkakFCbjV5RDBNQWVaWmF6dHFUNkxiTGl1Ri1tNmFOVWpYTEdQUEN3Y1p0Z21TYXIyOVFR?oc=5",
       "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly Futurism",
-      "badge": "new",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNYdkVJRERJMFJXNkFXT2xWREZzc01nNnphdTItRFNFTXlWSUtuNi05ZUdDR0xjV1ZqQUZCdDhpNlNoeURrUUxVdEtIVElFUktrZC1TN2o3WThwdXcxRWJQMm9Zc1dfNm1tQ0pvdGV6N2JIMlhsMU8wRWdSVTJTQ1RyRG9uY0RiM0Y0a2d3YTJ0dmlTS01BdkVRUHVYWW11c1VyQ0s2QzZFQ2p2TmNPYkRuckZ4UXNmcjU2c3M0QmpIdw?oc=5",
-      "summary": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording Ars Technica",
-      "badge": "new",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "Meta",
-      "title": "COMMENTARY: Weekend Reads: Meta's AI revolt, China's power play, Fed's messaging fight - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1JQbV9mOFpmRm40QzM0Smpra2dTSlc2LS0waXJXYlBockpxM2FHeWJJT1I0UU5Nd2tJUFQ4blBuQkEyM3ZBd0NqZXNEcVlaZXNNck9rTm1QS0JFMENhcWw4TWZnNGVPSzh2SmVWU1lETGZ0ZHpiUnVZMkJ5VElSUllUQnNseDNycDdvZHlQZ3NLcXdxN2VJV2ZKRHZOcm9CeGo3NHNwMllRMzltUHplZjgzMVpEeTRkLU1oZEJ0S0Y1dlh0ZGs1UUJ2Sk5WcjBHUHBV?oc=5",
-      "summary": "COMMENTARY: Weekend Reads: Meta's AI revolt, China's power play, Fed's messaging fight Reuters",
       "badge": "new",
       "date": "2026-08-28"
     },
@@ -403,17 +411,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring TAKE encryption comes with key privacy caveats - Cybernews",
+      "title": "Ring TAKE encryption comes with key privacy caveats - cybernews.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KaWtjRHpDcWNqUUdUYlFPOHFaOWcwTlozVmFXSnRjekdlT3VqcU9vWHN1NTdUNmlOamdTYy1VT1FrWjFNSERhVnliNHNUZnpaazhRQnAxVnJPOWFqSlFPNEloQUNLSkUzY0hYTmlXeEZlUnNMSWxzN1p3?oc=5",
-      "summary": "Ring TAKE encryption comes with key privacy caveats Cybernews",
+      "summary": "Ring TAKE encryption comes with key privacy caveats cybernews.com",
       "badge": "new",
       "date": "2026-08-27"
     },
     {
       "company": "Amazon",
-      "title": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features - techrepublic.com",
+      "title": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yR0h2cHpfR0dFbGdORDBxSkhyQ3BtTDJISzI5S1ozMGRVX3JIR2RWUm9pdmlLWF9BeW10dVU1Z0FISDMyNXhGNGJQRWh3cGt3N1hsVmNfUHk5bEU0bHJTUlA3VURQX0tiNTVIa3p6ZmlVVnp6?oc=5",
-      "summary": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features techrepublic.com",
+      "summary": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features TechRepublic",
       "badge": "new",
       "date": "2026-08-27"
     },
@@ -438,14 +446,6 @@
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "badge": "new",
       "date": "2026-08-26"
     },
