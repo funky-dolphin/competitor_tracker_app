@@ -1,11 +1,19 @@
 {
-  "updated": "2026-09-02T15:49:32Z",
+  "updated": "2026-09-02T20:24:46Z",
   "signals": [
     {
       "company": "Anthropic",
-      "title": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
-      "summary": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning The Guardian",
+      "title": "Lutnick: Anthropic is \"back on the right side\" with Trump administration - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WkZsU1dLY1B0bWtPX0FDcnlSV0JGYVZNU05RTzlNaTdQd0lKTW9JVFAxOTQwWWRFTFhERndMejJybVJGZmFhLUdidlItSjFOaG11UDV3TTNFeFlSZ2gtd2o1ODJxWlE?oc=5",
+      "summary": "Lutnick: Anthropic is \"back on the right side\" with Trump administration Axios",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA?oc=5",
+      "summary": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports Reuters",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -18,11 +26,27 @@
       "date": "2026-09-02"
     },
     {
+      "company": "Anthropic",
+      "title": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
+      "summary": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning The Guardian",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
       "company": "Google",
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "summary": "Introducing Fairwind Program",
       "badge": "hot",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRjRGVUdDWFBmMnN6ZnROZEFEdnpVTkJBRnlaLVI2aEU0WksxRzFjVmQzZXR2NDJIRWF1WmJoRkx6MW1SUE14QS1tQlN0QUU3RFlRRDVwaWNkVDJOcEV3ZlV3d2JlN1hyR2R6NTF0N3RZLU5nMy1KQnFpcWhxYXUwbjhvNTFkdElaakZMX3FRczY1OHJYdEwzZl9NS1BYN25US3BJSXRZTG92VkVoZzI5cFBnM0psTVBMZkNqcGRhb2JBVDVsN3JjYUY2cUwwTW5pMl9NNEIyNmtVd3Rray01eWFudXpRSkhjWTFjVE5R?oc=5",
+      "summary": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry Microsoft Source",
+      "badge": "new",
       "date": "2026-09-02"
     },
     {
@@ -90,10 +114,18 @@
       "date": "2026-09-02"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity Hybrid Compute splits AI tasks between your Mac and the cloud - Cult of Mac",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UTkUzZThLbUhvdFJhMmItVXh1eWtyeTlseWszSjBTUnpwODU0aTJwYkFoSkcyUmlzdHd0QV9LYU1SdW1qQUpSZVliTmJTZjBZbnUycThJVmduY0ZQenZLRHNmOXBrenVXNlRpbjFScHk1dmlfY0hr?oc=5",
+      "summary": "Perplexity Hybrid Compute splits AI tasks between your Mac and the cloud Cult of Mac",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
       "company": "Meta",
-      "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
+      "title": "Meta bricked the cameras on thousands of its AI glasses - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
-      "summary": "Meta bricked the cameras on thousands of its AI glasses Business Insider",
+      "summary": "Meta bricked the cameras on thousands of its AI glasses businessinsider.com",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -102,6 +134,14 @@
       "title": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit - Futurism",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHZLQ2hDbU5HRS13cnlNOGZ4b2dQNnF5VEQyU2hfMi0zWU1wSDQ3U2Q0TlpjUXphUW00dWVMdUJTbGloQzdpRzRVbGNiT3dzUjRmdmZrdzFkU1EtQWV6cGFCdTltZ0JBamY1WG5FaDFMaThnZ3o4UmlXeWNXdUlqZjVRUW04NlJBNE5rS1ZUM215V05YLW9uakRNa2Y?oc=5",
       "summary": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit Futurism",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
+      "summary": "Meta says AI glasses fix stops users from secretly recording others CBS News",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -139,9 +179,17 @@
     },
     {
       "company": "Anthropic",
-      "title": ":Claude: Fable 5.1 and Mythos 5.1 - Anthropic",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
-      "summary": ":Claude: Fable 5.1 and Mythos 5.1 Anthropic Anthropic Says New Fable AI Model Is Cheaper, Better at Coding bloomberg.com Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction fo",
+      "summary": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic Anthropic Says New Fable AI Model Is Cheaper, Better at Coding Yahoo Finance Frontier AI at a cost: what Anthropic’s Fable 5.1 means for US",
+      "badge": "hot",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Customers’ Bills Are 80% Higher Than They Need to Be, Glean Says - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeE1GVDVGQl9MdF9QNlg4R09XOFBwNzVYaDdGLTdJRFpPaTBUUVllUExyRERsNUFpd3hmREE3Ulh6RGpGYUVUMXRPQldxWHpKaUprUHhTZGJYaDJqekl5Snl1Q3RNcnpKY0VfblNRSnVESWdNZ1l1dVJPcm5DN3pMVDVzRUs0SVVJLWhFd0xPdmVNRUl2VFU4RTVmSDZ1UDdZTFZLaWpYUGU?oc=5",
+      "summary": "Anthropic Customers’ Bills Are 80% Higher Than They Need to Be, Glean Says The Information",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -174,30 +222,6 @@
       "title": "Anthropic signs $35B computing deal with startup backed by Nvidia - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdm5PRVl5Tmlzdkk3WU9qQ01McWF4NGhRTW1JSWNSeHFQVnpwZU1BVjRCOTQwSG56b1J2dW00VUxkSm5mN0xJaFR4SU9pbWtRMDc5bTgyQjlzVEhUVjVfekVRNEF0dTdhU1hzYkFzYkpobF9GNEtDaHRkUURiTERZclhrdWR3REhxdm9JN0ZWWFlRbjdPU2tmZTM0clhoc0U?oc=5",
       "summary": "Anthropic signs $35B computing deal with startup backed by Nvidia finance.yahoo.com",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic releases new models, cuts agent costs - Axios",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5",
-      "summary": "Anthropic releases new models, cuts agent costs Axios",
-      "badge": "hot",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s $1.5B piracy settlement is back to haunt it - Politico",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjVsdGd3cHdJMHEzVTJhQ3hQUGVDQXJLNmdMWG1NNFZKOVRTa3dBNUV4dmhycnhOX1A5amFQMjhmb3dMUDdnVnQ1WnJQUXljd0pIcEE5OTJnaWNjNHNvZ0JCS0JSMFp6NDl0SWdOck9zTW9YVWR3N0sxWkhTZF9QQTFMdy1mbXBsX3RQM3BCUWNUUVBDa25WUUZFalBhTW5xSG01UzZBMnF2SEdRNXB6N3Y3ZmtNXzhEdU9WZGNTdXNtZGNEVlNDWnZOSEg0M0U?oc=5",
-      "summary": "Anthropic’s $1.5B piracy settlement is back to haunt it Politico",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5",
-      "summary": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding Bloomberg.com",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -235,9 +259,25 @@
     },
     {
       "company": "Perplexity",
+      "title": "Your Mac is now part of Perplexity’s AI infrastructure - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92dVNOVHY1T01aQmdCblZubVZIMTlERVhCemQtV05CMDZYczNwc0tOOHlFbXhYZVBKVFpFRnJuOUgtQ05YMDl2SXBQSnFkSVA1S0ozX3l3VzhlRDVJMnVRbXNJRQ?oc=5",
+      "summary": "Your Mac is now part of Perplexity’s AI infrastructure The New Stack",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI - Engadget",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5",
       "summary": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI Engadget",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGNVMWhoV2tEZGc2R2NXSWNTVDZGWTNVTTJhVlVxaHhlYkF6d3p5bUxkU0s0TnB3T3FiWDdRVnN1SGE1YnU0VUh5ekxTcHRfeGlxOW5vUkZFTFlaQnhpY3hhbHZIeW42ME5ub1R4bngwUVhSUm8wT3o0eVdFbk1RZVBObmpDOHlBWkVKS3Z3TnZEcEVMV3lraExxaS12NlFtZ3NZSmpFejFvNjRodUtVMU81MHY4YS1T?oc=5",
+      "summary": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud VentureBeat",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -255,22 +295,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnVLRDlLUF85bW5sRENRQnVXU2hjdEprMGtVR1Z6a0lqd3JhWmVSZU5rLS1STE84SGpBamlhVmFqNVhCQ1BjUGR1ME9Lak5HdC14bElzU0pfWFVpTUFNT0VfM2pUcm5qaUE4UFN5anMtRDVVZFFOQThYVHJvQWw1YkQ2cnB5ZDM0QXByc0p2N2J2ZUJtd25jVm5mUUgwaWRIMVZYXzZDZGtTa2p4aC1zamNMLTBJOHVQT2FKRnd3N1NHbmxwemdrWUk4UGVqLU0?oc=5",
       "summary": "Productive Promoter Launches Free AI Visibility Report for Small Businesses markets.businessinsider.com",
       "badge": "hot",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Your Mac is now part of Perplexity’s AI infrastructure - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92dVNOVHY1T01aQmdCblZubVZIMTlERVhCemQtV05CMDZYczNwc0tOOHlFbXhYZVBKVFpFRnJuOUgtQ05YMDl2SXBQSnFkSVA1S0ozX3l3VzhlRDVJMnVRbXNJRQ?oc=5",
-      "summary": "Your Mac is now part of Perplexity’s AI infrastructure The New Stack",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud - venturebeat.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGNVMWhoV2tEZGc2R2NXSWNTVDZGWTNVTTJhVlVxaHhlYkF6d3p5bUxkU0s0TnB3T3FiWDdRVnN1SGE1YnU0VUh5ekxTcHRfeGlxOW5vUkZFTFlaQnhpY3hhbHZIeW42ME5ub1R4bngwUVhSUm8wT3o0eVdFbk1RZVBObmpDOHlBWkVKS3Z3TnZEcEVMV3lraExxaS12NlFtZ3NZSmpFejFvNjRodUtVMU81MHY4YS1T?oc=5",
-      "summary": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud venturebeat.com",
-      "badge": "new",
       "date": "2026-09-01"
     },
     {
@@ -387,25 +411,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer - Intuit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
-      "summary": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer Intuit",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
-      "title": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon - XDA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
-      "summary": "This free, open-source browser made me ditch Perplexity Comet, Dia, and Opera Neon XDA",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
       "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - ZDNET",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWpWUmlVTWVWS2pXNnNyWGkzVDdGRUZDSk5ESm9jUXJPdURibkRvcDc4SWktTS1UMjZWN1dGTlRXNjc2Sk1lR3JtTzNZZnBxRE16RHNlN0Rib21Xd3JpNFAzdkt0MzU1QVRXNllWWjl0QzE5WnJLRC1ydkRQNEdvMDhBZndzd3hDeUNpbnk1M1NtNWpweEhN?oc=5",
       "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most ZDNET",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer - Intuit",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
+      "summary": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer Intuit",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -426,14 +442,6 @@
       "date": "2026-08-31"
     },
     {
-      "company": "Meta",
-      "title": "Zuckerberg's plan to replace staff with AI lasted four months - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bFdPUDRUZ1JTbEg0N21WUEdlbDRvdEEtQTZjWjJjaktvZEdLTWx0X3hVZnFyZkFvRXVoaXczU0ZLamkwZ3NoeXBueE9nZ3otc2d0ZV9XSVYzb2dMb0NNWlFLbm1XRkRYZ3V5Sy1USTZkUW0yNUFMSEhRYw?oc=5",
-      "summary": "Zuckerberg's plan to replace staff with AI lasted four months The Next Web",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
       "company": "OpenAI",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -447,14 +455,6 @@
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "badge": "hot",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "DepEd and Microsoft deepens partnership to scale Copilot across Filipino public schools - Technology Record",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFBaTWlnU19peTk1eFd6a1dlSzF3RUhHdXExWGEzamsyMm1RQTJhVk9BRTI4TTJtczMwMVJRTDZOYkhTNDhVSWZRenNoNE9LeHVlTjJkQ0ppQkl1dGFFZ0N4NVp1eDFZOTlDMFRhYWlOQVdjenZVTUMtc3UtTEFtSV9hZk5qblJGUng1QmkzMEhVZkNiblVHTm4ya2pOR2hRQ3BYX3d4SjFRTl9tUDRvSUkzZno4Z2tjQnotR3A1WERtbUhRcnJR?oc=5",
-      "summary": "DepEd and Microsoft deepens partnership to scale Copilot across Filipino public schools Technology Record",
-      "badge": "watch",
       "date": "2026-08-28"
     },
     {
