@@ -1,11 +1,27 @@
 {
-  "updated": "2026-09-02T02:28:30Z",
+  "updated": "2026-09-02T10:25:56Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Architect of British government’s AI strategy joins Anthropic - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
+      "summary": "Architect of British government’s AI strategy joins Anthropic The Guardian",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
     {
       "company": "Anthropic",
       "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGFjc2FGWHhOeE9TaEJnVXhGYTl4cEZQVzNKTTNWcmVueTB4eWNTVTI1X0luZnd5cFRiQThjRk9nYXh2TmRybTFNb2o1SjhBWnJlN3dOQTFLZkJNeVowUkFNQWdGMWJ0aExWSWhaUFdHa19sa3dLSmIyc2dkdDZ5Vl9zWUtFYjl4dlotUUpYOHRXSUt4RWc?oc=5",
       "summary": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents The Guardian",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2ZDRV9ieFQ3VVRkd2xTeWJJMmJnV2loeTVQbkJkT0NBZmU2ejdUcHdMdWJVYzZWdWRoQWdPZGk2WFFqNk5veXRYS2RScExpS2JXakRyNVJNY3dxaDctUHd3Nk9uc3FRWkMwZGZyN0V6LXhMLThURHBZNHhEZU9ZQ1FLdDhzcFAwRWhNd1F0eHNvQThMa3hJYUgtcldfcXdGZnVyajY3NGloUjBUZ1RFN0dGd1ExUy1NdlNJTmxJZGhjVVBjMktTWDZGaw?oc=5",
+      "summary": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot Business Wire",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -83,9 +99,17 @@
     },
     {
       "company": "Anthropic",
-      "title": ":Claude: Fable 5.1 and Mythos 5.1 - anthropic.com",
+      "title": ":Claude: Fable 5.1 and Mythos 5.1 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
-      "summary": ":Claude: Fable 5.1 and Mythos 5.1 anthropic.com",
+      "summary": ":Claude: Fable 5.1 and Mythos 5.1 Anthropic Anthropic Says New Fable AI Model Is Cheaper, Better at Coding Bloomberg.com Anthropic changes data retention policy after pushback from customers CNBC",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "BTC news: Anthropic’s $35 billion AI deal runs through a bitcoin miner’s Texas campus - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHhNcmNlU2pOaEpkdUFyZkVZSkNSQXVQel9EdXhzdjQyb3pTTXcyTnpSZ3lLVHJUOU1EWWh3VnJlV2lDbjR4azJTN1dxWXdXbTNiTnVyYWNwVzFPQUUyOG54TzhXb2pXanlQVFBnbGZybElhTUU2aTUwbUc4UUZYXzVsUUsyZ3dvQUQ1REZ4cksweWtLbUJXR0F0ald6RGxNOUpoRkQ0WlpFckprOFQybg?oc=5",
+      "summary": "BTC news: Anthropic’s $35 billion AI deal runs through a bitcoin miner’s Texas campus CoinDesk",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -171,17 +195,25 @@
     },
     {
       "company": "Perplexity",
-      "title": "Your Mac is now part of Perplexity’s AI infrastructure - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92dVNOVHY1T01aQmdCblZubVZIMTlERVhCemQtV05CMDZYczNwc0tOOHlFbXhYZVBKVFpFRnJuOUgtQ05YMDl2SXBQSnFkSVA1S0ozX3l3VzhlRDVJMnVRbXNJRQ?oc=5",
-      "summary": "Your Mac is now part of Perplexity’s AI infrastructure The New Stack",
+      "title": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI - engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5",
+      "summary": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI engadget.com",
       "badge": "new",
       "date": "2026-09-01"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5",
-      "summary": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI Engadget",
+      "title": "Productive Promoter Launches Free AI Visibility Report for Small Businesses - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnVLRDlLUF85bW5sRENRQnVXU2hjdEprMGtVR1Z6a0lqd3JhWmVSZU5rLS1STE84SGpBamlhVmFqNVhCQ1BjUGR1ME9Lak5HdC14bElzU0pfWFVpTUFNT0VfM2pUcm5qaUE4UFN5anMtRDVVZFFOQThYVHJvQWw1YkQ2cnB5ZDM0QXByc0p2N2J2ZUJtd25jVm5mUUgwaWRIMVZYXzZDZGtTa2p4aC1zamNMLTBJOHVQT2FKRnd3N1NHbmxwemdrWUk4UGVqLU0?oc=5",
+      "summary": "Productive Promoter Launches Free AI Visibility Report for Small Businesses markets.businessinsider.com",
+      "badge": "hot",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Your Mac is now part of Perplexity’s AI infrastructure - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92dVNOVHY1T01aQmdCblZubVZIMTlERVhCemQtV05CMDZYczNwc0tOOHlFbXhYZVBKVFpFRnJuOUgtQ05YMDl2SXBQSnFkSVA1S0ozX3l3VzhlRDVJMnVRbXNJRQ?oc=5",
+      "summary": "Your Mac is now part of Perplexity’s AI infrastructure The New Stack",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -219,9 +251,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta is moving employees to Slack because it sees a better future for AI agents - businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01JSWdVSmxDR1FUVVNLQlpxQUh5eGp4YjhWbVJkcGRtem1PeS1Yb3g2WG1zb1JSVWlXMDVTbTlPU0NYdGRXSnFKWmJfeG5qel9NaWpwUzc5ZW5NeTdrQlZPbkU1b3UyWVVObGhnQ092Umt2T1liZG9uT3haMjBuZlpGMUJ6SEpfaWptcXRUekhRUHNO?oc=5",
-      "summary": "Meta is moving employees to Slack because it sees a better future for AI agents businessinsider.com",
+      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5",
+      "summary": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways CNBC",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -235,9 +267,9 @@
     },
     {
       "company": "Meta",
-      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5",
-      "summary": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways cnbc.com",
+      "title": "Meta is moving employees to Slack because it sees a better future for AI agents - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01JSWdVSmxDR1FUVVNLQlpxQUh5eGp4YjhWbVJkcGRtem1PeS1Yb3g2WG1zb1JSVWlXMDVTbTlPU0NYdGRXSnFKWmJfeG5qel9NaWpwUzc5ZW5NeTdrQlZPbkU1b3UyWVVObGhnQ092Umt2T1liZG9uT3haMjBuZlpGMUJ6SEpfaWptcXRUekhRUHNO?oc=5",
+      "summary": "Meta is moving employees to Slack because it sees a better future for AI agents businessinsider.com",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -270,22 +302,6 @@
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
-      "summary": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia WSJ",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Improving our alignment and security practices - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
-      "summary": "Improving our alignment and security practices Anthropic",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -323,25 +339,17 @@
     },
     {
       "company": "Perplexity",
+      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWpWUmlVTWVWS2pXNnNyWGkzVDdGRUZDSk5ESm9jUXJPdURibkRvcDc4SWktTS1UMjZWN1dGTlRXNjc2Sk1lR3JtTzNZZnBxRE16RHNlN0Rib21Xd3JpNFAzdkt0MzU1QVRXNllWWjl0QzE5WnJLRC1ydkRQNEdvMDhBZndzd3hDeUNpbnk1M1NtNWpweEhN?oc=5",
+      "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most ZDNET",
+      "badge": "new",
+      "date": "2026-08-31"
+    },
+    {
+      "company": "Perplexity",
       "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer - Intuit",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
       "summary": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer Intuit",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most - zdnet.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWpWUmlVTWVWS2pXNnNyWGkzVDdGRUZDSk5ESm9jUXJPdURibkRvcDc4SWktTS1UMjZWN1dGTlRXNjc2Sk1lR3JtTzNZZnBxRE16RHNlN0Rib21Xd3JpNFAzdkt0MzU1QVRXNllWWjl0QzE5WnJLRC1ydkRQNEdvMDhBZndzd3hDeUNpbnk1M1NtNWpweEhN?oc=5",
-      "summary": "I used Perplexity's AI agent in Windows to tackle 5 complex tasks - here's what impressed me most zdnet.com",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Intuit and Perplexity Team on AI Integrations - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2Y3N01jREZyeE9keDdBX1F6SFdERU1BMk9TS2hQak1rSzFVTDZtTkZwc0Nyd2FRcmRPd1dwZlA4ZWJGMVQ2TWJ1SDNnQ3VUUTRTazJDNGpoZ2FqWUlKNEh1MUhlWmNZQm8wV0RwM2c4MVhGVURkaVVDZ0JmS0sydEtIODhnV2pTSVZ4QThuM0VnY3JVb0YxX093Z3VVdVNoQ3BraThn?oc=5",
-      "summary": "Intuit and Perplexity Team on AI Integrations PYMNTS.com",
       "badge": "new",
       "date": "2026-08-31"
     },
@@ -454,14 +462,6 @@
       "title": "Microsoft and HUMAIN announce long-term strategic collaboration to enable AI transformation in Saudi Arabia and beyond - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX0RMM08zRWNBUV9WVUI2UWthamlKZXJ4OGctaFdxVnVpTGlRUjJ6ZEM0bE1BU0xGakVmOVJKZmVYbWg2aFkxY1p3TnQ2eDhzVkhzcy1tS0hVYTR5d1ZaVi1Oa2NNQ0dFZzFuWEN6SjVRNDFmdm1pQ0pQeEQ0eTN2dk5tNEh2RjBJbERnaXRRMTJRdHBSdm1DNDdnVmc5Y2VfSUVrTE5wcUVIT1JoZ05WcHdRcEEtdmdlQ3RGOHlzV0diN2otc0lRYnREZGNVSC1nWnZEVkwxQkt1d2oxQnhsanA3NDVqMFpqQ0NWbUQzY0VkXzIxb1AxRmdQbDY?oc=5",
       "summary": "Microsoft and HUMAIN announce long-term strategic collaboration to enable AI transformation in Saudi Arabia and beyond Microsoft Source",
-      "badge": "new",
-      "date": "2026-08-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Bing Testing Renaming Copilot Search Answer To AI Overviews - Search Engine Roundtable",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTN0NWJULUU2dVJJV2lTd1VCQm5EYWNNV2hjZU5OOEJOTklXX2plc0VKT3hYWXlNOG1neHlLaC1uZWkyazFuODdGZF84MVZKaVpNOUJkSHoySjNhMmFCR0p6d2dRSEJsbHV2ejhFNnR2Q0JqSmxpN0pvampXdVlLVFJaTDhWSzQ?oc=5",
-      "summary": "Microsoft Bing Testing Renaming Copilot Search Answer To AI Overviews Search Engine Roundtable",
       "badge": "new",
       "date": "2026-08-27"
     },
