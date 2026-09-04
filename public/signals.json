@@ -1,11 +1,115 @@
 {
-  "updated": "2026-09-03T20:24:01Z",
+  "updated": "2026-09-04T02:32:06Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
+      "summary": "OpenAI says it has overtaken Anthropic with its latest AI model Financial Times",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQno2Si1NT01wRmxzSHRFYVc4LS1IWW8wZ1lVcXNTN20wbzI1OTlzRHhTTDEzQm5Kb2xtYlB1S25LbjMtdGxEb0dHLUVGbGQ4S1NrVC02MUhCOUZKSkI1X010QW5BbEJOQ2pTNXFHVjZWbHpQbkxLNzRyalZCcmQzS2VIUzZVNmg0bGRJY3c5SGptZw?oc=5",
+      "summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today WIRED",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmt6OFNCckNQY01NbDFlRF8tRHl4X2lTNVVxRXZ0WnFTY20yLTIzaFUzX2dVWTR6alhJaVVsUFAxYUdaUEtqTWFnTXBhV2x0Z1JQSVNhaVdGRVdkYWVkeWZmTFJDYkdhekRiYzJTQlBSX1lrRG5aZjRnRjA4VE9VdWlrZWdZQXFXczVDeXNPSXY5YVhPMUdGekNDbVkzTVdWQmE0?oc=5",
+      "summary": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
     {
       "company": "Anthropic",
       "title": "Which Investors Will Get Rich From Anthropic’s IPO? - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTR5VzNmN3BqcWFjdy1mVHBjNzVSYmxwN05WSTlZZ05qa1Joa1ZJalBmYlI3bHJOU3YyVXJ1eDdFR2lsNXFSNEdpbExjSFVtbnE1dEh0ejYwbDVhdEEySVczYTZtc1pEZEZaWlF5clZOTWppWXFNZHo1WGcteEd1YmhEdUVEUklKaXc?oc=5",
       "summary": "Which Investors Will Get Rich From Anthropic’s IPO? The New York Times",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Nears Finalizing $15 Billion Pre-IPO Credit Facility - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOExNTGpmX1ZyVUtwbXBmVWkyanNXNnY2eUVJQlhDTG0tT0Z0cUdkcGk4bVVrd0FWVnlkRDRxcC14TUI0STd0bkE4Q3RLLXVSUGExZmtneUctNmItcjlDNmZpTWhfckZGVFJYd0RISEdIUVRhSmNxS2o1OVAyaW9YVm90S2wyYWZ4SnZGSzNzZmhiaXE1MmpkTHhIazI3b3JKMnlJcVBXS0tON19xVTlJeGV3?oc=5",
+      "summary": "Anthropic Nears Finalizing $15 Billion Pre-IPO Credit Facility Bloomberg.com",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -27,14 +131,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
-      "summary": "OpenAI says it has overtaken Anthropic with its latest AI model Financial Times",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Anthropic",
       "title": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFR4SXJsQmlGRjQ1MnRQaFlzRHlELWJMc1hDQ2hxRzJVX1BYVVBGN3ZCRnBfZEkxSlJiYzVPNk5mSlFLb2p3amRBZUladm1RNFFuRzR0Zmg5bU1zNGItaUloeF9kanpORUQzTDBrUlM3RkZTbHRHcXBUZkhwd0FmZ25xY283YXdtR1N3MHlZYUhFM0UzUzlaSmVnTHFDZVRZZzZRTXk3eXNZcU1XSG5lNWQtbTFCdw?oc=5",
       "summary": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike Business Insider",
@@ -46,6 +142,14 @@
       "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ203aDVEOHUwaUJZNFFDbDdqRWZTdmtaT3V3MktVZGlaRVdDdU8wLUxfVG0zRnNCRTdvNVlJeEx5YV9hYXdWbDVPdXl3NEVyY2x4NzdGU3poWEQweTVJRmNHTHYtaFVIOGMyZnZYMGRIYmt1R3NJa2kyaXRWY0tKa0V3Ri1BZExJZkxiVHZtN0RDLTYxTE9NZw?oc=5",
       "summary": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Microsoft",
+      "title": "PPCC 2026: Bringing AI and your business processes together - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW8xUkNJaEVUczNTUHdteXNTeDZNWkx5VEVOYnRzcDhqNVRNTl94bHhoNVo2bVp1djlrYUFQQ2wyaEpQb003ZnhPX2toQ05DZkg3R2FHYWQtWGpfWWVWZG5kTHM3QnU1UmxZdmxWTGUtRE5DSGc0eVU2ZE0tc0ViemhXVXNXZzNmR1E4elR2cU9na3hTZlpWSFNLbGg2ZUZMMi1GZkp6NnZ3cnhLQTJMaHNyTHVfQWREUVU5WWJn?oc=5",
+      "summary": "PPCC 2026: Bringing AI and your business processes together Microsoft",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -74,46 +178,6 @@
       "date": "2026-09-03"
     },
     {
-      "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
       "company": "Perplexity",
       "title": "Maybe we were wrong about Perplexity - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWtGMlVtTFdNREpZblEtRTVscFRRRVRTQW91TUFPd01PWTVscVUtN1A0cnNlNEQtVU04UnNNRVAxWVlQTmxOaFVQZUlkTkRIdjhlVzc0N0hLWUZfRGlzSmktZl9MbFNTRGYwM01LRnBHT1Ywc2Rtd212S0N0dw?oc=5",
@@ -134,6 +198,14 @@
       "title": "ChatGPT Atlas Dies Aug 9: Comet Free vs Gemini $250 [2026] - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1MyVU00Z0tqUHF4VUdRRjdYYnJVRXRQbjV6d1Z5SE1CNXhZanhJbzJmUkc1QVZkb0EyN3FZT2d0UGlUdlBCcmJhd3pVbnBvY1pjM0psVDNQODY5V083c281YlBYXzB1V21MRnA5Z2hYc1JVMndQTHhaYmhSZVYwVUlRaWRJbkVhUnZIbw?oc=5",
       "summary": "ChatGPT Atlas Dies Aug 9: Comet Free vs Gemini $250 [2026] tech-insider.org",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing - gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFE4bUotTDJNS2NLSEdxdUlTX3lCYTctUWpNZkVpS2hmSEd6YjhXTW45TTZlUVZ6UWpnV2ZXcWpxY05JampMQmc5aUFySGNmSTJTZ0E1VHR6Wl9leXhMWE83Wjh5Q0IxUUpMbkw2Z0RjZk1yeTl6WUtXN3VrcHQ2S2RyeGlBaDJ6OFZEUENHZ0F1UnhweV9UOUhnc3lBb0NHeUtr?oc=5",
+      "summary": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing gizmodo.com",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -170,35 +242,27 @@
       "date": "2026-09-02"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Deliberately Trained an Extremely Misaligned, Reward-Seeking AI and It Did Some REALLY Bad Things - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0xVVklmMlJQZ0VtaVFCVGdqQkFEZVlva3JOTURaREFYWC1yRDVlZUR2cFotbW03UHE1R3pWN0JwbzM1clpFcmVyS3U2dEhyVFBLSy1VZkFreU4yOW5MRGlEV0plTk8ybVo2cDVaQ1VtVVpWa2Y3ZktXbzhjZ1JMZEUwSFh2bUtpZE9NYVJBWDg4eDhVdGc?oc=5",
-      "summary": "Anthropic Deliberately Trained an Extremely Misaligned, Reward-Seeking AI and It Did Some REALLY Bad Things Futurism",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Watch Commerce Secretary Lutnick on AI, Anthropic, Canada Talks - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzFrSUs2VXlfQnlyV3NEOE9UbjRHRnl0eW1JWnN5angwcl85eWtBLUNkRDlDS3d2bjI5eTlfTnNOUGNtdnFvWjFBVHA0TEQwdVlZeWVjcDVkWDFCVk1PZXZ5VFJJMGN1dGVOa0l6T3JWcGJOX2dJRTUtR1hxRzlZSkJyUWVtb0k3SlhyZWh1M2x4YkZsbnVRdGNWWHcyQUdLNUdNRTBCQWJ0bGV5?oc=5",
-      "summary": "Watch Commerce Secretary Lutnick on AI, Anthropic, Canada Talks Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA?oc=5",
-      "summary": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports Reuters",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
       "company": "Google",
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "summary": "Introducing Fairwind Program",
       "badge": "hot",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "New and improved: GitHub Copilot harness, agent skills, and richer context - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUmdTamhJbmFRdzBGV2FwM2x1Qnc2cGtXOW9qVlJIdElLR0ZlTE5FNC1EM3ZadDJLbjZUQkdsTzdweUQ4cDRqYi1EaFBDT0JXV3BmaHA4N0tHWERlSW5NVjBsMDBWTk1ubmFqQkFldXI5eXJqbFdBQlZTTkg5bnY3c3hQUGV5d2VZWHJoa2xTWklaUHhiWFVuVjNmS3dmNkJERU9OU1dTY216LTg0VDRuam1LbWNvd05CaGk0MjU5bmhDbmdEa2l5amF1dk1mUDBvdWhNODRIel9zUQ?oc=5",
+      "summary": "New and improved: GitHub Copilot harness, agent skills, and richer context Microsoft",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Fabric in GCC High: Building the data foundation for AI - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU1RHX1NwenktXzUzR0U3N25JUjhNcnExcVRLcHdBX2FXZ1hSRkwxWjdmbmxIc2F3a1pYeXp2UUMwcmxfRGwyNDRrcHM3ejBYVGUtODg3cW9ucEV3M25iOTg1OHlHbEdpMFBETXNQQWUtRGQtbV9FMlpUOWtiNDQtdjFwSVN0Q1E0S1k4N3V2MC1LN3Fqal96aDRQM25CdGY2RnVNM0Y0bTlwVzBrSWt0SF9Ta2NWYVpxN21acHZSZWJVd2VId2Q1cklBVGQ4bkU0czRXYWlNWmRmaUk?oc=5",
+      "summary": "Microsoft Fabric in GCC High: Building the data foundation for AI Microsoft",
+      "badge": "new",
       "date": "2026-09-02"
     },
     {
@@ -234,26 +298,10 @@
       "date": "2026-09-02"
     },
     {
-      "company": "Microsoft",
-      "title": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXlma1VKZ3Ytcy1kLXEyNndKMTRHTmFZbHNPQnA2THRPZnhGWnN0NnV5eGNpRTVNZUhhLVRaLXpzLWh4eGlMR0pTS0ViOG1HdDZjaTJWRFBPVHFRdjJZSnJtUkEtRlRjeFpDX0h3d2J6RUI4czRMcjcteE1INmRMdzJFRUc1MnlXSHRLaVRUc2FsU3hHZFNDelNpM0xJdDB2UXJUZkhHU21HQlVPcm15MjNhVkJMUDQ4ci1OMDlJSXlYT3JXNVFETkk5NA?oc=5",
-      "summary": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot Business Wire",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Firstup Extends AI Leadership With Award-Winning AI Search, Copilot and ChatGPT Integrations, and ISO/IEC 42001:2023 Certification for Responsible AI Governance - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNNE0wck5OZm8zdWpCWXIzdjFGcUM4eDFvWUpIY3FRRzBfdXVMa3k2SkxEQXVYZ1RPM2didDExVWRkSTJyX3MwbjllVlhQUGlpX3F1S19Sc3FSODJZaHg4MG1YZExMVUR6c0xYa1kzZGdMend1alVfbVE1VkM0UlhIQ0d1RXRMT01zMUNmaXEwWWoyb2FqM3Exc0dwdzdhbEVieDJHNkNuNFZpOGRfa1VFcGxxLTAzS0U1UFVQSkZEUHI1S1FSMVBfZWR5aVgtalowaHlETWNXOVhVMUY4S3NsRzVLQUc2TGR4c2RZOVZDa1Z0VDk0ZlM5Y09TVHB0WVdUZ2o2cWNlV1lxeVNHWF9IMW1zUlg1TVFRSFBNZDlmaG5jSHFDSTVhVnY1eGREZFBQRWVoYkQxTQ?oc=5",
-      "summary": "Firstup Extends AI Leadership With Award-Winning AI Search, Copilot and ChatGPT Integrations, and ISO/IEC 42001:2023 Certification for Responsible AI Governance PR Newswire",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2ZDRV9ieFQ3VVRkd2xTeWJJMmJnV2loeTVQbkJkT0NBZmU2ejdUcHdMdWJVYzZWdWRoQWdPZGk2WFFqNk5veXRYS2RScExpS2JXakRyNVJNY3dxaDctUHd3Nk9uc3FRWkMwZGZyN0V6LXhMLThURHBZNHhEZU9ZQ1FLdDhzcFAwRWhNd1F0eHNvQThMa3hJYUgtcldfcXdGZnVyajY3NGloUjBUZ1RFN0dGd1ExUy1NdlNJTmxJZGhjVVBjMktTWDZGaw?oc=5",
-      "summary": "Euromonitor Introduces Passport Intelligence Through Microsoft 365 Copilot Business Wire",
+      "company": "Perplexity",
+      "title": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1R0SnZTRGtoU0Y3bUZNZHhQUzA5Tl9MT3BPc08yQVhOQTAxdHVTYVJXQW1VRlBqTkRGMnc1UnF4MXR3T2I0d0wtaHpJYjkwa2ZKU0JUTHB0SEhxazItUjNrLTdNZ0lWTWU4Z0xFSUFfalBpQktma0c1LWxyaEpNR3I1VzJfdzloN1VGdndYTFJSN1BIRmttaXg3eElnNEtyRkNzVFYybVZueTdfeUpnUjdEVFVDamFsVUxPQ0ZzcVdoV1ZDWEpj?oc=5",
+      "summary": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more Tom's Guide",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -283,14 +331,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
-      "summary": "Meta says AI glasses fix stops users from secretly recording others CBS News",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Meta",
       "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
       "summary": "Meta bricked the cameras on thousands of its AI glasses Business Insider",
@@ -299,9 +339,17 @@
     },
     {
       "company": "Meta",
-      "title": "Burning Man Has a Meta AI Glasses Problem - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yX0JHczYtUjE5NXlwcXd0TnZuTlJKaUlqcnNpb0lNRUJwdVI3RnFIc0czN19wR2tMVHVoeVRnUktXbnFxNXRsN05hS3VXZHVwRDZxZDlBR0tuWGN4ZGM1MDBlOVJMX2VLLVlOWDhrRXRWVjhvWlA5SQ?oc=5",
-      "summary": "Burning Man Has a Meta AI Glasses Problem Futurism",
+      "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
+      "summary": "Meta says AI glasses fix stops users from secretly recording others CBS News",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHZLQ2hDbU5HRS13cnlNOGZ4b2dQNnF5VEQyU2hfMi0zWU1wSDQ3U2Q0TlpjUXphUW00dWVMdUJTbGloQzdpRzRVbGNiT3dzUjRmdmZrdzFkU1EtQWV6cGFCdTltZ0JBamY1WG5FaDFMaThnZ3o4UmlXeWNXdUlqZjVRUW04NlJBNE5rS1ZUM215V05YLW9uakRNa2Y?oc=5",
+      "summary": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit Futurism",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -315,18 +363,18 @@
     },
     {
       "company": "Meta",
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4dw?oc=5",
-      "summary": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says CNBC",
-      "badge": "hot",
+      "title": "Burning Man Has a Meta AI Glasses Problem - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yX0JHczYtUjE5NXlwcXd0TnZuTlJKaUlqcnNpb0lNRUJwdVI3RnFIc0czN19wR2tMVHVoeVRnUktXbnFxNXRsN05hS3VXZHVwRDZxZDlBR0tuWGN4ZGM1MDBlOVJMX2VLLVlOWDhrRXRWVjhvWlA5SQ?oc=5",
+      "summary": "Burning Man Has a Meta AI Glasses Problem Futurism",
+      "badge": "new",
       "date": "2026-09-02"
     },
     {
       "company": "Meta",
-      "title": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHZLQ2hDbU5HRS13cnlNOGZ4b2dQNnF5VEQyU2hfMi0zWU1wSDQ3U2Q0TlpjUXphUW00dWVMdUJTbGloQzdpRzRVbGNiT3dzUjRmdmZrdzFkU1EtQWV6cGFCdTltZ0JBamY1WG5FaDFMaThnZ3o4UmlXeWNXdUlqZjVRUW04NlJBNE5rS1ZUM215V05YLW9uakRNa2Y?oc=5",
-      "summary": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit Futurism",
-      "badge": "new",
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4dw?oc=5",
+      "summary": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says CNBC",
+      "badge": "hot",
       "date": "2026-09-02"
     },
     {
@@ -379,6 +427,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5",
+      "summary": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI Engadget",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Perplexity",
       "title": "5 Best Platforms to Access Perplexity AI Shares on the Secondary Market - finchannel",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1ZCVWhuUGh6R2hiSjFZejJMNTNZR3B6N1V5MUJpU3ByVXM4YnFFQzhhY0U3WDhIYnlmalZYX0pPclEyR1JJWXVRRWlaOWQyVnRiYWpReEpGbDdYWnY2c19LMDNOWlpSQ2RCSERIa0g1bmNKVVQ4dzhCZ3VpM2ZTS3I5QWJDZjN1bnNNU1BuWXF5dUZyYXpoS3lRRld6MGtrZ3RMRUlmMzViTkxKU1BqdWhMYS1MS0QtU3c?oc=5",
       "summary": "5 Best Platforms to Access Perplexity AI Shares on the Secondary Market finchannel",
@@ -394,34 +450,10 @@
       "date": "2026-09-01"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity gives small businesses AI agents for QuickBooks, Mailchimp - emarketer.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNLcDRSV3BGdUFtS04wcGljSi1EMnotaWdQMW8yT3lISEhpeUNPOXhMTnRGaWY2U3psVFA3a1BKdk5Pbm9ZbmxPQmMwZ2t2T1hUai1oM3dGWUl5TzRobHVZZ1RtTUt2OVIxWmVsVkJfaFVMV1J5QktzWGZuY1QtLW9Oa3MxUV9Xcm1URG1GSm5uYmFYN3B1Z01XNFo2TERU?oc=5",
-      "summary": "Perplexity gives small businesses AI agents for QuickBooks, Mailchimp emarketer.com",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity brings hybrid compute to Mac, keeping sensitive AI work on device - MacDailyNews",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDI0elJRMWVHOXU0Z3FEMU5lNmVQN2kzQXdBelRqaVUwWU9MZ0FDelY1bThLalUxVUFVWWxnODBWd1lscjRBOGxnMVp1VXVoWXV1bWozSWNqWmF6S0JaMjJ0MFV6YW1LSWNucEhzMHc4R1JLYzRnQVY3UzVKWUNjbGowZXFqZVdpSmZUN1ppNDZ4YkluQnpiSnp6RGN2emZUTzFHdzZlOHN4WEhwZTkzVEpB0gG3AUFVX3lxTE55YzhpUnh4d2Q0d29jZDZMLUlTYkl0VHZTcHhWeTFUd2dIeEFRbG0taEsyU0RYZHVpQ2pqa0dQTFBRVEsycmZRWk5EMGZIajNkdWlndDdjVE43aUY3U3dkYW9FaHR2WXFUalRIdm42bHpZeTh6X3NJWHlCLUdHU21mVnBuVkM2SktZcnNpcjE2WWlzNUVSOGNVZGhOLTdSU2t3VmlqSWtKMGpmR19IRy1XMDFXZHRNYw?oc=5",
-      "summary": "Perplexity brings hybrid compute to Mac, keeping sensitive AI work on device MacDailyNews",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
       "company": "Meta",
       "title": "Teachers in Louisiana got up to $50,000 bonus because of Meta’s AI data center: Report - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRDNSaFRGWW53MWktUXg1OWlNQzRhdXZScnozLTJuQnpOYXZ6SmtqbmwtX0pFMVBNQi1SU1BIZUJ4dHpiTzIwMjBwbjBqckI1a21rTHJn?oc=5",
       "summary": "Teachers in Louisiana got up to $50,000 bonus because of Meta’s AI data center: Report Fox News",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is switching to Slack because it says it's better for AI agents - businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01JSWdVSmxDR1FUVVNLQlpxQUh5eGp4YjhWbVJkcGRtem1PeS1Yb3g2WG1zb1JSVWlXMDVTbTlPU0NYdGRXSnFKWmJfeG5qel9NaWpwUzc5ZW5NeTdrQlZPbkU1b3UyWVVObGhnQ092Umt2T1liZG9uT3haMjBuZlpGMUJ6SEpfaWptcXRUekhRUHNO?oc=5",
-      "summary": "Meta is switching to Slack because it says it's better for AI agents businessinsider.com",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -432,38 +464,6 @@
       "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "badge": "new",
       "date": "2026-08-31"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "OpenAI",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "badge": "new",
-      "date": "2026-08-31"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "badge": "watch",
-      "date": "2026-08-28"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "badge": "hot",
-      "date": "2026-08-28"
     },
     {
       "company": "Google",
