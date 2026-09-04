@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T02:32:06Z",
+  "updated": "2026-09-04T10:24:05Z",
   "signals": [
     {
       "company": "Apple",
@@ -75,17 +75,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
-      "summary": "OpenAI says it has overtaken Anthropic with its latest AI model Financial Times",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQno2Si1NT01wRmxzSHRFYVc4LS1IWW8wZ1lVcXNTN20wbzI1OTlzRHhTTDEzQm5Kb2xtYlB1S25LbjMtdGxEb0dHLUVGbGQ4S1NrVC02MUhCOUZKSkI1X010QW5BbEJOQ2pTNXFHVjZWbHpQbkxLNzRyalZCcmQzS2VIUzZVNmg0bGRJY3c5SGptZw?oc=5",
+      "summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today WIRED",
       "badge": "new",
       "date": "2026-09-03"
     },
     {
       "company": "Anthropic",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQno2Si1NT01wRmxzSHRFYVc4LS1IWW8wZ1lVcXNTN20wbzI1OTlzRHhTTDEzQm5Kb2xtYlB1S25LbjMtdGxEb0dHLUVGbGQ4S1NrVC02MUhCOUZKSkI1X010QW5BbEJOQ2pTNXFHVjZWbHpQbkxLNzRyalZCcmQzS2VIUzZVNmg0bGRJY3c5SGptZw?oc=5",
-      "summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today WIRED",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTQzRmk3d2JRWHoyeWtHelBmM0tiMnZKX2lKcDhrYWF3TzBEa2pHVUtxcENQanZGVU9remJ1OVNMa0wxNVBOUkdtdE9fVERuSHE2M2hHbnI3V3pwNUFxTTB4ZjR2YWZ2akFfaGZTRmNrQmg3VUJuZlpFbDRVV3NjaE1XSkNVckw2T2U1ZEJKTmVGN3RL?oc=5",
+      "summary": "ChatGPT, Grok, and Claude all went down at the same time The Verge",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic, SpaceXAI Hit by Outages for AI Models - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHgtQ212elYwVVRndlZ0dGI2bWc0N1NNcUFtbU1ieGxLUHFrMWpwRzNlaDBTcG0zd0NpNXhLakxqZ2xKTWo3OENnaGw5LUNXRGVyeGpiTTVDQm5GdWFzbURyT0Q4bE9nN1kzNF9Rb3BpM3VCZTU4S19IYVZKemt1cER4R0J6WXhZMTJLcHktT0dNTVg5THlfR0hFdmZOX3ZaWm41X3ZMN1ZGY0tOY1NSX2Vmbw?oc=5",
+      "summary": "OpenAI, Anthropic, SpaceXAI Hit by Outages for AI Models Bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
+      "summary": "OpenAI says it has overtaken Anthropic with its latest AI model Financial Times",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -134,14 +150,6 @@
       "title": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFR4SXJsQmlGRjQ1MnRQaFlzRHlELWJMc1hDQ2hxRzJVX1BYVVBGN3ZCRnBfZEkxSlJiYzVPNk5mSlFLb2p3amRBZUladm1RNFFuRzR0Zmg5bU1zNGItaUloeF9kanpORUQzTDBrUlM3RkZTbHRHcXBUZkhwd0FmZ25xY283YXdtR1N3MHlZYUhFM0UzUzlaSmVnTHFDZVRZZzZRTXk3eXNZcU1XSG5lNWQtbTFCdw?oc=5",
       "summary": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike Business Insider",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ203aDVEOHUwaUJZNFFDbDdqRWZTdmtaT3V3MktVZGlaRVdDdU8wLUxfVG0zRnNCRTdvNVlJeEx5YV9hYXdWbDVPdXl3NEVyY2x4NzdGU3poWEQweTVJRmNHTHYtaFVIOGMyZnZYMGRIYmt1R3NJa2kyaXRWY0tKa0V3Ri1BZExJZkxiVHZtN0RDLTYxTE9NZw?oc=5",
-      "summary": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved Yahoo Finance",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -203,6 +211,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
+      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing WIRED",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta sued for recording people who never bought its smart glasses - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUhVQlZRaWhGOWJzQmk2WmVua1dQdUt5ZVF2akpFWWt2NnAybF9IdlM1R29LWEZVem1Yb3B1cGpEb19abDZuMDBlcGlBNzkwTXd4UmJEQWpnT2ZxOHBHRHAtcmFSTTBMWnZGS3NSai1PVGtNRjNXcTlzY19rQnBuMUwyQmRsMmFyTFA0UFcyNA?oc=5",
+      "summary": "Meta sued for recording people who never bought its smart glasses yahoo.com",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Meta",
       "title": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing - gizmodo.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFE4bUotTDJNS2NLSEdxdUlTX3lCYTctUWpNZkVpS2hmSEd6YjhXTW45TTZlUVZ6UWpnV2ZXcWpxY05JampMQmc5aUFySGNmSTJTZ0E1VHR6Wl9leXhMWE83Wjh5Q0IxUUpMbkw2Z0RjZk1yeTl6WUtXN3VrcHQ2S2RyeGlBaDJ6OFZEUENHZ0F1UnhweV9UOUhnc3lBb0NHeUtr?oc=5",
       "summary": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing gizmodo.com",
@@ -234,19 +258,19 @@
       "date": "2026-09-02"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5",
-      "summary": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season Reuters",
-      "badge": "hot",
-      "date": "2026-09-02"
-    },
-    {
       "company": "Google",
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "summary": "Introducing Fairwind Program",
       "badge": "hot",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21LX2w1UUF2N2t0X1ZKaEgzZW5BcEpuV1NhT2ZQelZIclZ3b05RWEEwT3VVWFEtclNHRmxMbXZYUG42bUZ5b0EzQXJqQll0amsxMTJfM2tGS284S0k3YXNtdkpWelFfaWxEbjE3Y2JGbzhhaktxd3B6Qi16SVVlS2FTeDRJbi1qQmFuVXg5WTZoeTctbmZzLXZlTmJ6ZXAw0gGmAUFVX3lxTFBfdmpXaW9SdzVILTE1UGpzZVhtUkwtUm1feGtTc1djeEY3R0NyQkUybVZWNm0xMTFLLW5ubHhHa1V2cE1RalJuWnJHWkpFcEFZVnBfWXdOUWhWcE9xcDdndTJXQzhZeXk0c2NJbkthTFFqOW1WcWwxTWNndDFYQ0JBaWhpaFlkNnRQbXhrdWhybGRwUTlrSDJKcW1Nak96VjZJRExSWUE?oc=5",
+      "summary": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units CNBC",
+      "badge": "new",
       "date": "2026-09-02"
     },
     {
@@ -290,14 +314,6 @@
       "date": "2026-09-02"
     },
     {
-      "company": "Microsoft",
-      "title": "'CoSnitch' flaw let researchers trick Microsoft Copilot into leaking data, poisoning memory - The Cool Down",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDBWNkhRamRna0cybUlVMnJhd1BtUWd4SXNSLTBKY1hieEpmbjlfSk9sYVZCc0xWREZrbWU4UXFNTHlQRkhfalJ6bEpURW9BUlNZSkNrd1c4TDlRN1ZkNGRkemZGaXRPcTRFRG1keW9OLTNGLVE5YTJURFhfMi1xUFVmQm0yUm9VVUd6cnFfM0M4Nlk?oc=5",
-      "summary": "'CoSnitch' flaw let researchers trick Microsoft Copilot into leaking data, poisoning memory The Cool Down",
-      "badge": "watch",
-      "date": "2026-09-02"
-    },
-    {
       "company": "Perplexity",
       "title": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1R0SnZTRGtoU0Y3bUZNZHhQUzA5Tl9MT3BPc08yQVhOQTAxdHVTYVJXQW1VRlBqTkRGMnc1UnF4MXR3T2I0d0wtaHpJYjkwa2ZKU0JUTHB0SEhxazItUjNrLTdNZ0lWTWU4Z0xFSUFfalBpQktma0c1LWxyaEpNR3I1VzJfdzloN1VGdndYTFJSN1BIRmttaXg3eElnNEtyRkNzVFYybVZueTdfeUpnUjdEVFVDamFsVUxPQ0ZzcVdoV1ZDWEpj?oc=5",
@@ -331,9 +347,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
+      "title": "Meta bricked the cameras on thousands of its AI glasses - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
-      "summary": "Meta bricked the cameras on thousands of its AI glasses Business Insider",
+      "summary": "Meta bricked the cameras on thousands of its AI glasses businessinsider.com",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -342,6 +358,14 @@
       "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
       "summary": "Meta says AI glasses fix stops users from secretly recording others CBS News",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5",
+      "summary": "Meta Releases More Powerful AI Model, Edging Closer to Rivals Bloomberg.com",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -357,22 +381,6 @@
       "company": "Meta",
       "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
-      "summary": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says CNBC",
-      "badge": "hot",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Burning Man Has a Meta AI Glasses Problem - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yX0JHczYtUjE5NXlwcXd0TnZuTlJKaUlqcnNpb0lNRUJwdVI3RnFIc0czN19wR2tMVHVoeVRnUktXbnFxNXRsN05hS3VXZHVwRDZxZDlBR0tuWGN4ZGM1MDBlOVJMX2VLLVlOWDhrRXRWVjhvWlA5SQ?oc=5",
-      "summary": "Burning Man Has a Meta AI Glasses Problem Futurism",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4dw?oc=5",
       "summary": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says CNBC",
       "badge": "hot",
       "date": "2026-09-02"
@@ -446,14 +454,6 @@
       "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGNVMWhoV2tEZGc2R2NXSWNTVDZGWTNVTTJhVlVxaHhlYkF6d3p5bUxkU0s0TnB3T3FiWDdRVnN1SGE1YnU0VUh5ekxTcHRfeGlxOW5vUkZFTFlaQnhpY3hhbHZIeW42ME5ub1R4bngwUVhSUm8wT3o0eVdFbk1RZVBObmpDOHlBWkVKS3Z3TnZEcEVMV3lraExxaS12NlFtZ3NZSmpFejFvNjRodUtVMU81MHY4YS1T?oc=5",
       "summary": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud VentureBeat",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Meta",
-      "title": "Teachers in Louisiana got up to $50,000 bonus because of Meta’s AI data center: Report - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRDNSaFRGWW53MWktUXg1OWlNQzRhdXZScnozLTJuQnpOYXZ6SmtqbmwtX0pFMVBNQi1SU1BIZUJ4dHpiTzIwMjBwbjBqckI1a21rTHJn?oc=5",
-      "summary": "Teachers in Louisiana got up to $50,000 bonus because of Meta’s AI data center: Report Fox News",
       "badge": "new",
       "date": "2026-09-01"
     },
