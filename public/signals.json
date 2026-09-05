@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-05T02:32:54Z",
+  "updated": "2026-09-05T09:51:01Z",
   "signals": [
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is adding an AI-powered Canvas to Excel that turns workbook data into interactive dashboards - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT3lBOXdLT19EWjQ2bm1RaGNXelhnSlVyS3RYejBBeTVjTmRVZVN4TXVFX3BSVUFvQklNVzFGeWtnRi1YVUZJcmdwZmhLemFHTVNRcW9FOVJ3NXA3UEpqcUhYRWRkZlFESW5sT3AtY2YxVmczYXpfNVlCWndJRnoxdjJUMS1RUEpadVJVYmNRQ0hIV2U0ekM0M0pDTmlIZFdaUnRlajcta0JlNEVNNEppUlY3WXc1S2UyNnl1ZE40dkdBMHFnamhUS1REdEVVdlpvekJrcTdTc2EwRGdk?oc=5",
+      "summary": "Microsoft is adding an AI-powered Canvas to Excel that turns workbook data into interactive dashboards Windows Latest",
+      "badge": "new",
+      "date": "2026-09-05"
+    },
     {
       "company": "Apple",
       "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
@@ -42,18 +50,26 @@
       "date": "2026-09-05"
     },
     {
+      "company": "Perplexity",
+      "title": "I asked AI to rank the 10 jobs most likely to be replaced by AI — here's what they all agreed on - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM09Hem1mZ2UzQVRMNGJEQ2VfVnRxNnFWUm5HaEJ1eE1MWER2NTV2cElsWHdlblAzRFRpVnhBd19kUWtOTU1jc3hBTGExcWhCVllLR0N4TFEwTHMxWksxMWlnb29PR25hSERiNUZ0MEo0MjFRc3NpcExoVEF5MnVfejh6dkZ0T2xJRlE1ZExkUGw0ZDlzcWNSUTZ3bWc2V2hoZGtjSFd2YTNSTnRUTHpnbl9RaDVlUG41YmFmV3RiQ3hIWHRNVlZzdVI5SFpwWXN2SDZjUjN1Y1AzVHg0YmQ2UXdEQ1dWeHRrUjZsMw?oc=5",
+      "summary": "I asked AI to rank the 10 jobs most likely to be replaced by AI — here's what they all agreed on Tom's Guide",
+      "badge": "new",
+      "date": "2026-09-05"
+    },
+    {
       "company": "Anthropic",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I. - nytimes.com",
+      "title": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
-      "summary": "Corporate America Is Getting Hooked on Open-Source A.I. nytimes.com",
+      "summary": "Corporate America Is Getting Hooked on Open-Source A.I. The New York Times",
       "badge": "new",
       "date": "2026-09-04"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5",
-      "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO ft.com Anthropic’s $2tn IPO puts powerful external trustees in spotlight ft.com EXCLUSIVE: Anthropic IPO launch shift",
+      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
+      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters Anthropic’s IPO Will Be Huge—and Risky.",
       "badge": "hot",
       "date": "2026-09-04"
     },
@@ -75,18 +91,18 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI Suggests It's Reached AGI. What Is It Anyway? - bloomberg.com",
+      "title": "OpenAI Suggests It's Reached AGI. What Is It Anyway? - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3pWZVVEZUF0cHZ5TGNDb2Nzb2laSmppbEZMSkp1SVFwek9EQWt0SUhJNTZPYnROQ2pHcXU3XzBvVldtS1V6WHowVE93ZUVMNUVTQmFfcXFZOUttbXM1ZFNMSGdaVmlyMWlhalBRNF9jV3pPUFlfcE8tWWZHdmg2Z2FhVG5fWW5tRUktWnB2YVJuNnFWRkFiUE1mcmd3U19tUDNnMVNpRERvTUM3UkZVMTNCdnBFcUktaFdQRw?oc=5",
-      "summary": "OpenAI Suggests It's Reached AGI. What Is It Anyway? bloomberg.com",
+      "summary": "OpenAI Suggests It's Reached AGI. What Is It Anyway? Bloomberg.com",
       "badge": "new",
       "date": "2026-09-04"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO Financial Times Anthropic Finalizin",
-      "badge": "new",
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5",
+      "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO ft.com Anthropic’s $2tn IPO puts powerful external trustees in spotlight ft.com EXCLUSIVE: Anthropic IPO launch shift",
+      "badge": "hot",
       "date": "2026-09-04"
     },
     {
@@ -135,6 +151,14 @@
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "badge": "hot",
       "date": "2026-09-03"
     },
     {
@@ -314,10 +338,10 @@
       "date": "2026-09-02"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Fabric in GCC High: Building the data foundation for AI - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU1RHX1NwenktXzUzR0U3N25JUjhNcnExcVRLcHdBX2FXZ1hSRkwxWjdmbmxIc2F3a1pYeXp2UUMwcmxfRGwyNDRrcHM3ejBYVGUtODg3cW9ucEV3M25iOTg1OHlHbEdpMFBETXNQQWUtRGQtbV9FMlpUOWtiNDQtdjFwSVN0Q1E0S1k4N3V2MC1LN3Fqal96aDRQM25CdGY2RnVNM0Y0bTlwVzBrSWt0SF9Ta2NWYVpxN21acHZSZWJVd2VId2Q1cklBVGQ4bkU0czRXYWlNWmRmaUk?oc=5",
-      "summary": "Microsoft Fabric in GCC High: Building the data foundation for AI Microsoft",
+      "company": "Perplexity",
+      "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanZjWUdEb1lrdjByY0Q1WGw2bk9OWi1sQVE3cWkxZVZNM1Z3US10Mm5jNHNjMDJkNXFidnhtS1FhT1EyXzlRdEtDQWdNc3RKU19aVGY3aWlxOGlLc1hNQmFTY2FMMjItd0ROaWVKQ29KaElybS1MUWF5SzVZVDdVbjNka9IBiwFBVV95cUxNYlFlSFBySWhKTzZkc19GMVlTSjNta0gwb2d1SU0yWFlLUlJDN0Ftbm03ei15QU82bmFoZE16SUsxRGhpZXJoczI4RzFDbUJRaDRLQ1dBdmhRd1dHRGhkMkliaE9lWEEyOGRVemQ2NF9SaVpfbXZDXzJNUnVfa3J0QVdvU3V3d1BrSjN3?oc=5",
+      "summary": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show Decrypt",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -326,14 +350,6 @@
       "title": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1R0SnZTRGtoU0Y3bUZNZHhQUzA5Tl9MT3BPc08yQVhOQTAxdHVTYVJXQW1VRlBqTkRGMnc1UnF4MXR3T2I0d0wtaHpJYjkwa2ZKU0JUTHB0SEhxazItUjNrLTdNZ0lWTWU4Z0xFSUFfalBpQktma0c1LWxyaEpNR3I1VzJfdzloN1VGdndYTFJSN1BIRmttaXg3eElnNEtyRkNzVFYybVZueTdfeUpnUjdEVFVDamFsVUxPQ0ZzcVdoV1ZDWEpj?oc=5",
       "summary": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more Tom's Guide",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanZjWUdEb1lrdjByY0Q1WGw2bk9OWi1sQVE3cWkxZVZNM1Z3US10Mm5jNHNjMDJkNXFidnhtS1FhT1EyXzlRdEtDQWdNc3RKU19aVGY3aWlxOGlLc1hNQmFTY2FMMjItd0ROaWVKQ29KaElybS1MUWF5SzVZVDdVbjNka9IBiwFBVV95cUxNYlFlSFBySWhKTzZkc19GMVlTSjNta0gwb2d1SU0yWFlLUlJDN0Ftbm03ei15QU82bmFoZE16SUsxRGhpZXJoczI4RzFDbUJRaDRLQ1dBdmhRd1dHRGhkMkliaE9lWEEyOGRVemQ2NF9SaVpfbXZDXzJNUnVfa3J0QVdvU3V3d1BrSjN3?oc=5",
-      "summary": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show Decrypt",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -355,17 +371,25 @@
     },
     {
       "company": "Meta",
-      "title": "Meta says AI glasses fix stops users from secretly recording others - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
-      "summary": "Meta says AI glasses fix stops users from secretly recording others cbsnews.com",
+      "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
+      "summary": "Meta bricked the cameras on thousands of its AI glasses Business Insider",
       "badge": "new",
       "date": "2026-09-02"
     },
     {
       "company": "Meta",
-      "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - bloomberg.com",
+      "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
+      "summary": "Meta says AI glasses fix stops users from secretly recording others CBS News",
+      "badge": "new",
+      "date": "2026-09-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5",
-      "summary": "Meta Releases More Powerful AI Model, Edging Closer to Rivals bloomberg.com",
+      "summary": "Meta Releases More Powerful AI Model, Edging Closer to Rivals Bloomberg.com",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -375,14 +399,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yX0JHczYtUjE5NXlwcXd0TnZuTlJKaUlqcnNpb0lNRUJwdVI3RnFIc0czN19wR2tMVHVoeVRnUktXbnFxNXRsN05hS3VXZHVwRDZxZDlBR0tuWGN4ZGM1MDBlOVJMX2VLLVlOWDhrRXRWVjhvWlA5SQ?oc=5",
       "summary": "Burning Man Has a Meta AI Glasses Problem Futurism",
       "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
-      "summary": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says CNBC",
-      "badge": "hot",
       "date": "2026-09-02"
     },
     {
@@ -435,35 +451,19 @@
     },
     {
       "company": "Perplexity",
+      "title": "Your Mac is now part of Perplexity’s AI infrastructure - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92dVNOVHY1T01aQmdCblZubVZIMTlERVhCemQtV05CMDZYczNwc0tOOHlFbXhYZVBKVFpFRnJuOUgtQ05YMDl2SXBQSnFkSVA1S0ozX3l3VzhlRDVJMnVRbXNJRQ?oc=5",
+      "summary": "Your Mac is now part of Perplexity’s AI infrastructure The New Stack",
+      "badge": "new",
+      "date": "2026-09-01"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI - Engadget",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpVdGx5RlgwR2xTMHNSc2ZnQUZiNmFQY3VaMklERkRLcEw2dzRSVkxlRmZfbThidEJXajRiRFdlMTBfT2x3cHVuWWdWS0phanNLalJ3LXZLVWxZb3dGaXBEMG1qeUZWOXU1NFo3NldtUnpCOEVkVVN4UWJ2aGY0R09RblpQM3lWUDhzVTJuN1JCeDEzUXJyb2NhLW1QNGp6a3EwT1pTTDN6MVVObFZV?oc=5",
       "summary": "Perplexity's Hybrid Compute Splits Sensitive Tasks Between Cloud And Local AI Engadget",
       "badge": "new",
       "date": "2026-09-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "5 Best Platforms to Access Perplexity AI Shares on the Secondary Market - finchannel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1ZCVWhuUGh6R2hiSjFZejJMNTNZR3B6N1V5MUJpU3ByVXM4YnFFQzhhY0U3WDhIYnlmalZYX0pPclEyR1JJWXVRRWlaOWQyVnRiYWpReEpGbDdYWnY2c19LMDNOWlpSQ2RCSERIa0g1bmNKVVQ4dzhCZ3VpM2ZTS3I5QWJDZjN1bnNNU1BuWXF5dUZyYXpoS3lRRld6MGtrZ3RMRUlmMzViTkxKU1BqdWhMYS1MS0QtU3c?oc=5",
-      "summary": "5 Best Platforms to Access Perplexity AI Shares on the Secondary Market finchannel",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGNVMWhoV2tEZGc2R2NXSWNTVDZGWTNVTTJhVlVxaHhlYkF6d3p5bUxkU0s0TnB3T3FiWDdRVnN1SGE1YnU0VUh5ekxTcHRfeGlxOW5vUkZFTFlaQnhpY3hhbHZIeW42ME5ub1R4bngwUVhSUm8wT3o0eVdFbk1RZVBObmpDOHlBWkVKS3Z3TnZEcEVMV3lraExxaS12NlFtZ3NZSmpFejFvNjRodUtVMU81MHY4YS1T?oc=5",
-      "summary": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud VentureBeat",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "badge": "new",
-      "date": "2026-08-31"
     },
     {
       "company": "Google",
@@ -499,9 +499,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
       "badge": "new",
       "date": "2026-08-26"
     },
