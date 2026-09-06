@@ -1,19 +1,35 @@
 {
-  "updated": "2026-09-06T14:47:09Z",
+  "updated": "2026-09-06T19:53:05Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-      "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace CNBC",
+      "company": "OpenAI",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "badge": "new",
       "date": "2026-09-06"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGNnS0IwVS1USHk5YW9VcDdHaHlIM3VYdktvWXp4OTMzR3ExdXdkMFpjNTR3Q0RNNHUwMDgtd0VXbEFZeWVPZkgzbndZaWJ3alp2aW1ObW9tQkhhOG1uaVhvaTZEMTdUZ0VQTTNCTnZHY0R3STM2dURXbGhadWZqQVhrdjNwTXJyODVpQ3NKM3JLTmdwLU9fdDhOc3dmZS1yMEJRTzBmM2w3YU9tano3S085NzRFODVtNEdSVmJfLW9SZTNWdmUyUVU1RERzUQ?oc=5",
-      "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out Windows Latest",
+      "company": "OpenAI",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
+      "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace cnbc.com",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5",
+      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months The Information",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -22,6 +38,22 @@
       "title": "NFL Week 1 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWk1SndhUUlMSHBUTUEwUWhvLXVtcjdJZjVBRTNrVm14d0o2d0h3dGRqZWxZSXk3M0lYM29sT1cxMExRVVRMbXNtNUxMN09ZMmw3YXdxY1BjTG9EbnZ2RnFOaFlsdjNfWGxnUHhIeDJXVDVzYm5IVWNzZ1Y3RGZWTmJQd1dxT0RnaHI0aTZUSnRFN3BxSHIwanJxVG5SNlhyYTFzSA?oc=5",
       "summary": "NFL Week 1 predictions by Microsoft Copilot AI for every game USA Today",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft CEO Satya Nadella announces new AI models for Copilot, powered by Opal frontier - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXdZa0lKUDBIR2J1aGY3eVZrR3U2YjJsSXMwUVVKcGJmeGpKbFFDRGQ1Y2hSNmZZQlIyU0Q4ZDVtZmw5VHo4Q1FYZ1NGeERGcXlwYmdOTC1UMFA0bG1DWll1MERkdkV0dzRINURsMnRtaFZ4TG5KNUV0M0UxcW4wMnVaSHhLM3VaNkhRV01wb25Ia1lDZHFXMHFxcFZiR2hMbWtyR2xXNEtWdnoxNkdrcnV2T0x0UTJ2cUFFMXJiRzBENW5pU1NPN2xYZjdod9IB0wFBVV95cUxOYlBrZTFhMllDWjZuOUtmNGNEU1BGOFhKMWszaXJwTDdQa2JKaTRKVTNRdE5uZzdRYUk0SGpPVjZ1T1UzVkdsTi04ZXNPWFluOTVua0lhWFBOSWlGaEhpMGIyV3dRcVA3LVNEWHNqTVE3NWhvMXgyR1FkTnNXMzFyQXpxUkN2aWk4UjBtT3hTbnRmMzM2U3ZiRlNwUlc1NGZINlotQjQzYjdfQ3ByeFY3ODAxVEptRWt2MUpVbGszZ1J0cE9yMDZ4YlI5Q3htY0RHd1NF?oc=5",
+      "summary": "Microsoft CEO Satya Nadella announces new AI models for Copilot, powered by Opal frontier Firstpost",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGNnS0IwVS1USHk5YW9VcDdHaHlIM3VYdktvWXp4OTMzR3ExdXdkMFpjNTR3Q0RNNHUwMDgtd0VXbEFZeWVPZkgzbndZaWJ3alp2aW1ObW9tQkhhOG1uaVhvaTZEMTdUZ0VQTTNCTnZHY0R3STM2dURXbGhadWZqQVhrdjNwTXJyODVpQ3NKM3JLTmdwLU9fdDhOc3dmZS1yMEJRTzBmM2w3YU9tano3S085NzRFODVtNEdSVmJfLW9SZTNWdmUyUVU1RERzUQ?oc=5",
+      "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out Windows Latest",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -74,10 +106,18 @@
       "date": "2026-09-06"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWNxbjVwOGZPSEEtNUw3ejFBN3pZdmVxaFh4aWRZaU82dU9XVUoyOEF1ZVBibjdfVDgzZXVGQ1RUakpBMXg1LVI2UWxvZV9xMmpIeGtOVFdFX0N2c01vRFRRb0xFcm9OdlVxNVkxSDduM0xjTVQwcXRDZWVNUGh5TF9ZSDhvY29GYjFkS2h6cWJQemoxTDFMX1F4dVR3OWMtVmhHb19MYWdYOWFWV0d0eFpGVVdPejB3Y3l6QXppUlTSAcYBQVVfeXFMUEgxS3hHZGRSaWFYc3ZpX25kUks1WXFZTXVrb3dDRVc1aVRWM1BWRDBpZXZhNmRFNHJmelMxdW44UW50eVJ1MFc5R2tIcGlXaUR1STYwLUdTS0c5V1YwUDREQ1JFcm1NNFNOOG91bTMzOGpJRFNxV185OF9CNkxsTVA3X1pPY2NQeWxQM3pNYmgwb2pQUUVCSWdEWHhmc2hyNmJRR3NQQmJxR29rdGtRQjhFcHlnNHhqU3ZFSlZMbFZMbFpCR25B?oc=5",
+      "summary": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed MarkTechPost",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
       "company": "Meta",
-      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. - businessinsider.com",
+      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEZVbnVzdk55alZvTm5jTmhrRDBqbnhibVNOR3ZfM2xKYURaUnZfRXZGVEk3RzZVdTMteG15MnRwNnZqeWtBb2FlcmNtZS1xaURnRjRLUFBFSjlmTEl3UzB2eVUzam9RZDdYMjlNS2R0NEt5b3lBdk5YYlhMSVpZcjVaclljUUJYUzhoaFgzLUFxeVY1ZEM4?oc=5",
-      "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. businessinsider.com",
+      "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. Business Insider",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -147,16 +187,8 @@
     },
     {
       "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5",
-      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters",
-      "badge": "hot",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Anthropic",
       "title": "Formalizing Fermat's Last Theorem - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
       "summary": "Formalizing Fermat's Last Theorem Anthropic",
       "badge": "new",
       "date": "2026-09-04"
@@ -171,10 +203,10 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5",
-      "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO Financial Times Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-      "badge": "new",
+      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5",
+      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters",
+      "badge": "hot",
       "date": "2026-09-04"
     },
     {
@@ -227,17 +259,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "badge": "new",
       "date": "2026-09-03"
     },
     {
       "company": "OpenAI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -270,14 +302,6 @@
       "title": "PPCC 2026: Bringing AI and your business processes together - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW8xUkNJaEVUczNTUHdteXNTeDZNWkx5VEVOYnRzcDhqNVRNTl94bHhoNVo2bVp1djlrYUFQQ2wyaEpQb003ZnhPX2toQ05DZkg3R2FHYWQtWGpfWWVWZG5kTHM3QnU1UmxZdmxWTGUtRE5DSGc0eVU2ZE0tc0ViemhXVXNXZzNmR1E4elR2cU9na3hTZlpWSFNLbGg2ZUZMMi1GZkp6NnZ3cnhLQTJMaHNyTHVfQWREUVU5WWJn?oc=5",
       "summary": "PPCC 2026: Bringing AI and your business processes together Microsoft",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Descrybe Brings Legal Research and Intelligence to Microsoft 365 Copilot - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmZQN3A4VGk5b2FEb2lFS2dGcHBXNEY4NWMzdVdVM0hNclZSU25rRm1kRG5tS2xvVUJsM0VvLWxNVFhxS2pFMVFTaTdTc1k0Vjk4UlZYRmVFLXFYWTJsZWVwdTVsSVNobzJkMGF5U3FMeU1wOEl2d1VnbUpLc3FiOFEyWm9zUlQ3dFdBWHpNdjcwbFl6MXY4OXBzMnlNV3RIMFpJeko4RU01MjdGYkE?oc=5",
-      "summary": "Descrybe Brings Legal Research and Intelligence to Microsoft 365 Copilot LawSites",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -402,14 +426,6 @@
       "date": "2026-09-02"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity Hybrid Compute splits AI tasks between your Mac and the cloud - Cult of Mac",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UTkUzZThLbUhvdFJhMmItVXh1eWtyeTlseWszSjBTUnpwODU0aTJwYkFoSkcyUmlzdHd0QV9LYU1SdW1qQUpSZVliTmJTZjBZbnUycThJVmduY0ZQenZLRHNmOXBrenVXNlRpbjFScHk1dmlfY0hr?oc=5",
-      "summary": "Perplexity Hybrid Compute splits AI tasks between your Mac and the cloud Cult of Mac",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
       "company": "Meta",
       "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
@@ -430,22 +446,6 @@
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra",
       "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "badge": "new",
       "date": "2026-09-01"
     },
@@ -483,9 +483,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring TAKE encryption comes with key privacy caveats - Cybernews",
+      "title": "Ring TAKE encryption comes with key privacy caveats - cybernews.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KaWtjRHpDcWNqUUdUYlFPOHFaOWcwTlozVmFXSnRjekdlT3VqcU9vWHN1NTdUNmlOamdTYy1VT1FrWjFNSERhVnliNHNUZnpaazhRQnAxVnJPOWFqSlFPNEloQUNLSkUzY0hYTmlXeEZlUnNMSWxzN1p3?oc=5",
-      "summary": "Ring TAKE encryption comes with key privacy caveats Cybernews",
+      "summary": "Ring TAKE encryption comes with key privacy caveats cybernews.com",
       "badge": "new",
       "date": "2026-08-27"
     },
@@ -499,9 +499,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
       "badge": "new",
       "date": "2026-08-26"
     },
