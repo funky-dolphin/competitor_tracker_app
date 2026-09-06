@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-06T02:29:46Z",
+  "updated": "2026-09-06T10:07:31Z",
   "signals": [
     {
       "company": "Microsoft",
-      "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, with AI models running on your PC - Windows Latest",
+      "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGNnS0IwVS1USHk5YW9VcDdHaHlIM3VYdktvWXp4OTMzR3ExdXdkMFpjNTR3Q0RNNHUwMDgtd0VXbEFZeWVPZkgzbndZaWJ3alp2aW1ObW9tQkhhOG1uaVhvaTZEMTdUZ0VQTTNCTnZHY0R3STM2dURXbGhadWZqQVhrdjNwTXJyODVpQ3NKM3JLTmdwLU9fdDhOc3dmZS1yMEJRTzBmM2w3YU9tano3S085NzRFODVtNEdSVmJfLW9SZTNWdmUyUVU1RERzUQ?oc=5",
-      "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, with AI models running on your PC Windows Latest",
+      "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out Windows Latest",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -59,9 +59,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch - Morningstar",
+      "title": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch - global.morningstar.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlRJY3NPczkwRUlGR1lXSnZoLTBob2xUQkw3YVdPaEVrNjV6clpweEZJXzVybHA5U0J2NEhXVUtDVVVnUy0wU195cnFqaHV4N1lZa20wbTVIOGwxWHZkcG01SWJmbWpkTENGajc5NVBBYlBlbGFHNnJSa1pLTWprQVlpSGpTMW94QVd1ci15eUZmRkZDVXN4bUprTEhvb3N0bnIzQlcycExuMVhua1NXbWNhZnJXVWZidGpBcklCNno?oc=5",
-      "summary": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch Morningstar",
+      "summary": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch global.morningstar.com",
+      "badge": "new",
+      "date": "2026-09-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic pushes back IPO as investors await one of AI’s biggest public-market tests - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00dTRBYnJjWl84cHMzbC1QZWVlb0ZUd0JKMnVVX1kyQ191NlR2UXFDLUdWVGt2WW9TS1JkODNKVW5hSVFfNU0xYVZDcWxLUTMxRXFwalpoMGZua09KYmhXZkxVR21JXzA?oc=5",
+      "summary": "Anthropic pushes back IPO as investors await one of AI’s biggest public-market tests calcalistech.com",
       "badge": "new",
       "date": "2026-09-05"
     },
@@ -99,10 +107,10 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times",
-      "badge": "new",
+      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5",
+      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters",
+      "badge": "hot",
       "date": "2026-09-04"
     },
     {
@@ -110,6 +118,14 @@
       "title": "Formalizing Fermat's Last Theorem - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
       "summary": "Formalizing Fermat's Last Theorem Anthropic",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
+      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -134,22 +150,6 @@
       "title": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5",
       "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding The San Francisco Standard",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
-      "summary": "Corporate America Is Getting Hooked on Open-Source A.I. The New York Times",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe - theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5",
-      "summary": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe theinformation.com",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -182,6 +182,14 @@
       "title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Fortune",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcTZhZmh2V2ZjSmVHekF5elNubTMtT283MEhYRjZwaEE2R2FIUlRxazFBWE05aXNyTzJOeVRFQWdFelV1V242Zzl0M3NCaWlWc1YySDNiS3JrV05TbllEbkM3OW5oNGFLazVVUw?oc=5",
       "summary": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit Fortune",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI chief Alexandr Wang said that he is willing to wait to have kids till Elon Musk’s Neuralink ... - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZkxzOHIySVpMTjVkcDZaaUdhaTZRdmFtSzhJNXQ1SV9WVm9uZ1lTSkFHclZyeFJoWHRjMldMaUp0OU5xcUQ0RzU2WGhRVnRiX3ZlWVRrWjdvd21DcDI2eWFTdVpnR1pOY3ZndUo5Z0JkV0pscElySEpWbUwxeThfcHJOcXBwTGktVUpDWm5HNjUtUVkwOWhzWkNCVl9kU2Q3cEhfajdZQlplSG1BVGV1MmRqTDg1NDhXU3M4S0V3UWFfd3V3Zm5uWlFXSWNHM01Fa05BQ3JINTRtRVF6UUFDYm10TXVTUFphN0VVZ2J3ODZaWkZDc2xsLUN1bVgyclJOYVRrWmtONjZrdG0zOEZn0gGUAkFVX3lxTE9Bc3M1b2hSWUEyb3Z0dU5nd210RTdxTGY3T1YwMC1UMzFQb0NDVHRjYUg2anZnTUlOT2VsNWVTTGNhZEhEdnczb1pDY2IzRHhRbnZucHp2Z2pSOWRES3c3MVlfa0JKNGYxZ1N5NWg4Mi1WR3FmOVhRR20yMnpINnlHd2xfdWJvUU8yLWItcnVnSlFhRUxna3FMaFE1WF96aXRIdGhhT0hUN1QyV1EtYlFVcGZPWUlVTVY0b1owTDNPWUNSckVlbzJPQ1RYM1Eta2o2YnppazFEbGMwMUdPeEFld3RWN21Nazc1eDhMekhTNmVMNHZUcHVNdEs0MDFZQURaMERFQWJxU2dmME12eHdtZEZKSA?oc=5",
+      "summary": "Meta AI chief Alexandr Wang said that he is willing to wait to have kids till Elon Musk’s Neuralink ... The Times of India",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -259,9 +267,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Maybe we were wrong about Perplexity - fastcompany.com",
+      "title": "Maybe we were wrong about Perplexity - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWtGMlVtTFdNREpZblEtRTVscFRRRVRTQW91TUFPd01PWTVscVUtN1A0cnNlNEQtVU04UnNNRVAxWVlQTmxOaFVQZUlkTkRIdjhlVzc0N0hLWUZfRGlzSmktZl9MbFNTRGYwM01LRnBHT1Ywc2Rtd212S0N0dw?oc=5",
-      "summary": "Maybe we were wrong about Perplexity fastcompany.com",
+      "summary": "Maybe we were wrong about Perplexity Fast Company",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -291,9 +299,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - wired.com",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
-      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing wired.com",
+      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing WIRED",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFE4bUotTDJNS2NLSEdxdUlTX3lCYTctUWpNZkVpS2hmSEd6YjhXTW45TTZlUVZ6UWpnV2ZXcWpxY05JampMQmc5aUFySGNmSTJTZ0E1VHR6Wl9leXhMWE83Wjh5Q0IxUUpMbkw2Z0RjZk1yeTl6WUtXN3VrcHQ2S2RyeGlBaDJ6OFZEUENHZ0F1UnhweV9UOUhnc3lBb0NHeUtr?oc=5",
+      "summary": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing Gizmodo",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -302,14 +318,6 @@
       "title": "Meta sued for recording people who never bought its smart glasses - yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUhVQlZRaWhGOWJzQmk2WmVua1dQdUt5ZVF2akpFWWt2NnAybF9IdlM1R29LWEZVem1Yb3B1cGpEb19abDZuMDBlcGlBNzkwTXd4UmJEQWpnT2ZxOHBHRHAtcmFSTTBMWnZGS3NSai1PVGtNRjNXcTlzY19rQnBuMUwyQmRsMmFyTFA0UFcyNA?oc=5",
       "summary": "Meta sued for recording people who never bought its smart glasses yahoo.com",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing - gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFE4bUotTDJNS2NLSEdxdUlTX3lCYTctUWpNZkVpS2hmSEd6YjhXTW45TTZlUVZ6UWpnV2ZXcWpxY05JampMQmc5aUFySGNmSTJTZ0E1VHR6Wl9leXhMWE83Wjh5Q0IxUUpMbkw2Z0RjZk1yeTl6WUtXN3VrcHQ2S2RyeGlBaDJ6OFZEUENHZ0F1UnhweV9UOUhnc3lBb0NHeUtr?oc=5",
-      "summary": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing gizmodo.com",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -390,14 +398,6 @@
       "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5",
       "summary": "Meta Releases More Powerful AI Model, Edging Closer to Rivals Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
-      "summary": "Meta bricked the cameras on thousands of its AI glasses Business Insider",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -499,9 +499,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
       "badge": "new",
       "date": "2026-08-26"
     },
