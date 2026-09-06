@@ -1,11 +1,75 @@
 {
-  "updated": "2026-09-05T19:49:16Z",
+  "updated": "2026-09-06T02:29:46Z",
   "signals": [
+    {
+      "company": "Microsoft",
+      "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, with AI models running on your PC - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGNnS0IwVS1USHk5YW9VcDdHaHlIM3VYdktvWXp4OTMzR3ExdXdkMFpjNTR3Q0RNNHUwMDgtd0VXbEFZeWVPZkgzbndZaWJ3alp2aW1ObW9tQkhhOG1uaVhvaTZEMTdUZ0VQTTNCTnZHY0R3STM2dURXbGhadWZqQVhrdjNwTXJyODVpQ3NKM3JLTmdwLU9fdDhOc3dmZS1yMEJRTzBmM2w3YU9tano3S085NzRFODVtNEdSVmJfLW9SZTNWdmUyUVU1RERzUQ?oc=5",
+      "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, with AI models running on your PC Windows Latest",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
     {
       "company": "Anthropic",
       "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
       "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement The New York Times",
+      "badge": "new",
+      "date": "2026-09-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlRJY3NPczkwRUlGR1lXSnZoLTBob2xUQkw3YVdPaEVrNjV6clpweEZJXzVybHA5U0J2NEhXVUtDVVVnUy0wU195cnFqaHV4N1lZa20wbTVIOGwxWHZkcG01SWJmbWpkTENGajc5NVBBYlBlbGFHNnJSa1pLTWprQVlpSGpTMW94QVd1ci15eUZmRkZDVXN4bUprTEhvb3N0bnIzQlcycExuMVhua1NXbWNhZnJXVWZidGpBcklCNno?oc=5",
+      "summary": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch Morningstar",
+      "badge": "new",
+      "date": "2026-09-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g2OHMwQkFrQjd4dmJiUmZpVG43dXNkdzRBLWxuNTJuUTM1dW9FNVAzNjhXT0NfR25GTC1KNlhGekFhM3p2TWIxbXFMa01UdkJKbXVoNGlZakN5S2RIcG56OWhyMTNTUlY5b0M3NVlkNC10czBSRi1NX2xoQWVRUXBFMVZnMElFS0Jfbzh4bVkyVUtlalc1Vg?oc=5",
+      "summary": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn The Motley Fool",
       "badge": "new",
       "date": "2026-09-05"
     },
@@ -26,46 +90,6 @@
       "date": "2026-09-05"
     },
     {
-      "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
       "company": "Perplexity",
       "title": "I asked AI to rank the 10 jobs most likely to be replaced by AI — here's what they all agreed on - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM09Hem1mZ2UzQVRMNGJEQ2VfVnRxNnFWUm5HaEJ1eE1MWER2NTV2cElsWHdlblAzRFRpVnhBd19kUWtOTU1jc3hBTGExcWhCVllLR0N4TFEwTHMxWksxMWlnb29PR25hSERiNUZ0MEo0MjFRc3NpcExoVEF5MnVfejh6dkZ0T2xJRlE1ZExkUGw0ZDlzcWNSUTZ3bWc2V2hoZGtjSFd2YTNSTnRUTHpnbl9RaDVlUG41YmFmV3RiQ3hIWHRNVlZzdVI5SFpwWXN2SDZjUjN1Y1AzVHg0YmQ2UXdEQ1dWeHRrUjZsMw?oc=5",
@@ -75,9 +99,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5",
-      "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO Financial Times Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
+      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
+      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -86,6 +110,14 @@
       "title": "Formalizing Fermat's Last Theorem - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
       "summary": "Formalizing Fermat's Last Theorem Anthropic",
+      "badge": "new",
+      "date": "2026-09-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5",
+      "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO Financial Times Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -119,14 +151,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5",
       "summary": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe theinformation.com",
       "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters Anthropic’s IPO Will Be Huge—and Risky.",
-      "badge": "hot",
       "date": "2026-09-04"
     },
     {
@@ -202,22 +226,6 @@
       "date": "2026-09-03"
     },
     {
-      "company": "Anthropic",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQno2Si1NT01wRmxzSHRFYVc4LS1IWW8wZ1lVcXNTN20wbzI1OTlzRHhTTDEzQm5Kb2xtYlB1S25LbjMtdGxEb0dHLUVGbGQ4S1NrVC02MUhCOUZKSkI1X010QW5BbEJOQ2pTNXFHVjZWbHpQbkxLNzRyalZCcmQzS2VIUzZVNmg0bGRJY3c5SGptZw?oc=5",
-      "summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today WIRED",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Widespread AI outage underway - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmMzJDQXFSRzZoazlBWjJxOVdrZS1DUlR1S0xLM0xvTzAtRzBBUFBNeTk1RzZXM1l0MGZaenVBOFY4WGtXeDUwc2ZRQXZSelBGZWlQcFFoTHFwMDBSRGp4MDlIZGhCRXBkZjZOQg?oc=5",
-      "summary": "Widespread AI outage underway Axios",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
       "company": "Microsoft",
       "title": "PPCC 2026: Bringing AI and your business processes together - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW8xUkNJaEVUczNTUHdteXNTeDZNWkx5VEVOYnRzcDhqNVRNTl94bHhoNVo2bVp1djlrYUFQQ2wyaEpQb003ZnhPX2toQ05DZkg3R2FHYWQtWGpfWWVWZG5kTHM3QnU1UmxZdmxWTGUtRE5DSGc0eVU2ZE0tc0ViemhXVXNXZzNmR1E4elR2cU9na3hTZlpWSFNLbGg2ZUZMMi1GZkp6NnZ3cnhLQTJMaHNyTHVfQWREUVU5WWJn?oc=5",
@@ -251,9 +259,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Maybe we were wrong about Perplexity - Fast Company",
+      "title": "Maybe we were wrong about Perplexity - fastcompany.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWtGMlVtTFdNREpZblEtRTVscFRRRVRTQW91TUFPd01PWTVscVUtN1A0cnNlNEQtVU04UnNNRVAxWVlQTmxOaFVQZUlkTkRIdjhlVzc0N0hLWUZfRGlzSmktZl9MbFNTRGYwM01LRnBHT1Ywc2Rtd212S0N0dw?oc=5",
-      "summary": "Maybe we were wrong about Perplexity Fast Company",
+      "summary": "Maybe we were wrong about Perplexity fastcompany.com",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -283,9 +291,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - WIRED",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - wired.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
-      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing WIRED",
+      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing wired.com",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -335,14 +343,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "summary": "Introducing Fairwind Program",
       "badge": "hot",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRjRGVUdDWFBmMnN6ZnROZEFEdnpVTkJBRnlaLVI2aEU0WksxRzFjVmQzZXR2NDJIRWF1WmJoRkx6MW1SUE14QS1tQlN0QUU3RFlRRDVwaWNkVDJOcEV3ZlV3d2JlN1hyR2R6NTF0N3RZLU5nMy1KQnFpcWhxYXUwbjhvNTFkdElaakZMX3FRczY1OHJYdEwzZl9NS1BYN25US3BJSXRZTG92VkVoZzI5cFBnM0psTVBMZkNqcGRhb2JBVDVsN3JjYUY2cUwwTW5pMl9NNEIyNmtVd3Rray01eWFudXpRSkhjWTFjVE5R?oc=5",
-      "summary": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry Microsoft Source",
-      "badge": "new",
       "date": "2026-09-02"
     },
     {
