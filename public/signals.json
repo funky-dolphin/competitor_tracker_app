@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:22:16Z",
+  "updated": "2026-09-07T17:04:51Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -11,9 +11,33 @@
     },
     {
       "company": "Anthropic",
+      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
+      "summary": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns The Guardian",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Anthropic",
       "title": "How a tiny Anthropic team became a surprisingly productive hit factory - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzk3QzRtOWRqVXV5VEJHVU9FUzdoQjhqWEVfdGRMNU1XX2NjSTVHUXQySktINUNWYWVUdXpsNzkyMFBmZmsxTHZpc2pLRUV6ZThwZDZPdG1ncGJDSEJNVG1DNVVTQjVFaVRfMHYzNFR3SFBHa0U3a1pmeUV0RzNYbHRR?oc=5",
       "summary": "How a tiny Anthropic team became a surprisingly productive hit factory businessinsider.com",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch - global.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2I4elphOVBGSDAyVVM5d25LR09BS0tzUWk0R0tvanlXRmtmakdsenN6UnBhOURhWVBiTi00ZTJ0SEpGcURvZGxXcFJvdVJwaUw1YU9lX0ZTdVdTa3oycmJFQU1oTzZhcGwydzJOVlpSVjJDVU8tT094dlBjc2lnRXdYOHBJS3BEN1l0TWdrZ1dlSjJRVmtMVEg1cU1PTGI5eDhHU3QtaXZITEhYNmJfZURsNkhkZlVodWhYNUJtQXE?oc=5",
+      "summary": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch global.morningstar.com",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "A Microsoft engineer says \"typing code is absolutely over,\" here's what he means - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXp6Q2NBWVBzQnhGX0N6c1N3VHJseGR0dVFLNHVNMmJWZU1VRFpuS0RSX1dZLXR4d1JxWF9rRmpBbTRnanIxSGJWWFB2RE9iSmVoOVFrMW1zZi1xVDlLOEIyZjAtTDZ5Qkc3d3FDTHFneGZuRDlBZTFNSkU1MXItNWVKeGMwdDkxR2hrUTg1M3NMYlVQcFdzcVlKcVVLTUJSSGhndVN3?oc=5",
+      "summary": "A Microsoft engineer says \"typing code is absolutely over,\" here's what he means TechSpot",
       "badge": "new",
       "date": "2026-09-07"
     },
@@ -62,6 +86,22 @@
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
       "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Meet Numbat: Perplexity’s open-source tool to track rogue AI agents - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1ZwWEpZVW1Za2kzTDg2VUZnSlhnNVJLa1lWWDVxQktMYmpNN1hYS0NkS3ZGZ0dWekxiNlFyaDZFOGdsVWtXVDhCWmNlVVdFaTliTDJNUU54OTljMDJub01rZi1SSWlCcThmMTEyNGNFeWZFM3o2bzkxMDFKTndJaEZ3?oc=5",
+      "summary": "Meet Numbat: Perplexity’s open-source tool to track rogue AI agents YourStory.com",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Ray-Ban Meta glasses update makes them more useful on the go - Android Central",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHBaVGdEUjhCUGpjanNTZk00cDQ0MEZ0MlJtS3A4WmJlX2UxdjkyRVo4QnUtOEJaaEROVUhrc2Y2LVpHZ2NFaWhsSnI3RU9waUdRd1RhblhWRHQtY0p3TGhuYUVWdk5NcHYwaFE2SUt2QVhxbUl0UWNvb0ZUQkFqbW5JZWxpVjV1V3lRMTZtU3J1ajJ6akF2aXJDNWt3WDJNNDROS3dvaFVXSzc0dEVF?oc=5",
+      "summary": "Ray-Ban Meta glasses update makes them more useful on the go Android Central",
       "badge": "new",
       "date": "2026-09-07"
     },
@@ -186,10 +226,10 @@
       "date": "2026-09-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g2OHMwQkFrQjd4dmJiUmZpVG43dXNkdzRBLWxuNTJuUTM1dW9FNVAzNjhXT0NfR25GTC1KNlhGekFhM3p2TWIxbXFMa01UdkJKbXVoNGlZakN5S2RIcG56OWhyMTNTUlY5b0M3NVlkNC10czBSRi1NX2xoQWVRUXBFMVZnMElFS0Jfbzh4bVkyVUtlalc1Vg?oc=5",
-      "summary": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn The Motley Fool",
+      "company": "Microsoft",
+      "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnU3MklFSlpZRmtJRTlnOTRQbzhRbU4tQTFxck4zekRkcjVNTlAtZFcxTVZQX0ZFZXltLTd1NTJ0eDFCTWxZZmRvUEhEY3VVMVlib3J3dC1PYzFOemQ2M2ZTeHdFYV9ydnVoejFDRmlpTzlLRFhsdXRrTFBMTjdpa2c5cU5CcHlWdUFmTk1ZMkdWQzY5?oc=5",
+      "summary": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports The New York Times",
       "badge": "new",
       "date": "2026-09-05"
     },
@@ -226,34 +266,10 @@
       "date": "2026-09-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Formalizing Fermat's Last Theorem - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
-      "summary": "Formalizing Fermat's Last Theorem Anthropic",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft in spotlight as Stifel ups price target on Copilot, AI improvement (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTlGWWl6YVZxRXYxc1dQMlJoMDlXMVZYNVZ5TnNhb1J3eFduOVgzWG90dGNqUXdDa3Z2OVZJbTFaVm84QjJhNm9wQlA2WHh5SmFvTDZRUURTUFQ5UUlpZ3J6M2M3bThtVjJVam1sYmtJU3VJcmQzbUlUY1VnU2NSYUl4ZnEyT2pocGMzUVg2b21XWlpKNWZ5ekFOSzZWMXFVd29LUVIzelJEQmtSZ1k2QzJaVQ?oc=5",
       "summary": "Microsoft in spotlight as Stifel ups price target on Copilot, AI improvement (MSFT:NASDAQ) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Tells Court Copilot Rarely Reproduces Books in AI Copyright MDL - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1kyZXh2Uk5melZraUlkanNtalhaOURXLW1STUlFT3l3UGJabFNfZUdsYVpYSFNkc25vRTV4UUV6dVZ4QW5WOS04WGhtZ0hyMDZsWUoxLWJFVkZBLWNaaHJEMm1uNW85U3RSbGN4b21kZDc2RmpuUXRaX2tuZHpJaGd0Y0NrMnRTeUFyWF92OVVGS2I2eDIxcnhPYw?oc=5",
-      "summary": "Microsoft Tells Court Copilot Rarely Reproduces Books in AI Copyright MDL Unite.AI",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Microsoft",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry - Microsoft Azure",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDJEdEpEaVRYYnliaGRvZGk5eTlncFd1empUWUQxVndBM2llTGR3djRiTXFtSWl3Yk9FbDNyVkhVX3dMalJraWo3SWpIaFhScXdwY0pIcGswWUxHeXJqd3RtYTJpTFM1LV9aSTJ4TjlqbW9OdW10LUFYX3puX29mTHZlU1N6aEZJb3JhTVJNTGFKTUtFOU9RM1pack8wOFA1MHo5b2ZxWlVYM0pOWnl1T1NGTm1mNjRk?oc=5",
-      "summary": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry Microsoft Azure",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -422,22 +438,6 @@
       "title": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1R0SnZTRGtoU0Y3bUZNZHhQUzA5Tl9MT3BPc08yQVhOQTAxdHVTYVJXQW1VRlBqTkRGMnc1UnF4MXR3T2I0d0wtaHpJYjkwa2ZKU0JUTHB0SEhxazItUjNrLTdNZ0lWTWU4Z0xFSUFfalBpQktma0c1LWxyaEpNR3I1VzJfdzloN1VGdndYTFJSN1BIRmttaXg3eElnNEtyRkNzVFYybVZueTdfeUpnUjdEVFVDamFsVUxPQ0ZzcVdoV1ZDWEpj?oc=5",
       "summary": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more Tom's Guide",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT29qU19QUUp6Nmw1WmFwelNleDdQUEduRDR2OWNkbGRJek1VZnQ3bW41UWIyVklCTmZuSXFjaEtRWVZ2MXBHZjhrODZUT2hzSXdnQTdkX3BTdWx2RjNsSzdsUWpLVUduel93Q0toUHdfV2RCcEhFdkhtbTMyZV9xcHRKcDBjUmxxNkFTS1FicXpUalpUS3NFNA?oc=5",
-      "summary": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
-      "summary": "Meta says AI glasses fix stops users from secretly recording others CBS News",
       "badge": "new",
       "date": "2026-09-02"
     },
