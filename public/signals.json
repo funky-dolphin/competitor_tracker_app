@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-06T19:53:05Z",
+  "updated": "2026-09-07T02:27:00Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
     {
       "company": "OpenAI",
       "title": "An Alien Mind",
@@ -19,17 +59,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - cnbc.com",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-      "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace cnbc.com",
+      "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace CNBC",
       "badge": "new",
       "date": "2026-09-06"
     },
     {
       "company": "Anthropic",
-      "title": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
+      "title": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5",
-      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months The Information",
+      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months theinformation.com",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -54,46 +94,6 @@
       "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGNnS0IwVS1USHk5YW9VcDdHaHlIM3VYdktvWXp4OTMzR3ExdXdkMFpjNTR3Q0RNNHUwMDgtd0VXbEFZeWVPZkgzbndZaWJ3alp2aW1ObW9tQkhhOG1uaVhvaTZEMTdUZ0VQTTNCTnZHY0R3STM2dURXbGhadWZqQVhrdjNwTXJyODVpQ3NKM3JLTmdwLU9fdDhOc3dmZS1yMEJRTzBmM2w3YU9tano3S085NzRFODVtNEdSVmJfLW9SZTNWdmUyUVU1RERzUQ?oc=5",
       "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out Windows Latest",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -158,6 +158,14 @@
       "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g2OHMwQkFrQjd4dmJiUmZpVG43dXNkdzRBLWxuNTJuUTM1dW9FNVAzNjhXT0NfR25GTC1KNlhGekFhM3p2TWIxbXFMa01UdkJKbXVoNGlZakN5S2RIcG56OWhyMTNTUlY5b0M3NVlkNC10czBSRi1NX2xoQWVRUXBFMVZnMElFS0Jfbzh4bVkyVUtlalc1Vg?oc=5",
       "summary": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn The Motley Fool",
+      "badge": "new",
+      "date": "2026-09-05"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
+      "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement Reuters",
       "badge": "new",
       "date": "2026-09-05"
     },
@@ -298,14 +306,6 @@
       "date": "2026-09-03"
     },
     {
-      "company": "Microsoft",
-      "title": "PPCC 2026: Bringing AI and your business processes together - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW8xUkNJaEVUczNTUHdteXNTeDZNWkx5VEVOYnRzcDhqNVRNTl94bHhoNVo2bVp1djlrYUFQQ2wyaEpQb003ZnhPX2toQ05DZkg3R2FHYWQtWGpfWWVWZG5kTHM3QnU1UmxZdmxWTGUtRE5DSGc0eVU2ZE0tc0ViemhXVXNXZzNmR1E4elR2cU9na3hTZlpWSFNLbGg2ZUZMMi1GZkp6NnZ3cnhLQTJMaHNyTHVfQWREUVU5WWJn?oc=5",
-      "summary": "PPCC 2026: Bringing AI and your business processes together Microsoft",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
       "company": "Perplexity",
       "title": "Maybe we were wrong about Perplexity - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWtGMlVtTFdNREpZblEtRTVscFRRRVRTQW91TUFPd01PWTVscVUtN1A0cnNlNEQtVU04UnNNRVAxWVlQTmxOaFVQZUlkTkRIdjhlVzc0N0hLWUZfRGlzSmktZl9MbFNTRGYwM01LRnBHT1Ywc2Rtd212S0N0dw?oc=5",
@@ -347,6 +347,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta sued for recording people who never bought its smart glasses - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUhVQlZRaWhGOWJzQmk2WmVua1dQdUt5ZVF2akpFWWt2NnAybF9IdlM1R29LWEZVem1Yb3B1cGpEb19abDZuMDBlcGlBNzkwTXd4UmJEQWpnT2ZxOHBHRHAtcmFSTTBMWnZGS3NSai1PVGtNRjNXcTlzY19rQnBuMUwyQmRsMmFyTFA0UFcyNA?oc=5",
+      "summary": "Meta sued for recording people who never bought its smart glasses Yahoo",
+      "badge": "new",
+      "date": "2026-09-03"
+    },
+    {
+      "company": "Meta",
       "title": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFE4bUotTDJNS2NLSEdxdUlTX3lCYTctUWpNZkVpS2hmSEd6YjhXTW45TTZlUVZ6UWpnV2ZXcWpxY05JampMQmc5aUFySGNmSTJTZ0E1VHR6Wl9leXhMWE83Wjh5Q0IxUUpMbkw2Z0RjZk1yeTl6WUtXN3VrcHQ2S2RyeGlBaDJ6OFZEUENHZ0F1UnhweV9UOUhnc3lBb0NHeUtr?oc=5",
       "summary": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing Gizmodo",
@@ -358,14 +366,6 @@
       "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
       "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing WIRED",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta sued for recording people who never bought its smart glasses - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUhVQlZRaWhGOWJzQmk2WmVua1dQdUt5ZVF2akpFWWt2NnAybF9IdlM1R29LWEZVem1Yb3B1cGpEb19abDZuMDBlcGlBNzkwTXd4UmJEQWpnT2ZxOHBHRHAtcmFSTTBMWnZGS3NSai1PVGtNRjNXcTlzY19rQnBuMUwyQmRsMmFyTFA0UFcyNA?oc=5",
-      "summary": "Meta sued for recording people who never bought its smart glasses yahoo.com",
       "badge": "new",
       "date": "2026-09-03"
     },
