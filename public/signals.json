@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-07T02:27:00Z",
+  "updated": "2026-09-07T11:22:16Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "badge": "hot",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How a tiny Anthropic team became a surprisingly productive hit factory - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzk3QzRtOWRqVXV5VEJHVU9FUzdoQjhqWEVfdGRMNU1XX2NjSTVHUXQySktINUNWYWVUdXpsNzkyMFBmZmsxTHZpc2pLRUV6ZThwZDZPdG1ncGJDSEJNVG1DNVVTQjVFaVRfMHYzNFR3SFBHa0U3a1pmeUV0RzNYbHRR?oc=5",
+      "summary": "How a tiny Anthropic team became a surprisingly productive hit factory businessinsider.com",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "8.2 Million Conversations: Can Microsoft Resolve Its AI Copyright Issues? - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wUG9ERjRCNVpsT05rZXllRFhKU2RtSkVRZjFiWWFUc0Ezc29lZ3d1VzRsTVVnbEN5YVRMM19VR3VmZGk3RkFJeFZvckRTQzloQTRv?oc=5",
+      "summary": "8.2 Million Conversations: Can Microsoft Resolve Its AI Copyright Issues? eu.36kr.com",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
     {
       "company": "Apple",
       "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
@@ -67,9 +91,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - theinformation.com",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWtFTGd3RmV5blg2X3Jod3BmN1B2eFYteHN2RHpqc0NCVGt1dVN0QmxCWHNrZGVsU3A1d2FSWkoxeXlub0M5UV9QZHV4M1NJRmN2RU9hTVV0Z2N4cC1XcmNEWGtSV2NLa1ZRa2N6aTRBdVpoSmlaQXRSbTZRUjg1UTdzbHFRdWNhMzN3M0Jfd3pOYnVKZGQzVzNJZmtBYXN0dDBsTnlHMnl4U0k0alg5RHVR?oc=5",
+      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement TechCrunch",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5",
-      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months theinformation.com",
+      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months The Information",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -115,9 +147,9 @@
     },
     {
       "company": "Meta",
-      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. - Business Insider",
+      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEZVbnVzdk55alZvTm5jTmhrRDBqbnhibVNOR3ZfM2xKYURaUnZfRXZGVEk3RzZVdTMteG15MnRwNnZqeWtBb2FlcmNtZS1xaURnRjRLUFBFSjlmTEl3UzB2eVUzam9RZDdYMjlNS2R0NEt5b3lBdk5YYlhMSVpZcjVaclljUUJYUzhoaFgzLUFxeVY1ZEM4?oc=5",
-      "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. Business Insider",
+      "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. businessinsider.com",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -202,22 +234,6 @@
       "date": "2026-09-04"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight Financial Times",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5",
-      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters",
-      "badge": "hot",
-      "date": "2026-09-04"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft in spotlight as Stifel ups price target on Copilot, AI improvement (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTlGWWl6YVZxRXYxc1dQMlJoMDlXMVZYNVZ5TnNhb1J3eFduOVgzWG90dGNqUXdDa3Z2OVZJbTFaVm84QjJhNm9wQlA2WHh5SmFvTDZRUURTUFQ5UUlpZ3J6M2M3bThtVjJVam1sYmtJU3VJcmQzbUlUY1VnU2NSYUl4ZnEyT2pocGMzUVg2b21XWlpKNWZ5ekFOSzZWMXFVd29LUVIzelJEQmtSZ1k2QzJaVQ?oc=5",
@@ -294,14 +310,6 @@
       "title": "Safety overview: GPT-6 Astra",
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Inside Track - Taming the Copilot odyssey: Five ways to effectively prompt AI without going overboard - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaklBZzJpU05VdTBIQWNzNlRVc3BGTTMxYkpFemhCc0VhSDhwVG41NHRhczZ3bGNocmd0WUhiMmtyNUFHaFlNUXFzaHZmeDRSYjN4SHppYVpDYlB2SVRMWHNwUWJTbnhNZ2l3VUJRUWdpY0tFUmdxbHFLaGFIaEh1MXVqbGRFbG9UZHF6VkQ4RF84ZlBKaTQzc0tJTUtYa2xORFB6eUdDdWdrVHJmTUkzRFJzemVkcU9nTTdqTzNiQUdYTlZmQTBFNg?oc=5",
-      "summary": "Inside Track - Taming the Copilot odyssey: Five ways to effectively prompt AI without going overboard Microsoft",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -438,14 +446,6 @@
       "title": "How AI-native companies turn workflows into operating capability",
       "url": "https://openai.com/index/ai-native-company-workflows",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "badge": "new",
-      "date": "2026-09-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "badge": "new",
       "date": "2026-09-01"
     },
