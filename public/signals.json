@@ -1,12 +1,60 @@
 {
-  "updated": "2026-09-08T02:40:07Z",
+  "updated": "2026-09-08T10:27:02Z",
   "signals": [
     {
       "company": "Anthropic",
-      "title": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition - Bloomberg.com",
+      "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
-      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition Bloomberg.com",
-      "badge": "watch",
+      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Purchase bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic drops plans to acquire Israeli AI startup Decart - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5",
+      "summary": "Anthropic drops plans to acquire Israeli AI startup Decart calcalistech.com",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ta190YUtGTk1YdGMtQ08xaVJkNE41X1Ryck9NYzkzM0lURlpJYTI5ZkFiaHVzSDZBbF9Tal9lQkFydlBrY2swaTIyamQ4UXhNSk16NGdVVzR1eWtnNUMyU01B?oc=5",
+      "summary": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart Ynetnews",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
+      "summary": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns The Guardian",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Nationwide: Building its AI future one foundation at a time - Microsoft UK Stories",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWRmSXpqMXZibGNLaXA5eGx0QzNHcXBiMWlhTUJsVlU5SHRXS1FWRllzeEdmOGpTeGprdEw4MklwYkh0YnJ4bzlaNWlhWHpqSkxiN242S3k5Qnl2OGZvYVRVNEZERmRPajFBTTVBMGNVTkdEVGxicEZxeHJOdUFRb1BQYm1mSE5nem43aWVPMVBQZ04zNFVoQ0FoWnlEZ0FtMHc?oc=5",
+      "summary": "Nationwide: Building its AI future one foundation at a time Microsoft UK Stories",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Euromonitor launches Passport agent in Microsoft 365 Copilot - IT Brief Asia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnpHYmUtcVpBQ1o5MnNJQjRqOUZMZXRJZEFsOTdscFJTczBjWnRJclJZVnBMV0VMRGxNNHRuYmNfdVlxYXhLSTdFdy1RbVllaGRXLWdDclg1QmVKVF8tVU9BZGtOdVlBblZ5S1pBd0ZPTFgzVzg1d1lBT1dQQktkaDBCaHpCUTlwUTI0RU81REk?oc=5",
+      "summary": "Euromonitor launches Passport agent in Microsoft 365 Copilot IT Brief Asia",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
+      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it TechRadar",
+      "badge": "new",
       "date": "2026-09-08"
     },
     {
@@ -50,6 +98,14 @@
       "date": "2026-09-08"
     },
     {
+      "company": "Perplexity",
+      "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlUS2Z5X0l6RHJqak9reGMtdFNpMHFJQUhucFBSLWZleHZpTXdRYUZtUmVBNllMY0l6WE93bTRDaE4yeDBrdGxxWnIxTTlEd2NCWE54WFl3TGQ5WnQ3U2JqTGxPQmUzdGl3dTlkdUE4d2VEY2tENC1WWDhnU2VXRFpQLWhiWk15S0VGbHVYcTJUZlNqbUIzSjJ4dHh2cnlfNzl5cVA1ZGY5S01BVlkzbGVQOEVuRnlVT3JXTTJqakFxLVA5TmZKQms5RWdqQlBFTkZScWt0VnVjSVpIbkIxV3pMX01XNHA3?oc=5",
+      "summary": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers FinancialContent",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
       "company": "OpenAI",
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -70,14 +126,6 @@
       "title": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch - global.morningstar.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2I4elphOVBGSDAyVVM5d25LR09BS0tzUWk0R0tvanlXRmtmakdsenN6UnBhOURhWVBiTi00ZTJ0SEpGcURvZGxXcFJvdVJwaUw1YU9lX0ZTdVdTa3oycmJFQU1oTzZhcGwydzJOVlpSVjJDVU8tT094dlBjc2lnRXdYOHBJS3BEN1l0TWdrZ1dlSjJRVmtMVEg1cU1PTGI5eDhHU3QtaXZITEhYNmJfZURsNkhkZlVodWhYNUJtQXE?oc=5",
       "summary": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch global.morningstar.com",
-      "badge": "new",
-      "date": "2026-09-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
-      "summary": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns theguardian.com",
       "badge": "new",
       "date": "2026-09-07"
     },
@@ -155,6 +203,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "NFL Week 1 predictions by Microsoft Copilot AI for every game - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZFZXSDFpaGJhUDluUDludGlrX1dlV01Qc3RBTWVEM21HX2lOYV9wcDhuMzJ4QmRiQW9ZYk1kU1lNUzlRS3RXd3FicWstajBDdF8ySDlmLTJEV2FFcktWNEd6N3V6Z1Z2UkRjc0Q4SmYtanpOZ1BvX2NmbTlnRUhpUko1NFRmSHVBcXU3ZDdkMC1ybzVfckRkZnlzVS1yWlowRUNKbXVVZE5TTVl1Qll2U2F0YlYyZW5NMXFPeWF4YVhyQWNxV0NIVmNBS3ZQOGZUVmFJUElheEwtVDVvT0ttN3o2OU9UYVBo?oc=5",
+      "summary": "NFL Week 1 predictions by Microsoft Copilot AI for every game Central Oregon Daily",
+      "badge": "new",
+      "date": "2026-09-06"
+    },
+    {
+      "company": "Microsoft",
       "title": "NFL Week 1 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWk1SndhUUlMSHBUTUEwUWhvLXVtcjdJZjVBRTNrVm14d0o2d0h3dGRqZWxZSXk3M0lYM29sT1cxMExRVVRMbXNtNUxMN09ZMmw3YXdxY1BjTG9EbnZ2RnFOaFlsdjNfWGxnUHhIeDJXVDVzYm5IVWNzZ1Y3RGZWTmJQd1dxT0RnaHI0aTZUSnRFN3BxSHIwanJxVG5SNlhyYTFzSA?oc=5",
       "summary": "NFL Week 1 predictions by Microsoft Copilot AI for every game USA Today",
@@ -210,50 +266,10 @@
       "date": "2026-09-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOV9PVXRnLWdIN0tGUHZGcmJHeVJNYkJmekMzZzJQZFNUSWJIbnZzdlU1RUg0NXh4REp3ZURGdEZtaXZVQ0tMYW1xUWp3a1RuUFU2Qk9rUUx0Zlp4Y3VFNkZBR1hFZjJ6Z3Q3VGMtWnFQOFBCM0FBUDZRaHptbGZNLUoyaWtkNzFDZVdXWDdXdFBrRjhBeVhuXw?oc=5",
-      "summary": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic pushes back IPO as investors await one of AI’s biggest public-market tests - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00dTRBYnJjWl84cHMzbC1QZWVlb0ZUd0JKMnVVX1kyQ191NlR2UXFDLUdWVGt2WW9TS1JkODNKVW5hSVFfNU0xYVZDcWxLUTMxRXFwalpoMGZua09KYmhXZkxVR21JXzA?oc=5",
-      "summary": "Anthropic pushes back IPO as investors await one of AI’s biggest public-market tests calcalistech.com",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
       "company": "Microsoft",
       "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnU3MklFSlpZRmtJRTlnOTRQbzhRbU4tQTFxck4zekRkcjVNTlAtZFcxTVZQX0ZFZXltLTd1NTJ0eDFCTWxZZmRvUEhEY3VVMVlib3J3dC1PYzFOemQ2M2ZTeHdFYV9ydnVoejFDRmlpTzlLRFhsdXRrTFBMTjdpa2c5cU5CcHlWdUFmTk1ZMkdWQzY5?oc=5",
       "summary": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports The New York Times",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement reuters.com",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is adding an AI-powered Canvas to Excel that turns workbook data into interactive dashboards - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT3lBOXdLT19EWjQ2bm1RaGNXelhnSlVyS3RYejBBeTVjTmRVZVN4TXVFX3BSVUFvQklNVzFGeWtnRi1YVUZJcmdwZmhLemFHTVNRcW9FOVJ3NXA3UEpqcUhYRWRkZlFESW5sT3AtY2YxVmczYXpfNVlCWndJRnoxdjJUMS1RUEpadVJVYmNRQ0hIV2U0ekM0M0pDTmlIZFdaUnRlajcta0JlNEVNNEppUlY3WXc1S2UyNnl1ZE40dkdBMHFnamhUS1REdEVVdlpvekJrcTdTc2EwRGdk?oc=5",
-      "summary": "Microsoft is adding an AI-powered Canvas to Excel that turns workbook data into interactive dashboards Windows Latest",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot Student Ambassador Program 2026: Earn Up to $1,500 During an 8-Week Student Opportunity - Global South Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kZndia3RBWGxlV3NreENfTmZnMmtCVm5IUUZrM3hWTktBRjNqYndvRk5lQ2dKWE9td1JhOF9nY3hmU2RmUVBxYWdtOGVXY3ZMQTBiU01TZl96NWs0UjBlM0lfZm53Tk1WS0ZvcA?oc=5",
-      "summary": "Microsoft Copilot Student Ambassador Program 2026: Earn Up to $1,500 During an 8-Week Student Opportunity Global South Opportunities",
       "badge": "new",
       "date": "2026-09-05"
     },
@@ -266,10 +282,10 @@
       "date": "2026-09-05"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft in spotlight as Stifel ups price target on Copilot, AI improvement (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTlGWWl6YVZxRXYxc1dQMlJoMDlXMVZYNVZ5TnNhb1J3eFduOVgzWG90dGNqUXdDa3Z2OVZJbTFaVm84QjJhNm9wQlA2WHh5SmFvTDZRUURTUFQ5UUlpZ3J6M2M3bThtVjJVam1sYmtJU3VJcmQzbUlUY1VnU2NSYUl4ZnEyT2pocGMzUVg2b21XWlpKNWZ5ekFOSzZWMXFVd29LUVIzelJEQmtSZ1k2QzJaVQ?oc=5",
-      "summary": "Microsoft in spotlight as Stifel ups price target on Copilot, AI improvement (MSFT:NASDAQ) Seeking Alpha",
+      "company": "Meta",
+      "title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUV1d0Y2eUozZWlCbV9ScnNHRXVkMzBHVEQwR0dSVHJORlBHNm5lQ1Itdk43ZFM2d3FBdzVJcl9PMFFZTDI2LVhUcEFPT1gzaUgyUmhBbTFYcnJGUnNQdEd6RXVrX0pOb1NTdHF4bUFhaF9qSzFRaDlmTjhlLUUwTjVjd2ZIUExpcWR1M2JCU0xrbzBx?oc=5",
+      "summary": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit Yahoo",
       "badge": "new",
       "date": "2026-09-04"
     },
@@ -402,14 +418,6 @@
       "date": "2026-09-03"
     },
     {
-      "company": "Meta",
-      "title": "Meta Eases AI Mandate, Pushes New Agent Hatch - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmdpVllCMTRGcDFmdzZzZzB4NDVIZDFQWkFFQm5nR1hscENhWTRMV2EybVp6V2JJc1hUWHFEckNEdU03T2pwWmNMSTBlSEd6dWtEc3plUEN6U3pGWEFZN1VueUdFbVc0bFZMakVldzJaQTZmRmRxeHg3U2tjZmFZeDRsOA?oc=5",
-      "summary": "Meta Eases AI Mandate, Pushes New Agent Hatch The Tech Buzz",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
       "company": "OpenAI",
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "url": "https://openai.com/index/atv-big-air-tour",
@@ -430,14 +438,6 @@
       "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show - Decrypt",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanZjWUdEb1lrdjByY0Q1WGw2bk9OWi1sQVE3cWkxZVZNM1Z3US10Mm5jNHNjMDJkNXFidnhtS1FhT1EyXzlRdEtDQWdNc3RKU19aVGY3aWlxOGlLc1hNQmFTY2FMMjItd0ROaWVKQ29KaElybS1MUWF5SzVZVDdVbjNka9IBiwFBVV95cUxNYlFlSFBySWhKTzZkc19GMVlTSjNta0gwb2d1SU0yWFlLUlJDN0Ftbm03ei15QU82bmFoZE16SUsxRGhpZXJoczI4RzFDbUJRaDRLQ1dBdmhRd1dHRGhkMkliaE9lWEEyOGRVemQ2NF9SaVpfbXZDXzJNUnVfa3J0QVdvU3V3d1BrSjN3?oc=5",
       "summary": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show Decrypt",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1R0SnZTRGtoU0Y3bUZNZHhQUzA5Tl9MT3BPc08yQVhOQTAxdHVTYVJXQW1VRlBqTkRGMnc1UnF4MXR3T2I0d0wtaHpJYjkwa2ZKU0JUTHB0SEhxazItUjNrLTdNZ0lWTWU4Z0xFSUFfalBpQktma0c1LWxyaEpNR3I1VzJfdzloN1VGdndYTFJSN1BIRmttaXg3eElnNEtyRkNzVFYybVZueTdfeUpnUjdEVFVDamFsVUxPQ0ZzcVdoV1ZDWEpj?oc=5",
-      "summary": "I asked ChatGPT, Gemini and Perplexity to plan the same Disney World vacation — one cost $5,000 more Tom's Guide",
       "badge": "new",
       "date": "2026-09-02"
     },
@@ -483,9 +483,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring TAKE encryption comes with key privacy caveats - cybernews.com",
+      "title": "Ring TAKE encryption comes with key privacy caveats - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KaWtjRHpDcWNqUUdUYlFPOHFaOWcwTlozVmFXSnRjekdlT3VqcU9vWHN1NTdUNmlOamdTYy1VT1FrWjFNSERhVnliNHNUZnpaazhRQnAxVnJPOWFqSlFPNEloQUNLSkUzY0hYTmlXeEZlUnNMSWxzN1p3?oc=5",
-      "summary": "Ring TAKE encryption comes with key privacy caveats cybernews.com",
+      "summary": "Ring TAKE encryption comes with key privacy caveats Cybernews",
       "badge": "new",
       "date": "2026-08-27"
     },
