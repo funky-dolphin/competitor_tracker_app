@@ -1,11 +1,59 @@
 {
-  "updated": "2026-09-08T10:27:02Z",
+  "updated": "2026-09-08T15:51:02Z",
   "signals": [
     {
+      "company": "OpenAI",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "badge": "watch",
+      "date": "2026-09-08"
+    },
+    {
       "company": "Anthropic",
-      "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - bloomberg.com",
+      "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
-      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Purchase bloomberg.com",
+      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Purchase Bloomberg.com What made Anthropic walk away from the $6 billion Decart deal? calcalistech.com Decart founders declined Anthropic's demand to",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal - The Intercept",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX19TN1ZXOXA0bWM5YjVmbi1VS0VNaXh2dTJCalV3dEpoTGhSZ0tJX0QzUmwwNmV0WnZneXZWVUxoNFVYZXZucjV5bVFoRWhRWVc5b1gyVU5xb3V6d3FuRnNlMlJXRzF0WkFNYmlhaGd6TV9POVVSX1p4R1JEdTBLb1dOT0JLWFJwbHVORnZLYTRMeE1n?oc=5",
+      "summary": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal The Intercept",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
+      "summary": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO Financial Times",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Destroying Books to Build a Mind - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
+      "summary": "Destroying Books to Build a Mind The New Yorker",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic delays IPO to October: What that could mean for the AI player - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDhBTlEwSWgxUWpoaU00alJMU09NWktlTWFFbnpxYUdoMFNhY0xDZHB4MTQ0T2t4dE03RTBGQjQ3WHd4R1c3YVM4OHVadU9vRmpjOGtmcjdabEt0M183NVlRcDBIYW5kSU53NEFsNjhwTUNTa1o2TFVkdEN1akpMemR6OFpUbG9H?oc=5",
+      "summary": "Anthropic delays IPO to October: What that could mean for the AI player Yahoo Finance",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -35,6 +83,38 @@
     },
     {
       "company": "Microsoft",
+      "title": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes - Technology Record",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2hVVVZwS1l6RUVSckprVGF6eDR0TGJOTkZzeS11a2hrdXY4V1oyelpiVjItOFN2c2YyZUdUREhLQ0w3ejkxX0VFX1dZQzM3WWdRMU4waGFmU3YxLW1OWVUxbXlCel9LWWpqUjFFdjRSbFZ6Ulh2bE1iZHVYYTVuTWVzNGlWc3BlczBUMk5zdFpmOEFJbFZlNERfMHFjNjlnLTRyUmtueVAtOUM3T0ZGVUt2ZHpRQlFZd1NLXw?oc=5",
+      "summary": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes Technology Record",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Euromonitor launches Passport agent in Microsoft 365 Copilot - itbrief.asia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnpHYmUtcVpBQ1o5MnNJQjRqOUZMZXRJZEFsOTdscFJTczBjWnRJclJZVnBMV0VMRGxNNHRuYmNfdVlxYXhLSTdFdy1RbVllaGRXLWdDclg1QmVKVF8tVU9BZGtOdVlBblZ5S1pBd0ZPTFgzVzg1d1lBT1dQQktkaDBCaHpCUTlwUTI0RU81REk?oc=5",
+      "summary": "Euromonitor launches Passport agent in Microsoft 365 Copilot itbrief.asia",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - techradar.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
+      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it techradar.com",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Unisys Adds Microsoft AI to Managed Cybersecurity Service - MyChesCo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVF6RzN2ZmlRdW9XclpwSEt5ZzJ5OEhpbDdrR24wWGdTYUVCMjM5OTdab3NEN3YxaFRta2dlby1vYVhUZXR2TU1QVDdHWTU0NW5zRGs3OFRMZjhUUzFqZzFNNkFqVFYzQTc3Mnl1b0xTZGFTbEhSWkdRSzlNMDFlcHo4cTVOYnpUQmpXVEhPRmZtQ1lsTENlWmYwcklRd3BD?oc=5",
+      "summary": "Unisys Adds Microsoft AI to Managed Cybersecurity Service MyChesCo",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
       "title": "Nationwide: Building its AI future one foundation at a time - Microsoft UK Stories",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWRmSXpqMXZibGNLaXA5eGx0QzNHcXBiMWlhTUJsVlU5SHRXS1FWRllzeEdmOGpTeGprdEw4MklwYkh0YnJ4bzlaNWlhWHpqSkxiN242S3k5Qnl2OGZvYVRVNEZERmRPajFBTTVBMGNVTkdEVGxicEZxeHJOdUFRb1BQYm1mSE5nem43aWVPMVBQZ04zNFVoQ0FoWnlEZ0FtMHc?oc=5",
       "summary": "Nationwide: Building its AI future one foundation at a time Microsoft UK Stories",
@@ -42,18 +122,10 @@
       "date": "2026-09-08"
     },
     {
-      "company": "Microsoft",
-      "title": "Euromonitor launches Passport agent in Microsoft 365 Copilot - IT Brief Asia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnpHYmUtcVpBQ1o5MnNJQjRqOUZMZXRJZEFsOTdscFJTczBjWnRJclJZVnBMV0VMRGxNNHRuYmNfdVlxYXhLSTdFdy1RbVllaGRXLWdDclg1QmVKVF8tVU9BZGtOdVlBblZ5S1pBd0ZPTFgzVzg1d1lBT1dQQktkaDBCaHpCUTlwUTI0RU81REk?oc=5",
-      "summary": "Euromonitor launches Passport agent in Microsoft 365 Copilot IT Brief Asia",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
-      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it TechRadar",
+      "company": "Apple",
+      "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
+      "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
+      "summary": "On October 1, Apple Arcade is rolling out a lineup of fun new games, from cozy cat collecting to zombie-blasting mayhem to beloved App Store hits.",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -155,6 +227,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI glasses 'pose growing threat to women and girls on Tube in London' - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFBsb2VYbmRoREJRZDFuS2NHcXZNRDJRdXdaUFBqOS1NTkZrOVEwUTFlSUtJaDZtUi1SMzVvU1lQMFZsQjkwTnJtOGFlQmI5M2hOeTcxc0tMdmU3NVVieVZjYTk0YjlrSnRmUnFST3pqRmRzZTFCTjRXOUcxUUk5cFVWcHU2aGszekJnR1RPWU9TVmpWT2t3ZWVpQVdyNjBv?oc=5",
+      "summary": "Meta’s AI glasses 'pose growing threat to women and girls on Tube in London' London Evening Standard",
+      "badge": "new",
+      "date": "2026-09-07"
+    },
+    {
+      "company": "Meta",
       "title": "Ray-Ban Meta glasses update makes them more useful on the go - Android Central",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHBaVGdEUjhCUGpjanNTZk00cDQ0MEZ0MlJtS3A4WmJlX2UxdjkyRVo4QnUtOEJaaEROVUhrc2Y2LVpHZ2NFaWhsSnI3RU9waUdRd1RhblhWRHQtY0p3TGhuYUVWdk5NcHYwaFE2SUt2QVhxbUl0UWNvb0ZUQkFqbW5JZWxpVjV1V3lRMTZtU3J1ajJ6akF2aXJDNWt3WDJNNDROS3dvaFVXSzc0dEVF?oc=5",
       "summary": "Ray-Ban Meta glasses update makes them more useful on the go Android Central",
@@ -174,30 +254,6 @@
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-      "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace CNBC",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWtFTGd3RmV5blg2X3Jod3BmN1B2eFYteHN2RHpqc0NCVGt1dVN0QmxCWHNrZGVsU3A1d2FSWkoxeXlub0M5UV9QZHV4M1NJRmN2RU9hTVV0Z2N4cC1XcmNEWGtSV2NLa1ZRa2N6aTRBdVpoSmlaQXRSbTZRUjg1UTdzbHFRdWNhMzN3M0Jfd3pOYnVKZGQzVzNJZmtBYXN0dDBsTnlHMnl4U0k0alg5RHVR?oc=5",
-      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement TechCrunch",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5",
-      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months The Information",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -226,14 +282,6 @@
       "date": "2026-09-06"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGNnS0IwVS1USHk5YW9VcDdHaHlIM3VYdktvWXp4OTMzR3ExdXdkMFpjNTR3Q0RNNHUwMDgtd0VXbEFZeWVPZkgzbndZaWJ3alp2aW1ObW9tQkhhOG1uaVhvaTZEMTdUZ0VQTTNCTnZHY0R3STM2dURXbGhadWZqQVhrdjNwTXJyODVpQ3NKM3JLTmdwLU9fdDhOc3dmZS1yMEJRTzBmM2w3YU9tano3S085NzRFODVtNEdSVmJfLW9SZTNWdmUyUVU1RERzUQ?oc=5",
-      "summary": "Microsoft wants Windows 11 to move beyond Copilot buttons, and run AI without sending your data out Windows Latest",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
       "company": "Perplexity",
       "title": "Small Business Tech News: Intuit Adds Perplexity And Younger Workers Are More Scared Of AI - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbV9wc2NpNVd6Y0k3cmFUVWJrdkpZRFZ6NldXZ3lRbXgxSnhNMEVUYUV3VnlHY2VVTlJwV0huTUpHOXY2RXFxVm9nblpZT0gzSFhZd3lWYVNydm1Wal9SSTk0VzE3M1pnbTZLckFPSmU5Mm14VlhMU2J5NXUxdV8wVy1QMEQ0eklXbDktb1BmNFl6c2N3N1MxRElKX2lvQVIzNjlGeENUMjN5YU93bnZwTVFMVDl5RzJKdWxCakdCdUZjZjlUYXZJMWNUaXdtZGZURWNRTzQ3aFlVSlprWWFyOWswTQ?oc=5",
@@ -256,22 +304,6 @@
       "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. Business Insider",
       "badge": "new",
       "date": "2026-09-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
-      "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement The New York Times",
-      "badge": "new",
-      "date": "2026-09-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnU3MklFSlpZRmtJRTlnOTRQbzhRbU4tQTFxck4zekRkcjVNTlAtZFcxTVZQX0ZFZXltLTd1NTJ0eDFCTWxZZmRvUEhEY3VVMVlib3J3dC1PYzFOemQ2M2ZTeHdFYV9ydnVoejFDRmlpTzlLRFhsdXRrTFBMTjdpa2c5cU5CcHlWdUFmTk1ZMkdWQzY5?oc=5",
-      "summary": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports The New York Times",
-      "badge": "new",
-      "date": "2026-09-05"
     },
     {
       "company": "Perplexity",
@@ -410,22 +442,6 @@
       "date": "2026-09-03"
     },
     {
-      "company": "Meta",
-      "title": "Meta debuts Muse Spark 1.3 as personal agent work continues - Axios",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTlFT0d3cGZXNEJza1djRDFUeUwtN2J0c0NPU1RIYkZUbHViYzltXy1MNXNKeGZnUnpQeEJ4d0RoeUhqVFhZM1FYUlBXXzRQZlZuVU1ZbTJvTGFqTENDYzZjZXY3bktMazJ5c3NwQlVLSzhkenZwUUY1TmhydjJXTFlZZllfdWl0NEdVWl96dENxM3RRVkE?oc=5",
-      "summary": "Meta debuts Muse Spark 1.3 as personal agent work continues Axios",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "badge": "new",
-      "date": "2026-09-02"
-    },
-    {
       "company": "Google",
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -440,14 +456,6 @@
       "summary": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show Decrypt",
       "badge": "new",
       "date": "2026-09-02"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "badge": "new",
-      "date": "2026-09-01"
     },
     {
       "company": "Google",
@@ -560,14 +568,6 @@
       "summary": "Key facts: Amazon (AMZN) $25B AI sale; MS $500 target; 500 Tesla Semis TradingView",
       "badge": "new",
       "date": "2026-08-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
-      "badge": "new",
-      "date": "2026-08-18"
     },
     {
       "company": "Google",
