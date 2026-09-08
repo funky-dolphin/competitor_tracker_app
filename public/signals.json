@@ -1,12 +1,44 @@
 {
-  "updated": "2026-09-08T15:51:02Z",
+  "updated": "2026-09-08T20:35:27Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
     {
       "company": "OpenAI",
       "title": "The Work Now Within Reach",
       "url": "https://openai.com/index/the-work-now-within-reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "badge": "watch",
       "date": "2026-09-08"
     },
     {
@@ -19,9 +51,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
-      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Purchase Bloomberg.com What made Anthropic walk away from the $6 billion Decart deal? calcalistech.com Decart founders declined Anthropic's demand to",
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
+      "summary": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO Financial Times",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What made Anthropic walk away from the $6 billion Decart deal? - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4YTN5Ykd2bllRazhCRzM2Z09XZHkzNHpIWnM4RkxhWGtBbnZxMUk1NVNBSzdCRVMxVVR0YkQwZlBUQ3ZkZ0pjREs5OUVfaVQwOWVXanVsNU5WOXd0czNwVEZ2M0hZSjJU?oc=5",
+      "summary": "What made Anthropic walk away from the $6 billion Decart deal? calcalistech.com Anthropic drops plans to acquire Israeli AI startup Decart calcalistech.com Anthropic Said to Walk Away From $6 Billion ",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Scoop: Anthropic breaks from major tech group over chips - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
+      "summary": "Scoop: Anthropic breaks from major tech group over chips Axios",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -35,17 +83,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
-      "summary": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO Financial Times",
+      "title": "Destroying Books to Build a Mind - newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
+      "summary": "Destroying Books to Build a Mind newyorker.com",
       "badge": "new",
       "date": "2026-09-08"
     },
     {
       "company": "Anthropic",
-      "title": "Destroying Books to Build a Mind - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
-      "summary": "Destroying Books to Build a Mind The New Yorker",
+      "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
+      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Purchase Bloomberg.com What made Anthropic walk away from the $6 billion Decart deal? calcalistech.com Decart founders declined Anthropic's demand to",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -83,9 +131,33 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft (MSFT): Azure AI Growth Rate and Enterprise Copilot Monetization - AlphaStreet",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2NVNWJVQmdoQU9OTVd4S3FMcS1oM3RxcGtKLUtyNmxwa3NQc1FFM2lic21sTW0yQkFFU19DaFgtVWlCTTBFV0xOODFRZTl0eElKM19uN3BLSks5NnVmWU9RWGhfWnc0d0VzRVM3dTFnaXgzdHJjMF8wcEs3NV9QQlZWUUpFMm56V0ZBRzZlQWhRaGtyQlRweUR3VDdPSGVPZ2o00gGjAUFVX3lxTE5fY1U1YlVCZ2hBT05NV3hLcUxxLWgzdHFwa0otS3I2bHBrc1BzUUUzaWJzbWxNbTJCQUVTX0NoWC1VaUJNMEVXTE44MVFlOXR4SUozX243cEtKSzk2dWZZT1FYaF9adzR3RXNFUzd1MWdpeDN0cmMwXzBwSzc1X1BCVlZRSkUybnpXRkFHNmVBaFFoa3JCVHB5RHdUN09IZU9najQ?oc=5",
+      "summary": "Microsoft (MSFT): Azure AI Growth Rate and Enterprise Copilot Monetization AlphaStreet",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
+      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it TechRadar",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
       "title": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes - Technology Record",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2hVVVZwS1l6RUVSckprVGF6eDR0TGJOTkZzeS11a2hrdXY4V1oyelpiVjItOFN2c2YyZUdUREhLQ0w3ejkxX0VFX1dZQzM3WWdRMU4waGFmU3YxLW1OWVUxbXlCel9LWWpqUjFFdjRSbFZ6Ulh2bE1iZHVYYTVuTWVzNGlWc3BlczBUMk5zdFpmOEFJbFZlNERfMHFjNjlnLTRyUmtueVAtOUM3T0ZGVUt2ZHpRQlFZd1NLXw?oc=5",
       "summary": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes Technology Record",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "OpenAI’s GPT-6 Astra now available in Microsoft applications - SD Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXJyQjYwTTFhZ2padzBuUldBcGJETm5XMkFDQjRCbmU5UklQZUoxUWJ2VHpCOFd3Z1hRcEthejBuOGcxVFV5NHBlblgzRVlCMlVVQnctNnlNTE56UzRNN0NUSGFRSTdpSGxIZVBFYTRNRkYyS2hEVlUtcGRuVkJ3VHc3NnR5ZG1HbW9uS3pndmljMkY1?oc=5",
+      "summary": "OpenAI’s GPT-6 Astra now available in Microsoft applications SD Times",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -95,14 +167,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnpHYmUtcVpBQ1o5MnNJQjRqOUZMZXRJZEFsOTdscFJTczBjWnRJclJZVnBMV0VMRGxNNHRuYmNfdVlxYXhLSTdFdy1RbVllaGRXLWdDclg1QmVKVF8tVU9BZGtOdVlBblZ5S1pBd0ZPTFgzVzg1d1lBT1dQQktkaDBCaHpCUTlwUTI0RU81REk?oc=5",
       "summary": "Euromonitor launches Passport agent in Microsoft 365 Copilot itbrief.asia",
       "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - techradar.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
-      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it techradar.com",
-      "badge": "new",
       "date": "2026-09-08"
     },
     {
@@ -178,27 +242,27 @@
       "date": "2026-09-08"
     },
     {
+      "company": "Meta",
+      "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3FnZkpVdk5HZkFnakV0N3dBWmZ6SFFjTE1DLWlsUGQ0N1Y3SlhiTGFzVkFQQnY2cHkxSzd2YlpwOERKLVZOOGtkdThRTzloZzBBUWlpWmUyS2UzU3J3QjhPUkFhR1pROW9ybW1JNWpMSmZWdjRwV0cyY3Atcnh1c3E1Q28zVnRGLTlmS1ZGQkRPY0xYVjU40gGcAUFVX3lxTE05R3lsWEZfZjV6WkRZNndRZU8wZWhUZDViT0tYYU1VWlpSTUpFNkpra2EzS0JCcl9ySzRCWTR4enJoVDdoTXFfcElqQ0hJZ0JVeXRWSU11ZWlnOElBbW9XYjFLVEtybktUMWlhU01DOC1VcVFGaktNeTl1eFNGYmowYjZZTzY5SnkzcllGdUl5N1NfWlprVmh2TFVoeQ?oc=5",
+      "summary": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety CNBC Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Meta Debuts Muse AI Assistant for Pe",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI launches Muse personal agent, including a new mobile app for iPhone - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2RwdERRTDJmSGNZMFdsOU9COGdvM1hQRjhFTnhUaUFsOTlxOVI3MEVNekNYX3BidmlaUTk5OXNnd1hZOGNQQTctMDMzXzZwZ3ZLRUwzc2FnTXA1OW5kOEJEeHFyMUp6amRMbmpicHRkQzNkZk0tT3dzSkJfQXBYVGw2S1pMaFBDYWhRbHVRamNEMTE1UGdnM0dnVzNZdVNwOFFZVHI1cFR0QQ?oc=5",
+      "summary": "Meta AI launches Muse personal agent, including a new mobile app for iPhone 9to5Mac",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
       "company": "OpenAI",
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "badge": "hot",
-      "date": "2026-09-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How a tiny Anthropic team became a surprisingly productive hit factory - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzk3QzRtOWRqVXV5VEJHVU9FUzdoQjhqWEVfdGRMNU1XX2NjSTVHUXQySktINUNWYWVUdXpsNzkyMFBmZmsxTHZpc2pLRUV6ZThwZDZPdG1ncGJDSEJNVG1DNVVTQjVFaVRfMHYzNFR3SFBHa0U3a1pmeUV0RzNYbHRR?oc=5",
-      "summary": "How a tiny Anthropic team became a surprisingly productive hit factory Business Insider",
-      "badge": "new",
-      "date": "2026-09-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch - global.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2I4elphOVBGSDAyVVM5d25LR09BS0tzUWk0R0tvanlXRmtmakdsenN6UnBhOURhWVBiTi00ZTJ0SEpGcURvZGxXcFJvdVJwaUw1YU9lX0ZTdVdTa3oycmJFQU1oTzZhcGwydzJOVlpSVjJDVU8tT094dlBjc2lnRXdYOHBJS3BEN1l0TWdrZ1dlSjJRVmtMVEg1cU1PTGI5eDhHU3QtaXZITEhYNmJfZURsNkhkZlVodWhYNUJtQXE?oc=5",
-      "summary": "Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch global.morningstar.com",
-      "badge": "new",
       "date": "2026-09-07"
     },
     {
@@ -262,22 +326,6 @@
       "title": "NFL Week 1 predictions by Microsoft Copilot AI for every game - Central Oregon Daily",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZFZXSDFpaGJhUDluUDludGlrX1dlV01Qc3RBTWVEM21HX2lOYV9wcDhuMzJ4QmRiQW9ZYk1kU1lNUzlRS3RXd3FicWstajBDdF8ySDlmLTJEV2FFcktWNEd6N3V6Z1Z2UkRjc0Q4SmYtanpOZ1BvX2NmbTlnRUhpUko1NFRmSHVBcXU3ZDdkMC1ybzVfckRkZnlzVS1yWlowRUNKbXVVZE5TTVl1Qll2U2F0YlYyZW5NMXFPeWF4YVhyQWNxV0NIVmNBS3ZQOGZUVmFJUElheEwtVDVvT0ttN3o2OU9UYVBo?oc=5",
       "summary": "NFL Week 1 predictions by Microsoft Copilot AI for every game Central Oregon Daily",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NFL Week 1 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWk1SndhUUlMSHBUTUEwUWhvLXVtcjdJZjVBRTNrVm14d0o2d0h3dGRqZWxZSXk3M0lYM29sT1cxMExRVVRMbXNtNUxMN09ZMmw3YXdxY1BjTG9EbnZ2RnFOaFlsdjNfWGxnUHhIeDJXVDVzYm5IVWNzZ1Y3RGZWTmJQd1dxT0RnaHI0aTZUSnRFN3BxSHIwanJxVG5SNlhyYTFzSA?oc=5",
-      "summary": "NFL Week 1 predictions by Microsoft Copilot AI for every game USA Today",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft CEO Satya Nadella announces new AI models for Copilot, powered by Opal frontier - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXdZa0lKUDBIR2J1aGY3eVZrR3U2YjJsSXMwUVVKcGJmeGpKbFFDRGQ1Y2hSNmZZQlIyU0Q4ZDVtZmw5VHo4Q1FYZ1NGeERGcXlwYmdOTC1UMFA0bG1DWll1MERkdkV0dzRINURsMnRtaFZ4TG5KNUV0M0UxcW4wMnVaSHhLM3VaNkhRV01wb25Ia1lDZHFXMHFxcFZiR2hMbWtyR2xXNEtWdnoxNkdrcnV2T0x0UTJ2cUFFMXJiRzBENW5pU1NPN2xYZjdod9IB0wFBVV95cUxOYlBrZTFhMllDWjZuOUtmNGNEU1BGOFhKMWszaXJwTDdQa2JKaTRKVTNRdE5uZzdRYUk0SGpPVjZ1T1UzVkdsTi04ZXNPWFluOTVua0lhWFBOSWlGaEhpMGIyV3dRcVA3LVNEWHNqTVE3NWhvMXgyR1FkTnNXMzFyQXpxUkN2aWk4UjBtT3hTbnRmMzM2U3ZiRlNwUlc1NGZINlotQjQzYjdfQ3ByeFY3ODAxVEptRWt2MUpVbGszZ1J0cE9yMDZ4YlI5Q3htY0RHd1NF?oc=5",
-      "summary": "Microsoft CEO Satya Nadella announces new AI models for Copilot, powered by Opal frontier Firstpost",
       "badge": "new",
       "date": "2026-09-06"
     },
@@ -346,38 +394,6 @@
       "date": "2026-09-03"
     },
     {
-      "company": "OpenAI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "badge": "hot",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
       "company": "Perplexity",
       "title": "Maybe we were wrong about Perplexity - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWtGMlVtTFdNREpZblEtRTVscFRRRVRTQW91TUFPd01PWTVscVUtN1A0cnNlNEQtVU04UnNNRVAxWVlQTmxOaFVQZUlkTkRIdjhlVzc0N0hLWUZfRGlzSmktZl9MbFNTRGYwM01LRnBHT1Ywc2Rtd212S0N0dw?oc=5",
@@ -422,22 +438,6 @@
       "title": "Meta sued for recording people who never bought its smart glasses - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUhVQlZRaWhGOWJzQmk2WmVua1dQdUt5ZVF2akpFWWt2NnAybF9IdlM1R29LWEZVem1Yb3B1cGpEb19abDZuMDBlcGlBNzkwTXd4UmJEQWpnT2ZxOHBHRHAtcmFSTTBMWnZGS3NSai1PVGtNRjNXcTlzY19rQnBuMUwyQmRsMmFyTFA0UFcyNA?oc=5",
       "summary": "Meta sued for recording people who never bought its smart glasses Yahoo",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFE4bUotTDJNS2NLSEdxdUlTX3lCYTctUWpNZkVpS2hmSEd6YjhXTW45TTZlUVZ6UWpnV2ZXcWpxY05JampMQmc5aUFySGNmSTJTZ0E1VHR6Wl9leXhMWE83Wjh5Q0IxUUpMbkw2Z0RjZk1yeTl6WUtXN3VrcHQ2S2RyeGlBaDJ6OFZEUENHZ0F1UnhweV9UOUhnc3lBb0NHeUtr?oc=5",
-      "summary": "Meta Is Reportedly Sending Mixed Messages to Employees on Tokenmaxxing Gizmodo",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
-      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing WIRED",
       "badge": "new",
       "date": "2026-09-03"
     },
