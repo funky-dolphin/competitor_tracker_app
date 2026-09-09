@@ -1,11 +1,19 @@
 {
-  "updated": "2026-09-09T10:37:41Z",
+  "updated": "2026-09-09T15:46:42Z",
   "signals": [
     {
       "company": "Anthropic",
-      "title": "Anthropic researcher quits, calls AI an existential threat to humanity - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
-      "summary": "Anthropic researcher quits, calls AI an existential threat to humanity Mashable Anthropic researcher quits over AI labs ‘gambling with our lives’ Financial Times Anthropic insiders warn AI could kill ",
+      "title": "'They're playing with our lives': AI researcher quits Anthropic - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
+      "summary": "'They're playing with our lives': AI researcher quits Anthropic Yahoo Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI WSJ Anthropic Researcher Jacob Coxon Resigns, Warns A.I",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzJ1bl9iZHMzZkNnQ3ZRRGZ5My1UXzd5ZkRfWEFncnBLZ3I3YnA5VUNHUzFfNnowbkVLR2hRM0NyeFc2dVdkUGl1OTBaUDhUQ1F1QTVZaTQ0SUYyd1JwVTJybDdRNndWdmFfckJKY2YzT0NZakR0T2hYN2VZWk1TQjN0UFZHSVVqQ0ZMWGJKTG5PSWplVkg4UHJpUDZUVVdnbDNBVVdQNA?oc=5",
+      "summary": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists The American Prospect",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -14,6 +22,22 @@
       "title": "Anthropic withheld latest AI model from UK testing agency - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJObGRoR1Q2enZFeHJ0dUx1YVhITDlOVnZpUm53ZjVrMDRrTmFxejdDbUx6dHk3UTlFUFlYS0J2QmExWXQ4aEtRS0tDdlFtRFNWcEdXT0tlemRMTUlGckJzWEtlTUVVVjJ3elI5NUdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5",
       "summary": "Anthropic withheld latest AI model from UK testing agency Financial Times",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5",
+      "summary": "A new Anthropic model seeks to test how AI could impact the U.S. economy NPR",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic researcher quits, calls AI an existential threat to humanity - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
+      "summary": "Anthropic researcher quits, calls AI an existential threat to humanity Mashable Anthropic researcher quits over AI labs ‘gambling with our lives’ Financial Times Anthropic insiders warn AI could kill ",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -35,17 +59,33 @@
     },
     {
       "company": "Microsoft",
-      "title": "EY Microsoft Copilot Deployment: The Path to AI Productivity - uctoday.com",
+      "title": "EY Microsoft Copilot Deployment: The Path to AI Productivity - UC Today",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlTMUVnMnBFMjJMOUd4ak9wUlU2QkcwZUtFcWlGc1Z3cElFMWt5aXZZTWJNNGRqQ3BOSVhlM0F1enpjZ2V1d09VWDJwbUZEMF9FQl80dFB6dWxwOVFhOHZNemMyUGMwdzJKcko4YzVQTFBPdkFKSXNCcUpjdHRCTWdnODVaQQ?oc=5",
-      "summary": "EY Microsoft Copilot Deployment: The Path to AI Productivity uctoday.com",
+      "summary": "EY Microsoft Copilot Deployment: The Path to AI Productivity UC Today",
       "badge": "new",
       "date": "2026-09-09"
     },
     {
       "company": "Microsoft",
-      "title": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents - Diginomica",
+      "title": "Microsoft really wants organizations to build and publish apps using Copilot - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUFBbWhGOHFTRkVEVzh1OURTb1lEaVdNcTdOWXotUGZsS25qTFZaU2NtbUgxUFBxOWpXWVJoSmVGbVVhaWhHN0FSeTVLbjVnWkZBTnRKbWswRkR5MWEwNFNneUdhZUtDdGhwamZLZVZzMDkxcHpWLU00VkNWS3dYNjJEZGVyVUxxd1hUZUxZN19lbFVuNmJLek9pRUg1Mm5TdGhkdXdqSXM?oc=5",
+      "summary": "Microsoft really wants organizations to build and publish apps using Copilot Neowin",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRWdjE2RXpjeXNGY0xueEdzWXR2dUE5eWRoRXB2MEJLc3Nnak5FdGVXenJjQUlhWnlSSnd6RUdWM0RDZ2dyMlR3cXBLdTV1S1FfTkZXazlibFZpeWRyRzdWeURjMk95SWUtVk0xSEZqS2RNcXNELVA3cGtRN2VtT3EtOTktd0g3bkU2R2VOaHpnZGRIcXpFMDRvX1Z1S3VjQlhZUDlR?oc=5",
+      "summary": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It PCMag",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents - diginomica",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2t1cElBaUFRanUwem52OXpmQXB4b2FlM3pXcGtYbHRiLXBlSkJrSG0yYjRMNDVXMWVTdFdlc3JsdUNmRDEyX0Q5dGIyMW1RZWVjM240V2w3TE5kSnFVUXM1WUV6cWRDVzNPcXlpZ3d3VktaZnphMlhmX1psR1p0VENGcWdnaHh2TTB6R3RnQkNuV09rTmc?oc=5",
-      "summary": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents Diginomica",
+      "summary": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents diginomica",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -86,6 +126,22 @@
       "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta debuts Muse, its long-planned personal AI agent - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5",
+      "summary": "Meta debuts Muse, its long-planned personal AI agent Axios",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2% - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSV9VZ0sxb2IzTktBTVpja0Zpd01uLU1EZG5lNXJYMEUxVUtOU0pSTXBjWFQ0UTF4eUs5SS1KSjdLVG5FbVZ6ZUxOSUpYZVk5RkQ0d2o5djFzMmpkNWdBeFFBbDlBbW9jOU5QTmd4ZEk1V0pkbWFnUGlYMHFqZ0NiZ3lVRVpvcXN5UzBsa1h3?oc=5",
+      "summary": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2% finance.yahoo.com",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -147,6 +203,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
       "title": "Destroying Books to Build a Mind - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
       "summary": "Destroying Books to Build a Mind The New Yorker",
@@ -163,41 +227,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
-      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
       "title": "Scoop: Anthropic breaks from major tech group over chips - Axios",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
       "summary": "Scoop: Anthropic breaks from major tech group over chips Axios",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What to Know About Anthropic’s Planned IPO - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnJKcDF6a1hkcmpscnNFcVZMd1BvamNUMDdXWThhQUxYaG1EdEt4X2FYXzJNbVk1T0NUc2dGM1FWYmpzalJsa1BvVG5zeXhRY0xmdnhPb1NwWnFhSU8tQVZCcEZScmUtRGp3U1dKRW5aTERJd2k4NVFpV2EzZ3R6Z29zaHl6TjNNallUWVNR?oc=5",
-      "summary": "What to Know About Anthropic’s Planned IPO WSJ Anthropic delays IPO to October: What that could mean for the AI player Yahoo Finance Anthropic and OpenAI bankers push for top-tier credit ratings post-",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
-      "summary": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO Financial Times",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What made Anthropic walk away from the $6 billion Decart deal? - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4YTN5Ykd2bllRazhCRzM2Z09XZHkzNHpIWnM4RkxhWGtBbnZxMUk1NVNBSzdCRVMxVVR0YkQwZlBUQ3ZkZ0pjREs5OUVfaVQwOWVXanVsNU5WOXd0czNwVEZ2M0hZSjJU?oc=5",
-      "summary": "What made Anthropic walk away from the $6 billion Decart deal? calcalistech.com Anthropic drops plans to acquire Israeli AI startup Decart calcalistech.com Anthropic Said to Walk Away From $6 Billion ",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -242,22 +274,6 @@
       "date": "2026-09-08"
     },
     {
-      "company": "Microsoft",
-      "title": "Euromonitor launches Passport agent in Microsoft 365 Copilot - itbrief.asia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnpHYmUtcVpBQ1o5MnNJQjRqOUZMZXRJZEFsOTdscFJTczBjWnRJclJZVnBMV0VMRGxNNHRuYmNfdVlxYXhLSTdFdy1RbVllaGRXLWdDclg1QmVKVF8tVU9BZGtOdVlBblZ5S1pBd0ZPTFgzVzg1d1lBT1dQQktkaDBCaHpCUTlwUTI0RU81REk?oc=5",
-      "summary": "Euromonitor launches Passport agent in Microsoft 365 Copilot itbrief.asia",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Unisys Adds Microsoft AI to Managed Cybersecurity Service - MyChesCo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVF6RzN2ZmlRdW9XclpwSEt5ZzJ5OEhpbDdrR24wWGdTYUVCMjM5OTdab3NEN3YxaFRta2dlby1vYVhUZXR2TU1QVDdHWTU0NW5zRGs3OFRMZjhUUzFqZzFNNkFqVFYzQTc3Mnl1b0xTZGFTbEhSWkdRSzlNMDFlcHo4cTVOYnpUQmpXVEhPRmZtQ1lsTENlWmYwcklRd3BD?oc=5",
-      "summary": "Unisys Adds Microsoft AI to Managed Cybersecurity Service MyChesCo",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
       "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
@@ -271,6 +287,30 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlUS2Z5X0l6RHJqak9reGMtdFNpMHFJQUhucFBSLWZleHZpTXdRYUZtUmVBNllMY0l6WE93bTRDaE4yeDBrdGxxWnIxTTlEd2NCWE54WFl3TGQ5WnQ3U2JqTGxPQmUzdGl3dTlkdUE4d2VEY2tENC1WWDhnU2VXRFpQLWhiWk15S0VGbHVYcTJUZlNqbUIzSjJ4dHh2cnlfNzl5cVA1ZGY5S01BVlkzbGVQOEVuRnlVT3JXTTJqakFxLVA5TmZKQms5RWdqQlBFTkZScWt0VnVjSVpIbkIxV3pMX01XNHA3?oc=5",
       "summary": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers FinancialContent",
       "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
+      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Meta pushes into personal AI agents as company faces public reckoning over privacy and safety CNBC Meta’s AI Agent for Consumers Has Ar",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWVXZWFybHRYNkhnMUxZRm9ESFd5djVtV1RfeHpFS0ppU3FVWmxUS2lyNkJiV0VMajJrTDZSRlpGcTdONkRqbU5lV0lpRnRrbEJmVk45WWtXQ0k1QjhuenlFbkwxM004SGxCb3ozcTB4bXQ2a0U0VGhBcXdMT1Z5UHMtQk1HeExhMWFYRF9fYXlDc0ptLUF1blZrbG9OOVBCYnB6MzY4NXpCUGVKVkNDdGNqUVkyNVF4dzlpb3FqZndOb0xGVDE5eWx1M05nZ05qdkcyU1o2YzhZVFdhNUJXQkxpTHRDTkhqVDhxbjRPLUNqNDVPUDFUeGRyTFM?oc=5",
+      "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launches personal AI agent, Muse, to help with everyday tasks - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1pwekpmb2dVRnBVWWZvbzZ6dHNISEhWQ2R6SFRfQU14dEd5TXVPUWV1V3hDX3lOZ1VZQUhKZDlyUzFybTJ1Ymh3YUNoR1h3UVZKc2FRRG14QTFOSmd2V2QyWXdTVEpMZzM2aGdSbVlrb3F4U25JaWRoZ01zQnNSSjV3SnRnR2RHTnNqTW9Bc3JrM3JidG5lMUVRcWh3ZXY0Rmc?oc=5",
+      "summary": "Meta launches personal AI agent, Muse, to help with everyday tasks PBS",
+      "badge": "hot",
       "date": "2026-09-08"
     },
     {
@@ -299,41 +339,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta launches personal AI agent, Muse, to help with everyday tasks - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1pwekpmb2dVRnBVWWZvbzZ6dHNISEhWQ2R6SFRfQU14dEd5TXVPUWV1V3hDX3lOZ1VZQUhKZDlyUzFybTJ1Ymh3YUNoR1h3UVZKc2FRRG14QTFOSmd2V2QyWXdTVEpMZzM2aGdSbVlrb3F4U25JaWRoZ01zQnNSSjV3SnRnR2RHTnNqTW9Bc3JrM3JidG5lMUVRcWh3ZXY0Rmc?oc=5",
-      "summary": "Meta launches personal AI agent, Muse, to help with everyday tasks PBS",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
       "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It - WIRED",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWdIQlRkZjBGVFRhWnlpdTlaQkh6M0s1Z1VfTmlwTTFBR21UQkVQLS1US2ROYzRsbTB3R2p5bFZ3X252aXlLT2tnV1RUS2QyMGxhM3VjY04xa1EtN3dENEF4VzlIUWh0THh1WjUxYVNOSmxhaTVoWGlLWXBNVFFBZ1M5bzBnaE1ZS2JtU2FjRmhtSWViZVd0cUVR?oc=5",
       "summary": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It WIRED",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
-      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta.com Meta Debuts Muse AI Assistant for Personal Tasks and ",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWVXZWFybHRYNkhnMUxZRm9ESFd5djVtV1RfeHpFS0ppU3FVWmxUS2lyNkJiV0VMajJrTDZSRlpGcTdONkRqbU5lV0lpRnRrbEJmVk45WWtXQ0k1QjhuenlFbkwxM004SGxCb3ozcTB4bXQ2a0U0VGhBcXdMT1Z5UHMtQk1HeExhMWFYRF9fYXlDc0ptLUF1blZrbG9OOVBCYnB6MzY4NXpCUGVKVkNDdGNqUVkyNVF4dzlpb3FqZndOb0xGVDE5eWx1M05nZ05qdkcyU1o2YzhZVFdhNUJXQkxpTHRDTkhqVDhxbjRPLUNqNDVPUDFUeGRyTFM?oc=5",
-      "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta debuts Muse, its long-planned personal AI agent - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5",
-      "summary": "Meta debuts Muse, its long-planned personal AI agent Axios",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -343,14 +351,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ER3F6SHhyYnN6LVI5MnAwMG1xcGEwd29aRFkwQkQxa2k4a1lGYXk5Smc1NFNWMEgzTjdmdUdtLVRmWE9zanNNakNMd19PZzlXbXN0TVVzT3E0QjJ1blVCUzl4ZWI4emczaWtJY3ptcmV5N0E5Zkphbg?oc=5",
       "summary": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel nytimes.com",
       "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3FnZkpVdk5HZkFnakV0N3dBWmZ6SFFjTE1DLWlsUGQ0N1Y3SlhiTGFzVkFQQnY2cHkxSzd2YlpwOERKLVZOOGtkdThRTzloZzBBUWlpWmUyS2UzU3J3QjhPUkFhR1pROW9ybW1JNWpMSmZWdjRwV0cyY3Atcnh1c3E1Q28zVnRGLTlmS1ZGQkRPY0xYVjU40gGcAUFVX3lxTE05R3lsWEZfZjV6WkRZNndRZU8wZWhUZDViT0tYYU1VWlpSTUpFNkpra2EzS0JCcl9ySzRCWTR4enJoVDdoTXFfcElqQ0hJZ0JVeXRWSU11ZWlnOElBbW9XYjFLVEtybktUMWlhU01DOC1VcVFGaktNeTl1eFNGYmowYjZZTzY5SnkzcllGdUl5N1NfWlprVmh2TFVoeQ?oc=5",
-      "summary": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety CNBC Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Meta Debuts Muse AI Assistant for Pe",
-      "badge": "hot",
       "date": "2026-09-08"
     },
     {
