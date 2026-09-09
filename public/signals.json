@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-08T20:35:27Z",
+  "updated": "2026-09-09T02:40:09Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
+      "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
+      "summary": "On October 1, Apple Arcade is rolling out a lineup of fun new games, from cozy cat collecting to zombie-blasting mayhem to beloved App Store hits.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
+      "badge": "hot",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
     {
       "company": "OpenAI",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -51,6 +91,46 @@
     },
     {
       "company": "Anthropic",
+      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1lmRzFiZGlzRmd5T3A2aUxkUF9hSWN2dFE5MmtOYTVmek1ZeFdLNGQ2M1hYOTllVllwcmM0T21Yc0VOOV9HNlJNQTZoWnFRWTR0RHFOWTB5T19yUDBtR2RsRHlfc2ZBZ3ZHX29mTl9qOGJ4T1pTNUozeHdJbWpxYlF1MmMxOXRkOC13OHBxQklVaHFWR1d5d0UzRk9RZzVkNWtjRzF0ak9wRmc1XzVwQVJEOUtsV3M?oc=5",
+      "summary": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court The Verge",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Destroying Books to Build a Mind - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
+      "summary": "Destroying Books to Build a Mind The New Yorker",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Scoop: Anthropic breaks from major tech group over chips - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
+      "summary": "Scoop: Anthropic breaks from major tech group over chips Axios",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What to Know About Anthropic’s Planned IPO - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnJKcDF6a1hkcmpscnNFcVZMd1BvamNUMDdXWThhQUxYaG1EdEt4X2FYXzJNbVk1T0NUc2dGM1FWYmpzalJsa1BvVG5zeXhRY0xmdnhPb1NwWnFhSU8tQVZCcEZScmUtRGp3U1dKRW5aTERJd2k4NVFpV2EzZ3R6Z29zaHl6TjNNallUWVNR?oc=5",
+      "summary": "What to Know About Anthropic’s Planned IPO WSJ Anthropic delays IPO to October: What that could mean for the AI player Yahoo Finance Anthropic and OpenAI bankers push for top-tier credit ratings post-",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5",
       "summary": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO Financial Times",
@@ -67,25 +147,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Scoop: Anthropic breaks from major tech group over chips - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
-      "summary": "Scoop: Anthropic breaks from major tech group over chips Axios",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
       "title": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal - The Intercept",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX19TN1ZXOXA0bWM5YjVmbi1VS0VNaXh2dTJCalV3dEpoTGhSZ0tJX0QzUmwwNmV0WnZneXZWVUxoNFVYZXZucjV5bVFoRWhRWVc5b1gyVU5xb3V6d3FuRnNlMlJXRzF0WkFNYmlhaGd6TV9POVVSX1p4R1JEdTBLb1dOT0JLWFJwbHVORnZLYTRMeE1n?oc=5",
       "summary": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal The Intercept",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Destroying Books to Build a Mind - newyorker.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
-      "summary": "Destroying Books to Build a Mind newyorker.com",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -106,26 +170,10 @@
       "date": "2026-09-08"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic drops plans to acquire Israeli AI startup Decart - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5",
-      "summary": "Anthropic drops plans to acquire Israeli AI startup Decart calcalistech.com",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ta190YUtGTk1YdGMtQ08xaVJkNE41X1Ryck9NYzkzM0lURlpJYTI5ZkFiaHVzSDZBbF9Tal9lQkFydlBrY2swaTIyamQ4UXhNSk16NGdVVzR1eWtnNUMyU01B?oc=5",
-      "summary": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart Ynetnews",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
-      "summary": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns The Guardian",
+      "company": "Microsoft",
+      "title": "Microsoft adds native app building to Copilot Studio - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEVPYUFuZ1VRR0NidkhPQkVxOHQzN2hWR1RhQ0liUjVoZkZLYlhQaDNIQURvUFBvNHVjTHljbjZ6QV9nQk1mcE1sZVZNYTkzc2V2S0FERjVILUYwZlU4SUhOM0hqcGZJNTFnQjFxWXZKSFJsVG03MHJlVGZSN1k5eTFKN19LbEFyWmFuTzBMSGpIa0wzSlZabnVB?oc=5",
+      "summary": "Microsoft adds native app building to Copilot Studio Constellation Research",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -139,17 +187,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
-      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it TechRadar",
+      "title": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes - Technology Record",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2hVVVZwS1l6RUVSckprVGF6eDR0TGJOTkZzeS11a2hrdXY4V1oyelpiVjItOFN2c2YyZUdUREhLQ0w3ejkxX0VFX1dZQzM3WWdRMU4waGFmU3YxLW1OWVUxbXlCel9LWWpqUjFFdjRSbFZ6Ulh2bE1iZHVYYTVuTWVzNGlWc3BlczBUMk5zdFpmOEFJbFZlNERfMHFjNjlnLTRyUmtueVAtOUM3T0ZGVUt2ZHpRQlFZd1NLXw?oc=5",
+      "summary": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes Technology Record",
       "badge": "new",
       "date": "2026-09-08"
     },
     {
       "company": "Microsoft",
-      "title": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes - Technology Record",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2hVVVZwS1l6RUVSckprVGF6eDR0TGJOTkZzeS11a2hrdXY4V1oyelpiVjItOFN2c2YyZUdUREhLQ0w3ejkxX0VFX1dZQzM3WWdRMU4waGFmU3YxLW1OWVUxbXlCel9LWWpqUjFFdjRSbFZ6Ulh2bE1iZHVYYTVuTWVzNGlWc3BlczBUMk5zdFpmOEFJbFZlNERfMHFjNjlnLTRyUmtueVAtOUM3T0ZGVUt2ZHpRQlFZd1NLXw?oc=5",
-      "summary": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes Technology Record",
+      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
+      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it TechRadar",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -187,46 +235,6 @@
     },
     {
       "company": "Apple",
-      "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
-      "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
-      "summary": "On October 1, Apple Arcade is rolling out a lineup of fun new games, from cozy cat collecting to zombie-blasting mayhem to beloved App Store hits.",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Apple",
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
       "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
@@ -238,6 +246,46 @@
       "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlUS2Z5X0l6RHJqak9reGMtdFNpMHFJQUhucFBSLWZleHZpTXdRYUZtUmVBNllMY0l6WE93bTRDaE4yeDBrdGxxWnIxTTlEd2NCWE54WFl3TGQ5WnQ3U2JqTGxPQmUzdGl3dTlkdUE4d2VEY2tENC1WWDhnU2VXRFpQLWhiWk15S0VGbHVYcTJUZlNqbUIzSjJ4dHh2cnlfNzl5cVA1ZGY5S01BVlkzbGVQOEVuRnlVT3JXTTJqakFxLVA5TmZKQms5RWdqQlBFTkZScWt0VnVjSVpIbkIxV3pMX01XNHA3?oc=5",
       "summary": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers FinancialContent",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
+      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta.com Meta Debuts Muse AI Assistant for Personal Tasks and ",
+      "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWVXZWFybHRYNkhnMUxZRm9ESFd5djVtV1RfeHpFS0ppU3FVWmxUS2lyNkJiV0VMajJrTDZSRlpGcTdONkRqbU5lV0lpRnRrbEJmVk45WWtXQ0k1QjhuenlFbkwxM004SGxCb3ozcTB4bXQ2a0U0VGhBcXdMT1Z5UHMtQk1HeExhMWFYRF9fYXlDc0ptLUF1blZrbG9OOVBCYnB6MzY4NXpCUGVKVkNDdGNqUVkyNVF4dzlpb3FqZndOb0xGVDE5eWx1M05nZ05qdkcyU1o2YzhZVFdhNUJXQkxpTHRDTkhqVDhxbjRPLUNqNDVPUDFUeGRyTFM?oc=5",
+      "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta debuts Muse, its long-planned personal AI agent - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5",
+      "summary": "Meta debuts Muse, its long-planned personal AI agent Axios",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWdIQlRkZjBGVFRhWnlpdTlaQkh6M0s1Z1VfTmlwTTFBR21UQkVQLS1US2ROYzRsbTB3R2p5bFZ3X252aXlLT2tnV1RUS2QyMGxhM3VjY04xa1EtN3dENEF4VzlIUWh0THh1WjUxYVNOSmxhaTVoWGlLWXBNVFFBZ1M5bzBnaE1ZS2JtU2FjRmhtSWViZVd0cUVR?oc=5",
+      "summary": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It WIRED",
+      "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ER3F6SHhyYnN6LVI5MnAwMG1xcGEwd29aRFkwQkQxa2k4a1lGYXk5Smc1NFNWMEgzTjdmdUdtLVRmWE9zanNNakNMd19PZzlXbXN0TVVzT3E0QjJ1blVCUzl4ZWI4emczaWtJY3ptcmV5N0E5Zkphbg?oc=5",
+      "summary": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel nytimes.com",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -255,6 +303,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2RwdERRTDJmSGNZMFdsOU9COGdvM1hQRjhFTnhUaUFsOTlxOVI3MEVNekNYX3BidmlaUTk5OXNnd1hZOGNQQTctMDMzXzZwZ3ZLRUwzc2FnTXA1OW5kOEJEeHFyMUp6amRMbmpicHRkQzNkZk0tT3dzSkJfQXBYVGw2S1pMaFBDYWhRbHVRamNEMTE1UGdnM0dnVzNZdVNwOFFZVHI1cFR0QQ?oc=5",
       "summary": "Meta AI launches Muse personal agent, including a new mobile app for iPhone 9to5Mac",
       "badge": "hot",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Amazon",
+      "title": "High-flying Kiwi in New York raises $54m for his AI start-up - NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdTQ3cXJVT3EtN29CMWlubjhKaFdzTHdfVzBmREgwamZub0ltOWVCVXd0Ykc2MWIyajYxcVdoNS1hWjJmbV9HTEJGWHhzSTU3TldTclpWME1vQktBMXZ4ZHVpR0NJU21wRTQwWkc2WTh6TGFFSkhWU1UwNVcteV92QmFwWjA3QV8xMnd6NWlaaDVyb3ZieEwxTjhtYURTcTRBRFpYYjJsU183SE4zSzJCR3U4WjVVOHE1ZXVkc1lvbjB0T3dWeWxaaGxPMVBiT1c5OUxCS3pxYVJqdVE5aGhKdTEya1FoWEVIZzF5RXFobGtiSkdTYVZYX3p4akdPQTQ1dkJ1WWYteFA0NldjWnRUaGRYMDZWUQ?oc=5",
+      "summary": "High-flying Kiwi in New York raises $54m for his AI start-up NZ Herald",
+      "badge": "new",
       "date": "2026-09-08"
     },
     {
@@ -322,14 +378,6 @@
       "date": "2026-09-06"
     },
     {
-      "company": "Microsoft",
-      "title": "NFL Week 1 predictions by Microsoft Copilot AI for every game - Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZFZXSDFpaGJhUDluUDludGlrX1dlV01Qc3RBTWVEM21HX2lOYV9wcDhuMzJ4QmRiQW9ZYk1kU1lNUzlRS3RXd3FicWstajBDdF8ySDlmLTJEV2FFcktWNEd6N3V6Z1Z2UkRjc0Q4SmYtanpOZ1BvX2NmbTlnRUhpUko1NFRmSHVBcXU3ZDdkMC1ybzVfckRkZnlzVS1yWlowRUNKbXVVZE5TTVl1Qll2U2F0YlYyZW5NMXFPeWF4YVhyQWNxV0NIVmNBS3ZQOGZUVmFJUElheEwtVDVvT0ttN3o2OU9UYVBo?oc=5",
-      "summary": "NFL Week 1 predictions by Microsoft Copilot AI for every game Central Oregon Daily",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
       "company": "Perplexity",
       "title": "Small Business Tech News: Intuit Adds Perplexity And Younger Workers Are More Scared Of AI - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbV9wc2NpNVd6Y0k3cmFUVWJrdkpZRFZ6NldXZ3lRbXgxSnhNMEVUYUV3VnlHY2VVTlJwV0huTUpHOXY2RXFxVm9nblpZT0gzSFhZd3lWYVNydm1Wal9SSTk0VzE3M1pnbTZLckFPSmU5Mm14VlhMU2J5NXUxdV8wVy1QMEQ0eklXbDktb1BmNFl6c2N3N1MxRElKX2lvQVIzNjlGeENUMjN5YU93bnZwTVFMVDl5RzJKdWxCakdCdUZjZjlUYXZJMWNUaXdtZGZURWNRTzQ3aFlVSlprWWFyOWswTQ?oc=5",
@@ -360,30 +408,6 @@
       "summary": "I asked AI to rank the 10 jobs most likely to be replaced by AI — here's what they all agreed on Tom's Guide",
       "badge": "new",
       "date": "2026-09-05"
-    },
-    {
-      "company": "Meta",
-      "title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUV1d0Y2eUozZWlCbV9ScnNHRXVkMzBHVEQwR0dSVHJORlBHNm5lQ1Itdk43ZFM2d3FBdzVJcl9PMFFZTDI2LVhUcEFPT1gzaUgyUmhBbTFYcnJGUnNQdEd6RXVrX0pOb1NTdHF4bUFhaF9qSzFRaDlmTjhlLUUwTjVjd2ZIUExpcWR1M2JCU0xrbzBx?oc=5",
-      "summary": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit Yahoo",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Meta",
-      "title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcTZhZmh2V2ZjSmVHekF5elNubTMtT283MEhYRjZwaEE2R2FIUlRxazFBWE05aXNyTzJOeVRFQWdFelV1V242Zzl0M3NCaWlWc1YySDNiS3JrV05TbllEbkM3OW5oNGFLazVVUw?oc=5",
-      "summary": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit Fortune",
-      "badge": "new",
-      "date": "2026-09-04"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI chief Alexandr Wang said that he is willing to wait to have kids till Elon Musk’s Neuralink ... - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZkxzOHIySVpMTjVkcDZaaUdhaTZRdmFtSzhJNXQ1SV9WVm9uZ1lTSkFHclZyeFJoWHRjMldMaUp0OU5xcUQ0RzU2WGhRVnRiX3ZlWVRrWjdvd21DcDI2eWFTdVpnR1pOY3ZndUo5Z0JkV0pscElySEpWbUwxeThfcHJOcXBwTGktVUpDWm5HNjUtUVkwOWhzWkNCVl9kU2Q3cEhfajdZQlplSG1BVGV1MmRqTDg1NDhXU3M4S0V3UWFfd3V3Zm5uWlFXSWNHM01Fa05BQ3JINTRtRVF6UUFDYm10TXVTUFphN0VVZ2J3ODZaWkZDc2xsLUN1bVgyclJOYVRrWmtONjZrdG0zOEZn0gGUAkFVX3lxTE9Bc3M1b2hSWUEyb3Z0dU5nd210RTdxTGY3T1YwMC1UMzFQb0NDVHRjYUg2anZnTUlOT2VsNWVTTGNhZEhEdnczb1pDY2IzRHhRbnZucHp2Z2pSOWRES3c3MVlfa0JKNGYxZ1N5NWg4Mi1WR3FmOVhRR20yMnpINnlHd2xfdWJvUU8yLWItcnVnSlFhRUxna3FMaFE1WF96aXRIdGhhT0hUN1QyV1EtYlFVcGZPWUlVTVY0b1owTDNPWUNSckVlbzJPQ1RYM1Eta2o2YnppazFEbGMwMUdPeEFld3RWN21Nazc1eDhMekhTNmVMNHZUcHVNdEs0MDFZQURaMERFQWJxU2dmME12eHdtZEZKSA?oc=5",
-      "summary": "Meta AI chief Alexandr Wang said that he is willing to wait to have kids till Elon Musk’s Neuralink ... The Times of India",
-      "badge": "new",
-      "date": "2026-09-04"
     },
     {
       "company": "OpenAI",
@@ -422,22 +446,6 @@
       "title": "ChatGPT Atlas Dies Aug 9: Comet Free vs Gemini $250 [2026] - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1MyVU00Z0tqUHF4VUdRRjdYYnJVRXRQbjV6d1Z5SE1CNXhZanhJbzJmUkc1QVZkb0EyN3FZT2d0UGlUdlBCcmJhd3pVbnBvY1pjM0psVDNQODY5V083c281YlBYXzB1V21MRnA5Z2hYc1JVMndQTHhaYmhSZVYwVUlRaWRJbkVhUnZIbw?oc=5",
       "summary": "ChatGPT Atlas Dies Aug 9: Comet Free vs Gemini $250 [2026] tech-insider.org",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is paying to peek at how you use their latest AI model - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlJMnF6UGtkMVBOUjAwcURLbUtJMU12eXdubUgteUhsVHloLWdaNzhKWnA1WlhRQ1F4dlE2RkZpZ1h5OGpqQmR0dDVyVi1nWExRM2Z5WVhTM1llV2U2U2d5OTdpSFhiZzNheWlWX2w0aGJtdmJuejhkUk9pRUhNbnhPLW85MExPQktHSFVqRmJrdjY3M3doZVVR?oc=5",
-      "summary": "Meta is paying to peek at how you use their latest AI model TechCrunch",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta sued for recording people who never bought its smart glasses - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUhVQlZRaWhGOWJzQmk2WmVua1dQdUt5ZVF2akpFWWt2NnAybF9IdlM1R29LWEZVem1Yb3B1cGpEb19abDZuMDBlcGlBNzkwTXd4UmJEQWpnT2ZxOHBHRHAtcmFSTTBMWnZGS3NSai1PVGtNRjNXcTlzY19rQnBuMUwyQmRsMmFyTFA0UFcyNA?oc=5",
-      "summary": "Meta sued for recording people who never bought its smart glasses Yahoo",
       "badge": "new",
       "date": "2026-09-03"
     },
@@ -632,14 +640,6 @@
       "summary": "Lawsuits Target AI Facial Recognition in Doorbell Cams The Legal Examiner",
       "badge": "new",
       "date": "2026-07-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Residents express alarm over Amazon Ring feature - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEdZNnVUVmtVcWVMTGY0cUJxQlQ1NmYyU1EzbXpnY3Z6aUR4c0R6RnJySVdzNkhyVDlYcHJ2NmptMmlHQjh0MWJ4ZXdpS1lBUzVJQW9WWkxMOTRQSzM0U0NuNW9ZdllrbVhWN1hVSXlxVGt3RlhGcmxIelFCeThGSDVUdUtDb3l0eUtZejFqM2JDWHJO?oc=5",
-      "summary": "Residents express alarm over Amazon Ring feature Let's Data Science",
-      "badge": "new",
-      "date": "2026-06-27"
     }
   ]
 }
