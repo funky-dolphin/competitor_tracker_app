@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-10T15:41:42Z",
+  "updated": "2026-09-10T20:20:07Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
     {
       "company": "OpenAI",
       "title": "Now everyone can put data to work",
@@ -11,9 +19,49 @@
     },
     {
       "company": "OpenAI",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "OpenAI",
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "summary": "Detecting and countering misuse of AI: September 2026 Anthropic Anthropic Says It Blocked Possible Efforts to Build Biological Weapons The New York Times Anthropic says it disrupted scientists using C",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Former Anthropic researcher warns AI could ‘kill us all’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnF4R0NXdkRxQXIyVVVnQlNVVmg5OElaV1Mzd1ZkV25UaGxibWNNUGhfdm1keUlCVEVyMW9YMGNvOUZGbF9OaWxIY2xVMjhpSWlISVpjdWZzeUdMVFBJX05BdzlJTFFCU1B3YjZYaXM0S2lIaW1xcExwXzY0UnRwU3dYOGtNQi11aUoyb3JaV3FOZ3RTTDVJZnFQTndQZ0lWQUdKMDBQeU5QYUtFMDF5aEdhVS0wMHMzUmRldUJXRWFEWFpDLURaTzU0RHhUYnNGbDV0Q0taNFEzR2hNMHY5bDliajlzNTlPYVBpdk1jQTQ?oc=5",
+      "summary": "Former Anthropic researcher warns AI could ‘kill us all’ CNN",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Moonshot Secretly Routed User Requests Through Claude, Anthropic Says - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlpuU0pEUG8wVUlSRVY5RnJ0enh1eFVGbnNGVlNfX2hJX1RNZ1l2eFMwOU8zWnI1TXVadjNmdUxkYm5PamtQczRYaUJxRTlqSXk4V24yTHJQS0hWLUxQXzVXcDI5RVo3ejB5Q05GNDU5VmoteG1FN1lOSHk3Q0dOd2dOUTRKTUZIa1MwUlpPNm10RVdnanhoU1B1M3pFaTNObmJnMjlGSlNsbUFwREdBVWRzX3hKS25mdjl3?oc=5",
+      "summary": "Moonshot Secretly Routed User Requests Through Claude, Anthropic Says Bloomberg.com",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -43,14 +91,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Former Anthropic researcher warns AI could ‘kill us all’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnF4R0NXdkRxQXIyVVVnQlNVVmg5OElaV1Mzd1ZkV25UaGxibWNNUGhfdm1keUlCVEVyMW9YMGNvOUZGbF9OaWxIY2xVMjhpSWlISVpjdWZzeUdMVFBJX05BdzlJTFFCU1B3YjZYaXM0S2lIaW1xcExwXzY0UnRwU3dYOGtNQi11aUoyb3JaV3FOZ3RTTDVJZnFQTndQZ0lWQUdKMDBQeU5QYUtFMDF5aEdhVS0wMHMzUmRldUJXRWFEWFpDLURaTzU0RHhUYnNGbDV0Q0taNFEzR2hNMHY5bDliajlzNTlPYVBpdk1jQTQ?oc=5",
-      "summary": "Former Anthropic researcher warns AI could ‘kill us all’ CNN",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5",
       "summary": "Anthropic discloses 4th AI hacking incident as researcher quits over safety Al Jazeera",
@@ -74,6 +114,14 @@
       "date": "2026-09-10"
     },
     {
+      "company": "Google",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
       "company": "Microsoft",
       "title": "Build apps in Copilot Cowork and Copilot Studio - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
@@ -91,17 +139,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Copilot is moving directly into Outlook's email composer - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFkzU1ZyY1Z0YXdkU2FfVVAwVlV2LWFhQ05KX1ZFYzlMdWF5ejl2VGgyWlpaOXhGV2JhQkpWZkRyUHN1bmpPQXYzakxLOVY5Yjd4eW9vaHVCLUZKX2lRNFByclBHbVdLYVBIaHM5VFNMc0JheHZZSUhjMzNSM2ptbTVlNlFtM0VWWVhadA?oc=5",
-      "summary": "Copilot is moving directly into Outlook's email composer Neowin",
+      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
+      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
       "badge": "new",
       "date": "2026-09-10"
     },
     {
       "company": "Microsoft",
-      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
-      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
+      "title": "Copilot is moving directly into Outlook's email composer - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFkzU1ZyY1Z0YXdkU2FfVVAwVlV2LWFhQ05KX1ZFYzlMdWF5ejl2VGgyWlpaOXhGV2JhQkpWZkRyUHN1bmpPQXYzakxLOVY5Yjd4eW9vaHVCLUZKX2lRNFByclBHbVdLYVBIaHM5VFNMc0JheHZZSUhjMzNSM2ptbTVlNlFtM0VWWVhadA?oc=5",
+      "summary": "Copilot is moving directly into Outlook's email composer Neowin",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -163,9 +211,17 @@
     },
     {
       "company": "Meta",
-      "title": "Sure, Meta’s AI Muse works, but it sure creeps me out - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
-      "summary": "Sure, Meta’s AI Muse works, but it sure creeps me out The Verge Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyon",
+      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
+      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters Futurism",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
+      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US TechCrunch Meta bets on AI agent Muse to catch up in AI race The Verge Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta",
       "badge": "hot",
       "date": "2026-09-10"
     },
@@ -175,6 +231,22 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VNkUwb3dOdTFDenhXbHNLYW5NZF8ybTlCZUhLMU9jRjR2MlZfWEc1dm5ZY1IxTzhWOXBibVV5bEhLakpsWVYyN2NGaVdJYWRmMXdpdUN1SnMwYW5VaTdUa20yY1FielE?oc=5",
       "summary": "Meta loses its $1.5 billion AI recruit less than a year after hiring him calcalistech.com",
       "badge": "watch",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhlTEo3OEVNYXY4WURMVVBqS2p5N05IbXpWZXhfMTF6amloZDE4UXFHLTFxRjlnVTMzakZaNkZfZUlfU2p3WE41NXdtbVV6dEc2TzBMNmVDSkFwSWlOV2NfYW5tNk81VG9JYXVsZzFMVWx3dk94dkR2enZPWU5pRkZabzVQbjVK?oc=5",
+      "summary": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated Yahoo",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Sure, Meta’s AI Muse works, but it sure creeps me out - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
+      "summary": "Sure, Meta’s AI Muse works, but it sure creeps me out The Verge Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyon",
+      "badge": "hot",
       "date": "2026-09-10"
     },
     {
@@ -221,23 +293,7 @@
       "company": "Anthropic",
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - WIRED",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWFmeTFDc1VyVkdBM00tWkYwRGJiaDlTWU5nbjVwalFFb1I3MDRIbFZ6LTVYTkwxZTZXSDZVWU96dWhJMndWSV9oNjE0ZHFSUnh3dzdBRHhIMUNfdWFPb2dSYktCU09qQVdpY0JlZHdGMnlxczlyeXh0TXc5alIyWktKN0wtNW5uT0pzRDJn?oc=5",
-      "summary": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic researcher says AI has over 10% chance to 'kill all humans' within next decade Fox Business Former Anthro",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "An alignment assessment of recent cybersecurity incidents - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
-      "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "'Gambling with our lives': AI researcher quits Anthropic - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
-      "summary": "'Gambling with our lives': AI researcher quits Anthropic Yahoo The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic developer quits, cites AI's existential th",
+      "summary": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic researcher resigns with warning about the dangers of AI development AP News Will AI kill all humans? Anth",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -362,22 +418,6 @@
       "date": "2026-09-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2% - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSV9VZ0sxb2IzTktBTVpja0Zpd01uLU1EZG5lNXJYMEUxVUtOU0pSTXBjWFQ0UTF4eUs5SS1KSjdLVG5FbVZ6ZUxOSUpYZVk5RkQ0d2o5djFzMmpkNWdBeFFBbDlBbW9jOU5QTmd4ZEk1V0pkbWFnUGlYMHFqZ0NiZ3lVRVpvcXN5UzBsa1h3?oc=5",
-      "summary": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2% Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Agent for Consumers Has Arrived. Alphabet and Amazon Should Watch Out. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2lvVDlCSXpnSEZua1owUlV0NGpiMXd5Umh6OURGUnJlMnc1N2ExWGhBd282dWZHbVh3QkcxQ2w5QnBLeVl3YWxmc2V2VFlxYjd4QWtoZS11ZlUyaGNDUzRLMzhveC11UjFJbktBUS1KdjByN2pocWp5YnBjNHRta2phUW4?oc=5",
-      "summary": "Meta’s AI Agent for Consumers Has Arrived. Alphabet and Amazon Should Watch Out. Barron's",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
       "company": "Amazon",
       "title": "High-flying Kiwi in New York raises $54m for his AI start-up - NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdTQ3cXJVT3EtN29CMWlubjhKaFdzTHdfVzBmREgwamZub0ltOWVCVXd0Ykc2MWIyajYxcVdoNS1hWjJmbV9HTEJGWHhzSTU3TldTclpWME1vQktBMXZ4ZHVpR0NJU21wRTQwWkc2WTh6TGFFSkhWU1UwNVcteV92QmFwWjA3QV8xMnd6NWlaaDVyb3ZieEwxTjhtYURTcTRBRFpYYjJsU183SE4zSzJCR3U4WjVVOHE1ZXVkc1lvbjB0T3dWeWxaaGxPMVBiT1c5OUxCS3pxYVJqdVE5aGhKdTEya1FoWEVIZzF5RXFobGtiSkdTYVZYX3p4akdPQTQ1dkJ1WWYteFA0NldjWnRUaGRYMDZWUQ?oc=5",
@@ -402,43 +442,11 @@
       "date": "2026-09-08"
     },
     {
-      "company": "OpenAI",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "badge": "watch",
-      "date": "2026-09-08"
-    },
-    {
       "company": "Perplexity",
       "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlUS2Z5X0l6RHJqak9reGMtdFNpMHFJQUhucFBSLWZleHZpTXdRYUZtUmVBNllMY0l6WE93bTRDaE4yeDBrdGxxWnIxTTlEd2NCWE54WFl3TGQ5WnQ3U2JqTGxPQmUzdGl3dTlkdUE4d2VEY2tENC1WWDhnU2VXRFpQLWhiWk15S0VGbHVYcTJUZlNqbUIzSjJ4dHh2cnlfNzl5cVA1ZGY5S01BVlkzbGVQOEVuRnlVT3JXTTJqakFxLVA5TmZKQms5RWdqQlBFTkZScWt0VnVjSVpIbkIxV3pMX01XNHA3?oc=5",
       "summary": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers FinancialContent",
       "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
-      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta.com British rock band loses its longtime social media han",
-      "badge": "hot",
       "date": "2026-09-08"
     },
     {
@@ -600,14 +608,6 @@
       "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
       "badge": "new",
       "date": "2026-08-17"
-    },
-    {
-      "company": "Google",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "summary": "The video shows Sheets canvas in action.",
-      "badge": "new",
-      "date": "2026-08-13"
     },
     {
       "company": "Amazon",
