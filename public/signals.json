@@ -1,11 +1,107 @@
 {
-  "updated": "2026-09-09T20:17:52Z",
+  "updated": "2026-09-10T02:42:29Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple unveils iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+      "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils Apple Watch Ultra 4",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "OpenAI",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
     {
       "company": "OpenAI",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "'Gambling with our lives': AI researcher quits Anthropic - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
+      "summary": "'Gambling with our lives': AI researcher quits Anthropic Yahoo The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic developer quits, cites AI's existential th",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzJ1bl9iZHMzZkNnQ3ZRRGZ5My1UXzd5ZkRfWEFncnBLZ3I3YnA5VUNHUzFfNnowbkVLR2hRM0NyeFc2dVdkUGl1OTBaUDhUQ1F1QTVZaTQ0SUYyd1JwVTJybDdRNndWdmFfckJKY2YzT0NZakR0T2hYN2VZWk1TQjN0UFZHSVVqQ0ZMWGJKTG5PSWplVkg4UHJpUDZUVVdnbDNBVVdQNA?oc=5",
+      "summary": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists The American Prospect",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic researcher quits, calls AI an existential threat to humanity - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
+      "summary": "Anthropic researcher quits, calls AI an existential threat to humanity Mashable",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us - time.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0temJ5Q1lqZzdnLXdGOU9GcjdyTWdxcEtUM0QtNTcwQjR6aXBvRzVyTVRobkdGZmhXWDNQMXlabGVxbktEa0lyUm9CaVEwTXU2eVphbkRuUG1CWFl2VEFSaGdQck1EVDFSaHJrN0FOZ2pnc1AwNmpB?oc=5",
+      "summary": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us time.com",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -27,41 +123,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
-      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
       "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5",
       "summary": "A new Anthropic model seeks to test how AI could impact the U.S. economy NPR",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic researcher quits, calls AI an existential threat to humanity - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
-      "summary": "Anthropic researcher quits, calls AI an existential threat to humanity Mashable",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "'They're playing with our lives': AI researcher quits Anthropic - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
-      "summary": "'They're playing with our lives': AI researcher quits Anthropic Yahoo Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI WSJ Anthropic Researcher Jacob Coxon Resigns, Warns A.I",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzJ1bl9iZHMzZkNnQ3ZRRGZ5My1UXzd5ZkRfWEFncnBLZ3I3YnA5VUNHUzFfNnowbkVLR2hRM0NyeFc2dVdkUGl1OTBaUDhUQ1F1QTVZaTQ0SUYyd1JwVTJybDdRNndWdmFfckJKY2YzT0NZakR0T2hYN2VZWk1TQjN0UFZHSVVqQ0ZMWGJKTG5PSWplVkg4UHJpUDZUVVdnbDNBVVdQNA?oc=5",
-      "summary": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists The American Prospect",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -115,17 +179,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft really wants organizations to build and publish apps using Copilot - neowin.net",
+      "title": "Microsoft really wants organizations to build and publish apps using Copilot - Neowin",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUFBbWhGOHFTRkVEVzh1OURTb1lEaVdNcTdOWXotUGZsS25qTFZaU2NtbUgxUFBxOWpXWVJoSmVGbVVhaWhHN0FSeTVLbjVnWkZBTnRKbWswRkR5MWEwNFNneUdhZUtDdGhwamZLZVZzMDkxcHpWLU00VkNWS3dYNjJEZGVyVUxxd1hUZUxZN19lbFVuNmJLek9pRUg1Mm5TdGhkdXdqSXM?oc=5",
-      "summary": "Microsoft really wants organizations to build and publish apps using Copilot neowin.net",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTd2Uk1QeDMzVm02OEtuYzU0VGl0S1NJajhURmtBV0FsanplbWE3Vk91NTJsa2t4dmw3cGxZWEdPRG1sek5GYUJHYzFIdDF2UFVQb2FPZTl3MHZYRXVXZ0VCZmZ3OUFSSzlMRTN5NmlUUldhRHBGVnJib1Q1V3V0Uk9LWQ?oc=5",
-      "summary": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 TechRepublic",
+      "summary": "Microsoft really wants organizations to build and publish apps using Copilot Neowin",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -139,49 +195,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjJsLXQ5UlBrS2Z5R1V3ZU1KVk00NTRHVTdrS1RsUWcwX2NlZzhUbFh4RFU3dTE2eXRwTnhjV1gzSEp0d3U3WWF4WjNweVR1RWVqSV8zNzV0M29YbFZHSWc5V2Y1Um1PMEpXNGJxdXNpVlpKcVVkNUZyanVLSzROUEwxQmRJQnNOSHNZbWlJVkNFVjlDTkhtaXFoOHJsVUd3OXVSd0xRMkp4SmptQXN1R2daRTFKRkpwVHlSeEhXc3hCTjg?oc=5",
+      "summary": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It PCMag UK",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTd2Uk1QeDMzVm02OEtuYzU0VGl0S1NJajhURmtBV0FsanplbWE3Vk91NTJsa2t4dmw3cGxZWEdPRG1sek5GYUJHYzFIdDF2UFVQb2FPZTl3MHZYRXVXZ0VCZmZ3OUFSSzlMRTN5NmlUUldhRHBGVnJib1Q1V3V0Uk9LWQ?oc=5",
+      "summary": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 TechRepublic",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRWdjE2RXpjeXNGY0xueEdzWXR2dUE5eWRoRXB2MEJLc3Nnak5FdGVXenJjQUlhWnlSSnd6RUdWM0RDZ2dyMlR3cXBLdTV1S1FfTkZXazlibFZpeWRyRzdWeURjMk95SWUtVk0xSEZqS2RNcXNELVA3cGtRN2VtT3EtOTktd0g3bkU2R2VOaHpnZGRIcXpFMDRvX1Z1S3VjQlhZUDlR?oc=5",
       "summary": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It PCMag",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "badge": "hot",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-      "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils Apple Watch Ultra 4",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.",
-      "badge": "hot",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
-      "badge": "hot",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -235,9 +267,25 @@
     },
     {
       "company": "Meta",
+      "title": "Exclusive / AI researcher Andrew Tulloch is leaving Meta - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3VqOTQwQ2s2V1NlOW05dldHRVdaMDFjMi14QlJmbHZjTXpZU045cG8yNGQwSTlqUXdKT0VrR2xGWGk3V0dYSTFNTlUzT05ieUNwbFY3Yms2YjZHVTlUZ2p6OW9WYzNzakFzTDBsdWtkWEluRnpxV1kzM2lXMHhxS2dfLXhteVNyMFljS20wWXk?oc=5",
+      "summary": "Exclusive / AI researcher Andrew Tulloch is leaving Meta Semafor",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Meta",
       "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSHlDdnlOV2ktdHo0eGRNRFFJaXlRNWx0QmtRSmh4c2VhcUV3RndIaDVVa2ZVeklyZjhoZzA1cG9rc2xfb2Y2ZGVnal9xbTU5N2xGTl9HVnM0UHh6aGFLYXZyRU81cFBJd1dHbWlwOEpSSXRpcXZlLWhuZDZLWDlnM0FicHEzVUxpd2NLSDE3NnFoNWxkRXdEeExSbGFtRVNhNjBRcUd2UTk0ZUx3WTRYcU9yZVc2enhsMzZNYjN4b2JNWUJNcjhOMUlaRDN4TFRTdC0yQkk1c05OMGdFZUdEVjZjb0hVdFhMZlE?oc=5",
       "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Meta",
+      "title": "Star AI Researcher Is Leaving Meta - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
+      "summary": "Star AI Researcher Is Leaving Meta WSJ",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -322,14 +370,6 @@
       "date": "2026-09-08"
     },
     {
-      "company": "Anthropic",
-      "title": "Destroying Books to Build a Mind - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0t4eERQSkhXaU9xdWMwcHVydF94TFdfc0hfb2ZwdlZRUkhOSVdWbGFKcHp4NldKTEJfMzVEeHhXU001WTZJZDJBTkwxVEgwVVJ3T0tXTnRUMzk0UDE1YVk0QWxKOTJ2T2w1dTJjNGFWS3I3TTcwOFc5dHNwOU4xcg?oc=5",
-      "summary": "Destroying Books to Build a Mind The New Yorker",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft adds native app building to Copilot Studio - Constellation Research",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEVPYUFuZ1VRR0NidkhPQkVxOHQzN2hWR1RhQ0liUjVoZkZLYlhQaDNIQURvUFBvNHVjTHljbjZ6QV9nQk1mcE1sZVZNYTkzc2V2S0FERjVILUYwZlU4SUhOM0hqcGZJNTFnQjFxWXZKSFJsVG03MHJlVGZSN1k5eTFKN19LbEFyWmFuTzBMSGpIa0wzSlZabnVB?oc=5",
@@ -350,14 +390,6 @@
       "title": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes - Technology Record",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2hVVVZwS1l6RUVSckprVGF6eDR0TGJOTkZzeS11a2hrdXY4V1oyelpiVjItOFN2c2YyZUdUREhLQ0w3ejkxX0VFX1dZQzM3WWdRMU4waGFmU3YxLW1OWVUxbXlCel9LWWpqUjFFdjRSbFZ6Ulh2bE1iZHVYYTVuTWVzNGlWc3BlczBUMk5zdFpmOEFJbFZlNERfMHFjNjlnLTRyUmtueVAtOUM3T0ZGVUt2ZHpRQlFZd1NLXw?oc=5",
       "summary": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes Technology Record",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDluU2RFbUZjUllFR3Fwd1VkcGxEUmdXMTQ2SUdQWHpEZllNRkRvak5vVzhLLVM3T2dyVDB3bDdJTFpJR1JRclhweVNtdTNXR0ZnUUhyZUg0MFllN3NmSmJWRXlBX1Z0aDJnOVpqaDZqV3NTRWVtNEE2dFpqdGh1cDV1ZXg1VHEyRy1aZThELWZmYjVDRmR1RUR5QWhTS2JmNVBHQ3BEVDV5eThLcnp5d2k3Qm5oY09XWFowZVp2NnZpOVgwVmhHUUl2MTVfMnYwV0tQcGRHbkpDYjFwUzJqZXJwWjgtdw?oc=5",
-      "summary": "Microsoft engineer claims 'typing code is absolutely over', with AI and GitHub Copilot set to transform coding as we know it TechRadar",
       "badge": "new",
       "date": "2026-09-08"
     },
@@ -402,22 +434,6 @@
       "date": "2026-09-08"
     },
     {
-      "company": "Meta",
-      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDRGUHFJQkZ2UC1NclJ0X3VxLURvNlJldG5YLWJsNEIwX1Zfd3Ytb2d2QlJsakJNZXRDelRwaU9wMlZXVW0yUEpOUVMxa3NkcEh4ZnNwYzgxdnRNUEdEZzRrX1VyM0pvRWRta19nbVZobjY4R2FLNTNmVWQ5RlVMd0hMaFo4TmhKNVFVYXV3aFk2WUgwQVhLMTB0SFBiWXJTRmQtSEhUNi04cEh0MTF3NHdVcmc?oc=5",
-      "summary": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids WIRED",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it? - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2RNUUJzRXdDUURWemZraEM0ancyaUMtZmVfTHZ5NnV5WHEwYXd6bkpCNWJUVVBidmI4OGZiaEkwWUhYZkxicmkwbXI0NFNocWpwU3VMWURpTkk5dDlJU3JNdGpvaWFKb0t4bm82a25lWDIwMTd4eWQzTkRIcV9VdFJ0YjVfT0lTVTVsWUZsMldSZw?oc=5",
-      "summary": "Meta debuts its Muse AI agent. Will consumers trust it? TechCrunch",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
       "company": "OpenAI",
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -432,22 +448,6 @@
       "summary": "Meet Numbat: Perplexity’s open-source tool to track rogue AI agents YourStory.com",
       "badge": "new",
       "date": "2026-09-07"
-    },
-    {
-      "company": "OpenAI",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "badge": "new",
-      "date": "2026-09-06"
     },
     {
       "company": "Perplexity",
