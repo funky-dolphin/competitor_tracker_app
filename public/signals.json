@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-10T10:25:22Z",
+  "updated": "2026-09-10T15:41:42Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5",
+      "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem The New York Times",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic AI model warns of 12% unemployment rate despite massive GDP boost - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbG9qc09jeFMwYlFXZHMtbHpSeHlXRy02bmh1elZNQmxoX3lUa09qVXE4MGlfNHhIaENFdV9jdHAtbHAtOXU4UUxkTTkxRjVyMUVLeDJOVWFXcnc?oc=5",
+      "summary": "Anthropic AI model warns of 12% unemployment rate despite massive GDP boost Fox Business",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Andrew Tulloch leaving Meta for Anthropic after less than a year - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ObkhjWjAwbWFMV0xqWjhDNWlCaDlHREwxYnoyLVN3cGpRQi1tSG8zdHNhUHpUd2xCRE5uSDctTThhdGZjVXhnSFB3TFJOU3JkYWJmSFhZQkZQTU82WmdnLXR6Qk9jNGpKLVhtYzdQQ2JZRzQ?oc=5",
+      "summary": "Andrew Tulloch leaving Meta for Anthropic after less than a year qz.com",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Former Anthropic researcher warns AI could ‘kill us all’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnF4R0NXdkRxQXIyVVVnQlNVVmg5OElaV1Mzd1ZkV25UaGxibWNNUGhfdm1keUlCVEVyMW9YMGNvOUZGbF9OaWxIY2xVMjhpSWlISVpjdWZzeUdMVFBJX05BdzlJTFFCU1B3YjZYaXM0S2lIaW1xcExwXzY0UnRwU3dYOGtNQi11aUoyb3JaV3FOZ3RTTDVJZnFQTndQZ0lWQUdKMDBQeU5QYUtFMDF5aEdhVS0wMHMzUmRldUJXRWFEWFpDLURaTzU0RHhUYnNGbDV0Q0taNFEzR2hNMHY5bDliajlzNTlPYVBpdk1jQTQ?oc=5",
+      "summary": "Former Anthropic researcher warns AI could ‘kill us all’ CNN",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety - Al Jazeera",
@@ -22,6 +70,30 @@
       "title": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
       "summary": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify CNBC",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Build apps in Copilot Cowork and Copilot Studio - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
+      "summary": "Build apps in Copilot Cowork and Copilot Studio Microsoft",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "AI uprising postponed after Copilot falls off the web - The Register",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG9BXzVLTVY4OWZZNmpEMF9BbUNiZ1NmbDRCenhQUTdSSFFTc1V3R3RYS01fZmtoMGRfRUpzNmdyLXUwRlZqTC01WngtRFRqWVRmel8xa0FJbWxIUmE3YVppeFo2QW14MHVZakVNTm9NaUxjeF91VGVXU0s1ZFpEd0JWVXZtVW9oVkU5Z3JBYkh5a1pjc2c2dmNrZnlLejgtRERqbkxxYjhteU05SWZB?oc=5",
+      "summary": "AI uprising postponed after Copilot falls off the web The Register",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot is moving directly into Outlook's email composer - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFkzU1ZyY1Z0YXdkU2FfVVAwVlV2LWFhQ05KX1ZFYzlMdWF5ejl2VGgyWlpaOXhGV2JhQkpWZkRyUHN1bmpPQXYzakxLOVY5Yjd4eW9vaHVCLUZKX2lRNFByclBHbVdLYVBIaHM5VFNMc0JheHZZSUhjMzNSM2ptbTVlNlFtM0VWWVhadA?oc=5",
+      "summary": "Copilot is moving directly into Outlook's email composer Neowin",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -91,6 +163,30 @@
     },
     {
       "company": "Meta",
+      "title": "Sure, Meta’s AI Muse works, but it sure creeps me out - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
+      "summary": "Sure, Meta’s AI Muse works, but it sure creeps me out The Verge Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyon",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta loses its $1.5 billion AI recruit less than a year after hiring him - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VNkUwb3dOdTFDenhXbHNLYW5NZF8ybTlCZUhLMU9jRjR2MlZfWEc1dm5ZY1IxTzhWOXBibVV5bEhLakpsWVYyN2NGaVdJYWRmMXdpdUN1SnMwYW5VaTdUa20yY1FielE?oc=5",
+      "summary": "Meta loses its $1.5 billion AI recruit less than a year after hiring him calcalistech.com",
+      "badge": "watch",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Star AI Researcher Is Leaving Meta for Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
+      "summary": "Star AI Researcher Is Leaving Meta for Anthropic WSJ",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
       "title": "This developer created an app to detect nearby Meta glasses. It already has thousands of users. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2czR0s0OFhOSDBrSkR3RlZIVlZSWG9iemRYcmY3aC05bm1wWU9VRFBteTZ6Y2U2d0EyQ1VXR1Y0N0c5SG5SejVGLVFxTFVPc2FRRV9mQkVNMDVqYXNHOTMyQzFicHdNWkR3RDlXclRsc0lmbTBYZDRkVnp5THBSNTV5TGlHc0pDR0J1cG0wblpxSXMyMW5Banc3T1VzSk0?oc=5",
       "summary": "This developer created an app to detect nearby Meta glasses. It already has thousands of users. Business Insider",
@@ -123,6 +219,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWFmeTFDc1VyVkdBM00tWkYwRGJiaDlTWU5nbjVwalFFb1I3MDRIbFZ6LTVYTkwxZTZXSDZVWU96dWhJMndWSV9oNjE0ZHFSUnh3dzdBRHhIMUNfdWFPb2dSYktCU09qQVdpY0JlZHdGMnlxczlyeXh0TXc5alIyWktKN0wtNW5uT0pzRDJn?oc=5",
+      "summary": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic researcher says AI has over 10% chance to 'kill all humans' within next decade Fox Business Former Anthro",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
       "title": "An alignment assessment of recent cybersecurity incidents - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
       "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
@@ -131,49 +235,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - wired.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWFmeTFDc1VyVkdBM00tWkYwRGJiaDlTWU5nbjVwalFFb1I3MDRIbFZ6LTVYTkwxZTZXSDZVWU96dWhJMndWSV9oNjE0ZHFSUnh3dzdBRHhIMUNfdWFPb2dSYktCU09qQVdpY0JlZHdGMnlxczlyeXh0TXc5alIyWktKN0wtNW5uT0pzRDJn?oc=5",
-      "summary": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ wired.com Anthropic researcher says AI has over 10% chance to 'kill all humans' within next decade Fox Business 'Seems Li",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
       "title": "'Gambling with our lives': AI researcher quits Anthropic - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
       "summary": "'Gambling with our lives': AI researcher quits Anthropic Yahoo The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic developer quits, cites AI's existential th",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzJ1bl9iZHMzZkNnQ3ZRRGZ5My1UXzd5ZkRfWEFncnBLZ3I3YnA5VUNHUzFfNnowbkVLR2hRM0NyeFc2dVdkUGl1OTBaUDhUQ1F1QTVZaTQ0SUYyd1JwVTJybDdRNndWdmFfckJKY2YzT0NZakR0T2hYN2VZWk1TQjN0UFZHSVVqQ0ZMWGJKTG5PSWplVkg4UHJpUDZUVVdnbDNBVVdQNA?oc=5",
-      "summary": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists The American Prospect",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
-      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic researcher quits, calls AI an existential threat to humanity - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
-      "summary": "Anthropic researcher quits, calls AI an existential threat to humanity Mashable",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us - time.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0temJ5Q1lqZzdnLXdGOU9GcjdyTWdxcEtUM0QtNTcwQjR6aXBvRzVyTVRobkdGZmhXWDNQMXlabGVxbktEa0lyUm9CaVEwTXU2eVphbkRuUG1CWFl2VEFSaGdQck1EVDFSaHJrN0FOZ2pnc1AwNmpB?oc=5",
-      "summary": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us time.com",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -190,6 +254,14 @@
       "title": "Recreating a 70-year love story frame by frame",
       "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTd2Uk1QeDMzVm02OEtuYzU0VGl0S1NJajhURmtBV0FsanplbWE3Vk91NTJsa2t4dmw3cGxZWEdPRG1sek5GYUJHYzFIdDF2UFVQb2FPZTl3MHZYRXVXZ0VCZmZ3OUFSSzlMRTN5NmlUUldhRHBGVnJib1Q1V3V0Uk9LWQ?oc=5",
+      "summary": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 TechRepublic",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -214,38 +286,6 @@
       "title": "Microsoft really wants organizations to build and publish apps using Copilot - Neowin",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUFBbWhGOHFTRkVEVzh1OURTb1lEaVdNcTdOWXotUGZsS25qTFZaU2NtbUgxUFBxOWpXWVJoSmVGbVVhaWhHN0FSeTVLbjVnWkZBTnRKbWswRkR5MWEwNFNneUdhZUtDdGhwamZLZVZzMDkxcHpWLU00VkNWS3dYNjJEZGVyVUxxd1hUZUxZN19lbFVuNmJLek9pRUg1Mm5TdGhkdXdqSXM?oc=5",
       "summary": "Microsoft really wants organizations to build and publish apps using Copilot Neowin",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents - diginomica",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2t1cElBaUFRanUwem52OXpmQXB4b2FlM3pXcGtYbHRiLXBlSkJrSG0yYjRMNDVXMWVTdFdlc3JsdUNmRDEyX0Q5dGIyMW1RZWVjM240V2w3TE5kSnFVUXM1WUV6cWRDVzNPcXlpZ3d3VktaZnphMlhmX1psR1p0VENGcWdnaHh2TTB6R3RnQkNuV09rTmc?oc=5",
-      "summary": "Uniper feeds Celonis context into Microsoft Copilot to energize HR AI agents diginomica",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjJsLXQ5UlBrS2Z5R1V3ZU1KVk00NTRHVTdrS1RsUWcwX2NlZzhUbFh4RFU3dTE2eXRwTnhjV1gzSEp0d3U3WWF4WjNweVR1RWVqSV8zNzV0M29YbFZHSWc5V2Y1Um1PMEpXNGJxdXNpVlpKcVVkNUZyanVLSzROUEwxQmRJQnNOSHNZbWlJVkNFVjlDTkhtaXFoOHJsVUd3OXVSd0xRMkp4SmptQXN1R2daRTFKRkpwVHlSeEhXc3hCTjg?oc=5",
-      "summary": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It PCMag UK",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTd2Uk1QeDMzVm02OEtuYzU0VGl0S1NJajhURmtBV0FsanplbWE3Vk91NTJsa2t4dmw3cGxZWEdPRG1sek5GYUJHYzFIdDF2UFVQb2FPZTl3MHZYRXVXZ0VCZmZ3OUFSSzlMRTN5NmlUUldhRHBGVnJib1Q1V3V0Uk9LWQ?oc=5",
-      "summary": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026 TechRepublic",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRWdjE2RXpjeXNGY0xueEdzWXR2dUE5eWRoRXB2MEJLc3Nnak5FdGVXenJjQUlhWnlSSnd6RUdWM0RDZ2dyMlR3cXBLdTV1S1FfTkZXazlibFZpeWRyRzdWeURjMk95SWUtVk0xSEZqS2RNcXNELVA3cGtRN2VtT3EtOTktd0g3bkU2R2VOaHpnZGRIcXpFMDRvX1Z1S3VjQlhZUDlR?oc=5",
-      "summary": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It PCMag",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -310,14 +350,6 @@
       "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSHlDdnlOV2ktdHo0eGRNRFFJaXlRNWx0QmtRSmh4c2VhcUV3RndIaDVVa2ZVeklyZjhoZzA1cG9rc2xfb2Y2ZGVnal9xbTU5N2xGTl9HVnM0UHh6aGFLYXZyRU81cFBJd1dHbWlwOEpSSXRpcXZlLWhuZDZLWDlnM0FicHEzVUxpd2NLSDE3NnFoNWxkRXdEeExSbGFtRVNhNjBRcUd2UTk0ZUx3WTRYcU9yZVc2enhsMzZNYjN4b2JNWUJNcjhOMUlaRDN4TFRTdC0yQkk1c05OMGdFZUdEVjZjb0hVdFhMZlE?oc=5",
       "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Star AI Researcher Is Leaving Meta - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
-      "summary": "Star AI Researcher Is Leaving Meta WSJ",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -394,14 +426,6 @@
       "date": "2026-09-08"
     },
     {
-      "company": "OpenAI",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "badge": "watch",
-      "date": "2026-09-08"
-    },
-    {
       "company": "Perplexity",
       "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlUS2Z5X0l6RHJqak9reGMtdFNpMHFJQUhucFBSLWZleHZpTXdRYUZtUmVBNllMY0l6WE93bTRDaE4yeDBrdGxxWnIxTTlEd2NCWE54WFl3TGQ5WnQ3U2JqTGxPQmUzdGl3dTlkdUE4d2VEY2tENC1WWDhnU2VXRFpQLWhiWk15S0VGbHVYcTJUZlNqbUIzSjJ4dHh2cnlfNzl5cVA1ZGY5S01BVlkzbGVQOEVuRnlVT3JXTTJqakFxLVA5TmZKQms5RWdqQlBFTkZScWt0VnVjSVpIbkIxV3pMX01XNHA3?oc=5",
@@ -416,30 +440,6 @@
       "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta.com British rock band loses its longtime social media han",
       "badge": "hot",
       "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
-      "summary": "Meta launches AI agent that can access other apps to send emails, make payments Reuters Meta pushes into personal AI agents as company faces public reckoning over privacy and safety CNBC Introducing M",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWVXZWFybHRYNkhnMUxZRm9ESFd5djVtV1RfeHpFS0ppU3FVWmxUS2lyNkJiV0VMajJrTDZSRlpGcTdONkRqbU5lV0lpRnRrbEJmVk45WWtXQ0k1QjhuenlFbkwxM004SGxCb3ozcTB4bXQ2a0U0VGhBcXdMT1Z5UHMtQk1HeExhMWFYRF9fYXlDc0ptLUF1blZrbG9OOVBCYnB6MzY4NXpCUGVKVkNDdGNqUVkyNVF4dzlpb3FqZndOb0xGVDE5eWx1M05nZ05qdkcyU1o2YzhZVFdhNUJXQkxpTHRDTkhqVDhxbjRPLUNqNDVPUDFUeGRyTFM?oc=5",
-      "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "badge": "hot",
-      "date": "2026-09-07"
     },
     {
       "company": "Perplexity",
