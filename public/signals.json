@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-10T02:42:29Z",
+  "updated": "2026-09-10T10:25:22Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5",
+      "summary": "Anthropic discloses 4th AI hacking incident as researcher quits over safety Al Jazeera",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic has a cute graphic showing how its AI spread 'malicious' code - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTE4c2xpa1J5bFpVeXV1dUNhT0txZ0JVdG54VzZuOW95cGJFRi1VcU4tMHppekx3UnBwczdORl9EckVVeVItYzhqS25JUTdab2hYNTJhMWtMZXRPb0h2YTdERnVOSms1ZnNLdWxEN3NaWVpFWExicU9kendKR24xX25SX0JYM3JIdjkxSms1SUN3SVdkNkRKN2hnN0xzX0FDR2lHOWV3VFNjYW1jSE5jYlFiSHhINm54?oc=5",
+      "summary": "Anthropic has a cute graphic showing how its AI spread 'malicious' code Business Insider",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
+      "summary": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify CNBC",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
+      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Simform Completes Microsoft AI Cloud Coverage with AI Business Solutions Designation - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkMyTzVmZUlKRlBlSkFPQXJwNEFnU3lhZURBd0dEWXBWdEw4c3lzWDZqSWJRaGwzR2tSUF81OWFCd1pjQk5ib2gxT1FpNVVjdl8wOGxKeXg3MVdpSW11X3lqbEktSTEzREN1NXpGSG9rblpGbHI2RVV5bFE2THBrcDJFUC05M1M3WmJfNGt3?oc=5",
+      "summary": "Simform Completes Microsoft AI Cloud Coverage with AI Business Solutions Designation Yahoo Finance UK",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag Middle East",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY05HUDhXOENPOGpsSlJGNW10RXFkLVQydGRoLUlucjNCdWRCbi0wc2JUMFJ5R0UzSTZ2TU1qWGpMclBZYXFtZHlxbkk4bzc5NFdiWV9Mc2d2RU41bDRyYnczTzBPY3JiUnZkX293RWgzbjN5bXpiMVkwNm1rWWRnWkd4U2gwVnUxemVKR0hxUHZKel8tYlZjVnJ0WmwzT3FwSFNPQ2VKVVkxM2NHZkpCWA?oc=5",
+      "summary": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It PCMag Middle East",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
     {
       "company": "Apple",
       "title": "Apple unveils iPhone Duo",
@@ -42,6 +90,14 @@
       "date": "2026-09-10"
     },
     {
+      "company": "Meta",
+      "title": "This developer created an app to detect nearby Meta glasses. It already has thousands of users. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2czR0s0OFhOSDBrSkR3RlZIVlZSWG9iemRYcmY3aC05bm1wWU9VRFBteTZ6Y2U2d0EyQ1VXR1Y0N0c5SG5SejVGLVFxTFVPc2FRRV9mQkVNMDVqYXNHOTMyQzFicHdNWkR3RDlXclRsc0lmbTBYZDRkVnp5THBSNTV5TGlHc0pDR0J1cG0wblpxSXMyMW5Banc3T1VzSk0?oc=5",
+      "summary": "This developer created an app to detect nearby Meta glasses. It already has thousands of users. Business Insider",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
       "company": "OpenAI",
       "title": "The AI policy window is open. We need to act.",
       "url": "https://openai.com/index/ai-policy-window",
@@ -62,6 +118,22 @@
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An alignment assessment of recent cybersecurity incidents - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
+      "badge": "new",
+      "date": "2026-09-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWFmeTFDc1VyVkdBM00tWkYwRGJiaDlTWU5nbjVwalFFb1I3MDRIbFZ6LTVYTkwxZTZXSDZVWU96dWhJMndWSV9oNjE0ZHFSUnh3dzdBRHhIMUNfdWFPb2dSYktCU09qQVdpY0JlZHdGMnlxczlyeXh0TXc5alIyWktKN0wtNW5uT0pzRDJn?oc=5",
+      "summary": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ wired.com Anthropic researcher says AI has over 10% chance to 'kill all humans' within next decade Fox Business 'Seems Li",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -106,46 +178,6 @@
       "date": "2026-09-09"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5",
-      "summary": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" CBS News A researcher quit Anthropic. His warning is reigniting fears about the AI race. The Washington Post An Anthropic safe",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Wave of AI-Driven IPOs Expected to Accompany Anthropic’s Listing - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc29UbEJhZWNRQU54VDlKbE05X1BiT2lxcUM0aFowZ25tZE51SnpycF9GTGhkbHA4V251MHBJSXlVbnE0ckZRdWoyUUhXeWo4X3ItLWJLVTRHNDJnOGtITndqZmtSR194QkdzcWRXS1gwa2JaX2FDRE1NWlBWSGQ1RTNCOTZ0RlRONGRXcTIzcUVDem9OTnpqRXduZ2haOExuSGNpc1otSFpaWFVFbW83UDdiTFBrZw?oc=5",
-      "summary": "Wave of AI-Driven IPOs Expected to Accompany Anthropic’s Listing Bloomberg",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5",
-      "summary": "A new Anthropic model seeks to test how AI could impact the U.S. economy NPR",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic withheld latest AI model from UK testing agency - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJObGRoR1Q2enZFeHJ0dUx1YVhITDlOVnZpUm53ZjVrMDRrTmFxejdDbUx6dHk3UTlFUFlYS0J2QmExWXQ4aEtRS0tDdlFtRFNWcEdXT0tlemRMTUlGckJzWEtlTUVVVjJ3elI5NUdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5",
-      "summary": "Anthropic withheld latest AI model from UK testing agency Financial Times",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Two dire warnings, one from Terence Tao, the other from someone who just quit Anthropic - Marcus on AI",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wWEVIc0FwaVJaM1hLOFFiY1JNZVRWNXNIa1Z5OWJiZmk4dkNoS2twazlZNWNoSG5QQkVyYXFBTmVzbHVERXlzNU5pWEtXeW1hcVMtYVJURm56eDVyXzNaaGo2dGtxblhaN011WE82cldrOThmZHpv?oc=5",
-      "summary": "Two dire warnings, one from Terence Tao, the other from someone who just quit Anthropic Marcus on AI",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
       "company": "Google",
       "title": "Get ready for the game with new football features in Search",
       "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
@@ -163,17 +195,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "How Microsoft AI is helping Cognizant scale Delivery Excellence across 10,000 projects - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUUwS1QtbFNPUXJJWDdSVTU5c2pza3FVNFJwdUhva2FWdHVxWUNVQXlVUkxTSXlfcmtIcEdzUnR1a05jTDZ6TlRTanpsNHRFUFpkVVh5OVoyR2ZPczVZSnJ4STR0MnNEUTNOYTMtTnhSSUFpbWNYNHFyNHNQUTZsMVFNaTB5NmJQS1R4VUVtSTlBYVJiTExhWGNHZ2w1alVTb01fcEJJbVowV21KblFsWlctOHhqem1TVmxjalRCZzYtRXZacDBjWW1FV3d5VkE?oc=5",
-      "summary": "How Microsoft AI is helping Cognizant scale Delivery Excellence across 10,000 projects Microsoft Source",
+      "title": "EY Microsoft Copilot Deployment: The Path to AI Productivity - UC Today",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlTMUVnMnBFMjJMOUd4ak9wUlU2QkcwZUtFcWlGc1Z3cElFMWt5aXZZTWJNNGRqQ3BOSVhlM0F1enpjZ2V1d09VWDJwbUZEMF9FQl80dFB6dWxwOVFhOHZNemMyUGMwdzJKcko4YzVQTFBPdkFKSXNCcUpjdHRCTWdnODVaQQ?oc=5",
+      "summary": "EY Microsoft Copilot Deployment: The Path to AI Productivity UC Today",
       "badge": "new",
       "date": "2026-09-09"
     },
     {
       "company": "Microsoft",
-      "title": "EY Microsoft Copilot Deployment: The Path to AI Productivity - UC Today",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlTMUVnMnBFMjJMOUd4ak9wUlU2QkcwZUtFcWlGc1Z3cElFMWt5aXZZTWJNNGRqQ3BOSVhlM0F1enpjZ2V1d09VWDJwbUZEMF9FQl80dFB6dWxwOVFhOHZNemMyUGMwdzJKcko4YzVQTFBPdkFKSXNCcUpjdHRCTWdnODVaQQ?oc=5",
-      "summary": "EY Microsoft Copilot Deployment: The Path to AI Productivity UC Today",
+      "title": "How Microsoft AI is helping Cognizant scale Delivery Excellence across 10,000 projects - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUUwS1QtbFNPUXJJWDdSVTU5c2pza3FVNFJwdUhva2FWdHVxWUNVQXlVUkxTSXlfcmtIcEdzUnR1a05jTDZ6TlRTanpsNHRFUFpkVVh5OVoyR2ZPczVZSnJ4STR0MnNEUTNOYTMtTnhSSUFpbWNYNHFyNHNQUTZsMVFNaTB5NmJQS1R4VUVtSTlBYVJiTExhWGNHZ2w1alVTb01fcEJJbVowV21KblFsWlctOHhqem1TVmxjalRCZzYtRXZacDBjWW1FV3d5VkE?oc=5",
+      "summary": "How Microsoft AI is helping Cognizant scale Delivery Excellence across 10,000 projects Microsoft Source",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -370,35 +402,19 @@
       "date": "2026-09-08"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft adds native app building to Copilot Studio - Constellation Research",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEVPYUFuZ1VRR0NidkhPQkVxOHQzN2hWR1RhQ0liUjVoZkZLYlhQaDNIQURvUFBvNHVjTHljbjZ6QV9nQk1mcE1sZVZNYTkzc2V2S0FERjVILUYwZlU4SUhOM0hqcGZJNTFnQjFxWXZKSFJsVG03MHJlVGZSN1k5eTFKN19LbEFyWmFuTzBMSGpIa0wzSlZabnVB?oc=5",
-      "summary": "Microsoft adds native app building to Copilot Studio Constellation Research",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft (MSFT): Azure AI Growth Rate and Enterprise Copilot Monetization - AlphaStreet",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2NVNWJVQmdoQU9OTVd4S3FMcS1oM3RxcGtKLUtyNmxwa3NQc1FFM2lic21sTW0yQkFFU19DaFgtVWlCTTBFV0xOODFRZTl0eElKM19uN3BLSks5NnVmWU9RWGhfWnc0d0VzRVM3dTFnaXgzdHJjMF8wcEs3NV9QQlZWUUpFMm56V0ZBRzZlQWhRaGtyQlRweUR3VDdPSGVPZ2o00gGjAUFVX3lxTE5fY1U1YlVCZ2hBT05NV3hLcUxxLWgzdHFwa0otS3I2bHBrc1BzUUUzaWJzbWxNbTJCQUVTX0NoWC1VaUJNMEVXTE44MVFlOXR4SUozX243cEtKSzk2dWZZT1FYaF9adzR3RXNFUzd1MWdpeDN0cmMwXzBwSzc1X1BCVlZRSkUybnpXRkFHNmVBaFFoa3JCVHB5RHdUN09IZU9najQ?oc=5",
-      "summary": "Microsoft (MSFT): Azure AI Growth Rate and Enterprise Copilot Monetization AlphaStreet",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes - Technology Record",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2hVVVZwS1l6RUVSckprVGF6eDR0TGJOTkZzeS11a2hrdXY4V1oyelpiVjItOFN2c2YyZUdUREhLQ0w3ejkxX0VFX1dZQzM3WWdRMU4waGFmU3YxLW1OWVUxbXlCel9LWWpqUjFFdjRSbFZ6Ulh2bE1iZHVYYTVuTWVzNGlWc3BlczBUMk5zdFpmOEFJbFZlNERfMHFjNjlnLTRyUmtueVAtOUM3T0ZGVUt2ZHpRQlFZd1NLXw?oc=5",
-      "summary": "Nationwide deploys Microsoft 365 Copilot to modernise banking behind the scenes Technology Record",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
       "company": "Perplexity",
       "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlUS2Z5X0l6RHJqak9reGMtdFNpMHFJQUhucFBSLWZleHZpTXdRYUZtUmVBNllMY0l6WE93bTRDaE4yeDBrdGxxWnIxTTlEd2NCWE54WFl3TGQ5WnQ3U2JqTGxPQmUzdGl3dTlkdUE4d2VEY2tENC1WWDhnU2VXRFpQLWhiWk15S0VGbHVYcTJUZlNqbUIzSjJ4dHh2cnlfNzl5cVA1ZGY5S01BVlkzbGVQOEVuRnlVT3JXTTJqakFxLVA5TmZKQms5RWdqQlBFTkZScWt0VnVjSVpIbkIxV3pMX01XNHA3?oc=5",
       "summary": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers FinancialContent",
       "badge": "new",
+      "date": "2026-09-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
+      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta.com British rock band loses its longtime social media han",
+      "badge": "hot",
       "date": "2026-09-08"
     },
     {
@@ -411,26 +427,10 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
-      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Meta pushes into personal AI agents as company faces public reckoning over privacy and safety CNBC Meta’s AI Agent for Consumers Has Ar",
-      "badge": "hot",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
       "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWVXZWFybHRYNkhnMUxZRm9ESFd5djVtV1RfeHpFS0ppU3FVWmxUS2lyNkJiV0VMajJrTDZSRlpGcTdONkRqbU5lV0lpRnRrbEJmVk45WWtXQ0k1QjhuenlFbkwxM004SGxCb3ozcTB4bXQ2a0U0VGhBcXdMT1Z5UHMtQk1HeExhMWFYRF9fYXlDc0ptLUF1blZrbG9OOVBCYnB6MzY4NXpCUGVKVkNDdGNqUVkyNVF4dzlpb3FqZndOb0xGVDE5eWx1M05nZ05qdkcyU1o2YzhZVFdhNUJXQkxpTHRDTkhqVDhxbjRPLUNqNDVPUDFUeGRyTFM?oc=5",
       "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
       "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta launches personal AI agent, Muse, to help with everyday tasks - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1pwekpmb2dVRnBVWWZvbzZ6dHNISEhWQ2R6SFRfQU14dEd5TXVPUWV1V3hDX3lOZ1VZQUhKZDlyUzFybTJ1Ymh3YUNoR1h3UVZKc2FRRG14QTFOSmd2V2QyWXdTVEpMZzM2aGdSbVlrb3F4U25JaWRoZ01zQnNSSjV3SnRnR2RHTnNqTW9Bc3JrM3JidG5lMUVRcWh3ZXY0Rmc?oc=5",
-      "summary": "Meta launches personal AI agent, Muse, to help with everyday tasks PBS",
-      "badge": "hot",
       "date": "2026-09-08"
     },
     {
