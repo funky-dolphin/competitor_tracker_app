@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-11T02:35:39Z",
+  "updated": "2026-09-11T10:27:34Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
+      "summary": "Anthropic blocks possible attempt to use AI to make biological weapons BBC Anthropic Says It Blocked Possible Efforts to Build Biological Weapons The New York Times Fortune Tech: Anthropic’s bioweapon",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Yemeni militants used Anthropic AI to try to build ballistic missiles - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqTlcyTFBRMHJvRU1laHV3Mm5oRUtlV1VWQ3NadW1seUw1WFctMFdPRy16TjR4UTJMYjBaaFR0VXh5cHgyWlRlZWNRelNCWnRDTEs0Tlc5MXVUd3hoZHBBRVFEbUFtWlgwMzhGM1pEY1Q?oc=5",
+      "summary": "Yemeni militants used Anthropic AI to try to build ballistic missiles Financial Times",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Congress gripped by AI panic after doomsday warnings - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHc4UHItMkZoWWpOSWVjNXlZTnJtMVNBUWpId0JUNjQxRVlkd2tEcHZ1NnVLY0R3cnNhRTlPTWlWX3ZoSm5LcmpTemtOUlV4VzFsclItc3hFdzlxcmRDMmhXU29tZElvUW84VmwzMTF2M0lnSjRKQlh4UmJucmU5VkQ5cTd4Q2dz?oc=5",
+      "summary": "Congress gripped by AI panic after doomsday warnings Axios",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What All the AI Spending in This Ohio District Race Is Really About - The New Republic",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaVZfWk1acV9jc2U2RmZjTmpWbXluSEczdzVtOHhYTHhVNS1uQy1rUG54aEtjVEZ3djg0Y1M0YUhVaEJBbG9rbWprcklEYlVoOTRUOGUxaGtXWmxHY0JPVDdNSFlEMEQzYUVNU1dKVTV5QW04cDBUZ0ctVVZWLWdhTHdSUndwanNsb0hzTHBPNFJFSUt4?oc=5",
+      "summary": "What All the AI Spending in This Ohio District Race Is Really About The New Republic",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
     {
       "company": "Anthropic",
       "title": "China, Iran among countries that have used AI to aid spying, Anthropic says - yahoo.com",
@@ -58,6 +90,22 @@
       "date": "2026-09-11"
     },
     {
+      "company": "Perplexity",
+      "title": "AI and Pop-Up Stores: Anthropic and Perplexity’s New Strategy - nssmag.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUpuazBDd0VnQllUNzdRc1RZN1FLbHcyakdOQ3dMeTFfTW40U0lZTzlCSzN3d3VuQlBNUnkwZUhzd2dzQjI3b1FrcTh5UTVKUFNBTFZHcVlwbzBuRlR4WmRJNGlWZ3dRbWNic0RXN0pZb05fcFdTb3N3SU1pLWk3dk1CMDNHZw?oc=5",
+      "summary": "AI and Pop-Up Stores: Anthropic and Perplexity’s New Strategy nssmag.com",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's effort to harvest employee data sparked a massive internal revolt - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmRVMFZleENKYTFCbWdkTWU1amJfa29qRDRlZHlhVS1zQ2xXdmFsVGJkMUVMX3MxRm5iVnd2YVFKMUp1WG1jNmVxUUZOZzVKbXhjeFJHU25KU0VMTzFfU1I4QVJqazA2TFRpbTVkUUUtcHlGdkRpQnlUT1libTF2Z19neTk0TnV2eGo5TlhCMDVLV1ZhWElYSmt1UmdXUQ?oc=5",
+      "summary": "Meta's effort to harvest employee data sparked a massive internal revolt Business Insider",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
       "company": "OpenAI",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -91,14 +139,6 @@
     },
     {
       "company": "OpenAI",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "badge": "hot",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "OpenAI",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -106,10 +146,18 @@
       "date": "2026-09-10"
     },
     {
+      "company": "OpenAI",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
       "company": "Anthropic",
-      "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
+      "title": "Detecting and countering misuse of AI: September 2026 - anthropic.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "summary": "Detecting and countering misuse of AI: September 2026 Anthropic",
+      "summary": "Detecting and countering misuse of AI: September 2026 anthropic.com",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -138,38 +186,6 @@
       "date": "2026-09-10"
     },
     {
-      "company": "Anthropic",
-      "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5",
-      "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem The New York Times",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic AI model warns of 12% unemployment rate despite massive GDP boost - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbG9qc09jeFMwYlFXZHMtbHpSeHlXRy02bmh1elZNQmxoX3lUa09qVXE4MGlfNHhIaENFdV9jdHAtbHAtOXU4UUxkTTkxRjVyMUVLeDJOVWFXcnc?oc=5",
-      "summary": "Anthropic AI model warns of 12% unemployment rate despite massive GDP boost Fox Business",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Andrew Tulloch leaving Meta for Anthropic after less than a year - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ObkhjWjAwbWFMV0xqWjhDNWlCaDlHREwxYnoyLVN3cGpRQi1tSG8zdHNhUHpUd2xCRE5uSDctTThhdGZjVXhnSFB3TFJOU3JkYWJmSFhZQkZQTU82WmdnLXR6Qk9jNGpKLVhtYzdQQ2JZRzQ?oc=5",
-      "summary": "Andrew Tulloch leaving Meta for Anthropic after less than a year qz.com",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5",
-      "summary": "Anthropic discloses 4th AI hacking incident as researcher quits over safety Al Jazeera",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
       "company": "Google",
       "title": "3 ways to prep for your next big race with Search",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -179,9 +195,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Build apps in Copilot Cowork and Copilot Studio - microsoft.com",
+      "title": "Build apps in Copilot Cowork and Copilot Studio - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
-      "summary": "Build apps in Copilot Cowork and Copilot Studio microsoft.com",
+      "summary": "Build apps in Copilot Cowork and Copilot Studio Microsoft",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -234,6 +250,30 @@
       "date": "2026-09-10"
     },
     {
+      "company": "Perplexity",
+      "title": "No 9th Circuit rehearing in Amazon-Perplexity case - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3BpRm1WX0NvLTRIcmNNdnEtbURNY1FVUkZCRVJVMWl4WFJLakx6Z0dJSTB4M1h2aUlVOFpEZVBjVEtyS3dCdmNYLUFfc1NZdDFiZ21XSDZLbWx5NkUxbV81eGY1N1E0Z2V6VzVrbVZPekdmdlpFMEpXNmlfQUFOVS1BNWc0WlJW?oc=5",
+      "summary": "No 9th Circuit rehearing in Amazon-Perplexity case Courthouse News",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Perplexity",
+      "title": "ChatGPT Plus vs Claude Pro vs Perplexity: €211 Gap [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlZyRUpLU3lLaHhVQ0lFY0hkY2hHVFMtTHdiQmJGbEtGQkFMcm5jNHB6Y3dkNkJJSFpiM0dnWExTV0cwNzVxM2dVZGhwa1RzajdvTGNpQk51SzR6aVY5UzBxSWNLODdkM2VQeFhJVFFmNG9zM1hJZDR4N0hBLWYwd0Vhdnc?oc=5",
+      "summary": "ChatGPT Plus vs Claude Pro vs Perplexity: €211 Gap [2026] tech-insider.org",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
+      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters Futurism",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
       "company": "Meta",
       "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
@@ -254,14 +294,6 @@
       "title": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated - yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhlTEo3OEVNYXY4WURMVVBqS2p5N05IbXpWZXhfMTF6amloZDE4UXFHLTFxRjlnVTMzakZaNkZfZUlfU2p3WE41NXdtbVV6dEc2TzBMNmVDSkFwSWlOV2NfYW5tNk81VG9JYXVsZzFMVWx3dk94dkR2enZPWU5pRkZabzVQbjVK?oc=5",
       "summary": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated yahoo.com",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
-      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters Futurism",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -403,25 +435,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? - Search Engine Journal",
+      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? - searchenginejournal.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjhEVnNXSXRSOFJoVHlYS0V1Vk1GQTQ0TTlLX21PODcwV2N2VENBNU9FNExqVEkya19fV3ZQWnNUbk5uRUpycEtPdkgyZF8tTFhnSUh6d2Jkd3YtVzg5YWQ0dUhieEdXZFh1TDgzanNnVHMza3pmU3o0TU9rbENzYlI2SVlkeFpJRlR6TC1MdGRQYUpMa2JMd2o3Zld6aEpCc3diTl83VkI0b1RJR2FicHhTVm0wY19ZeWw3ZEl4clA?oc=5",
-      "summary": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? Search Engine Journal",
+      "summary": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? searchenginejournal.com",
       "badge": "new",
       "date": "2026-09-09"
     },
     {
       "company": "Meta",
-      "title": "Exclusive / AI researcher Andrew Tulloch is leaving Meta - Semafor",
+      "title": "Exclusive / AI researcher Andrew Tulloch is leaving Meta - semafor.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3VqOTQwQ2s2V1NlOW05dldHRVdaMDFjMi14QlJmbHZjTXpZU045cG8yNGQwSTlqUXdKT0VrR2xGWGk3V0dYSTFNTlUzT05ieUNwbFY3Yms2YjZHVTlUZ2p6OW9WYzNzakFzTDBsdWtkWEluRnpxV1kzM2lXMHhxS2dfLXhteVNyMFljS20wWXk?oc=5",
-      "summary": "Exclusive / AI researcher Andrew Tulloch is leaving Meta Semafor",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Meta",
-      "title": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSHlDdnlOV2ktdHo0eGRNRFFJaXlRNWx0QmtRSmh4c2VhcUV3RndIaDVVa2ZVeklyZjhoZzA1cG9rc2xfb2Y2ZGVnal9xbTU5N2xGTl9HVnM0UHh6aGFLYXZyRU81cFBJd1dHbWlwOEpSSXRpcXZlLWhuZDZLWDlnM0FicHEzVUxpd2NLSDE3NnFoNWxkRXdEeExSbGFtRVNhNjBRcUd2UTk0ZUx3WTRYcU9yZVc2enhsMzZNYjN4b2JNWUJNcjhOMUlaRDN4TFRTdC0yQkk1c05OMGdFZUdEVjZjb0hVdFhMZlE?oc=5",
-      "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started Yahoo Tech",
+      "summary": "Exclusive / AI researcher Andrew Tulloch is leaving Meta semafor.com",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -486,30 +510,6 @@
       "title": "Maybe we were wrong about Perplexity - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWtGMlVtTFdNREpZblEtRTVscFRRRVRTQW91TUFPd01PWTVscVUtN1A0cnNlNEQtVU04UnNNRVAxWVlQTmxOaFVQZUlkTkRIdjhlVzc0N0hLWUZfRGlzSmktZl9MbFNTRGYwM01LRnBHT1Ywc2Rtd212S0N0dw?oc=5",
       "summary": "Maybe we were wrong about Perplexity Fast Company",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFJzcnlRb0xZazE4a0paYnFtT2F0dXZjclo3RFFtYVY4QlIwUnREU1daQ3ViMHFzbmQzUHY3N3ZDaExjYlFOYWNVLWlaSy1POTd6bk1wdGVKU1NWWHJLWUc2NjE0eGFnenA0QnR6X0J2TUVZQkY4Slp0UHVnNEItNC1oTEMxS2w5Z3JYMUNIT0ZhRnc5OVBKZU5DT0VvTkwxMVFZanlmX3dUaER4TUFuZE9vS3pRb09uNTR3NTd5SXJzNHZ6VjBQdXNzOU5MYTNzQXfSAdcBQVVfeXFMTzAxQUpDVXpFOVNXRFBScldiVjM2OTZ1X0FsanZDMmFEd3NJYUktQXZfVFk5S3hKZFBaYTJxVjFVSnNxamJvcjJ4c3dHQWlkZk1FeWQxQjdzTlQ2cG9zT3Y5eHZUWE1zb2hreFc4UVNaMTlNaWdJRDg5Z2RYVnFXMGdwaVlUaEVmQ0VNYldpYlFzNHp4bW9CdDFjSm9Fak4wbnJxZ1hwYkwxd0twUHI1OE40SVExZFhRU25FY3RtbWFmUEdscXQzcDU3NkVZc3MyWl9tOVhMN00?oc=5",
-      "summary": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon MarkTechPost",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Open-Sources Lily: 1.35x Faster Than MLX [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcndoT0Y1NDAyUHk3M3BiTW1SQWRHeDE3LU94MmkxMEprcEhuM0pRaTVUblRHREt2MTJ2dUt1S3RoRGFoTldsVVVlbENvMF9MTHFndFgzSll2LXo5cmpGWndhendzaWR0NHp4emVXRGJhWVdFQ01BZkRYY1Vmc3QtdTNR?oc=5",
-      "summary": "Perplexity Open-Sources Lily: 1.35x Faster Than MLX [2026] tech-insider.org",
-      "badge": "new",
-      "date": "2026-09-03"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT Atlas Dies Aug 9: Comet Free vs Gemini $250 [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1MyVU00Z0tqUHF4VUdRRjdYYnJVRXRQbjV6d1Z5SE1CNXhZanhJbzJmUkc1QVZkb0EyN3FZT2d0UGlUdlBCcmJhd3pVbnBvY1pjM0psVDNQODY5V083c281YlBYXzB1V21MRnA5Z2hYc1JVMndQTHhaYmhSZVYwVUlRaWRJbkVhUnZIbw?oc=5",
-      "summary": "ChatGPT Atlas Dies Aug 9: Comet Free vs Gemini $250 [2026] tech-insider.org",
       "badge": "new",
       "date": "2026-09-03"
     },
