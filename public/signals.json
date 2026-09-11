@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-11T15:43:27Z",
+  "updated": "2026-09-11T20:20:23Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+      "summary": "Anthropic says it blocked misuse of its AI that could have supported biological weapons AP News Anthropic says it stopped scientists potentially developing bioweapons with AI Financial Times Anthropic",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Houthis used Anthropic AI to try to build ballistic missiles - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXE4MDFlendHOEpIVjJfNk02ZUFydzk0d3RBU0FGaE9qSlp3UkdDUHQwM3hQdUhjd182b0ZWZ3B0TUE0Vlh2MnpyRUNKOVp1aFlCNF9UWXVYZTctSkUycUNvWTE0MDd6aVgzYjdSOWhPTThnRS11RzQwUmQyN0E2aHlZTlI?oc=5",
+      "summary": "Houthis used Anthropic AI to try to build ballistic missiles Financial Times",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Says Yemen Group Used Claude in Missile Development - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXhtUUpua3FMcFpYZmN0UHdoZjhoa1p2TS0wSXRoVjYxNDFJRTkyRDJQWWx3TDZDN3d0dnIwNnZ1RHg3Y29fNmFDWUMwZVZXdHdOYVp3eVhtZ1UtaHRTWVFHeGtqcktOUlNKSHZ3VHIzMlVCNl9kNlN3R0NXS0xKb0JxSVhEZVJLMTNNVzBmaEszV19penQ4QmpRc0Q0dzhDakdVTzFCQXJ6Zm84Vk5tNF93?oc=5",
+      "summary": "Anthropic Says Yemen Group Used Claude in Missile Development Bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0t5NUt6RjlmcDlkdENaVXozejNxNFpBYi1WR1NnbHJ1X3ZfanpDR0Q2T2JlT2d5Ui0xMFZVb3RVQ1VqQnZJT3lYOXRTd0VtSHVDQmd1NUN5SzhXOEhocFJfbS1Pa1VRUl9lNjg0YmhOazh6ZDhvaEFkaGY2T1BmV3QxVWlMb3BhUVpzT3gyamFZa084Ny1qZVYxVQ?oc=5",
+      "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says AP News",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFNiT194TE1KX09PLVJ4YkJKX0Jodkg1RHVCYTZ0R0RQUXp6VXpOM200eG9PWVk5V21rVHgwbHBkZFlFNEhLLWJ6ZVpyQkFyQjUwT2xzSU1lTkxNRGRubTJiTVNkX2FKM3dGemUxdG5JNE5CdXM2dDBwM1hJVzlrSnlfV0FONF9La2FEYnRaa3RGdzAzR1E?oc=5",
+      "summary": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse Yahoo",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ",
@@ -42,42 +90,26 @@
       "date": "2026-09-11"
     },
     {
-      "company": "Anthropic",
-      "title": "Congress gripped by AI panic after doomsday warnings - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHc4UHItMkZoWWpOSWVjNXlZTnJtMVNBUWpId0JUNjQxRVlkd2tEcHZ1NnVLY0R3cnNhRTlPTWlWX3ZoSm5LcmpTemtOUlV4VzFsclItc3hFdzlxcmRDMmhXU29tZElvUW84VmwzMTF2M0lnSjRKQlh4UmJucmU5VkQ5cTd4Q2dz?oc=5",
-      "summary": "Congress gripped by AI panic after doomsday warnings Axios",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What All the AI Spending in This Ohio District Race Is Really About - The New Republic",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaVZfWk1acV9jc2U2RmZjTmpWbXluSEczdzVtOHhYTHhVNS1uQy1rUG54aEtjVEZ3djg0Y1M0YUhVaEJBbG9rbWprcklEYlVoOTRUOGUxaGtXWmxHY0JPVDdNSFlEMEQzYUVNU1dKVTV5QW04cDBUZ0ctVVZWLWdhTHdSUndwanNsb0hzTHBPNFJFSUt4?oc=5",
-      "summary": "What All the AI Spending in This Ohio District Race Is Really About The New Republic",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "China, Iran among countries that have used AI to aid spying, Anthropic says - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFtckVfSU81aHFCdkc2bGdPU3VOZXQyUUd3VEhQSkp3dWtubFNDeHVuWlRNMzBVeDN0c3hPQWNWcFEyaWZuRGhNcFF0R0VRV3hTbkJJcGtGWnc4YnlYR2tXTlltZkJHTExXV1JfUy1FSHBQZDgzSl9TWFlNZzI1SXpvOFljc2tXZGh4QXBBeWR1QQ?oc=5",
-      "summary": "China, Iran among countries that have used AI to aid spying, Anthropic says yahoo.com",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVd0QmhZYjdKejdISGxEbEVXOGNpcDlkZlVRV0M5N013T012blR0bHlEeUNmMS1LTWVzU29DTk41TmoyMG5CWVF3aWpBOUFMbmtINkd4VVFqaXRpQ2ZYb3dWU0dSSlpNQ2RRYlBudjdXeHVnYWt0YTVpV1M5SXloZnNKbmRKTFdIcEEtWGMwaC1ZQdIBlwFBVV95cUxQX0JhaE5BWS1pWGViM3JGTmR2VVFiRTljTS1Ub19WNFR2Mmw4OUhwV25XVnVFUklTcURvME02bWFfZFZrVExCTU1rNWpjNUZWeExtX0tMR0dWdHJMTC14UjZmOVhMUHhPRld2VUF5ZC1nODU2US1ZZDdjZzlEdW1aY0VUWkllZ2pXV1hCVXdQTXRFYXM5OUE4?oc=5",
-      "summary": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says CNBC",
+      "company": "Microsoft",
+      "title": "Teams and Copilot are changing addresses: update your firewalls - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0d1eTJZMVlzNldPQk5qOHhsZ203cXNWejZoQlJsYl9EUzJfcVc5b0J4anNBbVpHWVM4ei1HR012N2lUa0ZWYVV4amlOVDF5RGF2Qk5WU0JNWHVmZGpDQWFjTG45bnRfcXQ5SzRUYVgtSExUdzF6cVo4Y01MaGlPTC1oWmVIRDVLRTBoZ0hpY0o0YTlpbktoT2RDY3JJWnFIQXFuMFRfLXhhV0dueVRXM3NVbw?oc=5",
+      "summary": "Teams and Copilot are changing addresses: update your firewalls Computerworld",
       "badge": "new",
       "date": "2026-09-11"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot joins CarPlay, leaving Gemini as the biggest holdout - 9to5Mac",
+      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0NOZ1BGM3BYMmd2OE5iZUs1NjlPMk1PMFR6U0U0WllqLU1rZmJRZHYyT3R4Qy1QXzV2RzhVYWk1dHZiUFAzSGRBVWp3Vm0wS2tEZl90S3NzTFhVNVBweEJoSkNodkxpbUt2Vm9Ud2RTdDBkNUtoaFJwODFRRmJoSEFFTDQ3WkJJUFY3a01GcGZIQ0xVSHVESkZKMHpCd3Z2cjRB?oc=5",
-      "summary": "Microsoft Copilot joins CarPlay, leaving Gemini as the biggest holdout 9to5Mac",
+      "summary": "CarPlay now works with six major AI chatbot apps, leaving one key holdout 9to5Mac",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -139,17 +171,25 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's effort to harvest employee data sparked a massive internal revolt - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmRVMFZleENKYTFCbWdkTWU1amJfa29qRDRlZHlhVS1zQ2xXdmFsVGJkMUVMX3MxRm5iVnd2YVFKMUp1WG1jNmVxUUZOZzVKbXhjeFJHU25KU0VMTzFfU1I4QVJqazA2TFRpbTVkUUUtcHlGdkRpQnlUT1libTF2Z19neTk0TnV2eGo5TlhCMDVLV1ZhWElYSmt1UmdXUQ?oc=5",
-      "summary": "Meta's effort to harvest employee data sparked a massive internal revolt Business Insider",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5",
+      "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions The Verge",
       "badge": "new",
       "date": "2026-09-11"
     },
     {
       "company": "Meta",
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5",
-      "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions The Verge",
+      "title": "Parents loved sharing photos of their kids online. Then came AI. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
+      "summary": "Parents loved sharing photos of their kids online. Then came AI. Business Insider",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's effort to harvest employee data sparked a massive internal revolt - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmRVMFZleENKYTFCbWdkTWU1amJfa29qRDRlZHlhVS1zQ2xXdmFsVGJkMUVMX3MxRm5iVnd2YVFKMUp1WG1jNmVxUUZOZzVKbXhjeFJHU25KU0VMTzFfU1I4QVJqazA2TFRpbTVkUUUtcHlGdkRpQnlUT1libTF2Z19neTk0TnV2eGo5TlhCMDVLV1ZhWElYSmt1UmdXUQ?oc=5",
+      "summary": "Meta's effort to harvest employee data sparked a massive internal revolt Business Insider",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -202,14 +242,6 @@
       "date": "2026-09-10"
     },
     {
-      "company": "Anthropic",
-      "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "summary": "Detecting and countering misuse of AI: September 2026 Anthropic",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
       "company": "Google",
       "title": "3 ways to prep for your next big race with Search",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -227,9 +259,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "AI uprising postponed after Copilot falls off the web - theregister.com",
+      "title": "AI uprising postponed after Copilot falls off the web - The Register",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG9BXzVLTVY4OWZZNmpEMF9BbUNiZ1NmbDRCenhQUTdSSFFTc1V3R3RYS01fZmtoMGRfRUpzNmdyLXUwRlZqTC01WngtRFRqWVRmel8xa0FJbWxIUmE3YVppeFo2QW14MHVZakVNTm9NaUxjeF91VGVXU0s1ZFpEd0JWVXZtVW9oVkU5Z3JBYkh5a1pjc2c2dmNrZnlLejgtRERqbkxxYjhteU05SWZB?oc=5",
-      "summary": "AI uprising postponed after Copilot falls off the web theregister.com",
+      "summary": "AI uprising postponed after Copilot falls off the web The Register",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -291,6 +323,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
+      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US TechCrunch Meta pushes into personal AI agents as company faces public reckoning over privacy and safety CNBC Meta’s Muse AI works and creeps me out",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
       "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
       "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
@@ -323,14 +363,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
-      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US TechCrunch Meta bets on AI agent Muse to catch up in AI race The Verge Introducing Muse: The World’s First Personal AI Agent Built for Everyone meta",
-      "badge": "hot",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
       "title": "Meta loses its $1.5 billion AI recruit less than a year after hiring him - calcalistech.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VNkUwb3dOdTFDenhXbHNLYW5NZF8ybTlCZUhLMU9jRjR2MlZfWEc1dm5ZY1IxTzhWOXBibVV5bEhLakpsWVYyN2NGaVdJYWRmMXdpdUN1SnMwYW5VaTdUa20yY1FielE?oc=5",
       "summary": "Meta loses its $1.5 billion AI recruit less than a year after hiring him calcalistech.com",
@@ -343,14 +375,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
       "summary": "Sure, Meta’s AI Muse works, but it sure creeps me out The Verge Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyon",
       "badge": "hot",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
-      "title": "This developer created an app to detect nearby Meta glasses. It already has thousands of users. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2czR0s0OFhOSDBrSkR3RlZIVlZSWG9iemRYcmY3aC05bm1wWU9VRFBteTZ6Y2U2d0EyQ1VXR1Y0N0c5SG5SejVGLVFxTFVPc2FRRV9mQkVNMDVqYXNHOTMyQzFicHdNWkR3RDlXclRsc0lmbTBYZDRkVnp5THBSNTV5TGlHc0pDR0J1cG0wblpxSXMyMW5Banc3T1VzSk0?oc=5",
-      "summary": "This developer created an app to detect nearby Meta glasses. It already has thousands of users. Business Insider",
-      "badge": "new",
       "date": "2026-09-10"
     },
     {
@@ -402,14 +426,6 @@
       "date": "2026-09-09"
     },
     {
-      "company": "Microsoft",
-      "title": "EY Microsoft Copilot Deployment: The Path to AI Productivity - UC Today",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlTMUVnMnBFMjJMOUd4ak9wUlU2QkcwZUtFcWlGc1Z3cElFMWt5aXZZTWJNNGRqQ3BOSVhlM0F1enpjZ2V1d09VWDJwbUZEMF9FQl80dFB6dWxwOVFhOHZNemMyUGMwdzJKcko4YzVQTFBPdkFKSXNCcUpjdHRCTWdnODVaQQ?oc=5",
-      "summary": "EY Microsoft Copilot Deployment: The Path to AI Productivity UC Today",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
       "company": "Apple",
       "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
       "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
@@ -442,18 +458,10 @@
       "date": "2026-09-09"
     },
     {
-      "company": "Apple",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
       "company": "Perplexity",
-      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? - Search Engine Journal",
+      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? - searchenginejournal.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjhEVnNXSXRSOFJoVHlYS0V1Vk1GQTQ0TTlLX21PODcwV2N2VENBNU9FNExqVEkya19fV3ZQWnNUbk5uRUpycEtPdkgyZF8tTFhnSUh6d2Jkd3YtVzg5YWQ0dUhieEdXZFh1TDgzanNnVHMza3pmU3o0TU9rbENzYlI2SVlkeFpJRlR6TC1MdGRQYUpMa2JMd2o3Zld6aEpCc3diTl83VkI0b1RJR2FicHhTVm0wY19ZeWw3ZEl4clA?oc=5",
-      "summary": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? Search Engine Journal",
+      "summary": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? searchenginejournal.com",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -464,14 +472,6 @@
       "summary": "High-flying Kiwi in New York raises $54m for his AI start-up NZ Herald",
       "badge": "new",
       "date": "2026-09-09"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "badge": "new",
-      "date": "2026-09-08"
     },
     {
       "company": "Perplexity",
