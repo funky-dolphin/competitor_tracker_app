@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-10T20:20:07Z",
+  "updated": "2026-09-11T02:35:39Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "China, Iran among countries that have used AI to aid spying, Anthropic says - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFtckVfSU81aHFCdkc2bGdPU3VOZXQyUUd3VEhQSkp3dWtubFNDeHVuWlRNMzBVeDN0c3hPQWNWcFEyaWZuRGhNcFF0R0VRV3hTbkJJcGtGWnc4YnlYR2tXTlltZkJHTExXV1JfUy1FSHBQZDgzSl9TWFlNZzI1SXpvOFljc2tXZGh4QXBBeWR1QQ?oc=5",
+      "summary": "China, Iran among countries that have used AI to aid spying, Anthropic says yahoo.com",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVd0QmhZYjdKejdISGxEbEVXOGNpcDlkZlVRV0M5N013T012blR0bHlEeUNmMS1LTWVzU29DTk41TmoyMG5CWVF3aWpBOUFMbmtINkd4VVFqaXRpQ2ZYb3dWU0dSSlpNQ2RRYlBudjdXeHVnYWt0YTVpV1M5SXloZnNKbmRKTFdIcEEtWGMwaC1ZQdIBlwFBVV95cUxQX0JhaE5BWS1pWGViM3JGTmR2VVFiRTljTS1Ub19WNFR2Mmw4OUhwV25XVnVFUklTcURvME02bWFfZFZrVExCTU1rNWpjNUZWeExtX0tMR0dWdHJMTC14UjZmOVhMUHhPRld2VUF5ZC1nODU2US1ZZDdjZzlEdW1aY0VUWkllZ2pXV1hCVXdQTXRFYXM5OUE4?oc=5",
+      "summary": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says CNBC",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "badge": "hot",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+      "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils Apple Watch Ultra 4",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.",
+      "badge": "hot",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
+      "badge": "hot",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
     {
       "company": "OpenAI",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -35,6 +91,14 @@
     },
     {
       "company": "OpenAI",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "badge": "hot",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "OpenAI",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -45,7 +109,15 @@
       "company": "Anthropic",
       "title": "Detecting and countering misuse of AI: September 2026 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "summary": "Detecting and countering misuse of AI: September 2026 Anthropic Anthropic Says It Blocked Possible Efforts to Build Biological Weapons The New York Times Anthropic says it disrupted scientists using C",
+      "summary": "Detecting and countering misuse of AI: September 2026 Anthropic",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
+      "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons The New York Times Anthropic says it blocked misuse of its AI that could have supported biological weapons AP News Anthropic bloc",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -98,22 +170,6 @@
       "date": "2026-09-10"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic has a cute graphic showing how its AI spread 'malicious' code - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTE4c2xpa1J5bFpVeXV1dUNhT0txZ0JVdG54VzZuOW95cGJFRi1VcU4tMHppekx3UnBwczdORl9EckVVeVItYzhqS25JUTdab2hYNTJhMWtMZXRPb0h2YTdERnVOSms1ZnNLdWxEN3NaWVpFWExicU9kendKR24xX25SX0JYM3JIdjkxSms1SUN3SVdkNkRKN2hnN0xzX0FDR2lHOWV3VFNjYW1jSE5jYlFiSHhINm54?oc=5",
-      "summary": "Anthropic has a cute graphic showing how its AI spread 'malicious' code Business Insider",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
-      "summary": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify CNBC",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
       "company": "Google",
       "title": "3 ways to prep for your next big race with Search",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -123,9 +179,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Build apps in Copilot Cowork and Copilot Studio - Microsoft",
+      "title": "Build apps in Copilot Cowork and Copilot Studio - microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
-      "summary": "Build apps in Copilot Cowork and Copilot Studio Microsoft",
+      "summary": "Build apps in Copilot Cowork and Copilot Studio microsoft.com",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -142,6 +198,14 @@
       "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
       "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft wants SharePoint customers to use Copilot to author content - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVVWci1BQ2RFU001QnVIUmhjZ0JyTmwwd05iRXVaRFZ4cVhhLXU1aHE1N3JkOXM0Ulh3NkZDNzVqSFlXenZCNkkwOV9MQUhlSFNmaEo4LWk3UkFOVHVETlc4REprV1pGQ0pZa05VLTNJNUc5Y0c4ZzdoakxOM3hJRFlvaDhTendxdzEyN0dQVGtVRGI4a0hoaGxWTnljUFk?oc=5",
+      "summary": "Microsoft wants SharePoint customers to use Copilot to author content Neowin",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -170,42 +234,26 @@
       "date": "2026-09-10"
     },
     {
-      "company": "Apple",
-      "title": "Apple unveils iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "badge": "hot",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-      "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.",
+      "company": "Meta",
+      "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
+      "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
       "badge": "new",
       "date": "2026-09-10"
     },
     {
-      "company": "Apple",
-      "title": "Apple unveils Apple Watch Ultra 4",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.",
-      "badge": "hot",
+      "company": "Meta",
+      "title": "Star AI Researcher Is Leaving Meta for Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
+      "summary": "Star AI Researcher Is Leaving Meta for Anthropic WSJ",
+      "badge": "new",
       "date": "2026-09-10"
     },
     {
-      "company": "Apple",
-      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
-      "badge": "hot",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.",
+      "company": "Meta",
+      "title": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhlTEo3OEVNYXY4WURMVVBqS2p5N05IbXpWZXhfMTF6amloZDE4UXFHLTFxRjlnVTMzakZaNkZfZUlfU2p3WE41NXdtbVV6dEc2TzBMNmVDSkFwSWlOV2NfYW5tNk81VG9JYXVsZzFMVWx3dk94dkR2enZPWU5pRkZabzVQbjVK?oc=5",
+      "summary": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated yahoo.com",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -235,26 +283,10 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhlTEo3OEVNYXY4WURMVVBqS2p5N05IbXpWZXhfMTF6amloZDE4UXFHLTFxRjlnVTMzakZaNkZfZUlfU2p3WE41NXdtbVV6dEc2TzBMNmVDSkFwSWlOV2NfYW5tNk81VG9JYXVsZzFMVWx3dk94dkR2enZPWU5pRkZabzVQbjVK?oc=5",
-      "summary": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated Yahoo",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
       "title": "Sure, Meta’s AI Muse works, but it sure creeps me out - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
       "summary": "Sure, Meta’s AI Muse works, but it sure creeps me out The Verge Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyon",
       "badge": "hot",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Star AI Researcher Is Leaving Meta for Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
-      "summary": "Star AI Researcher Is Leaving Meta for Anthropic WSJ",
-      "badge": "new",
       "date": "2026-09-10"
     },
     {
@@ -286,14 +318,6 @@
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWFmeTFDc1VyVkdBM00tWkYwRGJiaDlTWU5nbjVwalFFb1I3MDRIbFZ6LTVYTkwxZTZXSDZVWU96dWhJMndWSV9oNjE0ZHFSUnh3dzdBRHhIMUNfdWFPb2dSYktCU09qQVdpY0JlZHdGMnlxczlyeXh0TXc5alIyWktKN0wtNW5uT0pzRDJn?oc=5",
-      "summary": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’ WIRED Anthropic researcher resigns with warning about the dangers of AI development AP News Will AI kill all humans? Anth",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -334,14 +358,6 @@
       "title": "How Microsoft AI is helping Cognizant scale Delivery Excellence across 10,000 projects - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUUwS1QtbFNPUXJJWDdSVTU5c2pza3FVNFJwdUhva2FWdHVxWUNVQXlVUkxTSXlfcmtIcEdzUnR1a05jTDZ6TlRTanpsNHRFUFpkVVh5OVoyR2ZPczVZSnJ4STR0MnNEUTNOYTMtTnhSSUFpbWNYNHFyNHNQUTZsMVFNaTB5NmJQS1R4VUVtSTlBYVJiTExhWGNHZ2w1alVTb01fcEJJbVowV21KblFsWlctOHhqem1TVmxjalRCZzYtRXZacDBjWW1FV3d5VkE?oc=5",
       "summary": "How Microsoft AI is helping Cognizant scale Delivery Excellence across 10,000 projects Microsoft Source",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft really wants organizations to build and publish apps using Copilot - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUFBbWhGOHFTRkVEVzh1OURTb1lEaVdNcTdOWXotUGZsS25qTFZaU2NtbUgxUFBxOWpXWVJoSmVGbVVhaWhHN0FSeTVLbjVnWkZBTnRKbWswRkR5MWEwNFNneUdhZUtDdGhwamZLZVZzMDkxcHpWLU00VkNWS3dYNjJEZGVyVUxxd1hUZUxZN19lbFVuNmJLek9pRUg1Mm5TdGhkdXdqSXM?oc=5",
-      "summary": "Microsoft really wants organizations to build and publish apps using Copilot Neowin",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -410,14 +426,6 @@
       "date": "2026-09-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta debuts Muse, its long-planned personal AI agent - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5",
-      "summary": "Meta debuts Muse, its long-planned personal AI agent Axios",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
       "company": "Amazon",
       "title": "High-flying Kiwi in New York raises $54m for his AI start-up - NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdTQ3cXJVT3EtN29CMWlubjhKaFdzTHdfVzBmREgwamZub0ltOWVCVXd0Ykc2MWIyajYxcVdoNS1hWjJmbV9HTEJGWHhzSTU3TldTclpWME1vQktBMXZ4ZHVpR0NJU21wRTQwWkc2WTh6TGFFSkhWU1UwNVcteV92QmFwWjA3QV8xMnd6NWlaaDVyb3ZieEwxTjhtYURTcTRBRFpYYjJsU183SE4zSzJCR3U4WjVVOHE1ZXVkc1lvbjB0T3dWeWxaaGxPMVBiT1c5OUxCS3pxYVJqdVE5aGhKdTEya1FoWEVIZzF5RXFobGtiSkdTYVZYX3p4akdPQTQ1dkJ1WWYteFA0NldjWnRUaGRYMDZWUQ?oc=5",
@@ -430,14 +438,6 @@
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "url": "https://openai.com/index/codex-quantum-computing-experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "badge": "new",
-      "date": "2026-09-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "badge": "new",
       "date": "2026-09-08"
     },
