@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T02:44:44Z",
+  "updated": "2026-09-12T09:56:30Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -8,6 +8,30 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "badge": "new",
       "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Chinese AI Firms Tried to Clone U.S. AI Models - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGswOXZNYVNvdzV2SzRHVC1aM0lGM01aNHVnMlRRQWVZYkFhTGh0dzE4UkRER042RU5kQnVmUVY3X282ZmgzYUtJYU5uSnhyZTV1eWlsaDdKcHBjQ28tQnQzd09XUm9KczY4SFB1c1hEZ2xfS203RExlZDU5OUZRcHZ4YUNUdG5JbzByNFlqWi10ZVlXcmxVNExXODR6dEp4X1FjbERSckRRQ0ZNcVhiMGxR?oc=5",
+      "summary": "How Chinese AI Firms Tried to Clone U.S. AI Models WSJ",
+      "badge": "new",
+      "date": "2026-09-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why are the people building the most powerful AI so worried about what it could do? - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2dEZVQ3TDM1QTVfdTlRQ09QSWhCWnN1ODIwQzdEUTJxTEpGLVI4Qlp0WnVfaTdEdHEyNHdQcWNoNS1FajdpaVU1WWtPcTZ1ZXJWYXBsRzlrZi1jaWZNdEY0S1MtZmQxSVRtdlZHOFV6aW54TUJHWEJDOExGY2l1V25LYmYtNUlic1B4MFNrUklaaVk?oc=5",
+      "summary": "Why are the people building the most powerful AI so worried about what it could do? NPR",
+      "badge": "new",
+      "date": "2026-09-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inside the Snowballing Conversations at A.I. Companies About a Doomsday - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
+      "summary": "Inside the Snowballing Conversations at A.I. Companies About a Doomsday The New York Times",
+      "badge": "new",
+      "date": "2026-09-12"
     },
     {
       "company": "Anthropic",
@@ -83,6 +107,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
+      "summary": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say Reuters",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
       "summary": "Anthropic says it blocked misuse of its AI that could have supported biological weapons AP News How Anthropic says Claude was used for weapons, spying and cyber operations Reuters Anthropic report det",
@@ -99,14 +131,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
-      "summary": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say Reuters",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
       "title": "Houthis used Anthropic AI to try to build ballistic missiles - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXE4MDFlendHOEpIVjJfNk02ZUFydzk0d3RBU0FGaE9qSlp3UkdDUHQwM3hQdUhjd182b0ZWZ3B0TUE0Vlh2MnpyRUNKOVp1aFlCNF9UWXVYZTctSkUycUNvWTE0MDd6aVgzYjdSOWhPTThnRS11RzQwUmQyN0E2aHlZTlI?oc=5",
       "summary": "Houthis used Anthropic AI to try to build ballistic missiles Financial Times",
@@ -118,30 +142,6 @@
       "title": "Anthropic Says Yemen Group Used Claude in Missile Development - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXhtUUpua3FMcFpYZmN0UHdoZjhoa1p2TS0wSXRoVjYxNDFJRTkyRDJQWWx3TDZDN3d0dnIwNnZ1RHg3Y29fNmFDWUMwZVZXdHdOYVp3eVhtZ1UtaHRTWVFHeGtqcktOUlNKSHZ3VHIzMlVCNl9kNlN3R0NXS0xKb0JxSVhEZVJLMTNNVzBmaEszV19penQ4QmpRc0Q0dzhDakdVTzFCQXJ6Zm84Vk5tNF93?oc=5",
       "summary": "Anthropic Says Yemen Group Used Claude in Missile Development Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0t5NUt6RjlmcDlkdENaVXozejNxNFpBYi1WR1NnbHJ1X3ZfanpDR0Q2T2JlT2d5Ui0xMFZVb3RVQ1VqQnZJT3lYOXRTd0VtSHVDQmd1NUN5SzhXOEhocFJfbS1Pa1VRUl9lNjg0YmhOazh6ZDhvaEFkaGY2T1BmV3QxVWlMb3BhUVpzT3gyamFZa084Ny1qZVYxVQ?oc=5",
-      "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says AP News",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFNiT194TE1KX09PLVJ4YkJKX0Jodkg1RHVCYTZ0R0RQUXp6VXpOM200eG9PWVk5V21rVHgwbHBkZFlFNEhLLWJ6ZVpyQkFyQjUwT2xzSU1lTkxNRGRubTJiTVNkX2FKM3dGemUxdG5JNE5CdXM2dDBwM1hJVzlrSnlfV0FONF9La2FEYnRaa3RGdzAzR1E?oc=5",
-      "summary": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse Yahoo",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-      "summary": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships WSJ",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -171,9 +171,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent - jonesday.com",
+      "title": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent - Jones Day",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamhHbUU1MFowZXdSXzV4c0x4Z2pPaVd1a2VRWGxUZlFxUVJ6S24zLXhsSXdZWUxxc090U2ExWVVOUlJYcTJNcnBveWoycEdBeVNLMlNDTFkwZTV6RDNQb3N6WDVXR1F3aDUzR2k2TGh3U0R0eU9yM01oc3pwS3NfRlBIOVFqaFJaLXpyTlRIWUh1Y2FtNmRQRjh3XzlrY2RrcEFQMTNKT21GSDFLSFFFdGd6N1A3Qmxw?oc=5",
-      "summary": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent jonesday.com",
+      "summary": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent Jones Day",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -187,9 +187,25 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity AI says appellate ruling dooms Amazon US lawsuit over AI agents - MLex",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uRWF3VTFEeXNTVWVrMGhaM08zQU5jZURUcC1rRjVjMTBuUmtBaW9RRllMZktnTmFfR1pvbmJkZktGRUFURkNhZnJ2R0N2TFZQQkpRZmNoNVJsQdIBWkFVX3lxTE5uRWF3VTFEeXNTVWVrMGhaM08zQU5jZURUcC1rRjVjMTBuUmtBaW9RRllMZktnTmFfR1pvbmJkZktGRUFURkNhZnJ2R0N2TFZQQkpRZmNoNVJsQQ?oc=5",
+      "summary": "Perplexity AI says appellate ruling dooms Amazon US lawsuit over AI agents MLex",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Perplexity",
       "title": "AI and Pop-Up Stores: Anthropic and Perplexity’s New Strategy - nssmag.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUpuazBDd0VnQllUNzdRc1RZN1FLbHcyakdOQ3dMeTFfTW40U0lZTzlCSzN3d3VuQlBNUnkwZUhzd2dzQjI3b1FrcTh5UTVKUFNBTFZHcVlwbzBuRlR4WmRJNGlWZ3dRbWNic0RXN0pZb05fcFdTb3N3SU1pLWk3dk1CMDNHZw?oc=5",
       "summary": "AI and Pop-Up Stores: Anthropic and Perplexity’s New Strategy nssmag.com",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5",
+      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems WIRED",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -299,9 +315,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft wants SharePoint customers to use Copilot to author content - neowin.net",
+      "title": "Microsoft wants SharePoint customers to use Copilot to author content - Neowin",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVVWci1BQ2RFU001QnVIUmhjZ0JyTmwwd05iRXVaRFZ4cVhhLXU1aHE1N3JkOXM0Ulh3NkZDNzVqSFlXenZCNkkwOV9MQUhlSFNmaEo4LWk3UkFOVHVETlc4REprV1pGQ0pZa05VLTNJNUc5Y0c4ZzdoakxOM3hJRFlvaDhTendxdzEyN0dQVGtVRGI4a0hoaGxWTnljUFk?oc=5",
-      "summary": "Microsoft wants SharePoint customers to use Copilot to author content neowin.net",
+      "summary": "Microsoft wants SharePoint customers to use Copilot to author content Neowin",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -347,14 +363,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
-      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US TechCrunch Meta’s Muse AI works and creeps me out The Verge Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel The N",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
       "title": "Star AI Researcher Is Leaving Meta for Anthropic - WSJ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
       "summary": "Star AI Researcher Is Leaving Meta for Anthropic WSJ",
@@ -371,6 +379,22 @@
     },
     {
       "company": "Meta",
+      "title": "Andrew Tulloch, Poster Child for Out-of-Control AI Spending, Reportedly Quits Meta - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnFDVXZfZlVsYnhwZ1c2aHlGTGFTaS1lU3V0Y0FYajNlWV80Y1o4eEd6MGRrRVR4cV9ManFFMjRGX0FqWFJMVTRsQVpyaVZLLWJ1MnMxc0s2N2Nlc2V6ZXlrV0Q0OFlOTzlZMHpQSXc0ZUFud3RKbUdLbDBiY2dkUnRVc0h0WTQ1SC1aeUE5OXVXYVNPYm5uOGhocWhTbnRKSTZMa0pPcV9mSGg5Nnl2Rg?oc=5",
+      "summary": "Andrew Tulloch, Poster Child for Out-of-Control AI Spending, Reportedly Quits Meta Gizmodo",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
+      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US TechCrunch Meta’s Muse AI works and creeps me out The Verge Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel The N",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
       "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
       "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
@@ -383,22 +407,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
       "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters Futurism",
       "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhlTEo3OEVNYXY4WURMVVBqS2p5N05IbXpWZXhfMTF6amloZDE4UXFHLTFxRjlnVTMzakZaNkZfZUlfU2p3WE41NXdtbVV6dEc2TzBMNmVDSkFwSWlOV2NfYW5tNk81VG9JYXVsZzFMVWx3dk94dkR2enZPWU5pRkZabzVQbjVK?oc=5",
-      "summary": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated yahoo.com",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
-      "title": "Sure, Meta’s AI Muse works, but it sure creeps me out - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
-      "summary": "Sure, Meta’s AI Muse works, but it sure creeps me out The Verge Meta Launches a Personal AI Agent Designed to Be Easy to Use WSJ Introducing Muse: The World’s First Personal AI Agent Built for Everyon",
-      "badge": "hot",
       "date": "2026-09-10"
     },
     {
@@ -502,14 +510,6 @@
       "title": "Small Business Tech News: Intuit Adds Perplexity And Younger Workers Are More Scared Of AI - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbV9wc2NpNVd6Y0k3cmFUVWJrdkpZRFZ6NldXZ3lRbXgxSnhNMEVUYUV3VnlHY2VVTlJwV0huTUpHOXY2RXFxVm9nblpZT0gzSFhZd3lWYVNydm1Wal9SSTk0VzE3M1pnbTZLckFPSmU5Mm14VlhMU2J5NXUxdV8wVy1QMEQ0eklXbDktb1BmNFl6c2N3N1MxRElKX2lvQVIzNjlGeENUMjN5YU93bnZwTVFMVDl5RzJKdWxCakdCdUZjZjlUYXZJMWNUaXdtZGZURWNRTzQ3aFlVSlprWWFyOWswTQ?oc=5",
       "summary": "Small Business Tech News: Intuit Adds Perplexity And Younger Workers Are More Scared Of AI Forbes",
-      "badge": "new",
-      "date": "2026-09-06"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWNxbjVwOGZPSEEtNUw3ejFBN3pZdmVxaFh4aWRZaU82dU9XVUoyOEF1ZVBibjdfVDgzZXVGQ1RUakpBMXg1LVI2UWxvZV9xMmpIeGtOVFdFX0N2c01vRFRRb0xFcm9OdlVxNVkxSDduM0xjTVQwcXRDZWVNUGh5TF9ZSDhvY29GYjFkS2h6cWJQemoxTDFMX1F4dVR3OWMtVmhHb19MYWdYOWFWV0d0eFpGVVdPejB3Y3l6QXppUlTSAcYBQVVfeXFMUEgxS3hHZGRSaWFYc3ZpX25kUks1WXFZTXVrb3dDRVc1aVRWM1BWRDBpZXZhNmRFNHJmelMxdW44UW50eVJ1MFc5R2tIcGlXaUR1STYwLUdTS0c5V1YwUDREQ1JFcm1NNFNOOG91bTMzOGpJRFNxV185OF9CNkxsTVA3X1pPY2NQeWxQM3pNYmgwb2pQUUVCSWdEWHhmc2hyNmJRR3NQQmJxR29rdGtRQjhFcHlnNHhqU3ZFSlZMbFZMbFpCR25B?oc=5",
-      "summary": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed MarkTechPost",
       "badge": "new",
       "date": "2026-09-06"
     },
