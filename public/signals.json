@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:57:25Z",
+  "updated": "2026-09-13T15:28:43Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -8,6 +8,14 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "badge": "new",
       "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic whistleblower says Congress should let AI companies regulate themselves until a regulatory body is established - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHJiejZmZWtfSkNFSDFjSGZoRmRPYTMxd3VHcVdfUWRDRjZLenR0WndKTTJMdFB4bko3UjRMRXRlOHJka010TmtTTThlcFFSaEQyM0pEWTVNd2h1cUNYNXN1VkVza19lM01FMXJBX1JFY2lOTFBIb3dudzBtb0h4dmF3OHgyMVFRR09mR3lYSDViWkMyUmpoOG9wejg5aUpSdW1YSmpWc1E?oc=5",
+      "summary": "Anthropic whistleblower says Congress should let AI companies regulate themselves until a regulatory body is established NBC News",
+      "badge": "new",
+      "date": "2026-09-13"
     },
     {
       "company": "Anthropic",
@@ -69,7 +77,7 @@
       "company": "Anthropic",
       "title": "We Must Pace the Frontier - darioamodei.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
-      "summary": "We Must Pace the Frontier darioamodei.com Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown The New York Times Anthropic’s Moral Conflict Is Playing Out in Real Time WSJ",
+      "summary": "We Must Pace the Frontier darioamodei.com Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown The New York Times OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development thegu",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -122,14 +130,6 @@
       "date": "2026-09-12"
     },
     {
-      "company": "Anthropic",
-      "title": "How Chinese AI Firms Tried to Clone U.S. AI Models - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGswOXZNYVNvdzV2SzRHVC1aM0lGM01aNHVnMlRRQWVZYkFhTGh0dzE4UkRER042RU5kQnVmUVY3X282ZmgzYUtJYU5uSnhyZTV1eWlsaDdKcHBjQ28tQnQzd09XUm9KczY4SFB1c1hEZ2xfS203RExlZDU5OUZRcHZ4YUNUdG5JbzByNFlqWi10ZVlXcmxVNExXODR6dEp4X1FjbERSckRRQ0ZNcVhiMGxR?oc=5",
-      "summary": "How Chinese AI Firms Tried to Clone U.S. AI Models WSJ",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
@@ -147,17 +147,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX3VrU2JCYnc1cEgwbG94d3M4aFRqcDNKWlFwTVFBNHNlNkFWbVU0Z0l5eWx2Y2RlNDVrVEZhNG0tWVFvZ242Tm10RlByNHV5ZEhCSVg0b3lzZUQ4aDk2Zm1wZFUxb0Z6bldlbXE1akp6WWR6LWNWLWlIb3Zob1Rra2FxRWE3YVFiYng2V0h6VjVFbGhLU280aTBWaV9Fb1ZCTjhQd1hONXJfRjlMYmdzU0Vjdi10d2ZmSFQ0Z2xZRzUzYnd6OF9wUERGZnc2ZFhQdkk2M09iVDUycEl2TXpJOElWb2dqbmk2RGV6WVhkUVZSME85NEVRMzFUZklITDZWUmc?oc=5",
-      "summary": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo New York Post",
+      "title": "How To Get Started With Meta's New AI Agent, Muse - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lUVE9KRmtVQlEzWlNhWGJWYVl6U09RVnV2VmNaZkw4WXAwTDEwSFR2WTVZMDZzMEVQQTg2QktTcHZZX2NrcGJVWnotMWFqY2JKMnZQMkRlU2NTREZXbXN4cXlTaWVGVEN3NHRiMnZNdHZSMF9OZjFzZGVIRUZlbHRtV1N0cUtJYkE?oc=5",
+      "summary": "How To Get Started With Meta's New AI Agent, Muse Engadget",
       "badge": "new",
       "date": "2026-09-12"
     },
     {
       "company": "Meta",
-      "title": "How To Get Started With Meta's New AI Agent, Muse - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lUVE9KRmtVQlEzWlNhWGJWYVl6U09RVnV2VmNaZkw4WXAwTDEwSFR2WTVZMDZzMEVQQTg2QktTcHZZX2NrcGJVWnotMWFqY2JKMnZQMkRlU2NTREZXbXN4cXlTaWVGVEN3NHRiMnZNdHZSMF9OZjFzZGVIRUZlbHRtV1N0cUtJYkE?oc=5",
-      "summary": "How To Get Started With Meta's New AI Agent, Muse Engadget",
+      "title": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX3VrU2JCYnc1cEgwbG94d3M4aFRqcDNKWlFwTVFBNHNlNkFWbVU0Z0l5eWx2Y2RlNDVrVEZhNG0tWVFvZ242Tm10RlByNHV5ZEhCSVg0b3lzZUQ4aDk2Zm1wZFUxb0Z6bldlbXE1akp6WWR6LWNWLWlIb3Zob1Rra2FxRWE3YVFiYng2V0h6VjVFbGhLU280aTBWaV9Fb1ZCTjhQd1hONXJfRjlMYmdzU0Vjdi10d2ZmSFQ0Z2xZRzUzYnd6OF9wUERGZnc2ZFhQdkk2M09iVDUycEl2TXpJOElWb2dqbmk2RGV6WVhkUVZSME85NEVRMzFUZklITDZWUmc?oc=5",
+      "summary": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo New York Post",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -179,9 +179,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac",
+      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5mac.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0NOZ1BGM3BYMmd2OE5iZUs1NjlPMk1PMFR6U0U0WllqLU1rZmJRZHYyT3R4Qy1QXzV2RzhVYWk1dHZiUFAzSGRBVWp3Vm0wS2tEZl90S3NzTFhVNVBweEJoSkNodkxpbUt2Vm9Ud2RTdDBkNUtoaFJwODFRRmJoSEFFTDQ3WkJJUFY3a01GcGZIQ0xVSHVESkZKMHpCd3Z2cjRB?oc=5",
-      "summary": "CarPlay now works with six major AI chatbot apps, leaving one key holdout 9to5Mac",
+      "summary": "CarPlay now works with six major AI chatbot apps, leaving one key holdout 9to5mac.com",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -243,17 +243,17 @@
     },
     {
       "company": "Meta",
-      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
-      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore Business Insider",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5",
+      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems WIRED",
       "badge": "new",
       "date": "2026-09-11"
     },
     {
       "company": "Meta",
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5",
-      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems WIRED",
+      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
+      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore Business Insider",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -331,9 +331,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Build apps in Copilot Cowork and Copilot Studio - Microsoft",
+      "title": "Build apps in Copilot Cowork and Copilot Studio - microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
-      "summary": "Build apps in Copilot Cowork and Copilot Studio Microsoft",
+      "summary": "Build apps in Copilot Cowork and Copilot Studio microsoft.com",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -347,17 +347,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
-      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
+      "title": "Microsoft wants SharePoint customers to use Copilot to author content - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVVWci1BQ2RFU001QnVIUmhjZ0JyTmwwd05iRXVaRFZ4cVhhLXU1aHE1N3JkOXM0Ulh3NkZDNzVqSFlXenZCNkkwOV9MQUhlSFNmaEo4LWk3UkFOVHVETlc4REprV1pGQ0pZa05VLTNJNUc5Y0c4ZzdoakxOM3hJRFlvaDhTendxdzEyN0dQVGtVRGI4a0hoaGxWTnljUFk?oc=5",
+      "summary": "Microsoft wants SharePoint customers to use Copilot to author content Neowin",
       "badge": "new",
       "date": "2026-09-10"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft wants SharePoint customers to use Copilot to author content - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVVWci1BQ2RFU001QnVIUmhjZ0JyTmwwd05iRXVaRFZ4cVhhLXU1aHE1N3JkOXM0Ulh3NkZDNzVqSFlXenZCNkkwOV9MQUhlSFNmaEo4LWk3UkFOVHVETlc4REprV1pGQ0pZa05VLTNJNUc5Y0c4ZzdoakxOM3hJRFlvaDhTendxdzEyN0dQVGtVRGI4a0hoaGxWTnljUFk?oc=5",
-      "summary": "Microsoft wants SharePoint customers to use Copilot to author content Neowin",
+      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
+      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -403,14 +403,6 @@
     },
     {
       "company": "Meta",
-      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
-      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters Futurism",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Meta",
       "title": "Meta is asking some of its employees to become managers again in a new reorg - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHRGbVRFaFNZX2UybHBMb0wxZ0stbnBPdDcxd0staUxXZHRDbXJzVE1nNEh6cWhNYUF0empEaDZxQlY5MVhfbjh1LVJXMERKeWZseU95cXdTeHVQN0ZCc3BUNTF3bFdRMU85dHBPWE81bG9xampyVG50YjBEVVlsclhWMzQxSGhoNTFsTWNkODN5Z2RQVEE?oc=5",
       "summary": "Meta is asking some of its employees to become managers again in a new reorg Business Insider",
@@ -419,10 +411,18 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
-      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US TechCrunch How To Get Started With Meta's New AI Agent, Muse Engadget Meta launches AI agent that can access other apps to send emails, make payment",
-      "badge": "hot",
+      "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
+      "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
+      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters Futurism",
+      "badge": "new",
       "date": "2026-09-10"
     },
     {
