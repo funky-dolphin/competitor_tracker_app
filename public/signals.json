@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:02:54Z",
+  "updated": "2026-09-13T02:43:26Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -11,17 +11,57 @@
     },
     {
       "company": "Anthropic",
-      "title": "We Must Pace the Frontier - darioamodei.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
-      "summary": "We Must Pace the Frontier darioamodei.com Top A.I. Leaders Call for Slowing Down A.I. Development The New York Times Anthropic CEO says AI industry needs to give safety measures time to catch up PBS",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5",
+      "summary": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC BBC",
       "badge": "new",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-09-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "badge": "hot",
+      "date": "2026-09-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+      "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.",
+      "badge": "new",
+      "date": "2026-09-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils Apple Watch Ultra 4",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.",
+      "badge": "hot",
+      "date": "2026-09-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
+      "badge": "hot",
+      "date": "2026-09-13"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - bostonherald.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUFvSkdiWE02d015Slg5a0FYakJKZ0s3Y0IzLXhNQTBnMURXUzhKeG9xZU0tT0MzclNsdzlJNmN1ZExwZUwtSEpFNU8zSl96RW9qM3FmSnFCZ3dOLWNpVFU2a0ZLMFZpd3NhUER1QnV4d2NMZDltNkxaajFWZWpVOHJLNHl1TE43aktmRE43TkpXX1o3NjlRbzFkS3p4S3BSdVY4THlLR0hpS21wRDBqN1JFY0xELUMyLXlWeUtNNk9DOW5FYUJRYXpZaw?oc=5",
-      "summary": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up bostonherald.com",
+      "title": "We Must Pace the Frontier - darioamodei.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+      "summary": "We Must Pace the Frontier darioamodei.com Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown The New York Times Anderson tells Anthropic CEO why AI has him scared for his kids’ futures | CNN Busine",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -30,6 +70,14 @@
       "title": "Here's who stands to make money from the Anthropic IPO - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVpmU0JnRFZzaXNNSXlMZzQtVkwyNHB6dzc0bldFRldIRFpYdGRVNm1zRTFhWUVRNkZmR3ZJcnVTc1RLS0k5dHpmaEdYZ0tWTHFPUkhnMzdJb014a1paR1NBalljbE1vOUNMTlhhc0hXQ2J5Yms5NmVVZm1XS0NlV1BWYmo4X3BSMmh0R3ZzVk53UTVQbHlSX21La0ZOd0NMVmNvYV9kZ3lNQVk0a2tj?oc=5",
       "summary": "Here's who stands to make money from the Anthropic IPO Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - bostonherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUFvSkdiWE02d015Slg5a0FYakJKZ0s3Y0IzLXhNQTBnMURXUzhKeG9xZU0tT0MzclNsdzlJNmN1ZExwZUwtSEpFNU8zSl96RW9qM3FmSnFCZ3dOLWNpVFU2a0ZLMFZpd3NhUER1QnV4d2NMZDltNkxaajFWZWpVOHJLNHl1TE43aktmRE43TkpXX1o3NjlRbzFkS3p4S3BSdVY4THlLR0hpS21wRDBqN1JFY0xELUMyLXlWeUtNNk9DOW5FYUJRYXpZaw?oc=5",
+      "summary": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up bostonherald.com",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -82,54 +130,6 @@
       "date": "2026-09-12"
     },
     {
-      "company": "Anthropic",
-      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5",
-      "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says The Washington Post",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
-      "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "badge": "hot",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-      "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils Apple Watch Ultra 4",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.",
-      "badge": "hot",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
-      "badge": "hot",
-      "date": "2026-09-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
@@ -139,17 +139,17 @@
     },
     {
       "company": "Meta",
-      "title": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX3VrU2JCYnc1cEgwbG94d3M4aFRqcDNKWlFwTVFBNHNlNkFWbVU0Z0l5eWx2Y2RlNDVrVEZhNG0tWVFvZ242Tm10RlByNHV5ZEhCSVg0b3lzZUQ4aDk2Zm1wZFUxb0Z6bldlbXE1akp6WWR6LWNWLWlIb3Zob1Rra2FxRWE3YVFiYng2V0h6VjVFbGhLU280aTBWaV9Fb1ZCTjhQd1hONXJfRjlMYmdzU0Vjdi10d2ZmSFQ0Z2xZRzUzYnd6OF9wUERGZnc2ZFhQdkk2M09iVDUycEl2TXpJOElWb2dqbmk2RGV6WVhkUVZSME85NEVRMzFUZklITDZWUmc?oc=5",
-      "summary": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo New York Post",
+      "title": "Meta Pulls Invasive AI Prompts After Mother Reveals Feature Scraping Family Data - CNET",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDRZMDQ2LUctREVJaXZWVWJUdDNNZWZaTVltalZvaURJcm5yZVk3OUdiZEFWQVNOLUthVHByV2JYQVdVamVzaDhqd3k5dlVheGRhNXM4VHM2WVJMd0lsaU1RcUh5MGhQdVNEdXYwblVLcGRkd1Vtc2p5bVRwWVFiYXNPOHRQRi05dkx0a2lzSEtfVXJuNWx1N2ZrVDY?oc=5",
+      "summary": "Meta Pulls Invasive AI Prompts After Mother Reveals Feature Scraping Family Data CNET",
       "badge": "new",
       "date": "2026-09-12"
     },
     {
       "company": "Meta",
-      "title": "Meta Pulls Invasive AI Prompts After Mother Reveals Feature Scraping Family Data - CNET",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDRZMDQ2LUctREVJaXZWVWJUdDNNZWZaTVltalZvaURJcm5yZVk3OUdiZEFWQVNOLUthVHByV2JYQVdVamVzaDhqd3k5dlVheGRhNXM4VHM2WVJMd0lsaU1RcUh5MGhQdVNEdXYwblVLcGRkd1Vtc2p5bVRwWVFiYXNPOHRQRi05dkx0a2lzSEtfVXJuNWx1N2ZrVDY?oc=5",
-      "summary": "Meta Pulls Invasive AI Prompts After Mother Reveals Feature Scraping Family Data CNET",
+      "title": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX3VrU2JCYnc1cEgwbG94d3M4aFRqcDNKWlFwTVFBNHNlNkFWbVU0Z0l5eWx2Y2RlNDVrVEZhNG0tWVFvZ242Tm10RlByNHV5ZEhCSVg0b3lzZUQ4aDk2Zm1wZFUxb0Z6bldlbXE1akp6WWR6LWNWLWlIb3Zob1Rra2FxRWE3YVFiYng2V0h6VjVFbGhLU280aTBWaV9Fb1ZCTjhQd1hONXJfRjlMYmdzU0Vjdi10d2ZmSFQ0Z2xZRzUzYnd6OF9wUERGZnc2ZFhQdkk2M09iVDUycEl2TXpJOElWb2dqbmk2RGV6WVhkUVZSME85NEVRMzFUZklITDZWUmc?oc=5",
+      "summary": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo New York Post",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -171,17 +171,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0NOZ1BGM3BYMmd2OE5iZUs1NjlPMk1PMFR6U0U0WllqLU1rZmJRZHYyT3R4Qy1QXzV2RzhVYWk1dHZiUFAzSGRBVWp3Vm0wS2tEZl90S3NzTFhVNVBweEJoSkNodkxpbUt2Vm9Ud2RTdDBkNUtoaFJwODFRRmJoSEFFTDQ3WkJJUFY3a01GcGZIQ0xVSHVESkZKMHpCd3Z2cjRB?oc=5",
-      "summary": "CarPlay now works with six major AI chatbot apps, leaving one key holdout 9to5Mac",
+      "title": "Gemini is finally on Windows 11, but there’s a shortcut clash - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR3pfZ19mUHNBcTNsS0RSeU85Z0VlWldDLV9seXVoMXVrZWJBUEFwSVZnMEo0TGREOEk0Qi1vNkd0Z2oxRmdYUERiUXhVMUZmQV84bWVOOXQwX0RwUXk1VDBZMC11djRheWV2YUtNdGE1dXNTRVN6QTlELWg1bDRtdE5JWkN4THFLUjBDLUFoLUtzYlRwUFE5YTRUcFVfM0l5ekxSdFVuMllnN1NYSDN6NUFfWVM2Szg1aEpxQ2xvbXdPMGEwLUw0VXN4NldEUE12MHFVNXJlWTVPWElSbmxBY29yWQ?oc=5",
+      "summary": "Gemini is finally on Windows 11, but there’s a shortcut clash Windows Central",
       "badge": "new",
       "date": "2026-09-11"
     },
     {
       "company": "Microsoft",
-      "title": "Gemini is finally on Windows 11, but there’s a shortcut clash - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR3pfZ19mUHNBcTNsS0RSeU85Z0VlWldDLV9seXVoMXVrZWJBUEFwSVZnMEo0TGREOEk0Qi1vNkd0Z2oxRmdYUERiUXhVMUZmQV84bWVOOXQwX0RwUXk1VDBZMC11djRheWV2YUtNdGE1dXNTRVN6QTlELWg1bDRtdE5JWkN4THFLUjBDLUFoLUtzYlRwUFE5YTRUcFVfM0l5ekxSdFVuMllnN1NYSDN6NUFfWVM2Szg1aEpxQ2xvbXdPMGEwLUw0VXN4NldEUE12MHFVNXJlWTVPWElSbmxBY29yWQ?oc=5",
-      "summary": "Gemini is finally on Windows 11, but there’s a shortcut clash Windows Central",
+      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0NOZ1BGM3BYMmd2OE5iZUs1NjlPMk1PMFR6U0U0WllqLU1rZmJRZHYyT3R4Qy1QXzV2RzhVYWk1dHZiUFAzSGRBVWp3Vm0wS2tEZl90S3NzTFhVNVBweEJoSkNodkxpbUt2Vm9Ud2RTdDBkNUtoaFJwODFRRmJoSEFFTDQ3WkJJUFY3a01GcGZIQ0xVSHVESkZKMHpCd3Z2cjRB?oc=5",
+      "summary": "CarPlay now works with six major AI chatbot apps, leaving one key holdout 9to5Mac",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -203,9 +203,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent - Jones Day",
+      "title": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent - jonesday.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamhHbUU1MFowZXdSXzV4c0x4Z2pPaVd1a2VRWGxUZlFxUVJ6S24zLXhsSXdZWUxxc090U2ExWVVOUlJYcTJNcnBveWoycEdBeVNLMlNDTFkwZTV6RDNQb3N6WDVXR1F3aDUzR2k2TGh3U0R0eU9yM01oc3pwS3NfRlBIOVFqaFJaLXpyTlRIWUh1Y2FtNmRQRjh3XzlrY2RrcEFQMTNKT21GSDFLSFFFdGd6N1A3Qmxw?oc=5",
-      "summary": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent Jones Day",
+      "summary": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent jonesday.com",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -235,9 +235,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5",
-      "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions The Verge",
+      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
+      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore Business Insider",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -251,9 +251,9 @@
     },
     {
       "company": "Meta",
-      "title": "Parents loved sharing photos of their kids online. Then came AI. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
-      "summary": "Parents loved sharing photos of their kids online. Then came AI. Business Insider",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5",
+      "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions The Verge",
       "badge": "new",
       "date": "2026-09-11"
     },
