@@ -1,11 +1,43 @@
 {
-  "updated": "2026-09-14T02:57:59Z",
+  "updated": "2026-09-14T11:31:57Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0T2hiNDk0X2Z1YldEc2JwUTFSU19zVFd3eTdMaHUyZlA3Z0ljdnZOS2FBZlAxNWo2ZVE3ODdYVFNDeWNtWnlleGR0OTZ4OEJTX3lmX1JvVUhlLWgwVVg0aW4tcllVVlJfVEFMTUFKNFNsMVplR2pB?oc=5",
+      "summary": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks CBS News What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times Tech stocks fall after calls ",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Should Anthropic press pause on a potential $2trn IPO? - economist.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVRnckxlRnNIdjY3T3JfQ0NmVG5IOFBjUUZHbzdaaldmaEw1cVpkajdoSjRYcDF2d3pMNDVXRkN0MERZZ0dRMnlLN1pkdEtBdk1UQnotQzZNdERpN0tQWUw0Q2tvWmM4NEs1aUh5Z1dxeDBLVjd6aUExUVQ2NUxQZmxidG91RFNpVnR1YzhRRHRrMnE2WDFiVEdYZnB3NFk?oc=5",
+      "summary": "Should Anthropic press pause on a potential $2trn IPO? economist.com",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic selects Nasdaq for planned IPO listing - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOSmdyZG9paENxekRHUEM5Y0hOdmVfaVY4b2U1dFY5Tk1nWklveHk2OXQ0OGdud0lMNmhsUVloUFBISEloSU1Ga2hHT0h6UHE4MVZDM3BQd2pVM0FfMDEw?oc=5",
+      "summary": "Anthropic selects Nasdaq for planned IPO listing qz.com",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0x1dy1VVUlFQXJ2c2hKQ2xuY2s4Ukk2SGpodktxVEJnQU9YNzhrVVVLRHFUd0diMWFCdTg3VFh2QkZGbG1EN2tKdGg1R196Q2Fya3I4WmNkcERQd2VsYW9icnNxejRrOERpZlVKTTVrOWVoLUx0SUJhcERpbU9qSk5VdjFOeV9k0gGOAUFVX3lxTE5QSWhQNnEzV0Y0LWdDalpDVUN5V0lyWU9ITXFXa2V3TjROd3VkQV9nMjJRS3drZEVUVWNHRngzeUYtOVVvazcza00wdFhZZTh1YXRVc2s2SHY1U0d2RFFRandZa3c0ZHBUWnh2Rkc5UGZ1b1FoWkktM21uV0hWMGpQcTQ0RDBWbFJla1JzX3c?oc=5",
+      "summary": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' CNBC",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -67,6 +99,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic tells investors it will be profitable for second straight quarter - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEJ6YVJJNkh0djM5TC1ZNW9wSkJoeU1nMDA1dmpxeW5XdjR1cmVlZzUzeEJLbHFfQm9KMFNhbkY2S2N1bHV1V2xncGtBMERtRzItTlFqUEFBVHZ0LUJwSDY2eTA5c21rS3hEdzBlWVZNMHgyalBTbnZ3MjgtbEozU00yUnY?oc=5",
+      "summary": "Anthropic tells investors it will be profitable for second straight quarter Financial Times",
+      "badge": "new",
+      "date": "2026-09-13"
+    },
+    {
+      "company": "Anthropic",
       "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
       "summary": "Washington scrambles to meet calls for AI guardrails while the window to act closes CNBC",
@@ -86,22 +126,6 @@
       "title": "What’s behind the AI industry’s latest warnings of doom? - techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGhlTzc5NDNLaEJwYk1GMmh0OF9UeTRLN2RQaGRaU0lSdWhqalREb0FHRFcyenFYclcweGE0ZXZBc2t3NEF1UzhldnpVZ3BwdjFuV3U4bURZWUh3ME9Ma1dMQm5NX2Y4MGZWdUZzcWV3LWpYOXNZZW5UWDJwbHdtR20wTTlMRThkZUVWTzZfak5jZw?oc=5",
       "summary": "What’s behind the AI industry’s latest warnings of doom? techcrunch.com",
-      "badge": "new",
-      "date": "2026-09-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUNzQU5iTlA4SG9SV0NiM3lQR0podWt3QmFxS3Z3Y2Y3MmtBN2RtQ21sNEMtLVFTUVBvRDRpX2szcTV0UGxCalFfeEljTEYxQ29lblBsYzVFamNtTEJHend2WTZTOGdlSzU1NmdsVjJuR2NzOUIxbVlqb0JkdnhENTFsUWZYbGc3MDJPaG44Mm9Hc3lPX2JFaWtpQ0Vvb1lVM21zMTR5anNXWURPMU05d1RYQ1c?oc=5",
-      "summary": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic whistleblower says Congress should let AI companies regulate themselves until a regulatory body is established - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHJiejZmZWtfSkNFSDFjSGZoRmRPYTMxd3VHcVdfUWRDRjZLenR0WndKTTJMdFB4bko3UjRMRXRlOHJka010TmtTTThlcFFSaEQyM0pEWTVNd2h1cUNYNXN1VkVza19lM01FMXJBX1JFY2lOTFBIb3dudzBtb0h4dmF3OHgyMVFRR09mR3lYSDViWkMyUmpoOG9wejg5aUpSdW1YSmpWc1E?oc=5",
-      "summary": "Anthropic whistleblower says Congress should let AI companies regulate themselves until a regulatory body is established NBC News",
       "badge": "new",
       "date": "2026-09-13"
     },
@@ -131,9 +155,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "GPT-6 Astra Usage Transforms Perplexity AI Systems - The Cryptonomist",
+      "title": "Perplexity trusts GPT-6 Astra usage to run its systems solo - The Cryptonomist",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tYUFKangzNTZOTVFneXRpQ2F5S0tscE5RVFptcEhKejBYQ0JFWnpaN3QyaWhHT3ZxbERXNVctTHllSGpJQkp4UTFXbGJkOXpWS3JuNGZwdzRqb2xvQjl2YTdfNmE1UkRiaWJrY3F0cEdacEtaWmc?oc=5",
-      "summary": "GPT-6 Astra Usage Transforms Perplexity AI Systems The Cryptonomist",
+      "summary": "Perplexity trusts GPT-6 Astra usage to run its systems solo The Cryptonomist",
       "badge": "new",
       "date": "2026-09-13"
     },
@@ -144,30 +168,6 @@
       "summary": "I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants. Business Insider",
       "badge": "new",
       "date": "2026-09-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "We Must Pace the Frontier - darioamodei.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
-      "summary": "We Must Pace the Frontier darioamodei.com What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development The New York Times Anthropic's Amodei says China presents 'toughest dilemma' for his pr",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Here's who stands to make money from the Anthropic IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVpmU0JnRFZzaXNNSXlMZzQtVkwyNHB6dzc0bldFRldIRFpYdGRVNm1zRTFhWUVRNkZmR3ZJcnVTc1RLS0k5dHpmaEdYZ0tWTHFPUkhnMzdJb014a1paR1NBalljbE1vOUNMTlhhc0hXQ2J5Yms5NmVVZm1XS0NlV1BWYmo4X3BSMmh0R3ZzVk53UTVQbHlSX21La0ZOd0NMVmNvYV9kZ3lNQVk0a2tj?oc=5",
-      "summary": "Here's who stands to make money from the Anthropic IPO Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - bostonherald.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUFvSkdiWE02d015Slg5a0FYakJKZ0s3Y0IzLXhNQTBnMURXUzhKeG9xZU0tT0MzclNsdzlJNmN1ZExwZUwtSEpFNU8zSl96RW9qM3FmSnFCZ3dOLWNpVFU2a0ZLMFZpd3NhUER1QnV4d2NMZDltNkxaajFWZWpVOHJLNHl1TE43aktmRE43TkpXX1o3NjlRbzFkS3p4S3BSdVY4THlLR0hpS21wRDBqN1JFY0xELUMyLXlWeUtNNk9DOW5FYUJRYXpZaw?oc=5",
-      "summary": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up bostonherald.com",
-      "badge": "new",
-      "date": "2026-09-12"
     },
     {
       "company": "Perplexity",
@@ -251,6 +251,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent - Jones Day",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamhHbUU1MFowZXdSXzV4c0x4Z2pPaVd1a2VRWGxUZlFxUVJ6S24zLXhsSXdZWUxxc090U2ExWVVOUlJYcTJNcnBveWoycEdBeVNLMlNDTFkwZTV6RDNQb3N6WDVXR1F3aDUzR2k2TGh3U0R0eU9yM01oc3pwS3NfRlBIOVFqaFJaLXpyTlRIWUh1Y2FtNmRQRjh3XzlrY2RrcEFQMTNKT21GSDFLSFFFdGd6N1A3Qmxw?oc=5",
+      "summary": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent Jones Day",
+      "badge": "new",
+      "date": "2026-09-11"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon - courthousenews.com",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNazZUenNuWnZOUXM2c2ZWckh6LUlQbEUwUVJDTWRPQlpVbHJzcUtIN2EwbEtmOWRKU0tVMUcwZUJQWng2am10SzgzWVJnalRnbGNVQnN3c0RHTlQ2WFMwUm5sSWdBV0ZWRDZKR2pFblJoWW1ieXlCX3IzdXQ2N3lSUXB3dUNGb0Fhd01SSnJlaGFsYXJtZ0steDg3dE5walZVMDRYRDFNQmNsMDVJZXlmWEZwd2Y1MU5FUkJTOE1iUXctSzZKSk5wb0hMMUZlZjVCUktsMjljUXNOMldIM0dlelRVTmVWV3hDbkRjNmhpTTEwRElwN212ZGdYcVM5LXEzdXl0YmtJT2NzMjRGZ09HVGxlM2thZENSUkhkNndFNjBJQXhyS3hpd2NoN0VvSE8ySUI5QzFzZDhMR0FpM2hxMTN4NkQ2QnFZOGt1bDFncWt3UWp2cHl4eTY1YnZzWlJjRW5RM08zS1FYMG8?oc=5",
       "summary": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon courthousenews.com",
@@ -262,14 +270,6 @@
       "title": "Perplexity AI says appellate ruling dooms Amazon US lawsuit over AI agents - MLex",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uRWF3VTFEeXNTVWVrMGhaM08zQU5jZURUcC1rRjVjMTBuUmtBaW9RRllMZktnTmFfR1pvbmJkZktGRUFURkNhZnJ2R0N2TFZQQkpRZmNoNVJsQdIBWkFVX3lxTE5uRWF3VTFEeXNTVWVrMGhaM08zQU5jZURUcC1rRjVjMTBuUmtBaW9RRllMZktnTmFfR1pvbmJkZktGRUFURkNhZnJ2R0N2TFZQQkpRZmNoNVJsQQ?oc=5",
       "summary": "Perplexity AI says appellate ruling dooms Amazon US lawsuit over AI agents MLex",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent - Jones Day",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamhHbUU1MFowZXdSXzV4c0x4Z2pPaVd1a2VRWGxUZlFxUVJ6S24zLXhsSXdZWUxxc090U2ExWVVOUlJYcTJNcnBveWoycEdBeVNLMlNDTFkwZTV6RDNQb3N6WDVXR1F3aDUzR2k2TGh3U0R0eU9yM01oc3pwS3NfRlBIOVFqaFJaLXpyTlRIWUh1Y2FtNmRQRjh3XzlrY2RrcEFQMTNKT21GSDFLSFFFdGd6N1A3Qmxw?oc=5",
-      "summary": "Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent Jones Day",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -291,17 +291,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5",
-      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems WIRED",
+      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
+      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore businessinsider.com",
       "badge": "new",
       "date": "2026-09-11"
     },
     {
       "company": "Meta",
-      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
-      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore Business Insider",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5",
+      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems WIRED",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -435,17 +435,17 @@
     },
     {
       "company": "Meta",
-      "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
-      "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
+      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
+      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters futurism.com",
       "badge": "new",
       "date": "2026-09-10"
     },
     {
       "company": "Meta",
-      "title": "Meta is asking some of its employees to become managers again in a new reorg - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHRGbVRFaFNZX2UybHBMb0wxZ0stbnBPdDcxd0staUxXZHRDbXJzVE1nNEh6cWhNYUF0empEaDZxQlY5MVhfbjh1LVJXMERKeWZseU95cXdTeHVQN0ZCc3BUNTF3bFdRMU85dHBPWE81bG9xampyVG50YjBEVVlsclhWMzQxSGhoNTFsTWNkODN5Z2RQVEE?oc=5",
-      "summary": "Meta is asking some of its employees to become managers again in a new reorg Business Insider",
+      "title": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5",
+      "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
       "badge": "new",
       "date": "2026-09-10"
     },
