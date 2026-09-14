@@ -1,11 +1,59 @@
 {
-  "updated": "2026-09-14T11:31:57Z",
+  "updated": "2026-09-14T17:27:55Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
     {
       "company": "OpenAI",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+      "summary": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown The New York Times Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei CNBC China bristles at Anthropic CEO’s ‘fearmongeri",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVqYlhKSFp5YWZUb0s2NWhMSnctcTZYdkNHemFJenk1d2VLTGNQemlYLTd6WWRNbllDSjBLcmtQcFVsV2xybm8tMXlOM3ZmY2RqV1ZxN3lpV0FpVjNSTGY1MmpJMUIyZGlZVHA0UWgtN1pKQzQ5VDg0bjdTN1N5WlhlRG50WmNSNC1vQTZTZGk0NnA1aF9FS1dVbjJXZ245?oc=5",
+      "summary": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump criticises AI boss who called for slowdown and says only guardrail needed is a 'smart president' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5",
+      "summary": "Trump criticises AI boss who called for slowdown and says only guardrail needed is a 'smart president' BBC",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdG5IWVhSRWZTSjdWOTk5X280Wk5HYjlPVExVMlViNUxRc1QzUndDQ2V2X19sV0djQ0haQy00YVJQNjkwXzlNazJFbi1fbm0xSGtTUFhOTlZKVnE3eGVKa3ZkRmxDZlZXOGNMMFhHYmt0UVg2N1NtVnVvMUozdw?oc=5",
+      "summary": "How the Clash Between Money and Safety Created a Monumental Crisis for AI WSJ",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVA3MVBIMmU2QnZmQ0ZrNDFpRWJfampJcnZKc3pSVXd0SlNZUEEtNG1QVXg0ekluSVpmQnR3SHRsY0MyMnNtVGFUNTVpZDhkRHpCWE9fWWczeU8tM1lsdnlUVVZBNmVLODQxSFU5YmYyakxiSjRrdkF6UVl6WEx5ZjNsWTVYaGZOeERMbFpJUUU4Yk5ZRU5fUnp6cW9BNy01Z2FhZi1lMVlhbWdySy1sX3pzWQ?oc=5",
+      "summary": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide The Guardian",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -50,10 +98,58 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Anthropic",
-      "title": "MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSllsUVJYdGdsYVFkeWtpT1d3SHRYS1lvbkhtcUVtRFJfTVEyUmVwRjNsSG8xMGNrSEhtYVoweFE4dFZzMGFoeHdBTVJCcklCZVYtZFVwaTBYSzJMQkFSaUg3dUw0VXBNOHQtdENIUUdoQ3RCNkJ1YXZFaWVsV3FTVmNrYjl3MUVfV3lBRzVRTQ?oc=5",
-      "summary": "MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown Yahoo Finance",
+      "company": "Google",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2FZT2VIMFZmS0xkQ2hZQ3FtbmRubnFDb3B2TGVyTkRqN1FXYU9iekttYW5EbGdEenczV1R4V3FncTlOa0xZckJsaFJNQ1lfS1kxdm5adm4yemxKSGJnWUhwOUFoa2lRdk5rSDhidUVINENlY21kcmoxZVlQbHV1TzA1YkJWSVRiWG9IQkdpQkJOZ0RkSm1LWFhzdmlqNG5VNU9VbVJtLXZTVHBlMkNCMGZFS3F5NWNvX2JtSVYwZU85TkViYm5yV0NaUVdMb29WRXlmNE0yd25HT2NsNm9tRnJTLUFyeXZmVENSZldLbXVpWXM?oc=5",
+      "summary": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy Microsoft Source",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDhfREE4UHFhTEhPUS1uX2RBRzJDb2tLcWpIN05jdlhhbk11eXBOUVRTV3E1bVpkem15ZE5FMElvWHVndmtyOWw1Uy1mbmRMQ3JpcFVkdVR5MzlnRmFqUDBkTkg0RXRJeFdiemVERU5OeGZuNXl5T0czd043c1dURFFVQXl2SVVXM25tT3E2cElMX1FNSWhYY3NSN0xienpVLXhsQjhCUm8tejh5dUd3TFlBUzlWeVVodzVLcmlnWUhsemlVNHE5VUh1X2lyVGtJSi0taGxQRjY3YjJrNWNmMmhR?oc=5",
+      "summary": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional Windows Central",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc29mYWNWVFJ1Mmxabk5tdUFEZkpfaURFQnFRczN3Vk5QMUdQYi1zTEF5TWN5UUxpS3ZHZ2xOTW1VeXVKVVliOFhGRnZpVTBqTVhGS0xjRFkyal91UFc0YjkzNjIzVVFTMmRTQW5uMnlRQnE2T1BMaWltRURpN0ZDNG92NXhGLXozZ29PWkhTdFRSTTQ?oc=5",
+      "summary": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans Yahoo Tech",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Major updates for Apple’s software platforms are now available",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "summary": "Apple today released the next generation of Apple Intelligence.",
+      "badge": "hot",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple’s new child safety features now available",
+      "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "summary": "Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -98,36 +194,20 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic tells investors it will be profitable for second straight quarter - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEJ6YVJJNkh0djM5TC1ZNW9wSkJoeU1nMDA1dmpxeW5XdjR1cmVlZzUzeEJLbHFfQm9KMFNhbkY2S2N1bHV1V2xncGtBMERtRzItTlFqUEFBVHZ0LUJwSDY2eTA5c21rS3hEdzBlWVZNMHgyalBTbnZ3MjgtbEozU00yUnY?oc=5",
-      "summary": "Anthropic tells investors it will be profitable for second straight quarter Financial Times",
+      "company": "Perplexity",
+      "title": "Ninth Circuit Rules AI Agents Act on Behalf of Users, Not Developers - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmpObWxmT2dRSTdxeWE1YW9IVjZLNGxqZGRiNDgyN0tEVkl5cWxQMGU4Ymota3U1YWFoMHAtcVNPU0pkVVB0dDZrVnpnWHlObEpMTTdZaV9GWGQzRzMxVW1kSWcwY1NGYmdqdmxLdUc4TWJJSXhZZ0pKUlZidmllR21UUGNJN3MyMXlLalpKcnByck5rdjRLRDVQZzJzOGxuUVpxV043Uld4RW81QWMxT0I2dmZSU0JFclZBZE5UbFlEVEU?oc=5",
+      "summary": "Ninth Circuit Rules AI Agents Act on Behalf of Users, Not Developers PYMNTS.com",
       "badge": "new",
-      "date": "2026-09-13"
+      "date": "2026-09-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
-      "summary": "Washington scrambles to meet calls for AI guardrails while the window to act closes CNBC",
+      "company": "Perplexity",
+      "title": "Perplexity Brings Its Local Portable Computer Agent to Windows PCs - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFFrRjJsZmc4TGQxNUVsWGM3TUFNdmRwckRmNi1fWlRLLTdiSVBxYjZZZ09RbXZCRUF3QldxWEgwZ0RGWTlyY0JyTHRDLV9HMHctY05aY0FmVHFLSnprT3ZYdGNGWDJZRDF5WEI4X1pVdUFZWmFwQm4xZDBDYkE3RlBodFZfeGUyODVCbWhjZHp3dw?oc=5",
+      "summary": "Perplexity Brings Its Local Portable Computer Agent to Windows PCs Unite.AI",
       "badge": "new",
-      "date": "2026-09-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5",
-      "summary": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC BBC",
-      "badge": "new",
-      "date": "2026-09-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What’s behind the AI industry’s latest warnings of doom? - techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGhlTzc5NDNLaEJwYk1GMmh0OF9UeTRLN2RQaGRaU0lSdWhqalREb0FHRFcyenFYclcweGE0ZXZBc2t3NEF1UzhldnpVZ3BwdjFuV3U4bURZWUh3ME9Ma1dMQm5NX2Y4MGZWdUZzcWV3LWpYOXNZZW5UWDJwbHdtR20wTTlMRThkZUVWTzZfak5jZw?oc=5",
-      "summary": "What’s behind the AI industry’s latest warnings of doom? techcrunch.com",
-      "badge": "new",
-      "date": "2026-09-13"
+      "date": "2026-09-14"
     },
     {
       "company": "Microsoft",
@@ -259,9 +339,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon - courthousenews.com",
+      "title": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon - Courthouse News",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNazZUenNuWnZOUXM2c2ZWckh6LUlQbEUwUVJDTWRPQlpVbHJzcUtIN2EwbEtmOWRKU0tVMUcwZUJQWng2am10SzgzWVJnalRnbGNVQnN3c0RHTlQ2WFMwUm5sSWdBV0ZWRDZKR2pFblJoWW1ieXlCX3IzdXQ2N3lSUXB3dUNGb0Fhd01SSnJlaGFsYXJtZ0steDg3dE5walZVMDRYRDFNQmNsMDVJZXlmWEZwd2Y1MU5FUkJTOE1iUXctSzZKSk5wb0hMMUZlZjVCUktsMjljUXNOMldIM0dlelRVTmVWV3hDbkRjNmhpTTEwRElwN212ZGdYcVM5LXEzdXl0YmtJT2NzMjRGZ09HVGxlM2thZENSUkhkNndFNjBJQXhyS3hpd2NoN0VvSE8ySUI5QzFzZDhMR0FpM2hxMTN4NkQ2QnFZOGt1bDFncWt3UWp2cHl4eTY1YnZzWlJjRW5RM08zS1FYMG8?oc=5",
-      "summary": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon courthousenews.com",
+      "summary": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon Courthouse News",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -291,9 +371,9 @@
     },
     {
       "company": "Meta",
-      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - businessinsider.com",
+      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
-      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore businessinsider.com",
+      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore Business Insider",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -371,41 +451,17 @@
     },
     {
       "company": "Microsoft",
+      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
+      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener geekwire.com",
+      "badge": "new",
+      "date": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
       "title": "Build apps in Copilot Cowork and Copilot Studio - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
       "summary": "Build apps in Copilot Cowork and Copilot Studio Microsoft",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkdac0huWWJZTG5XcGJENWNlenpfaWg2Z2hMY2lyamRFVDN3OEZkZTlWTG8wLTNGNlVWWE1EaUkwUTV2QVVuSUlzaUhsY09QY010VUJ1U1NsSElTS3ZnSnlEaG1MQlZWVTlmLUJnSWJLdElWci1HWWc5bldMSFY0U1A4Z1dQdnRwcnJCU2ZZN1hUR2c4TGItRW9iZk9ZZUZpLTVNVU5lOTVYaFNzTE1Ca0lXM1NsenpEOFpzNTNLTQ?oc=5",
-      "summary": "Prime-time AI: Microsoft Copilot gets a share of the spotlight during Seahawks’ season opener GeekWire",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "AI uprising postponed after Copilot falls off the web - The Register",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG9BXzVLTVY4OWZZNmpEMF9BbUNiZ1NmbDRCenhQUTdSSFFTc1V3R3RYS01fZmtoMGRfRUpzNmdyLXUwRlZqTC01WngtRFRqWVRmel8xa0FJbWxIUmE3YVppeFo2QW14MHVZakVNTm9NaUxjeF91VGVXU0s1ZFpEd0JWVXZtVW9oVkU5Z3JBYkh5a1pjc2c2dmNrZnlLejgtRERqbkxxYjhteU05SWZB?oc=5",
-      "summary": "AI uprising postponed after Copilot falls off the web The Register",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft wants SharePoint customers to use Copilot to author content - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVVWci1BQ2RFU001QnVIUmhjZ0JyTmwwd05iRXVaRFZ4cVhhLXU1aHE1N3JkOXM0Ulh3NkZDNzVqSFlXenZCNkkwOV9MQUhlSFNmaEo4LWk3UkFOVHVETlc4REprV1pGQ0pZa05VLTNJNUc5Y0c4ZzdoakxOM3hJRFlvaDhTendxdzEyN0dQVGtVRGI4a0hoaGxWTnljUFk?oc=5",
-      "summary": "Microsoft wants SharePoint customers to use Copilot to author content Neowin",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot is moving directly into Outlook's email composer - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFkzU1ZyY1Z0YXdkU2FfVVAwVlV2LWFhQ05KX1ZFYzlMdWF5ejl2VGgyWlpaOXhGV2JhQkpWZkRyUHN1bmpPQXYzakxLOVY5Yjd4eW9vaHVCLUZKX2lRNFByclBHbVdLYVBIaHM5VFNMc0JheHZZSUhjMzNSM2ptbTVlNlFtM0VWWVhadA?oc=5",
-      "summary": "Copilot is moving directly into Outlook's email composer Neowin",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -414,22 +470,6 @@
       "title": "FILE PHOTO: Illustration shows Perplexity AI logo - The Daily News | Texas' Oldest Newspaper",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTUxmZHB3R21qUU5MWkhnalJTR05kTWJDSTE5Z0FWSjRrM3dXb3l2VENSZ205WnJDaWZtc0M5Q05tWnBtb1MyTEVhNmVWTFZmMmtGOWM1eE9kQ0g4UF9GVHFIRU4xWGkxLXRDVjlBTlNkM0NlbUk5WWhfaHpHZGhsdVRmcXpaMGFJcVI5Um50V1B0dG5GQzRKQXU4dE9iS0dBZVVLRUwtaDBmcU1ZMUxfc0pyZG1JQ1NZMGE5dG11anpzU1ZXdk4wTWJHZkdTc0xQOXZrSVpDT0ZvSlU?oc=5",
       "summary": "FILE PHOTO: Illustration shows Perplexity AI logo The Daily News | Texas' Oldest Newspaper",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT Plus vs Claude Pro vs Perplexity: €211 Gap [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlZyRUpLU3lLaHhVQ0lFY0hkY2hHVFMtTHdiQmJGbEtGQkFMcm5jNHB6Y3dkNkJJSFpiM0dnWExTV0cwNzVxM2dVZGhwa1RzajdvTGNpQk51SzR6aVY5UzBxSWNLODdkM2VQeFhJVFFmNG9zM1hJZDR4N0hBLWYwd0Vhdnc?oc=5",
-      "summary": "ChatGPT Plus vs Claude Pro vs Perplexity: €211 Gap [2026] tech-insider.org",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "Perplexity",
-      "title": "No 9th Circuit rehearing in Amazon-Perplexity case - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3BpRm1WX0NvLTRIcmNNdnEtbURNY1FVUkZCRVJVMWl4WFJLakx6Z0dJSTB4M1h2aUlVOFpEZVBjVEtyS3dCdmNYLUFfc1NZdDFiZ21XSDZLbWx5NkUxbV81eGY1N1E0Z2V6VzVrbVZPekdmdlpFMEpXNmlfQUFOVS1BNWc0WlJW?oc=5",
-      "summary": "No 9th Circuit rehearing in Amazon-Perplexity case Courthouse News",
       "badge": "new",
       "date": "2026-09-10"
     },
@@ -448,14 +488,6 @@
       "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram SFGATE",
       "badge": "new",
       "date": "2026-09-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "badge": "new",
-      "date": "2026-09-09"
     },
     {
       "company": "Google",
@@ -479,30 +511,6 @@
       "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
       "summary": "On October 1, Apple Arcade is rolling out a lineup of fun new games, from cozy cat collecting to zombie-blasting mayhem to beloved App Store hits.",
       "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.",
-      "badge": "hot",
       "date": "2026-09-09"
     },
     {
@@ -600,14 +608,6 @@
       "summary": "Key facts: Amazon (AMZN) $25B AI sale; MS $500 target; 500 Tesla Semis TradingView",
       "badge": "new",
       "date": "2026-08-19"
-    },
-    {
-      "company": "Google",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "badge": "new",
-      "date": "2026-08-17"
     },
     {
       "company": "Amazon",
