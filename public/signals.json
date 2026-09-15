@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-15T16:04:18Z",
+  "updated": "2026-09-15T20:46:11Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZXBaS1dWX0RSVE5pNTNnM0d3WEsyaWNpWXowQUJoc1RCLTI4YS1GeEV1d290MkF0V3RUOGxWVEVCUmFOOHYwdlF5Nld4WU9vYlJjQXdSRFV2LVVvZXQzUXRnVUdBRXRlNks5WkpBOGfSAXZBVV95cUxOU0piVDV6c3hZVUZ1bWdjU2xCTEpxbDRPX0w5U2ROVUZlZzhGbjA3LXZNWXNDYUZMeTZzZDBoNFd1UjdwLTRPemo4N3ZmZG9EN0NOSmhxMTlRRGNQR21EV3dlMnp2MzVZS1NpMGlsYU5adlJUMWZB?oc=5",
+      "summary": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks CNBC",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
     {
       "company": "Anthropic",
       "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown - cnbc.com",
@@ -59,6 +67,14 @@
     },
     {
       "company": "Google",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "badge": "hot",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Google",
       "title": "Building AI to accelerate science and improve lives",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
@@ -94,6 +110,14 @@
       "title": "Veterans Affairs’ Office of Inspector General uses Microsoft Copilot to guide reviews of care sites - HealthExec",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMHY0RW5QdU4wOFZkZ1dacjloR0M0SFFwS1JqOFBkVUVJRURvWVVRejN3UGx0R3kzMGxvYXNlbGlfMHNzeTJRcEczM2c1OFBoSVBtM1J0VHh5ZXlsVS1JU05Bd1BEaHhpUlh5UUhjV2pXQ2VyemNUSl9mTzNWOWFmZ0NydVh2ckpVeVhlSGc0UU9mWXpNNlJ4X3V4bzRSbExBYV9TMUlaX1FwWmNlX0hsSWx3dmFQb0JYQ0gxUUFOUW1lV2dFaHBZZGdENGltRmRhUUFRakw1SFQyNUk?oc=5",
       "summary": "Veterans Affairs’ Office of Inspector General uses Microsoft Copilot to guide reviews of care sites HealthExec",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "AI is Putting Microsoft 365 Governance Practices Under Pressure - Petri IT Knowledgebase",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWnpLVFZFSzFIT1QxdENGVEhfdlN3Z0tWZWJQS01KT0tGa2VUV0g3RFQyTkxjcHJ4VFVKcW12SThnT3ZmbjRQZ3BsemF1Q2lRRWkxSm5UQTgzNXdKV1hTcFZ1YmJhTjIzYlE?oc=5",
+      "summary": "AI is Putting Microsoft 365 Governance Practices Under Pressure Petri IT Knowledgebase",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -171,6 +195,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Crusoe signs multiyear Perplexity cloud deal for Nvidia AI chips: Bloomberg - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3hvZnFIajdGQ3VuTEFWSFpIOWZHOWdhMjJRSVBZNmduM3JtZmJvR3NTVHoyaXM1TkdSLTFkdFo1V1Y5Rko5TlhPN1JWRjJKcTdqQldaZ2RRTV9jRFVOWmVWaUpONXdHcEZnankxdE53TG5xbm51eTRJdFhaTWdnUEVURmZoOUg3NUpCXzQ1N1NBZ1R4MDhxMllCdEt4QnpTV3I0RlpR?oc=5",
+      "summary": "Crusoe signs multiyear Perplexity cloud deal for Nvidia AI chips: Bloomberg Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWjJ5TDFJVV9sSzhTWThCbGE0ZGNWZndBb01RR0QyaElTOVRtMDEtdjItR0hLZWNiQ0VreEgwZzg5OFpPY0lGWFR0OHdQNmQzNGt6YTlJNHp1Q0dMZUVlZ0RrQmYySERZMWtEd09nSTBvMm1NZFpMcWFQNUxmeVZqMWMzUVlPQ3Bkd3hjSDgtbUptSHVUdlBIenR5TW5MRDFXNFBtNU13YXEtTm90M0UySFFKMmtTTlhNNVF6YW04YnIyWHpMUjJEZzJONTl2ek1iS0Z1cGd0NTVxTjREQ3dzREZVTWdJUW1WVmNCR0pMc0VzU3JsR2JST2l0M3FOcTl3cmtYYXEyZFVoaVZaYzVoT2dHOWM0OUZFdVNtZnc4amlRRXU5TmJjaGRSaVlCR3dueFB4Y2FlYnBrV2lJRDFDUURPdGRwMmNN?oc=5",
       "summary": "Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs Tom's Hardware",
@@ -179,9 +211,41 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s new One subscriptions put a price on social media and AI - theverge.com",
+      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out - meta.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjk1X0RPQVJ6YXU1a08yWGRzMEdHUjVmU3lkbjcySmZibDZ4M2dXQTVodzNrbl9jRUNaZmpHSFJqdlFRaVI5NlZFR0Zab0prdzM3NW9QVm9UM2FTSzgtZGNaTTdydTlBcUFyUHczYTlDcGZZNC15emRpN1hRQl9Dc1pxQTlVS015dldSMHJOc0dMQ2pXV0swadIBngFBVV95cUxQdGRnU0tuRTZhTUt1MVBOMUY0Z3RJWGU2WWJIcDFsT09KNzF4WHBkV1JIaXhfZk0zSUZaRmRrbE9xb1luWDYyYm0xOFFXNjMtQ3BtRUc0TkxTd2FiaUhFS3kzRHlLdWhBaTAxbXNaeTdRakp5dTZmTVFFcFkyOVNyNk9HNXA4aHRDOG5EX1BpaEdFSnkzRmZHdzZUczNwUQ?oc=5",
+      "summary": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out meta.com",
+      "badge": "hot",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s new One subscriptions put a price on social media and AI - The Verge",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94eVZYQ3hkeXdTd1JMV0oxV2lISzk4ZmhsV1NFNlFKNzNDRkZDVEllR20zajJ4bW9uMEpJNEpnQWlwRTh6LVRtaDZPU1F6eHFCMlFhdFlmUUNXSkIyR2lzM0hFdXFpRk0wMVZ4MjJ0cw?oc=5",
-      "summary": "Meta’s new One subscriptions put a price on social media and AI theverge.com",
+      "summary": "Meta’s new One subscriptions put a price on social media and AI The Verge",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta One subscriptions launch with AI and creator tiers - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bWFmZE1nNWtuVWkyN09jTk5tNF9jb0pkcDhDb0I1R3h6b0FoejBSZFdBaEVveTljRURGWkJUbkJhU0ZIeW5JNThIamQyTHpNUHhaWmJTX2ZnLVVQY1piTF80NEl4VHBfRGJhcA?oc=5",
+      "summary": "Meta One subscriptions launch with AI and creator tiers qz.com",
+      "badge": "hot",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta One Turns Instagram, WhatsApp And Meta AI Into A Subscription - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVA0UzdwZjJwWW04aTRsMzNKaUs2eGdOZDhqQXc4TjZ5TmxFNTEydUhabFhkX1Rfbmh1WU1CUUdnekw1OTZKcjR6M1FicXNmUGJxbWNKWFFEa2R2Ti1KUXd1X3JVMG1Mck9wYmpkSXJFVmFlTExlbjNseGlUZExMYlJKWEhHMVZfaTJ2ZnVQM2V1OHhhR0I4RzRla1hxVGVlLXRxWUNHS1g4b0R1YjRNWUZkVUszWVdXT2lNYl93VVBHNHNy?oc=5",
+      "summary": "Meta One Turns Instagram, WhatsApp And Meta AI Into A Subscription Forbes",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTA2ZURVeElEZXBSMFZuVG5YTEhPQVlRY0diaUJhejNIcXJ1UERoRGtrbVlCdGlFUVVqME0zaE15TmFqUjFvQzM2V05BYmtsYzVZMzJCckxOcHlBS0tJZUx5TkJWRnBCZzBwTmpVTmdENkFuYWVKUkJiZTBnY0VBeFFwR1Vtekl4RUUtOXZZRGVyMUNiUGtyelNPX09XTnB4aVNFYkpsTThHdw?oc=5",
+      "summary": "Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits The Information",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -203,18 +267,10 @@
     },
     {
       "company": "Anthropic",
-      "title": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "summary": "Top A.I. Leaders Call for Slowing Down A.I. Development The New York Times Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks CBS News Trump goes scorched earth on AI warnings",
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
+      "summary": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation CNBC What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development The New York Times Anthropic, S",
       "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Launches Claude for Financial Advisors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhXR2RLTU5KcWtiVUxvVTBSbU1BSkZ0Mm1YbElYUGZrdXhBZ3htbWQ2WmU5aDBfUHVMcFdMbXJUQ3FsMHRmZzk3LS04ZUs0NWJ6WXRGenYtQmNiamkyRko1TGJ6ZHY2RHdyTnVpNDJhcUVhOG1hQVJFbW91TjdyVm15d3hRZElOUmhITWtFRFRDZW9vV2hLQlE1QjQ5amp4TUdUM0RNd0xXSEt4?oc=5",
-      "summary": "Anthropic Launches Claude for Financial Advisors Yahoo Finance",
-      "badge": "hot",
       "date": "2026-09-14"
     },
     {
@@ -307,6 +363,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems - openai.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
+      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems openai.com",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Perplexity",
       "title": "Your NVIDIA RTX PC can now run Perplexity’s AI agent locally - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzhNbVRLVVN1eGpxWWMzRUhjLWVpVTFxM2lDNkY0TmxtbGVyTFdqdWdNSk4zWjM4RjMxMU90dVlWY2x4Z0lwODlXN0FmMV9jM0JTQmpDc3l2SF9KUWY2RjhRTV96d29GU05lRzNqMFNyelllVW5HZUFnS29ueDJKcG85dnBTOHhy?oc=5",
       "summary": "Your NVIDIA RTX PC can now run Perplexity’s AI agent locally Digital Trends",
@@ -326,14 +390,6 @@
       "title": "Nvidia partners with Perplexity to bring Portable Computer AI to Windows PCs on high-end RTX GPUs - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3JGWnZxLTF1QU0wa0xYNFotZWozTjU4YU1uZm5SMnVuRUZzSHVkTHhoMm1OVWtsNkxjQlBVVFpQa2RRdWZTUldpaGpFU1NoWnhacTRvX29jemtKU3ZFLUpncGFsYjgxN19LenRFdmUtZDhoQzktNm5UUEhwMVV2VjR1NVJPZm9TeXZqMnNBRFMyTXZjU1NOX3Q4ZkdtN3Q0SWVfMHB4VkVfTmJmTDZoRU5LbUZtWU1taUFacEM1d0V1N3I0WGpxemR4a0Q4M1ll?oc=5",
       "summary": "Nvidia partners with Perplexity to bring Portable Computer AI to Windows PCs on high-end RTX GPUs PC Guide",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
-      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems OpenAI",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -370,14 +426,6 @@
       "date": "2026-09-13"
     },
     {
-      "company": "Perplexity",
-      "title": "Amazon loses injunction blocking Perplexity's AI shopping agent - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTF5Yi12a1pnTUt2UEV3bldjdERpZzRtT2Iya2ZBRmVaYWQ5UnpoVU9sNWVzdWs1aU9HT3NkY1ItUFp5OXg5T2FmTXhWc3FiR21uNWtUU2JQZUVlbWFQSWF2cV94YlVNMVh5NEFxS3ZBaWJfM3UzN2swb2NtenViRkNiSWRJVE0?oc=5",
-      "summary": "Amazon loses injunction blocking Perplexity's AI shopping agent PPC Land",
-      "badge": "new",
-      "date": "2026-09-13"
-    },
-    {
       "company": "Meta",
       "title": "I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcC1pUWttN0lRWmEtUmx4V0EzTHEzeHlCRnpIT3F1dUZqTEVDWVhJNUpXbmtMNFllZERZTVhYOEJobTJxeno4ZHVkR29pYkROMFNXZlcxOUZianJnZ3dhQmthZ3VjbGU1M1g2Njc1ZUFVNmJEejY2QW5SV2RWTi1TT0gtTmVlV3NvbFNmbl9GejduajlTTGVmZDNIa1A?oc=5",
@@ -410,14 +458,6 @@
       "date": "2026-09-12"
     },
     {
-      "company": "Meta",
-      "title": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX3VrU2JCYnc1cEgwbG94d3M4aFRqcDNKWlFwTVFBNHNlNkFWbVU0Z0l5eWx2Y2RlNDVrVEZhNG0tWVFvZ242Tm10RlByNHV5ZEhCSVg0b3lzZUQ4aDk2Zm1wZFUxb0Z6bldlbXE1akp6WWR6LWNWLWlIb3Zob1Rra2FxRWE3YVFiYng2V0h6VjVFbGhLU280aTBWaV9Fb1ZCTjhQd1hONXJfRjlMYmdzU0Vjdi10d2ZmSFQ0Z2xZRzUzYnd6OF9wUERGZnc2ZFhQdkk2M09iVDUycEl2TXpJOElWb2dqbmk2RGV6WVhkUVZSME85NEVRMzFUZklITDZWUmc?oc=5",
-      "summary": "Mom horrified after Meta AI starts asking about her young daughters, where family lives — and allegedly digs up old deleted photo New York Post",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
       "company": "OpenAI",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -434,42 +474,10 @@
       "date": "2026-09-11"
     },
     {
-      "company": "Microsoft",
-      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0NOZ1BGM3BYMmd2OE5iZUs1NjlPMk1PMFR6U0U0WllqLU1rZmJRZHYyT3R4Qy1QXzV2RzhVYWk1dHZiUFAzSGRBVWp3Vm0wS2tEZl90S3NzTFhVNVBweEJoSkNodkxpbUt2Vm9Ud2RTdDBkNUtoaFJwODFRRmJoSEFFTDQ3WkJJUFY3a01GcGZIQ0xVSHVESkZKMHpCd3Z2cjRB?oc=5",
-      "summary": "CarPlay now works with six major AI chatbot apps, leaving one key holdout 9to5Mac",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
       "company": "Apple",
       "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Meta",
-      "title": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
-      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore Business Insider",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5",
-      "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions The Verge",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5",
-      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems WIRED",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -560,14 +568,6 @@
       "summary": "Introducing Fairwind Program",
       "badge": "hot",
       "date": "2026-09-02"
-    },
-    {
-      "company": "Google",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
-      "badge": "new",
-      "date": "2026-09-01"
     },
     {
       "company": "Amazon",
