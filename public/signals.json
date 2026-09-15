@@ -1,11 +1,51 @@
 {
-  "updated": "2026-09-15T03:00:02Z",
+  "updated": "2026-09-15T10:52:43Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+      "summary": "Top A.I. Leaders Call for Slowing Down A.I. Development The New York Times Trump goes scorched earth on AI warnings, raging about data center opposition and regulation CNBC Why a swift AI pause is unl",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZThteklFRzU0dDJPZERWa0Z3eEJGYnBVaXJkSG1qLWZuNGEzakdmSkxOcVpMNzVJTVo2RDJ1c1RXWjRlQV9oRzhmTUhSOUZmSDE3eWxmckJwVi1BVmNuT3ZKaV9MS1NfVmdJMHdQb0t1b3Q3SU52SzlIc2FDMVk2LTRIWU1XVDlwb3ZQXzlkX2c4SlhtQW1FNGh2Qk5iVWFVQTRiY0h3TEM5b1hNRzVNcUxCV0dHOUIyaG9fVkJweGJHS0ZTTXRLVjlOcUI4aXptRkFuZG1ZRXB0UFYxQ2VwZzFJOWpfYW0wZlE?oc=5",
+      "summary": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZTRfbU9qV2pjcHdCVmNGbUo2NElLSzQwUFpqZ2E0cVVSZlpFTk9Lb3FQQ3FCV0NxTEMtZ1FaQVVWMFdXUks5djdEVHVqa0Z3YmJZTzdpejMza2c?oc=5",
+      "summary": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards BBC",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
     {
       "company": "Anthropic",
       "title": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
       "summary": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown The Washington Post",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Veterans Affairs’ Office of Inspector General uses Microsoft Copilot to guide reviews of care sites - HealthExec",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMHY0RW5QdU4wOFZkZ1dacjloR0M0SFFwS1JqOFBkVUVJRURvWVVRejN3UGx0R3kzMGxvYXNlbGlfMHNzeTJRcEczM2c1OFBoSVBtM1J0VHh5ZXlsVS1JU05Bd1BEaHhpUlh5UUhjV2pXQ2VyemNUSl9mTzNWOWFmZ0NydVh2ckpVeVhlSGc0UU9mWXpNNlJ4X3V4bzRSbExBYV9TMUlaX1FwWmNlX0hsSWx3dmFQb0JYQ0gxUUFOUW1lV2dFaHBZZGdENGltRmRhUUFRakw1SFQyNUk?oc=5",
+      "summary": "Veterans Affairs’ Office of Inspector General uses Microsoft Copilot to guide reviews of care sites HealthExec",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -50,6 +90,14 @@
       "date": "2026-09-15"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWjJ5TDFJVV9sSzhTWThCbGE0ZGNWZndBb01RR0QyaElTOVRtMDEtdjItR0hLZWNiQ0VreEgwZzg5OFpPY0lGWFR0OHdQNmQzNGt6YTlJNHp1Q0dMZUVlZ0RrQmYySERZMWtEd09nSTBvMm1NZFpMcWFQNUxmeVZqMWMzUVlPQ3Bkd3hjSDgtbUptSHVUdlBIenR5TW5MRDFXNFBtNU13YXEtTm90M0UySFFKMmtTTlhNNVF6YW04YnIyWHpMUjJEZzJONTl2ek1iS0Z1cGd0NTVxTjREQ3dzREZVTWdJUW1WVmNCR0pMc0VzU3JsR2JST2l0M3FOcTl3cmtYYXEyZFVoaVZaYzVoT2dHOWM0OUZFdVNtZnc4amlRRXU5TmJjaGRSaVlCR3dueFB4Y2FlYnBrV2lJRDFDUURPdGRwMmNN?oc=5",
+      "summary": "Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs Tom's Hardware",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
       "company": "OpenAI",
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
@@ -67,17 +115,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU?oc=5",
-      "summary": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation CNBC",
+      "title": "Anthropic Launches Claude for Financial Advisors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhXR2RLTU5KcWtiVUxvVTBSbU1BSkZ0Mm1YbElYUGZrdXhBZ3htbWQ2WmU5aDBfUHVMcFdMbXJUQ3FsMHRmZzk3LS04ZUs0NWJ6WXRGenYtQmNiamkyRko1TGJ6ZHY2RHdyTnVpNDJhcUVhOG1hQVJFbW91TjdyVm15d3hRZElOUmhITWtFRFRDZW9vV2hLQlE1QjQ5amp4TUdUM0RNd0xXSEt4?oc=5",
+      "summary": "Anthropic Launches Claude for Financial Advisors Yahoo Finance",
+      "badge": "hot",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw?oc=5",
+      "summary": "Anthropic targets financial advisers with new Claude tool Reuters",
       "badge": "new",
       "date": "2026-09-14"
     },
     {
       "company": "Anthropic",
-      "title": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "summary": "Top A.I. Leaders Call for Slowing Down A.I. Development The New York Times",
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU?oc=5",
+      "summary": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation CNBC",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -106,38 +162,6 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
-      "summary": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO The New York Times",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump responds to rising AI safety concerns, insists tech will be 'more good than bad' - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDNoOGhjeEFZbkwzalJKYkQ4YWJGeE1qODczZzAxN094akZ5RkZTYnA3ZVBPTDFZdENxc2V1bkNEMm5jbnEwdm5JNk5IMmNnSWhZcVo4RWxFWG5yNlJndmJJWVgxWVRsWkJBVFVxdzNFWldOMXBnVGdkVXFFWXNzWkJWUkVmZi00eVNqZFpiZVJqT2ZPZGpHYnIyR1dBUW8yZmg1OTZvZklHdkk4aEHSAbMBQVVfeXFMTTliZDk2V2ZRTnFpLXlZMWx4VVZEbFQza0hjUjh3aFcxNWUza3BTd1FERWY5V19jbERQTnJiQ3duaF8ycTk0NDR3WWdpQ0lyZGdKSF9FUlBaXzNIYTVjZzNnZFVXR21TdlJYUmdwY21SNHJIQWI0VEpGeHFNTHpIZzVFbW0zYmhRblhKbnNEQWZtV29KbEZ2TnhDS0NYZmdlT2JidjdDZW9mWlBsQVlNbGUxWU0?oc=5",
-      "summary": "Trump responds to rising AI safety concerns, insists tech will be 'more good than bad' Fox Business",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5",
-      "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says BBC",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic co-founder says the governments should play a role in AI regulation - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUpGQ1BRS2huV2JGc3RkazhwNkdpUG9pT00yZ012Q3p0U1Y4emxUSFllbzEyR0dhWEVWMmU2cS1vRlo1S3M5VFpSLS00SFZBRWJNLTBBZDVDcG5yQi1vaUZQc2hhVzRLakxYRFVFc2w4ZFhwYmhva0FaUm84bTJSVTB5TXZBNmtWU3hFU3BjdEp1NmVIb2hN?oc=5",
-      "summary": "Anthropic co-founder says the governments should play a role in AI regulation cbsnews.com",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
       "company": "Google",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -155,9 +179,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2FZT2VIMFZmS0xkQ2hZQ3FtbmRubnFDb3B2TGVyTkRqN1FXYU9iekttYW5EbGdEenczV1R4V3FncTlOa0xZckJsaFJNQ1lfS1kxdm5adm4yemxKSGJnWUhwOUFoa2lRdk5rSDhidUVINENlY21kcmoxZVlQbHV1TzA1YkJWSVRiWG9IQkdpQkJOZ0RkSm1LWFhzdmlqNG5VNU9VbVJtLXZTVHBlMkNCMGZFS3F5NWNvX2JtSVYwZU85TkViYm5yV0NaUVdMb29WRXlmNE0yd25HT2NsNm9tRnJTLUFyeXZmVENSZldLbXVpWXM?oc=5",
-      "summary": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy Microsoft Source",
+      "title": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGxuNi04LTNuYVlTMzNLQk94SnMwQUNIaHcyemtsZEhHR3ZJSjFKQlpsZ2JENFBiUklQVEUxVjhGbDJiVmFWb2t2cUlhdWlITFduWEpDNGNRM3k5LTJDM09FZzBnc0Q2TURqT203c1VBdkNvSy1aSnBCTmFqaVBlQmVwY2k4cFlJOEJwWEVMOVI2X0Iza1ZaRGhMYmI1LW1hNGVacGMyWnJwSC1TS0FQZkpIaUZHX0hkMDFtVVN1QmU3OWJRWVlQMDRVX0o4WG1BQWJ2ZFNxQkpIdlNrVDZWOA?oc=5",
+      "summary": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog Microsoft",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -179,9 +203,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGxuNi04LTNuYVlTMzNLQk94SnMwQUNIaHcyemtsZEhHR3ZJSjFKQlpsZ2JENFBiUklQVEUxVjhGbDJiVmFWb2t2cUlhdWlITFduWEpDNGNRM3k5LTJDM09FZzBnc0Q2TURqT203c1VBdkNvSy1aSnBCTmFqaVBlQmVwY2k4cFlJOEJwWEVMOVI2X0Iza1ZaRGhMYmI1LW1hNGVacGMyWnJwSC1TS0FQZkpIaUZHX0hkMDFtVVN1QmU3OWJRWVlQMDRVX0o4WG1BQWJ2ZFNxQkpIdlNrVDZWOA?oc=5",
-      "summary": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog Microsoft",
+      "title": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2FZT2VIMFZmS0xkQ2hZQ3FtbmRubnFDb3B2TGVyTkRqN1FXYU9iekttYW5EbGdEenczV1R4V3FncTlOa0xZckJsaFJNQ1lfS1kxdm5adm4yemxKSGJnWUhwOUFoa2lRdk5rSDhidUVINENlY21kcmoxZVlQbHV1TzA1YkJWSVRiWG9IQkdpQkJOZ0RkSm1LWFhzdmlqNG5VNU9VbVJtLXZTVHBlMkNCMGZFS3F5NWNvX2JtSVYwZU85TkViYm5yV0NaUVdMb29WRXlmNE0yd25HT2NsNm9tRnJTLUFyeXZmVENSZldLbXVpWXM?oc=5",
+      "summary": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy Microsoft Source",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -258,6 +282,14 @@
       "date": "2026-09-14"
     },
     {
+      "company": "Meta",
+      "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
+      "summary": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns barrons.com",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
       "company": "Microsoft",
       "title": "Elon Musk welcomes Grok integration into Microsoft Copilot - The American Bazaar",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2hFYzVWZk1LMndKcW1jeFNuVmRpOS0tMVBtU1J1OC1aM24yckQwbFYyUndkcFV0U2ZaYllUTmN6LXB4RFRfX1M0M1pxTlVQTnZySWtJVkpRTE5sSVRMWm1HSlp6N2RPZS1Va1FhOURzUWRpa0hvQWJ3TkpSUHN6LV9qdnpNUjBuVXB1Vg?oc=5",
@@ -299,9 +331,9 @@
     },
     {
       "company": "Meta",
-      "title": "Mother Calls for ‘Accountability’ After Meta AI Mines Family Posts for Info on Minors - CNET",
+      "title": "Mother Calls for ‘Accountability’ After Meta AI Mines Family Posts for Info on Minors - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDRZMDQ2LUctREVJaXZWVWJUdDNNZWZaTVltalZvaURJcm5yZVk3OUdiZEFWQVNOLUthVHByV2JYQVdVamVzaDhqd3k5dlVheGRhNXM4VHM2WVJMd0lsaU1RcUh5MGhQdVNEdXYwblVLcGRkd1Vtc2p5bVRwWVFiYXNPOHRQRi05dkx0a2lzSEtfVXJuNWx1N2ZrVDY?oc=5",
-      "summary": "Mother Calls for ‘Accountability’ After Meta AI Mines Family Posts for Info on Minors CNET",
+      "summary": "Mother Calls for ‘Accountability’ After Meta AI Mines Family Posts for Info on Minors cnet.com",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -362,14 +394,6 @@
       "date": "2026-09-11"
     },
     {
-      "company": "Microsoft",
-      "title": "Teams and Copilot are changing addresses: update your firewalls - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0d1eTJZMVlzNldPQk5qOHhsZ203cXNWejZoQlJsYl9EUzJfcVc5b0J4anNBbVpHWVM4ei1HR012N2lUa0ZWYVV4amlOVDF5RGF2Qk5WU0JNWHVmZGpDQWFjTG45bnRfcXQ5SzRUYVgtSExUdzF6cVo4Y01MaGlPTC1oWmVIRDVLRTBoZ0hpY0o0YTlpbktoT2RDY3JJWnFIQXFuMFRfLXhhV0dueVRXM3NVbw?oc=5",
-      "summary": "Teams and Copilot are changing addresses: update your firewalls Computerworld",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
       "company": "Apple",
       "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
@@ -390,14 +414,6 @@
       "title": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon - Courthouse News",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNazZUenNuWnZOUXM2c2ZWckh6LUlQbEUwUVJDTWRPQlpVbHJzcUtIN2EwbEtmOWRKU0tVMUcwZUJQWng2am10SzgzWVJnalRnbGNVQnN3c0RHTlQ2WFMwUm5sSWdBV0ZWRDZKR2pFblJoWW1ieXlCX3IzdXQ2N3lSUXB3dUNGb0Fhd01SSnJlaGFsYXJtZ0steDg3dE5walZVMDRYRDFNQmNsMDVJZXlmWEZwd2Y1MU5FUkJTOE1iUXctSzZKSk5wb0hMMUZlZjVCUktsMjljUXNOMldIM0dlelRVTmVWV3hDbkRjNmhpTTEwRElwN212ZGdYcVM5LXEzdXl0YmtJT2NzMjRGZ09HVGxlM2thZENSUkhkNndFNjBJQXhyS3hpd2NoN0VvSE8ySUI5QzFzZDhMR0FpM2hxMTN4NkQ2QnFZOGt1bDFncWt3UWp2cHl4eTY1YnZzWlJjRW5RM08zS1FYMG8?oc=5",
       "summary": "Perplexity AI asks Ninth Circuit to allow shopping tool on Amazon Courthouse News",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI says appellate ruling dooms Amazon US lawsuit over AI agents - MLex",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uRWF3VTFEeXNTVWVrMGhaM08zQU5jZURUcC1rRjVjMTBuUmtBaW9RRllMZktnTmFfR1pvbmJkZktGRUFURkNhZnJ2R0N2TFZQQkpRZmNoNVJsQdIBWkFVX3lxTE5uRWF3VTFEeXNTVWVrMGhaM08zQU5jZURUcC1rRjVjMTBuUmtBaW9RRllMZktnTmFfR1pvbmJkZktGRUFURkNhZnJ2R0N2TFZQQkpRZmNoNVJsQQ?oc=5",
-      "summary": "Perplexity AI says appellate ruling dooms Amazon US lawsuit over AI agents MLex",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -490,14 +506,6 @@
       "date": "2026-09-10"
     },
     {
-      "company": "Meta",
-      "title": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters - futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamcwVEJEMUZRMFF1RUpmem04TlR4QzQ4NGRXdTNUVV9ZUEV2NDRYcFJla0ludURQWUpfSmVuY3ZrbWE5TUI4TElOYTE2dzZzYVVzaGY2TnBtVXpsOU5mV3NMUS1jYnk1UHJTTzNPTGEyWmZrU0xxbUpKOXRHeHloeUh3?oc=5",
-      "summary": "Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information About Her Young Daughters futurism.com",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
       "company": "Google",
       "title": "Get ready for the game with new football features in Search",
       "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
@@ -510,14 +518,6 @@
       "title": "Recreating a 70-year love story frame by frame",
       "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "badge": "new",
-      "date": "2026-09-09"
-    },
-    {
-      "company": "Apple",
-      "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
-      "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
-      "summary": "On October 1, Apple Arcade is rolling out a lineup of fun new games, from cozy cat collecting to zombie-blasting mayhem to beloved App Store hits.",
       "badge": "new",
       "date": "2026-09-09"
     },
@@ -579,9 +579,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
       "badge": "new",
       "date": "2026-08-26"
     },
