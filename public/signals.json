@@ -1,11 +1,67 @@
 {
-  "updated": "2026-09-16T10:41:46Z",
+  "updated": "2026-09-16T15:57:36Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zdHcyV0lzWDk5S0ZtZURXeTVKbFVYT2tSY2czZXVhVXFmQ0pfZ2ZaNFI1akxveWJQcF9aZFhlU1dNUUZUVjJaTUlHVnlUZlp1M0FHUzNQOXdGYk0?oc=5",
+      "summary": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity BBC",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive: Microsoft AI chief blasts Anthropic's notion of AI consciousness - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNems2WVBQbG53YmJHY3RoQ3ZMWWxsOTFqTzR3SDhqTnJ2d2lsa3FCOWdtY2QxbV9RanVObFVyZmtWZFl2MnJhVzBLVG1nWGc1TTluRGRMNDF5TGtlUDhZbkxwazdwdWR4UlJJT3E1SDd1SW1sTWFrUUZ4M09nTWlydg?oc=5",
+      "summary": "Exclusive: Microsoft AI chief blasts Anthropic's notion of AI consciousness Axios",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft AI chief warns Anthropic’s AI approach could have ‘disastrous’ impact (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMi0wc3puWGNvZmhoM1FBU0ltdVV4SkhOeWkyN0ZBQi1rYmhTc2JzUXJtVjRDcmZ4TzFabTBKOWFXUEkyY2xkeEdyeDFfRVJHRWNrWEhfcDR5eEdJWjgzMHFPRnJ5T2hCM3B0YWhhZ05JNTVSVUJCd2ctQmtCQTM2cDFfSDZDckZveTVvOG1PbXQ1a2t0WFZFZHRyWm9BTE9Ld2hFM3BsczJtbWU2QkhqWDdSaDE?oc=5",
+      "summary": "Microsoft AI chief warns Anthropic’s AI approach could have ‘disastrous’ impact (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
     {
       "company": "Anthropic",
       "title": "Researchers play down AI apocalypse fears, citing hurdles to creating a killer virus - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmN6YTBRU3RTVkZVNldNb3BNM2tuRmRiTG92LVRsNXpVaENORDkyalhjUDRVSGd3QWpabnZFZHZSUk1PZ1lkcjhxcjhlWFJSaV9tV2RYWkpBYjU3QXllVmhsNnR1YVI1VWd3MEZWVFAyRHpDRjRPUFJtV0FlY241YkxsZmR6ai1XQUtObjNFbWJ2c0hObWtBSmN6U19FUzl1VGFIeDdweW03QkVI?oc=5",
       "summary": "Researchers play down AI apocalypse fears, citing hurdles to creating a killer virus Business Insider",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft’s AI agents can now research accounts and identify risk signals with Dun & Bradstreet data. - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3I1aTZfdXVkY1laMklXTmtqTmNvbUo4SjJNXzVYMjRjcGJOd2JZOHI3VWZnaGdmcmVvYk91N2JrQ2t6b1YwUXB2Ukw5b3gzblZRWWFPOGxuZDBaNC16ZV9VVXoyclNJUnEwSWE5MVlrQTluRFVsWkRMUDBXMkhON1VYb2ZqZ09Bekl2OUVIeldEelNSRXVhZ0xNazJwcV9CRlNQWWFZd1RpaUZWR2JWX01WTXRPZ1VF?oc=5",
+      "summary": "Microsoft’s AI agents can now research accounts and identify risk signals with Dun & Bradstreet data. Stock Titan",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Dun & Bradstreet Powers Microsoft Copilot Studio and Dynamics 365 Agents with the D&B Commercial Graph - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnIxVzh5RF9FeVhzclluN25PaE1mbU5SVlpmV0prTUZUemp1Yld6V25yellRZHJCU1RIUW9MdHR3bmVqMzl5MUpPQlRlS0lTeWtDMHdwRll6alpmcE1BWEJpZEFJOEZCOF9kZC12VVNEX1pOeWVpZEFHUlZvTkZTN1J6OGdfV0QzQTJELTQ4aWJqY21UM1BkbVpZQW9USVptMlBQWllGTzJlaVE5WFFfc0VKNnFaX29XZ3BUeGp3WTdhMVczN2Z1bmMwdlpFQUFhdXEtLUVn?oc=5",
+      "summary": "Dun & Bradstreet Powers Microsoft Copilot Studio and Dynamics 365 Agents with the D&B Commercial Graph AiThority",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -22,6 +78,14 @@
       "title": "Why Are Customers Leaving My Website? Contentsquare Brings the Answer to Microsoft 365 Copilot - CMSWire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0hMZkM4d0VlZHVUZDcxTUtzZk1PUzROdWZnUTdRMkYzcS1ycjRDMVBKaXV1alJqLTREbTgtUS1DMnlPejg0ZU1fVVZHSU14Zll1TTJsMjZtLVZ2ZFpPRE5icXNvSm5FR09xNWxuOTJBbUJJdEo2UmdDOWxrSDFIdF9oLVFiVGtRMjNod3dhcFZ0VTBrRjlueXYyd1hHMDc5Wm5LanBjMFZoNEJYTHFnS2NsNkZBWWRuWGRTVlFDTnl1cHlNa1E?oc=5",
       "summary": "Why Are Customers Leaving My Website? Contentsquare Brings the Answer to Microsoft 365 Copilot CMSWire",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -67,9 +131,33 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity is betting big on creators - Digiday",
+      "title": "Perplexity is betting big on creators - digiday.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Fd2pXNnlESFFJeE1NMG5zalJ4ZnV5WWJiNUhGT2lKU2p3ZU5WbWxVdjN5NmdSVXpTVHdNZ2ZWSlZDckthT2U3eDlBLXpDSnlQWHJHRXZ5d1VQc3psMEd4U215UlMwTFVSTzcyVC1qRFZGSGd3dXBj?oc=5",
-      "summary": "Perplexity is betting big on creators Digiday",
+      "summary": "Perplexity is betting big on creators digiday.com",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94WHFrYzQwSWJpZVVQQ3RBQkhzUVhOOGU2cW15S0ZiM1hmTUF5VU9FcE80OXFhN0FJamdvSWdEQVUxVV9PU1lyS1lWelVzYTFXcm9mR2ZBVXNjY1d3eTJ0WXNzbzlEWE1GZ2R3ZkxzLU9iMlBsSW9kdmh6TG7SAYIBQVVfeXFMTmZGWnFrRkc1aHhRcmV3anJoZldab1M0ZzFlRkM1X1RjaXJwSGxoRTBzNVVxQ0hzTFhtd3BKNDRWUk1jdjhiUVFZNnVmQ2ZVZjBkMVZSZUlheXZLVGxjZW5ySmxFLXpmWndReUtRcGI0VU5wTUsxa0lOVnpaVTk4djl4Zw?oc=5",
+      "summary": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown The Mercury News",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Never Trust Facebook: 3 Ways to Protect Your Privacy When Using Meta AI - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTJHai1kYWJuU3NMYU5sSVRzMjZoSThEdGpMWGs3bWFINlZDazlwMFVoSW9vZE9EUURYN2pURzNST21xVUJxOUhxNWdiWFE0cHBjWnZvMnhhYVRvZHM3Y05Gbk1zVS0tU3puWGR3WnRqVzZzVy1KcndoOFdPbnR4bVpVR0I2cDNONGxYRmtCUVpQNnUySjdzS1VnVU1HbXl0NnRJUF93?oc=5",
+      "summary": "Never Trust Facebook: 3 Ways to Protect Your Privacy When Using Meta AI PCMag",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Comeback Could Power Its Next Rally - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdkxkZTU4RjYwSDk3NUJFeUcxSEJDREJqVzZ4WEpfR1N4VDV5V3JEZlhmTU1wcWQtUUdEVEkzM3Q4cnMyYlR1LWs1R2d1ZDZsRmNtdkVGb2x2MmZqRHBZZnlqQlFQR2J5RWJYOF8ybHpST01NZjJDN2d1OEZTUGs?oc=5",
+      "summary": "Meta’s AI Comeback Could Power Its Next Rally TipRanks",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -122,30 +210,6 @@
       "date": "2026-09-15"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI Says It’s Working With Anthropic, Google on AI Safety - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2hNbVd5RVh6MTNQU3RjMVBLdnZmbzhRTVhHSnJ0dko1ZnVNeUw2Tm1xLXk3VE5xa3phZTB3TmFHYjJ2emlUZHgyc0NSbEV1RFpGY3JCODFCNW52WjJfdFhVNzFFbExIY1lDS3BwalhUUllSWEtYNm1KM1ZJRHdVVTc4QnlhcFRiX2NnWUZmSlRwdmc4Z0FvQnNucW9GTXlqZW5PREhzWVlWTllxTHlJ?oc=5",
-      "summary": "OpenAI Says It’s Working With Anthropic, Google on AI Safety Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5",
-      "summary": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks TechCrunch",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUTZMRjU2TXJWcEJlV3BWYVJRaHo0OFQweFU3ckgySUJGYzBKZFdOTTlNN2ZVUWk4VlMwZjk4aUMxVWJPMjd5LVAyRXVVOUpNWlU0RHVkRkdTUEVPd2FQMGp3aUI0Uk5aclJxUHhaOV96VFhpYWZ2N3ByX3JyemFQQTRMb29EYmYxaW9jdDNWeGZIZVRra3Eyb1ZB?oc=5",
-      "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports yahoo.com",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
       "company": "Google",
       "title": "AI for Societal Impact",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -179,18 +243,18 @@
     },
     {
       "company": "Microsoft",
-      "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZE45cmRLM2pkYWxZSVRBQ3lCeWt6Z3FqcHlqYTZjQXlOUVhxUi1MRjdYNFM3S3k5YW9lMFZnc21DN1NZXy1fNU9BZlBIY1pMM3N4WkJoZ1lCLWlJMnRJYUNSb2ZlUEdfd1B1NFBqXzVuLWl4X3lERTIwSVRRZGlFM1oxOXhtSTFKOFR6UmxlY3AzV01nenFDTmJ6VGdsYmpGdW1uTGNCQmtJR3R0R2k4eWtjbkF6NzR6UjcwbGZqeUVxQzJCWmZIN25qZzdSbXM1azI2dFcxUXlPQWNZS203ZUhB?oc=5",
-      "summary": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead Microsoft",
-      "badge": "hot",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft Adds Brand Kit and New AI Skills to Copilot in PowerPoint - Redmondmag.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3Jfd0hMSkJ5cFd2b19Ob2JOeExvdDE4VHpsTjl1MjlSdEl3RFUtdXpoenFMbDBiUklReVNtVUFhTnpPc2pkYnNudWEwcFpHVkdERDc0S09GT2RLTlpXSVpGQS1FOS1Odk9iLWNtZVUxUndBZjFSZWVZNzJyMXp6SUpGdUppRWdZd1BqaEY3dmstT2ZRQy1hR1FXdDFaVVZ4bkRvbHdwZnF4S3RwYm9oSnNMMk9mQQ?oc=5",
       "summary": "Microsoft Adds Brand Kit and New AI Skills to Copilot in PowerPoint Redmondmag.com",
       "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZE45cmRLM2pkYWxZSVRBQ3lCeWt6Z3FqcHlqYTZjQXlOUVhxUi1MRjdYNFM3S3k5YW9lMFZnc21DN1NZXy1fNU9BZlBIY1pMM3N4WkJoZ1lCLWlJMnRJYUNSb2ZlUEdfd1B1NFBqXzVuLWl4X3lERTIwSVRRZGlFM1oxOXhtSTFKOFR6UmxlY3AzV01nenFDTmJ6VGdsYmpGdW1uTGNCQmtJR3R0R2k4eWtjbkF6NzR6UjcwbGZqeUVxQzJCWmZIN25qZzdSbXM1azI2dFcxUXlPQWNZS203ZUhB?oc=5",
+      "summary": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead Microsoft",
+      "badge": "hot",
       "date": "2026-09-15"
     },
     {
@@ -227,17 +291,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0hHeWRBZjk4VWx1TmJGT213VVg3c2lmWW9FSDZrSXEtY3h2N2tSbDJsZF9teW4wMkE3aUVGa1pFZzVXT29LM2VIQXV3UWdjSS1nT212TFBYLVZGdVNHNTFMb05KNHpaYUEtQWJxSUZmNVdVQjRLdnRsQ1Bmc0tjbGktX0d2dzFmOGNOWWh4NlJvd0xyMUllelp3dDJBUWVJRUZB?oc=5",
-      "summary": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models Startup Fortune",
+      "title": "Crusoe signs cloud deal with Perplexity AI - Bloomberg - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVqYUxVS2x6Ni03RVl3dGdxU0pDV3pQa3NMUnBJVDN1MWpoTWxyeDlqRndiU2YwNWR5TVNJZnBrTjZ6Tldzd1FBQm0zYWdQa0tENkdCbklCR2x4dkdjajl4VjQzczJyWmp5cjJZS0tJeEtZaEl0V3hsU3gtSU1QWlBtTTNleDltTjJjdGRvalh3VjZCNmhTcWViOXhhNE1na1JESXhXMU05Mld1dTRhbXF0UnJKQQ?oc=5",
+      "summary": "Crusoe signs cloud deal with Perplexity AI - Bloomberg Investing.com",
       "badge": "new",
       "date": "2026-09-15"
     },
     {
       "company": "Perplexity",
-      "title": "Crusoe signs cloud deal with Perplexity AI - Bloomberg - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVqYUxVS2x6Ni03RVl3dGdxU0pDV3pQa3NMUnBJVDN1MWpoTWxyeDlqRndiU2YwNWR5TVNJZnBrTjZ6Tldzd1FBQm0zYWdQa0tENkdCbklCR2x4dkdjajl4VjQzczJyWmp5cjJZS0tJeEtZaEl0V3hsU3gtSU1QWlBtTTNleDltTjJjdGRvalh3VjZCNmhTcWViOXhhNE1na1JESXhXMU05Mld1dTRhbXF0UnJKQQ?oc=5",
-      "summary": "Crusoe signs cloud deal with Perplexity AI - Bloomberg Investing.com",
+      "title": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0hHeWRBZjk4VWx1TmJGT213VVg3c2lmWW9FSDZrSXEtY3h2N2tSbDJsZF9teW4wMkE3aUVGa1pFZzVXT29LM2VIQXV3UWdjSS1nT212TFBYLVZGdVNHNTFMb05KNHpaYUEtQWJxSUZmNVdVQjRLdnRsQ1Bmc0tjbGktX0d2dzFmOGNOWWh4NlJvd0xyMUllelp3dDJBUWVJRUZB?oc=5",
+      "summary": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models Startup Fortune",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -338,22 +402,6 @@
       "date": "2026-09-15"
     },
     {
-      "company": "Meta",
-      "title": "Meta One Turns Instagram, WhatsApp And Meta AI Into A Subscription - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVA0UzdwZjJwWW04aTRsMzNKaUs2eGdOZDhqQXc4TjZ5TmxFNTEydUhabFhkX1Rfbmh1WU1CUUdnekw1OTZKcjR6M1FicXNmUGJxbWNKWFFEa2R2Ti1KUXd1X3JVMG1Mck9wYmpkSXJFVmFlTExlbjNseGlUZExMYlJKWEhHMVZfaTJ2ZnVQM2V1OHhhR0I4RzRla1hxVGVlLXRxWUNHS1g4b0R1YjRNWUZkVUszWVdXT2lNYl93VVBHNHNy?oc=5",
-      "summary": "Meta One Turns Instagram, WhatsApp And Meta AI Into A Subscription Forbes",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTA2ZURVeElEZXBSMFZuVG5YTEhPQVlRY0diaUJhejNIcXJ1UERoRGtrbVlCdGlFUVVqME0zaE15TmFqUjFvQzM2V05BYmtsYzVZMzJCckxOcHlBS0tJZUx5TkJWRnBCZzBwTmpVTmdENkFuYWVKUkJiZTBnY0VBeFFwR1Vtekl4RUUtOXZZRGVyMUNiUGtyelNPX09XTnB4aVNFYkpsTThHdw?oc=5",
-      "summary": "Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits The Information",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
       "company": "OpenAI",
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
@@ -387,33 +435,17 @@
     },
     {
       "company": "Microsoft",
+      "title": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy - news.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2FZT2VIMFZmS0xkQ2hZQ3FtbmRubnFDb3B2TGVyTkRqN1FXYU9iekttYW5EbGdEenczV1R4V3FncTlOa0xZckJsaFJNQ1lfS1kxdm5adm4yemxKSGJnWUhwOUFoa2lRdk5rSDhidUVINENlY21kcmoxZVlQbHV1TzA1YkJWSVRiWG9IQkdpQkJOZ0RkSm1LWFhzdmlqNG5VNU9VbVJtLXZTVHBlMkNCMGZFS3F5NWNvX2JtSVYwZU85TkViYm5yV0NaUVdMb29WRXlmNE0yd25HT2NsNm9tRnJTLUFyeXZmVENSZldLbXVpWXM?oc=5",
+      "summary": "The New Media Movement: How the Copilot Creators Collective is Shaping the Future of Creativity and AI Literacy news.microsoft.com",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft sets limits for future AI models as industry throttles frontier development - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlJYLXlYazNYam85R0djdHlHOENQdGhCZkdQY1l0LTdmYnNMS1ZocFBpUl9wS2ZqamZyWXQzcXYwaW9vdkRMbEJ0ZFFFb3dydHNIdFBfbXNBVjJrdlB2NlNVcVBKMEdTWjVzd1VUeGtXcnJqUS1vMTI1WVRlWnZFREsyMnhiZ9IBiwFBVV95cUxONVNwbzBjUWFaOXRVblJ1ejIyRVlObEdPNW16aEVPaG9VRWxydExnZ2dvSzROWGprTTdYaG0wbEJ3aDJUb1RuVENIVTdySDVvTTBCR19YakpPTG5JeHRiYmRPY1pub0lBTFBvV01vS3lUeFpSUUp6U3QxdW9uZjRQdTY0b2ZYNUszbGtZ?oc=5",
       "summary": "Microsoft sets limits for future AI models as industry throttles frontier development CNBC",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDhfREE4UHFhTEhPUS1uX2RBRzJDb2tLcWpIN05jdlhhbk11eXBOUVRTV3E1bVpkem15ZE5FMElvWHVndmtyOWw1Uy1mbmRMQ3JpcFVkdVR5MzlnRmFqUDBkTkg0RXRJeFdiemVERU5OeGZuNXl5T0czd043c1dURFFVQXl2SVVXM25tT3E2cElMX1FNSWhYY3NSN0xienpVLXhsQjhCUm8tejh5dUd3TFlBUzlWeVVodzVLcmlnWUhsemlVNHE5VUh1X2lyVGtJSi0taGxQRjY3YjJrNWNmMmhR?oc=5",
-      "summary": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional Windows Central",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft AI chief: ‘Now’s the time’ for top labs to coordinate on safety - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRk94VXVubnduclB5d24tN1lwZy1NUDl0UXpTYV9KZmNNVTB0QlFWUjZRWENOYThEZlU1VWhPODJweFNjZkd6emlHVDlBMmxNSG1ROWliUHVCZnF4WkJ5TDJ6UDVTdW9VWHVhV1pOaU5SRU55V3ZIVFlEQjRPNUJBMjlB?oc=5",
-      "summary": "Microsoft AI chief: ‘Now’s the time’ for top labs to coordinate on safety Fortune",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGxuNi04LTNuYVlTMzNLQk94SnMwQUNIaHcyemtsZEhHR3ZJSjFKQlpsZ2JENFBiUklQVEUxVjhGbDJiVmFWb2t2cUlhdWlITFduWEpDNGNRM3k5LTJDM09FZzBnc0Q2TURqT203c1VBdkNvSy1aSnBCTmFqaVBlQmVwY2k4cFlJOEJwWEVMOVI2X0Iza1ZaRGhMYmI1LW1hNGVacGMyWnJwSC1TS0FQZkpIaUZHX0hkMDFtVVN1QmU3OWJRWVlQMDRVX0o4WG1BQWJ2ZFNxQkpIdlNrVDZWOA?oc=5",
-      "summary": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog Microsoft",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -450,14 +482,6 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Meta",
-      "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
-      "summary": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns Barron's",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
       "company": "OpenAI",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -470,14 +494,6 @@
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "badge": "new",
-      "date": "2026-09-11"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.",
       "badge": "new",
       "date": "2026-09-11"
     },
@@ -511,22 +527,6 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "badge": "hot",
       "date": "2026-09-10"
     },
     {
