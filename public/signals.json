@@ -1,6 +1,70 @@
 {
-  "updated": "2026-09-15T20:46:11Z",
+  "updated": "2026-09-16T02:56:34Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Major updates for Apple’s software platforms are now available",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "summary": "Apple today released the next generation of Apple Intelligence.",
+      "badge": "hot",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple’s new child safety features now available",
+      "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "summary": "Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI Tipping Point - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmpRbnhYV3JKSk1ickdjVks3SEYtLXY1VWFRZEJSYS1oNEJiLTQxMjltbE1BTTNaWnB5QlY0SmpKNnJiQS00UGFGci1CeGt6SVRXTTA2YmZVLWJyYnJnUC1HZWl1d3NrQmRtT055eFdRWUFOVEZ5aTEtSVpqaGNnalcwV3hSMHZf?oc=5",
+      "summary": "The AI Tipping Point Time Magazine",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZTRfbU9qV2pjcHdCVmNGbUo2NElLSzQwUFpqZ2E0cVVSZlpFTk9Lb3FQQ3FCV0NxTEMtZ1FaQVVWMFdXUks5djdEVHVqa0Z3YmJZTzdpejMza2c?oc=5",
+      "summary": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards BBC",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What are the top threats posed by AI and should you be worried? - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0RCZlR6TWY3TUNZS1B4ZlFZY2MwMUx2UlNhbk1xQ1Nrb1FGWTJqZGs4Mk12MWJuUGhOUU56QmpuSWRVNThsNDRnSjVOZlk2dGpPMXo2ZDNQOG52OHlZQmV6elpEcGY5cjI5anlhWVNLc3BqbzBuWDUtVG5LQ0RuMWtR0gGHAUFVX3lxTE1iZW45ekFQM19nMzd4YlZxcWw4Z0J0c3dVc3k0UzFraHVBMGl4NEtqaVd5T3FQemE1emJBaEpRVEdEUGJaMU9UX1JDaFQtQm9rR2E5YzdsbDQxVTQtT21MTFpiWlBRMDVXaEJKWC1YTVBtZm5CVERMeXBZZkUzWktGZi13MHM1NA?oc=5",
+      "summary": "What are the top threats posed by AI and should you be worried? abcnews.com",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
     {
       "company": "Anthropic",
       "title": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks - CNBC",
@@ -51,14 +115,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZTRfbU9qV2pjcHdCVmNGbUo2NElLSzQwUFpqZ2E0cVVSZlpFTk9Lb3FQQ3FCV0NxTEMtZ1FaQVVWMFdXUks5djdEVHVqa0Z3YmJZTzdpejMza2c?oc=5",
-      "summary": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards BBC",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Anthropic",
       "title": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
       "summary": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown The Washington Post",
@@ -99,6 +155,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZE45cmRLM2pkYWxZSVRBQ3lCeWt6Z3FqcHlqYTZjQXlOUVhxUi1MRjdYNFM3S3k5YW9lMFZnc21DN1NZXy1fNU9BZlBIY1pMM3N4WkJoZ1lCLWlJMnRJYUNSb2ZlUEdfd1B1NFBqXzVuLWl4X3lERTIwSVRRZGlFM1oxOXhtSTFKOFR6UmxlY3AzV01nenFDTmJ6VGdsYmpGdW1uTGNCQmtJR3R0R2k4eWtjbkF6NzR6UjcwbGZqeUVxQzJCWmZIN25qZzdSbXM1azI2dFcxUXlPQWNZS203ZUhB?oc=5",
+      "summary": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead Microsoft",
+      "badge": "hot",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Adds Brand Kit and New AI Skills to Copilot in PowerPoint - Redmondmag.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3Jfd0hMSkJ5cFd2b19Ob2JOeExvdDE4VHpsTjl1MjlSdEl3RFUtdXpoenFMbDBiUklReVNtVUFhTnpPc2pkYnNudWEwcFpHVkdERDc0S09GT2RLTlpXSVpGQS1FOS1Odk9iLWNtZVUxUndBZjFSZWVZNzJyMXp6SUpGdUppRWdZd1BqaEY3dmstT2ZRQy1hR1FXdDFaVVZ4bkRvbHdwZnF4S3RwYm9oSnNMMk9mQQ?oc=5",
       "summary": "Microsoft Adds Brand Kit and New AI Skills to Copilot in PowerPoint Redmondmag.com",
@@ -123,46 +187,6 @@
     },
     {
       "company": "Apple",
-      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Major updates for Apple’s software platforms are now available",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "summary": "Apple today released the next generation of Apple Intelligence.",
-      "badge": "hot",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple’s new child safety features now available",
-      "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
-      "summary": "Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
-      "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Apple",
       "title": "Apple unveils iPhone Duo",
       "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
       "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
@@ -182,6 +206,22 @@
       "title": "Crusoe signs cloud deal with Perplexity AI - Bloomberg - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVqYUxVS2x6Ni03RVl3dGdxU0pDV3pQa3NMUnBJVDN1MWpoTWxyeDlqRndiU2YwNWR5TVNJZnBrTjZ6Tldzd1FBQm0zYWdQa0tENkdCbklCR2x4dkdjajl4VjQzczJyWmp5cjJZS0tJeEtZaEl0V3hsU3gtSU1QWlBtTTNleDltTjJjdGRvalh3VjZCNmhTcWViOXhhNE1na1JESXhXMU05Mld1dTRhbXF0UnJKQQ?oc=5",
       "summary": "Crusoe signs cloud deal with Perplexity AI - Bloomberg Investing.com",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Crusoe signs multiyear cloud deal with Perplexity - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUtsNnl5bnU5c1dZanIxNHRnTDlkYmM0SDRyV3N6OUd4bEhSOGdMTUVyVmUzcXE4bVZmMUJRbnZsS200ZWhTVjVDWUVHRlc2cXB6WTE4M3BDVTFHdW9xbVBjaFNoYmZNLURyR0h2Y2tvNFFsbXBDaG5tbDl0RXRSNURJSGstRmNhSnZrUF9GR2o3UQ?oc=5",
+      "summary": "Crusoe signs multiyear cloud deal with Perplexity Briefs Finance",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Crusoe signs multiyear Perplexity cloud deal for Nvidia AI chips: Bloomberg - Blockspace Media",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Z2MS1uY0tISEZXUWxhZjlMbHlpWUFzWXM2TlBieExSZ0t3enV0b0RmRWhpOVZBRzN6dnVGZElTaDVGY1BiQTRaVGdLTTBMUkpqUHFVRDJ3UEhIYy15TmJXdzN6dFdWdzhQSjJWUWI5QlhiXzg0NjJmUDVLcC00bGVCZEo?oc=5",
+      "summary": "Crusoe signs multiyear Perplexity cloud deal for Nvidia AI chips: Bloomberg Blockspace Media",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -235,6 +275,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta AI builds detailed profiles of children from years of family posts - Malwarebytes",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVpIQzJHd3RkcU1TeGF2cFpYdHNKQnUySXhEY3EtRWhzckVUOFhxdnA5LXVZaFdpZThMWUZ1bGZCQ0FkQ291VWxCRVBZUDNId3VrS085WnF6SzZIZG9DVnBEMjBYZ1JKS2JNS3NUVzdlZ3MxT3BnLUF1eC1Vc1hpaFJzSlh4d3hGS3ZFN1dpdU1zYkN1VGtUWjhlaUU5aTdybFhOUG1PODZIUVhXREJsQm8xUGJRSGxSX3luMlJBZzFlSHc5bnhkeDRBLS16U2s?oc=5",
+      "summary": "Meta AI builds detailed profiles of children from years of family posts Malwarebytes",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns - The Information",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXhWNnRjZHVTcXNEU2JjRlVPR0t1REJVZ0VTZkE5dlpkd3h6NGFYa01icF8talRXLWdFa0twNUVtdW5yclppcE5UMjZZRHF5d1BSOW4zMl9LNTdyRHhRejRqaXJUNjFEcXlsTmtSbGFScnRyWUdDeEN1a1h5MU0yQTZRdms3VndQeUtpUVlnMnVBUG5IYUsyOVFlTHIteThiWHd1bmFlaWswdFVZ?oc=5",
+      "summary": "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns The Information",
+      "badge": "hot",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Meta",
       "title": "Meta One Turns Instagram, WhatsApp And Meta AI Into A Subscription - Forbes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVA0UzdwZjJwWW04aTRsMzNKaUs2eGdOZDhqQXc4TjZ5TmxFNTEydUhabFhkX1Rfbmh1WU1CUUdnekw1OTZKcjR6M1FicXNmUGJxbWNKWFFEa2R2Ti1KUXd1X3JVMG1Mck9wYmpkSXJFVmFlTExlbjNseGlUZExMYlJKWEhHMVZfaTJ2ZnVQM2V1OHhhR0I4RzRla1hxVGVlLXRxWUNHS1g4b0R1YjRNWUZkVUszWVdXT2lNYl93VVBHNHNy?oc=5",
       "summary": "Meta One Turns Instagram, WhatsApp And Meta AI Into A Subscription Forbes",
@@ -266,22 +322,6 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
-      "summary": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation CNBC What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development The New York Times Anthropic, S",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw?oc=5",
-      "summary": "Anthropic targets financial advisers with new Claude tool Reuters",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
       "company": "Google",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -299,6 +339,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDhfREE4UHFhTEhPUS1uX2RBRzJDb2tLcWpIN05jdlhhbk11eXBOUVRTV3E1bVpkem15ZE5FMElvWHVndmtyOWw1Uy1mbmRMQ3JpcFVkdVR5MzlnRmFqUDBkTkg0RXRJeFdiemVERU5OeGZuNXl5T0czd043c1dURFFVQXl2SVVXM25tT3E2cElMX1FNSWhYY3NSN0xienpVLXhsQjhCUm8tejh5dUd3TFlBUzlWeVVodzVLcmlnWUhsemlVNHE5VUh1X2lyVGtJSi0taGxQRjY3YjJrNWNmMmhR?oc=5",
+      "summary": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional Windows Central",
+      "badge": "new",
+      "date": "2026-09-14"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft AI chief: ‘Now’s the time’ for top labs to coordinate on safety - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRk94VXVubnduclB5d24tN1lwZy1NUDl0UXpTYV9KZmNNVTB0QlFWUjZRWENOYThEZlU1VWhPODJweFNjZkd6emlHVDlBMmxNSG1ROWliUHVCZnF4WkJ5TDJ6UDVTdW9VWHVhV1pOaU5SRU55V3ZIVFlEQjRPNUJBMjlB?oc=5",
       "summary": "Microsoft AI chief: ‘Now’s the time’ for top labs to coordinate on safety Fortune",
@@ -310,14 +358,6 @@
       "title": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGxuNi04LTNuYVlTMzNLQk94SnMwQUNIaHcyemtsZEhHR3ZJSjFKQlpsZ2JENFBiUklQVEUxVjhGbDJiVmFWb2t2cUlhdWlITFduWEpDNGNRM3k5LTJDM09FZzBnc0Q2TURqT203c1VBdkNvSy1aSnBCTmFqaVBlQmVwY2k4cFlJOEJwWEVMOVI2X0Iza1ZaRGhMYmI1LW1hNGVacGMyWnJwSC1TS0FQZkpIaUZHX0hkMDFtVVN1QmU3OWJRWVlQMDRVX0o4WG1BQWJ2ZFNxQkpIdlNrVDZWOA?oc=5",
       "summary": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog Microsoft",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDhfREE4UHFhTEhPUS1uX2RBRzJDb2tLcWpIN05jdlhhbk11eXBOUVRTV3E1bVpkem15ZE5FMElvWHVndmtyOWw1Uy1mbmRMQ3JpcFVkdVR5MzlnRmFqUDBkTkg0RXRJeFdiemVERU5OeGZuNXl5T0czd043c1dURFFVQXl2SVVXM25tT3E2cElMX1FNSWhYY3NSN0xienpVLXhsQjhCUm8tejh5dUd3TFlBUzlWeVVodzVLcmlnWUhsemlVNHE5VUh1X2lyVGtJSi0taGxQRjY3YjJrNWNmMmhR?oc=5",
-      "summary": "Grok is officially inside Microsoft Word and Excel, but system prompts will keep it strictly professional Windows Central",
       "badge": "new",
       "date": "2026-09-14"
     },
@@ -386,22 +426,6 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Perplexity",
-      "title": "Nvidia partners with Perplexity to bring Portable Computer AI to Windows PCs on high-end RTX GPUs - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3JGWnZxLTF1QU0wa0xYNFotZWozTjU4YU1uZm5SMnVuRUZzSHVkTHhoMm1OVWtsNkxjQlBVVFpQa2RRdWZTUldpaGpFU1NoWnhacTRvX29jemtKU3ZFLUpncGFsYjgxN19LenRFdmUtZDhoQzktNm5UUEhwMVV2VjR1NVJPZm9TeXZqMnNBRFMyTXZjU1NOX3Q4ZkdtN3Q0SWVfMHB4VkVfTmJmTDZoRU5LbUZtWU1taUFacEM1d0V1N3I0WGpxemR4a0Q4M1ll?oc=5",
-      "summary": "Nvidia partners with Perplexity to bring Portable Computer AI to Windows PCs on high-end RTX GPUs PC Guide",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Brings Its Local Portable Computer Agent to Windows PCs - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFFrRjJsZmc4TGQxNUVsWGM3TUFNdmRwckRmNi1fWlRLLTdiSVBxYjZZZ09RbXZCRUF3QldxWEgwZ0RGWTlyY0JyTHRDLV9HMHctY05aY0FmVHFLSnprT3ZYdGNGWDJZRDF5WEI4X1pVdUFZWmFwQm4xZDBDYkE3RlBodFZfeGUyODVCbWhjZHp3dw?oc=5",
-      "summary": "Perplexity Brings Its Local Portable Computer Agent to Windows PCs Unite.AI",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
       "company": "Meta",
       "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - Barron's",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
@@ -418,14 +442,6 @@
       "date": "2026-09-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Announces Grok Rollout To Copilot Across Office 365 Apps In Multi-Model Push - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVV6ZzBIV1FWODF0cU1mT3hDTlpQOEV1ZGhXbzFnNzNSdVhkdVo0SmFpU0RiUU1DV3R6bmhXM0ZIVFh6eWd4NEVoQ3FBMWw1NkJEMzN1TW1yMllrZ0c1VUprTGp1eFdKR2FXMEc5Z2d6RmhMZEc3b0w0cTduMVdRcDQzSEhMQ2tJMDhKaE02Q1ZSQWxGdWJhR1JuLXZMcC1Ha2VISThrZHZnRW9KZjFMZDlQakktM2JxM3lxeHFnbGNfcTNwNXZfMVMyZXV1dw?oc=5",
-      "summary": "Microsoft Announces Grok Rollout To Copilot Across Office 365 Apps In Multi-Model Push NDTV Profit",
-      "badge": "new",
-      "date": "2026-09-13"
-    },
-    {
       "company": "Meta",
       "title": "I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcC1pUWttN0lRWmEtUmx4V0EzTHEzeHlCRnpIT3F1dUZqTEVDWVhJNUpXbmtMNFllZERZTVhYOEJobTJxeno4ZHVkR29pYkROMFNXZlcxOUZianJnZ3dhQmthZ3VjbGU1M1g2Njc1ZUFVNmJEejY2QW5SV2RWTi1TT0gtTmVlV3NvbFNmbl9GejduajlTTGVmZDNIa1A?oc=5",
@@ -438,22 +454,6 @@
       "title": "Mother Calls for ‘Accountability’ After Meta AI Mines Family Posts for Info on Minors - CNET",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDRZMDQ2LUctREVJaXZWVWJUdDNNZWZaTVltalZvaURJcm5yZVk3OUdiZEFWQVNOLUthVHByV2JYQVdVamVzaDhqd3k5dlVheGRhNXM4VHM2WVJMd0lsaU1RcUh5MGhQdVNEdXYwblVLcGRkd1Vtc2p5bVRwWVFiYXNPOHRQRi05dkx0a2lzSEtfVXJuNWx1N2ZrVDY?oc=5",
       "summary": "Mother Calls for ‘Accountability’ After Meta AI Mines Family Posts for Info on Minors CNET",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tRa3ctWV9IcER1UDYxWjU3WVRsWWoybGVaaTVOSHFsczRJaFJVeHBDSGNGVzBBeG1KOWc1a2JESG5CeUttV0pnbmRrNGRCeFhpakJMdlhkc1dfS0FvYXlxTFc1UEN5a2JlbkFaTUNCdkhDZk9aR0VrR2JVWVEyWXFKQk0?oc=5",
-      "summary": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them Fortune",
-      "badge": "new",
-      "date": "2026-09-12"
-    },
-    {
-      "company": "Meta",
-      "title": "How To Get Started With Meta's New AI Agent, Muse - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lUVE9KRmtVQlEzWlNhWGJWYVl6U09RVnV2VmNaZkw4WXAwTDEwSFR2WTVZMDZzMEVQQTg2QktTcHZZX2NrcGJVWnotMWFqY2JKMnZQMkRlU2NTREZXbXN4cXlTaWVGVEN3NHRiMnZNdHZSMF9OZjFzZGVIRUZlbHRtV1N0cUtJYkE?oc=5",
-      "summary": "How To Get Started With Meta's New AI Agent, Muse Engadget",
       "badge": "new",
       "date": "2026-09-12"
     },
@@ -579,9 +579,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features - TechRepublic",
+      "title": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features - techrepublic.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yR0h2cHpfR0dFbGdORDBxSkhyQ3BtTDJISzI5S1ozMGRVX3JIR2RWUm9pdmlLWF9BeW10dVU1Z0FISDMyNXhGNGJQRWh3cGt3N1hsVmNfUHk5bEU0bHJTUlA3VURQX0tiNTVIa3p6ZmlVVnp6?oc=5",
-      "summary": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features TechRepublic",
+      "summary": "Ring’s New TAKE Encryption Deletes Video Keys Without Giving Up AI Features techrepublic.com",
       "badge": "new",
       "date": "2026-08-27"
     },
