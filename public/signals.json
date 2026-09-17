@@ -1,11 +1,19 @@
 {
-  "updated": "2026-09-17T16:04:17Z",
+  "updated": "2026-09-17T20:51:56Z",
   "signals": [
     {
+      "company": "OpenAI",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "badge": "hot",
+      "date": "2026-09-17"
+    },
+    {
       "company": "Anthropic",
-      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5",
-      "summary": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears The New York Times",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs Anthropic",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -14,6 +22,38 @@
       "title": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety - WSJ",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZ1ZRUnVkR2YwbU50cWVaYVhxNEd2YnZ2ZVMzdlJWa1NvTXg3NUEzcEVfOWZ1Z2JuVlRlVVdfbm1HQXBKNEFNNjFJSmJra2FMMU9HZ014ekttTE0wQlJNYktqWFdNNF9YanJuR0NjaThSdk9zRnVVdzEwNTV2Zw?oc=5",
       "summary": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety WSJ",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Protesters call on S.F. OpenAI, Anthropic employees to quit their jobs over ‘extinction’ fears - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEhwQlZzN1p0QXhYUmJETkpleTA2WHo3anY5eF9ZR1RBYjVtZVdxNGRYNElvSk5XeWExaDVKTktMNXFIclktQ2RlZXpacXFFaWt1VUR6UGhzb2NXZmJ5bkZ1dmM3SC1RRExKX1p0d0RpM2NGWHBQVnhnZGJNbU9yOFRQak56ZXZseklDcWdUdmc4d0tPcEJGWQ?oc=5",
+      "summary": "Protesters call on S.F. OpenAI, Anthropic employees to quit their jobs over ‘extinction’ fears San Francisco Chronicle",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US government website used AI search tool from China that FBI said copied Anthropic - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSTBHb0F3bjFOTVY4RDExZ1Q4SUVqOEppWEdrc0t0TUhUc0NZNG0yZl9Da2daU1RyRnZPYlMzSDRRM0UzTlgwSHpTTDBKR201eVJocll5WHhKdDZNekVTTnBiQmhLaGZaaXZXQTBPRncxNjVUQjNIWU50RWRNd19wNmR4VGdNMzJEeGpoMXRNSG9Bd1JYc0ZYemZkUXZGUXBLRVBLYnozN1FmZ1dlcTYwdHU0aEtxd2RJOC1jb1M5empFdmNSWEV5bzAwTQ?oc=5",
+      "summary": "US government website used AI search tool from China that FBI said copied Anthropic Reuters",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI discloses more rogue agents, pressing debate on regulation - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUFJeXlLd29rc2pfZDgtbFZsWXlHVTFzTGRzNUxiN0VwdUQ3a043UEJ0bWljUTVzYm9LbnJWLXpkV2prUXdaNjhqc0tZYTBRZEw3bG1uYWlfNEh1Z3hwVHU2WUtLOUpxa3F1bk5NdXZ5TmEycGxuaVpIaWhpUUZpaVZFRlhCY2ZEYWlNNlFSQkc5WGVUNWN2MENB?oc=5",
+      "summary": "OpenAI discloses more rogue agents, pressing debate on regulation Fox News",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5",
+      "summary": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears The New York Times",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -42,18 +82,26 @@
       "date": "2026-09-17"
     },
     {
-      "company": "Microsoft",
-      "title": "What 40,000 agents reveal about the future of enterprise AI - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVwUWxra2drNVBTYVFnNmxHa1hiTWs1bFloc2NnNDhNeEtONGFDSGExMnpabDU5OVNOU3k5T1Zra1dnTXpDbkhPOWNVSFhwUVRoblhGak9EeUtKMEE5NUhQM1g4U2JTQ01jTGZ0c3ZrNm1FNk4tcF9hYjg1YWNxMHBMZ0Q3TUd1VHViN0pSOFJUMHVNSDdxZjJwRTJqNzctVUNYOVdBU2FiQVFhZGNRN2xCTDlRMi1kc09r?oc=5",
-      "summary": "What 40,000 agents reveal about the future of enterprise AI Microsoft",
+      "company": "Google",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "summary": "UN System Data Commons Data webpage",
       "badge": "new",
       "date": "2026-09-17"
     },
     {
       "company": "Microsoft",
-      "title": "NFL Week 2 predictions by Microsoft Copilot AI for every game - USA Today",
+      "title": "Having issues with Microsoft Copilot? Here's what's going on - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcU9JMUhnUGpZZG93SmhGT1JfSHY4SkR0QzA2VHdaVXhhLWY3LXFJd1VUSVRDbFZ5OHJ1bHRuaGxXZmQ5WnZmSEdHcHppSzhjTzRWZ05yaTFIQXY3d1FxMmZVZndxTmxKUEdvaXBsTjBtNzZLdEtJZmRtQTZwRmNQN29n?oc=5",
+      "summary": "Having issues with Microsoft Copilot? Here's what's going on Android Authority",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "NFL Week 2 predictions by Microsoft Copilot AI for every game - usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEh3ZUF3UHMwQlNaTENpMmU1dkZsQkZVbGRTLURRQTM2VGZlUXc3VURVZHpFVllJU2Rid0VYd0I5X1BrVWFhMW1BejFtQzdsQlZCY0tYYW5wdnl2Q2VnSGdUbE9XNmtpMDY0U3VHQUFObjhKV2tjUHJmX3g2WUNkM1prSGhGdDFScEVhdGswbXpJWXpzbEp6SWowQ2Q3VUNYeVhmYg?oc=5",
-      "summary": "NFL Week 2 predictions by Microsoft Copilot AI for every game USA Today",
+      "summary": "NFL Week 2 predictions by Microsoft Copilot AI for every game usatoday.com",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -62,6 +110,22 @@
       "title": "What Is Copilot? Everything You Need to Know About Microsoft’s AI Tools - CNET",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1MzQWloamZVWHlqbmlRcEp4TEhHRnNNVkZqRVJBUzZ5M21RbUM2WWw4ZS10dHRTMzZ6NEN4am5reEpFWDB4akJqNHRzT3NFMndkdXBwWHI0OGc4MWQ3ekJIZ29xMEdUVnBEc0VFRlVIVFBTTkkwS3dGdG85QlN4ZS1feEI0by1zOVdneFFtZ1FZZzVON2ZzSWdNZ3p2SE5jNE5GSQ?oc=5",
       "summary": "What Is Copilot? Everything You Need to Know About Microsoft’s AI Tools CNET",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Is Copilot down? Copilot not working. Is Copilot down right now? - Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmx5TEEyS1hHa0JvS29MUGwzand1TnB3Mi1sM2xrM3YyNGJPLXpYSHJIN19TdnRYQzcybnhtWGtGd29HbUJzRUhtTWFoX1g0eDc0M1RpVWZRUmI3Z2lfTmo1dmZtWU9iNWVjazV6NnpIQ1JTbGdRQjNCalBSa255ZUVsRXFCUS1kYlRzLXozMjRHTkF6cmxNSUl3U3B0UzJnMjZNbVY2RlB6Rmc?oc=5",
+      "summary": "Is Copilot down? Copilot not working. Is Copilot down right now? Asbury Park Press",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Microsoft",
+      "title": "What 40,000 agents reveal about the future of enterprise AI - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVwUWxra2drNVBTYVFnNmxHa1hiTWs1bFloc2NnNDhNeEtONGFDSGExMnpabDU5OVNOU3k5T1Zra1dnTXpDbkhPOWNVSFhwUVRoblhGak9EeUtKMEE5NUhQM1g4U2JTQ01jTGZ0c3ZrNm1FNk4tcF9hYjg1YWNxMHBMZ0Q3TUd1VHViN0pSOFJUMHVNSDdxZjJwRTJqNzctVUNYOVdBU2FiQVFhZGNRN2xCTDlRMi1kc09r?oc=5",
+      "summary": "What 40,000 agents reveal about the future of enterprise AI Microsoft",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -115,10 +179,34 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI chips and Meta One strengthen Bank of America’s outlook - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SGI4Q2hnaGQ0Y2k0QlZQNk1IS1dvdElxRU9qSGZkV3lFdWJnMUFwOU4wZkY3eUVEeUdadl9tRFhvRUFDLVZJbFdkVDZFb3Uwclp3TWFISGk0dmY1SVVyX3Q3b0xTc3ZCUEttbmplb1J6aVNGWjRlQnJvUQ?oc=5",
+      "summary": "Meta’s AI chips and Meta One strengthen Bank of America’s outlook Yahoo! Finance Canada",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE1WVzdXbDBBM2kwaHpnb21tTnBWZUJSdE9VTFNSMThaMHB3Zk16TjRHdTBrYlM1UWs3eUttVHBYc3ZJcC14YUlvOFgxeElfNmFvSFFEWmVDYzhHc18yVXM1WVl5MUdkVFloUFVBemotaDBMNTBSTkVhOW90YUJNZWtnbG5tRGZVNk5IdlhxMG1fUnVxSmVfUmZsQWNCOUs3MzVaY3NkOWdLOEc0eHc?oc=5",
+      "summary": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls TechCrunch",
+      "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Meta",
       "title": "Mom says Meta AI crossed the line after analyzing posts about her kids - NewsNation",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzVIWjBHLVBfaEFEUHdEZTJRNElfeEJ2YXpaZkxjcDdIR0pwX0pqM1VzcjQzMjJSMzF2N1BqRUxTVllQMklQcEZablV6cUVJUGFINUZmUTBTTDNwN2M0eVdaZ2xEbi13UUZHRktiUTZ0SFRiVGUyTDU4Yy1qS3JxZmhFQXdhclJjQXdCb2I5SdIBlAFBVV95cUxOcEFpSmpTSDJTRm9Jb2p4XzdJVlB4T3RSTDQxU0R4eG16VHRRRmxoVjdadDVSU0Jsb0cxM182empkNzg4bGNWbnRldmhMU3VRZzUwcUpzQjdkOUtfM3hCVTk4NVRlQUM2X2lpb3VuUDBKdzFqRWx2QVFNWjNhNTZ0MWxpTnl6bTY4a3A0XzBZQUdWS3Zi?oc=5",
       "summary": "Mom says Meta AI crossed the line after analyzing posts about her kids NewsNation",
       "badge": "new",
+      "date": "2026-09-17"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta could unveil camera-free Luna glasses - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43ZFktcW9lOGxsbUhoOG5OVmpGTlIyNEJGcDNnQlpXQWNvODJZMEdLc1lTaGE5SS04QVo5TFp4bGJVMl9sOVlyWHBPbUtRVU9NRU1sdkx5VWhoRjJzaG5SLWpObjUzcUR2bGYycF9pMGlaTUg1MEt3dElwUQ?oc=5",
+      "summary": "Meta could unveil camera-free Luna glasses The Next Web",
+      "badge": "hot",
       "date": "2026-09-17"
     },
     {
@@ -178,38 +266,6 @@
       "date": "2026-09-16"
     },
     {
-      "company": "Anthropic",
-      "title": "Novo Nordisk Will Use Anthropic’s Claude for Drug Research - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDByMU5QYk8zV1dFZ183Rmlocm9QS0dURE9HdXhiRjFwYXJuOXlZTnhXNjh1aWMwQzJoX3BFNk9GcllUZ01pUy1FYzJTMzNPVGRIdGZzV0RRa0FKakxXV3lBdnRVUEhnOE11YUpxdHJJcFByUEcxZ25EYVB3MlZkcnB0X1Q1b1JGWEJGNkloa3NnMHFtN05JZmJIUlhQSDh5YkRIVjRaM24?oc=5",
-      "summary": "Novo Nordisk Will Use Anthropic’s Claude for Drug Research WSJ",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5",
-      "summary": "Microsoft AI chief calls out Anthropic's approach to AI consciousness reuters.com",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JCREtIdFpLTWZNUmZFUnM2UGZBdUR0bTFBMDNwQnZSeVFiRFEtOGdSX1ZiSUE3d05RZlhjT3owRFE2MmlyY1BLeHJYZ2l0RXk4LVg1bkZfU3ZWM0VMNWkzZ1NoVG0zRkZXRXNwOVd3MjZuVlVlbUxvdVllZzBJWE1XRFVIci16UDVZSXBVRzQ0UVJJZTJzRVdyc0RwOVRaRzhWYkdOa21JU3NYREpMaEhldw?oc=5",
-      "summary": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code' - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZloxWlZBOWdQOG1OVUVSLXJHUTFzRmhhdUxwZDZyajJWdXB2em9rRVBLSWNrdDEwNDRCS1lXZzRyXzRfbFljZEQyY1ZKd25CdW5oQ2VycFF6N3pHbmp1c3NLY0Vydlg4R1ZKcWNPNHZWcHNWTXU2UU9VMy0zRDV5M19xSGVZSWMwd2M3VWxOUDV4eXRudjk4UENfcHB5cmota2tFT1NCSdIBrAFBVV95cUxQdU91elVSV1RfWENhNFQ0QXFOc0Y4TjdXV2hGME5xajJLUHpVUURKd1lxbWt0ejVHTm1yUkt4cVc3WWtxM0F6UG4yV2dMaXFaS2xqOFF1eVNBUzQ3LS1DUlNzSF9xUWNwN2ZQUFlvcHZ6Y0g3VDEteHlDM2NGaERwMC1xSkMxajJHWXo3aTF1cDRyTmJqWDY2SEtlWjBQazh2NzQ4RnZzMDRGQ0dt?oc=5",
-      "summary": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code' cnbc.com",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is holding another OneDrive + Copilot event in October - Neowin",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW1VNHlOYjZJVXpvV0JLblRFeGYyVWZBWm9xMzNrMzdjUWRoU05wMnh2b3NCbjVza1ZNdGpUdktCSGVXV2RXSkRpTko1U3MwbTdoekRTZHRNVHVjSTBkSTBvalBzWktxRDQ5Q2xJRVpEbVdiM2lwVTZvNk5qVmhUck91WGdmNXowNVVNb1RoX0c4N3FIa1k4?oc=5",
@@ -250,14 +306,6 @@
       "date": "2026-09-16"
     },
     {
-      "company": "Microsoft",
-      "title": "Why Are Customers Leaving My Website? Contentsquare Brings the Answer to Microsoft 365 Copilot - CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0hMZkM4d0VlZHVUZDcxTUtzZk1PUzROdWZnUTdRMkYzcS1ycjRDMVBKaXV1alJqLTREbTgtUS1DMnlPejg0ZU1fVVZHSU14Zll1TTJsMjZtLVZ2ZFpPRE5icXNvSm5FR09xNWxuOTJBbUJJdEo2UmdDOWxrSDFIdF9oLVFiVGtRMjNod3dhcFZ0VTBrRjlueXYyd1hHMDc5Wm5LanBjMFZoNEJYTHFnS2NsNkZBWWRuWGRTVlFDTnl1cHlNa1E?oc=5",
-      "summary": "Why Are Customers Leaving My Website? Contentsquare Brings the Answer to Microsoft 365 Copilot CMSWire",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
       "company": "Apple",
       "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
@@ -291,6 +339,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI Comeback Could Power Its Next Rally - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdkxkZTU4RjYwSDk3NUJFeUcxSEJDREJqVzZ4WEpfR1N4VDV5V3JEZlhmTU1wcWQtUUdEVEkzM3Q4cnMyYlR1LWs1R2d1ZDZsRmNtdkVGb2x2MmZqRHBZZnlqQlFQR2J5RWJYOF8ybHpST01NZjJDN2d1OEZTUGs?oc=5",
+      "summary": "Meta’s AI Comeback Could Power Its Next Rally TipRanks",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Meta",
       "title": "Meta's potential answer to its smart glasses problem? Getting rid of the camera - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEN1N0l5ZllWd1p0SEtuc09jNnFJLS1wYnhnTWcxOG55ZkhuS18ta0VxaUJpME9YT3F6UnpWZjFjbHJlM1lKWDFkaFlzQUdiNDdFYkwzeFNoYk5rMkljNU1VTk45cTZlc1U4QUY5b3ZweWJmSmhZQVRLdV8wTlBES1o3UEE4UVFEMFhtc1VLaHRVcGpHeFV4bTJ3Y3pHSXlkQmxnX01FVXVoOEdZUEtjU3pYN2xURmFna1BXMmNBdW1qcFJzQW1yTnBSRUc5QQ?oc=5",
       "summary": "Meta's potential answer to its smart glasses problem? Getting rid of the camera Yahoo Tech",
@@ -315,25 +371,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI Comeback Could Power Its Next Rally - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdkxkZTU4RjYwSDk3NUJFeUcxSEJDREJqVzZ4WEpfR1N4VDV5V3JEZlhmTU1wcWQtUUdEVEkzM3Q4cnMyYlR1LWs1R2d1ZDZsRmNtdkVGb2x2MmZqRHBZZnlqQlFQR2J5RWJYOF8ybHpST01NZjJDN2d1OEZTUGs?oc=5",
-      "summary": "Meta’s AI Comeback Could Power Its Next Rally TipRanks",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Meta",
       "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5",
       "summary": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate CNBC",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown - The Mercury News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94WHFrYzQwSWJpZVVQQ3RBQkhzUVhOOGU2cW15S0ZiM1hmTUF5VU9FcE80OXFhN0FJamdvSWdEQVUxVV9PU1lyS1lWelVzYTFXcm9mR2ZBVXNjY1d3eTJ0WXNzbzlEWE1GZ2R3ZkxzLU9iMlBsSW9kdmh6TG7SAYIBQVVfeXFMTmZGWnFrRkc1aHhRcmV3anJoZldab1M0ZzFlRkM1X1RjaXJwSGxoRTBzNVVxQ0hzTFhtd3BKNDRWUk1jdjhiUVFZNnVmQ2ZVZjBkMVZSZUlheXZLVGxjZW5ySmxFLXpmWndReUtRcGI0VU5wTUsxa0lOVnpaVTk4djl4Zw?oc=5",
-      "summary": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown The Mercury News",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -370,14 +410,6 @@
       "date": "2026-09-15"
     },
     {
-      "company": "Microsoft",
-      "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZE45cmRLM2pkYWxZSVRBQ3lCeWt6Z3FqcHlqYTZjQXlOUVhxUi1MRjdYNFM3S3k5YW9lMFZnc21DN1NZXy1fNU9BZlBIY1pMM3N4WkJoZ1lCLWlJMnRJYUNSb2ZlUEdfd1B1NFBqXzVuLWl4X3lERTIwSVRRZGlFM1oxOXhtSTFKOFR6UmxlY3AzV01nenFDTmJ6VGdsYmpGdW1uTGNCQmtJR3R0R2k4eWtjbkF6NzR6UjcwbGZqeUVxQzJCWmZIN25qZzdSbXM1azI2dFcxUXlPQWNZS203ZUhB?oc=5",
-      "summary": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead Microsoft",
-      "badge": "hot",
-      "date": "2026-09-15"
-    },
-    {
       "company": "Apple",
       "title": "Apple unveils iPhone Duo",
       "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
@@ -395,14 +427,6 @@
     },
     {
       "company": "Perplexity",
-      "title": "Crusoe inks deal with Perplexity AI, plans a switchgear factory in Tulsa - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTNxQjc2VHdMRFJkcm44TGxHWXNCZ080LWwxWTZnOGwwdUxoSF9JUkZDVjB6Y3VrdmF1YUJfUDdjZDFwNVQ1T1hzZlE5akFZcFNsc1hTTkZDTjU5am5GRnZveWRPekJQdlhDeWZKbUluNGx0VVlsT2k3R0tERmdOSjBwTQ?oc=5",
-      "summary": "Crusoe inks deal with Perplexity AI, plans a switchgear factory in Tulsa Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Perplexity",
       "title": "Crusoe signs cloud deal with Perplexity AI - Bloomberg - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVqYUxVS2x6Ni03RVl3dGdxU0pDV3pQa3NMUnBJVDN1MWpoTWxyeDlqRndiU2YwNWR5TVNJZnBrTjZ6Tldzd1FBQm0zYWdQa0tENkdCbklCR2x4dkdjajl4VjQzczJyWmp5cjJZS0tJeEtZaEl0V3hsU3gtSU1QWlBtTTNleDltTjJjdGRvalh3VjZCNmhTcWViOXhhNE1na1JESXhXMU05Mld1dTRhbXF0UnJKQQ?oc=5",
       "summary": "Crusoe signs cloud deal with Perplexity AI - Bloomberg Investing.com",
@@ -411,9 +435,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models - Startup Fortune",
+      "title": "Crusoe inks deal with Perplexity AI, plans a switchgear factory in Tulsa - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTNxQjc2VHdMRFJkcm44TGxHWXNCZ080LWwxWTZnOGwwdUxoSF9JUkZDVjB6Y3VrdmF1YUJfUDdjZDFwNVQ1T1hzZlE5akFZcFNsc1hTTkZDTjU5am5GRnZveWRPekJQdlhDeWZKbUluNGx0VVlsT2k3R0tERmdOSjBwTQ?oc=5",
+      "summary": "Crusoe inks deal with Perplexity AI, plans a switchgear factory in Tulsa Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-15"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models - startupfortune.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0hHeWRBZjk4VWx1TmJGT213VVg3c2lmWW9FSDZrSXEtY3h2N2tSbDJsZF9teW4wMkE3aUVGa1pFZzVXT29LM2VIQXV3UWdjSS1nT212TFBYLVZGdVNHNTFMb05KNHpaYUEtQWJxSUZmNVdVQjRLdnRsQ1Bmc0tjbGktX0d2dzFmOGNOWWh4NlJvd0xyMUllelp3dDJBUWVJRUZB?oc=5",
-      "summary": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models Startup Fortune",
+      "summary": "Crusoe Signs Multi-Year Cloud Deal With Perplexity AI to Power Its Models startupfortune.com",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -430,22 +462,6 @@
       "title": "Crusoe signs multiyear Perplexity cloud deal for Nvidia AI chips: Bloomberg - Blockspace Media",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Z2MS1uY0tISEZXUWxhZjlMbHlpWUFzWXM2TlBieExSZ0t3enV0b0RmRWhpOVZBRzN6dnVGZElTaDVGY1BiQTRaVGdLTTBMUkpqUHFVRDJ3UEhIYy15TmJXdzN6dFdWdzhQSjJWUWI5QlhiXzg0NjJmUDVLcC00bGVCZEo?oc=5",
       "summary": "Crusoe signs multiyear Perplexity cloud deal for Nvidia AI chips: Bloomberg Blockspace Media",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out - about.fb.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjk1X0RPQVJ6YXU1a08yWGRzMEdHUjVmU3lkbjcySmZibDZ4M2dXQTVodzNrbl9jRUNaZmpHSFJqdlFRaVI5NlZFR0Zab0prdzM3NW9QVm9UM2FTSzgtZGNaTTdydTlBcUFyUHczYTlDcGZZNC15emRpN1hRQl9Dc1pxQTlVS015dldSMHJOc0dMQ2pXV0swadIBngFBVV95cUxQdGRnU0tuRTZhTUt1MVBOMUY0Z3RJWGU2WWJIcDFsT09KNzF4WHBkV1JIaXhfZk0zSUZaRmRrbE9xb1luWDYyYm0xOFFXNjMtQ3BtRUc0TkxTd2FiaUhFS3kzRHlLdWhBaTAxbXNaeTdRakp5dTZmTVFFcFkyOVNyNk9HNXA4aHRDOG5EX1BpaEdFSnkzRmZHdzZUczNwUQ?oc=5",
-      "summary": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out about.fb.com",
-      "badge": "hot",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s new One subscriptions put a price on social media and AI - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94eVZYQ3hkeXdTd1JMV0oxV2lISzk4ZmhsV1NFNlFKNzNDRkZDVEllR20zajJ4bW9uMEpJNEpnQWlwRTh6LVRtaDZPU1F6eHFCMlFhdFlmUUNXSkIyR2lzM0hFdXFpRk0wMVZ4MjJ0cw?oc=5",
-      "summary": "Meta’s new One subscriptions put a price on social media and AI The Verge",
       "badge": "new",
       "date": "2026-09-15"
     },
@@ -522,14 +538,6 @@
       "date": "2026-09-11"
     },
     {
-      "company": "OpenAI",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
       "company": "Google",
       "title": "3 ways to prep for your next big race with Search",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -560,14 +568,6 @@
       "summary": "High-flying Kiwi in New York raises $54m for his AI start-up NZ Herald",
       "badge": "new",
       "date": "2026-09-09"
-    },
-    {
-      "company": "Google",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "summary": "Introducing Fairwind Program",
-      "badge": "hot",
-      "date": "2026-09-02"
     },
     {
       "company": "Amazon",
