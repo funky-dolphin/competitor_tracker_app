@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-19T10:09:42Z",
+  "updated": "2026-09-19T15:12:13Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development - Politico",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
+      "summary": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development Politico",
+      "badge": "new",
+      "date": "2026-09-19"
+    },
     {
       "company": "Anthropic",
       "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
@@ -67,6 +75,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
+      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
+      "badge": "new",
+      "date": "2026-09-19"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage - New York Post",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhhMUt3WXpHbkstYnBSSzBxN05FRXVudW1mLWlRWVVEYlBqRDg5dTRIMXdyd1d4UHJRZ1lUR1NjZENDSzZNTEV4MWIxakxiU0lSUDNqYUN2NUlmMzZDREw2eXdiaXhjQ0xUdnZfR0Z1Z28yTUFFSVdZY2I2V0JlLV9Yc1o0THZ3Qy1UbG0yY1ByWGpKQmhOaUc5ZWNuVF9aRWkyWg?oc=5",
       "summary": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage New York Post",
@@ -83,17 +99,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5",
-      "summary": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings The New York Times",
+      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
       "badge": "new",
       "date": "2026-09-18"
     },
     {
       "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-      "summary": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters",
+      "title": "While Issuing Warnings About AI-Made Bioweapons, Anthropic Quietly Set Up an AI-Run, Robot-Operated Biology Lab Here in the US - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM1V6dXdtN29MbWFGOW1jV1prb3RyczRiRjZxRDM2LXQ1ZmI3aXFRQ2NwVmhGb3BjcGRnOG9kcWd1STFqdVhkWXpkM1oxVUJiZXlMeVFDdjNQWWJJM2xQLWthY19HdkFyWE1yUk5kQVBWQjc5UkdtbGdaRUxjbWhFclNYVnNEakFGUlB3OW15VkhFblJ5TzctUXhvYm9icVpUcjJacTBST3kwSW1KUEozYjJhWXBRbTk5ZzdHbk9GNTNraS10bGV4OU9kOGRDR3VhendNWXJRMnRKeUExaHEwRE9pR0Q5cC1EYU5J?oc=5",
+      "summary": "While Issuing Warnings About AI-Made Bioweapons, Anthropic Quietly Set Up an AI-Run, Robot-Operated Biology Lab Here in the US Gizmodo",
+      "badge": "new",
+      "date": "2026-09-18"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit - news.bloomberglaw.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVJTdzFUYU9PYk1qZ295Q1dZUjgxalJZbS1NSmY1WjNPUV8xWjFBTllaaDhoaHV6aDE3c0EyM2l6VHJhTy10WTVFTU51XzV5R1lfTURCeXpzOXhud1B6ZTRua25jNjNBX0pkVHpaTzBLd0l3UVp3aXdHNzBWY0NlSDg4aU55TnVNbnUzTXpHYUxyU0htOVlMNGtlREwzdVN1emc?oc=5",
+      "summary": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit news.bloomberglaw.com",
+      "badge": "new",
+      "date": "2026-09-18"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5",
+      "summary": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings The New York Times",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -110,30 +142,6 @@
       "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH0gF6QVVfeXFMT3dmLVlOb2dWTFFFbVlNQndJRGNBQ1F2VWNlR1VLNHFlM3l4QUtDZ0hjMGhVVzVEQlpneEEwbC1ON0l1elB2ZTU2MkE0WmhTdXNJOVprNTV4eFZXS2F4QkhzemxtYlBvS05JOWdqUlVpTjYzMmU2azFBbHc?oc=5",
       "summary": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal CNBC",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic brings in Accenture for AI safety testing - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTBUbXMwUjMtRFlCLWhqNlJqLVlZeldiSHpWaHRWdXVHNkN6R1BDR1lJa2s5SzVTb1lRekFTZmRIeVFDU2FwMTRORmRJUjY3UUFvbmxhU3kzN3h0SlBUNjNtZWpGS21maVlONDFlU1JCRjhKTS00eUwwU3l4UHBucGdYUko?oc=5",
-      "summary": "Anthropic brings in Accenture for AI safety testing Financial Times",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Shifts Planned IPO to November - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbk5sMkZNUldpZHpHcUVHRnlEODktVGI3al93TzY0RXA3MGJaZjBydDJCZlI1TlRiRVFmZXd4N2w1b1NUZlFPLTVDRnhra1hpZWFyR180SHdIbnY2Ti0xZk5mSE84bUxhV0JMUkhURTBpeW9CNkdqczAyUjFXdWJZa2twZw?oc=5",
-      "summary": "Anthropic Shifts Planned IPO to November WSJ",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic builds wet lab for AI-driven drug discovery - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoczRVNVBxWUtqQkJjVUdTU0phdnFtNkVjZktUNVpYRkVTMUVVMG04VndHWEhRRmg0OWE1S0UzcEp6YkF6RHpoNldMZEJHWGpQNWxrMXg3Z2lXUV9VcjdvR2hGLWtRblA3c1FROHRTd2JOZw?oc=5",
-      "summary": "Anthropic builds wet lab for AI-driven drug discovery qz.com",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -171,9 +179,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds - edsource.org",
+      "title": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds - EdSource",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVY4MnFLcjZ3T2R5LVNvTW56R0RXamlWZTB6TEY0b0VfcURmUk1qeTJLYjFXZF9xSWQwbG0ySkdTX1dlQm5NM0I3a0pPSnFwNFk3U0NZb0VpNEFDMDVhMlBtdVY2cEpIMHU3N09GWUtNSkdISGMxQjNoY0NrUmpXUndiZV9DMHlHTGZWMW1Tb1VRejl1X3F5NTN5aEJUTTB4aXc?oc=5",
-      "summary": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds edsource.org",
+      "summary": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds EdSource",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -187,14 +195,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
-      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
       "title": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More - engadget.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnh4UTZPN3hYZGEyYnpUek5sQTlKOEdwQk1oQl9HVmY5a3JQaF9ZSDZjUEFuVmNRNTktUVZibW1yVHNrYlRacE4wWjA3c2o3bmp0NXA1QUYtOFlobTZoZmhZc0F1X3p3bnVnYmJQNEd3M0NqR0NMYlJ6M2ppVkk2dURrdjlxZkpJanhNZTJheHRuX2VULUJCb1VVSHJVTnlsZG11TC1XODk1WEdodW9mRWZ6blA1M1Fn?oc=5",
       "summary": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More engadget.com",
@@ -203,9 +203,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Users: Glasses Recorded Intimate Images - newser.com",
+      "title": "Meta Users: Glasses Recorded Intimate Images - Newser",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZOLXEyNHNZVDJFc3NudlRxOVl1Ty1HSm02VHBFNGJrcnc2RFU5VGZKaWxCNVo2S0V6b2NBazh3cC1FMWpQZU45U0JtM184LWlRem4wN0xReHhvWUh4aE1IdFM3bzRycEhiekpJRDdSRnIxd01xS3NSdy12cnBleXBpSnVJUmJ0UnJwYg?oc=5",
-      "summary": "Meta Users: Glasses Recorded Intimate Images newser.com",
+      "summary": "Meta Users: Glasses Recorded Intimate Images Newser",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -299,9 +299,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds - edtechinnovationhub.com",
+      "title": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeU1sSnFEQVcyN1I1TFVyaDA1aFU0Q3piWnFyNXhNYU1KeG5SdGNuSVNKaUtFaDlJSENVaEVyMTMtSzRhVnNDb1NWS21GT1AtSHNIanNNN0llMVlOdmJabTJRS3Z6V3J5emlIZExYWUpMdnpyYkVZM1V5emRmRDRGcEszZzV5ajVBcWdicUl6TXdWbTRvSmgzMUFabXJsMng4NEtrb0NjREFzZWx0R3RXa1k3Z0dWODNjSW1zSkNkejcxSUpwYTNoRjV1eHh2ZTA5?oc=5",
-      "summary": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds edtechinnovationhub.com",
+      "summary": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds EdTech Innovation Hub",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -323,9 +323,9 @@
     },
     {
       "company": "Meta",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE1WVzdXbDBBM2kwaHpnb21tTnBWZUJSdE9VTFNSMThaMHB3Zk16TjRHdTBrYlM1UWs3eUttVHBYc3ZJcC14YUlvOFgxeElfNmFvSFFEWmVDYzhHc18yVXM1WVl5MUdkVFloUFVBemotaDBMNTBSTkVhOW90YUJNZWtnbG5tRGZVNk5IdlhxMG1fUnVxSmVfUmZsQWNCOUs3MzVaY3NkOWdLOEc0eHc?oc=5",
-      "summary": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls TechCrunch",
+      "title": "Influencers Are Using Meta's AI-Glasses to Film Manipulative Feel-Good Slop of People in Public - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVZGZHVnUU5SamJoQUg5WHZGVU4tNnpzLThJS2NtVTRVSGNuY1BwQUFxU3lobmRHcHkyQW1jbEIyYktKYURuZ1l2V1B3VHdHTGd3Ui1zR1V6amVKc3JuVWlDUW9yOTY4dmg5MXJaU3A4T2FpblVDenlaMjJOSmZWRFdXc1FmT0s0R0N6SHpBd0hrTVU5VDl5Z05nX0JyaU03WHNDcnItLUladw?oc=5",
+      "summary": "Influencers Are Using Meta's AI-Glasses to Film Manipulative Feel-Good Slop of People in Public Futurism",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -339,9 +339,9 @@
     },
     {
       "company": "Meta",
-      "title": "Influencers Are Using Meta's AI-Glasses to Film Manipulative Feel-Good Slop of People in Public - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVZGZHVnUU5SamJoQUg5WHZGVU4tNnpzLThJS2NtVTRVSGNuY1BwQUFxU3lobmRHcHkyQW1jbEIyYktKYURuZ1l2V1B3VHdHTGd3Ui1zR1V6amVKc3JuVWlDUW9yOTY4dmg5MXJaU3A4T2FpblVDenlaMjJOSmZWRFdXc1FmT0s0R0N6SHpBd0hrTVU5VDl5Z05nX0JyaU03WHNDcnItLUladw?oc=5",
-      "summary": "Influencers Are Using Meta's AI-Glasses to Film Manipulative Feel-Good Slop of People in Public Futurism",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE1WVzdXbDBBM2kwaHpnb21tTnBWZUJSdE9VTFNSMThaMHB3Zk16TjRHdTBrYlM1UWs3eUttVHBYc3ZJcC14YUlvOFgxeElfNmFvSFFEWmVDYzhHc18yVXM1WVl5MUdkVFloUFVBemotaDBMNTBSTkVhOW90YUJNZWtnbG5tRGZVNk5IdlhxMG1fUnVxSmVfUmZsQWNCOUs3MzVaY3NkOWdLOEc0eHc?oc=5",
+      "summary": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls TechCrunch",
       "badge": "new",
       "date": "2026-09-17"
     },
