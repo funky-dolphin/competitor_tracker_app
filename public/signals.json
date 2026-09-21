@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-21T02:55:25Z",
+  "updated": "2026-09-21T11:45:51Z",
   "signals": [
+    {
+      "company": "Microsoft",
+      "title": "Alzheimer’s Society: How AI is giving it more time to help people affected by dementia - Microsoft UK Stories",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXVIQVFuamk5Z0ZPaHFTMXVUQnNSWXV6NjdmVk5scHVMcy0xbXByRFUzbzJVci1EWlYxdEd2cUVHa0lnQkR4NjZVUFRQdUlQbWxRWFFGN2RTNnFvRWprRlFRQU9VcTcxTEhjZFE4RWVOVWFCSTI2blBmSTlFNE00a05LeGlTY2cyN1R2X3N5eW1nV1Y5dkI1Unl3SEFBN0VibDRhdmZESnBEeV80SU55WnNjZHZsODhEaDVmdlFwXzVFZTdU?oc=5",
+      "summary": "Alzheimer’s Society: How AI is giving it more time to help people affected by dementia Microsoft UK Stories",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Avanade cuts incident resolution time by up to 80 per cent with Microsoft Security Copilot - Technology Record",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTRRd2JFMXlqLUdqSmFrcjRQTENlUmlRb0dCd3hmeU1JN2ZhMnJFb3g1MDhycEp4ejE0RE1CMG41SlRfdzUyZjRBRGpVWmtuM2N5RXhiQmktZk1kOW40RVNiN1lDNFRNTFhjbmpmbHpxb1NMajkwd3NNZTJFa0ZuMkU5XzE3bEZ5c2U5Q3pTdm5lallabmdyUnpGb1JWd1Z6cjJIR0FMb3RtTWVIaXgycE1COUEybmZqU0RIdGtVZkNST0x1ajktbllxcw?oc=5",
+      "summary": "Avanade cuts incident resolution time by up to 80 per cent with Microsoft Security Copilot Technology Record",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
     {
       "company": "Apple",
       "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
@@ -42,6 +58,14 @@
       "date": "2026-09-21"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity Brings Its Local AI Agent to Windows - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2lzTGl1SFhTSnU1VmpLa3gxUXJuT2ZNaWVCY2xiaFJuUXlUemxqNzIwalRTRjh4bE1EWVg0UHRvQlNFR1hfdTlUZ2hORkxqdnRWRmNzNnRJQWQ4bzJPNnNvRkctYlJVOTlBVUlLWk9CWUIxeGxhVWdUbENGMW10cjdha1k5UQ?oc=5",
+      "summary": "Perplexity Brings Its Local AI Agent to Windows TechRepublic",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
       "company": "Anthropic",
       "title": "The Company Trump Can’t Ignore - Politico",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
@@ -51,9 +75,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business - us.cnn.com",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business - CNN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LMXZMNUl2VW9SaW0wMWE2Z1lwaVFvQi1nSDkzajgyY1o2MVpreExYNkZ3NElyU18ySjJTUUkzNHUtdUpVYVJpMzFvTEFRbWpDdXJjaS1QdFk2RmFFbm9GR2V6SzlvTWRFT1BWcEp4bWp2SXBuaFVr?oc=5",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business us.cnn.com",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business CNN",
       "badge": "new",
       "date": "2026-09-20"
     },
@@ -99,6 +123,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
+      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say reuters.com",
+      "badge": "new",
+      "date": "2026-09-19"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
       "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age Fortune",
@@ -122,18 +154,18 @@
       "date": "2026-09-19"
     },
     {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
-      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say Reuters",
+      "company": "Meta",
+      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
+      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
       "badge": "new",
       "date": "2026-09-19"
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI Agent Has a Trust Problem - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
-      "summary": "Meta’s AI Agent Has a Trust Problem wsj.com",
+      "title": "Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDVFUUw2dTJ6TENDNmdUdGExc0pJZVBCV01LbGhKdlg2NDBDVE5LQmJYWWE0TVRrbGY0Z3VLMHRRZTNLYU54MVRLdm1BeWRvWW5jRmlzWXZrSjAtdU5NUGVmMjNSb2NaeW9TUzg3X3pqaG42eHR5blp6YUI2MG9HSmNOSTJta1FHWUVST3RwLWRrZzJPdzJpX0pXZVpSMGNzcjUyQUxlTVZxS2pi?oc=5",
+      "summary": "Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To inc.com",
       "badge": "new",
       "date": "2026-09-19"
     },
@@ -246,14 +278,6 @@
       "title": "Meta Users: Glasses Recorded Intimate Images - Newser",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZOLXEyNHNZVDJFc3NudlRxOVl1Ty1HSm02VHBFNGJrcnc2RFU5VGZKaWxCNVo2S0V6b2NBazh3cC1FMWpQZU45U0JtM184LWlRem4wN0xReHhvWUh4aE1IdFM3bzRycEhiekpJRDdSRnIxd01xS3NSdy12cnBleXBpSnVJUmJ0UnJwYg?oc=5",
       "summary": "Meta Users: Glasses Recorded Intimate Images Newser",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer - techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXBiYkk3VW91V3FMRm4tSXB0RU1VMWphWUdtWVdBbmpTY0NaR3lyaDRfcFJaeDRHZXdXM29DMkhaUzN0QS03OE95d1l6cmh6RGV0RGJDOHZiTHBKYTRGa0FhRjRBY2NxWGN6TUtLcWM4SXhHN3pRTDgzUzctZ0V2OGoxMXBIRlBIVUNLRWhFTXM4WV9FdTktMWdxdDBocThH?oc=5",
-      "summary": "Meta’s Muse hits Mac, letting the AI take actions on your computer techcrunch.com",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -410,26 +434,18 @@
       "date": "2026-09-16"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft issues massive warning for its new very powerful but expensive AI tool - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHRBU3QzNHVaUHI5c2pGUUdWenBXR0M5UEYwTXFLMXF1UjVSbVZJR2lSaGVjaUNjcW9Gb09DajYyQU4yaU9kMWhZQVBCVEhpalBIbE9tZHhYYVAxbEx6UjJhYndYNFlxUDNTS0FKWTlsY0xiMEZIbUNYdFdGT090QzRZRU8xc0hTSXBYNmxjaC1TRzBPSDNPUnZLaWhQUTF4TUx0WTBCUXNjWmlRcnc?oc=5",
-      "summary": "Microsoft issues massive warning for its new very powerful but expensive AI tool Neowin",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Mistral joins Copilot Studio’s growing lineup of model providers - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmhFYUxxcDBVbmZfZExmVTJEY0RZQ19YQlJ5TGs1UTkwTFhxZURXYzFJUkZrUDZ4UU1sT0pfdVJoQVRWOFNqWW5nWldZdzRfTXhwUHFFcGp6V2UxeUdIWG1DSEZDYmJvLVlmWmFQc2d1eERZRk0tb3p5MWt6blVFRzdYYzAyMlN2d1RCMmJhZlVEUkhvVWVGbC1KM1pFeU1LTm90U19fQVRMUjNuRVBsei1LN2NjcDgwejZOQ0NrdDhKdw?oc=5",
-      "summary": "Mistral joins Copilot Studio’s growing lineup of model providers Microsoft",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
       "company": "Apple",
       "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
       "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-09-16"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity is betting big on creators - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Fd2pXNnlESFFJeE1NMG5zalJ4ZnV5WWJiNUhGT2lKU2p3ZU5WbWxVdjN5NmdSVXpTVHdNZ2ZWSlZDckthT2U3eDlBLXpDSnlQWHJHRXZ5d1VQc3psMEd4U215UlMwTFVSTzcyVC1qRFZGSGd3dXBj?oc=5",
+      "summary": "Perplexity is betting big on creators Digiday",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -446,14 +462,6 @@
       "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude - thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pQmlfRnZTWXItQnd3TXR6Qk9aYlZBODI0Rng4Ri1KOFd4b1g2aWdBel9jY3dGRnI0Mkh4eUhUMDVGa2czZmRtZmY3OExwdXM3UDNpQTRIaHJxMmoya3NKUkRaYkhkVVdLTkhFSmVrZTl2dTVKajhN?oc=5",
       "summary": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude thehackernews.com",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity is betting big on creators - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Fd2pXNnlESFFJeE1NMG5zalJ4ZnV5WWJiNUhGT2lKU2p3ZU5WbWxVdjN5NmdSVXpTVHdNZ2ZWSlZDckthT2U3eDlBLXpDSnlQWHJHRXZ5d1VQc3psMEd4U215UlMwTFVSTzcyVC1qRFZGSGd3dXBj?oc=5",
-      "summary": "Perplexity is betting big on creators Digiday",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -503,14 +511,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKc3pFNk8zWVZKQXVNdEJuSnhULVYzcGR3bFFHUHBhbFFBREFDUlI0Q2lZckp3SzRqaWhkRTdMRksybndONHZ5MFVlWmxtc0Etd21yOHJRWHlQZ0c2MzJLcl9LNl9ZWVV3RUF0TlBnMVZod0ttR0E2TXl3?oc=5",
       "summary": "Crusoe and Perplexity Announce Multi-Year AI Partnership Crusoe",
       "badge": "watch",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Crusoe inks deal with Perplexity AI, plans a switchgear factory in Tulsa - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTNxQjc2VHdMRFJkcm44TGxHWXNCZ080LWwxWTZnOGwwdUxoSF9JUkZDVjB6Y3VrdmF1YUJfUDdjZDFwNVQ1T1hzZlE5akFZcFNsc1hTTkZDTjU5am5GRnZveWRPekJQdlhDeWZKbUluNGx0VVlsT2k3R0tERmdOSjBwTQ?oc=5",
-      "summary": "Crusoe inks deal with Perplexity AI, plans a switchgear factory in Tulsa Yahoo Finance",
-      "badge": "new",
       "date": "2026-09-15"
     },
     {
