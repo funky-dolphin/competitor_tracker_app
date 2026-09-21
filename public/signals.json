@@ -1,6 +1,70 @@
 {
-  "updated": "2026-09-21T11:45:51Z",
+  "updated": "2026-09-21T17:41:50Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5",
+      "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched Financial Times Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate The New York Times Nscale's IPO filing reveals Microsoft and Anthropic",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "10 of the US' youngest billionaires in 2026 — and how they got their fortunes - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS09PX01uUC0xQWF2eGEza2pDRHZrdFRPQjdyVjZwNGtYaUVrVkhWZ0tyVThzbTNKdEpvcnRmdzVvSVU1ZmE4MzFXcVNjdTg4dnZOekkxaWFxREdmSWFsUkw5SDVneHVCZmpLR3o5YjZyem1yYTdydXRlZzFTUGRFOGY5ZFVwbUEzU3BzS0FR?oc=5",
+      "summary": "10 of the US' youngest billionaires in 2026 — and how they got their fortunes Business Insider",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Are A.I. Models Being Misled to Act Too Human? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFJXZzhtdnhvdXFTX1FVdWlQYnpvbTlMZ0xScVBCbEQybUNzWDdrd0txeGw5VTNOS1VwT2VrbU5yU0pOWW5sNnFNVGVudktWY3prVERMTWF0VUJTS2RoNFRKVl9DUVFIRUxfSzQtYkk3STlSSFBBR2hoVkQtbUUtbTJzM1pmWWpw?oc=5",
+      "summary": "Are A.I. Models Being Misled to Act Too Human? The New York Times",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVp2Tk1JQ0JvNWl3UngwMTZTWGU1bUtJVUtOTmRqbGxXV0xrUWtzdllXX0hvX2RaVDdlUEQ3Qkt2R0NyTzJ6QW9sTHp4dHE5Y1h0VjBLSUxWZzFQS1dqZ1YtNlo3ZHRMOHhxbHRrMks4OW9HaUx5VlRfM1JVazRyVUV3azJZTFRGM1NOU3Iyamh5OHJIODV0M1g3eXA4OVVGbTBEeVpwd082dTlLalRpa2VlRXNBbWh2dDhlZkxIZG5hUXp1YXdUY3FIazVaaHFOb0Uxc2pfS0Q0TVpjMVZkQ3NB?oc=5",
+      "summary": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? Windows Central",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "'The largest theft of labor in human history' - thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjZaM1cxLTB6Q1k5MW83MF9hVEN4cElHR2EwMXJvSTFBNGNfNVRZbmpJbWd1UFI1ZnFWdXJNQXJUMDF5dTlyX1pjc21TS3dWSExMblVGLTlKNWloakdianN4VUVPREtyQXdmQWlNcjBxdzFlemVuUlhTZ3RCRXFCMXluWGFTR05YdUs5VA?oc=5",
+      "summary": "'The largest theft of labor in human history' thenextweb.com",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
     {
       "company": "Microsoft",
       "title": "Alzheimer’s Society: How AI is giving it more time to help people affected by dementia - Microsoft UK Stories",
@@ -59,9 +123,33 @@
     },
     {
       "company": "Perplexity",
+      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
+      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court thenextweb.com",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Brings Its Local AI Agent to Windows - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2lzTGl1SFhTSnU1VmpLa3gxUXJuT2ZNaWVCY2xiaFJuUXlUemxqNzIwalRTRjh4bE1EWVg0UHRvQlNFR1hfdTlUZ2hORkxqdnRWRmNzNnRJQWQ4bzJPNnNvRkctYlJVOTlBVUlLWk9CWUIxeGxhVWdUbENGMW10cjdha1k5UQ?oc=5",
       "summary": "Perplexity Brings Its Local AI Agent to Windows TechRepublic",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Research Fellowship 2027 (paid) - Opportunity Desk",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFpMOUs0RS1Rcy01RWlIRE9MeGVRQktIUG5fWWRRcWVsTXd6Uno5WGRhM2tEVmhUeWZFYm1YVWJNOXBVRGhITjRWYmQ1N1BGdy1jWWhsOWljd2JXeXl0dHNITXRzNmtRWXp5NXZhNElXZEVjZVNYZlp2ZEpSN3VQXw?oc=5",
+      "summary": "Perplexity Research Fellowship 2027 (paid) Opportunity Desk",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWt6SHBBbmZQbGZzOF9GeWkxMi02TXFwYzFkVGF1aU1rYTVWRUMzYUFzRDhTVlNYRlEwT2FLVTZDbkRXNFB1Mk9fWHFQWnRsTXV0UGh1aTJCbVpJTUtYXzE4WnRNZl95N1JtM0NiaWpBbzAzeGdISWJubUZPTVNDM1UyVi1tT2w3THZraU1xMF9SZVF2cUJON3ZiLU9mU01iT2lkcnpxMEE3WXdzWFlnSUp3SS1vRHZhTUdyNEpVZDhXamFrWjJFR2RB0gHSAUFVX3lxTE1oa3R1aWxnVGY5d1d4LUtRSW1EcGZtcWF1QzNIU3RnVVlwd05zaUJ1QUNWOVJhLTRXTGtNSjI2Z2FseXJ3alBudTdBQ01TTDIyaXJsMlViczhEd2RjUTM2NjZabVFWcFU0Y2gxNGNNTEluV1ZSek82ZkhVYlBOV2RqSGk3LTdFdmlqNlRKeDBXc0lCeWtmWk5WNWtSUDROdzgxR2NPOXAxOWNRVktQYXRHZGVvazZmNG8yVkM4T1NzaEVLOUM1ZWN1SmxYYTJKVmU5QQ?oc=5",
+      "summary": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse NDTV",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -107,6 +195,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
+      "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age Fortune",
+      "badge": "new",
+      "date": "2026-09-19"
+    },
+    {
+      "company": "Anthropic",
       "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
       "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown AP News",
@@ -118,46 +214,6 @@
       "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development - Politico",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
       "summary": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development Politico",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
-      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say reuters.com",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
-      "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age Fortune",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown CBS News",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Ten days that changed the course of AI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
-      "summary": "Ten days that changed the course of AI Reuters",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
-      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
       "badge": "new",
       "date": "2026-09-19"
     },
@@ -251,9 +307,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta glasses captured and shared intimate images without users’ consent, lawsuit claims - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3dzdGZ4N2wtZVNRNzA5Nnk5aWhnRV9vY1dPZjJENkxrTFJkRDVyMGk2T0hlcUI0aTI5YndOMXpmZlZPVUFjam93eDU1bHExYXJ4Z1RnZDdid0o1VG9Gd3RTX0hqZDBKbWQ1dUNSc3gzWVF2MXVCWXhJQ3BMNEh2TjVXVFI0cUwyZkM1THZfNURuY3VHYzFzYXZvMHdKeGQ5RmRrbU9HZ2RRdjhqWDhTU2NESVBIMm4wVlE2SE1xaUVlRFNWNWlNbTZIYw?oc=5",
-      "summary": "Meta glasses captured and shared intimate images without users’ consent, lawsuit claims Los Angeles Times",
+      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
+      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -267,17 +323,17 @@
     },
     {
       "company": "Meta",
-      "title": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More - engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnh4UTZPN3hYZGEyYnpUek5sQTlKOEdwQk1oQl9HVmY5a3JQaF9ZSDZjUEFuVmNRNTktUVZibW1yVHNrYlRacE4wWjA3c2o3bmp0NXA1QUYtOFlobTZoZmhZc0F1X3p3bnVnYmJQNEd3M0NqR0NMYlJ6M2ppVkk2dURrdjlxZkpJanhNZTJheHRuX2VULUJCb1VVSHJVTnlsZG11TC1XODk1WEdodW9mRWZ6blA1M1Fn?oc=5",
-      "summary": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More engadget.com",
+      "title": "Meta glasses captured and shared intimate images without users’ consent, lawsuit claims - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3dzdGZ4N2wtZVNRNzA5Nnk5aWhnRV9vY1dPZjJENkxrTFJkRDVyMGk2T0hlcUI0aTI5YndOMXpmZlZPVUFjam93eDU1bHExYXJ4Z1RnZDdid0o1VG9Gd3RTX0hqZDBKbWQ1dUNSc3gzWVF2MXVCWXhJQ3BMNEh2TjVXVFI0cUwyZkM1THZfNURuY3VHYzFzYXZvMHdKeGQ5RmRrbU9HZ2RRdjhqWDhTU2NESVBIMm4wVlE2SE1xaUVlRFNWNWlNbTZIYw?oc=5",
+      "summary": "Meta glasses captured and shared intimate images without users’ consent, lawsuit claims Los Angeles Times",
       "badge": "new",
       "date": "2026-09-18"
     },
     {
       "company": "Meta",
-      "title": "Meta Users: Glasses Recorded Intimate Images - Newser",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZOLXEyNHNZVDJFc3NudlRxOVl1Ty1HSm02VHBFNGJrcnc2RFU5VGZKaWxCNVo2S0V6b2NBazh3cC1FMWpQZU45U0JtM184LWlRem4wN0xReHhvWUh4aE1IdFM3bzRycEhiekpJRDdSRnIxd01xS3NSdy12cnBleXBpSnVJUmJ0UnJwYg?oc=5",
-      "summary": "Meta Users: Glasses Recorded Intimate Images Newser",
+      "title": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More - engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnh4UTZPN3hYZGEyYnpUek5sQTlKOEdwQk1oQl9HVmY5a3JQaF9ZSDZjUEFuVmNRNTktUVZibW1yVHNrYlRacE4wWjA3c2o3bmp0NXA1QUYtOFlobTZoZmhZc0F1X3p3bnVnYmJQNEd3M0NqR0NMYlJ6M2ppVkk2dURrdjlxZkpJanhNZTJheHRuX2VULUJCb1VVSHJVTnlsZG11TC1XODk1WEdodW9mRWZ6blA1M1Fn?oc=5",
+      "summary": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More engadget.com",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -346,14 +402,6 @@
       "date": "2026-09-17"
     },
     {
-      "company": "Microsoft",
-      "title": "Is Copilot down? Copilot not working. Is Copilot down right now? - Asbury Park Press",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmx5TEEyS1hHa0JvS29MUGwzand1TnB3Mi1sM2xrM3YyNGJPLXpYSHJIN19TdnRYQzcybnhtWGtGd29HbUJzRUhtTWFoX1g0eDc0M1RpVWZRUmI3Z2lfTmo1dmZtWU9iNWVjazV6NnpIQ1JTbGdRQjNCalBSa255ZUVsRXFCUS1kYlRzLXozMjRHTkF6cmxNSUl3U3B0UzJnMjZNbVY2RlB6Rmc?oc=5",
-      "summary": "Is Copilot down? Copilot not working. Is Copilot down right now? Asbury Park Press",
-      "badge": "new",
-      "date": "2026-09-17"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeU1sSnFEQVcyN1I1TFVyaDA1aFU0Q3piWnFyNXhNYU1KeG5SdGNuSVNKaUtFaDlJSENVaEVyMTMtSzRhVnNDb1NWS21GT1AtSHNIanNNN0llMVlOdmJabTJRS3Z6V3J5emlIZExYWUpMdnpyYkVZM1V5emRmRDRGcEszZzV5ajVBcWdicUl6TXdWbTRvSmgzMUFabXJsMng4NEtrb0NjREFzZWx0R3RXa1k3Z0dWODNjSW1zSkNkejcxSUpwYTNoRjV1eHh2ZTA5?oc=5",
@@ -410,30 +458,6 @@
       "date": "2026-09-16"
     },
     {
-      "company": "OpenAI",
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is holding another OneDrive + Copilot event in October - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW1VNHlOYjZJVXpvV0JLblRFeGYyVWZBWm9xMzNrMzdjUWRoU05wMnh2b3NCbjVza1ZNdGpUdktCSGVXV2RXSkRpTko1U3MwbTdoekRTZHRNVHVjSTBkSTBvalBzWktxRDQ5Q2xJRVpEbVdiM2lwVTZvNk5qVmhUck91WGdmNXowNVVNb1RoX0c4N3FIa1k4?oc=5",
-      "summary": "Microsoft is holding another OneDrive + Copilot event in October Neowin",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
       "company": "Apple",
       "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
@@ -454,14 +478,6 @@
       "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it. - thenewstack.io",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wdm9faE1QdldQWFRvUzRMcnNRM0ZfLVE0WXpueWd2Q1RPb1VXdHpGSXFwSUFPRW42NkJOV1FDcU5zeUY0Z251Nnd5UnFVOVBQd3F4a3N6T2VrYlFEVE9sYlVZZGY3dw?oc=5",
       "summary": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it. thenewstack.io",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "Perplexity",
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude - thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pQmlfRnZTWXItQnd3TXR6Qk9aYlZBODI0Rng4Ri1KOFd4b1g2aWdBel9jY3dGRnI0Mkh4eUhUMDVGa2czZmRtZmY3OExwdXM3UDNpQTRIaHJxMmoya3NKUkRaYkhkVVdLTkhFSmVrZTl2dTVKajhN?oc=5",
-      "summary": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude thehackernews.com",
       "badge": "new",
       "date": "2026-09-16"
     },
@@ -504,22 +520,6 @@
       "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
       "badge": "hot",
       "date": "2026-09-15"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Crusoe and Perplexity Announce Multi-Year AI Partnership - Crusoe",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKc3pFNk8zWVZKQXVNdEJuSnhULVYzcGR3bFFHUHBhbFFBREFDUlI0Q2lZckp3SzRqaWhkRTdMRksybndONHZ5MFVlWmxtc0Etd21yOHJRWHlQZ0c2MzJLcl9LNl9ZWVV3RUF0TlBnMVZod0ttR0E2TXl3?oc=5",
-      "summary": "Crusoe and Perplexity Announce Multi-Year AI Partnership Crusoe",
-      "badge": "watch",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "badge": "new",
-      "date": "2026-09-14"
     },
     {
       "company": "Google",
