@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-21T17:41:50Z",
+  "updated": "2026-09-21T21:35:30Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
     {
       "company": "OpenAI",
       "title": "Building standards for the next phase of AI",
@@ -22,6 +38,30 @@
       "title": "How V7 gives AI agents institutional memory",
       "url": "https://openai.com/index/v7",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+      "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI The Information",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5",
+      "summary": "Anthropic to push IPO: Strategic delay or AI market warning? Yahoo Finance Lex in depth: Anthropic at $2tn isn’t far-fetched Financial Times EXCLUSIVE: Anthropic considers releasing new AI model ahead",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0gwR05UX0NfQkFJdzdOdHlIZTl2OV9XLVNPLXQ0YTBndVZYZW5icmtyaHJBblNCOG5PNkd6Y1E4dmhETTdUaE9LSWMyRjRnWUlqVUJWUG1tM1JteHdrWXE3dkM5NjVRQ0FTSmUxcXlaNGh5Xzh6Mkl0MmFGWUFmeEw0VWhCMGRvX3h5Z3dEei1JR1JM?oc=5",
+      "summary": "NScale ties executive compensation to Microsoft, Anthropic agreements Axios",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -123,9 +163,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - thenextweb.com",
+      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
-      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court thenextweb.com",
+      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court The Next Web",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -147,6 +187,46 @@
     },
     {
       "company": "Meta",
+      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5",
+      "summary": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads cnbc.com",
+      "badge": "hot",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn?oc=5",
+      "summary": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews Bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta stock rockets 10% on price target increase, Muse AI downloads - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDF3aTdKOF9NRDVQUTc2Tm5ld3ZOMmt2MHlnMFVleC03c3NlZ2J0QThiUVJ3c0RwRHNpV3JUODNaai1VbE1kekVqQmZHMXB1S0N4VmR6VF9tTDFuTFowS19NMjh4VnJ0aGk1ZkJiOXlmQjQxcGk3UFlJNUUxc3pud01saHFWUmgyYXFjcDlMX1BQU3pqaXVIQ3BpNHJhNzhnOHRwU3BQZEQ3c2lsSWRmTm5oMk9HSzM4RmNSMUJoZ196Zw?oc=5",
+      "summary": "Meta stock rockets 10% on price target increase, Muse AI downloads Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
+      "summary": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping GeekWire",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmVMU3B6QXZUSUQxTi1oMzdWVlJwblZHUlVxaHktWEFWWU1KOUVLTFVraWdHSWhPamotcHdYNEhBd18wLVh1c2RPNUlZNy1tdG5qOFN0MkVwT25zRndKaW4zM01welQ2ei1aSGE4WXpFRkl0N0dwajhkU3MtSGpyOEs2eWduMEstS3VIamxxZ2UwR205VlcxdEhzNkY1RURqUEYtalpUWjBxYjRHaVp1RU5xbGxlRUowdVJfOFpwZFVzUVpscXc1ekQzd1FKZw?oc=5",
+      "summary": "Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar Investing.com",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
       "title": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse - NDTV",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWt6SHBBbmZQbGZzOF9GeWkxMi02TXFwYzFkVGF1aU1rYTVWRUMzYUFzRDhTVlNYRlEwT2FLVTZDbkRXNFB1Mk9fWHFQWnRsTXV0UGh1aTJCbVpJTUtYXzE4WnRNZl95N1JtM0NiaWpBbzAzeGdISWJubUZPTVNDM1UyVi1tT2w3THZraU1xMF9SZVF2cUJON3ZiLU9mU01iT2lkcnpxMEE3WXdzWFlnSUp3SS1vRHZhTUdyNEpVZDhXamFrWjJFR2RB0gHSAUFVX3lxTE1oa3R1aWxnVGY5d1d4LUtRSW1EcGZtcWF1QzNIU3RnVVlwd05zaUJ1QUNWOVJhLTRXTGtNSjI2Z2FseXJ3alBudTdBQ01TTDIyaXJsMlViczhEd2RjUTM2NjZabVFWcFU0Y2gxNGNNTEluV1ZSek82ZkhVYlBOV2RqSGk3LTdFdmlqNlRKeDBXc0lCeWtmWk5WNWtSUDROdzgxR2NPOXAxOWNRVktQYXRHZGVvazZmNG8yVkM4T1NzaEVLOUM1ZWN1SmxYYTJKVmU5QQ?oc=5",
       "summary": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse NDTV",
@@ -155,9 +235,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "The Company Trump Can’t Ignore - Politico",
+      "title": "The Company Trump Can’t Ignore - politico.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
-      "summary": "The Company Trump Can’t Ignore Politico",
+      "summary": "The Company Trump Can’t Ignore politico.com",
       "badge": "new",
       "date": "2026-09-20"
     },
@@ -194,30 +274,6 @@
       "date": "2026-09-20"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
-      "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age Fortune",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown AP News",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development - Politico",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
-      "summary": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development Politico",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
       "company": "Meta",
       "title": "Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To - inc.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDVFUUw2dTJ6TENDNmdUdGExc0pJZVBCV01LbGhKdlg2NDBDVE5LQmJYWWE0TVRrbGY0Z3VLMHRRZTNLYU54MVRLdm1BeWRvWW5jRmlzWXZrSjAtdU5NUGVmMjNSb2NaeW9TUzg3X3pqaG42eHR5blp6YUI2MG9HSmNOSTJta1FHWUVST3RwLWRrZzJPdzJpX0pXZVpSMGNzcjUyQUxlTVZxS2pi?oc=5",
@@ -238,14 +294,6 @@
       "title": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage - nypost.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhhMUt3WXpHbkstYnBSSzBxN05FRXVudW1mLWlRWVVEYlBqRDg5dTRIMXdyd1d4UHJRZ1lUR1NjZENDSzZNTEV4MWIxakxiU0lSUDNqYUN2NUlmMzZDREw2eXdiaXhjQ0xUdnZfR0Z1Z28yTUFFSVdZY2I2V0JlLV9Yc1o0THZ3Qy1UbG0yY1ByWGpKQmhOaUc5ZWNuVF9aRWkyWg?oc=5",
       "summary": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage nypost.com",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Lawsuit: Meta glasses shared intimate images without consent - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVdObG1mMlZDX2lyVkFHVHdCajlFeVhTcFdZX3dyYWQ1TEFZcGtBWkdYYVRyVENTcjBHQTVzaVBwMVBvczZFZUNSSTBVUEFqYi1WRG5KWW9ISDUxOXh2WDA5djgyclhuODJ4c1lHWEJxcHRTU1NpdEV6dkFUbnVkSHk3Um1GWXh1blFwb3pFeDA0Y2U4b2NEWjF0a3dxSE5fa1E?oc=5",
-      "summary": "Lawsuit: Meta glasses shared intimate images without consent Boston Herald",
       "badge": "new",
       "date": "2026-09-19"
     },
@@ -303,38 +351,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEtlOGNjbWNpbXdfUkJSV2RFdmpoSkNXZWdjdk12WUNCMlZ2c1BZN3ladXBWSjZLbl9vMElOWWFiMjRFU2V6bTkzRzJNSHVsQXdzcjFLbzZJX1ZkUng4dm0wM0l3X3VkcldBZEFodmJET2M2RDR6Ti1jUzRlajFkX3gtbVdRMi1SOVRpM01lWUhoTUc4a1ZGblhPOWwyanRmVG1QekFkWHpLY0JfTmljWmFVOHU3YURZc1A2VFZNYjNVM2ZRMnFWbC13NFJlUQ?oc=5",
       "summary": "Sure Bet Media Launches Dominate Search AI Amid AI Referral Traffic Growth markets.businessinsider.com",
       "badge": "hot",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
-      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI gains momentum with Zuckerberg's agent for the masses - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zc05ybzhoSzFCcmVYd0piLUh4Sko5S0MwSkpZUkliUWtFdG1JSDlTS1JPekE2Vjl5OVdwRG1ldm9BOUxSS0M3MFJNTktLblEwdHQxM1NTSzJUOG0yWHBQZVMxM1ZESV9WeExhVUlpSkNKUFVyV0kw?oc=5",
-      "summary": "Meta AI gains momentum with Zuckerberg's agent for the masses Axios",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta glasses captured and shared intimate images without users’ consent, lawsuit claims - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3dzdGZ4N2wtZVNRNzA5Nnk5aWhnRV9vY1dPZjJENkxrTFJkRDVyMGk2T0hlcUI0aTI5YndOMXpmZlZPVUFjam93eDU1bHExYXJ4Z1RnZDdid0o1VG9Gd3RTX0hqZDBKbWQ1dUNSc3gzWVF2MXVCWXhJQ3BMNEh2TjVXVFI0cUwyZkM1THZfNURuY3VHYzFzYXZvMHdKeGQ5RmRrbU9HZ2RRdjhqWDhTU2NESVBIMm4wVlE2SE1xaUVlRFNWNWlNbTZIYw?oc=5",
-      "summary": "Meta glasses captured and shared intimate images without users’ consent, lawsuit claims Los Angeles Times",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
-      "title": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More - engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnh4UTZPN3hYZGEyYnpUek5sQTlKOEdwQk1oQl9HVmY5a3JQaF9ZSDZjUEFuVmNRNTktUVZibW1yVHNrYlRacE4wWjA3c2o3bmp0NXA1QUYtOFlobTZoZmhZc0F1X3p3bnVnYmJQNEd3M0NqR0NMYlJ6M2ppVkk2dURrdjlxZkpJanhNZTJheHRuX2VULUJCb1VVSHJVTnlsZG11TC1XODk1WEdodW9mRWZ6blA1M1Fn?oc=5",
-      "summary": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More engadget.com",
-      "badge": "new",
       "date": "2026-09-18"
     },
     {
@@ -438,22 +454,6 @@
       "title": "Reimagining advertising with AI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "badge": "new",
       "date": "2026-09-16"
     },
