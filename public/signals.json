@@ -1,11 +1,59 @@
 {
-  "updated": "2026-09-20T20:10:44Z",
+  "updated": "2026-09-21T02:55:25Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Major updates for Apple’s software platforms are now available",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "summary": "Apple today released the next generation of Apple Intelligence.",
+      "badge": "hot",
+      "date": "2026-09-21"
+    },
     {
       "company": "Anthropic",
       "title": "The Company Trump Can’t Ignore - Politico",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
       "summary": "The Company Trump Can’t Ignore Politico",
+      "badge": "new",
+      "date": "2026-09-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business - us.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LMXZMNUl2VW9SaW0wMWE2Z1lwaVFvQi1nSDkzajgyY1o2MVpreExYNkZ3NElyU18ySjJTUUkzNHUtdUpVYVJpMzFvTEFRbWpDdXJjaS1QdFk2RmFFbm9GR2V6SzlvTWRFT1BWcEp4bWp2SXBuaFVr?oc=5",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business us.cnn.com",
       "badge": "new",
       "date": "2026-09-20"
     },
@@ -23,46 +71,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
       "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown CNN Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development Politico Lawsuit says Anthropi",
       "badge": "new",
-      "date": "2026-09-20"
-    },
-    {
-      "company": "Apple",
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
-      "badge": "new",
-      "date": "2026-09-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "badge": "new",
-      "date": "2026-09-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
-      "badge": "new",
-      "date": "2026-09-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Major updates for Apple’s software platforms are now available",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "badge": "new",
-      "date": "2026-09-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "summary": "Apple today released the next generation of Apple Intelligence.",
-      "badge": "hot",
       "date": "2026-09-20"
     },
     {
@@ -91,17 +99,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown CBS News",
+      "title": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
+      "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age Fortune",
       "badge": "new",
       "date": "2026-09-19"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
-      "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age Fortune",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown CBS News",
       "badge": "new",
       "date": "2026-09-19"
     },
@@ -122,10 +130,10 @@
       "date": "2026-09-19"
     },
     {
-      "company": "Anthropic",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQXRkTnBOWHdnZC1icnJVd0E1UGtlV1FuN0FFWFhwWV9rRW1oT2M0dE9DYl9ocmw0MHhRZWdFWUtwZ1pacVdFdExfT2dVTnY2aUZrM3lfeWxmTEtWUWRWQ3NzRkd6am1fZ0ZBTHhJcTJEeTlCbzI3Ung0MXprbHZvMTc2Mmk5cUVQbmt5UTQ1YTNmeGp4RHk2R1pLLTVybUZFTy1ySTR5Z1RsV3FCNkF3X1gwZUEyakRwTjVZUnQzNnkyMl9tMzFOeVNWQkNFTTloR0Zj?oc=5",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown Los Angeles Times",
+      "company": "Meta",
+      "title": "Meta’s AI Agent Has a Trust Problem - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
+      "summary": "Meta’s AI Agent Has a Trust Problem wsj.com",
       "badge": "new",
       "date": "2026-09-19"
     },
@@ -227,14 +235,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI Agent Has a Trust Problem - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
-      "summary": "Meta’s AI Agent Has a Trust Problem WSJ",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Meta",
       "title": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More - engadget.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnh4UTZPN3hYZGEyYnpUek5sQTlKOEdwQk1oQl9HVmY5a3JQaF9ZSDZjUEFuVmNRNTktUVZibW1yVHNrYlRacE4wWjA3c2o3bmp0NXA1QUYtOFlobTZoZmhZc0F1X3p3bnVnYmJQNEd3M0NqR0NMYlJ6M2ppVkk2dURrdjlxZkpJanhNZTJheHRuX2VULUJCb1VVSHJVTnlsZG11TC1XODk1WEdodW9mRWZ6blA1M1Fn?oc=5",
       "summary": "What To Expect At Meta Connect 2026: New AI Glasses, A Mixed Reality Headset And More engadget.com",
@@ -283,17 +283,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "What 40,000 agents reveal about the future of enterprise AI - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVwUWxra2drNVBTYVFnNmxHa1hiTWs1bFloc2NnNDhNeEtONGFDSGExMnpabDU5OVNOU3k5T1Zra1dnTXpDbkhPOWNVSFhwUVRoblhGak9EeUtKMEE5NUhQM1g4U2JTQ01jTGZ0c3ZrNm1FNk4tcF9hYjg1YWNxMHBMZ0Q3TUd1VHViN0pSOFJUMHVNSDdxZjJwRTJqNzctVUNYOVdBU2FiQVFhZGNRN2xCTDlRMi1kc09r?oc=5",
-      "summary": "What 40,000 agents reveal about the future of enterprise AI Microsoft",
+      "title": "Microsoft has another October event planned, but hardware isn't on the agenda - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVdBdGZzX193Vzh4aFFUVlVoRlRCZDlNd3NXU1NNbU5NNmY5VnAzUVA5Y1BkNFZVUzBuR2VpdGtJc1pGN0hTRTlFbFNTT2tFQU5lVmVNOHloTlBJemN1RnF5dUtWYWR5WUlvVTY3bS1FNXlPU0NLT2dfV0QwbU1FZFE4ckhJWndsejdzaWFybGtlRDhsVzljaHYwRTRtZ2ZNeFltVnlUTjhORGQ1VGFBUFBXMkRoTHlWQjFRVmFLaDNvRlU?oc=5",
+      "summary": "Microsoft has another October event planned, but hardware isn't on the agenda Windows Central",
       "badge": "new",
       "date": "2026-09-17"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft has another October event planned, but hardware isn't on the agenda - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVdBdGZzX193Vzh4aFFUVlVoRlRCZDlNd3NXU1NNbU5NNmY5VnAzUVA5Y1BkNFZVUzBuR2VpdGtJc1pGN0hTRTlFbFNTT2tFQU5lVmVNOHloTlBJemN1RnF5dUtWYWR5WUlvVTY3bS1FNXlPU0NLT2dfV0QwbU1FZFE4ckhJWndsejdzaWFybGtlRDhsVzljaHYwRTRtZ2ZNeFltVnlUTjhORGQ1VGFBUFBXMkRoTHlWQjFRVmFLaDNvRlU?oc=5",
-      "summary": "Microsoft has another October event planned, but hardware isn't on the agenda Windows Central",
+      "title": "What 40,000 agents reveal about the future of enterprise AI - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVwUWxra2drNVBTYVFnNmxHa1hiTWs1bFloc2NnNDhNeEtONGFDSGExMnpabDU5OVNOU3k5T1Zra1dnTXpDbkhPOWNVSFhwUVRoblhGak9EeUtKMEE5NUhQM1g4U2JTQ01jTGZ0c3ZrNm1FNk4tcF9hYjg1YWNxMHBMZ0Q3TUd1VHViN0pSOFJUMHVNSDdxZjJwRTJqNzctVUNYOVdBU2FiQVFhZGNRN2xCTDlRMi1kc09r?oc=5",
+      "summary": "What 40,000 agents reveal about the future of enterprise AI Microsoft",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -331,9 +331,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds - edtechinnovationhub.com",
+      "title": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeU1sSnFEQVcyN1I1TFVyaDA1aFU0Q3piWnFyNXhNYU1KeG5SdGNuSVNKaUtFaDlJSENVaEVyMTMtSzRhVnNDb1NWS21GT1AtSHNIanNNN0llMVlOdmJabTJRS3Z6V3J5emlIZExYWUpMdnpyYkVZM1V5emRmRDRGcEszZzV5ajVBcWdicUl6TXdWbTRvSmgzMUFabXJsMng4NEtrb0NjREFzZWx0R3RXa1k3Z0dWODNjSW1zSkNkejcxSUpwYTNoRjV1eHh2ZTA5?oc=5",
-      "summary": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds edtechinnovationhub.com",
+      "summary": "Perplexity's AI search is not a safer choice for kids than Google, Youth AI Safety Institute finds EdTech Innovation Hub",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -499,10 +499,10 @@
     },
     {
       "company": "Perplexity",
-      "title": "Crusoe signs cloud deal with Perplexity AI - Bloomberg - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTVqYUxVS2x6Ni03RVl3dGdxU0pDV3pQa3NMUnBJVDN1MWpoTWxyeDlqRndiU2YwNWR5TVNJZnBrTjZ6Tldzd1FBQm0zYWdQa0tENkdCbklCR2x4dkdjajl4VjQzczJyWmp5cjJZS0tJeEtZaEl0V3hsU3gtSU1QWlBtTTNleDltTjJjdGRvalh3VjZCNmhTcWViOXhhNE1na1JESXhXMU05Mld1dTRhbXF0UnJKQQ?oc=5",
-      "summary": "Crusoe signs cloud deal with Perplexity AI - Bloomberg Investing.com",
-      "badge": "new",
+      "title": "Crusoe and Perplexity Announce Multi-Year AI Partnership - Crusoe",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKc3pFNk8zWVZKQXVNdEJuSnhULVYzcGR3bFFHUHBhbFFBREFDUlI0Q2lZckp3SzRqaWhkRTdMRksybndONHZ5MFVlWmxtc0Etd21yOHJRWHlQZ0c2MzJLcl9LNl9ZWVV3RUF0TlBnMVZod0ttR0E2TXl3?oc=5",
+      "summary": "Crusoe and Perplexity Announce Multi-Year AI Partnership Crusoe",
+      "badge": "watch",
       "date": "2026-09-15"
     },
     {
