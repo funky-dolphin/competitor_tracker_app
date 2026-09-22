@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-21T21:35:30Z",
+  "updated": "2026-09-22T02:55:53Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Major updates for Apple’s software platforms are now available",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "summary": "Apple today released the next generation of Apple Intelligence.",
+      "badge": "hot",
+      "date": "2026-09-22"
+    },
     {
       "company": "OpenAI",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -43,6 +83,30 @@
     },
     {
       "company": "Anthropic",
+      "title": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5",
+      "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched Financial Times",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5",
+      "summary": "Anthropic to push IPO: Strategic delay or AI market warning? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Accenture Shares Climb on AI Safety Partnership with Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeE1BTGlPUnUyd2tnQlpWUVc2LUo0Nm1peDRvUmhSZWFaZDBsUlFhR1pCU3hzcEVHanQ5OHVHQjlsQlBWTXdtZnptLTI5R21FQU1zSldzSWVVR1lFZXNnb0k5TmVRaVVva096YjdENnE1ZFphOUVQcFRzdW81bkxzMVNaNGdtbEtzaF9uZjlIaGczOEY2cGRmM0FBRDhPcEc3UGZXZkhEVDQ5NlhJMGFTYzNkWG1SY2lURTFPNXFhQllZZzE1QVk3N0lyM2NDZWFEUThySmxmOXdSRFA0UWJtNzJaUWQtTU1oeThzQ0RBU1NROTk3UUpQRUYyZEFjSjZRcnVjS2RNM2VuN1pDQWN6Y2pLVnNzWmZmNVE?oc=5",
+      "summary": "Accenture Shares Climb on AI Safety Partnership with Anthropic WSJ",
+      "badge": "watch",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Anthropic",
       "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
       "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI The Information",
@@ -51,25 +115,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5",
-      "summary": "Anthropic to push IPO: Strategic delay or AI market warning? Yahoo Finance Lex in depth: Anthropic at $2tn isn’t far-fetched Financial Times EXCLUSIVE: Anthropic considers releasing new AI model ahead",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
       "title": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0gwR05UX0NfQkFJdzdOdHlIZTl2OV9XLVNPLXQ0YTBndVZYZW5icmtyaHJBblNCOG5PNkd6Y1E4dmhETTdUaE9LSWMyRjRnWUlqVUJWUG1tM1JteHdrWXE3dkM5NjVRQ0FTSmUxcXlaNGh5Xzh6Mkl0MmFGWUFmeEw0VWhCMGRvX3h5Z3dEei1JR1JM?oc=5",
       "summary": "NScale ties executive compensation to Microsoft, Anthropic agreements Axios",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5",
-      "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched Financial Times Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate The New York Times Nscale's IPO filing reveals Microsoft and Anthropic",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -122,50 +170,10 @@
       "date": "2026-09-21"
     },
     {
-      "company": "Apple",
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Major updates for Apple’s software platforms are now available",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "summary": "Apple today released the next generation of Apple Intelligence.",
-      "badge": "hot",
-      "date": "2026-09-21"
-    },
-    {
       "company": "Perplexity",
-      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - The Next Web",
+      "title": "Amazon blocks Muse and takes Perplexity back to court - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
-      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court The Next Web",
+      "summary": "Amazon blocks Muse and takes Perplexity back to court The Next Web",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -187,17 +195,33 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5",
-      "summary": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads cnbc.com",
-      "badge": "hot",
+      "title": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn?oc=5",
+      "summary": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews Bloomberg",
+      "badge": "new",
       "date": "2026-09-21"
     },
     {
       "company": "Meta",
-      "title": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn?oc=5",
-      "summary": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews Bloomberg.com",
+      "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5",
+      "summary": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude CNBC",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta stock soars 11% on price target increase, Muse AI downloads - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3JRd2ozbzl0VjdQODBPQlY0T3NVZWR1ZHdOc3NPaU4ybERnX2czVmwzc1dRQnYyUFR1b2NSN0M5Z1ZOdlRUWjYzNzhXUmFkemFqV1RlTkptSnNVX2JiNlZMOG5CY0paUnhrZkpldWZhcWphSHJZcmJaUTFJWFE1LUFoYlJXTmkteVpEMjY2VmxlanVyN2ZpQTVFVlBpSUdRTmxIVEd2MWd6ajl0V1B2VERDMzBjSklMcTBfZFFDaw?oc=5",
+      "summary": "Meta stock soars 11% on price target increase, Muse AI downloads Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
+      "summary": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping geekwire.com",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -206,14 +230,6 @@
       "title": "Meta stock rockets 10% on price target increase, Muse AI downloads - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDF3aTdKOF9NRDVQUTc2Tm5ld3ZOMmt2MHlnMFVleC03c3NlZ2J0QThiUVJ3c0RwRHNpV3JUODNaai1VbE1kekVqQmZHMXB1S0N4VmR6VF9tTDFuTFowS19NMjh4VnJ0aGk1ZkJiOXlmQjQxcGk3UFlJNUUxc3pud01saHFWUmgyYXFjcDlMX1BQU3pqaXVIQ3BpNHJhNzhnOHRwU3BQZEQ3c2lsSWRmTm5oMk9HSzM4RmNSMUJoZ196Zw?oc=5",
       "summary": "Meta stock rockets 10% on price target increase, Muse AI downloads Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
-      "summary": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping GeekWire",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -235,9 +251,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "The Company Trump Can’t Ignore - politico.com",
+      "title": "The Company Trump Can’t Ignore - Politico",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
-      "summary": "The Company Trump Can’t Ignore politico.com",
+      "summary": "The Company Trump Can’t Ignore Politico",
       "badge": "new",
       "date": "2026-09-20"
     },
@@ -254,14 +270,6 @@
       "title": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHBiS2tSYUVPMi1YRjVtOWdKNHNLdmg1amtkTkdFUnF6NzZzYWRiSGg0SkRPMzdHaEJfTzFiOWwzVm90LURvMC1KWjdKdGYzRnVwaS03eEtPUDVDWFVEcnFrcDUtTUtYdTJweFMtZk80YWYzcWZ0Mk5QNFhKbDZXUk5JWUlpS0VEZ1F5Yg?oc=5",
       "summary": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown qz.com",
-      "badge": "new",
-      "date": "2026-09-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown CNN Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development Politico Lawsuit says Anthropi",
       "badge": "new",
       "date": "2026-09-20"
     },
@@ -286,14 +294,6 @@
       "title": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ2ZOZ0c0VUxmTTlhUlMzdXczTDQtSGRjWGx6MnlFSXlDN01VM0RjV0VvTDloSWNHWUhyQWZnbWZlTnVvcXdMZThFOFExQXQzblNFU3JWYWl2bTFMbDVJaXlIYjZGaG9MaGVXekE1UDhNYl9VM2U2R3RtdXVNTUN3SnBZdFVTbGtTbWhtdklaejF2Zw?oc=5",
       "summary": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage Yahoo",
-      "badge": "new",
-      "date": "2026-09-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage - nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhhMUt3WXpHbkstYnBSSzBxN05FRXVudW1mLWlRWVVEYlBqRDg5dTRIMXdyd1d4UHJRZ1lUR1NjZENDSzZNTEV4MWIxakxiU0lSUDNqYUN2NUlmMzZDREw2eXdiaXhjQ0xUdnZfR0Z1Z28yTUFFSVdZY2I2V0JlLV9Yc1o0THZ3Qy1UbG0yY1ByWGpKQmhOaUc5ZWNuVF9aRWkyWg?oc=5",
-      "summary": "Meta’s AI glasses accused in California lawsuit of secretly capturing sex, nudity and bathroom footage nypost.com",
       "badge": "new",
       "date": "2026-09-19"
     },
