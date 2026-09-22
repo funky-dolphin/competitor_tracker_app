@@ -1,6 +1,70 @@
 {
-  "updated": "2026-09-22T16:07:17Z",
+  "updated": "2026-09-22T20:46:18Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "badge": "hot",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+      "summary": "Introducing Claude Opus 5.5 Anthropic Anthropic releases Opus 5.5 with lower prices and Fable-level performance TechCrunch Anthropic And OpenAI Announce More Powerful (And Cheaper) AI Models Engadget ",
+      "badge": "hot",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO: What 10b5-1 Plans Mean For Employees - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWc0bkg4SDBXMVk4SHlrUEtIOVFHMm1TRkNCZ1ZuelJkYkctUHN4Y1pPVE1jbTcybGk1WmZwWGxWNl9uaTljOGhTcjFvcUstbndHVVlrbDBzSmM5bEtTR2JkVHpnOFRocHRaSElwMmhRU0tDY3VjUU93bzVlV0lDNWVGeFU1MklsMlVVd2RmTWdPMG9sajAwVl84Ykx1aTBRWjNjNFNNOE4tY2NpQVh3YkNFUUNlZDl1dlVBajhrYWxTNlFnYkJ5dElR?oc=5",
+      "summary": "Anthropic IPO: What 10b5-1 Plans Mean For Employees Forbes",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "summary": "Measurements for understanding the pace of AI development inside frontier labs Anthropic",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "summary": "Anthropic | History, Controversies, & Claude AI Britannica",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI - The Information",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+      "summary": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI The Information",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
     {
       "company": "Anthropic",
       "title": "Massive AI-Fueled Hack Hit 100 Companies In Days - Forbes",
@@ -22,6 +86,22 @@
       "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5",
       "summary": "Anthropic, OpenAI call for Australia to relax ban on training of AI models Reuters",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Register reader hit with surprise bill after Microsoft portals disagreed - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2p1UnMxd1VlUndRR2NvVnFQRkRRVEQ4Tnc5TFRXQ2IzcnNXNkpPUmlRV0lXSTlraGRlclpSaEVjdEF4V1JyU2Y2ZkFtdm9BMU5HWG5rQnh5bTZySmpSV3lDVGFkWEt0R1lCNURaODNUb1p5RWg5VXJUbTV2STJmM2x4cnVYU1FvX1RqVFFIY2tvazRMcS1DeHlUS2hTTXh6aXNQbWhBMUQxX3BfS2JNeDRhU0l3bUtkWC1VYmd0eU5pdw?oc=5",
+      "summary": "Register reader hit with surprise bill after Microsoft portals disagreed The Register",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Microsoft",
+      "title": "‘Copilot worked best when I knew what I wanted. ChatGPT was better when I didn’t’ — I tested both AI assistants in Word, and I wasn’t expecting the difference to be so obvious - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVDY2UDJVcUdFZlFZTGhMTlNJRWx4UTlRNF9NSkVJbVI4Z1Ffa2pYaEw2eTJFRWNTWjNtd2NuaWQ3R2VoTWxrZFZfSi1UWVVSRlpvWHpXVi02SHVKQllJV2p0SHpsbFh1NDg3TmJDOVlHMUhZMmd5ZDF2WFdCRGtfLTFEWVRnTS0wcW5WWVNlUkdweXBDb291cm1udW5MVXU4SC1OQm1RN2dqR1NqY05jR29hLUJZVHRBZkVidDBZTjc4Zmg0ekwwM0FweS02ZXowVzJieDVJajV6ZmNETEVNX0JCLTNZMk9YQ2Jod09EV1dsRnF5M2JsOUtOV0M0U0IyYThpTFdqZDlVZnhNOXk4bFEwVWw2NEw0WDViNDJwUmpJWXBydUR4aVJPV0pmTm40NzN6LTV3Q1R5QzNyZHVHVHFVLWZNdklY?oc=5",
+      "summary": "‘Copilot worked best when I knew what I wanted. ChatGPT was better when I didn’t’ — I tested both AI assistants in Word, and I wasn’t expecting the difference to be so obvious TechRadar",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -101,7 +181,39 @@
       "company": "Meta",
       "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times",
+      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude CNBC Meta AI agent trigger",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI chief wants Muse to make you $1,000 - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POVV6cEpPenltb1BKNjQ5WTJqQmdKVzhOdEV0aG9pSGNpWGZJTlN3X1NWeE5oXzEtaHNZOVdvemdSeWpuWlpGME9VbjBTbDZUMWNkMDZQb04yY3BMRE00cHRHbWdWaEdOT0E?oc=5",
+      "summary": "Meta’s AI chief wants Muse to make you $1,000 The Next Web",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Meta",
+      "title": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGU4RzlSV0tfMTNwRWpWdWNmRjNIdFJkd2hIRk45bVZyWE5IdEI5QlJjcnp0WFdJWGxRX3J6bW54RUQ3dlI0ZlJLOHVySVh6eGFjcks2LV81Zm1WUUFXOUJMZlIwUkxOV2tHY1ZwZ0p0Z3dtc0plOWFXOGl4enhxUlRJSUI4THJBeUdaUXByQ21lVjJ5ZUg3U3R5MA?oc=5",
+      "summary": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network Yahoo Finance",
+      "badge": "watch",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Amazon blocks Meta's Muse AI agent from shopping - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1eExJWlBudTJNb0Y5dVUzOXp1WW1La0RvYmdrM1ZGOVJNTkhybUg0ZThib1NNRms5OFVJbjdHUVlBSmdLc21JRDM0SFJTaTlaRzlmTy1KOG1QOWpSMURiNy1mNFZhTGl2M3RYbzYwVVdZV1lt?oc=5",
+      "summary": "Amazon blocks Meta's Muse AI agent from shopping Mashable",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Meta",
+      "title": "New Meta AI app Muse tops charts - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05YXhFeVExSElLMlNzZm1xdVdEbHZRMENfbE9XTWlaZGhZX3E2Um11NWZEcHU5dDFtSHRhYWNrX1kyY2RlV1I5SDg0eEt1NDAwU2Iyb3dJZGZDMDQ?oc=5",
+      "summary": "New Meta AI app Muse tops charts Fox Business",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -110,14 +222,6 @@
       "title": "Shopify partners with Meta Muse for AI-powered checkout - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTdMaldzeFlrV3BaUHJwUkpmX2FyZUV4UFc4TmdBM0FNSllDbk5DV3ozOHBHVllLODJITXozZ0xWRU9vN2xhQVYwbzl4TjBROVpRZGhLTWxoakl1aXg0aUxYMVhTTEZfbWo5aTlHLUx1OW51ZEN0dURMZVFxTVVYcFFuUmc5UUJ0elBLZEdWZlU0cWxTVEs0Rw?oc=5",
       "summary": "Shopify partners with Meta Muse for AI-powered checkout Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Amazon blocks Meta's Muse AI agent from shopping - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1eExJWlBudTJNb0Y5dVUzOXp1WW1La0RvYmdrM1ZGOVJNTkhybUg0ZThib1NNRms5OFVJbjdHUVlBSmdLc21JRDM0SFJTaTlaRzlmTy1KOG1QOWpSMURiNy1mNFZhTGl2M3RYbzYwVVdZV1lt?oc=5",
-      "summary": "Amazon blocks Meta's Muse AI agent from shopping Mashable",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -163,14 +267,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
-      "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI The Information",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
       "title": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5",
       "summary": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models Bloomberg.com",
@@ -182,38 +278,6 @@
       "title": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5",
       "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched Financial Times",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Are A.I. Models Being Misled to Act Too Human? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFJXZzhtdnhvdXFTX1FVdWlQYnpvbTlMZ0xScVBCbEQybUNzWDdrd0txeGw5VTNOS1VwT2VrbU5yU0pOWW5sNnFNVGVudktWY3prVERMTWF0VUJTS2RoNFRKVl9DUVFIRUxfSzQtYkk3STlSSFBBR2hoVkQtbUUtbTJzM1pmWWpw?oc=5",
-      "summary": "Are A.I. Models Being Misled to Act Too Human? The New York Times",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5",
-      "summary": "Anthropic to push IPO: Strategic delay or AI market warning? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Accenture Shares Climb on AI Safety Partnership with Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeE1BTGlPUnUyd2tnQlpWUVc2LUo0Nm1peDRvUmhSZWFaZDBsUlFhR1pCU3hzcEVHanQ5OHVHQjlsQlBWTXdtZnptLTI5R21FQU1zSldzSWVVR1lFZXNnb0k5TmVRaVVva096YjdENnE1ZFphOUVQcFRzdW81bkxzMVNaNGdtbEtzaF9uZjlIaGczOEY2cGRmM0FBRDhPcEc3UGZXZkhEVDQ5NlhJMGFTYzNkWG1SY2lURTFPNXFhQllZZzE1QVk3N0lyM2NDZWFEUThySmxmOXdSRFA0UWJtNzJaUWQtTU1oeThzQ0RBU1NROTk3UUpQRUYyZEFjSjZRcnVjS2RNM2VuN1pDQWN6Y2pLVnNzWmZmNVE?oc=5",
-      "summary": "Accenture Shares Climb on AI Safety Partnership with Anthropic WSJ",
-      "badge": "watch",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0gwR05UX0NfQkFJdzdOdHlIZTl2OV9XLVNPLXQ0YTBndVZYZW5icmtyaHJBblNCOG5PNkd6Y1E4dmhETTdUaE9LSWMyRjRnWUlqVUJWUG1tM1JteHdrWXE3dkM5NjVRQ0FTSmUxcXlaNGh5Xzh6Mkl0MmFGWUFmeEw0VWhCMGRvX3h5Z3dEei1JR1JM?oc=5",
-      "summary": "NScale ties executive compensation to Microsoft, Anthropic agreements Axios",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -251,9 +315,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - The Next Web",
+      "title": "Amazon blocks Muse and takes Perplexity back to court - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
-      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court The Next Web",
+      "summary": "Amazon blocks Muse and takes Perplexity back to court The Next Web",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -302,30 +366,6 @@
       "title": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn?oc=5",
       "summary": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Platforms surges 12% amid AI monetization rally (META:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmJDOXZmZDZKcUZVVjE3a0NMVWtBMG5BazdXdlZVT0ZtZEltQjdUZEl1TjY3Ri1mbFF0Mzc0Z0JiMndydnI3SHYybUpoSGZ0Z2JyV0xkdGduY1RjdHNpZndzeWl4M0NSSGhpaEd5UlF4NVc0R2NSUUhTMjRVSC12Y2FYMEc2YlhHa3hvQ0ZHN3dxdVE?oc=5",
-      "summary": "Meta Platforms surges 12% amid AI monetization rally (META:NASDAQ) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
-      "summary": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping geekwire.com",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta stock rockets 10% on price target increase, Muse AI downloads - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDF3aTdKOF9NRDVQUTc2Tm5ld3ZOMmt2MHlnMFVleC03c3NlZ2J0QThiUVJ3c0RwRHNpV3JUODNaai1VbE1kekVqQmZHMXB1S0N4VmR6VF9tTDFuTFowS19NMjh4VnJ0aGk1ZkJiOXlmQjQxcGk3UFlJNUUxc3pud01saHFWUmgyYXFjcDlMX1BQU3pqaXVIQ3BpNHJhNzhnOHRwU3BQZEQ3c2lsSWRmTm5oMk9HSzM4RmNSMUJoZ196Zw?oc=5",
-      "summary": "Meta stock rockets 10% on price target increase, Muse AI downloads Yahoo Finance",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -394,14 +434,6 @@
       "date": "2026-09-17"
     },
     {
-      "company": "OpenAI",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "badge": "hot",
-      "date": "2026-09-17"
-    },
-    {
       "company": "Google",
       "title": "Making global data easier to explore",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -414,22 +446,6 @@
       "title": "Microsoft has another October event planned, but hardware isn't on the agenda - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVdBdGZzX193Vzh4aFFUVlVoRlRCZDlNd3NXU1NNbU5NNmY5VnAzUVA5Y1BkNFZVUzBuR2VpdGtJc1pGN0hTRTlFbFNTT2tFQU5lVmVNOHloTlBJemN1RnF5dUtWYWR5WUlvVTY3bS1FNXlPU0NLT2dfV0QwbU1FZFE4ckhJWndsejdzaWFybGtlRDhsVzljaHYwRTRtZ2ZNeFltVnlUTjhORGQ1VGFBUFBXMkRoTHlWQjFRVmFLaDNvRlU?oc=5",
       "summary": "Microsoft has another October event planned, but hardware isn't on the agenda Windows Central",
-      "badge": "new",
-      "date": "2026-09-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "What 40,000 agents reveal about the future of enterprise AI - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVwUWxra2drNVBTYVFnNmxHa1hiTWs1bFloc2NnNDhNeEtONGFDSGExMnpabDU5OVNOU3k5T1Zra1dnTXpDbkhPOWNVSFhwUVRoblhGak9EeUtKMEE5NUhQM1g4U2JTQ01jTGZ0c3ZrNm1FNk4tcF9hYjg1YWNxMHBMZ0Q3TUd1VHViN0pSOFJUMHVNSDdxZjJwRTJqNzctVUNYOVdBU2FiQVFhZGNRN2xCTDlRMi1kc09r?oc=5",
-      "summary": "What 40,000 agents reveal about the future of enterprise AI Microsoft",
-      "badge": "new",
-      "date": "2026-09-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NFL Week 2 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEh3ZUF3UHMwQlNaTENpMmU1dkZsQkZVbGRTLURRQTM2VGZlUXc3VURVZHpFVllJU2Rid0VYd0I5X1BrVWFhMW1BejFtQzdsQlZCY0tYYW5wdnl2Q2VnSGdUbE9XNmtpMDY0U3VHQUFObjhKV2tjUHJmX3g2WUNkM1prSGhGdDFScEVhdGswbXpJWXpzbEp6SWowQ2Q3VUNYeVhmYg?oc=5",
-      "summary": "NFL Week 2 predictions by Microsoft Copilot AI for every game USA Today",
       "badge": "new",
       "date": "2026-09-17"
     },
@@ -456,22 +472,6 @@
       "summary": "Perplexity built CobbleDB to make AI search faster NeoTeo",
       "badge": "new",
       "date": "2026-09-17"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "badge": "new",
-      "date": "2026-09-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "badge": "new",
-      "date": "2026-09-16"
     },
     {
       "company": "Apple",
