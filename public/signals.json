@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:57:11Z",
+  "updated": "2026-09-23T20:58:29Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -19,10 +19,58 @@
     },
     {
       "company": "OpenAI",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "OpenAI",
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
       "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
       "badge": "hot",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "UN General Assembly live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements - ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQUdqNE15M09tanI3bHRPY1pLaUl0SERqMzVzR2JkRDNPZHE5V09GTllTbU9Hc0JzUVUyUkNmaVJMZV82SE9uaGRRdEV0d0RXcXBNVFU4Tzd6ZVhtVkJRdzlvcFBjMTBPeDFEazRYZWs?oc=5",
+      "summary": "UN General Assembly live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements ft.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, OpenAI CEOs warn AI could threaten humanity without safeguards - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjFrZFRXcFpzTFRlY0RRTnRqcERYdm1vTVpwY0dyNGdQQ29kSXJudkJDTmgyTXMtX2hKbzhxbnU0b2N1UDgzeDZ3MElIVld3clRvSGtiNTM4M0Q1eFA5bjRQbDV4NkVtX0RUYXRBblZfaUF0Q2l2R0doVkViMmFMNlNYQnBjMnFEdV9Kc1J2dFFUMjlFUHByQUtzbGd6ek5DUldOY05YdWlaZVo5MjNIQzR5d2rSAboBQVVfeXFMUFRYTTRfRzd0Z2hFZmpwcTMydTFFRUJRZ1BBODg5eDhIX0VTV19ZNllTbnF1Wk9KdE02UmZOWUF2c2xhY29WRGZpNGRndVhXSDhGNkY5TTJMSHdYakUyNV9EaE83dVZETXJmM0l2eHhKcG9FajR4OFRudU1NVzRzYnpzZGp6dnRLanRjTWhVZjJjSXlHaGQySWFlWHZYVmFzODdGNGxLck16d3N5TjJGcGZ3VUtiRkc2U1RR?oc=5",
+      "summary": "Anthropic, OpenAI CEOs warn AI could threaten humanity without safeguards Fox Business",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic CEO says ‘AI could be a risk to humanity as a whole’ at UN meeting - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTBLS0NGRnJtYVppTGFHZk9STXBCeXlqclFtN1hnLVF5VGRPeXROYmNlbmx3Q1h3NzZSaWo0eFdCOXNndGJobkt4YVh6ZDBGdUFFSl9FaUtYWEhBMk5VNnY0RG5RUEdmYVM5NXpkRERmN0lIWGE2WTlnSm4wdndnYnJUc0xDRmhBOVE0VnoyWjlCN1dsWUpYd2U5NWhtWVN5SkpUTW95bXhHaXNsZDF1MkNaOHlwLWll?oc=5",
+      "summary": "Anthropic CEO says ‘AI could be a risk to humanity as a whole’ at UN meeting USA Today",
+      "badge": "new",
       "date": "2026-09-23"
     },
     {
@@ -50,10 +98,26 @@
       "date": "2026-09-23"
     },
     {
+      "company": "Google",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "summary": "Google Beam promotional animation",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
       "company": "Microsoft",
       "title": "Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ282b2t5bzdHYW5BYWx3RUhqVV8wWDlsR0treTlqMVBwVFhPdWlNM01vTXk3R3RUOHJkclhycnlzNFNFRm9Ic2ZselFKRTdfSlZTNFk1WjJ0RXRINnIzOWoxUTBvY1FFOGw4UXhpcHNfVkFVTGlvWW1abGFTWTBUTThqQXRiOG5LZkNhZUZGdWdPZVBXbmpzcjh3MXIzMzc0ajRz?oc=5",
       "summary": "Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Stock Wins Upgrade. Why This Analyst Sees 15% Upside. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlp3dDFNZjJnbWNUMFZ1UzlRQV82bl9LS19sVXMxWG5nQUxna0E0akxZVkxQQUVKVE9iR3puc1E5VVJUVUw0Y09KMXIzMGNQckdkLXFYTi1PZEZGYVFuYm9yN1dBcFNSUkptcEZ6QjFheWNHTEZtemVpb1RoTFd1WmpqM1FIQQ?oc=5",
+      "summary": "Microsoft Stock Wins Upgrade. Why This Analyst Sees 15% Upside. Barron's",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -110,6 +174,22 @@
       "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun - WSJ",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5",
       "summary": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun WSJ",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "How Does Meta's Muse AI Raise Risks for Banks & Other Finance Firms? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTA0UmlBWW1fWmxuN2ZYSWxDU2FoVUpWSkNDQVVoTEk4b3M0S0ppQXowUklNUTFPZ1JhRkN0c0g3NnNQMTZzSzl0ZHFfTS1mSHc4SkJmNjJwMWZtNWdkQ3ZxendHRmdmcFVmbTlNUTdCcFAtN29XMGNDUFk5MXo2Tk1zcU1vVTlJTWxPdmx0NEZnU1E?oc=5",
+      "summary": "How Does Meta's Muse AI Raise Risks for Banks & Other Finance Firms? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Is Muse Really the Answer to Meta’s AI Woes? - pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2Q0TUctNWd3QkJrQjhtSDhzQXh6aUY5TGczQjJ6UTZPM21MdkVkSlhSdDNNNk9ZblJzd2JQNXN0U053UmNnUC16aHpjTHlOM3o5TnB1Zk02b0hGZlpkLS1oNTZrNC1yTFhPVEx0cWtOajE2cXphcXphLWpkM0ZJTEJBZHB1OXpuMXRPUEk2NzhybTg5TWRMRnRpUHFTUUoxOVE?oc=5",
+      "summary": "Is Muse Really the Answer to Meta’s AI Woes? pymnts.com",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -187,18 +267,26 @@
     },
     {
       "company": "Anthropic",
-      "title": "Introducing Claude Opus 5.5 - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "summary": "Introducing Claude Opus 5.5 Anthropic",
-      "badge": "hot",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
       "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
       "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide Reuters",
       "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
+      "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown CNBC Anthropic releases Opus 5.5 with lower prices and Fable-level performance TechCrunch Anthropic and OpenAI Mod",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing Claude Opus 5.5 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+      "summary": "Introducing Claude Opus 5.5 Anthropic",
+      "badge": "hot",
       "date": "2026-09-22"
     },
     {
@@ -210,42 +298,10 @@
       "date": "2026-09-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Massive AI-Fueled Hack Hit 100 Companies In Days - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemhwX1dobU94R0tSelBqNUg5OTQ5Sko3VXBDWWZHVW90MWxUTnMxbzhZMVNZazM5VjVWZmoxNm5fdmw4dVdOWUdLZG56dXp1d0NRblZQSEtCVTgzeVF5R0NjU3VCSkx5SGpuR25iTkpuZXNlcjQwTW5ZTUdsc1d1SzlJaHFleGk1aE9wd0VBSUNpMkxDWE5pbVhaZTg2U3YwZmJsVEJ4TGdqWUExZ2xXTkpxbU1lV09rTl9sZW53eTBfZGstMHc?oc=5",
-      "summary": "Massive AI-Fueled Hack Hit 100 Companies In Days Forbes",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Ex-Anthropic Staffers’ Self-Improving AI Startup in Talks to Raise at $5 Billion Value - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNEttTkpIMmxhV3RwcFQ5R2pMTUV0NUpPNmhBbUx6bWpNZFpkMmJhWE9ka29ObnNZLW1MTS1ETHZITmNJVjBzR2tNVWd6bndyYndPTTA0MXB0Y2hCNzhQbFZNQU5HM1FnZkx2MFAzQ3h1LW9CM0xGUW0zVkI2MU9QYm1GRGhtb2xPU1hFVDU4OWlVeXlzeG44VkU0RFM0RWJ6OEF2LVhzeW5CS3hBY0dId3pUXzJFbG92cHNYeA?oc=5",
-      "summary": "Ex-Anthropic Staffers’ Self-Improving AI Startup in Talks to Raise at $5 Billion Value Bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO: What 10b5-1 Plans Mean For Employees - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWc0bkg4SDBXMVk4SHlrUEtIOVFHMm1TRkNCZ1ZuelJkYkctUHN4Y1pPVE1jbTcybGk1WmZwWGxWNl9uaTljOGhTcjFvcUstbndHVVlrbDBzSmM5bEtTR2JkVHpnOFRocHRaSElwMmhRU0tDY3VjUU93bzVlV0lDNWVGeFU1MklsMlVVd2RmTWdPMG9sajAwVl84Ykx1aTBRWjNjNFNNOE4tY2NpQVh3YkNFUUNlZDl1dlVBajhrYWxTNlFnYkJ5dElR?oc=5",
-      "summary": "Anthropic IPO: What 10b5-1 Plans Mean For Employees Forbes",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-      "summary": "Measurements for understanding the pace of AI development inside frontier labs Anthropic",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
       "company": "Microsoft",
-      "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - theinformation.com",
+      "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - The Information",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5",
-      "summary": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ theinformation.com",
+      "summary": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ The Information",
       "badge": "hot",
       "date": "2026-09-22"
     },
@@ -306,50 +362,10 @@
       "date": "2026-09-22"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
-      "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant fortune.com",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Shopify Just Gave Meta's AI Agent a Major Boost - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1NWLWgzaFZKM3E2b2YzazdJQlpYSEhxanB5ZThNWXJ2cmRCdUE1S1poQXZnUzhHYzN5MXgtUlZjc1Y3NWtJX2dvdTBaVm82VDZNYmlka2I0NkZ3bTRqV1kzSkt1UzV0R0NnbURTRFNrUURmS3FlWlY0MFl0ZkZMU0tpNnhYN1k1Vk8yVTM3THdqSjhQ?oc=5",
-      "summary": "Shopify Just Gave Meta's AI Agent a Major Boost Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
       "company": "Microsoft",
-      "title": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? - Windows Central",
+      "title": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? - windowscentral.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVp2Tk1JQ0JvNWl3UngwMTZTWGU1bUtJVUtOTmRqbGxXV0xrUWtzdllXX0hvX2RaVDdlUEQ3Qkt2R0NyTzJ6QW9sTHp4dHE5Y1h0VjBLSUxWZzFQS1dqZ1YtNlo3ZHRMOHhxbHRrMks4OW9HaUx5VlRfM1JVazRyVUV3azJZTFRGM1NOU3Iyamh5OHJIODV0M1g3eXA4OVVGbTBEeVpwd082dTlLalRpa2VlRXNBbWh2dDhlZkxIZG5hUXp1YXdUY3FIazVaaHFOb0Uxc2pfS0Q0TVpjMVZkQ3NB?oc=5",
-      "summary": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? Windows Central",
+      "summary": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? windowscentral.com",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -370,18 +386,10 @@
       "date": "2026-09-21"
     },
     {
-      "company": "Microsoft",
-      "title": "Avanade cuts incident resolution time by up to 80 per cent with Microsoft Security Copilot - Technology Record",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTRRd2JFMXlqLUdqSmFrcjRQTENlUmlRb0dCd3hmeU1JN2ZhMnJFb3g1MDhycEp4ejE0RE1CMG41SlRfdzUyZjRBRGpVWmtuM2N5RXhiQmktZk1kOW40RVNiN1lDNFRNTFhjbmpmbHpxb1NMajkwd3NNZTJFa0ZuMkU5XzE3bEZ5c2U5Q3pTdm5lallabmdyUnpGb1JWd1Z6cjJIR0FMb3RtTWVIaXgycE1COUEybmZqU0RIdGtVZkNST0x1ajktbllxcw?oc=5",
-      "summary": "Avanade cuts incident resolution time by up to 80 per cent with Microsoft Security Copilot Technology Record",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
       "company": "Perplexity",
-      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - thenextweb.com",
+      "title": "Amazon blocks Muse and takes Perplexity back to court - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
-      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court thenextweb.com",
+      "summary": "Amazon blocks Muse and takes Perplexity back to court The Next Web",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -554,14 +562,6 @@
       "date": "2026-09-14"
     },
     {
-      "company": "Google",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "badge": "new",
-      "date": "2026-09-10"
-    },
-    {
       "company": "Amazon",
       "title": "High-flying Kiwi in New York raises $54m for his AI start-up - NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdTQ3cXJVT3EtN29CMWlubjhKaFdzTHdfVzBmREgwamZub0ltOWVCVXd0Ykc2MWIyajYxcVdoNS1hWjJmbV9HTEJGWHhzSTU3TldTclpWME1vQktBMXZ4ZHVpR0NJU21wRTQwWkc2WTh6TGFFSkhWU1UwNVcteV92QmFwWjA3QV8xMnd6NWlaaDVyb3ZieEwxTjhtYURTcTRBRFpYYjJsU183SE4zSzJCR3U4WjVVOHE1ZXVkc1lvbjB0T3dWeWxaaGxPMVBiT1c5OUxCS3pxYVJqdVE5aGhKdTEya1FoWEVIZzF5RXFobGtiSkdTYVZYX3p4akdPQTQ1dkJ1WWYteFA0NldjWnRUaGRYMDZWUQ?oc=5",
@@ -587,9 +587,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
       "badge": "new",
       "date": "2026-08-26"
     },
