@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-23T10:37:54Z",
+  "updated": "2026-09-23T15:57:11Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "badge": "hot",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic in Talks to Cement Control Over More Data Centers - theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXRsOGVIV1c0LUJuY0lJbkpick8xZV9lajkwVkNpcGtsalg2OXc3ZC1GSUxlb21ITEp4a28zbmUxZTRiVjRXcG9mZ2RTWG1BX0dPWHAyUDA3eTVwTjZ4RXdjQlk2eEZqd1duUU1pdVRxZGwyeDlNVFFkU1NOX3NySVRobUtqOG1iX3p3?oc=5",
+      "summary": "Anthropic in Talks to Cement Control Over More Data Centers theinformation.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s IPO Is Delayed. Here’s How to Play the AI Giant Right Now. - barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vRmI2YVFVYzd3ekhiajZyTXN4VVJaQzBCczhTeHlhdFFpcXJHU3QxN0ZXbkJ4a0ZINDZaNG01SUIzcG1vZTdaVXJ2UjRSZngtYWd5SzFNT05rNTZzNFY1Q3V3emE4ZGhRZUJ3bHBFczJZQzZDMDRQcw?oc=5",
+      "summary": "Anthropic’s IPO Is Delayed. Here’s How to Play the AI Giant Right Now. barrons.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
     {
       "company": "Anthropic",
       "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms - NPR",
@@ -10,10 +50,10 @@
       "date": "2026-09-23"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic in Talks to Cement Control Over More Data Centers - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXRsOGVIV1c0LUJuY0lJbkpick8xZV9lajkwVkNpcGtsalg2OXc3ZC1GSUxlb21ITEp4a28zbmUxZTRiVjRXcG9mZ2RTWG1BX0dPWHAyUDA3eTVwTjZ4RXdjQlk2eEZqd1duUU1pdVRxZGwyeDlNVFFkU1NOX3NySVRobUtqOG1iX3p3?oc=5",
-      "summary": "Anthropic in Talks to Cement Control Over More Data Centers The Information",
+      "company": "Microsoft",
+      "title": "Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ282b2t5bzdHYW5BYWx3RUhqVV8wWDlsR0treTlqMVBwVFhPdWlNM01vTXk3R3RUOHJkclhycnlzNFNFRm9Ic2ZselFKRTdfSlZTNFk1WjJ0RXRINnIzOWoxUTBvY1FFOGw4UXhpcHNfVkFVTGlvWW1abGFTWTBUTThqQXRiOG5LZkNhZUZGdWdPZVBXbmpzcjh3MXIzMzc0ajRz?oc=5",
+      "summary": "Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers Yahoo Finance",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -67,6 +107,30 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5",
+      "summary": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun WSJ",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Instacart Adds Another AI Partner to the List: Meta’s Muse. Maplebear Stock Falls. - barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEtvc2FSQk5zeGVDUHk0SmFZNXd1RWJNOVA4TTFqRGVHaGxidVBnSk1XalNQZ3B6Mmg3SGcySW1CYzV6R29QZUhXbDZscjNkUTdXSWdwZjk3Sk9saG9zcE1zd1RONlBmcXBBamJiek5YbE15MzBQVGxJc1Y0WXRINTBqTmE2eTg?oc=5",
+      "summary": "Instacart Adds Another AI Partner to the List: Meta’s Muse. Maplebear Stock Falls. barrons.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Muse reportedly has a shocking one-click vulnerability - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkhCemVtSVZpeERUY0kyQlVRWWd1bWxkaS1uTjh5TFhSaV9fMVFtRUo5VjNIQW4zejFGaVVZZFFhU2gydGtvNUJjTGlUOTk4Q0djX2ktTHlzT1V4N1RBODhRZkhpNlAzQnRLQktaenNSU2lFcWpVcU5qb1pOZGs5VA?oc=5",
+      "summary": "Meta’s Muse reportedly has a shocking one-click vulnerability Mashable",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
       "title": "Watch Trump Revives Iran Deal Hopes, Meta AI Rattles 'Consumer Inertia Trade' - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTeTVuS2RveG94VGR2MjZzbXljeDdRcjNsZEwzdXU5Z0xJM1l3c1Aza19OZkJEYjB6eVRpV0x3cnN6X0U0YjFXbTIxVlVoM2lERFEtUUdMbTMwR2hXd1g1R2JObHJ5Q1I2R0VOdWh2bFAycmVKczI2SXRWeHpUbEk?oc=5",
       "summary": "Watch Trump Revives Iran Deal Hopes, Meta AI Rattles 'Consumer Inertia Trade' Bloomberg.com",
@@ -86,14 +150,6 @@
       "title": "Muse AI Has Raised Stakes for Meta Connect Keynote - Barron's",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EakdKcTM0allYNGFtVmRsejY1aHN3ZklhUjR5T2djUlowSUVLLVRfY1VfUXJONlFuYnBKeVRyaWNGdHJlUWdPTHRkRXFDMjBsajhlOGZGWXFodVAtX2NESElRNzNZZGpJZjdybFdEQllOWFVCaGc?oc=5",
       "summary": "Muse AI Has Raised Stakes for Meta Connect Keynote Barron's",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5",
-      "summary": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun WSJ",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -133,7 +189,7 @@
       "company": "Anthropic",
       "title": "Introducing Claude Opus 5.5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "summary": "Introducing Claude Opus 5.5 Anthropic Anthropic releases Opus 5.5 with lower prices and Fable-level performance TechCrunch OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle Bar",
+      "summary": "Introducing Claude Opus 5.5 Anthropic",
       "badge": "hot",
       "date": "2026-09-22"
     },
@@ -142,6 +198,14 @@
       "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
       "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide Reuters",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SWTNQUUFGR2FfdzVYTzRjdHRzc3Zfbkg3aFNXYWZwSDZEYmQ0bFkyaVlQMDFTV1dkSndfdG8tRGtIV3ZlN040SDJkM2FRTUw0eC14VjA5TElXSTlHc0cwaUVnelZjMHVTb3JfRl8temdkZw?oc=5",
+      "summary": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta nytimes.com",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -178,26 +242,10 @@
       "date": "2026-09-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-      "summary": "Anthropic | History, Controversies, & Claude AI Britannica",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI - The Information",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
-      "summary": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI The Information",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
       "company": "Microsoft",
-      "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - The Information",
+      "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5",
-      "summary": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ The Information",
+      "summary": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ theinformation.com",
       "badge": "hot",
       "date": "2026-09-22"
     },
@@ -243,17 +291,9 @@
     },
     {
       "company": "Meta",
-      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
+      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times Meta's Muse personal agent is a hit, as AI commerce starts to take off CBS News Meta stock rockets 10% on price target in",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
-      "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant fortune.com",
+      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away nytimes.com Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty CNBC Meta says its Muse A",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -267,26 +307,18 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
+      "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant fortune.com",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Meta",
       "title": "Shopify Just Gave Meta's AI Agent a Major Boost - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1NWLWgzaFZKM3E2b2YzazdJQlpYSEhxanB5ZThNWXJ2cmRCdUE1S1poQXZnUzhHYzN5MXgtUlZjc1Y3NWtJX2dvdTBaVm82VDZNYmlka2I0NkZ3bTRqV1kzSkt1UzV0R0NnbURTRFNrUURmS3FlWlY0MFl0ZkZMU0tpNnhYN1k1Vk8yVTM3THdqSjhQ?oc=5",
       "summary": "Shopify Just Gave Meta's AI Agent a Major Boost Yahoo Finance",
       "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI chief wants Muse to make you $1,000 - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POVV6cEpPenltb1BKNjQ5WTJqQmdKVzhOdEV0aG9pSGNpWGZJTlN3X1NWeE5oXzEtaHNZOVdvemdSeWpuWlpGME9VbjBTbDZUMWNkMDZQb04yY3BMRE00cHRHbWdWaEdOT0E?oc=5",
-      "summary": "Meta’s AI chief wants Muse to make you $1,000 The Next Web",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGU4RzlSV0tfMTNwRWpWdWNmRjNIdFJkd2hIRk45bVZyWE5IdEI5QlJjcnp0WFdJWGxRX3J6bW54RUQ3dlI0ZlJLOHVySVh6eGFjcks2LV81Zm1WUUFXOUJMZlIwUkxOV2tHY1ZwZ0p0Z3dtc0plOWFXOGl4enhxUlRJSUI4THJBeUdaUXByQ21lVjJ5ZUg3U3R5MA?oc=5",
-      "summary": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network Yahoo Finance",
-      "badge": "watch",
       "date": "2026-09-22"
     },
     {
@@ -310,22 +342,6 @@
       "title": "Building standards for the next phase of AI",
       "url": "https://openai.com/index/building-standards-next-phase-ai",
       "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -363,9 +379,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - The Next Web",
+      "title": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court - thenextweb.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
-      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court The Next Web",
+      "summary": "Amazon blocks Meta’s Muse and accuses Perplexity of misleading a court thenextweb.com",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -386,14 +402,6 @@
       "date": "2026-09-21"
     },
     {
-      "company": "OpenAI",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "badge": "hot",
-      "date": "2026-09-18"
-    },
-    {
       "company": "Google",
       "title": "New experts join Google’s AI & Economy team",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
@@ -406,14 +414,6 @@
       "title": "Co-creating the future of fashion with Google",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "summary": "Jane Wade and Sergio Hudson",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K - The Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDhNa1RPWUYxdmZPWWZHUVJGV3VMV0w2ZEdrRElrcWk4UDhic3F2MTYzR3QxUXBlY1pUb1JuV3hFdVZMZlIxUW5iWVNlcUFPdkZobE50QVBnUHlSZTRCdjRydnBKSVROT3A2QzFKRFZiUEVpOHJ6ZWhpajBxUGplM1JBc1Raa1JaVGsxVW10VzFXRVlTRnAzS0IxMVFydGZteV9landIZURweE1uNVlwWV9SM1M?oc=5",
-      "summary": "Microsoft agentically ports Copilot runtime to Rust for $120K The Register",
       "badge": "new",
       "date": "2026-09-18"
     },
@@ -587,9 +587,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
       "badge": "new",
       "date": "2026-08-26"
     },
