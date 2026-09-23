@@ -1,11 +1,27 @@
 {
-  "updated": "2026-09-23T02:56:16Z",
+  "updated": "2026-09-23T10:37:54Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdTBpWk5jcXBuUFItMkdtMzFEMEZLaE1nVGlWMUp5dHZtNUxSMFl0WW9Zb09haU5YdjBrTHFweFBYZHI0S1luVXZmeUVBTU5NbnI3Mk5jcU9FeWlTeXBHWTg1THZjVUV3NDl0R3VBcXB1R3RUV01PdHlOYm9TX2JhQUo4V0NWaHM?oc=5",
+      "summary": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms NPR",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic in Talks to Cement Control Over More Data Centers - The Information",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXRsOGVIV1c0LUJuY0lJbkpick8xZV9lajkwVkNpcGtsalg2OXc3ZC1GSUxlb21ITEp4a28zbmUxZTRiVjRXcG9mZ2RTWG1BX0dPWHAyUDA3eTVwTjZ4RXdjQlk2eEZqd1duUU1pdVRxZGwyeDlNVFFkU1NOX3NySVRobUtqOG1iX3p3?oc=5",
       "summary": "Anthropic in Talks to Cement Control Over More Data Centers The Information",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -46,6 +62,30 @@
       "title": "Major updates for Apple’s software platforms are now available",
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Watch Trump Revives Iran Deal Hopes, Meta AI Rattles 'Consumer Inertia Trade' - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTeTVuS2RveG94VGR2MjZzbXljeDdRcjNsZEwzdXU5Z0xJM1l3c1Aza19OZkJEYjB6eVRpV0x3cnN6X0U0YjFXbTIxVlVoM2lERFEtUUdMbTMwR2hXd1g1R2JObHJ5Q1I2R0VOdWh2bFAycmVKczI2SXRWeHpUbEk?oc=5",
+      "summary": "Watch Trump Revives Iran Deal Hopes, Meta AI Rattles 'Consumer Inertia Trade' Bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "I’m Using Meta’s Muse AI Agent and Amazon Can’t Stand It - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFBVMnpjTUZVNTR0VUdoY2J0Z2Zha1U2LWJJQ2N2eS1ncWFlU2lManJjc0lMd0wxdkxGT1FuU2xENUtPT3ZLajVyX0ozMVFhVWluMU5WckFLN210VU45ZFF2bGdtSDRtWktzRnIwTkdqYWN5eS0zQnVBWmVIczVrMFE3ZGZWZ0xlWnNwaDJNcGpEZG1DbHJxWlZJMHhIMFdhN0t0aE9sUWN5c3dfdUxr?oc=5",
+      "summary": "I’m Using Meta’s Muse AI Agent and Amazon Can’t Stand It Bloomberg.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Muse AI Has Raised Stakes for Meta Connect Keynote - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EakdKcTM0allYNGFtVmRsejY1aHN3ZklhUjR5T2djUlowSUVLLVRfY1VfUXJONlFuYnBKeVRyaWNGdHJlUWdPTHRkRXFDMjBsajhlOGZGWXFodVAtX2NESElRNzNZZGpJZjdybFdEQllOWFVCaGc?oc=5",
+      "summary": "Muse AI Has Raised Stakes for Meta Connect Keynote Barron's",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -93,15 +133,15 @@
       "company": "Anthropic",
       "title": "Introducing Claude Opus 5.5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "summary": "Introducing Claude Opus 5.5 Anthropic Anthropic releases Opus 5.5 with lower prices and Fable-level performance TechCrunch Anthropic and OpenAI roll out cheaper models in first release since call for ",
+      "summary": "Introducing Claude Opus 5.5 Anthropic Anthropic releases Opus 5.5 with lower prices and Fable-level performance TechCrunch OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle Bar",
       "badge": "hot",
       "date": "2026-09-22"
     },
     {
       "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - reuters.com",
+      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide reuters.com",
+      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide Reuters",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -154,14 +194,6 @@
       "date": "2026-09-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Bill Gates pushes for ‘smart use' of AI as his foundation builds more representative language data - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcF9TZlUxZmpSWk92WjRXYmlPS0toTjF0NVBoc2ttb29ZZGxVMFU1bW1md2R4S2Z0UjJZalFBYTNTeFRmTDRNbm5XcnQ2S3JwWVdCeGJsOE5TNU5MVFB5MURRa09kZ0xpWENCamcyc29RUUtJS0ZxdjZLN2VjcFNEN0pQSmt3SDdHYUV4UUJMSHEyR3dtYzZGdlpEZVdtTnlBWl9yTy10RjNoS0FTWGg5ZFZheXdNOVZJYTN30gHDAUFVX3lxTFA2WWdhNVI2YUJWNHN2cGNYU1E5c1BLSTFCd0E4LUZxMWctQUV5YUVoZS1wUFJZRTZVOE80cGVjTzcybTA2SEhRNnpuWk1sNFljbkxGSTRxUTM0Q2RHVXlWY013cDV4eF80SWdaVkpqblk3eFdpZUw4Z1NTdC1TUl81cVpjTFkweUxKQ3EyVElZRFFZVkQ1d0Q5WDhTZVNPbS1pQ3RBclRhSllzUkw4YkZRM3pHVWphXzAwX3lhenBYeTdoZw?oc=5",
-      "summary": "Bill Gates pushes for ‘smart use' of AI as his foundation builds more representative language data NBC 6 South Florida",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
       "company": "Microsoft",
       "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - The Information",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5",
@@ -203,14 +235,6 @@
     },
     {
       "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Apple",
       "title": "Siri AI, a profoundly more capable and personal assistant, is here",
       "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
       "summary": "Apple today released the next generation of Apple Intelligence.",
@@ -221,7 +245,15 @@
       "company": "Meta",
       "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude CNBC Muse, Meta’s extraord",
+      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times Meta's Muse personal agent is a hit, as AI commerce starts to take off CBS News Meta stock rockets 10% on price target in",
+      "badge": "new",
+      "date": "2026-09-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
+      "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant fortune.com",
       "badge": "new",
       "date": "2026-09-22"
     },
@@ -243,14 +275,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
-      "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant Fortune",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
       "title": "Meta’s AI chief wants Muse to make you $1,000 - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POVV6cEpPenltb1BKNjQ5WTJqQmdKVzhOdEV0aG9pSGNpWGZJTlN3X1NWeE5oXzEtaHNZOVdvemdSeWpuWlpGME9VbjBTbDZUMWNkMDZQb04yY3BMRE00cHRHbWdWaEdOT0E?oc=5",
       "summary": "Meta’s AI chief wants Muse to make you $1,000 The Next Web",
@@ -263,30 +287,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGU4RzlSV0tfMTNwRWpWdWNmRjNIdFJkd2hIRk45bVZyWE5IdEI5QlJjcnp0WFdJWGxRX3J6bW54RUQ3dlI0ZlJLOHVySVh6eGFjcks2LV81Zm1WUUFXOUJMZlIwUkxOV2tHY1ZwZ0p0Z3dtc0plOWFXOGl4enhxUlRJSUI4THJBeUdaUXByQ21lVjJ5ZUg3U3R5MA?oc=5",
       "summary": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network Yahoo Finance",
       "badge": "watch",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Amazon blocks Meta's Muse AI agent from shopping - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1eExJWlBudTJNb0Y5dVUzOXp1WW1La0RvYmdrM1ZGOVJNTkhybUg0ZThib1NNRms5OFVJbjdHUVlBSmdLc21JRDM0SFJTaTlaRzlmTy1KOG1QOWpSMURiNy1mNFZhTGl2M3RYbzYwVVdZV1lt?oc=5",
-      "summary": "Amazon blocks Meta's Muse AI agent from shopping Mashable",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "New Meta AI app Muse tops charts - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05YXhFeVExSElLMlNzZm1xdVdEbHZRMENfbE9XTWlaZGhZX3E2Um11NWZEcHU5dDFtSHRhYWNrX1kyY2RlV1I5SDg0eEt1NDAwU2Iyb3dJZGZDMDQ?oc=5",
-      "summary": "New Meta AI app Muse tops charts Fox Business",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Shopify partners with Meta Muse for AI-powered checkout - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTdMaldzeFlrV3BaUHJwUkpmX2FyZUV4UFc4TmdBM0FNSllDbk5DV3ozOHBHVllLODJITXozZ0xWRU9vN2xhQVYwbzl4TjBROVpRZGhLTWxoakl1aXg0aUxYMVhTTEZfbWo5aTlHLUx1OW51ZEN0dURMZVFxTVVYcFFuUmc5UUJ0elBLZEdWZlU0cWxTVEs0Rw?oc=5",
-      "summary": "Shopify partners with Meta Muse for AI-powered checkout Yahoo Finance",
-      "badge": "new",
       "date": "2026-09-22"
     },
     {
@@ -483,9 +483,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity is betting big on creators - digiday.com",
+      "title": "Perplexity is betting big on creators - Digiday",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Fd2pXNnlESFFJeE1NMG5zalJ4ZnV5WWJiNUhGT2lKU2p3ZU5WbWxVdjN5NmdSVXpTVHdNZ2ZWSlZDckthT2U3eDlBLXpDSnlQWHJHRXZ5d1VQc3psMEd4U215UlMwTFVSTzcyVC1qRFZGSGd3dXBj?oc=5",
-      "summary": "Perplexity is betting big on creators digiday.com",
+      "summary": "Perplexity is betting big on creators Digiday",
       "badge": "new",
       "date": "2026-09-16"
     },
