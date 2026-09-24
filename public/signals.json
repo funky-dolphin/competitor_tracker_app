@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-23T20:58:29Z",
+  "updated": "2026-09-24T02:46:13Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "At U.N., tech leaders urge global effort to limit AI’s risk to humanity - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEFSX0g4QlZFMHlEMHpKWjNpZ05zZHdUSFplcHd2dnhZWWQ2N1pkSjUwR1c0bUFWVmpKYVBhcXQ2cTJra09fU1ZiV3k2NHNwUUE1aWVhVS1YUmhsM3czMkc1VDUta3JDaHV5b0h5ZW16Y2dsWWFXWnlJeTBIaWt6dUt2UUp1bzFHb2RlZzZZdVZDWmZfdFpwek1RTm16OE9FR3E5V3pJMlktZXptdXJUb0llVWxZaFY4WlYw?oc=5",
+      "summary": "At U.N., tech leaders urge global effort to limit AI’s risk to humanity The Washington Post OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Apple",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
+      "summary": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push CNBC Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back against AI doom AP News Meta will sell",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
     {
       "company": "OpenAI",
       "title": "Two years of OpenAI Academy",
@@ -14,6 +70,14 @@
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -47,6 +111,22 @@
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
       "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
       "badge": "hot",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats Anthropic Anthropic says Claude AI helped discover novel enzyme system Reuters Anthropic CEO says AI could cure most major diseases with",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic Can Slow Down, No One's Pointing Gun: Sridhar Vembu To NDTV - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX290R25heG90MzBtM0VHREFLWFRqMGhHd3BhLTFJR21Ka1JsNm5TZEd6eXM5NG0tX3R2SkQ0N01DUkthYWZ6X2hLLWM0RmlPLWgzcnJfM2hsNUpjSWNvbjZQeUhhUWNmdVQ3VU4xaHVvVmc0aGgtOGV2VVp2LWVmUk9HaTNuNVlGSnduM0JrLUxTaFFZY3FycFZ6NTFRSmJTSEllVTNQckthUFlEc0Jkb0FBUGrSAbwBQVVfeXFMUGRWZUNLeXdLamtxMDVtdEJmSVA1TTQxOWxKVDg1a2xKSy1tVDJhaDlTekZrWXotUGpDcjY1UGg0RHJ5MzI5TDliam1YenFSSW5Lb3VzQ01uMkJNLTBNRG5UejkxMFFhTUxVQTNWdWMtODNPbE5YSHc5cUt6NDZWdVJWbnl2ajVUZExnMmVHMGdNbzktNlJ3QnY3MGdvaFZ2Z1NCZkZBV1FaREdjRkNMbG5FZ0pieXEtS1VHMUM?oc=5",
+      "summary": "OpenAI, Anthropic Can Slow Down, No One's Pointing Gun: Sridhar Vembu To NDTV NDTV",
+      "badge": "new",
       "date": "2026-09-23"
     },
     {
@@ -115,6 +195,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaF8wLUlIUk1ZZktCNXdIREZRTGtQQVVBODMtRFdiejN4c1FHbERLczZXcVpJTWdFb0pseG55Ulk4c196VFUxWkhOREV1NmJ0QjFaUUtENjBZeXVsT1B5Uzd5SW52dVJlTUdhMFJTYXR6Yl9mNHZJTzdvQUwzbzF5cG42aU9zUnk3WmVhdkxhZUhkNlNYeEhQNWZzX1U?oc=5",
+      "summary": "Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth TIKR.com",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Stock Wins Upgrade. Why This Analyst Sees 15% Upside. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlp3dDFNZjJnbWNUMFZ1UzlRQV82bl9LS19sVXMxWG5nQUxna0E0akxZVkxQQUVKVE9iR3puc1E5VVJUVUw0Y09KMXIzMGNQckdkLXFYTi1PZEZGYVFuYm9yN1dBcFNSUkptcEZ6QjFheWNHTEZtemVpb1RoTFd1WmpqM1FIQQ?oc=5",
       "summary": "Microsoft Stock Wins Upgrade. Why This Analyst Sees 15% Upside. Barron's",
@@ -123,49 +211,17 @@
     },
     {
       "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "Apple",
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "Apple",
       "title": "Major updates for Apple’s software platforms are now available",
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "badge": "new",
+      "date": "2026-09-23"
+    },
+    {
+      "company": "Meta",
+      "title": "EXCLUSIVE: Meta’s AI Rally Needs More Than Muse Downloads - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXoxdUh6a2pUdjJaeGt0eGRSbjE3Zk5ONkdhSEF5am9ZN1haRXBPak02TGV6SHlNZkllOGJkeUk0UG82Xzl1X2tEWGF2RVZNTlc3UUNKS0NTN0o0TTZoUTd3bDRfQ0VEck5BZWJFUjBBREpaOXhzQy1wcm9PWlRQLXk4SU9mT2RWRWV0dnVIbU9STVlQSlpjNA?oc=5",
+      "summary": "EXCLUSIVE: Meta’s AI Rally Needs More Than Muse Downloads Benzinga",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -258,30 +314,6 @@
       "date": "2026-09-22"
     },
     {
-      "company": "OpenAI",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide Reuters",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
-      "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown CNBC Anthropic releases Opus 5.5 with lower prices and Fable-level performance TechCrunch Anthropic and OpenAI Mod",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
       "company": "Anthropic",
       "title": "Introducing Claude Opus 5.5 - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
@@ -290,18 +322,10 @@
       "date": "2026-09-22"
     },
     {
-      "company": "Anthropic",
-      "title": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SWTNQUUFGR2FfdzVYTzRjdHRzc3Zfbkg3aFNXYWZwSDZEYmQ0bFkyaVlQMDFTV1dkSndfdG8tRGtIV3ZlN040SDJkM2FRTUw0eC14VjA5TElXSTlHc0cwaUVnelZjMHVTb3JfRl8temdkZw?oc=5",
-      "summary": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta nytimes.com",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
       "company": "Microsoft",
-      "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - The Information",
+      "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5",
-      "summary": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ The Information",
+      "summary": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ theinformation.com",
       "badge": "hot",
       "date": "2026-09-22"
     },
@@ -346,26 +370,10 @@
       "date": "2026-09-22"
     },
     {
-      "company": "Meta",
-      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away nytimes.com Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty CNBC Meta says its Muse A",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Tencent: Shares Look Cheap as Meta’s AI Agent Success Boosts the Bull Case - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMWRkekFpcUJIdGF3NGNaNktjdFpBeUpkMXEwR3RvQThENzNhOGI0LTRLbG9pSUZkSENuckEtcDYwc0xLMm5JYW1ZV2lvRGNuMXR3R1oySkZkN2Fka0YySVNIVldUcTNaRmYydWJWTVFrN2pBUW04dU1JZjJNMEQzdjlSejlXTmthblBkeXFMWjZSVHd3dVR1Wll2dVZWZGozX2Zuc1BtOTBJNTVoc1E?oc=5",
-      "summary": "Tencent: Shares Look Cheap as Meta’s AI Agent Success Boosts the Bull Case Morningstar",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
       "company": "Microsoft",
-      "title": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? - windowscentral.com",
+      "title": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVp2Tk1JQ0JvNWl3UngwMTZTWGU1bUtJVUtOTmRqbGxXV0xrUWtzdllXX0hvX2RaVDdlUEQ3Qkt2R0NyTzJ6QW9sTHp4dHE5Y1h0VjBLSUxWZzFQS1dqZ1YtNlo3ZHRMOHhxbHRrMks4OW9HaUx5VlRfM1JVazRyVUV3azJZTFRGM1NOU3Iyamh5OHJIODV0M1g3eXA4OVVGbTBEeVpwd082dTlLalRpa2VlRXNBbWh2dDhlZkxIZG5hUXp1YXdUY3FIazVaaHFOb0Uxc2pfS0Q0TVpjMVZkQ3NB?oc=5",
-      "summary": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? windowscentral.com",
+      "summary": "Copilot on Windows 11 is getting its own built-in browser, but will it change how you navigate the web? Windows Central",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -374,14 +382,6 @@
       "title": "'The largest theft of labor in human history' - thenextweb.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjZaM1cxLTB6Q1k5MW83MF9hVEN4cElHR2EwMXJvSTFBNGNfNVRZbmpJbWd1UFI1ZnFWdXJNQXJUMDF5dTlyX1pjc21TS3dWSExMblVGLTlKNWloakdianN4VUVPREtyQXdmQWlNcjBxdzFlemVuUlhTZ3RCRXFCMXluWGFTR05YdUs5VA?oc=5",
       "summary": "'The largest theft of labor in human history' thenextweb.com",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Alzheimer’s Society: How AI is giving it more time to help people affected by dementia - Microsoft UK Stories",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXVIQVFuamk5Z0ZPaHFTMXVUQnNSWXV6NjdmVk5scHVMcy0xbXByRFUzbzJVci1EWlYxdEd2cUVHa0lnQkR4NjZVUFRQdUlQbWxRWFFGN2RTNnFvRWprRlFRQU9VcTcxTEhjZFE4RWVOVWFCSTI2blBmSTlFNE00a05LeGlTY2cyN1R2X3N5eW1nV1Y5dkI1Unl3SEFBN0VibDRhdmZESnBEeV80SU55WnNjZHZsODhEaDVmdlFwXzVFZTdU?oc=5",
-      "summary": "Alzheimer’s Society: How AI is giving it more time to help people affected by dementia Microsoft UK Stories",
       "badge": "new",
       "date": "2026-09-21"
     },
@@ -587,9 +587,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
       "badge": "new",
       "date": "2026-08-26"
     },
