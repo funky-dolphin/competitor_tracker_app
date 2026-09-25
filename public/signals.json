@@ -1,11 +1,35 @@
 {
-  "updated": "2026-09-25T16:20:46Z",
+  "updated": "2026-09-25T21:00:28Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3ZmOE1OdnZzZlNfVTllZUVPMUVnb3g4c3hYS1k4c2U5Sk13dTBWZUkwRzZnajFTVmpCbFdoZlM1cV9fZEU1NGlCc053UkRLN3JadElNN3NGVE1iRGJzSnZrcEdBV1d4UWdwVjVvOGV4ZlUwamNULU9wSnVlTE9lU3dHd9IBiAFBVV95cUxPMndkTFZBaExhd2RzWlU5NXliOHlwRXh6eFlRci1OenRuY01nWlQ3WnBmbURNYzRRMzY2TzhpcElNVVQ4Wktla1FNanl2STc3THN4VUlJdjFpSFJOZzgwaklVRkhoNlNGS1lTUFZ5dDZPZnJZblU0bi1KVlNRYms2ZlVfbm1CdXlp?oc=5",
+      "summary": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk CNBC Federal appeals court declines to block Pentagon from blacklisting Anthropic ABC News - Breaking News, Latest New",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Says Its AI Has Discovered A CRISPR-Like Enzyme System – But The Company Isn't Yet Certain How It Works - IFLScience",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX3pkV3NGTDR5Sm1XRGJFbVN4STA0Z0pRbHFrR1VzZ2VDTkhFZHB3YU90WF8zUW1peW9mTC1fR0M5Mm5IOGlkX09iY2JGWWFmc1lPWUNpTTZPM0pQN09BNGM4ekE5ZTUtOUttZnVkTUdDaUtNYWczdTZGR3JQQnlieXNRSkNTWXN2bjQ4Mk5mRjhvYXBXX3ZUbER1aTJ1cHpkXzVhcTBSRU8xc3lXSVhRSWNkR3pUOUpGYmZRMDZwU1BENHRHNV9SQjF1WWVHUC1KUldF?oc=5",
+      "summary": "Anthropic Says Its AI Has Discovered A CRISPR-Like Enzyme System – But The Company Isn't Yet Certain How It Works IFLScience",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
+      "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills Anthropic",
       "badge": "new",
       "date": "2026-09-25"
     },
@@ -27,14 +51,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3ZmOE1OdnZzZlNfVTllZUVPMUVnb3g4c3hYS1k4c2U5Sk13dTBWZUkwRzZnajFTVmpCbFdoZlM1cV9fZEU1NGlCc053UkRLN3JadElNN3NGVE1iRGJzSnZrcEdBV1d4UWdwVjVvOGV4ZlUwamNULU9wSnVlTE9lU3dHd9IBiAFBVV95cUxPMndkTFZBaExhd2RzWlU5NXliOHlwRXh6eFlRci1OenRuY01nWlQ3WnBmbURNYzRRMzY2TzhpcElNVVQ4Wktla1FNanl2STc3THN4VUlJdjFpSFJOZzgwaklVRkhoNlNGS1lTUFZ5dDZPZnJZblU0bi1KVlNRYms2ZlVfbm1CdXlp?oc=5",
-      "summary": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk CNBC",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Anthropic",
       "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE5hQUsycmRqbDk0akxXU0U0YmdhVkRFNTNTUTgzM2gwRHZPZkx6Uzl3WFlIVTNXOU03NC1CS1J0R1gzSEtEZ0Ryb2ctQmJtTmtZUkZhalI3VkFqMUVqNHNWTm5Ld19MTXVVaC1tdjBKeHpCal9fNXh2T2JmdFJOQTA1bUFnUmpfVlNyWVZObmlRbnJx?oc=5",
       "summary": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble Business Insider",
@@ -46,6 +62,30 @@
       "title": "Rogue AI agents hack government website, world leaders on edge of regulatory action - Fox News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
       "summary": "Rogue AI agents hack government website, world leaders on edge of regulatory action Fox News",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+      "summary": "Introducing the new Copilot with Home, Code and Autopilot The Official Microsoft Blog Microsoft packages business AI in single app as it tries to compete with Anthropic CNBC What's different about Mic",
+      "badge": "hot",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's new Surface laptops get rid of Copilot+ PC branding - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVDWWs5UUQ2bDBVbWVRb3l4dUJvTm1uYkc2VVpvVlVka0g0ckRwZmdYZEhHbTBfQ3JtRzZxTGpjTnd5RzZxMDJndzQtLVE1bldSWHJncC16ZlB2aklPakhlUEg3SkFLZ2RGWlR2OE4yZS1jOTV6X1BIVGpQZUZScW1jaw?oc=5",
+      "summary": "Microsoft's new Surface laptops get rid of Copilot+ PC branding Mashable",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft revamps Copilot with new tools, support for frontier models — available now through Frontier program - tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFkyUTZBakpnd1dQMTlJRmxRMlNoT0NHeVE1Wi1pZmI1aWtPeDV1Y1p1M3RIMm9UanQwS0taWUgyNll1THlXOGJXRl80NkNaZHJZeGNDZTVYMmQtUUJuZlNYRFo4Nnd1bTdOMVJiVE8tVGpMa1IyTUJZNDNPeW9ka3hrNDVYUjhWeUJjSG42ek5UenRNa2FIV0hmUl9ldHpnMFlHQ19Kc3pmQTZQZkJvLXlpNFVwajdfOXk1QWhJOVRwZ0hUbUdZUzRsMk9jMGN4cWM4dzZaRm1Gd3IyTWRTYlk1MjZNZHNDT1A0bmZTdWU2WHIt?oc=5",
+      "summary": "Microsoft revamps Copilot with new tools, support for frontier models — available now through Frontier program tomshardware.com",
       "badge": "new",
       "date": "2026-09-25"
     },
@@ -131,6 +171,30 @@
     },
     {
       "company": "Perplexity",
+      "title": "Swiss startup accuses Perplexity AI of stealing passive listening tech - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDRuQ05nMEZicWw1Q0UtZ0hzd2RFUExicExhQmVfWVk2OFYzVk1fUGdrd2stVjk0Rzh4dkJKYWhQamhPLUZpUTRPZW5QWnhlMjhVUjBHSkZNcnR2Qy1nc0ppWGF2Wmp4d2FidDh4RlZZMUF3SjJYMDc4ZEFBUHZTbE9iQ1pCNkx5VWRlODZLREdJZlNmSWF0enpNRVVJdFhoTF83LQ?oc=5",
+      "summary": "Swiss startup accuses Perplexity AI of stealing passive listening tech Courthouse News",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AMD Stock Rises After Introducing New AI Tools from Perplexity - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazBORDhYa3N1UmdEY2xZM2g5TnpvNjNqcjVQMEtVZFIxZ21IZVFxZHZzYzNJNW5rM2JkV1Q0Mmx2eVkydlFTVXRVRV9JZHluejQ3ZUpweFM0bEF4ZnMzSzRGZC03angtRHJMVndMc2RwR2ZUOWVDcV83azNvdkJOZnV4U0Vucmp3dDN0SWlyQjVsOHJnWkE?oc=5",
+      "summary": "AMD Stock Rises After Introducing New AI Tools from Perplexity TipRanks",
+      "badge": "hot",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Startup Claims Perplexity Stole Voice Tech for AI Assistants - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWlCcWhwbkxvX2loajJHbmkwcWRhdVBSLURmaDc0bmRCU0VxeG1sNnZ5STJHa1BfX3ZhQmVpZVI0cm5JR1Byc01XNThlSmhKeXV3YUt1S1dqUHhkS0JmWkJVUHlCUTJ1aHBSTEl5ZjV2eXBOb2N6Y2Nza3FrdDZHcFJlOWZNX2p2QnFMM1h1WElQT183bTNNbEV5bHVPUQ?oc=5",
+      "summary": "Startup Claims Perplexity Stole Voice Tech for AI Assistants Bloomberg Law News",
+      "badge": "new",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVE0Y1NsMUhPTWpPTjRSTG4zVnBVc192ZTJnendJTmEyc2RpcHR2b3owQllTRFlaMWxNWjAzR3k3MVlRSWR1b0x5eHFERG1fbmpRVXBNcjY1dk5ITGhZLTBackhiN2JfaGVCVERhd0ItSXVYUTdrWDA5aVl4bnVPMGVrQW1mZDRLeVFmb2ZRX1dOaEwtR25VLVV5SkpLZ0dRRk9lZDhIdkVYTjB1dlZhSTJvcWt3aFYtZzJNN3JVeDM2TWdCMDNRb9IBzgFBVV95cUxPbXJzQmFyRmxRRy1nSEZqQ2E4MVFZM0FsZlpabnJjVTdILTExSWpMSzRYU1RnaWZqc1dKSjk0YXpwYnk4YWRVLWFsRXB2VjRYeHBYYXBzdlh0SGlJNXVUMl81UnVNaEhpa3hEY0xvRkJUTzFqOVlLd0N1Q0NxSmtWZ2VPdWRzVTFWU3gwY0JETVJCcFpFWkd2enBaOHp3enhvbFR6SGk3YjNISktVdjlyTENBY1MyWXZ0S1FFMVpXeGlPaWlpUUdIcmYzOEZndw?oc=5",
       "summary": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation MarkTechPost",
@@ -186,34 +250,10 @@
       "date": "2026-09-24"
     },
     {
-      "company": "Anthropic",
-      "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\" - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWU40OGxGYUZKQTZvcFNhWTVyemFmMmpnMzNHU2tEWkppTTFFSEpVVXQ5VEg5NTFGTFRjQXYyTzE3SllFMGxlMDc1LU1XUlRyN3BGZG5YRTJPNXNhYThINEhpZ282ZVJDUjR1cnNCVlpWT0FKZXlmUWlQSDhRTlE?oc=5",
-      "summary": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\" axios.com",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEpHV0VXek9XWS1oa2ViR2ZBZ2d0ZERxdXdBaU1yRlB1aFQySTAxQUtmeV9CTk9qMm01eldSTWJ2MDVqQVFjdTNuS3RQUWZpRi1ycGNLTEs4a1FZMUsyVmt6dmtyZmc4cm14NkV2QkoxRjdITUFmbGJVbkF0c2hJajBZUzRFUWFTNE53bEg0MndlSEl0cmdHRXhkOUN4UXA4RXp1dVdRZkYySTBFRmRkMUl5TQ?oc=5",
-      "summary": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai bloomberg.com",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft backs away from Copilot PC branding as OEMs abandon the label - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3paUUxLcGN2ekpNQzJCVnIxREpiSFFQTUY2MWF4eUZWVjhHWFJIWGFfSjRqbU5ZbHB3LVMzUTFKY3Q5cTBSU21MMFlybXR5bEFVVjNvVlpfSW1vUDNHNkxPbVNnX3JYaW5FUVBTLXVFS0hoc0tJS3RkdG82OC1PRElVVkkwa0x2eEJmSUFBdWhwb24wV0l6YU8xN0RhOEV4dlAydVRwLWs5bGwzSjBXalAwWTF3d1ZQWGstZHpjbG81X2tsWGZJMnE3WUxsQmZlRktjRGx0cmw5blVmVncxQk9Wd1BReU9rOFREVV90T21RUmM?oc=5",
       "summary": "Microsoft backs away from Copilot PC branding as OEMs abandon the label Windows Central",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NFL Week 3 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjN3d3A5UGJnQjVseDhwRGJKeWpneGhCRURHd2JudEJPUkZmcTNFQ2NCQU5hVHhDU1hncWw5YTVJaW5FcVZ1QU52NnBza0ZFODhPd1VlZFUxdUcwODNJWFFkMjlsblJSdDZLRUh5cWpuLXBGR25qYWFRdXFmVEd2MDNmNTJ6SUlkWTFTWlltLUlMTm9ObTVfbl9kTDBLYWVST3Vxeg?oc=5",
-      "summary": "NFL Week 3 predictions by Microsoft Copilot AI for every game USA Today",
       "badge": "new",
       "date": "2026-09-24"
     },
@@ -226,18 +266,10 @@
       "date": "2026-09-24"
     },
     {
-      "company": "Microsoft",
-      "title": "8 cool things Copilot can do in Word (beyond generating text) - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHU1QXNnZENwZkoteE5WYm1rdlVQaXE2TXluMU9qUEsyZ3RhZ3NScXZRdnIxWWFUS1UwV1RTYW1PUFhzWjQtbzN5RkhrNEg4aGc1dDhvSXYwbTRhdThfS3RMSXFDTVg3QnlxMVZHdF9hNUlGdElvNmZEU01neHcxdmI4U2ZkS2lTYTFkMk81ZkpqX0M3MHhoM3Q0QQ?oc=5",
-      "summary": "8 cool things Copilot can do in Word (beyond generating text) Computerworld",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft tried to ban \"Microslop,\" and six months later it has given up - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR3NEMHVuLXdKeWpCNmJock9Eei1kXzk5S2ZYQmNkREFOZUV3Qkx0emYyOGFMUXlxNENSOTVSYjE2WmlGeE9UdENhSnh3aVZjZV9LZDVRTDVMUnR3ZnZiU2pFdmgwcWkyb0RaWFdJNUdDLVB2S0JWWVdGeEw0UERWbnlBNF95eG0zX0oyNnNWR3J2d2ljWjJVNWx3a2xFM04tc29ueHktRnNiWVdMMTJnRA?oc=5",
-      "summary": "Microsoft tried to ban \"Microslop,\" and six months later it has given up Windows Latest",
+      "company": "Perplexity",
+      "title": "ChatGPT now sends 95.1% of AI referral traffic to websites, BrightEdge says - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFhzMkgtWlA4MW9nSUQtNDA1cWtkM25NbXlRa0FYc3ZuS213U25WcUVPc3piRTNjSEtEbnIyNHpaSFl4NG5zWW1XdG5hZTRBYU9yeXpyV3dWMlJ5TFBTM1RUMjYxYXNXQ2x6RDZ4Q1JzNXAxS3R5OGk0bDUteTJnd1Bodw?oc=5",
+      "summary": "ChatGPT now sends 95.1% of AI referral traffic to websites, BrightEdge says The Next Web",
       "badge": "new",
       "date": "2026-09-24"
     },
@@ -246,14 +278,6 @@
       "title": "With AMD Ryzen AI Max Series Processors, Perplexity Brings Portable Computer to Agentic PCs - AMD",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IeHJndXVoMDM1RFlDVmp2ZUh6MlNHR3ZENWtWc1U4amppZWlTSVkwX0NMb3lsdzRIU093MzhydGNUU1JwX3NQd2tiTTdwQXVsVUtxQ2RLY0UzWkU0eU5IN21aaXNFRUNB?oc=5",
       "summary": "With AMD Ryzen AI Max Series Processors, Perplexity Brings Portable Computer to Agentic PCs AMD",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT now sends 95.1% of AI referral traffic to websites, BrightEdge says - thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFhzMkgtWlA4MW9nSUQtNDA1cWtkM25NbXlRa0FYc3ZuS213U25WcUVPc3piRTNjSEtEbnIyNHpaSFl4NG5zWW1XdG5hZTRBYU9yeXpyV3dWMlJ5TFBTM1RUMjYxYXNXQ2x6RDZ4Q1JzNXAxS3R5OGk0bDUteTJnd1Bodw?oc=5",
-      "summary": "ChatGPT now sends 95.1% of AI referral traffic to websites, BrightEdge says thenextweb.com",
       "badge": "new",
       "date": "2026-09-24"
     },
@@ -458,22 +482,6 @@
       "date": "2026-09-21"
     },
     {
-      "company": "Perplexity",
-      "title": "Amazon blocks Muse and takes Perplexity back to court - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHBaMzh6Q3c4SnV2amFJYWZydk9CSDhhZGE0NmN4U1pTOGxGUi1acUw1RlF5d0hIYXNWM1NuWlN2R1dNdXpDZlFJVVZjU3FyeGU0bnNVSi1lamptU1hlX0hkelZsNVNCWmNrajdBYi1PeDFuVy1XRGtfQjMxNjNKMg?oc=5",
-      "summary": "Amazon blocks Muse and takes Perplexity back to court The Next Web",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Research Fellowship 2027 (paid) - Opportunity Desk",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFpMOUs0RS1Rcy01RWlIRE9MeGVRQktIUG5fWWRRcWVsTXd6Uno5WGRhM2tEVmhUeWZFYm1YVWJNOXBVRGhITjRWYmQ1N1BGdy1jWWhsOWljd2JXeXl0dHNITXRzNmtRWXp5NXZhNElXZEVjZVNYZlp2ZEpSN3VQXw?oc=5",
-      "summary": "Perplexity Research Fellowship 2027 (paid) Opportunity Desk",
-      "badge": "new",
-      "date": "2026-09-21"
-    },
-    {
       "company": "Google",
       "title": "New experts join Google’s AI & Economy team",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
@@ -494,14 +502,6 @@
       "title": "Apple’s new child safety features now available",
       "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
       "summary": "Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.",
-      "badge": "new",
-      "date": "2026-09-18"
-    },
-    {
-      "company": "Perplexity",
-      "title": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds - EdSource",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVY4MnFLcjZ3T2R5LVNvTW56R0RXamlWZTB6TEY0b0VfcURmUk1qeTJLYjFXZF9xSWQwbG0ySkdTX1dlQm5NM0I3a0pPSnFwNFk3U0NZb0VpNEFDMDVhMlBtdVY2cEpIMHU3N09GWUtNSkdISGMxQjNoY0NrUmpXUndiZV9DMHlHTGZWMW1Tb1VRejl1X3F5NTN5aEJUTTB4aXc?oc=5",
-      "summary": "UPDATE: Perplexity’s AI poses ‘unacceptable risk’ to children’s safety, report finds EdSource",
       "badge": "new",
       "date": "2026-09-18"
     },
