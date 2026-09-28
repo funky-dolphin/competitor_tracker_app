@@ -1,11 +1,43 @@
 {
-  "updated": "2026-09-28T12:41:06Z",
+  "updated": "2026-09-28T22:51:48Z",
   "signals": [
     {
+      "company": "OpenAI",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "badge": "watch",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
       "company": "Anthropic",
-      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
-      "summary": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? The New York Times",
+      "title": "Anthropic Releases Its Second New AI Model in Less Than a Week - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnNPM1IxVi1OOUlhNjVOZ2pJUGRlU2g5ZXlxTVRzWEpjZEkyMXp5TndaVFNMMnRPQXhReFpaNUZrY1ozSzlNRUhrc2U2eDQ1ejlxcU5xWDlFdHNPNmNtb0hQVzBIOVNCcWk5Q1FOb1hua0NWd3dsbTA3RnBpRTF1TlN1R1JfelpVMmdzMzYwR1hQMkNDRXE3Sw?oc=5",
+      "summary": "Anthropic Releases Its Second New AI Model in Less Than a Week Gizmodo",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The Wrap: OpenAI Sounds the Alarm; Anthropic Loses This Round; Luján Wants AI Committee - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHRRWVRDYjdaWWNhbEc4bThmYi1qN2pMdXA2RDB1ZzhlZlJlNTJ4dEhHSVk1MTlKUXRHamhKamtzcl9oX3NlZHV4bGtkM3ZVU0I1a2gtUS0wTTh3Y3ZYUlRWNC1BVXZnS2ZDS0tZSmw3RmozZG5pNmV3cGxuYzZ2UUIxRWZyUE9jT1hfenZ1RXd3TGxTemdDcmZxRUJpaTg1X3o0clB3?oc=5",
+      "summary": "The Wrap: OpenAI Sounds the Alarm; Anthropic Loses This Round; Luján Wants AI Committee LinkedIn",
       "badge": "new",
       "date": "2026-09-28"
     },
@@ -15,6 +47,46 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
       "summary": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' Yahoo Finance",
       "badge": "hot",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Google",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's Copilot chief opens up about the AI future he fears most - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOekM0aGNRTzZfSjEwVmtsUXAwMGliTTk4YTlHMWNPclV2dmt4YUhnVnMyTXJLOV9abEY2RWdtaUFkcFVHTTJpNG1ranNkZElNQU0yaXVUaGxVYzhkSkxQVGJRM0IwSGFET1A4UVY2bTlrcmpwVGJGbkZfVFktX21NMlhOeUJ5UjdUaWdXOGRTRQ?oc=5",
+      "summary": "Microsoft's Copilot chief opens up about the AI future he fears most Business Insider",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Humans Are Reading Copilot Prompts — And They're Horrified - 404 Media",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mLU9kOGdHTjV1dXA4a1JjVWVxY0I4X0tNaVdMUlQtSVdpMXZNV2xnQUhkeG83OVQ5NndfaWMwOFJJSlk5OUUzeFRaM215U2x2UHZybVFmeGFwS2NrVXlxVFhHUXZEX0NVYW42bVg1QQ?oc=5",
+      "summary": "Humans Are Reading Copilot Prompts — And They're Horrified 404 Media",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's New Copilot Push Gets a $550 Vote From Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDJ6R3Nha2JGQ2Jobjh2bnBkQWUzcTM0Nk1MVGoyVTdNNzRBdzgtcFYtLWdPMmtqNFBVYjZxZFpfSUJpUVozcjVPZXRZanJYb0lyUTFDdEdzMDVHT2FnaUpGZ09pMXVjTGlJTVFGQnE3aXpGVk9JSFgwclpqbW1jOVhGWHExb3U3RE5JNnN4TXJWcEw1Y0ZIOERzT2Q?oc=5",
+      "summary": "Microsoft's New Copilot Push Gets a $550 Vote From Wall Street Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft overhauls Copilot to take on AI rivals like Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdZSjdFMHZlUldQMk5QUTNqNVZVaUN1QUFJRGdMYTdRR1pOZHR6bUxnRkdNY09BV3pLZmVLbElzZFhPSnFCTGpab3lPbTJhM0tnYnhwNklJYl8tVWc5bVdXck9sVWF5bTV5OVhFUUo4cjdJTkFhZk1MMnI0cHptNUp1YXFhMUJfWFZfTzlLRDFzaVY5NHZXNjBsXzF3c3pTcUNGNE5PNVdxUQ?oc=5",
+      "summary": "Microsoft overhauls Copilot to take on AI rivals like Anthropic CNBC Microsoft's Copilot super app comes with a meter attached The Register Microsoft integrates Word and Excel more deeply into Copilot",
+      "badge": "new",
       "date": "2026-09-28"
     },
     {
@@ -66,12 +138,60 @@
       "date": "2026-09-28"
     },
     {
-      "company": "Meta",
-      "title": "Why I'm finally giving Meta AI a chance - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WS1BuX2x1VGV1TWR1YngtdEJnd0lwSE5xNDZUZ3MwUWJmSklwX3lSckxtU2lBYmVpYW01bm1RX0Z5SXJTZUJvYkVvVnFSWU1tXzVWOTR2YjdPT09JTnFxckZsOUZBWEYxNTdUSmI1RmhuZw?oc=5",
-      "summary": "Why I'm finally giving Meta AI a chance axios.com",
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Big Move for BTC in 2026 Even With Recent Dip - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hMGRpeTBLQVVVajNBenBqVVJoMG9KRE91NFVmSGVMb1lZUDhmTXV5d3JrZDdqalpIb1ZJREhYdXRCbEpkRTVCX0dsM3JldjRrT0R5NFY0MUpkVnNTYTUxSTdQaUgyaDZYbG56NlJXU1V3WUl3SmFz?oc=5",
+      "summary": "Perplexity AI Predicts a Big Move for BTC in 2026 Even With Recent Dip Cryptonews",
       "badge": "new",
       "date": "2026-09-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AMD Stock Drops 4.5% as Perplexity Puts Agents on Local PCs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTzgxZXFMRTBTaE1zUF9WMmFwWUhZNTUwSlJ4MEpHWDl1Yk5FSWU5SUFTU3JQZkhyckFHNi1FS0VpTG1OV0RpUTJPeEk2d0ltUU5tMjhQUXIwcl9sT3FwV21ldG1CVVE4UHg3SjVDRWxiTVBRVkREVzNFc01BS2NfN3I3bUg2SWs5UENB?oc=5",
+      "summary": "AMD Stock Drops 4.5% as Perplexity Puts Agents on Local PCs Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Muse is the worst AI agent for privacy – and I’ve tried them all - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHotejFzWVhYZnNrMU5KYkxUN2FqM09WTXVUU0k0UXlwTjYwRFlYRTJKd2VnY1l0a0ZaVmlYTzI5V0xYNzc2b1R3T3RaSFNRbXp5NHdxX0NPOHQ1ZVFobUhfSjJjTHFhNVZCM3g3dEE4Vmp0MlR0bDQtd2hHQVVZUFBNZXg0N1pCcjRF?oc=5",
+      "summary": "Meta Muse is the worst AI agent for privacy – and I’ve tried them all ZDNET",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Why I'm finally giving Meta AI a chance - Axios",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WS1BuX2x1VGV1TWR1YngtdEJnd0lwSE5xNDZUZ3MwUWJmSklwX3lSckxtU2lBYmVpYW01bm1RX0Z5SXJTZUJvYkVvVnFSWU1tXzVWOTR2YjdPT09JTnFxckZsOUZBWEYxNTdUSmI1RmhuZw?oc=5",
+      "summary": "Why I'm finally giving Meta AI a chance Axios",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Meta",
+      "title": "John Georges believes Meta AI deals will ‘save journalism’ — and Louisiana’s largest newspaper - WWNO",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFprbGFUMzNrd2Y0SmtHZ0lObWNSUkRJVThSQ1o4Z2xjQjBwZWlEZmwtRDFjekFXeEFXM1Ixa1pSQmI5MXY2NUE1RGRHUnpSZko5UTRiSWlCNHB4d0oteUdTNG92YUprVEJSNS01MzRpTWxBNVYxTGczRTlKYUxGS01jMXlQdGJnTy1yMFd6dHd2U1d6aUxIRG9Wc0U5b0ZLM01ZemRxX2k4aXFBQXF6SThXS1djWU5LREpIRlNJV0RCLUdRVkR1SA?oc=5",
+      "summary": "John Georges believes Meta AI deals will ‘save journalism’ — and Louisiana’s largest newspaper WWNO",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
+      "summary": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? The New York Times",
+      "badge": "new",
+      "date": "2026-09-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump and Anthropic CEO Dario Amodei Dine at the White House - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTB1WUpwQjdzb2QyV1FTT01ydF9WOGVBVGtpeHVZTzFvd19jQXdJeUpJUmV2cW9wX0tKeXJLUXdGM3dVREx5cDd5ZFFPaUdHNDdUTHVqRS1PNEhmZWJ2U2RFeVNENGZSMVhCV1FWSGpaZWk1QXFqWTdjVXRxLTRMd1dlUWJ5ajhta2pGUHFXb25GOEtnX0RqQjFRWUU2bnd2RFE?oc=5",
+      "summary": "Trump and Anthropic CEO Dario Amodei Dine at the White House WSJ Anthropic CEO Amodei set to meet with Trump after missing state dinner CNBC Trump pushes US to win AI race in meeting with Anthropic CE",
+      "badge": "new",
+      "date": "2026-09-27"
     },
     {
       "company": "Anthropic",
@@ -110,30 +230,6 @@
       "title": "Trump to have dinner with Anthropic CEO Amodei at the White House - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wVnB0Z2RERjE2M08xWWpfWURnREM4WjVuNnJ6OUdQcUZxUWs1dkM3VmZrcnBzM2NDU1pabDA4UUNLcUp1U3pfeXJVSFNTSUgyU1ExeGdUandDbFJhVFhtU29TSnJZRHNNcHRnT0I1b2htNDhrMDB0bHFR0gF_QVVfeXFMTmZMU3B5NXkwUmprUkxjdWNoQmExU29GM05STXZnd1pYdTZ5QlQ3NTB6NjQ3NE1adGFVVmkxdE9iRzdha0luUUNwTC1CUUttS2FoNnVaVEdZZXE1NVB0akkwX01JeGZMMEVXS0RybkpVY2lGdGxiVVpmUEVUNnlWVQ?oc=5",
       "summary": "Trump to have dinner with Anthropic CEO Amodei at the White House cnbc.com",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUhaZ0QyUEIyRFpKalV4WHdSU05uU3ZZVVpFenpKNk9aNEgwT19kVTJXLXZpR192RFhPUkxKLXVFZHlmSzM1SmFrSGFfdnUzWXJFNjRfVHpoRGZkaDY3c0dJak44LXRiT2pCMHk1SDJaUElPaDVIT3V3UWxBWmRFRW9kYVJHVEN6Zk1uamNWcGxFcVJNWHJLMDBn?oc=5",
-      "summary": "Anthropic’s CEO is about to have dinner with President Trump TechCrunch",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’ - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW44eHNvbWNOcmFhZTRpYTJPTXhBRG02c3Rlb3VrVUhyUTRoNlF3MF9nV2NPVjlNemx2WVg0c3hIZHBkV001N0RWUmR0azFnNnpCN3RibnlkZVpMZmtNUzMxNnRWVHVoOGNiZVlvSGs3ZzFXaFRFeUREcXJpdXYycFJ4WVR3MS1USFNGVXRtREpKcld0?oc=5",
-      "summary": "'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’ Business Insider",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
-      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe Reuters",
       "badge": "new",
       "date": "2026-09-27"
     },
@@ -226,38 +322,6 @@
       "date": "2026-09-25"
     },
     {
-      "company": "Microsoft",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-      "summary": "Introducing the new Copilot with Home, Code and Autopilot The Official Microsoft Blog",
-      "badge": "hot",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office - theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelNRbmg1M1hCMU9DVVZMYjdic0Yzb1RDb1RuYmg1MG40NHpZQml2eWZSM0JVMEFoQVdxczN5TjhKS0JSeVhiUnFSSjN0cHpIUHFyel9BU3NLb1c2VVhxN19WS2I5cE9mb21NSVIzYml6VEJkdjR0WnVXVTFKUWljSVYwMFpCWHhwenpkRzA3MDM?oc=5",
-      "summary": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office theverge.com",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft relaunches Copilot app with coding and AI agents - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1pEWkdWanVyVWp0UlV0a0NvTDZLU0Q0eXZwcXc1Tmt0eFl6RElRSklVR1N4Y2xUYnljNDJDaTQ3SlR3OUVRVkhXd0JMbkpBME42dFNmMk1pWjBkQXRnUDQ3c25zY1d0ZVMwa04wcDBXR3lhSFF4Z25GYTJIYjJQWjZPZjVWdjZ5dGU0RGYzQzBYNjhuel9sbmNzZE56cmh2a3BfT2pR?oc=5",
-      "summary": "Microsoft relaunches Copilot app with coding and AI agents Yahoo Finance Microsoft integrates Word and Excel more deeply into Copilot Tech Xplore Microsoft gives Copilot a much-needed overhaul, and th",
-      "badge": "hot",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
-      "summary": "Microsoft revamps Copilot with code generation, agentic AI tools Reuters",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity AI sued by startup for allegedly stealing 'wake word' technology - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRy1RVlJsY0c5TXRRZGdvTjBvdUN0NTh6RGFicnZnQTJNd1h0ZjEyQzJIWm1CdjlSVXp6eS1fb3BvVnZmS2pUM1o4eUFHN05iZ1hDc1pLZG9IYjlPZjNrRGRVUHRENVhjZlFPSjF0clE5b3NmU0MtTWxfaWxHeHU5UWtEaHJwUEpEZmUzQzdkS3g4SVBraVNKb3N5UV9hQktPQk5QbUY4bTliQ2k2V3JMMDM5VjNVZXgtLXZYNmNveUVCWEU?oc=5",
@@ -306,14 +370,6 @@
       "date": "2026-09-25"
     },
     {
-      "company": "Perplexity",
-      "title": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage - infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTUUzeWhTblVKbjR0RXNtb0lxeGJXVHdXYVh1SXQwczdPY1BnUGZGTHB5REN2eXIxbFFxdmZBenVuY00zRmtIb0xYRUFFVWxaclgxV3Iwa3RyRkprX3ZYN25fcXB0dw?oc=5",
-      "summary": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage infoq.com",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
       "company": "Meta",
       "title": "Meta Unveils $1,300 VR Glasses With AI, Eye Tracking and Virtual Workspaces - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0I5TFB6dGRpX3NvMndZTG9UZFI5SFNTY3NCeUsxQkxSN3N1NjA5OG1wTXVfWXN3NGp0Q0ZnRG4zUWw0anFJUGVaaWFyUmo0N2xMaGN1NEU3bzlyRG5VM3ZCX1VVQlRHMEVfb190dEgxNkhxWk1tZWdnYjZsazRCa2lnVXUwdjhKclE?oc=5",
@@ -339,9 +395,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Apple is making your security camera smarter. What comes next is more interesting. - theverge.com",
+      "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1BRal9pR1NJWElLTXpEREVyMW9GRkpwNzNyNkMxOElxT1NMZTlxSnRPMmxCSDVBcWp2eWc0dzFWVWhZOW5JR1p0M0R1aTd2SlV0c28zTTF4Nlh1RHM1ZFFabTN6MWRSeTBUVW4yQklhRnh2T0k4U0hlSEI3YjNJUXp1VU8tc2NCZEM0MkdyS3dNekhOYWZxb3JmX0xoYVhtd3cxWDIxd2JaRVg0djFQeGc5dmpYYVhWMGdRQ2F3c0dVa3Y4?oc=5",
-      "summary": "Apple is making your security camera smarter. What comes next is more interesting. theverge.com",
+      "summary": "Apple is making your security camera smarter. What comes next is more interesting. The Verge",
       "badge": "new",
       "date": "2026-09-25"
     },
@@ -354,34 +410,10 @@
       "date": "2026-09-25"
     },
     {
-      "company": "Perplexity",
-      "title": "With AMD, Perplexity Brings Portable Computer to Agentic PCs - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IeHJndXVoMDM1RFlDVmp2ZUh6MlNHR3ZENWtWc1U4amppZWlTSVkwX0NMb3lsdzRIU093MzhydGNUU1JwX3NQd2tiTTdwQXVsVUtxQ2RLY0UzWkU0eU5IN21aaXNFRUNB?oc=5",
-      "summary": "With AMD, Perplexity Brings Portable Computer to Agentic PCs AMD",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
-      "summary": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven CNBC",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
       "company": "Meta",
       "title": "It’s sinister that Meta’s Muse AI mascot is so cute - The Verge",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vWmhEd3NfSVZBVmM1bEwtOU5tVGF2QVFQMU95ZU9OZ0lrSnhsaGZKc1pLdWdFTDVFUnZKTEIySFUtM2xKa3JsanNSWmhlTWd6V2dsWmZiUl83Z0sxcWRJaElMTEZrdVA2Mlc0VEY0dUNVUU9S?oc=5",
       "summary": "It’s sinister that Meta’s Muse AI mascot is so cute The Verge",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Meta",
-      "title": "PayPal Strikes Major Meta AI Shopping Deal - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNCQUdadWJxS3lmeDVfZGNIQ1NTSFI0ZWFoY21LOUV1Y0dtVjFSUEhUQkpDem1xRUkxV0RlZVNDVmZ1TE9ocFdFN0ZkYS1fQzNLczhFYkRoVF9KS1p3V01fNmUyWTRScFF3VnFkRGs2UkRwOFNmVXFWeG1tTzBzQzlZSXl3eUFEbDhvbzlHRzhIUEp6Vnhn?oc=5",
-      "summary": "PayPal Strikes Major Meta AI Shopping Deal Yahoo Finance",
       "badge": "new",
       "date": "2026-09-24"
     },
@@ -434,14 +466,6 @@
       "date": "2026-09-23"
     },
     {
-      "company": "OpenAI",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "badge": "hot",
-      "date": "2026-09-23"
-    },
-    {
       "company": "Google",
       "title": "Google Beam expands with new regions, partners, and customers",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -456,22 +480,6 @@
       "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
       "badge": "new",
       "date": "2026-09-23"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "badge": "new",
-      "date": "2026-09-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "badge": "hot",
-      "date": "2026-09-22"
     },
     {
       "company": "Apple",
@@ -566,14 +574,6 @@
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "badge": "new",
-      "date": "2026-09-14"
-    },
-    {
-      "company": "Google",
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
       "badge": "new",
       "date": "2026-09-14"
     },
