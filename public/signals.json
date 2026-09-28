@@ -1,19 +1,59 @@
 {
-  "updated": "2026-09-27T20:43:12Z",
+  "updated": "2026-09-28T03:09:46Z",
   "signals": [
     {
-      "company": "Anthropic",
-      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
-      "summary": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout WSJ",
+      "company": "Microsoft",
+      "title": "Microsoft Transforms Copilot into AI Work OS with Autonomous Agent - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNXQ3kxbUxINFl6cGpsbXpiOW9SN09XbkRnNTJEOGszMGR0RkE2SGxzcXY4N3pfaktFSzcyN09SNkhTd19vb3RRMlQ1ZDI2QW9aS2VUSnkwdFN6X2RmeXczMDdVT2JTSEFEbHU0SXc3eGtPdUFVb18zemExT0FOLUYzT2k3bVFm?oc=5",
+      "summary": "Microsoft Transforms Copilot into AI Work OS with Autonomous Agent 조선일보",
       "badge": "new",
-      "date": "2026-09-27"
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Apple",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
+      "badge": "new",
+      "date": "2026-09-28"
     },
     {
       "company": "Anthropic",
-      "title": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
-      "summary": "Scoop: Top AI companies probing tens of thousands of security incidents Axios",
+      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
+      "summary": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? The New York Times",
       "badge": "new",
       "date": "2026-09-27"
     },
@@ -21,7 +61,31 @@
       "company": "Anthropic",
       "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump - Axios",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5",
-      "summary": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump Axios",
+      "summary": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump Axios Trump said he would dine with Anthropic CEO amid mounting AI debate wral.com AI Breaches Add to Safety Fears as Trump Meets ",
+      "badge": "new",
+      "date": "2026-09-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An ‘SNL’ Exchange That Captures the AI Disconnect - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2FzZjB2dms5M3Jya2JUbG00S1RnRmZuandBMnJSbHY3ZFNnb2tLZ19KMFdPaVl0dU5ZMVJRaE9hQXJnVzg4dTdtMXB3WTBBYzFzMEI4YklRdGlzTXdsWU8tYjkxcEtnY2xFMGJDMGNZTnVqeF9hVXh4dS0zcDY0b1NlTXhrMk1fY1RjaFBDTWJWd2ZzSTJzaFBuZXdCSDlZeTBFY0t3?oc=5",
+      "summary": "An ‘SNL’ Exchange That Captures the AI Disconnect The Atlantic",
+      "badge": "new",
+      "date": "2026-09-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
+      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled AP News",
+      "badge": "new",
+      "date": "2026-09-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
+      "summary": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout WSJ",
       "badge": "new",
       "date": "2026-09-27"
     },
@@ -67,6 +131,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft’s big week: Surface refreshes, Copilot+ fades, and AI takes center stage - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFdNT2tTSkVWNzBnRWpEa040WjJyRDZEVU93Y3ktc3RSTlBOUDFmZUx2dk9hNHd3SG1qb2h4cnBhdHBwS29Ha2VLVnlNYk9lcEtERG9oLWVFSEt1eHB6NWUxR3FNV0pYamk3d3dyV01wU205aFgxOXd3TGdaUmNvNEZyNmRpRTNUbmtkQ3U3LTlGVmNIOFh1Q0UtdWQ2VWgxdjY1VlV0Uzl0VVpNOGJhcjdsc3p2eDY0Z01BS1hB?oc=5",
+      "summary": "Microsoft’s big week: Surface refreshes, Copilot+ fades, and AI takes center stage Windows Central",
+      "badge": "new",
+      "date": "2026-09-27"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft's Copilot Now 24/7 AI Work Operating System - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGJyM05kbGZCczktbzlZdk54NHEyRWV3M0x3MThQbWxvaGstLTMxaFZzWGhiUGFFczdETHd6NldYeU4xQ0JhSllhQ09RZ1hySTVHZTc5WURuVFVtSVE0T2lxUm0zV2pkU0xiTjdLYjg5bFlBblk0Zm5UU2YwdEFEbzlNcWtfalNC?oc=5",
       "summary": "Microsoft's Copilot Now 24/7 AI Work Operating System 조선일보",
@@ -82,50 +154,10 @@
       "date": "2026-09-27"
     },
     {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Apple",
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
       "company": "Perplexity",
-      "title": "I replaced Gemini with Perplexity, and it’s a more reliable assistant for Android - howtogeek.com",
+      "title": "I replaced Gemini with Perplexity, and it’s a more reliable assistant for Android - How-To Geek",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFdvVTA5ZURxUXMwVU5sam84dlFfaW5meUJWSmVqU3c3dVVPNDNiaFFuT2NSYjVoem9vOHZqSF9XalVNMXczNXhQc0NEQWNfQmNjangyY3FYc1E3VEFDTWViczNZQzR2ZHBReDY3NU1lSlZVd3FJdk5sNkZneWlQRXJfelBkTGptYWZDZnd2c0twUUVGSUhQR25vcWVaUQ?oc=5",
-      "summary": "I replaced Gemini with Perplexity, and it’s a more reliable assistant for Android howtogeek.com",
+      "summary": "I replaced Gemini with Perplexity, and it’s a more reliable assistant for Android How-To Geek",
       "badge": "new",
       "date": "2026-09-27"
     },
@@ -133,17 +165,9 @@
       "company": "Meta",
       "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWVZSNnJHbGFENnhFOExMZHlEdndHMW1TeXU4RUo0V2p1QmZmcnlUSGJ1akcxUU5NdlJBaWZTTEdiWGdLRlIwLVF5dFBaamVLRDBVd0VMT0hwZnAzMEdySEFkSTBiZUNKUG5KeTZqal9Ua3JsMTJmOHVwTE5PS2VFcGpHcUNkQ09WSW9tNHVOUnRYbmg5Y20wRmU0RU5HNHhmS2h3U2dCdnFLVGxzc2FpbWVzNnAyVXVWa2Z0OGlabFdwOXRpb3V6NUtmOA?oc=5",
-      "summary": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment Yahoo Finance",
+      "summary": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment Yahoo Finance Inside Meta's months-long grind to turn Muse into a hit Business Insider I Gave My Life Over to Meta’s A.I.",
       "badge": "new",
       "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpnZ1ZWU05sZ0hWOVFnUGJqb0hRbTVTcWNodWI3ak5zcm5fRXFsaElYMERvUzJIaTJmNnlGdDkwOGFmUWJZNjBMQU9ER3dET0VkNExpakxZcDJRdkptdUxnaTVqcTJZSDB5cjNfZ2hYYzNVVzZid1htOUwxVm1vdnI5REJLTEhTMHNKY1RtMENtdkdfbWxnN3hFcXN0VXJCVzhJaUNPU3dnMjZaWTVjdTlzRnlWLTJKN2hnaHlGOHJ5Q096anJuMVhXT0FIVlMySFFpUGQ2eU5odGls?oc=5",
-      "summary": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents The Guardian",
-      "badge": "new",
-      "date": "2026-09-26"
     },
     {
       "company": "Microsoft",
@@ -158,6 +182,14 @@
       "title": "Microsoft's new Surface laptops get rid of Copilot+ PC branding - mashable.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVDWWs5UUQ2bDBVbWVRb3l4dUJvTm1uYkc2VVpvVlVka0g0ckRwZmdYZEhHbTBfQ3JtRzZxTGpjTnd5RzZxMDJndzQtLVE1bldSWHJncC16ZlB2aklPakhlUEg3SkFLZ2RGWlR2OE4yZS1jOTV6X1BIVGpQZUZScW1jaw?oc=5",
       "summary": "Microsoft's new Surface laptops get rid of Copilot+ PC branding mashable.com",
+      "badge": "new",
+      "date": "2026-09-26"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI CEO Alexandr Wang sets the record straight on how he dressed for Meta's Connect 2026 conference t - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPcFJ1RTdQSnNWa2FPbFhvcy1JWjdiak1JR1lsTXo4STZ2QWxfRWlzSUItLUdrQzFNd05Memtoa1Rvc2NZVU9uNTRyZVFUNXFhWTIwRVpPTjdoOTJQNlgwSG1XYjQtMjB3d2U0cngza0tRazRxd2lkRnhJSHFXdFV2UUxpOVJJeWNEZERjMklYLXZxbXlYQjNpSVVRV1FNOWlTYlpjMlVxakoxWWl3WG10Tk9jZ0o3OHhJcmt3Wmh6UTZxcHlTRm1veXY4SDdIWFRYUWh1U0FNbUVNTjZzUVFSN0hncy03YndOaW5kTWk2eW9qZ18xdWlFQm5QMjBwNGlFMnE5M0hQTGJ6M2ZnWTl6OXpOX3poRGZ2c3RzUFV0VXcyOGRBYlk2dmFPYWpNN3ZFd1Ftalp0cEpmNkxzcVlJ0gHEAkFVX3lxTE8wc2RFNlBmMkJmcXFSYlJuNnF6a2JOcG5ISzN2RTk1U1VUVWw3ZWd0cllzeEMwWmtvazFzeXc0M3YxcjZJMFBPQ05oS0V3LUhZMEt4RjFRTElDcElFZ3RaWllnMTVhcTdTanc1M25QT0F5MGJDclQweXRmWklIMWdISE9QbXZTT29zWEVqVUhzN0p6c2U5U1lNS3YtckJvQWtGSTJyTjc3MV9tS0tJNzNqdnJ1cmpja3RXS1ZnNS1WVWxSSXhRRVJTYWRRZVhWM0Z0NkhySjNmRW1UYlNMMm40VllETXA1a2U2S290N2J3R0VqY2JFVTYySDNNWEpFUlhOUFRPaVlmN2YyWjJBYnFXM1BQTkhaRjQwaVQ4ajhKdlVKQ1IzNl9WdFppNUJJcUZFYkZxNXdZSGxvc1BlQzc4S0dzRw?oc=5",
+      "summary": "Meta AI CEO Alexandr Wang sets the record straight on how he dressed for Meta's Connect 2026 conference t The Times of India",
       "badge": "new",
       "date": "2026-09-26"
     },
@@ -178,26 +210,18 @@
       "date": "2026-09-25"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CdXRRd1p6Z2h6UTdnSmpSVlJ5MWRGLTNtanlfNlU5SmVfVVhTdGlfdnpMb3Z6cmYxYTlOUXU0ZC1xYTZoa1R4LWgyT0FHR0Q4NTRNcEdUb3R0NTRNSk9aR3l2c2NPT3dfX2x1eDhadG5Ud3lOTGFKMEdhSWwxQQ?oc=5",
-      "summary": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule The New York Times",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
       "company": "Microsoft",
-      "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
-      "summary": "Microsoft packages business AI in single app as it tries to compete with Anthropic cnbc.com Microsoft unveils Copilot super app, targeting business users with AI agents fortune.com Introducing the new",
+      "title": "Microsoft relaunches Copilot app with coding and AI agents - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1pEWkdWanVyVWp0UlV0a0NvTDZLU0Q0eXZwcXc1Tmt0eFl6RElRSklVR1N4Y2xUYnljNDJDaTQ3SlR3OUVRVkhXd0JMbkpBME42dFNmMk1pWjBkQXRnUDQ3c25zY1d0ZVMwa04wcDBXR3lhSFF4Z25GYTJIYjJQWjZPZjVWdjZ5dGU0RGYzQzBYNjhuel9sbmNzZE56cmh2a3BfT2pR?oc=5",
+      "summary": "Microsoft relaunches Copilot app with coding and AI agents Yahoo Finance Microsoft packages business AI in single app as it tries to compete with Anthropic CNBC Introducing the new Copilot with Home, ",
       "badge": "hot",
       "date": "2026-09-25"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft gives Copilot a much-needed overhaul, and the stock deservedly soars - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjdfSnQzcEdXalBJMlVyTldYb0Vzdkpqb1poTEdPVWFVbHowODBseHJSZHhLTkl3U0JHVGhYbUNuTWFPZmxSYVF6Vjl2Nmc2NXhQV2tLM0dtQWtkdGoxV2NNTmhIcU5BWUlqY3Bja1N2QU44UmhGaWVpd2RPcm1rSnZ6bjA1RXJrM3VhQlZ0RDNNN1J5TlN4MGMtZjR5c1ZFaXdGYnNGMVF5LThoQ2xpdktxbXY?oc=5",
-      "summary": "Microsoft gives Copilot a much-needed overhaul, and the stock deservedly soars cnbc.com",
+      "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+      "summary": "Microsoft revamps Copilot with code generation, agentic AI tools Reuters",
       "badge": "new",
       "date": "2026-09-25"
     },
@@ -211,26 +235,10 @@
     },
     {
       "company": "Microsoft",
-      "title": "What's different about Microsoft's Copilot AI reboot - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcF8tOGhyWWFHd3EtSzVPUTdmWUdOcVZILUZXZ3RtOW95eTVGNC1oS2pGZnVmX3gyMGRWUjZfSmRaUUR3SGxzc2lIYVhsNGNyWG9Qbk9acnJ2STk3U2pFVlFYRzk4QlFfX29YbDZHdmgwaTlxTGxrVThWSGJhdGJGTlpRblp3dlRtOVRMUg?oc=5",
-      "summary": "What's different about Microsoft's Copilot AI reboot Yahoo Finance",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-      "summary": "Introducing the new Copilot with Home, Code and Autopilot The Official Microsoft Blog Microsoft packages business AI in single app as it tries to compete with Anthropic CNBC Microsoft Abandons Persona",
+      "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
+      "summary": "Microsoft packages business AI in single app as it tries to compete with Anthropic cnbc.com Microsoft unveils Copilot super app, targeting business users with AI agents fortune.com Introducing the new",
       "badge": "hot",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Microsoft",
-      "title": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNjROcVFvRDBuQk5SNDNZYzJkaENaUHZhMUVnTzRqZ3V5XzRzOXo1YUdfSVU1ZkRMcHBKaXVUbDZlRTF5dWdrNmRBRG5aRFFiRG9leEZkSm9kbnFkQVZQWEd5ODJFY01MWWtFWElCYUdPUl9OZ0pPVlhPOG50TE9zX3g2bFYxY2tmQ1Q1UDJtZmNhT1lMbUtfSWhnUEFJeXFQUklidTdjaDh0WDBldTRHMDdqU2M2eTJmWXdicmxKVDJUU1lVakdKZElFdDJrTFVOSGprTG1HanphRG9fU0p0Zl91REw1VnUyUkhfNw?oc=5",
-      "summary": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators TechRadar",
-      "badge": "new",
       "date": "2026-09-25"
     },
     {
@@ -243,9 +251,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Swiss startup accuses Perplexity AI of stealing passive listening tech - Courthouse News",
+      "title": "Swiss startup accuses Perplexity AI of stealing passive listening tech - courthousenews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjBzM2E2Z3NNbU5pZFU1UHFlNWZQY2RqLVVEY0FBazlqSmI2ZmdoekJoMUxnNEhySW54TmFDRWNkZ0Y4ODdTRzdlVDlIdkFJeUk3SHhHY0hxTHBMYWVrUnJDSTRaV1JwOUdMMnc1a1g2YWRQdm9iTG1zQTVNanUza2M1cGd0a3BmenFxMWNWX21ZMWpQYjUtNUl4Tmg3aEIxaWVz?oc=5",
-      "summary": "Swiss startup accuses Perplexity AI of stealing passive listening tech Courthouse News",
+      "summary": "Swiss startup accuses Perplexity AI of stealing passive listening tech courthousenews.com",
       "badge": "new",
       "date": "2026-09-25"
     },
@@ -291,6 +299,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta Unveils $1,300 VR Glasses With AI, Eye Tracking and Virtual Workspaces - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0I5TFB6dGRpX3NvMndZTG9UZFI5SFNTY3NCeUsxQkxSN3N1NjA5OG1wTXVfWXN3NGp0Q0ZnRG4zUWw0anFJUGVaaWFyUmo0N2xMaGN1NEU3bzlyRG5VM3ZCX1VVQlRHMEVfb190dEgxNkhxWk1tZWdnYjZsazRCa2lnVXUwdjhKclE?oc=5",
+      "summary": "Meta Unveils $1,300 VR Glasses With AI, Eye Tracking and Virtual Workspaces TechRepublic",
+      "badge": "hot",
+      "date": "2026-09-25"
+    },
+    {
+      "company": "Meta",
       "title": "Meta is putting its muscle behind Muse as the AI app takes off - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdkNva2lfeUVoTzVWcWpHY0FscXh4cnBRSjZ2S2dLdWFVaG1ONEFZd2NnRHFlR2hBeTlUUDVtUXRBRU5ZMVdKRkE2a0NnVzJURFlKSTdnTExfTkhsdVdWWmx0YzN5ZWsyWVRHS1JjZVhwb1ZVdW9ZcVU0dlhVSUFFMnVpYUx5czBVZlVXeEFJSmhsbnF3VVgwRjJ2MU56Zw?oc=5",
       "summary": "Meta is putting its muscle behind Muse as the AI app takes off TechCrunch",
@@ -331,6 +347,22 @@
     },
     {
       "company": "Meta",
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
+      "summary": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven CNBC",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Meta",
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vWmhEd3NfSVZBVmM1bEwtOU5tVGF2QVFQMU95ZU9OZ0lrSnhsaGZKc1pLdWdFTDVFUnZKTEIySFUtM2xKa3JsanNSWmhlTWd6V2dsWmZiUl83Z0sxcWRJaElMTEZrdVA2Mlc0VEY0dUNVUU9S?oc=5",
+      "summary": "It’s sinister that Meta’s Muse AI mascot is so cute The Verge",
+      "badge": "new",
+      "date": "2026-09-24"
+    },
+    {
+      "company": "Meta",
       "title": "PayPal Strikes Major Meta AI Shopping Deal - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNCQUdadWJxS3lmeDVfZGNIQ1NTSFI0ZWFoY21LOUV1Y0dtVjFSUEhUQkpDem1xRUkxV0RlZVNDVmZ1TE9ocFdFN0ZkYS1fQzNLczhFYkRoVF9KS1p3V01fNmUyWTRScFF3VnFkRGs2UkRwOFNmVXFWeG1tTzBzQzlZSXl3eUFEbDhvbzlHRzhIUEp6Vnhn?oc=5",
       "summary": "PayPal Strikes Major Meta AI Shopping Deal Yahoo Finance",
@@ -350,38 +382,6 @@
       "title": "It’s cute. It’s cuddly. And it wants your data. - NBC News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjh2TGVGdUhBSTNjVFlTbC1KNUNkalJZNFZIY25tVG8yakdFaUJVZTQ5Sk0zOHhJb1JWMU5RMWNiWUxrZWpaa05zSTNYRDlENzExYTY4ZkhYUFVBeHFmb1VScWxkRHhhMTc1YktZS2NOSU1QN1VLdUJUOWhyamVuMFJKaXB0djA1LVhUVkZvUjkwQVluQ0lDNG1MVW9fSkk?oc=5",
       "summary": "It’s cute. It’s cuddly. And it wants your data. NBC News",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta puts its AI assistant on a keychain - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUVlUExyS3NzSFV1U3lzdHFETkNCRXdnODFSZFJqQ29IMHBvMmc3MlZTUm5FYzdpTFJZSXdwSHZDbVNpcUdiZHU1WDZCYUJyQVNvMU93bThuVlB5Sl9JVWUwYU9JaFJDWERzTnJKdmlMSUkySXlQYS01TThXR2MteDV3?oc=5",
-      "summary": "Meta puts its AI assistant on a keychain Ars Technica Meta's new motto: we care about privacy axios.com Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Introducing Meta VR Glasses, A New Era for Virtual Reality - meta.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5ZzFINlR6Sk8tRV9CazNxcENKa2JDb1lVdC0zU3g0bVRPeTlqMXpydjlRWFd3dWo0N1JndjIxN0dIcnl0UjllWHVKRDhHbmRCT2VDc1ZyTjlwRWp0bGQ5NG5IaFRKS3Vsdm9wQVY4MW9ZNDRwR3Qw?oc=5",
-      "summary": "Introducing Meta VR Glasses, A New Era for Virtual Reality meta.com",
-      "badge": "hot",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Meta",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vWmhEd3NfSVZBVmM1bEwtOU5tVGF2QVFQMU95ZU9OZ0lrSnhsaGZKc1pLdWdFTDVFUnZKTEIySFUtM2xKa3JsanNSWmhlTWd6V2dsWmZiUl83Z0sxcWRJaElMTEZrdVA2Mlc0VEY0dUNVUU9S?oc=5",
-      "summary": "It’s sinister that Meta’s Muse AI mascot is so cute The Verge",
-      "badge": "new",
-      "date": "2026-09-24"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's $14 billion AI bet looks like it's finally paying off - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmtCRFVMNFRENGJEaVBBdVl2cXJpaFQydXhabHZlcF85ajl4NXJpTHJyTnRIZDlZbW02c0J0bTN0VjljUldSZWdGNm5mZG5ydnJBVXFzQ2laLWFfSUlJbEFKSmw0OENTeW5yeXRJZHFIVmhfb3NfQnktQXVIVEszX1B6ZkwzVk9BdFdpOGo0Tmp2WWhiRnNJTnRIdzhTSTBJRFFMcVpMbXlKMUhMWklKS0ZZM2VXTmg0?oc=5",
-      "summary": "Meta's $14 billion AI bet looks like it's finally paying off Yahoo Finance",
       "badge": "new",
       "date": "2026-09-24"
     },
