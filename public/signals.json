@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-28T22:51:48Z",
+  "updated": "2026-09-29T03:48:10Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "Apple",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
+      "badge": "new",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "Apple",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "badge": "new",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "Apple",
+      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
+      "badge": "new",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
     {
       "company": "OpenAI",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -22,6 +70,30 @@
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
+      "summary": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs Reuters San Francisco AI giant Anthropic reveals massive IPO ambitions San Francisco Chronicle Anthropic IPO leaks -- here",
+      "badge": "watch",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
+      "summary": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? nytimes.com",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "SNL Skewers Anthropic CEO: ‘I Urge You to Urge Me to Stop’ - cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG1DejdkV2dmMXFPaWQwS0dxeHN0c3ZiUkZ5UUNFQTlNWlB2eFJWbVYtYU5JdldTUWluMHBUaWVHeExRXzFmMkxLTEYxR0FVbFdPRV9wYzd6b2xVVlVCUEF5c2JuSzMtV3M3dFFfYkkxSHpRZDRnc3NqM0dWdjJ5eEs5MjFza2dyVWZKZmFtRDBQMzZLNzFRNnRHai1WbUFYQmlrRFlfaw?oc=5",
+      "summary": "SNL Skewers Anthropic CEO: ‘I Urge You to Urge Me to Stop’ cnet.com",
       "badge": "new",
       "date": "2026-09-28"
     },
@@ -67,9 +139,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Humans Are Reading Copilot Prompts — And They're Horrified - 404 Media",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mLU9kOGdHTjV1dXA4a1JjVWVxY0I4X0tNaVdMUlQtSVdpMXZNV2xnQUhkeG83OVQ5NndfaWMwOFJJSlk5OUUzeFRaM215U2x2UHZybVFmeGFwS2NrVXlxVFhHUXZEX0NVYW42bVg1QQ?oc=5",
-      "summary": "Humans Are Reading Copilot Prompts — And They're Horrified 404 Media",
+      "title": "Microsoft contracts humans to review Copilot’s creepiest images - A.V. Club",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG50R2MxZ3psQmpJaXVtV3g0S0pvNjRZMTgtTVlXYjN4LS1UcldUYm5iWWtwWWtVYy1ZZnc4NmJjV3dNczc3YlBpOW56WTkxTzR5aHBSeFBRdXdNcDBITUpVaUhMaGoxa1FucVM0YTZLWmJBMkx4VjdxTjhUWF9nYkFfZWVqUDRBT1BHZQ?oc=5",
+      "summary": "Microsoft contracts humans to review Copilot’s creepiest images A.V. Club",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's Copilot super app comes with a meter attached - theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXdmVmR3aGU5VWJ3OFJveEN3OU9EX0NlN01iVnRaYy1mN0lXeFZ0SWpSZTI5dmFwSENPR3dLQmxRbFA3ZXNIT1BOMzA3RU16dFVvR1VFNUdlb196YkduRzZJWnhBeDYzUk4zbVcyQ2hObHlNZlhiRHFRQmx6SFFra192REg5TDFNc0VGaS04TE9GMGhrUVl2RTAyRlVZNTJtTnpmbW8zV2gyb1ZFYi1pV2daWQ?oc=5",
+      "summary": "Microsoft's Copilot super app comes with a meter attached theregister.com Microsoft Copilot Is Turning Into An ‘AI Operating System’ — Here’s What It Means For MSFT Stock, According To Oppenheimer’s B",
       "badge": "new",
       "date": "2026-09-28"
     },
@@ -78,6 +158,14 @@
       "title": "Microsoft's New Copilot Push Gets a $550 Vote From Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDJ6R3Nha2JGQ2Jobjh2bnBkQWUzcTM0Nk1MVGoyVTdNNzRBdzgtcFYtLWdPMmtqNFBVYjZxZFpfSUJpUVozcjVPZXRZanJYb0lyUTFDdEdzMDVHT2FnaUpGZ09pMXVjTGlJTVFGQnE3aXpGVk9JSFgwclpqbW1jOVhGWHExb3U3RE5JNnN4TXJWcEw1Y0ZIOERzT2Q?oc=5",
       "summary": "Microsoft's New Copilot Push Gets a $550 Vote From Wall Street Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Humans Are Reading Copilot Prompts — And They're Horrified - 404 Media",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mLU9kOGdHTjV1dXA4a1JjVWVxY0I4X0tNaVdMUlQtSVdpMXZNV2xnQUhkeG83OVQ5NndfaWMwOFJJSlk5OUUzeFRaM215U2x2UHZybVFmeGFwS2NrVXlxVFhHUXZEX0NVYW42bVg1QQ?oc=5",
+      "summary": "Humans Are Reading Copilot Prompts — And They're Horrified 404 Media",
       "badge": "new",
       "date": "2026-09-28"
     },
@@ -94,46 +182,6 @@
       "title": "Microsoft Transforms Copilot into AI Work OS with Autonomous Agent - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNXQ3kxbUxINFl6cGpsbXpiOW9SN09XbkRnNTJEOGszMGR0RkE2SGxzcXY4N3pfaktFSzcyN09SNkhTd19vb3RRMlQ1ZDI2QW9aS2VUSnkwdFN6X2RmeXczMDdVT2JTSEFEbHU0SXc3eGtPdUFVb18zemExT0FOLUYzT2k3bVFm?oc=5",
       "summary": "Microsoft Transforms Copilot into AI Work OS with Autonomous Agent 조선일보",
-      "badge": "new",
-      "date": "2026-09-28"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-09-28"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
-      "badge": "new",
-      "date": "2026-09-28"
-    },
-    {
-      "company": "Apple",
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "summary": "On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.",
-      "badge": "new",
-      "date": "2026-09-28"
-    },
-    {
-      "company": "Apple",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "badge": "new",
-      "date": "2026-09-28"
-    },
-    {
-      "company": "Apple",
-      "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.",
       "badge": "new",
       "date": "2026-09-28"
     },
@@ -155,9 +203,25 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Muse is the worst AI agent for privacy – and I’ve tried them all - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHotejFzWVhYZnNrMU5KYkxUN2FqM09WTXVUU0k0UXlwTjYwRFlYRTJKd2VnY1l0a0ZaVmlYTzI5V0xYNzc2b1R3T3RaSFNRbXp5NHdxX0NPOHQ1ZVFobUhfSjJjTHFhNVZCM3g3dEE4Vmp0MlR0bDQtd2hHQVVZUFBNZXg0N1pCcjRF?oc=5",
-      "summary": "Meta Muse is the worst AI agent for privacy – and I’ve tried them all ZDNET",
+      "title": "Man Says Meta’s Muse AI Gave His Home Address Out to Strangers - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWjNVX3BjanZjaGdZUU1lWUJsUWowUGNVQlAxN2Y0bDU0MjFzTkpjSVVTMkxhNTltUEJDNUhnQnJuTmNyVlVoNjBlU2FkYkh6WmlnV1dISmpfY1hMbkUyaFJVOS12RnFZcExWWThUYmtENm1xTkNOTFhBSkxRZnJEc2hIZW5BVW82TGZiQUNCVQ?oc=5",
+      "summary": "Man Says Meta’s Muse AI Gave His Home Address Out to Strangers Futurism",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Seeks Payoff From AI Spending With New Push for Business Customers - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBYlNmX2VrMlk4eDF2UmVqdXBRNW5jOHlQYWZLUGFCblJMNGhybm92M29tb1dRNC1COVlXdW1qa2hXeHE2THpsN0lhcGlLcnYtNHFTcFN1aldjYVZsYS1id3Z4LVVSaUM5YXAwVXdjMWY1ei1lZi1ucS1rY3Q4LXNnV3FFUi1GdVhwbkxRVWZ4Z3luT0FzeUF3RWRjZFk3UTZrZXFGT0p5UkJS?oc=5",
+      "summary": "Meta Seeks Payoff From AI Spending With New Push for Business Customers WSJ",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWc2VVNhcEpaRUJWWXhxbkJSclA2YXFsdDBGSFV3VDZrQlIwMUFmMUFibVBDdHJXQVZEUnZLTFdvNmtSb2U4aFJYclFBUWN5U1dRU0djNk5XWHF6ZFNRLWhLcmNLNEpMWUVQdzkxeVd1QUptT1Q5V1FMdEVLRUgwcEpOY28wbjdZQlpR?oc=5",
+      "summary": "Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house The Guardian",
       "badge": "new",
       "date": "2026-09-28"
     },
@@ -171,6 +235,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta Muse is the worst AI agent for privacy – and I’ve tried them all - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHotejFzWVhYZnNrMU5KYkxUN2FqM09WTXVUU0k0UXlwTjYwRFlYRTJKd2VnY1l0a0ZaVmlYTzI5V0xYNzc2b1R3T3RaSFNRbXp5NHdxX0NPOHQ1ZVFobUhfSjJjTHFhNVZCM3g3dEE4Vmp0MlR0bDQtd2hHQVVZUFBNZXg0N1pCcjRF?oc=5",
+      "summary": "Meta Muse is the worst AI agent for privacy – and I’ve tried them all ZDNET",
+      "badge": "new",
+      "date": "2026-09-28"
+    },
+    {
+      "company": "Meta",
       "title": "John Georges believes Meta AI deals will ‘save journalism’ — and Louisiana’s largest newspaper - WWNO",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFprbGFUMzNrd2Y0SmtHZ0lObWNSUkRJVThSQ1o4Z2xjQjBwZWlEZmwtRDFjekFXeEFXM1Ixa1pSQmI5MXY2NUE1RGRHUnpSZko5UTRiSWlCNHB4d0oteUdTNG92YUprVEJSNS01MzRpTWxBNVYxTGczRTlKYUxGS01jMXlQdGJnTy1yMFd6dHd2U1d6aUxIRG9Wc0U5b0ZLM01ZemRxX2k4aXFBQXF6SThXS1djWU5LREpIRlNJV0RCLUdRVkR1SA?oc=5",
       "summary": "John Georges believes Meta AI deals will ‘save journalism’ — and Louisiana’s largest newspaper WWNO",
@@ -179,9 +251,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
-      "summary": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? The New York Times",
+      "title": "Dario Amodei of Anthropic to Dine With Trump at White House - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUVEUkVPXzdxVUc2VXA2LW1nS3hRWVM4U3hwWmptYnRQdEZJbWZjeXZEczJ2NFpmWWMyNDNOSHl0Y0thUTFJd05aZTRRTDRqNFUzSTZMNnFYU08yMzh3Q3JMNF80SlVjR0FnRFJfcFRNN0tTdE1kamFYc2xrd0FVWmZObHdDdmFldnU3MmJBaERob045a190QmNkN1JyZXc?oc=5",
+      "summary": "Dario Amodei of Anthropic to Dine With Trump at White House nytimes.com Trump dined with the Anthropic CEO who called for AI slowdown The Washington Post Trump pushes US to win AI race in meeting with",
+      "badge": "new",
+      "date": "2026-09-27"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An ‘SNL’ Exchange That Captures the AI Disconnect - theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2FzZjB2dms5M3Jya2JUbG00S1RnRmZuandBMnJSbHY3ZFNnb2tLZ19KMFdPaVl0dU5ZMVJRaE9hQXJnVzg4dTdtMXB3WTBBYzFzMEI4YklRdGlzTXdsWU8tYjkxcEtnY2xFMGJDMGNZTnVqeF9hVXh4dS0zcDY0b1NlTXhrMk1fY1RjaFBDTWJWd2ZzSTJzaFBuZXdCSDlZeTBFY0t3?oc=5",
+      "summary": "An ‘SNL’ Exchange That Captures the AI Disconnect theatlantic.com",
       "badge": "new",
       "date": "2026-09-27"
     },
@@ -198,38 +278,6 @@
       "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump - axios.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5",
       "summary": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump axios.com Anthropic CEO Amodei set to meet with Trump after missing state dinner CNBC AI regulation debate heats up as Trump hosts",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
-      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled apnews.com",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "An ‘SNL’ Exchange That Captures the AI Disconnect - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2FzZjB2dms5M3Jya2JUbG00S1RnRmZuandBMnJSbHY3ZFNnb2tLZ19KMFdPaVl0dU5ZMVJRaE9hQXJnVzg4dTdtMXB3WTBBYzFzMEI4YklRdGlzTXdsWU8tYjkxcEtnY2xFMGJDMGNZTnVqeF9hVXh4dS0zcDY0b1NlTXhrMk1fY1RjaFBDTWJWd2ZzSTJzaFBuZXdCSDlZeTBFY0t3?oc=5",
-      "summary": "An ‘SNL’ Exchange That Captures the AI Disconnect The Atlantic",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
-      "summary": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout WSJ",
-      "badge": "new",
-      "date": "2026-09-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump to have dinner with Anthropic CEO Amodei at the White House - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wVnB0Z2RERjE2M08xWWpfWURnREM4WjVuNnJ6OUdQcUZxUWs1dkM3VmZrcnBzM2NDU1pabDA4UUNLcUp1U3pfeXJVSFNTSUgyU1ExeGdUandDbFJhVFhtU29TSnJZRHNNcHRnT0I1b2htNDhrMDB0bHFR0gF_QVVfeXFMTmZMU3B5NXkwUmprUkxjdWNoQmExU29GM05STXZnd1pYdTZ5QlQ3NTB6NjQ3NE1adGFVVmkxdE9iRzdha0luUUNwTC1CUUttS2FoNnVaVEdZZXE1NVB0akkwX01JeGZMMEVXS0RybkpVY2lGdGxiVVpmUEVUNnlWVQ?oc=5",
-      "summary": "Trump to have dinner with Anthropic CEO Amodei at the White House cnbc.com",
       "badge": "new",
       "date": "2026-09-27"
     },
@@ -269,25 +317,9 @@
       "company": "Meta",
       "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWVZSNnJHbGFENnhFOExMZHlEdndHMW1TeXU4RUo0V2p1QmZmcnlUSGJ1akcxUU5NdlJBaWZTTEdiWGdLRlIwLVF5dFBaamVLRDBVd0VMT0hwZnAzMEdySEFkSTBiZUNKUG5KeTZqal9Ua3JsMTJmOHVwTE5PS2VFcGpHcUNkQ09WSW9tNHVOUnRYbmg5Y20wRmU0RU5HNHhmS2h3U2dCdnFLVGxzc2FpbWVzNnAyVXVWa2Z0OGlabFdwOXRpb3V6NUtmOA?oc=5",
-      "summary": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment Yahoo Finance",
+      "summary": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment Yahoo Finance Meta says its Muse AI agent can do things for you. I put it to the test CNN I Gave My Life Over to Meta’s A",
       "badge": "new",
       "date": "2026-09-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft quietly drops Copilot+ branding from its new laptops after two years — Surface CVP confirms new devices meet hardware requirements but lack controversial branding - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxONVNKNThYZ19tbU1HUC1nQ0hTNUV1T1dHWVlrRHN0anRvWnBXeGNOMVpfM2M5cnR6ajd3SEJNT21TaWdLMEZ1Tlc4SDFoU19xcEt1Y0RabDNOTlR3VzR3cWU5RXRaTmpCN0c2ekYwVkZkVzNXbUs2VEYzQmxYQjcwODJnRUpPbElKdnFzcm85N3FVYXNkeUtkbDc5a202eVlpTXV4bDB2RW5JUGRQTGlHY2ZLekpRZmNjajFGcERBOENwR0xfUVBUMUhmUkVMSWtFMEV2Z2Z0dWUtME5TbjUydWU5V0RWMFN6ZDJXbDlOSTA5Q2R3Y1l2ZElNak9oSnFRWEJ3emhJYnp0THQxaTFyYVVjMWxPZDJyS2FGVnRQNzhJT3YzXzJzWUNBSXJRV3FoZVE?oc=5",
-      "summary": "Microsoft quietly drops Copilot+ branding from its new laptops after two years — Surface CVP confirms new devices meet hardware requirements but lack controversial branding Tom's Hardware",
-      "badge": "new",
-      "date": "2026-09-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft's new Surface laptops get rid of Copilot+ PC branding - mashable.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEVDWWs5UUQ2bDBVbWVRb3l4dUJvTm1uYkc2VVpvVlVka0g0ckRwZmdYZEhHbTBfQ3JtRzZxTGpjTnd5RzZxMDJndzQtLVE1bldSWHJncC16ZlB2aklPakhlUEg3SkFLZ2RGWlR2OE4yZS1jOTV6X1BIVGpQZUZScW1jaw?oc=5",
-      "summary": "Microsoft's new Surface laptops get rid of Copilot+ PC branding mashable.com",
-      "badge": "new",
-      "date": "2026-09-26"
     },
     {
       "company": "Perplexity",
@@ -378,22 +410,6 @@
       "date": "2026-09-25"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI Tamagotchi bet is…working? - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yM0M4TXFnZlhtQS1qbG1acDN6eDhEWG5TSnIydHh6a0JjOGhvSXI1UC1ucVdXY3RyZ3JzZDdKNUtUU2hoQ1lmaUoxRFdRMkdCX21aUjNWRXpLN2ZMbVhOX09rTHRkXzN5TlNxWUx1TlJCdFlvSGlV?oc=5",
-      "summary": "Meta’s AI Tamagotchi bet is…working? TechCrunch",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdkNva2lfeUVoTzVWcWpHY0FscXh4cnBRSjZ2S2dLdWFVaG1ONEFZd2NnRHFlR2hBeTlUUDVtUXRBRU5ZMVdKRkE2a0NnVzJURFlKSTdnTExfTkhsdVdWWmx0YzN5ZWsyWVRHS1JjZVhwb1ZVdW9ZcVU0dlhVSUFFMnVpYUx5czBVZlVXeEFJSmhsbnF3VVgwRjJ2MU56Zw?oc=5",
-      "summary": "Meta is putting its muscle behind Muse as the AI app takes off TechCrunch",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
       "company": "Amazon",
       "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1BRal9pR1NJWElLTXpEREVyMW9GRkpwNzNyNkMxOElxT1NMZTlxSnRPMmxCSDVBcWp2eWc0dzFWVWhZOW5JR1p0M0R1aTd2SlV0c28zTTF4Nlh1RHM1ZFFabTN6MWRSeTBUVW4yQklhRnh2T0k4U0hlSEI3YjNJUXp1VU8tc2NCZEM0MkdyS3dNekhOYWZxb3JmX0xoYVhtd3cxWDIxd2JaRVg0djFQeGc5dmpYYVhWMGdRQ2F3c0dVa3Y4?oc=5",
@@ -408,14 +424,6 @@
       "summary": "Apple Intelligence vs Ring vs Nest: AI Camera Showdown The Tech Buzz",
       "badge": "new",
       "date": "2026-09-25"
-    },
-    {
-      "company": "Meta",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vWmhEd3NfSVZBVmM1bEwtOU5tVGF2QVFQMU95ZU9OZ0lrSnhsaGZKc1pLdWdFTDVFUnZKTEIySFUtM2xKa3JsanNSWmhlTWd6V2dsWmZiUl83Z0sxcWRJaElMTEZrdVA2Mlc0VEY0dUNVUU9S?oc=5",
-      "summary": "It’s sinister that Meta’s Muse AI mascot is so cute The Verge",
-      "badge": "new",
-      "date": "2026-09-24"
     },
     {
       "company": "OpenAI",
@@ -454,14 +462,6 @@
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "badge": "new",
-      "date": "2026-09-23"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "badge": "new",
       "date": "2026-09-23"
     },
@@ -603,9 +603,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - cnet.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
+      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing cnet.com",
       "badge": "new",
       "date": "2026-08-26"
     },
