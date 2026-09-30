@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-30T17:27:19Z",
+  "updated": "2026-09-30T21:46:41Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "badge": "new",
+      "date": "2026-09-30"
+    },
     {
       "company": "OpenAI",
       "title": "Helping small businesses put AI to work",
@@ -11,9 +19,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
-      "summary": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models The New York Times",
+      "title": "Billionaire Bill Ackman calls Anthropic “perhaps the greatest business story I've ever seen” - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGRnTWlfUFJSNmVrUjJwbWgtYWRQR053OEZoZi1BVTJzRWN4SkI5ZkFpVFNkWFNKSU5jSnNvTy1zeXVsbWpVSGNwOHJ2QVJZRlUzdlJMOWkyR2ZZVnNTMkloWXd0ajg0MHNkNmliUmZzOXUtem9hbjhsNEJVR05RU1BaRjk5T040SVpKZFhRQ051cHNTVXdDUmVzWmt4VGMxc1ZRdV9RODZRVEF0R1pYcXBPMVNuaUlOLVdNTHRheDZ6c2ZKbkhIOVMxVXB3cUJJUXVrVlBmWW54Q3RKMVg0?oc=5",
+      "summary": "Billionaire Bill Ackman calls Anthropic “perhaps the greatest business story I've ever seen” Yahoo Finance",
+      "badge": "new",
+      "date": "2026-09-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGJBYWtwaUlpZ3JiWHlMYmZKWnlDcFJ4dzlGcXZ1a1drUVV3aGk5NkRDNi1Sc2VIZExQTHdjUjJXNEJUVWU4ZlREVF9iQmZZamlmWmFpd2FwMlBidno4blpyUDFHWkJjN05QYnhUcC1WOWVfVVR2bDlaOTloQjVTRi1ZN1RkVFhxRFJCTGRuMWc5N1ZUdHEzU2530gGfAUFVX3lxTFA0SzM1Rlh6cUVGT0lNNmg3UjBvbE5XRmZuRzVEYzBnNmcwa2RHQzN1MHVGc0E0Y2tQRHNzOG5rdVJCSzl0QVItRU9Na1BUZG5uaFJhWnJzTjI3ZWFRZDJUNG5KQlZfN3Azc01oWHBvRWZMeEQxSnJuRHJyekpsanJzWTdWODh1Y3B6YWVBWUZsVVk0VVA4SlMtQk5ZMDVtRQ?oc=5",
+      "summary": "FTC is investigating OpenAI and Anthropic over possible risks to consumers ABC7 Los Angeles FTC reportedly looking into whether OpenAI, Anthropic violated consumer protection laws. Yahoo Finance AI sa",
+      "badge": "new",
+      "date": "2026-09-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
+      "summary": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs reuters.com Anthropic IPO documents show there really is only one risk with AI Yahoo Finance EXCLUSIVE: Anthropic's IPO pi",
       "badge": "new",
       "date": "2026-09-30"
     },
@@ -138,12 +162,12 @@
       "date": "2026-09-30"
     },
     {
-      "company": "OpenAI",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "company": "Meta",
+      "title": "Meta stock enjoys best month since 2022 on AI momentum - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JU2Z5QzZ5cDZaZmhqYzJIR3lHeEduQWNfZnMyMTNNSENwdUh0cXNaOTRaZTRweS13STVyckg3MkVoNnB0aUFDV3R1YVU0YlFJbjA1YlhmRmM3cFN1eFRLQmpwUS1hZ0k2dUg4SXpuZ25LLXBU0gF6QVVfeXFMTnpwYnd1RXlTR25obHhCa28zeVhkUDFEbTZBcjA1ZklfSklPc3p0VVoxZHduRUwwdURtYVlXc0NDb1Q3U3Z1cjIwRmg0M284SUYwczV0U081MVliN0s1bkZtU1p0NWgyOUZPUnhPQkJ4bjc2OHE2RXNrNmc?oc=5",
+      "summary": "Meta stock enjoys best month since 2022 on AI momentum cnbc.com",
       "badge": "new",
-      "date": "2026-09-29"
+      "date": "2026-09-30"
     },
     {
       "company": "OpenAI",
@@ -151,6 +175,14 @@
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "badge": "hot",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "badge": "new",
       "date": "2026-09-29"
     },
     {
@@ -163,25 +195,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5",
-      "summary": "GLM-5.3 and the spread of advanced cyber capabilities Anthropic",
-      "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Trump, AI CEOs sign voluntary safety pact, back data center expansion - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
-      "summary": "Trump, AI CEOs sign voluntary safety pact, back data center expansion Reuters",
-      "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nvidia, Anthropic CEOs to Attend Trump Meeting on AI Risks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTRUbGlpNTVLX2hBNXJCN2RhRDE5Z0dIcGpJZ0RfNGFSQ18wYmtFcW5CbnpHODdnOHVkR0VvM0dZQlhsdTlaZkp4Y1llTHJVc2xqZEVwdW8wTjkxQU1sbHdIM2JhT3JxcndzbmtHcmdfbzh3MHlvYUo0ZjdwaUliMXJFN19IVnpZeGJBLXh5Ump1WnhRMDNxYUMtbUxCems?oc=5",
-      "summary": "Nvidia, Anthropic CEOs to Attend Trump Meeting on AI Risks Yahoo Finance",
+      "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5",
+      "summary": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models The New York Times",
       "badge": "new",
       "date": "2026-09-29"
     },
@@ -243,6 +259,14 @@
     },
     {
       "company": "Meta",
+      "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiM2JxUFlyQlA5czluSW5Ea2VhVVA0bW1NTnZkcEExX2RZM3QtRkpzLTNVM2Y2azNJYUpyRkY0a05mRVdtWEVUcFBrN29XSWNhaElMbzFTNUl3WjNCbWtsTW50dUItV0JFTElNRjdkME91bFF5MUpka3hUZnA?oc=5",
+      "summary": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse The New York Times",
+      "badge": "hot",
+      "date": "2026-09-29"
+    },
+    {
+      "company": "Meta",
       "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTklEd2JHM1hoQzdoMkkzZ05JNkVWaExZc2d2UGlCTmlwMG1rSkFJV3hoREE2U1I5U0FDNUtvMTMxV1Q0SGFzaHdfdlhoMHVwLW1uM0xESXppa0czZklYNVQ1RDhRMlpPRlN1cXR2Vjc0U0p4SHNPRGUwZXQxSFBkOE92ZUpOSnBnRkx4cjRTa0UtX2QwWGJJemRWLUpOMjhoYzlXWmtUNDJ1d9IBrwFBVV95cUxQLXlIVmhvLV8zcEdoSGNKb09XRkE5b2lxYTd3aFdfWWluTnU4R0p0dXdiZkFfWlVvV3Z4M1ZmMV93MWtqYXd5dU1MeV8yNVBfZGh4ZEVXemVQdEJ0OWMzNlgzaTdzY3pySERMbU5sVGxyaWpEdzcwU2FPaFBZWmVOY1dSdWRhZ1BmcXFsQkpjaDNiYTJ1Q3hwSm1tUEh1NEN2dUdmeHVyb1l5cGZhYXZr?oc=5",
       "summary": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market cnbc.com",
@@ -255,14 +279,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVlRRWNUaXBYVXAtQlBJakVwaTh4ekQ5cHQ2RWhNQmhsbXgwN2FzN0k1S2dUQTNGMHo2WmJZUGhpWHhlaXpBV0Fxbm42TFJJTzdhQWJkcl82MmdQc1ptMldsbWVoY0dWaWZhTDFUejc3T2dvSlJvRXJBb2lGUU1NM1dQVFdCR3AxX3lHYTFwZURuajIxQ0xyNHhCSHU3XzFISUhxRU5YLTViNTVVbjJZNw?oc=5",
       "summary": "Meta’s Muse AI sent a YouTuber’s address to a stranger The Verge",
       "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "Meta",
-      "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiM2JxUFlyQlA5czluSW5Ea2VhVVA0bW1NTnZkcEExX2RZM3QtRkpzLTNVM2Y2azNJYUpyRkY0a05mRVdtWEVUcFBrN29XSWNhaElMbzFTNUl3WjNCbWtsTW50dUItV0JFTElNRjdkME91bFF5MUpka3hUZnA?oc=5",
-      "summary": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse The New York Times",
-      "badge": "hot",
       "date": "2026-09-29"
     },
     {
@@ -402,14 +418,6 @@
       "date": "2026-09-28"
     },
     {
-      "company": "Meta",
-      "title": "Meta Muse AI reportedly read Mac Messages without consent - AppleInsider",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnZ3bnI4YjlLVlRzVWZvbi1EbUMzMjdZZ0tTbEQyOHhDZ1NZaGY5VGx3WGFVZ2Uwc2lRRDNROVlHMDVRdDJiUmFUTFFMc1FHRHBlZF9fT3k4Z0FQcHZQMlI3RTNpY2I2emlmeFhNSVVWS1V3TmUyeWlObFdDNEFLemxvMnRXajAyeHhRRmJNN1NlYjUtQWdSTHNyWnFPdw?oc=5",
-      "summary": "Meta Muse AI reportedly read Mac Messages without consent AppleInsider",
-      "badge": "new",
-      "date": "2026-09-28"
-    },
-    {
       "company": "Perplexity",
       "title": "I replaced Gemini with Perplexity, and it’s a more reliable assistant for Android - How-To Geek",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFdvVTA5ZURxUXMwVU5sam84dlFfaW5meUJWSmVqU3c3dVVPNDNiaFFuT2NSYjVoem9vOHZqSF9XalVNMXczNXhQc0NEQWNfQmNjangyY3FYc1E3VEFDTWViczNZQzR2ZHBReDY3NU1lSlZVd3FJdk5sNkZneWlQRXJfelBkTGptYWZDZnd2c0twUUVGSUhQR25vcWVaUQ?oc=5",
@@ -426,18 +434,10 @@
       "date": "2026-09-26"
     },
     {
-      "company": "OpenAI",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "badge": "new",
-      "date": "2026-09-25"
-    },
-    {
       "company": "Perplexity",
-      "title": "Perplexity AI sued by startup for allegedly stealing 'wake word' technology - Reuters",
+      "title": "Perplexity AI sued by startup for allegedly stealing 'wake word' technology - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRy1RVlJsY0c5TXRRZGdvTjBvdUN0NTh6RGFicnZnQTJNd1h0ZjEyQzJIWm1CdjlSVXp6eS1fb3BvVnZmS2pUM1o4eUFHN05iZ1hDc1pLZG9IYjlPZjNrRGRVUHRENVhjZlFPSjF0clE5b3NmU0MtTWxfaWxHeHU5UWtEaHJwUEpEZmUzQzdkS3g4SVBraVNKb3N5UV9hQktPQk5QbUY4bTliQ2k2V3JMMDM5VjNVZXgtLXZYNmNveUVCWEU?oc=5",
-      "summary": "Perplexity AI sued by startup for allegedly stealing 'wake word' technology Reuters",
+      "summary": "Perplexity AI sued by startup for allegedly stealing 'wake word' technology reuters.com",
       "badge": "new",
       "date": "2026-09-25"
     },
@@ -475,9 +475,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
+      "title": "Apple is making your security camera smarter. What comes next is more interesting. - theverge.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1BRal9pR1NJWElLTXpEREVyMW9GRkpwNzNyNkMxOElxT1NMZTlxSnRPMmxCSDVBcWp2eWc0dzFWVWhZOW5JR1p0M0R1aTd2SlV0c28zTTF4Nlh1RHM1ZFFabTN6MWRSeTBUVW4yQklhRnh2T0k4U0hlSEI3YjNJUXp1VU8tc2NCZEM0MkdyS3dNekhOYWZxb3JmX0xoYVhtd3cxWDIxd2JaRVg0djFQeGc5dmpYYVhWMGdRQ2F3c0dVa3Y4?oc=5",
-      "summary": "Apple is making your security camera smarter. What comes next is more interesting. The Verge",
+      "summary": "Apple is making your security camera smarter. What comes next is more interesting. theverge.com",
       "badge": "new",
       "date": "2026-09-25"
     },
