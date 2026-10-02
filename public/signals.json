@@ -1,11 +1,43 @@
 {
-  "updated": "2026-10-02T17:17:09Z",
+  "updated": "2026-10-02T21:43:16Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Anthropic",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to invest $100 million to train AI engineer talent - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn?oc=5",
+      "summary": "Anthropic to invest $100 million to train AI engineer talent CNBC",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTlfRWNuNFBkcjRyVVY3bDNtdHZWT2hUekpza3RXVkhpbFc0dThLRmlYclBtQlNDSlFqRlVKalhZeThNNjNQNlR4N1NpbzktUXoyUTh4RFI1YjdIay04cWpxbzdaOGhzWXBxYjVvZ2FBNi1WSGxNN192MFRxX0NBMXdSSmFlVWJIemZqR0ZicGJqLWVTeUZHc1MtbnNHYUY3ak80WURIenVnYjJ6WHp1cEl4Rmw?oc=5",
+      "summary": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal Bloomberg.com",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -99,9 +131,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - upgradedpoints.com",
+      "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - Upgraded Points",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hV2ozamY4ZWM4TUFCTV9BYWlrMHVrSWQwb29hb3NRdHJfdDBqT3NzNWhqWXc3TVF3NmVtSkhNTVBWQzFqN1FmYTFOVzZjUnJLWGlBdmUwY1dDeUI5NEhfcU9HTUd3M3VaTmx5WkQyOXQ?oc=5",
-      "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
+      "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] Upgraded Points",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -131,6 +163,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
+      "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says Reuters",
+      "badge": "new",
+      "date": "2026-10-01"
+    },
+    {
+      "company": "Anthropic",
       "title": "Claude-shaped science - anthropic.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
       "summary": "Claude-shaped science anthropic.com",
@@ -138,42 +178,10 @@
       "date": "2026-10-01"
     },
     {
-      "company": "Anthropic",
-      "title": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUxXaW9wZ3RjVXV6ZUNKRFBJVTdMZXNhU0I3eUNhRnI0alc0MmNMbmR4TlZVb3VKRUdYNmRiMW1jM3lyZUk1elphb1VvWVRXTmpKM3IyMmRfbVdvSjZIb2I2LVZWaVdqQ0taQTBUZzBHZTJyNkZRcnR3NWVoT3JNSHhObkxEdHo2cC1kUmw4Tml6RnRWVkhMVXdqN0R4QQ?oc=5",
-      "summary": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity Fortune",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’ - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVTdsMkZYX05jXy1jNC1KQXphOEF2TTRvQmZTY2dMNUxuank3UUw5M3hQR1ZjVms1WFZKck91RTRfTDdsOThiNnJGaTZEVV90anplTlBtVHZyaXljLTVMMEtLdkJCYVp1ZEljYURmODFLUW5UMzRwbGNrdXUxaFkwWnFadU1ubi0yYVRMREFZSXJSS1NibUxoTzhFV3JBTGdlOUNjSFRfSVNoNUpTc3VodGZiM1lVSjUxQW0tSDAydEJQaTI2MzBsczVIeUVsdTUxd0lYaQ?oc=5",
-      "summary": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’ Fortune",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5",
-      "summary": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5",
-      "summary": "Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
       "company": "Microsoft",
       "title": "Inside Microsoft’s big Copilot rethink - The Verge",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0dKY2FCNlRYRGlCdnNNRDhlcmhmQUx2empqRmxFYnZnTnE5RzdJU3hVN0Z2WVNqdWtOSmtXcDRWQ1czYndQeUFJMUE1S1pvZV9hSXByRWp6TF9YY09kdHBRNjNJcEhiOC11ak5WcVozWUQ0ZXBwekJOXzBpMHJGVw?oc=5",
-      "summary": "Inside Microsoft’s big Copilot rethink The Verge What a Revamped Copilot Means for Microsoft Stock Barchart.com Microsoft Says Copilot Is a New OS. So…What Happened to Windows? PCMag UK",
+      "summary": "Inside Microsoft’s big Copilot rethink The Verge",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -203,9 +211,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD - Cryptonews",
+      "title": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD - cryptonews.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDZIN3Z5X2c0Qk40MVppeV9la0ZwaGRFWXp6Ml9OQUwxQm51bG5JVG9PbWxUWXM0MlNlVjJRQ09vRzBZcWJ6ZHliNFFsZVcwaENBS3BIQWpka3dRb3RIbWoxb19VZldkUDlrSmtNSXJ6MlIzVl9CWFZfN0lkUmg0R05UUXBPNHNfRVZoY3JVTVhVZw?oc=5",
-      "summary": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD Cryptonews",
+      "summary": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD cryptonews.com",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -266,6 +274,14 @@
       "date": "2026-10-01"
     },
     {
+      "company": "Meta",
+      "title": "Meta adds AI assistant to Edits - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3ppTGh1NzA2bW9KMzd3aVhTUXdJeE5kSk9GWEhla2luRG5qdE9UN3lLMUxwT19HOW8wQ0d2YTBIclV5VUxGUWtMS3VtYThJQnZZckRxRDYwbDRBVFJmdzlmcHpKWEpRM0duS3hYVW9ySThOMW8wNWdjTHkxWWJ3WWNzdw?oc=5",
+      "summary": "Meta adds AI assistant to Edits Social Media Today",
+      "badge": "new",
+      "date": "2026-10-01"
+    },
+    {
       "company": "OpenAI",
       "title": "Disrupting a coordinated model-distillation campaign",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -283,17 +299,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnJhYjIzMlJNc2xXYUtkNFlIV1JVRzJmTHJ1X1p4TXZuR2dNTlNrR3p2SmFESGlaWERFMEhEZlUyaENYcWhlcTR4X09zbVF2Q1o5UTJodndSYVZIUFpFRnFweEJmV3NMaFlENWNRcW9WdFIyRkNHazltbThCYU1PdGktcC1MVDRfWnVBUHQ1MVlZZmJSWlpweU1GNWRmLUJzQU84ZzFicVp6QzV1VV9IQjV5VWExZVJnVXhyNQ?oc=5",
-      "summary": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage GeekWire",
+      "title": "What a Revamped Copilot Means for Microsoft Stock - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDFPRDJwVnI5ZWdTSUtKWG9XdDZFcXZPRFNaU3ZabllQR01IVTF4Zk5SRjQycS0zc183eWk0ZVVWcXo4aFYtRnJzQlgzOWs2Y0RuUU40MTBTQ3VLQnJTakd4bjlIRVk5MTg2Z05Na2laT09VN2pXVExyQWp1SzRMaUV6NW1PN2hfMzZPeVoxMVRMSVM0NS1qaA?oc=5",
+      "summary": "What a Revamped Copilot Means for Microsoft Stock Barchart.com",
       "badge": "new",
       "date": "2026-09-30"
     },
     {
       "company": "Microsoft",
-      "title": "What a Revamped Copilot Means for Microsoft Stock - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDFPRDJwVnI5ZWdTSUtKWG9XdDZFcXZPRFNaU3ZabllQR01IVTF4Zk5SRjQycS0zc183eWk0ZVVWcXo4aFYtRnJzQlgzOWs2Y0RuUU40MTBTQ3VLQnJTakd4bjlIRVk5MTg2Z05Na2laT09VN2pXVExyQWp1SzRMaUV6NW1PN2hfMzZPeVoxMVRMSVM0NS1qaA?oc=5",
-      "summary": "What a Revamped Copilot Means for Microsoft Stock Barchart.com Microsoft Stock Slips 1.2% Although Copilot Super-App Expands Paid Workflows Yahoo Finance Microsoft Says Copilot Is a New OS. So…What Ha",
+      "title": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWhOaFJPTG1neFlDeHBhZF9NLW5OX0wxOTh0Y3dGNTJkN2JwRXZGV19IYTU0SEFwZEZTbk1pVFBSZlhhbWlmN0phTlpmejZoWExCUXFVQW9VT2hBOUJYcU5CWXNUVnVXRHNjNjVaZ3BKTlFCc1FfYWs5eVRrM3p2TWVxT0JPd3Fza0U1OE4xS2kzQQ?oc=5",
+      "summary": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? PCMag",
+      "badge": "new",
+      "date": "2026-09-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnJhYjIzMlJNc2xXYUtkNFlIV1JVRzJmTHJ1X1p4TXZuR2dNTlNrR3p2SmFESGlaWERFMEhEZlUyaENYcWhlcTR4X09zbVF2Q1o5UTJodndSYVZIUFpFRnFweEJmV3NMaFlENWNRcW9WdFIyRkNHazltbThCYU1PdGktcC1MVDRfWnVBUHQ1MVlZZmJSWlpweU1GNWRmLUJzQU84ZzFicVp6QzV1VV9IQjV5VWExZVJnVXhyNQ?oc=5",
+      "summary": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage GeekWire",
       "badge": "new",
       "date": "2026-09-30"
     },
@@ -331,17 +355,17 @@
     },
     {
       "company": "Meta",
-      "title": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue just to br - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16MlZHeFMxbjk4NUZaY3VGempaaUlRamFaeGtsSlhPdmF0S0NRal9ZNXh4SUFlbEowZnRtTjROcXVEOGZFLXd5TzlrQWtGNlAyTC1KX0FlNFcyWm5lT050WU03REY1N2w4MGNRS3RNcG1pZ2xCY1hPNQ?oc=5",
-      "summary": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spen",
+      "title": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5",
+      "summary": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report Gizmodo",
       "badge": "new",
       "date": "2026-09-30"
     },
     {
       "company": "Meta",
-      "title": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5",
-      "summary": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report Gizmodo",
+      "title": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue just to br - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16MlZHeFMxbjk4NUZaY3VGempaaUlRamFaeGtsSlhPdmF0S0NRal9ZNXh4SUFlbEowZnRtTjROcXVEOGZFLXd5TzlrQWtGNlAyTC1KX0FlNFcyWm5lT050WU03REY1N2w4MGNRS3RNcG1pZ2xCY1hPNQ?oc=5",
+      "summary": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spen",
       "badge": "new",
       "date": "2026-09-30"
     },
@@ -390,14 +414,6 @@
       "title": "Human Contractors Are Reviewing Copilot Prompts, and a Lot of You Are Creeps - PCMag",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTJFMVJ2UGxuQ2lGOFZsUmtBMHJlX0RxNUV6V05MVUZnbjB3MDlncE93Vmw0WVI4QzZjeEVmTlB3OURSYkdfZGluenp3OXZxUnBHYVJhUU1IQUF2aml3OXcwNnFlamYtb09yR19kQ29YVWxETXdoQ1pqLTU1akZ3bjh1ZmVRRmpFcEZuWUJiT2RpV1p4OGE4emhDUHdIUXlrcGdkcQ?oc=5",
       "summary": "Human Contractors Are Reviewing Copilot Prompts, and a Lot of You Are Creeps PCMag",
-      "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Human contractors review Microsoft Copilot users' photos and prompts - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUExOSnRqQXIyN3FoZVdteTFGV2FwdTEwV2JNWTRTUVh2VDFDMlN6YWg5TkxmYU5fbUR2YlhHM1lHbFRkTjJFaDdSdndTMmVoTzBVamU0ZW1XLVRnWmJEYk90US1JRk5XaU10OHRHTGxaeFRjUVZIRncyV285RTdKWHdnd0h1LTNHTDdJLTI4TQ?oc=5",
-      "summary": "Human contractors review Microsoft Copilot users' photos and prompts The Next Web",
       "badge": "new",
       "date": "2026-09-29"
     },
@@ -456,22 +472,6 @@
       "summary": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent Yahoo Finance",
       "badge": "new",
       "date": "2026-09-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTklEd2JHM1hoQzdoMkkzZ05JNkVWaExZc2d2UGlCTmlwMG1rSkFJV3hoREE2U1I5U0FDNUtvMTMxV1Q0SGFzaHdfdlhoMHVwLW1uM0xESXppa0czZklYNVQ1RDhRMlpPRlN1cXR2Vjc0U0p4SHNPRGUwZXQxSFBkOE92ZUpOSnBnRkx4cjRTa0UtX2QwWGJJemRWLUpOMjhoYzlXWmtUNDJ1d9IBrwFBVV95cUxQLXlIVmhvLV8zcEdoSGNKb09XRkE5b2lxYTd3aFdfWWluTnU4R0p0dXdiZkFfWlVvV3Z4M1ZmMV93MWtqYXd5dU1MeV8yNVBfZGh4ZEVXemVQdEJ0OWMzNlgzaTdzY3pySERMbU5sVGxyaWpEdzcwU2FPaFBZWmVOY1dSdWRhZ1BmcXFsQkpjaDNiYTJ1Q3hwSm1tUEh1NEN2dUdmeHVyb1l5cGZhYXZr?oc=5",
-      "summary": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market cnbc.com",
-      "badge": "hot",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "badge": "new",
-      "date": "2026-09-28"
     },
     {
       "company": "Google",
