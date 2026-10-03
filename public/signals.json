@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-02T21:43:16Z",
+  "updated": "2026-10-03T03:25:34Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
+      "badge": "new",
+      "date": "2026-10-03"
+    },
+    {
+      "company": "Apple",
+      "title": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
+      "badge": "new",
+      "date": "2026-10-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
+      "badge": "hot",
+      "date": "2026-10-03"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-10-03"
+    },
     {
       "company": "OpenAI",
       "title": "A model guide for the GPT-6 family",
@@ -22,6 +62,22 @@
       "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
       "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Anthropic",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO prospectus warns U.S. government actions could hurt business - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUt2Z0ZwVjFXOWhINmJmN25fS2dLckZBdGZBTFM3SVhxeVAyMkRYOEx6MnBkSVlKYmZEU0NBTmVqMFpkbkpNWm5DdWlZLXhKTHVpWm5mQWxJc2NZcWZ1aXVOWC03bFhLZWdMZTBidjlxWDdxYjVMUVpnZHVSQzlWMG5BVXo2LUJsdlJxUldnN01SRUpxMXhRcnM2NWs?oc=5",
+      "summary": "Anthropic IPO prospectus warns U.S. government actions could hurt business Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies - Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ER1hsWjc2bWtQbGZ6OEFUQ0JoVU16UFhTTU1JRnJfaUpOS0FacjlFbzMtOUhYR0RWdTF3TUdJUzVoOGN5dlRvQV93VGJ1TUcwSWd6NzN3MFNvTUlqeGR5Yl9UTVljMVJEeFJ5ZW9tSlR3U29BS3ViZnVQbTNTWUE?oc=5",
+      "summary": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies Axios",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -90,50 +146,26 @@
       "date": "2026-10-02"
     },
     {
-      "company": "Apple",
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Apple",
-      "title": "New updates coming to Apple Creator Studio",
-      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
       "company": "Perplexity",
-      "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - Upgraded Points",
+      "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - upgradedpoints.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hV2ozamY4ZWM4TUFCTV9BYWlrMHVrSWQwb29hb3NRdHJfdDBqT3NzNWhqWXc3TVF3NmVtSkhNTVBWQzFqN1FmYTFOVzZjUnJLWGlBdmUwY1dDeUI5NEhfcU9HTUd3M3VaTmx5WkQyOXQ?oc=5",
-      "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] Upgraded Points",
+      "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Meta",
+      "title": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5",
+      "summary": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves Business Insider",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Meta",
+      "title": "How Meta stumbled onto a winning AI strategy - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmsxX1BuZEY1RGRrTDhkMjFSRFZsRjlkbTFqVDdHRlowdFFFYlpVRC16WGNEZEZCRmV4Z05wWF9zcnh0UEtna2t1R2dMcG5YSzR5b3daRC0zMzNGMFlsX1VfUUJMQ1p2dGpYTlpTa2dtM0lDUjNRZkljZlBhd2paU2Y2NXRMSXhhRm9ELUstdkdtVFVHNTd3LXN2OA?oc=5",
+      "summary": "How Meta stumbled onto a winning AI strategy Computerworld",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -158,22 +190,6 @@
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "url": "https://openai.com/index/the-den-family-social",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
-      "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says Reuters",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude-shaped science - anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
-      "summary": "Claude-shaped science anthropic.com",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -211,9 +227,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD - cryptonews.com",
+      "title": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD - Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDZIN3Z5X2c0Qk40MVppeV9la0ZwaGRFWXp6Ml9OQUwxQm51bG5JVG9PbWxUWXM0MlNlVjJRQ09vRzBZcWJ6ZHliNFFsZVcwaENBS3BIQWpka3dRb3RIbWoxb19VZldkUDlrSmtNSXJ6MlIzVl9CWFZfN0lkUmg0R05UUXBPNHNfRVZoY3JVTVhVZw?oc=5",
-      "summary": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD cryptonews.com",
+      "summary": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD Cryptonews",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -259,17 +275,17 @@
     },
     {
       "company": "Meta",
-      "title": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying - BBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5",
-      "summary": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying BBC",
+      "title": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human - CBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5",
+      "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human CBC",
       "badge": "new",
       "date": "2026-10-01"
     },
     {
       "company": "Meta",
-      "title": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human - CBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5",
-      "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human CBC",
+      "title": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying - BBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5",
+      "summary": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying BBC",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -299,17 +315,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "What a Revamped Copilot Means for Microsoft Stock - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDFPRDJwVnI5ZWdTSUtKWG9XdDZFcXZPRFNaU3ZabllQR01IVTF4Zk5SRjQycS0zc183eWk0ZVVWcXo4aFYtRnJzQlgzOWs2Y0RuUU40MTBTQ3VLQnJTakd4bjlIRVk5MTg2Z05Na2laT09VN2pXVExyQWp1SzRMaUV6NW1PN2hfMzZPeVoxMVRMSVM0NS1qaA?oc=5",
-      "summary": "What a Revamped Copilot Means for Microsoft Stock Barchart.com",
+      "title": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWhOaFJPTG1neFlDeHBhZF9NLW5OX0wxOTh0Y3dGNTJkN2JwRXZGV19IYTU0SEFwZEZTbk1pVFBSZlhhbWlmN0phTlpmejZoWExCUXFVQW9VT2hBOUJYcU5CWXNUVnVXRHNjNjVaZ3BKTlFCc1FfYWs5eVRrM3p2TWVxT0JPd3Fza0U1OE4xS2kzQQ?oc=5",
+      "summary": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? PCMag",
       "badge": "new",
       "date": "2026-09-30"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWhOaFJPTG1neFlDeHBhZF9NLW5OX0wxOTh0Y3dGNTJkN2JwRXZGV19IYTU0SEFwZEZTbk1pVFBSZlhhbWlmN0phTlpmejZoWExCUXFVQW9VT2hBOUJYcU5CWXNUVnVXRHNjNjVaZ3BKTlFCc1FfYWs5eVRrM3p2TWVxT0JPd3Fza0U1OE4xS2kzQQ?oc=5",
-      "summary": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? PCMag",
+      "title": "What a Revamped Copilot Means for Microsoft Stock - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDFPRDJwVnI5ZWdTSUtKWG9XdDZFcXZPRFNaU3ZabllQR01IVTF4Zk5SRjQycS0zc183eWk0ZVVWcXo4aFYtRnJzQlgzOWs2Y0RuUU40MTBTQ3VLQnJTakd4bjlIRVk5MTg2Z05Na2laT09VN2pXVExyQWp1SzRMaUV6NW1PN2hfMzZPeVoxMVRMSVM0NS1qaA?oc=5",
+      "summary": "What a Revamped Copilot Means for Microsoft Stock Barchart.com",
       "badge": "new",
       "date": "2026-09-30"
     },
@@ -451,25 +467,9 @@
     },
     {
       "company": "Meta",
-      "title": "A New A.I. Agent Enters the Marketplace: OpenAI’s Dots - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiM2JxUFlyQlA5czluSW5Ea2VhVVA0bW1NTnZkcEExX2RZM3QtRkpzLTNVM2Y2azNJYUpyRkY0a05mRVdtWEVUcFBrN29XSWNhaElMbzFTNUl3WjNCbWtsTW50dUItV0JFTElNRjdkME91bFF5MUpka3hUZnA?oc=5",
-      "summary": "A New A.I. Agent Enters the Marketplace: OpenAI’s Dots The New York Times",
-      "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "Meta",
       "title": "Meta’s AI agent Muse is stirring growing privacy fears. What to know - Global News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxTHgxTEJHTFZyYTdEQ1FTRGFsYUxNczdUaE0wMjNEQ3dWU0QtREVuZWxlWng3aXpNZ2ZWRjlKY29jWFgxckkwRG9VQnJILVhvZWpIVlpHRlVWUGVWNF9yb3pWOGxfVHdiWHlGT3BaNXIzZw?oc=5",
       "summary": "Meta’s AI agent Muse is stirring growing privacy fears. What to know Global News",
-      "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "Meta",
-      "title": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3U4WmgtZ1JKNnRYTlJZUVdnNW5lWU5lTGF0UkhHSnJBOHFmSG9YeGx6ZWxqOVAxOUlHcXJWY0d0N1hKQ1JBVTlUeGp1NVFzODl5OHNxUFZtUTRDaU5DOS1MOUk4NDFLNlpxR1NhZV8yLV9Ic2J5N2FNR3NjeWxtazJYRkdVQXZVY3JPbTMxMlJlUWJsTzc0emE5Sk13Q0FRYVJtUUllWHRyU0Z4emNJMndoajhURW1NXzg0Z3MyZVNubFpYNmE0aA?oc=5",
-      "summary": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent Yahoo Finance",
       "badge": "new",
       "date": "2026-09-29"
     },
