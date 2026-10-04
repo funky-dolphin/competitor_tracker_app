@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-04T16:19:10Z",
+  "updated": "2026-10-04T20:46:44Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "AI’s Real Gift to Science - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
+      "summary": "AI’s Real Gift to Science The Atlantic",
+      "badge": "new",
+      "date": "2026-10-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Ex-Anthropic Researcher Coxon to Testify at NYC Hearing on AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVVRR3BBcHZWM2JKOWdfSXZZMzdLQ053am4ta2xzSzFULWdoZHlhbnlFNGNMRFhoUGRvX1lCeXprSjRPWVczTkNGVlViN2VwRHoyZHV1cFdlRHpNS0ZUV2FseUNZbS1Xei1wbkJwcjVaY09QWm9GRUV4dExBb1lOZUIzYzhCZFB1Z0lpc2pvSlhCcnJXa2hJNTVYeDkwSnpWeFRLV25qNDhIOHB6ZW9wSVBxOVhsRWtK?oc=5",
+      "summary": "Ex-Anthropic Researcher Coxon to Testify at NYC Hearing on AI Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Daniela Amodei says entrepreneurs should go on vacation to test potential cofounders - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmQySFJZMlVYdFJoNXhEVHQyZVhtVElZR1doTVF3XzNfSnE3OU45N2RPdlFzVmpNdlZMVFAxQjA5aWM3SGFkWVFKNEh2My1sbUx1dXlvcTM2Y0U5elNGazVkSTAyektVU0d2UndOSk0ydXFobVREQ0dzTkp4UXBJZkVTclFNRXVhVDM2Z0p1NDlqaGU2ZUhWYWdsLTZ5QkNLX3pkSjRiU3R1SmpBcFZBVVFKalZsM0poUGdacg?oc=5",
+      "summary": "Anthropic’s Daniela Amodei says entrepreneurs should go on vacation to test potential cofounders Fortune",
+      "badge": "new",
+      "date": "2026-10-04"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk0xajhTbjhSN0lDUmNNZmtlVjctbW5PbzFFSHdaLW5JQzdqWkF0WTdyeExSVWhJSVpHa0NYYlU4Q2N0Ym5Bd1hvY1FhRjgtNkE1UEJVMzRzTF9NdHptUVV3WFEtNnBETTVwb1dqX1ZSOWZ5YkhDTlhQR01yRHVna0hkU0hST3loTHRHa09tZzg4ZUZETjd2OA?oc=5",
+      "summary": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? The Motley Fool",
+      "badge": "new",
+      "date": "2026-10-04"
+    },
     {
       "company": "Apple",
       "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
@@ -43,11 +75,19 @@
     },
     {
       "company": "Meta",
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - wsj.com",
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
-      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App wsj.com",
+      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App WSJ",
       "badge": "new",
       "date": "2026-10-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJIM1RfS0l6SDBQY29CRUNuNWNVaE9JTEdDdXVueWc4dXo3eUZ4UzA0QVdpcWFydFB1U1BRYVd0V1gxQWhZZU1LTERTMmt3a3FzTm1QbWFTYWY3R0lNc0VLbFFRMnNMU2FKWVloclBLQWR4bDZmRS1GeTE0S2w4a1dvaklkWXhkeVlOUzRfc1cyTFZTVVlMQnhXZTkteUp2M25KSUI0UG54a2tvQkxXT3hkc1ptdXNrcmF30gHAAUFVX3lxTE4wcmtnRFY5cF9KMnFwLTdacndfMi1tVTFyYXotTHdsOGxoYnRpX0NwWnQ4dlRlcjRJd2RMOEtIWTNLRWplcHNLZHU2QUlWQWc0cWhwUkVOUUFYRWxwT3BwTGQ2TW5xTWFvaGtuS01yS0tEQzFjNDVtVkJVd2JyOGRPU1Q2bUhRLVFXcVlrM21nc2xXTjgxSDI2dkFsa19GUEJwYXVYR19uV09qemtxZVktMlk4MjVsMVloRlE1SFVseg?oc=5",
+      "summary": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check Fox News",
+      "badge": "new",
+      "date": "2026-10-03"
     },
     {
       "company": "Anthropic",
@@ -70,14 +110,6 @@
       "title": "Video | Why Anthropic Invited A Hindu Monk To Discuss AI Ethics - NDTV",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGRNMUExb0FiUVQxWTB0YjBLS0FTMGItSlgxTHVNZ19XR3NHS1UtZ0xZN3VvUGVsMTVJSTZXRXUzaW5PRWNXYUYxV3k5NTY5UDlEUTJoSXJQUVAwZDEtUmplMURxWWJBVGVWeGRubVhWVUd5bGZ0S3FJRTQ5bFZKTWVhaTR4N3dpRlVmQ2hjbC1PQ185?oc=5",
       "summary": "Video | Why Anthropic Invited A Hindu Monk To Discuss AI Ethics NDTV OpenAI's Altman: Ascribing religion to models a \"safety issue\" Axios Sam Altman: Don't Treat AI Like a 'Religious Force' Business I",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJIM1RfS0l6SDBQY29CRUNuNWNVaE9JTEdDdXVueWc4dXo3eUZ4UzA0QVdpcWFydFB1U1BRYVd0V1gxQWhZZU1LTERTMmt3a3FzTm1QbWFTYWY3R0lNc0VLbFFRMnNMU2FKWVloclBLQWR4bDZmRS1GeTE0S2w4a1dvaklkWXhkeVlOUzRfc1cyTFZTVVlMQnhXZTkteUp2M25KSUI0UG54a2tvQkxXT3hkc1ptdXNrcmF30gHAAUFVX3lxTE4wcmtnRFY5cF9KMnFwLTdacndfMi1tVTFyYXotTHdsOGxoYnRpX0NwWnQ4dlRlcjRJd2RMOEtIWTNLRWplcHNLZHU2QUlWQWc0cWhwUkVOUUFYRWxwT3BwTGQ2TW5xTWFvaGtuS01yS0tEQzFjNDVtVkJVd2JyOGRPU1Q2bUhRLVFXcVlrM21nc2xXTjgxSDI2dkFsa19GUEJwYXVYR19uV09qemtxZVktMlk4MjVsMVloRlE1SFVseg?oc=5",
-      "summary": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check Fox News",
       "badge": "new",
       "date": "2026-10-03"
     },
@@ -154,30 +186,6 @@
       "date": "2026-10-02"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic funds $100M academy to train deployed AI engineers - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXV6ZlR2N2dURDl4ZVlZOGp2bV9PVlcwd0lUTTJNYzhKTjBrcjZpQW9xQ3VfemJVN2V4RkFWN0NLX292b3E5UjBpQ0tEX3RhNzdNejd4bXV0bmpUaDRfZ2owWFN5dENhY2lkRnZIZHZ6dHVqQ2ExYkpHVFhrX1ZMTm9OR212ckVTb214cVpvT01ycHh2U09yaEZyaUpnMGpFdjMxSVE5ZjVXUQ?oc=5",
-      "summary": "Anthropic funds $100M academy to train deployed AI engineers Business Insider",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier? - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0EwdFVqRF81X3lORF9KSk9IWTYwSzJxclg4U1BMZmg1NkpzM1NyajBQWUV0ZWk0NXo5Y19SUl9wYWNycFJGYWs3bjA2d05lcmdMMU1yOVktbEQ1WDljNW4yRS1OS3RmdDczTzFPcTZDcHdWcjRFNndiNFR5UWNZZHE1b1QxRXVLenlRdU1ZcW8yRnPSAZgBQVVfeXFMTm12SHI4M2FuUlNia1hWdmZhc0pjMzhfajROeGEwU0V1RkZ3NWhPYURHQWg2YlFUUVVadkFVaDRYSzZFb1BtbnhBVjYtZS1FLVc2c2dRaVRkazRhbDFnV2FQSmZkLVhWQTVvWURobzNUNlhFZVB3VVNTOHJla3htM2JvR1ZJMnV2RVc0N2ZlX1R5aGNFTlVnU28?oc=5",
-      "summary": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier? CNBC",
-      "badge": "hot",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nvidia's Jensen Huang, Other CEOs Privately Confront Anthropic's Dario Amodei Over AI Doomsday Warnings Amid Trump's Tech Summit: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVm1HckNWcGppajhJRHZBMjRwTk8yRVB1QnZnUm1XTXZpUW9TWDNRWWJWcTYzWElTWjIybWNzWWlseWZoekQxSVl4QlRxcE1zTWpSdEs2aldnTnMySVBHMGJyal8yRjVxSjM1bVR1cF9fQWpoTnRpT09uTUJZa29sMDQ5NTR3a1EtVktqdmhocHBuWUp5S09QaUxSQQ?oc=5",
-      "summary": "Nvidia's Jensen Huang, Other CEOs Privately Confront Anthropic's Dario Amodei Over AI Doomsday Warnings Amid Trump's Tech Summit: Report Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
@@ -190,6 +198,14 @@
       "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - upgradedpoints.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hV2ozamY4ZWM4TUFCTV9BYWlrMHVrSWQwb29hb3NRdHJfdDBqT3NzNWhqWXc3TVF3NmVtSkhNTVBWQzFqN1FmYTFOVzZjUnJLWGlBdmUwY1dDeUI5NEhfcU9HTUd3M3VaTmx5WkQyOXQ?oc=5",
       "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta parts ways with Virtue AI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEtuWmswRGZpdmtDWWx0UEw3Vlo2XzFqNlhuWDduYlNSMXFQS25valJDTUYzU0sxbFZqZGZWSUZHUEhnN2M3STZubUVVWTJMSzBtZ2M5enZIcHlKRGtDLTllVHNqSGdEY1BERXYwbEZUcUxjVl9UMUpURXlPUHpuOXFwTVFROFhfSXMzanBITVZqNE0?oc=5",
+      "summary": "Meta parts ways with Virtue AI Yahoo Finance",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -283,9 +299,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD - Cryptonews",
+      "title": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD - cryptonews.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDZIN3Z5X2c0Qk40MVppeV9la0ZwaGRFWXp6Ml9OQUwxQm51bG5JVG9PbWxUWXM0MlNlVjJRQ09vRzBZcWJ6ZHliNFFsZVcwaENBS3BIQWpka3dRb3RIbWoxb19VZldkUDlrSmtNSXJ6MlIzVl9CWFZfN0lkUmg0R05UUXBPNHNfRVZoY3JVTVhVZw?oc=5",
-      "summary": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD Cryptonews",
+      "summary": "Perplexity AI Predicts a Bullish Finish to 2026 for XRP USD cryptonews.com",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -323,17 +339,17 @@
     },
     {
       "company": "Meta",
-      "title": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human - CBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5",
-      "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human CBC",
+      "title": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying - BBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5",
+      "summary": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying BBC",
       "badge": "new",
       "date": "2026-10-01"
     },
     {
       "company": "Meta",
-      "title": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying - BBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5",
-      "summary": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying BBC",
+      "title": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human - CBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5",
+      "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human CBC",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -363,9 +379,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Here are all the new features added to Microsoft 365 Copilot in September 2026 - Neowin",
+      "title": "Here are all the new features added to Microsoft 365 Copilot in September 2026 - neowin.net",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFNlNTNRWE54aFJ5TENOY3Y1MkktN0xidG5iZmxjNmFPMlJERDdTYVI2bFdJZHFobUFJRTQwOG1mVk0yUnd3WEIySmU3bktsRHhGb3BmbXh5TDVkeDlBSjctcDFhY25mbkZyejdUZFpGdXJ6czFVV3RxcFpKazQ3WWhnekpvdGxOX3I1YUdnRkY0Tk9wX1Y1dkV1Q1o0NkZNanI5eHFQTkh1Nms?oc=5",
-      "summary": "Here are all the new features added to Microsoft 365 Copilot in September 2026 Neowin",
+      "summary": "Here are all the new features added to Microsoft 365 Copilot in September 2026 neowin.net",
       "badge": "new",
       "date": "2026-09-30"
     },
@@ -382,14 +398,6 @@
       "title": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? - PCMag",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWhOaFJPTG1neFlDeHBhZF9NLW5OX0wxOTh0Y3dGNTJkN2JwRXZGV19IYTU0SEFwZEZTbk1pVFBSZlhhbWlmN0phTlpmejZoWExCUXFVQW9VT2hBOUJYcU5CWXNUVnVXRHNjNjVaZ3BKTlFCc1FfYWs5eVRrM3p2TWVxT0JPd3Fza0U1OE4xS2kzQQ?oc=5",
       "summary": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? PCMag",
-      "badge": "new",
-      "date": "2026-09-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnJhYjIzMlJNc2xXYUtkNFlIV1JVRzJmTHJ1X1p4TXZuR2dNTlNrR3p2SmFESGlaWERFMEhEZlUyaENYcWhlcTR4X09zbVF2Q1o5UTJodndSYVZIUFpFRnFweEJmV3NMaFlENWNRcW9WdFIyRkNHazltbThCYU1PdGktcC1MVDRfWnVBUHQ1MVlZZmJSWlpweU1GNWRmLUJzQU84ZzFicVp6QzV1VV9IQjV5VWExZVJnVXhyNQ?oc=5",
-      "summary": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage GeekWire",
       "badge": "new",
       "date": "2026-09-30"
     },
@@ -414,14 +422,6 @@
       "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5",
       "summary": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes The New York Times",
-      "badge": "new",
-      "date": "2026-09-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5",
-      "summary": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report Gizmodo",
       "badge": "new",
       "date": "2026-09-30"
     },
