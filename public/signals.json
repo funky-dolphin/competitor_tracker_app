@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T11:40:33Z",
+  "updated": "2026-10-04T16:19:10Z",
   "signals": [
     {
       "company": "Apple",
@@ -40,6 +40,30 @@
       "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
       "badge": "new",
       "date": "2026-10-04"
+    },
+    {
+      "company": "Meta",
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App wsj.com",
+      "badge": "new",
+      "date": "2026-10-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG96X2d2YlZHeXRKVFZMamFsVklneUVYNzBnV3RJdWFndV9ONkdheE9IZktfQXU0dnF1b1BLY0VDb3c3TDk1RmUwaS1DcFJtYWNhVWZ2MTNHS21JbkE0SHVoV2lxMm1RWjNwSmJYZ0tOX054UE1mUTVCWFAxRGhJbDBfcHVWZ1ZHNXpRLW1pbw?oc=5",
+      "summary": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" Axios",
+      "badge": "new",
+      "date": "2026-10-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Sam Altman: Don't Treat AI Like a 'Religious Force' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDNqM2d2WnBUNWcxb1Fwd0RQUnJ2SDZIdFFaUE12YlFiNkNIWUl6U2taNjc0SEcxY2x4amVJN3pHUVMyUDFuR3R6RjJmcms1WVc0N3RGSS1WZWN2dnNfWGZFUzdNekNuVms2OW1KOHFCbE9yQ0dkX2o0NEIzblFTUDBMQWVyLXY3Nkc4MUNBOGY?oc=5",
+      "summary": "Sam Altman: Don't Treat AI Like a 'Religious Force' Business Insider",
+      "badge": "new",
+      "date": "2026-10-03"
     },
     {
       "company": "Anthropic",
@@ -115,6 +139,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "AI and the monk: Anthropic goes for swami and friends to tame Claude - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXZSQTRtdnplY1RxeUZCZGoxZF9BZURNRXFoaTV5Y2FnZVZ6Y0dVTFlHR2RNeWVKR3BJdEVLTllqSVZZdUVZLW83NGZLd0h4N1VwRWx0OWlfa1BMeDNpR1dnbElwRUN4akQ3UFVTVU16RktsblZnOUR3RzIxYjlIZnRNQTdCNU9BUXozMWZaQ0cyTG8teG5nXzIxMWU1eXVpMWtIdnMxUXdnSjlRUEJqRmptWjhpeG5nV2U3VE11NktHNUJLdlBZTjU2QVFTT3NpVmRRRtIB2gFBVV95cUxQQlJsa1Z1UGlqbDZILXl3ZEtxWUVDNlN0MU80SjFHZHphUmJlRl9uUG1wOHRfWnJ2YVN4TWtzZ3d4V0FuM2RPY210RjhJeFZRTXVjVWZHSTVvRmN3Zi1QZ3hVbzRoUlliVGVLNHVnck1Xd0F4cTNlWmhpUGtCaXVrMEJCMmxnWlZnZFQxWXo3Z0UzdlRVMTdMcHRieUF2MmhPUXpYaExjVkRaRU9YZnY2UlczNlI5QzBOUGJUSV9kc0dlN2dfZTFqNTVGWTh2TVNtdlZLbTdQMldRUQ?oc=5",
+      "summary": "AI and the monk: Anthropic goes for swami and friends to tame Claude The Times of India",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic to invest $100 million to train AI engineer talent - CNBC",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn?oc=5",
       "summary": "Anthropic to invest $100 million to train AI engineer talent CNBC",
@@ -146,30 +178,6 @@
       "date": "2026-10-02"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic IPO prospectus warns U.S. government actions could hurt business - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUt2Z0ZwVjFXOWhINmJmN25fS2dLckZBdGZBTFM3SVhxeVAyMkRYOEx6MnBkSVlKYmZEU0NBTmVqMFpkbkpNWm5DdWlZLXhKTHVpWm5mQWxJc2NZcWZ1aXVOWC03bFhLZWdMZTBidjlxWDdxYjVMUVpnZHVSQzlWMG5BVXo2LUJsdlJxUldnN01SRUpxMXhRcnM2NWs?oc=5",
-      "summary": "Anthropic IPO prospectus warns U.S. government actions could hurt business Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ER1hsWjc2bWtQbGZ6OEFUQ0JoVU16UFhTTU1JRnJfaUpOS0FacjlFbzMtOUhYR0RWdTF3TUdJUzVoOGN5dlRvQV93VGJ1TUcwSWd6NzN3MFNvTUlqeGR5Yl9UTVljMVJEeFJ5ZW9tSlR3U29BS3ViZnVQbTNTWUE?oc=5",
-      "summary": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies Axios",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTlfRWNuNFBkcjRyVVY3bDNtdHZWT2hUekpza3RXVkhpbFc0dThLRmlYclBtQlNDSlFqRlVKalhZeThNNjNQNlR4N1NpbzktUXoyUTh4RFI1YjdIay04cWpxbzdaOGhzWXBxYjVvZ2FBNi1WSGxNN192MFRxX0NBMXdSSmFlVWJIemZqR0ZicGJqLWVTeUZHc1MtbnNHYUY3ak80WURIenVnYjJ6WHp1cEl4Rmw?oc=5",
-      "summary": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
@@ -182,14 +190,6 @@
       "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - upgradedpoints.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hV2ozamY4ZWM4TUFCTV9BYWlrMHVrSWQwb29hb3NRdHJfdDBqT3NzNWhqWXc3TVF3NmVtSkhNTVBWQzFqN1FmYTFOVzZjUnJLWGlBdmUwY1dDeUI5NEhfcU9HTUd3M3VaTmx5WkQyOXQ?oc=5",
       "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Meta",
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
-      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App WSJ",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -251,6 +251,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGtwRjFqYUNSQVR5M1N4TEZmYVVhMUZ4cWRqbENtSWF0S3ZiZkJOb1NXREc5elFIc0t2Ynhtczg2OVJvNE1CV0JRcGh6b2huakNrSk9VRHR6blFtQy1QMUJHVmNWZlF3SjdwdkRRZ0NSc21ZM2NjTk4wS2cxX2dVV1dFWVZQWkU?oc=5",
+      "summary": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won How-To Geek",
+      "badge": "new",
+      "date": "2026-10-01"
+    },
+    {
+      "company": "Microsoft",
       "title": "How Has Microsoft’s Story Changed In A Year? - Trefis",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0E5Z2NyTlNidFVmXzlEaWF3bmN4Q25CTVJydWJSLXlEN0tSRVFpd1F1akh4Sk9ySzJLRG10aWFaUW1qaGE3TzVYaWVzNmFuN195OUVWTUtUYjB6cGhOb0dUNzZ5Um5uYVVlc1pqczRSWGx2QjlhVWVLa2dhdkpVWmpRTktOeng4elF2SHNvYTRMLUxUZjZ6ZzlvY0J5U0oyZHVITmF3?oc=5",
       "summary": "How Has Microsoft’s Story Changed In A Year? Trefis",
@@ -262,14 +270,6 @@
       "title": "Microsoft keeps adding AI to Windows 11, and most users can't fully disable it - Neowin",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVlHMVVWcjVtcTJ6a0UxbklaYmlteE80bXRybkxSQkJUeEJubW9QaUJMYlI1MHhBT2M4dHktNUhXUkprVDk4QnF6Qk03dHJIaHBRZ0ZjUDl0UEtTeGY2LWN4SUpiTEVzeXhCZ1piR3ZGaU5xTEhNZnd5MzhhOGQwUUE4bjBUWTZFNk5wVHo1Nk91REZGVjNoS1VuM2QtU3hvWnNKRTNHZjhwM3BQ?oc=5",
       "summary": "Microsoft keeps adding AI to Windows 11, and most users can't fully disable it Neowin",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGtwRjFqYUNSQVR5M1N4TEZmYVVhMUZ4cWRqbENtSWF0S3ZiZkJOb1NXREc5elFIc0t2Ynhtczg2OVJvNE1CV0JRcGh6b2huakNrSk9VRHR6blFtQy1QMUJHVmNWZlF3SjdwdkRRZ0NSc21ZM2NjTk4wS2cxX2dVV1dFWVZQWkU?oc=5",
-      "summary": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won How-To Geek",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -363,6 +363,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Here are all the new features added to Microsoft 365 Copilot in September 2026 - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFNlNTNRWE54aFJ5TENOY3Y1MkktN0xidG5iZmxjNmFPMlJERDdTYVI2bFdJZHFobUFJRTQwOG1mVk0yUnd3WEIySmU3bktsRHhGb3BmbXh5TDVkeDlBSjctcDFhY25mbkZyejdUZFpGdXJ6czFVV3RxcFpKazQ3WWhnekpvdGxOX3I1YUdnRkY0Tk9wX1Y1dkV1Q1o0NkZNanI5eHFQTkh1Nms?oc=5",
+      "summary": "Here are all the new features added to Microsoft 365 Copilot in September 2026 Neowin",
+      "badge": "new",
+      "date": "2026-09-30"
+    },
+    {
+      "company": "Microsoft",
       "title": "What a Revamped Copilot Means for Microsoft Stock - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDFPRDJwVnI5ZWdTSUtKWG9XdDZFcXZPRFNaU3ZabllQR01IVTF4Zk5SRjQycS0zc183eWk0ZVVWcXo4aFYtRnJzQlgzOWs2Y0RuUU40MTBTQ3VLQnJTakd4bjlIRVk5MTg2Z05Na2laT09VN2pXVExyQWp1SzRMaUV6NW1PN2hfMzZPeVoxMVRMSVM0NS1qaA?oc=5",
       "summary": "What a Revamped Copilot Means for Microsoft Stock Barchart.com",
@@ -382,14 +390,6 @@
       "title": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnJhYjIzMlJNc2xXYUtkNFlIV1JVRzJmTHJ1X1p4TXZuR2dNTlNrR3p2SmFESGlaWERFMEhEZlUyaENYcWhlcTR4X09zbVF2Q1o5UTJodndSYVZIUFpFRnFweEJmV3NMaFlENWNRcW9WdFIyRkNHazltbThCYU1PdGktcC1MVDRfWnVBUHQ1MVlZZmJSWlpweU1GNWRmLUJzQU84ZzFicVp6QzV1VV9IQjV5VWExZVJnVXhyNQ?oc=5",
       "summary": "'Agents are very harsh customers': Microsoft exec warns many apps will lose pricing leverage GeekWire",
-      "badge": "new",
-      "date": "2026-09-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft in focus as Piper Sandler sees uplift in Copilot, M365 (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2FCVFU3ZGNIcVl5dGhPeGk3cTAzVVAyUjVaZTVUVHNlQ0RoMzNTTzNiNG5iU0dVYlhGTnQ1NkxYcW00RExKVHd3X1huelZjTlZLdWdHMEpWYnZ5Q3pCcjdNdUc1cUtrT09pOFI0bTNxckNqVUxEMUkteXRaUEJJRlNYVFZOOTlycDU2Sk5yU09JMmNTOHhncVJQQ1RsVXpZQkxj?oc=5",
-      "summary": "Microsoft in focus as Piper Sandler sees uplift in Copilot, M365 (MSFT:NASDAQ) Seeking Alpha",
       "badge": "new",
       "date": "2026-09-30"
     },
