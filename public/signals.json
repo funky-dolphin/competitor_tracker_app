@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-05T03:37:56Z",
+  "updated": "2026-10-05T13:22:05Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "badge": "watch",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic expected to IPO despite market uncertainty, AI slowdown calls - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BdEczbUY5VGdZTlMtYm9HeVFjZWlfZzZrYTd3ZE1ydl9hNDA2bFRDR0FQV3lfTzRoQ3lxQlRRM0dJY1E5NENuVVFzT3c2ZU9iZktHLWdZbnJ3bmdNREJpd01Ua0Z3Vl8xVFJPS2JrM3UxYTI5?oc=5",
+      "summary": "Anthropic expected to IPO despite market uncertainty, AI slowdown calls CNN",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic, Google, Meta testify at NYC AI hearing - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDdlNFRDVPMWE3TS1iLVdKZlo2NUlSR3YyQXpGRmVaQzJ6bTlWZlFOMHRIMHhKcUFSbGpSSjNFWjQwRWFFMHNBX0VmVHlQYXl1LXlJQTROYU9WTTg1ODg5R0U1NUtKdGNYTFNaNTNqUk9zXzJxVzB3LUNYcU1QUQ?oc=5",
+      "summary": "OpenAI, Anthropic, Google, Meta testify at NYC AI hearing qz.com",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
     {
       "company": "Apple",
       "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
@@ -42,10 +66,42 @@
       "date": "2026-10-05"
     },
     {
+      "company": "Perplexity",
+      "title": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time - techradar.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0p5VGxVWlFFSmNfS2IweWw1LVhlcTZHbnh6dEFmOUExUkhDWENaSlUzaW5HZHpsT0lrVG5jUlFtbDlGSUk1aEhQVlhoUTVhYnVUeVpoTXZVeXhQRHJMOUNZaWR2WmNXUnpncDNhTEhjUURqZkRCNnFjMVUxcEh3MGpaZzJlVUJ6bG1UdGpSa1ZYZzV5SDBtdVhud2t5Z3FfVklyR3ZEOXdFSUdjaHFFWjVmVjlSSzZESFdaNnlOcUt6QkJBM2xtYVFud1VaYVdOS3FsMjZIM3VoSWxE?oc=5",
+      "summary": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time techradar.com",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Perplexity",
+      "title": "American Express, Perplexity add AI Skills - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGxZaHJKeHB6T3Z4bUY4X2hiQ3BNcUNKM0VzSzZUYnZPLW9mRjJTMnpNUUZzZTI3Ni14UmhoazlxOFNmaWlzSkRqMktaR21FUW42cGhmWFJVSldFeUpTZWo3cnM0LWk5a1BxZUItNm9jNHFZN0stQ3pZYTFXb0Q4cGpxWjYxVFVnNlNWWWhSNEV2dVIxLUNpZHQ5b1NDY1RMT3BoT0VpYUc?oc=5",
+      "summary": "American Express, Perplexity add AI Skills The Paypers",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 - CNET",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ibDRXNUllVGFTVDNMbDltUUtpM19KQUwyV29fVDNTVjcwdWtIT1JsUmg0MXY4bmQ2ZjdMdkhOV0l5THpEckYwS2N5ck03czl1bG96S2NWQ21YS0tUU1J6X0JvVUlNMWpZckw1SFJGdWgtMlA4QV9yVXRIZUlOUQ?oc=5",
+      "summary": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 CNET",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
       "company": "Anthropic",
-      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - politico.com",
+      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
-      "summary": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI politico.com",
+      "summary": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI Politico",
+      "badge": "new",
+      "date": "2026-10-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnR5cUVLZE91ckU2X0sxOGNzbjA4SjU4MFhiUXNvb0E4M1FLTldoT3d0b3BDUmU3NFVxOUk1eURXMmhEVExrQTNKT3d2LXY2emNNSUo0Nzd0Vkp0WmxiTDh0MVhhM2h1NnRIZnVnZmRNcmJNNmlCajkxN1U2ZGJBZHlLNEVYanF6c2lBc0pVOHh2a1h4QWs0Yngxc0RYX3pOS2NDUGZRRjRKQmtLbnpxZk5QNjljNjJVSkNQRVNn?oc=5",
+      "summary": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports Reuters",
       "badge": "new",
       "date": "2026-10-04"
     },
@@ -67,17 +123,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnR5cUVLZE91ckU2X0sxOGNzbjA4SjU4MFhiUXNvb0E4M1FLTldoT3d0b3BDUmU3NFVxOUk1eURXMmhEVExrQTNKT3d2LXY2emNNSUo0Nzd0Vkp0WmxiTDh0MVhhM2h1NnRIZnVnZmRNcmJNNmlCajkxN1U2ZGJBZHlLNEVYanF6c2lBc0pVOHh2a1h4QWs0Yngxc0RYX3pOS2NDUGZRRjRKQmtLbnpxZk5QNjljNjJVSkNQRVNn?oc=5",
-      "summary": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports Reuters",
+      "title": "Ex-Anthropic Researcher Coxon to Testify at NYC Hearing on AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVVRR3BBcHZWM2JKOWdfSXZZMzdLQ053am4ta2xzSzFULWdoZHlhbnlFNGNMRFhoUGRvX1lCeXprSjRPWVczTkNGVlViN2VwRHoyZHV1cFdlRHpNS0ZUV2FseUNZbS1Xei1wbkJwcjVaY09QWm9GRUV4dExBb1lOZUIzYzhCZFB1Z0lpc2pvSlhCcnJXa2hJNTVYeDkwSnpWeFRLV25qNDhIOHB6ZW9wSVBxOVhsRWtK?oc=5",
+      "summary": "Ex-Anthropic Researcher Coxon to Testify at NYC Hearing on AI Bloomberg.com",
       "badge": "new",
       "date": "2026-10-04"
     },
     {
-      "company": "Anthropic",
-      "title": "Ex-Anthropic Researcher Coxon to Testify at NYC Hearing on AI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVVRR3BBcHZWM2JKOWdfSXZZMzdLQ053am4ta2xzSzFULWdoZHlhbnlFNGNMRFhoUGRvX1lCeXprSjRPWVczTkNGVlViN2VwRHoyZHV1cFdlRHpNS0ZUV2FseUNZbS1Xei1wbkJwcjVaY09QWm9GRUV4dExBb1lOZUIzYzhCZFB1Z0lpc2pvSlhCcnJXa2hJNTVYeDkwSnpWeFRLV25qNDhIOHB6ZW9wSVBxOVhsRWtK?oc=5",
-      "summary": "Ex-Anthropic Researcher Coxon to Testify at NYC Hearing on AI Bloomberg.com",
+      "company": "Microsoft",
+      "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXBldDd0X2RIZmRBa0NDdndLemFuQUcyRG5yOVpiTnZQQXpHd3ptcGp2c29mNGktLVhSOGdlRFZrZU01NTFDNkNKeEVBY0dJTVBtUzN2cTJ6U0tfRVY0OWNJQTFPUjVpWmlXUnA5RC1xVlBYak9LcWRCT28yZ1pkc3VXOTFXVW92UGtOQkF6d0hwcHdhd2lNa3lEbzBnWHZl?oc=5",
+      "summary": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? Yahoo Finance",
       "badge": "new",
       "date": "2026-10-04"
     },
@@ -114,14 +170,6 @@
       "date": "2026-10-03"
     },
     {
-      "company": "Anthropic",
-      "title": "Video | Why Anthropic Invited A Hindu Monk To Discuss AI Ethics - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGRNMUExb0FiUVQxWTB0YjBLS0FTMGItSlgxTHVNZ19XR3NHS1UtZ0xZN3VvUGVsMTVJSTZXRXUzaW5PRWNXYUYxV3k5NTY5UDlEUTJoSXJQUVAwZDEtUmplMURxWWJBVGVWeGRubVhWVUd5bGZ0S3FJRTQ5bFZKTWVhaTR4N3dpRlVmQ2hjbC1PQ185?oc=5",
-      "summary": "Video | Why Anthropic Invited A Hindu Monk To Discuss AI Ethics NDTV OpenAI's Altman: Ascribing religion to models a \"safety issue\" Axios Sam Altman: Don't Treat AI Like a 'Religious Force' Business I",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft adds agent governance and usage controls to Copilot - MSSP Alert",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2o1X2tTWFdQRzNlYS0zdjFkUjZrcXhEUVItUXExUkJUdFhpNnlVbkxtcWMxS1dMTTNFNnYzVjFyYm5QeVBZY2pqRmxrY2dBcHhqMFctbVVsWWRCd2tab3hqUFZrbDd4czZwVE94WC1iMGNZdGhQWm9oYWRDSTlpQTEtLWxUZ3IxeU9COWJjcWZPb3hHYmJta1k4eUV6YWVmVmRJ?oc=5",
@@ -147,17 +195,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2U3VXVVQ2pldy1CZjZtS0lkd3RVZnZmMGI5OHh4QnZWSW5KSk1DMXhreXhuSUhGLUxvZnBudFJrQXF6c3RBZHVCY0w2SUZnMGx3akdLZ3lSNnZRVlFzbVE3ellmYm9FaTV1UUxLdnNITkVDbm5KbVpHTU9YVEhBcTFn?oc=5",
-      "summary": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes Futurism",
+      "title": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJxN0lVX3o4N2tHdU5rcmd5TnowWkIzaHViMnoxSmRrZGpCQ1NJc2VFcndRZWsyR2xucE9LMUpjMHZsUUNRSUVIb0pQa0Ztc2pxZndkdUZ2VXRudEV6NmdyZndPVFRqNWRYOHlRMktOVnZ6ZFZKdk9QV2xUX2d1VzBaTkxuQ2lPUGVtSXlB?oc=5",
+      "summary": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ Yahoo Finance",
       "badge": "new",
       "date": "2026-10-03"
     },
     {
       "company": "Meta",
-      "title": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJxN0lVX3o4N2tHdU5rcmd5TnowWkIzaHViMnoxSmRrZGpCQ1NJc2VFcndRZWsyR2xucE9LMUpjMHZsUUNRSUVIb0pQa0Ztc2pxZndkdUZ2VXRudEV6NmdyZndPVFRqNWRYOHlRMktOVnZ6ZFZKdk9QV2xUX2d1VzBaTkxuQ2lPUGVtSXlB?oc=5",
-      "summary": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ Yahoo Finance",
+      "title": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2U3VXVVQ2pldy1CZjZtS0lkd3RVZnZmMGI5OHh4QnZWSW5KSk1DMXhreXhuSUhGLUxvZnBudFJrQXF6c3RBZHVCY0w2SUZnMGx3akdLZ3lSNnZRVlFzbVE3ellmYm9FaTV1UUxLdnNITkVDbm5KbVpHTU9YVEhBcTFn?oc=5",
+      "summary": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes Futurism",
       "badge": "new",
       "date": "2026-10-03"
     },
@@ -174,14 +222,6 @@
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "url": "https://openai.com/index/chatham-financial",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Anthropic",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -211,17 +251,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta parts ways with Virtue AI - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEtuWmswRGZpdmtDWWx0UEw3Vlo2XzFqNlhuWDduYlNSMXFQS25valJDTUYzU0sxbFZqZGZWSUZHUEhnN2M3STZubUVVWTJMSzBtZ2M5enZIcHlKRGtDLTllVHNqSGdEY1BERXYwbEZUcUxjVl9UMUpURXlPUHpuOXFwTVFROFhfSXMzanBITVZqNE0?oc=5",
-      "summary": "Meta parts ways with Virtue AI Yahoo Finance",
+      "title": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5",
+      "summary": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? Business Insider",
       "badge": "new",
       "date": "2026-10-02"
     },
     {
       "company": "Meta",
-      "title": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5",
-      "summary": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? Business Insider",
+      "title": "Meta parts ways with Virtue AI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEtuWmswRGZpdmtDWWx0UEw3Vlo2XzFqNlhuWDduYlNSMXFQS25valJDTUYzU0sxbFZqZGZWSUZHUEhnN2M3STZubUVVWTJMSzBtZ2M5enZIcHlKRGtDLTllVHNqSGdEY1BERXYwbEZUcUxjVl9UMUpURXlPUHpuOXFwTVFROFhfSXMzanBITVZqNE0?oc=5",
+      "summary": "Meta parts ways with Virtue AI Yahoo Finance",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -259,17 +299,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGtwRjFqYUNSQVR5M1N4TEZmYVVhMUZ4cWRqbENtSWF0S3ZiZkJOb1NXREc5elFIc0t2Ynhtczg2OVJvNE1CV0JRcGh6b2huakNrSk9VRHR6blFtQy1QMUJHVmNWZlF3SjdwdkRRZ0NSc21ZM2NjTk4wS2cxX2dVV1dFWVZQWkU?oc=5",
-      "summary": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won How-To Geek",
+      "title": "Inside Microsoft’s big Copilot rethink - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0dKY2FCNlRYRGlCdnNNRDhlcmhmQUx2empqRmxFYnZnTnE5RzdJU3hVN0Z2WVNqdWtOSmtXcDRWQ1czYndQeUFJMUE1S1pvZV9hSXByRWp6TF9YY09kdHBRNjNJcEhiOC11ak5WcVozWUQ0ZXBwekJOXzBpMHJGVw?oc=5",
+      "summary": "Inside Microsoft’s big Copilot rethink The Verge",
       "badge": "new",
       "date": "2026-10-01"
     },
     {
       "company": "Microsoft",
-      "title": "Inside Microsoft’s big Copilot rethink - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0dKY2FCNlRYRGlCdnNNRDhlcmhmQUx2empqRmxFYnZnTnE5RzdJU3hVN0Z2WVNqdWtOSmtXcDRWQ1czYndQeUFJMUE1S1pvZV9hSXByRWp6TF9YY09kdHBRNjNJcEhiOC11ak5WcVozWUQ0ZXBwekJOXzBpMHJGVw?oc=5",
-      "summary": "Inside Microsoft’s big Copilot rethink The Verge",
+      "title": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGtwRjFqYUNSQVR5M1N4TEZmYVVhMUZ4cWRqbENtSWF0S3ZiZkJOb1NXREc5elFIc0t2Ynhtczg2OVJvNE1CV0JRcGh6b2huakNrSk9VRHR6blFtQy1QMUJHVmNWZlF3SjdwdkRRZ0NSc21ZM2NjTk4wS2cxX2dVV1dFWVZQWkU?oc=5",
+      "summary": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won How-To Geek",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -362,14 +402,6 @@
       "date": "2026-10-01"
     },
     {
-      "company": "Meta",
-      "title": "Meta adds AI assistant to Edits - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3ppTGh1NzA2bW9KMzd3aVhTUXdJeE5kSk9GWEhla2luRG5qdE9UN3lLMUxwT19HOW8wQ0d2YTBIclV5VUxGUWtMS3VtYThJQnZZckRxRDYwbDRBVFJmdzlmcHpKWEpRM0duS3hYVW9ySThOMW8wNWdjTHkxWWJ3WWNzdw?oc=5",
-      "summary": "Meta adds AI assistant to Edits Social Media Today",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
       "company": "OpenAI",
       "title": "Disrupting a coordinated model-distillation campaign",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -402,30 +434,6 @@
       "date": "2026-09-30"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWhOaFJPTG1neFlDeHBhZF9NLW5OX0wxOTh0Y3dGNTJkN2JwRXZGV19IYTU0SEFwZEZTbk1pVFBSZlhhbWlmN0phTlpmejZoWExCUXFVQW9VT2hBOUJYcU5CWXNUVnVXRHNjNjVaZ3BKTlFCc1FfYWs5eVRrM3p2TWVxT0JPd3Fza0U1OE4xS2kzQQ?oc=5",
-      "summary": "Microsoft Says Copilot Is a New OS. So…What Happened to Windows? PCMag",
-      "badge": "new",
-      "date": "2026-09-30"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts Insane $40 Price Target for XRP: How Did It Get There? - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tRkc4ZmdqNy1FRmdPclBHSHJlSFR0dVY0MnJJU2xDVTZZZHRQY2FsQkswV2tWb3ZseFFBeG9vdGp4blZ6SUwycllrZFEyZm1oVmo0akRyUnhLNmYzZG0xcXpza3NnN2NJR2RkZFg4dHQ4MWNqNnBQOUZDT1o?oc=5",
-      "summary": "Perplexity AI Predicts Insane $40 Price Target for XRP: How Did It Get There? Cryptonews",
-      "badge": "new",
-      "date": "2026-09-30"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amazon v. Perplexity: who’s in control when an AI agent acts for you? - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXZoRHVSXzZEVXoyVmx0b2EySDNxbmp1dGVpMmxaQTNZVG14djNhS0JMX2pteDdYQWxZaDBYVTl4QUpzNl9SSzY5RGNEbXVpVEZiSW1Cd1luRUFTdTVLX1FvYkQ0N3Qzc1ZjcTJ3NHE5OUZhVWJmZnRzMk9rUlNmUG1wMFRDMmpFcjNucmlqbTl6Yy04UWlXeHctOWhoa21SalFraGktdnladFlXTm9SdzZjVW9QV2RMSjVNLTgtRUtkZ3ZlT2NndGR30gHQAUFVX3lxTE5nVHVjaUpoYlh3Y3duM09nQXlwWS1jUXNjOXJfNXVjeTdXMFlXUXhRNVViT0pEUWlTLVA4TGItWmxxZXA5T2N6QnVVMGgzaWZkVWlrdW9TWjE5bDk4Z0drTDFVLUdNX0ZsaThwTEF0RVgtTXVjRGV3NC1ONjdKMGcyM1hVUmI2QUdVSnI4T0JuNTBRQXcxTlprRmExVVB3N05PUjlNSUJlRkxxVTI1NE00Q3RFRkE2V2FfYWRvV3Q2NXFMV0FsOVg4NWk2MU1zaTk?oc=5",
-      "summary": "Amazon v. Perplexity: who’s in control when an AI agent acts for you? The Hindu",
-      "badge": "new",
-      "date": "2026-09-30"
-    },
-    {
       "company": "OpenAI",
       "title": "Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
@@ -439,14 +447,6 @@
       "url": "https://openai.com/index/devday-2026-recap",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "badge": "new",
-      "date": "2026-09-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "badge": "hot",
       "date": "2026-09-29"
     },
     {
@@ -635,9 +635,9 @@
     },
     {
       "company": "Amazon",
-      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - cnet.com",
+      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - CNET",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0E1WVd3dERWNnBmYjd3TXNOZjliNzBneEZKcERTZWdxVlVCRHNwV2RXckRzVW53YlFOZjRZNVNmbm8xZUEzZ2Jqazl6RmczMEdZYS1kTEtZSXVOdFZtT3dEQjVDaWRIOFZoU1BOZ1VJSkhkV1Izekxuc0F5RWlfQWcyQ0pYbTA1djRmQWNvNkMtWnFhNU0tU2NaNXpxbHctT2VYaS1n?oc=5",
-      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy cnet.com",
+      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
       "badge": "new",
       "date": "2026-07-23"
     }
