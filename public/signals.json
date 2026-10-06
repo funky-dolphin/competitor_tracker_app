@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-05T23:36:41Z",
+  "updated": "2026-10-06T04:26:12Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Apple",
+      "title": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
+      "badge": "hot",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
     {
       "company": "OpenAI",
       "title": "Our approach to EU text provenance rules",
@@ -19,6 +59,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTA3OUNCV3JxZTM0NnZBdkJEUzhVN3cxOHhQX2owUVc2Y2lFcXZsZFdMbGtGX0dYWEc1Z2ZPN3FQb0F6X0pRZE9xNDBZdDhJMVhDMEY1cm9XQzJzeHhUS3Q5c3k0aC1penE1UC1LTHJRZWY2VnFIaXpVZEVIakxnZkxsR0U0WE8zbWdTNVhlalhXQmJiSUJRNHNuaEFiV19NZFhxSExZZW9mWWIyN2x2QUhsYlFXUGNmNHh2N0N4MA?oc=5",
+      "summary": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing Bloomberg.com Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports Reuters AI researcher warns '",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Anthropic",
       "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
       "summary": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told BBC",
@@ -27,9 +75,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTA3OUNCV3JxZTM0NnZBdkJEUzhVN3cxOHhQX2owUVc2Y2lFcXZsZFdMbGtGX0dYWEc1Z2ZPN3FQb0F6X0pRZE9xNDBZdDhJMVhDMEY1cm9XQzJzeHhUS3Q5c3k0aC1penE1UC1LTHJRZWY2VnFIaXpVZEVIakxnZkxsR0U0WE8zbWdTNVhlalhXQmJiSUJRNHNuaEFiV19NZFhxSExZZW9mWWIyN2x2QUhsYlFXUGNmNHh2N0N4MA?oc=5",
-      "summary": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing Bloomberg.com Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports Reuters AI researcher warns '",
+      "title": "OpenAI CEO says \"bad things\" part of AI trade-off - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTR6NkdzbFdJWGlvMjJiMDl1a3dzMG4tbk1PM3RlR2I4Ry1CUGtQUFlMMkI2RTlKVUdpOUlNLTB3RHhmWTJSV0VzOTBCSzRzdFkzNWV4bnJrdkFvNDBPWlhHUi1ncF85TktpRWY5SFp1OFZyZU01MFFyN1I0dXFtOTdHYUh5anZlaUZ4dkJn?oc=5",
+      "summary": "OpenAI CEO says \"bad things\" part of AI trade-off Yahoo",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI CEO Says ‘Bad Things’ Part of AI Trade-Off - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTdvMHBwR2ZhSEw3T1drR3R5WEVsSHNFUTVBa29nQ2ljcVBwcTM0dW5IbTNEZjJybkI4S2VwZFA4QU11RGp0Rk5DaV9iX243OTRGd1FvZll0QzZzRnhNVi0tVHRVU25JWmpDYllIR1kyOXFBbW1oS0FGSGlkRXBfendSRDU?oc=5",
+      "summary": "OpenAI CEO Says ‘Bad Things’ Part of AI Trade-Off Newsweek",
       "badge": "new",
       "date": "2026-10-05"
     },
@@ -83,49 +139,17 @@
     },
     {
       "company": "Microsoft",
+      "title": "Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1pncjVJSDloNjF5eWF4eXBwWnlEWmNna0NuYTZVbkM5Mkx5MDZ4UXN0V1pvaWp6dGVtd0FtWmYwWWJFX2RRYkFLOThNWUR0MHA3UFVzR0x4dE5aQlBJQnlZT0ZzQzRkc3lJVmk3Vmp1T1NfZXNoYkI0bWJTZFZ1ZENybUcwNzVNeTNWUmo1eDFMMU5UQkRWUFdpcWlfanNFekhINFY4RG5XWkl0RFE?oc=5",
+      "summary": "Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work GeekWire",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Microsoft",
       "title": "Copilot in Word finally shows where its answers come from - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd25OWVhibjI2Z0J5ZVNXd3NkVGhjQ0hrNFNFR2hibU9HQmJUamFfcDBqMkYtc1lQY0QxbDZBcGN4RXBQTE5rZkJ0dW1fUHNId0hVTlJsTllibVktWjFsREhqTmlYc2Y3MENISW42TXZiM1ZvaXp4Vkd4TmxZTEY2YnVwQ3VUQjczeEwwcS1QTG9CeW9FZEVzUmtiYTlscWI5cGN4YjBVa1EtNXFyTlRXU1pRc1otdnZud2Fyek96N1dfYkFpMnNSVEF1TFBMVVBsdTU0NFVSa3U0dw?oc=5",
       "summary": "Copilot in Word finally shows where its answers come from Windows Central",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Apple",
-      "title": "New updates coming to Apple Creator Studio",
-      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
       "badge": "new",
       "date": "2026-10-05"
     },
@@ -147,14 +171,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI moderation system leaves users locked out, frustrated and searching for help - WSB-TV",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFQwV0I1ZnBLMlNyWEpkZjJGT3BvTklfRFl1MWRZMWwyRDVQV0NkV2ppSHg2QzB3NVdQcExYMEg1WTVEdVhvbVVaTm5LR1pKREkwOXoxNVRlcG1lU2tqbmVqYmp4eS0xUEVpNDhaU1BDRmJraksyak5RVi1INk56OEliY0tLN2JXaURaRGtIYy1ja2hDRlphRHo2NDIzS2g0cUU0WldmcWl3SEhUVDhpcUQtT3RzdEpPSXhPaG82Ri1mN19fQjJTSWo5QjEtSVhLRzE00gHnAUFVX3lxTE9tRHJWQ2FTRWZkN3lYdUhyOHUxN0Q4bC1GNjNJcnVKN0Rqemhkd01TeVhxSFhMR1BMUlhaT3U4Q2Y4aGlxR2hSTzBIb1dlNDVSdFg2Rm1VZ1k1Q3IwUzFYSGU4N0xSdmJWcmtHeUk4UWJ4aHZhc1pUOEdTLVRJTWx2NS04U19QZkIwQUItazBYSzQ2aWVFaHdRcmZuUG5VUGFvTDJGQW1PY1BidWtpbGhxSkY5ekFBVDV5MS0xVkV2RlRYVHdPVUVKSTk0eURnZHlUS3FLUEdTdVRMQ2ZpUHYwT3dPSW83OA?oc=5",
-      "summary": "Meta’s AI moderation system leaves users locked out, frustrated and searching for help WSB-TV",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Meta",
       "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUIydzZYNjQ4a2RSMEROU0N4RC1NM2JPdXp3RTdtRWVqSjc0Zk5YTU9EWGd2ZEtWSk1JTkZacVkwejgyajZIRlRvMnNsSkkzMFhFbzczNGM4eVVRLXktR19kYjNybkdpVzl4bkpIdHFzRVdYSmlUTjkwR2Z2VjR5cnpSMlRLcEVFSnVlVUN0MTdRLXZERzI1eURTaGxTNllCTndqbtIBqgFBVV95cUxPcVFrM05qVE9lTUtNUUdYV0ZtZ0xNSy1NdGQ2aURSQU1pd3g3ZnA1YlMwbUxPaFZhWlh4bWVwQ3NvalBSajNFZk5DNlA0NjVERUZiLXZ0cmZhMHdRQXo0dVg5elgyTjZsbDR5Sl9KWVJvaVVNZGRKZGFrWlpzak1veGN0Yy1PX3FIWEJCYXl3YlpFMXhnaFg4ZHpkcVMxblp4NTRWM2pRT2FPdw?oc=5",
       "summary": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing CNBC",
@@ -171,17 +187,17 @@
     },
     {
       "company": "Meta",
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
-      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App WSJ",
+      "title": "Meta’s AI moderation system leaves users locked out, frustrated and searching for help - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFQwV0I1ZnBLMlNyWEpkZjJGT3BvTklfRFl1MWRZMWwyRDVQV0NkV2ppSHg2QzB3NVdQcExYMEg1WTVEdVhvbVVaTm5LR1pKREkwOXoxNVRlcG1lU2tqbmVqYmp4eS0xUEVpNDhaU1BDRmJraksyak5RVi1INk56OEliY0tLN2JXaURaRGtIYy1ja2hDRlphRHo2NDIzS2g0cUU0WldmcWl3SEhUVDhpcUQtT3RzdEpPSXhPaG82Ri1mN19fQjJTSWo5QjEtSVhLRzE00gHnAUFVX3lxTE9tRHJWQ2FTRWZkN3lYdUhyOHUxN0Q4bC1GNjNJcnVKN0Rqemhkd01TeVhxSFhMR1BMUlhaT3U4Q2Y4aGlxR2hSTzBIb1dlNDVSdFg2Rm1VZ1k1Q3IwUzFYSGU4N0xSdmJWcmtHeUk4UWJ4aHZhc1pUOEdTLVRJTWx2NS04U19QZkIwQUItazBYSzQ2aWVFaHdRcmZuUG5VUGFvTDJGQW1PY1BidWtpbGhxSkY5ekFBVDV5MS0xVkV2RlRYVHdPVUVKSTk0eURnZHlUS3FLUEdTdVRMQ2ZpUHYwT3dPSW83OA?oc=5",
+      "summary": "Meta’s AI moderation system leaves users locked out, frustrated and searching for help WSB-TV",
       "badge": "new",
       "date": "2026-10-05"
     },
     {
       "company": "Anthropic",
-      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico",
+      "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - politico.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
-      "summary": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI Politico",
+      "summary": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI politico.com",
       "badge": "new",
       "date": "2026-10-04"
     },
@@ -194,18 +210,10 @@
       "date": "2026-10-04"
     },
     {
-      "company": "Anthropic",
-      "title": "AI’s Real Gift to Science - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
-      "summary": "AI’s Real Gift to Science The Atlantic",
-      "badge": "new",
-      "date": "2026-10-04"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Daniela Amodei says entrepreneurs should go on vacation to test potential cofounders - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmQySFJZMlVYdFJoNXhEVHQyZVhtVElZR1doTVF3XzNfSnE3OU45N2RPdlFzVmpNdlZMVFAxQjA5aWM3SGFkWVFKNEh2My1sbUx1dXlvcTM2Y0U5elNGazVkSTAyektVU0d2UndOSk0ydXFobVREQ0dzTkp4UXBJZkVTclFNRXVhVDM2Z0p1NDlqaGU2ZUhWYWdsLTZ5QkNLX3pkSjRiU3R1SmpBcFZBVVFKalZsM0poUGdacg?oc=5",
-      "summary": "Anthropic’s Daniela Amodei says entrepreneurs should go on vacation to test potential cofounders Fortune",
+      "company": "Microsoft",
+      "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk0xajhTbjhSN0lDUmNNZmtlVjctbW5PbzFFSHdaLW5JQzdqWkF0WTdyeExSVWhJSVpHa0NYYlU4Q2N0Ym5Bd1hvY1FhRjgtNkE1UEJVMzRzTF9NdHptUVV3WFEtNnBETTVwb1dqX1ZSOWZ5YkhDTlhQR01yRHVna0hkU0hST3loTHRHa09tZzg4ZUZETjd2OA?oc=5",
+      "summary": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? The Motley Fool",
       "badge": "new",
       "date": "2026-10-04"
     },
@@ -214,14 +222,6 @@
       "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXBldDd0X2RIZmRBa0NDdndLemFuQUcyRG5yOVpiTnZQQXpHd3ptcGp2c29mNGktLVhSOGdlRFZrZU01NTFDNkNKeEVBY0dJTVBtUzN2cTJ6U0tfRVY0OWNJQTFPUjVpWmlXUnA5RC1xVlBYak9LcWRCT28yZ1pkc3VXOTFXVW92UGtOQkF6d0hwcHdhd2lNa3lEbzBnWHZl?oc=5",
       "summary": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-04"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk0xajhTbjhSN0lDUmNNZmtlVjctbW5PbzFFSHdaLW5JQzdqWkF0WTdyeExSVWhJSVpHa0NYYlU4Q2N0Ym5Bd1hvY1FhRjgtNkE1UEJVMzRzTF9NdHptUVV3WFEtNnBETTVwb1dqX1ZSOWZ5YkhDTlhQR01yRHVna0hkU0hST3loTHRHa09tZzg4ZUZETjd2OA?oc=5",
-      "summary": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? fool.com",
       "badge": "new",
       "date": "2026-10-04"
     },
@@ -299,6 +299,14 @@
     },
     {
       "company": "Meta",
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App WSJ",
+      "badge": "new",
+      "date": "2026-10-02"
+    },
+    {
+      "company": "Meta",
       "title": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5",
       "summary": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? Business Insider",
@@ -366,14 +374,6 @@
       "title": "NFL Week 4 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1Q0TXlZTDZlRlVneXlpbWNmeGZkc3lIWDZIQVd4dnBINkw2NTl6Q0RpLU9rR3U4WnY0OXhKY0JIMEVjRnczYTlVYWpCVEtLaFZRbDl1eTVHVkUyc0xfM3o5RzdXUUYyT2FRRTU0eWJtVkRBMDNfOGIyS2IxZHhoSXN5UWI1NTJELVRkSGtkaFVVU0RRTC1lbWltUjItMjl2RHFwcA?oc=5",
       "summary": "NFL Week 4 predictions by Microsoft Copilot AI for every game USA Today",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How Has Microsoft’s Story Changed In A Year? - Trefis",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0E5Z2NyTlNidFVmXzlEaWF3bmN4Q25CTVJydWJSLXlEN0tSRVFpd1F1akh4Sk9ySzJLRG10aWFaUW1qaGE3TzVYaWVzNmFuN195OUVWTUtUYjB6cGhOb0dUNzZ5Um5uYVVlc1pqczRSWGx2QjlhVWVLa2dhdkpVWmpRTktOeng4elF2SHNvYTRMLUxUZjZ6ZzlvY0J5U0oyZHVITmF3?oc=5",
-      "summary": "How Has Microsoft’s Story Changed In A Year? Trefis",
       "badge": "new",
       "date": "2026-10-01"
     },
