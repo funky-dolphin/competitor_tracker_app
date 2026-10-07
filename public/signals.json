@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-07T12:30:02Z",
+  "updated": "2026-10-07T22:32:50Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOHF2ZzNBNk91NEdYZ05oZEU5enY1ZnEzNzY3cGptRzh2dUc2VGR2YnBSNFFBcGdqcWZJcWtPZnpQakJhZkV1cHc5My1Ea3k2OFJib3EzTXJXbDZidjI3RTNRdFkwU0pJSHdmRzdITUh6dzdBQWxkaTNTQXhkZkk?oc=5",
+      "summary": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws The Hacker News",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45MHNqR014dUJnRkpJRXJZNGtGNW9DT2l2NGdYYlB0blRWRUhIMS1TTVoySG1fRWxEZ3d4d1FpUFdkN1pqMGxuR1pyb1lwbnFybFIyMmVFcjBpT0JSMGp2bGlFcVVVdHc3SjRWY09kM3hHNy1udnlCbDlB?oc=5",
+      "summary": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner Business Insider",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFR3UFJmaG9ULVIyNzJoT2lqZmZRVF9GNmJkNVdZdldUZ3RkdlY4T1dyQktJcnZnSklqczFoRzJGbDFITDhzc2Q5TUR4OExfTDJ2ckVTRF9mZ3ZVZ3phMFJkaThEeTIySVZSdzA3dE9tMWREVDh5WHV6b0tIUVNTRXNURmI?oc=5",
+      "summary": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates Fox News",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
     {
       "company": "Anthropic",
       "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
@@ -22,6 +70,38 @@
       "title": "Introducing Playground: Create and play custom games",
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Overview of Playground",
+      "badge": "hot",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Building Windows for hybrid intelligence - Windows Blog",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlhoazVROUNXSmdpZjQxdjFINklLazg4a3BlYm5xcmM5b2JYQ2Vtb3ROeGp3ZEF3Ym9YWmx2b2hOSUh0MHFxLXh5bVgyVFhnZlMxaV9hOG9VQnlpdkJUUWpTOHI5UTQ1bFFIdDE4WU9oWFFYVDdnQ1VEMmxJcnhnaGYwTHlIajhDallaX2RnZUptc2pFSUY5NDhsclU?oc=5",
+      "summary": "Building Windows for hybrid intelligence Windows Blog",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNi1IMlRyX1FGWU1LUjFQc2EycjdJMU10VkpDa19vS3dUZ3d2cUxzS20yaVRkM3ZHZk5qZ2d2UWg4b2x4bEJ0cVktbjJObE1XV3BGNy1TX3lmcHlsZlV1SmFvdkNwNmNTS0FpdDg0RktvUmlqeUdZODFOZVpjZ1lSMWE1YWo2dTZaTTNQVV9FR2lYS1U5TEZsZ254Zy1WdENWakJPMm1GM25fQnItTkE?oc=5",
+      "summary": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is giving Copilot more control over Windows and your files - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnQyTlFYNlhLaG4yVHFyS01KT19zcVlTVVJDUDN5M3N1V3YwVEI1N1NkWWJUN1l2d21UQjlMWERIVEE4cHMtTUlpWkxrWC15ajdXUE5DN05Cd2tzM0I1THoxbzBhWTBGX2hISzlGM1FsMUNGTUF1dDF0cWhXMkF6YURtZDk4QXlMams0M0dndEtkMlBJNHhfQU5DX1REMjZVY0tB?oc=5",
+      "summary": "Microsoft is giving Copilot more control over Windows and your files The Verge",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
+      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
       "badge": "hot",
       "date": "2026-10-07"
     },
@@ -66,6 +146,38 @@
       "date": "2026-10-07"
     },
     {
+      "company": "Perplexity",
+      "title": "He missed CSE at IIT Madras by 0.01 marks, got rejected at MIT; today he has a net worth of $20 billion: - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYllrTXZvUmhfa0Z1OXFBR2IwVFJlR2xvaHNhODdfYVRJZ3hMYmdTVElhRTV5dzUtLVpEVTExZTZnRWVHNGFtbGxSSTNxOEsteWROWGxpVkxLUWxpRVIyM0JmcjI0OVRQQUtBQzZFcC1wVTdXeXc0TTBuWlZSTDFmMTNFSzEta0h6THJMZ09HaFpNREY5TENFa3I1QkNleWF1RE10NXYteWtabkZHWXJieTNwZjQ2Q21Kektwa3VTWlFVUjNxc0JMZ3RXM1RObTBKc3Y3UGppMU1rTUExQnZqZjFwSkhfNGhlUWhZSVFRM0x4dlJMeTN3RjhmbEtvRnhDVXQzRWVSajgwTm5OYkdEYl9hNm9CYjFLOHFPWHZfV25uTTczMW9wdkFEdXBLOWhkc095RDY4N295VExqaHN6U3lWdXE1SEMwYVk5TlpPaDjSAdYCQVVfeXFMTk5wR2dIUWV1UG5OeHpFUmtkNmlQVVdoYmRRUm1pLWh0ekJiU1RqYm5HSnhZV2xZa1Z3VWlBZHBEVTI3M1VnZUktWHAzaW12dUp5c0plckR3bVd0UEpKTFlvYmt6UnVYOUd4Z01haXBTVzJvYmRzd2Zrd0dkN1czbWJ0U1lnWG41UkkzOUY2dnk3SXpvUDNIVDV3VHpTRUJoclpRTkd2TlRjNkdzX1Z4OU4zM1pMS0tBM29Bd3htRTlEVl9LWFZ6R18zcmUzVnl3ckNWUnRSVkhHeXlfZWw1bnREVmhJWFo4UXdwUWQwMTNxdXFKUVBCWlpyUGt4cElFOWxvSXBtemEyYUJtbWFwRV9ibTJUWWVyTFdPbmN3US1uNTZOLTMxOXZPcGhJWTdQd1ZFa0xZNjJsZmE2YTdPdnhpYVROakt0a2Y1Yi1tRDFpeXRtX3h3?oc=5",
+      "summary": "He missed CSE at IIT Madras by 0.01 marks, got rejected at MIT; today he has a net worth of $20 billion: The Times of India",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
+      "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96cU13MzB4czVKVDdfOFRIcmZZcGVhckZIUjh1S2J0d0Q2SlhKNlFsRWdGcm1WZmlHOEtySnZ0a0RWcUpjUTZyUC1PM25HbnFJOWFyeEZ5WUlocmlPYTRfY185MElvanBfSGNVTE9jYVpzdDBLSWM0dDdPcGPSAYIBQVVfeXFMTWwwUzU2bUQtSmMtMjZtckw0Zy1DTDVnVUxmLWxVNlRBWmdmdEc5bzh0WU1vVjVnX3JrMU5WY2lkU2E1c2xZdS1FbTloaG1hYlhQbkJmYk1Zb0s4MVRzR3BBTjA0LS1tSnRvMVpXeE41dXYtYlhUbUsyU1ZsT0hMcnA0Zw?oc=5",
+      "summary": "Meta's Muse assistant tops app charts. Now it needs to become a habit CNBC",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring ends smart lock anxiety with a lock you can recharge by hand - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BUmRhMl83ZVgtaHVuZnM2OGxGSW85UUJvd1hqMmhnS0NpT1g3UTFlWGZRck43UjBKX1gyNzQtdHl4ek12RjE0NTJOYUxwMVVJRTFtVEtZN0JUOWhlYlI3ZE9Hckc2RE5IbmZxWXFNOXl2YmFHNGFaQ1d5dXk0UQ?oc=5",
+      "summary": "Ring ends smart lock anxiety with a lock you can recharge by hand About Amazon",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
       "company": "OpenAI",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "url": "https://openai.com/index/jump-trading",
@@ -99,17 +211,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Expanding the Cyber Verification Program - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
-      "summary": "Expanding the Cyber Verification Program Anthropic",
+      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+      "summary": "Anthropic opens its most powerful AI models to more security teams Reuters",
       "badge": "new",
       "date": "2026-10-06"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
-      "summary": "Anthropic opens its most powerful AI models to more security teams Reuters",
+      "title": "Expanding the Cyber Verification Program - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
+      "summary": "Expanding the Cyber Verification Program Anthropic",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -138,30 +250,6 @@
       "date": "2026-10-06"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them - Inc.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGx5bVFscUl2RnFNaHZOdWd5aFlOUVUxSERwWjZYNWRKcU96aWloWlI0RnVxSTlaSF84SUtyU2xRcWEtSGNUY0FSNjlTWjlhZ1ZteDhhQzZlXzhPS1hEYmNfUUs4dkNQb0tJY3ZnN0g1MzVpeVdkMkpXdTBsQkcteGQ5bERsME1fSTN0X0hrREFTN1kwaTA0VV8yUkl4dnppZzVneUk0eEJXdE14NXRWNGlmUnVjcmJPSkI1Sjl0UFV2ZGVQeTVVVFFoTFg?oc=5",
-      "summary": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them Inc.com",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Expands Discounts and Support for Founders - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVktlTklUd2picGk3dGJqaUxXVC1ZUVJSQ1Fuc0VGc0sydDZPemdyMXlrT0Y2Z2lDN2d5S01ULUxfc2JFeHlVREw1UU1oY3VCZTZTY2NOZkRlTUVnakpfYTJxRGtuLU5xSS1OYjNvZE80YlQzZ0w3SzcyWFpaMTNxR2dqVk5ablpMcXU2NnhDTjQ1dkt5OFZmMndhbnhxT1NxRjNpVA?oc=5",
-      "summary": "Anthropic Expands Discounts and Support for Founders PYMNTS.com",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPek92bW43WU9RZ1dyajlJYWMzYkZvZzRPRW92d3NRaEhBMEQ2OUdQMlh2bUR4MW1EMzUxMUNxMHJHdjZFX05KcTRCb0E4Tk9yWjJwa2JSSUlsSFY4UE03NlpsUVRZTTNLVnN6eUdpSHNTQUpRNUxLZ1JFMjB6NlNJTkpIbXJtcHUtXzlQZXFJY28zd2xweWo2UA?oc=5",
-      "summary": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges The New York Times",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Sets up a Second AI Paycheck as Copilot Shifts To Pay-Per-Use - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeWNjZlgzNHVfS2xDbXd0ZWUwc1RzcjJYUjB2VGNiejJMeERLS0VHaUw2bGxyZlNleWVpMGdmQzV4d1B3OHZmdDhheHJlYnFHYlVOUUxDdnZFMjVCTEs5bFl3V2RKUC1UWEE4YXptOHZOTExMX0YyWlExdlpFYWNISDU1Q3hJWk1XekZ2ajNVd01SMnRrVmw5YU5fbmJUaE5EVklaSkRYR0xaWW5TNGdXQWFYUjZoRXRzM2huMzJVNDRBNWp3dnJYTlNIVXd3NVVtMWMxOTVLNWVtSGc0M1NIXw?oc=5",
@@ -171,9 +259,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "He missed CSE at IIT Madras by 0.01 marks, got rejected at MIT; today he has a net worth of $20 billion: - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYllrTXZvUmhfa0Z1OXFBR2IwVFJlR2xvaHNhODdfYVRJZ3hMYmdTVElhRTV5dzUtLVpEVTExZTZnRWVHNGFtbGxSSTNxOEsteWROWGxpVkxLUWxpRVIyM0JmcjI0OVRQQUtBQzZFcC1wVTdXeXc0TTBuWlZSTDFmMTNFSzEta0h6THJMZ09HaFpNREY5TENFa3I1QkNleWF1RE10NXYteWtabkZHWXJieTNwZjQ2Q21Kektwa3VTWlFVUjNxc0JMZ3RXM1RObTBKc3Y3UGppMU1rTUExQnZqZjFwSkhfNGhlUWhZSVFRM0x4dlJMeTN3RjhmbEtvRnhDVXQzRWVSajgwTm5OYkdEYl9hNm9CYjFLOHFPWHZfV25uTTczMW9wdkFEdXBLOWhkc095RDY4N295VExqaHN6U3lWdXE1SEMwYVk5TlpPaDjSAdYCQVVfeXFMTk5wR2dIUWV1UG5OeHpFUmtkNmlQVVdoYmRRUm1pLWh0ekJiU1RqYm5HSnhZV2xZa1Z3VWlBZHBEVTI3M1VnZUktWHAzaW12dUp5c0plckR3bVd0UEpKTFlvYmt6UnVYOUd4Z01haXBTVzJvYmRzd2Zrd0dkN1czbWJ0U1lnWG41UkkzOUY2dnk3SXpvUDNIVDV3VHpTRUJoclpRTkd2TlRjNkdzX1Z4OU4zM1pMS0tBM29Bd3htRTlEVl9LWFZ6R18zcmUzVnl3ckNWUnRSVkhHeXlfZWw1bnREVmhJWFo4UXdwUWQwMTNxdXFKUVBCWlpyUGt4cElFOWxvSXBtemEyYUJtbWFwRV9ibTJUWWVyTFdPbmN3US1uNTZOLTMxOXZPcGhJWTdQd1ZFa0xZNjJsZmE2YTdPdnhpYVROakt0a2Y1Yi1tRDFpeXRtX3h3?oc=5",
-      "summary": "He missed CSE at IIT Madras by 0.01 marks, got rejected at MIT; today he has a net worth of $20 billion: The Times of India",
+      "title": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZXUxYm4xTnhLd2lUY2E0MGJ3clV2ZndFRHI2YzQ0ZjdfOG5Gc29yMFJXY2k2MUY1Z0RWZnc3cngxOGNMQm9faEhKWTZRcHRVUjNHbGVfd1JldzE0bFJvaXdpczRsMVpJTTVWYlNXeHh1YjBFQURCTTYtbThnWlQ1amNNck9nYmFhOXoxNVdnZDhUand5Qlg4T1U4em4zUXRYN3dPNVEzUXJzLUs2a0VScXhVNGNpdzRiTWd3OXNPRUFKeG9uQWhJdmFFbWJpcTJNeTluVGtVWndqMnhHZXM2SmM4bkVaUQ?oc=5",
+      "summary": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer StreetInsider",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -275,6 +363,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 - CNET",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ibDRXNUllVGFTVDNMbDltUUtpM19KQUwyV29fVDNTVjcwdWtIT1JsUmg0MXY4bmQ2ZjdMdkhOV0l5THpEckYwS2N5ck03czl1bG96S2NWQ21YS0tUU1J6X0JvVUlNMWpZckw1SFJGdWgtMlA4QV9yVXRIZUlOUQ?oc=5",
+      "summary": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 CNET",
+      "badge": "new",
+      "date": "2026-10-05"
+    },
+    {
+      "company": "Meta",
       "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUIydzZYNjQ4a2RSMEROU0N4RC1NM2JPdXp3RTdtRWVqSjc0Zk5YTU9EWGd2ZEtWSk1JTkZacVkwejgyajZIRlRvMnNsSkkzMFhFbzczNGM4eVVRLXktR19kYjNybkdpVzl4bkpIdHFzRVdYSmlUTjkwR2Z2VjR5cnpSMlRLcEVFSnVlVUN0MTdRLXZERzI1eURTaGxTNllCTndqbtIBqgFBVV95cUxPcVFrM05qVE9lTUtNUUdYV0ZtZ0xNSy1NdGQ2aURSQU1pd3g3ZnA1YlMwbUxPaFZhWlh4bWVwQ3NvalBSajNFZk5DNlA0NjVERUZiLXZ0cmZhMHdRQXo0dVg5elgyTjZsbDR5Sl9KWVJvaVVNZGRKZGFrWlpzak1veGN0Yy1PX3FIWEJCYXl3YlpFMXhnaFg4ZHpkcVMxblp4NTRWM2pRT2FPdw?oc=5",
       "summary": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing CNBC",
@@ -286,14 +382,6 @@
       "title": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes - New York Post",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXVSOG1vbTdMOXQ1TVR5WXJsdkhvZFdTVE5QNnR3VGZNaTJxNjhRNFNESUNhUDgtYzhYWFdWWERpRzBncHFYN3RROWJZOUFYZS1GZVE3RXIyQlNsTFF4eEF1RHBZZzdDRVlYN01xYXRicWxrX3pHdU10aG1TVGNMWlMzVVNFekw0MU1YTVN4Z1N2dGNzd1VlUHlQRlYxZTJ0aXQydzVCQk5OWUFVcFhxT3ZpT2Z6Z3RhTlRjZGlGSHc0c1VzeERXdlVsaGhPUjA?oc=5",
       "summary": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes New York Post",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 - CNET",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ibDRXNUllVGFTVDNMbDltUUtpM19KQUwyV29fVDNTVjcwdWtIT1JsUmg0MXY4bmQ2ZjdMdkhOV0l5THpEckYwS2N5ck03czl1bG96S2NWQ21YS0tUU1J6X0JvVUlNMWpZckw1SFJGdWgtMlA4QV9yVXRIZUlOUQ?oc=5",
-      "summary": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 CNET",
       "badge": "new",
       "date": "2026-10-05"
     },
@@ -330,14 +418,6 @@
       "date": "2026-10-04"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft adds agent governance and usage controls to Copilot - MSSP Alert",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2o1X2tTWFdQRzNlYS0zdjFkUjZrcXhEUVItUXExUkJUdFhpNnlVbkxtcWMxS1dMTTNFNnYzVjFyYm5QeVBZY2pqRmxrY2dBcHhqMFctbVVsWWRCd2tab3hqUFZrbDd4czZwVE94WC1iMGNZdGhQWm9oYWRDSTlpQTEtLWxUZ3IxeU9COWJjcWZPb3hHYmJta1k4eUV6YWVmVmRJ?oc=5",
-      "summary": "Microsoft adds agent governance and usage controls to Copilot MSSP Alert",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
       "company": "Perplexity",
       "title": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives - XDA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVFIXzJjc0RvN3dZZXI2d1QyelMtbTMtZzhQWDZUVWtsSHdWYUtyanEtR0RHWGQ2NVg2YXM4Ti05eUI0R2RFZGxGWTRCTGp1V3QwZmJpTGREY3NfLUhxcWM5eXJTdUR2aHdhQWtYSjRTelVZQVZaLXJpSllUazhoVnB1MkZhUUtsZ1AxVm9DYmlqZ0wxNWVJcGZJZlJVNVExMHVDdjVaeXFJdTg?oc=5",
@@ -346,34 +426,10 @@
       "date": "2026-10-03"
     },
     {
-      "company": "Meta",
-      "title": "Billionaires Are Suddenly Dressing Like They Deal Weed. I Have a Theory Why. - Slate",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHOXo3TXdkWnQ5TllYdWhESHhLVHAySUdoVFlmZFJrTmVfbmJseER4UEVOcUV4Qlhkek1CbkdZM2hqcVQ4VzFNb0FEUkhVZ2VvS0dUQS1FTjlkWWJiLURlZVZtRm9VdFljQmZ5a1NrdUduVjhOdVpnWTFR?oc=5",
-      "summary": "Billionaires Are Suddenly Dressing Like They Deal Weed. I Have a Theory Why. Slate",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJxN0lVX3o4N2tHdU5rcmd5TnowWkIzaHViMnoxSmRrZGpCQ1NJc2VFcndRZWsyR2xucE9LMUpjMHZsUUNRSUVIb0pQa0Ztc2pxZndkdUZ2VXRudEV6NmdyZndPVFRqNWRYOHlRMktOVnZ6ZFZKdk9QV2xUX2d1VzBaTkxuQ2lPUGVtSXlB?oc=5",
-      "summary": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ finance.yahoo.com",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
       "company": "OpenAI",
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "badge": "new",
       "date": "2026-10-02"
     },
@@ -392,38 +448,6 @@
       "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
       "badge": "new",
       "date": "2026-10-02"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "badge": "hot",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Inside Microsoft’s big Copilot rethink - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0dKY2FCNlRYRGlCdnNNRDhlcmhmQUx2empqRmxFYnZnTnE5RzdJU3hVN0Z2WVNqdWtOSmtXcDRWQ1czYndQeUFJMUE1S1pvZV9hSXByRWp6TF9YY09kdHBRNjNJcEhiOC11ak5WcVozWUQ0ZXBwekJOXzBpMHJGVw?oc=5",
-      "summary": "Inside Microsoft’s big Copilot rethink The Verge",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Microsoft",
-      "title": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGtwRjFqYUNSQVR5M1N4TEZmYVVhMUZ4cWRqbENtSWF0S3ZiZkJOb1NXREc5elFIc0t2Ynhtczg2OVJvNE1CV0JRcGh6b2huakNrSk9VRHR6blFtQy1QMUJHVmNWZlF3SjdwdkRRZ0NSc21ZM2NjTk4wS2cxX2dVV1dFWVZQWkU?oc=5",
-      "summary": "I tested 3 ways to build an Excel dashboard with AI, and the simplest method won How-To Geek",
-      "badge": "new",
-      "date": "2026-10-01"
     },
     {
       "company": "Perplexity",
@@ -447,14 +471,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDlMMkl0ZURwdFIwaFJ3SjVNR185WGNzQy13QlhjMWJDY0ZtbWFBUEt2SVZiOWlPaXJPbEZzYXNXd2dVTTRESTZpRTZZVnRweVM5N2hHSDR5ejJBTERZdXVaWkpSXy1RQmc5UnNHNVdEX1JMZHZ5Szk5b0kzbW15cU5ZOThnMDA5YVlHRkxyRE9sTUY1Mnc?oc=5",
       "summary": "Perplexity Launches Business Skills for American Express Card Members Unite.AI",
       "badge": "hot",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI user and revenue statistics - Search Engine Land",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90S2hIQzVtbEg0TXhPT3RzUFdXRHBnSEQ0cFQyRWpWUzBETUNpZEtBdWVBRmxZdnhtNkFhTWZjdFhualNyaTRjOXp5djVLX3A4aDVUdU55aGMxUVdVNmQ3bmNOc2ZyZEU?oc=5",
-      "summary": "Perplexity AI user and revenue statistics Search Engine Land",
-      "badge": "new",
       "date": "2026-10-01"
     },
     {
@@ -520,14 +536,6 @@
       "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
       "badge": "new",
       "date": "2026-09-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "summary": "Apple today released the next generation of Apple Intelligence.",
-      "badge": "hot",
-      "date": "2026-09-22"
     },
     {
       "company": "Google",
@@ -632,14 +640,6 @@
       "summary": "Ring cameras may plan to track people using AI, according to leaked emails Mashable",
       "badge": "watch",
       "date": "2026-07-28"
-    },
-    {
-      "company": "Amazon",
-      "title": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy - CNET",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0E1WVd3dERWNnBmYjd3TXNOZjliNzBneEZKcERTZWdxVlVCRHNwV2RXckRzVW53YlFOZjRZNVNmbm8xZUEzZ2Jqazl6RmczMEdZYS1kTEtZSXVOdFZtT3dEQjVDaWRIOFZoU1BOZ1VJSkhkV1Izekxuc0F5RWlfQWcyQ0pYbTA1djRmQWNvNkMtWnFhNU0tU2NaNXpxbHctT2VYaS1n?oc=5",
-      "summary": "9 Ring Security Settings You Should Turn Off If You’re Worred About Privacy CNET",
-      "badge": "new",
-      "date": "2026-07-23"
     }
   ]
 }
