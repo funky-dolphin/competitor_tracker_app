@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:52:06Z",
+  "updated": "2026-10-07T12:30:02Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -15,6 +15,14 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhUUnpNdE5CR1VFVEx2Q1NsTjg5cjNCb2VYazhWeERKMVpMOWdlQVFteW52b1o5UTRONGt4TmdJbE8xbld4RHFkaE5vSHQ2MHBFdVlOY1ZSeVJsamNVc0VERHp3dE5xUmV6Ymk5S1FvblZlcTU4REVZQ2kwVHRBck9Ma1dkVk9Bb3VfVUphN3V3X1FsNThpVzlMTktSSGV4SHlhZzU1MEZicW5vQTQ3SlNoUldWcFBMVlMw?oc=5",
       "summary": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users Bloomberg.com",
       "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Google",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "Overview of Playground",
+      "badge": "hot",
       "date": "2026-10-07"
     },
     {
@@ -91,6 +99,30 @@
     },
     {
       "company": "Anthropic",
+      "title": "Expanding the Cyber Verification Program - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
+      "summary": "Expanding the Cyber Verification Program Anthropic",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+      "summary": "Anthropic opens its most powerful AI models to more security teams Reuters",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Expands Access to Latest AI Models for Cyber Firms - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFDRnZGRFVzbHJ2T2pHTE5yR0pGWkNxTmxrWldxNkNONFVWSThUU2Zta3VJV0Ryd3BTcjRsV3V1QXRPZFZzS09weVdicWpxOEhSbFliTGVPVVU2X3BDZHhQSE9GdmJJcUlJcV9fSEtMaGdCYmdmYUtadDBnWnpTMUFUSFBMRGVDQjdhYWhLd0NQWmMxMERTSlhhUlc5RjFWc0gzWmZCVUVGaUhYN0MzMQ?oc=5",
+      "summary": "Anthropic Expands Access to Latest AI Models for Cyber Firms Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5",
       "summary": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies CNBC",
@@ -126,14 +158,6 @@
       "title": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPek92bW43WU9RZ1dyajlJYWMzYkZvZzRPRW92d3NRaEhBMEQ2OUdQMlh2bUR4MW1EMzUxMUNxMHJHdjZFX05KcTRCb0E4Tk9yWjJwa2JSSUlsSFY4UE03NlpsUVRZTTNLVnN6eUdpSHNTQUpRNUxLZ1JFMjB6NlNJTkpIbXJtcHUtXzlQZXFJY28zd2xweWo2UA?oc=5",
       "summary": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges The New York Times",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-      "summary": "OpenAI, Anthropic tell Australia they would welcome data breach rules Reuters",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -202,22 +226,6 @@
       "date": "2026-10-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI - SemiAnalysis",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-      "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI SemiAnalysis",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
-      "summary": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told BBC",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
       "company": "Microsoft",
       "title": "Amazon hires Microsoft's former Copilot CTO - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmpZcGRaRk42NlpsNjhCd1dmelZkRkFPY2E4M0tlVTh3elE2SmEwNGg2X0pDMXhUZHUtLUdBOHpDeDBHbDdmbjh4dm5yTDJrdEdscnJ5ZkpqOXl3Y0labVZVN1MxSnVpZVJDMC1xXzFWNE9WRjdlcDVzMkJPclBYTjJweGpzdWZDMTAtOVVXT05VSllDY244U3l4QQ?oc=5",
@@ -267,17 +275,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXVSOG1vbTdMOXQ1TVR5WXJsdkhvZFdTVE5QNnR3VGZNaTJxNjhRNFNESUNhUDgtYzhYWFdWWERpRzBncHFYN3RROWJZOUFYZS1GZVE3RXIyQlNsTFF4eEF1RHBZZzdDRVlYN01xYXRicWxrX3pHdU10aG1TVGNMWlMzVVNFekw0MU1YTVN4Z1N2dGNzd1VlUHlQRlYxZTJ0aXQydzVCQk5OWUFVcFhxT3ZpT2Z6Z3RhTlRjZGlGSHc0c1VzeERXdlVsaGhPUjA?oc=5",
-      "summary": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes New York Post",
+      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUIydzZYNjQ4a2RSMEROU0N4RC1NM2JPdXp3RTdtRWVqSjc0Zk5YTU9EWGd2ZEtWSk1JTkZacVkwejgyajZIRlRvMnNsSkkzMFhFbzczNGM4eVVRLXktR19kYjNybkdpVzl4bkpIdHFzRVdYSmlUTjkwR2Z2VjR5cnpSMlRLcEVFSnVlVUN0MTdRLXZERzI1eURTaGxTNllCTndqbtIBqgFBVV95cUxPcVFrM05qVE9lTUtNUUdYV0ZtZ0xNSy1NdGQ2aURSQU1pd3g3ZnA1YlMwbUxPaFZhWlh4bWVwQ3NvalBSajNFZk5DNlA0NjVERUZiLXZ0cmZhMHdRQXo0dVg5elgyTjZsbDR5Sl9KWVJvaVVNZGRKZGFrWlpzak1veGN0Yy1PX3FIWEJCYXl3YlpFMXhnaFg4ZHpkcVMxblp4NTRWM2pRT2FPdw?oc=5",
+      "summary": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing CNBC",
       "badge": "new",
       "date": "2026-10-05"
     },
     {
       "company": "Meta",
-      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUIydzZYNjQ4a2RSMEROU0N4RC1NM2JPdXp3RTdtRWVqSjc0Zk5YTU9EWGd2ZEtWSk1JTkZacVkwejgyajZIRlRvMnNsSkkzMFhFbzczNGM4eVVRLXktR19kYjNybkdpVzl4bkpIdHFzRVdYSmlUTjkwR2Z2VjR5cnpSMlRLcEVFSnVlVUN0MTdRLXZERzI1eURTaGxTNllCTndqbtIBqgFBVV95cUxPcVFrM05qVE9lTUtNUUdYV0ZtZ0xNSy1NdGQ2aURSQU1pd3g3ZnA1YlMwbUxPaFZhWlh4bWVwQ3NvalBSajNFZk5DNlA0NjVERUZiLXZ0cmZhMHdRQXo0dVg5elgyTjZsbDR5Sl9KWVJvaVVNZGRKZGFrWlpzak1veGN0Yy1PX3FIWEJCYXl3YlpFMXhnaFg4ZHpkcVMxblp4NTRWM2pRT2FPdw?oc=5",
-      "summary": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing CNBC",
+      "title": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXVSOG1vbTdMOXQ1TVR5WXJsdkhvZFdTVE5QNnR3VGZNaTJxNjhRNFNESUNhUDgtYzhYWFdWWERpRzBncHFYN3RROWJZOUFYZS1GZVE3RXIyQlNsTFF4eEF1RHBZZzdDRVlYN01xYXRicWxrX3pHdU10aG1TVGNMWlMzVVNFekw0MU1YTVN4Z1N2dGNzd1VlUHlQRlYxZTJ0aXQydzVCQk5OWUFVcFhxT3ZpT2Z6Z3RhTlRjZGlGSHc0c1VzeERXdlVsaGhPUjA?oc=5",
+      "summary": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes New York Post",
       "badge": "new",
       "date": "2026-10-05"
     },
@@ -566,14 +574,6 @@
       "title": "AI for everyone in every language",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
       "summary": "Animation of several words in different languages slowly zooming past",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Google",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
       "badge": "new",
       "date": "2026-09-15"
     },
