@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-06T22:10:54Z",
+  "updated": "2026-10-07T03:52:06Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
+      "summary": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee Fox News",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhUUnpNdE5CR1VFVEx2Q1NsTjg5cjNCb2VYazhWeERKMVpMOWdlQVFteW52b1o5UTRONGt4TmdJbE8xbld4RHFkaE5vSHQ2MHBFdVlOY1ZSeVJsamNVc0VERHp3dE5xUmV6Ymk5S1FvblZlcTU4REVZQ2kwVHRBck9Ma1dkVk9Bb3VfVUphN3V3X1FsNThpVzlMTktSSGV4SHlhZzU1MEZicW5vQTQ3SlNoUldWcFBMVlMw?oc=5",
+      "summary": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Apple",
+      "title": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
+      "badge": "hot",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
     {
       "company": "OpenAI",
       "title": "Advancing computer use with Ironclad",
@@ -35,6 +107,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them - Inc.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGx5bVFscUl2RnFNaHZOdWd5aFlOUVUxSERwWjZYNWRKcU96aWloWlI0RnVxSTlaSF84SUtyU2xRcWEtSGNUY0FSNjlTWjlhZ1ZteDhhQzZlXzhPS1hEYmNfUUs4dkNQb0tJY3ZnN0g1MzVpeVdkMkpXdTBsQkcteGQ5bERsME1fSTN0X0hrREFTN1kwaTA0VV8yUkl4dnppZzVneUk0eEJXdE14NXRWNGlmUnVjcmJPSkI1Sjl0UFV2ZGVQeTVVVFFoTFg?oc=5",
+      "summary": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them Inc.com",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic Expands Discounts and Support for Founders - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVktlTklUd2picGk3dGJqaUxXVC1ZUVJSQ1Fuc0VGc0sydDZPemdyMXlrT0Y2Z2lDN2d5S01ULUxfc2JFeHlVREw1UU1oY3VCZTZTY2NOZkRlTUVnakpfYTJxRGtuLU5xSS1OYjNvZE80YlQzZ0w3SzcyWFpaMTNxR2dqVk5ablpMcXU2NnhDTjQ1dkt5OFZmMndhbnhxT1NxRjNpVA?oc=5",
       "summary": "Anthropic Expands Discounts and Support for Founders PYMNTS.com",
@@ -51,14 +131,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhUUnpNdE5CR1VFVEx2Q1NsTjg5cjNCb2VYazhWeERKMVpMOWdlQVFteW52b1o5UTRONGt4TmdJbE8xbld4RHFkaE5vSHQ2MHBFdVlOY1ZSeVJsamNVc0VERHp3dE5xUmV6Ymk5S1FvblZlcTU4REVZQ2kwVHRBck9Ma1dkVk9Bb3VfVUphN3V3X1FsNThpVzlMTktSSGV4SHlhZzU1MEZicW5vQTQ3SlNoUldWcFBMVlMw?oc=5",
-      "summary": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Anthropic",
       "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
       "summary": "OpenAI, Anthropic tell Australia they would welcome data breach rules Reuters",
@@ -70,46 +142,6 @@
       "title": "Microsoft Sets up a Second AI Paycheck as Copilot Shifts To Pay-Per-Use - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeWNjZlgzNHVfS2xDbXd0ZWUwc1RzcjJYUjB2VGNiejJMeERLS0VHaUw2bGxyZlNleWVpMGdmQzV4d1B3OHZmdDhheHJlYnFHYlVOUUxDdnZFMjVCTEs5bFl3V2RKUC1UWEE4YXptOHZOTExMX0YyWlExdlpFYWNISDU1Q3hJWk1XekZ2ajNVd01SMnRrVmw5YU5fbmJUaE5EVklaSkRYR0xaWW5TNGdXQWFYUjZoRXRzM2huMzJVNDRBNWp3dnJYTlNIVXd3NVVtMWMxOTVLNWVtSGc0M1NIXw?oc=5",
       "summary": "Microsoft Sets up a Second AI Paycheck as Copilot Shifts To Pay-Per-Use Benzinga",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Apple",
-      "title": "New updates coming to Apple Creator Studio",
-      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -134,6 +166,14 @@
       "title": "Meta’s Muse AI Agent Is Building a Dossier On You - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MR3ZoNkVqVlVoaDFQVzJoUTcxTS1lOG5uSWJ4bUlUSi1OVk5sd0Y5TG5TdXVHbnJpaG10T3I2ZC1UcDRCTTBkS1MwNWQ4Vm9aQU1TMFhLTGVSYUZaYUt1T1RNRElhcW5Xa2g4XzZ5dDY?oc=5",
       "summary": "Meta’s Muse AI Agent Is Building a Dossier On You Time Magazine",
+      "badge": "new",
+      "date": "2026-10-06"
+    },
+    {
+      "company": "Meta",
+      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
+      "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' Reuters",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -178,22 +218,6 @@
       "date": "2026-10-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTA3OUNCV3JxZTM0NnZBdkJEUzhVN3cxOHhQX2owUVc2Y2lFcXZsZFdMbGtGX0dYWEc1Z2ZPN3FQb0F6X0pRZE9xNDBZdDhJMVhDMEY1cm9XQzJzeHhUS3Q5c3k0aC1penE1UC1LTHJRZWY2VnFIaXpVZEVIakxnZkxsR0U0WE8zbWdTNVhlalhXQmJiSUJRNHNuaEFiV19NZFhxSExZZW9mWWIyN2x2QUhsYlFXUGNmNHh2N0N4MA?oc=5",
-      "summary": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing Bloomberg.com Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports Reuters AI researcher warns '",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI CEO says \"bad things\" part of AI trade-off - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTR6NkdzbFdJWGlvMjJiMDl1a3dzMG4tbk1PM3RlR2I4Ry1CUGtQUFlMMkI2RTlKVUdpOUlNLTB3RHhmWTJSV0VzOTBCSzRzdFkzNWV4bnJrdkFvNDBPWlhHUi1ncF85TktpRWY5SFp1OFZyZU01MFFyN1I0dXFtOTdHYUh5anZlaUZ4dkJn?oc=5",
-      "summary": "OpenAI CEO says \"bad things\" part of AI trade-off Yahoo",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
       "company": "Microsoft",
       "title": "Amazon hires Microsoft's former Copilot CTO - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmpZcGRaRk42NlpsNjhCd1dmelZkRkFPY2E4M0tlVTh3elE2SmEwNGg2X0pDMXhUZHUtLUdBOHpDeDBHbDdmbjh4dm5yTDJrdEdscnJ5ZkpqOXl3Y0labVZVN1MxSnVpZVJDMC1xXzFWNE9WRjdlcDVzMkJPclBYTjJweGpzdWZDMTAtOVVXT05VSllDY244U3l4QQ?oc=5",
@@ -211,17 +235,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1pncjVJSDloNjF5eWF4eXBwWnlEWmNna0NuYTZVbkM5Mkx5MDZ4UXN0V1pvaWp6dGVtd0FtWmYwWWJFX2RRYkFLOThNWUR0MHA3UFVzR0x4dE5aQlBJQnlZT0ZzQzRkc3lJVmk3Vmp1T1NfZXNoYkI0bWJTZFZ1ZENybUcwNzVNeTNWUmo1eDFMMU5UQkRWUFdpcWlfanNFekhINFY4RG5XWkl0RFE?oc=5",
-      "summary": "Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work GeekWire",
+      "title": "Copilot in Word finally shows where its answers come from - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd25OWVhibjI2Z0J5ZVNXd3NkVGhjQ0hrNFNFR2hibU9HQmJUamFfcDBqMkYtc1lQY0QxbDZBcGN4RXBQTE5rZkJ0dW1fUHNId0hVTlJsTllibVktWjFsREhqTmlYc2Y3MENISW42TXZiM1ZvaXp4Vkd4TmxZTEY2YnVwQ3VUQjczeEwwcS1QTG9CeW9FZEVzUmtiYTlscWI5cGN4YjBVa1EtNXFyTlRXU1pRc1otdnZud2Fyek96N1dfYkFpMnNSVEF1TFBMVVBsdTU0NFVSa3U0dw?oc=5",
+      "summary": "Copilot in Word finally shows where its answers come from Windows Central",
       "badge": "new",
       "date": "2026-10-05"
     },
     {
       "company": "Microsoft",
-      "title": "Copilot in Word finally shows where its answers come from - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd25OWVhibjI2Z0J5ZVNXd3NkVGhjQ0hrNFNFR2hibU9HQmJUamFfcDBqMkYtc1lQY0QxbDZBcGN4RXBQTE5rZkJ0dW1fUHNId0hVTlJsTllibVktWjFsREhqTmlYc2Y3MENISW42TXZiM1ZvaXp4Vkd4TmxZTEY2YnVwQ3VUQjczeEwwcS1QTG9CeW9FZEVzUmtiYTlscWI5cGN4YjBVa1EtNXFyTlRXU1pRc1otdnZud2Fyek96N1dfYkFpMnNSVEF1TFBMVVBsdTU0NFVSa3U0dw?oc=5",
-      "summary": "Copilot in Word finally shows where its answers come from Windows Central",
+      "title": "Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1pncjVJSDloNjF5eWF4eXBwWnlEWmNna0NuYTZVbkM5Mkx5MDZ4UXN0V1pvaWp6dGVtd0FtWmYwWWJFX2RRYkFLOThNWUR0MHA3UFVzR0x4dE5aQlBJQnlZT0ZzQzRkc3lJVmk3Vmp1T1NfZXNoYkI0bWJTZFZ1ZENybUcwNzVNeTNWUmo1eDFMMU5UQkRWUFdpcWlfanNFekhINFY4RG5XWkl0RFE?oc=5",
+      "summary": "Amazon hires a veteran Microsoft AI leader to help build its tools for coding and work GeekWire",
       "badge": "new",
       "date": "2026-10-05"
     },
@@ -330,14 +354,6 @@
       "date": "2026-10-03"
     },
     {
-      "company": "Meta",
-      "title": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2U3VXVVQ2pldy1CZjZtS0lkd3RVZnZmMGI5OHh4QnZWSW5KSk1DMXhreXhuSUhGLUxvZnBudFJrQXF6c3RBZHVCY0w2SUZnMGx3akdLZ3lSNnZRVlFzbVE3ellmYm9FaTV1UUxLdnNITkVDbm5KbVpHTU9YVEhBcTFn?oc=5",
-      "summary": "Meta Is Using Its Massive AI Data Centers to Avoid Paying Billions of Dollars in Taxes Futurism",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
       "company": "OpenAI",
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -382,14 +398,6 @@
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "badge": "new",
-      "date": "2026-10-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "badge": "new",
       "date": "2026-10-01"
     },
@@ -440,14 +448,6 @@
       "summary": "Perplexity AI user and revenue statistics Search Engine Land",
       "badge": "new",
       "date": "2026-10-01"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "badge": "new",
-      "date": "2026-09-30"
     },
     {
       "company": "Apple",
