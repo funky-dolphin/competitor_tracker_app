@@ -1,6 +1,62 @@
 {
-  "updated": "2026-10-08T12:39:47Z",
+  "updated": "2026-10-08T22:45:28Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Introducing the Anthropic Cyber Mission - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+      "summary": "Introducing the Anthropic Cyber Mission Anthropic",
+      "badge": "hot",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive: Anthropic's new plan to protect critical infrastructure - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5",
+      "summary": "Exclusive: Anthropic's new plan to protect critical infrastructure Axios",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5",
+      "summary": "Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2twUlZwTmdvdVBobFlHazd4UnRGZ0Rqam1GQm15S184aDJ2ZzVUaWJXSElGNHFzSGFGU1R3X0d2T0ZmV0V0UXdlTUVwb28zeldaYzVNeWoxT19GTnpmUEl4eXB4UWlETElkNDZ5dGJqTWJSMWZIbHFwZ2FzMzBBTy1qcUIxZ2lGNFJ4NFo5c19HRDRUWXk0X2YyRUJXeHU5Z0Y0QXczY0plaUdtT0NF?oc=5",
+      "summary": "Anthropic changes usage policy to ban model abuse and election interference TechCrunch",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk - Bloomberg.com",
@@ -54,6 +110,14 @@
       "title": "The new Mac mini and Mac Studio are available today",
       "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
       "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTJEM2RHbkhZYjFxSmNmSVF6eTlfaHhZR29nMmFKTkkxTUxjUHgxSHdzVHdJMW0yZmh5ZWhPRDJWSDJ0cjdaT3h4R0NKMUs0TEpaaU9jTUlrUmxNR01kMFpOMVNqd2N6SkJ3OU5YeUV1YndFaUM2TG8yWE13QUJ4Ymd5T3lpLVR5NFl5U2pQNUFhZGNKdUJvLXROTGItUkJFZzFwZDhYbmR1X1EwR01VQkNDMjdtd2pIZ2dEamJmc0w0OHZUbHdteHVXU2Vtb2Z6bkhPS19abElXNEHSAdsBQVVfeXFMTUEyRDNkR25IWWIxcUpjZklRenk5X2h4WUdvZzJhSk5JMU1MY1B4MUh3c1R3STFtMmZoeWVoT0QyVkgydHI3Wk94eEdDSjFLNExKWmlPY01Ja1JsTUdNZDBaTjFTandjekpCdzlOWHlFdWJ3RWlDNkxvMlhNd0FCeGJneU95aS1UeTRZeVNqUDVBYWRjSnVCby10TkxiLVJCRWcxcGQ4WG5kdV9RMEdNVUJDQzI3bXdqSGdnRGpiZnNMNDh2VGx3bXh1V1NlbW9mem5IT0tfWmxJVzRB?oc=5",
+      "summary": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA MarkTechPost",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -130,30 +194,6 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFR3UFJmaG9ULVIyNzJoT2lqZmZRVF9GNmJkNVdZdldUZ3RkdlY4T1dyQktJcnZnSklqczFoRzJGbDFITDhzc2Q5TUR4OExfTDJ2ckVTRF9mZ3ZVZ3phMFJkaThEeTIySVZSdzA3dE9tMWREVDh5WHV6b0tIUVNTRXNURmI?oc=5",
-      "summary": "OpenAI publishes new math proofs as super PAC targets AI-backed candidates Fox News",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5",
-      "summary": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee Fox News",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhUUnpNdE5CR1VFVEx2Q1NsTjg5cjNCb2VYazhWeERKMVpMOWdlQVFteW52b1o5UTRONGt4TmdJbE8xbld4RHFkaE5vSHQ2MHBFdVlOY1ZSeVJsamNVc0VERHp3dE5xUmV6Ymk5S1FvblZlcTU4REVZQ2kwVHRBck9Ma1dkVk9Bb3VfVUphN3V3X1FsNThpVzlMTktSSGV4SHlhZzU1MEZicW5vQTQ3SlNoUldWcFBMVlMw?oc=5",
-      "summary": "OpenAI and Anthropic Face Rising Price Pressure From Big AI Users Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
       "company": "Google",
       "title": "Introducing Playground: Create and play custom games",
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -166,6 +206,22 @@
       "title": "Microsoft is about to let Copilot loose on your file system - The Register",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3lvMHlPRkg2RnlLanF3azBtVUY2cW1lMXBiMVhwZkl3bWtxTW85LVY0cnJob0IyeWU5NFFpUGNZN0ExNVRlMmU5TXFyS0tqMHg0a3VWYkdCaGdTR1FqX29ZVkdCeTVUeXN4cE1mUUZqSmxOc25VZ0FiaWNybHVRTDR0SnRRTHBzbnFBS0RhRnprVUVLMUNNcXBNOWtVTzd2dFI4UlZJeFRVTkhseVpfZTZLV3FUQUVILWNHZg?oc=5",
       "summary": "Microsoft is about to let Copilot loose on your file system The Register",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Building Windows for Hybrid Intelligence - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXZ5NnowbzFpRTdJdHZ0c0g5UEhOZDhhNHMyb3czenlTUTlHNlFsQjBEdlN3Q0NpRmFUVE9vdm9UMGw5NXloRkZsTzRrTjFkeWNKcGVaeHR6bGlHazJoblREc0pwVTFEOVFHYXQxb0Jud0hLYXl1SUM3ZG5UNWppV0VtQ0YyNHA2bG1tdE02VVgxUQ?oc=5",
+      "summary": "Building Windows for Hybrid Intelligence Microsoft Source",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft plays the Windows card in the AI game, with help from Nvidia - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZLeUxsRXo3dGM4c0xsRVQ2b2Z6WEpRMlV3cHYtWm12SW5salRSQzJ1c1cza0RuLUJKU1F3SGdHc1c4M2s4bFptYUxmM2l4b0dxcnhMY3RBWkQtNEJVci1VOXF4QkNpZzl0WVU4RHAxNTJJd1hDSEhvUnZUaFZrZTBDc3NkWEQ2UnJJMVNmX3JlRkZnM3RzbkQ4ZmlQNHRkc0E?oc=5",
+      "summary": "Microsoft plays the Windows card in the AI game, with help from Nvidia GeekWire",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -243,6 +299,30 @@
     },
     {
       "company": "Meta",
+      "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZm1vTGEwZkNVbWZTQ1JrUGlyNjVQeTlTTGV5dlcxdzJHSzdPUFdkeE9HUUxnMUFnOUVKTExUN0lvS1VUTW5kTDNUdzlmUGRlRFd0bEpLOXFqRFlTWTJYQ3pucjVqaHk1Tnp5a2VHRF93dw?oc=5",
+      "summary": "Why Data Centers Are Such a Big Part of Meta’s AI Approach Facebook",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
+      "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Ray-Ban Meta (Gen 3) Review: Technically an Upgrade - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdzVxb0s1enBrY1BsSGFiQVc0UG9JVHVWN0w5cDZZVEJUTnJNdWJOQXhHZzU2cHBTTktBXzd3dl9GcmdGdk9vdnRzZ09sTFdrYXdNaEtGbGJnOHNiQzhsRXZ3dElUMHdYM2JVSTBZS2JPTEs4c3c?oc=5",
+      "summary": "Ray-Ban Meta (Gen 3) Review: Technically an Upgrade Gizmodo",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
       "title": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven - Futurism",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkloaDlKMlNnOUhPWUtTX3lXTndzZ3JmQjZtSGViZ1RKZjUzRTZNamlsRkN3c0Q2UWFoR0hUc1liaERFbGs1MVFSallMeHJGOUVkU2xLSXFUYlBCRk5aZGxVdUdKenBSc0otWjlydjhXR1hhYThNcV9kVnA5QXVCTGNRYTNQUnFmQ1BZWkpfMlk1N0E?oc=5",
       "summary": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven Futurism",
@@ -254,14 +334,6 @@
       "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach - Facebook",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZm1vTGEwZkNVbWZTQ1JrUGlyNjVQeTlTTGV5dlcxdzJHSzdPUFdkeE9HUUxnMUFnOUVKTExUN0lvS1VUTW5kTDNUdzlmUGRlRFd0bEpLOXFqRFlTWTJYQ3pucjVqaHk1Tnp5a2VHRF93d9IBd0FVX3lxTE5hMkNrbzBaX1poeG9HeV8tS3NNa2xNVzdJMnV5Vm9iOW9KMGhhbkdLako2ai1iai1FX3NFSWFFZUtKMFRuV25WOUNfMHdsRHFxQlk2dTcxOVpYempZei1OZk1pelk3cWNjYXpzZ1g3ZFhvdmcteXNV?oc=5",
       "summary": "Why Data Centers Are Such a Big Part of Meta’s AI Approach Facebook",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
-      "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -303,14 +375,6 @@
       "url": "https://openai.com/index/atlassian-partnership",
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "badge": "watch",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Expanding the Cyber Verification Program - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
-      "summary": "Expanding the Cyber Verification Program Anthropic",
-      "badge": "new",
       "date": "2026-10-06"
     },
     {
@@ -362,38 +426,6 @@
       "date": "2026-10-06"
     },
     {
-      "company": "OpenAI",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "badge": "watch",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Amazon hires Microsoft's former Copilot CTO - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmpZcGRaRk42NlpsNjhCd1dmelZkRkFPY2E4M0tlVTh3elE2SmEwNGg2X0pDMXhUZHUtLUdBOHpDeDBHbDdmbjh4dm5yTDJrdEdscnJ5ZkpqOXl3Y0labVZVN1MxSnVpZVJDMC1xXzFWNE9WRjdlcDVzMkJPclBYTjJweGpzdWZDMTAtOVVXT05VSllDY244U3l4QQ?oc=5",
-      "summary": "Amazon hires Microsoft's former Copilot CTO Business Insider",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "More than a mark - https://microsoft.design/",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWm8zdzBFMEVEUUM1aVhUS01KRnk2aVN6dERVVnp3SVIxWmkxeFFzRXByZTVXMGtEcFVOejVUZEl2OEEzbE91dlgwb2paaUJJbHFIRFVQVlNNRVpIVFhIbg?oc=5",
-      "summary": "More than a mark https://microsoft.design/",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
       "company": "Perplexity",
       "title": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0p5VGxVWlFFSmNfS2IweWw1LVhlcTZHbnh6dEFmOUExUkhDWENaSlUzaW5HZHpsT0lrVG5jUlFtbDlGSUk1aEhQVlhoUTVhYnVUeVpoTXZVeXhQRHJMOUNZaWR2WmNXUnpncDNhTEhjUURqZkRCNnFjMVUxcEh3MGpaZzJlVUJ6bG1UdGpSa1ZYZzV5SDBtdVhud2t5Z3FfVklyR3ZEOXdFSUdjaHFFWjVmVjlSSzZESFdaNnlOcUt6QkJBM2xtYVFud1VaYVdOS3FsMjZIM3VoSWxE?oc=5",
@@ -418,36 +450,12 @@
       "date": "2026-10-05"
     },
     {
-      "company": "Meta",
-      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUIydzZYNjQ4a2RSMEROU0N4RC1NM2JPdXp3RTdtRWVqSjc0Zk5YTU9EWGd2ZEtWSk1JTkZacVkwejgyajZIRlRvMnNsSkkzMFhFbzczNGM4eVVRLXktR19kYjNybkdpVzl4bkpIdHFzRVdYSmlUTjkwR2Z2VjR5cnpSMlRLcEVFSnVlVUN0MTdRLXZERzI1eURTaGxTNllCTndqbtIBqgFBVV95cUxPcVFrM05qVE9lTUtNUUdYV0ZtZ0xNSy1NdGQ2aURSQU1pd3g3ZnA1YlMwbUxPaFZhWlh4bWVwQ3NvalBSajNFZk5DNlA0NjVERUZiLXZ0cmZhMHdRQXo0dVg5elgyTjZsbDR5Sl9KWVJvaVVNZGRKZGFrWlpzak1veGN0Yy1PX3FIWEJCYXl3YlpFMXhnaFg4ZHpkcVMxblp4NTRWM2pRT2FPdw?oc=5",
-      "summary": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing CNBC",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXVSOG1vbTdMOXQ1TVR5WXJsdkhvZFdTVE5QNnR3VGZNaTJxNjhRNFNESUNhUDgtYzhYWFdWWERpRzBncHFYN3RROWJZOUFYZS1GZVE3RXIyQlNsTFF4eEF1RHBZZzdDRVlYN01xYXRicWxrX3pHdU10aG1TVGNMWlMzVVNFekw0MU1YTVN4Z1N2dGNzd1VlUHlQRlYxZTJ0aXQydzVCQk5OWUFVcFhxT3ZpT2Z6Z3RhTlRjZGlGSHc0c1VzeERXdlVsaGhPUjA?oc=5",
-      "summary": "Meet Meta’s billionaire AI guru –a 29-year-old, mullet-wearing tech bro who posts racy meme jokes New York Post",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
       "company": "Perplexity",
       "title": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives - XDA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVFIXzJjc0RvN3dZZXI2d1QyelMtbTMtZzhQWDZUVWtsSHdWYUtyanEtR0RHWGQ2NVg2YXM4Ti05eUI0R2RFZGxGWTRCTGp1V3QwZmJpTGREY3NfLUhxcWM5eXJTdUR2aHdhQWtYSjRTelVZQVZaLXJpSllUazhoVnB1MkZhUUtsZ1AxVm9DYmlqZ0wxNWVJcGZJZlJVNVExMHVDdjVaeXFJdTg?oc=5",
       "summary": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives XDA",
       "badge": "new",
       "date": "2026-10-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "badge": "new",
-      "date": "2026-10-02"
     },
     {
       "company": "Google",
@@ -464,14 +472,6 @@
       "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
       "badge": "new",
       "date": "2026-10-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amex Adds New AI Perks for Small Business Cardholders With Perplexity - Upgraded Points",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkdNUXVOS3EzSjBMeVZBX2JxVVhFclFlQjcwTk01eXoyRHJ6UmJMaDh1SVhKdHpGOENoVm5fRGJ6eXdmblE0Yk1QbHl3cXBmNjFyLVNubHYwTDZ0amgxZW45LXBELW1LUmMycW1hemMyVG9VRU5MRlFTZllnNks2Wg?oc=5",
-      "summary": "Amex Adds New AI Perks for Small Business Cardholders With Perplexity Upgraded Points",
-      "badge": "new",
-      "date": "2026-10-01"
     },
     {
       "company": "Apple",
