@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-08T22:45:28Z",
+  "updated": "2026-10-09T04:10:44Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
+      "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Anthropic bans 'cruel' behavior against it",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
+      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
+      "badge": "hot",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Apple",
+      "title": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
+      "badge": "hot",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
     {
       "company": "OpenAI",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -14,6 +62,14 @@
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "url": "https://openai.com/index/pollo-ai",
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "OpenAI",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -38,6 +94,22 @@
       "title": "Exclusive: Anthropic's new plan to protect critical infrastructure - Axios",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5",
       "summary": "Exclusive: Anthropic's new plan to protect critical infrastructure Axios",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtaVTdoNVhBaUw0U2xoNzlWX1VPWmFQRXBMejZyWWpnUXZfMW9WUS1ZT2ExRkV6alhyVkNTdGhDVUpvRGJrWklZc0hKVFhZQnZuYXpyaUxRdms3TG9XSnJUbXhUbnAzTUtYcExwa1BVVy1EWmNHTWlpdGJibGNvdU9fQ1J2TnJGVnB1eDg1a1dpaThwa3dMNw?oc=5",
+      "summary": "Anthropic launches free AI security scans for open-source projects The Verge",
+      "badge": "hot",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUzRFekFCZGVRTWVpRExUVWJkYTVGeFYxekkxMkpmYnRJSF9sNXdOd3BGd0NZVnhzakp0eWwxR3hTX2tqdUdOZXd3WjVZRlhZaDFkOHpoVElnanRZZXhwaEdweDRCTlVPVHEzRmxUWUpPVTU5Y0NTRHpJam5zZw?oc=5",
+      "summary": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced CNN",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -74,42 +146,10 @@
       "date": "2026-10-08"
     },
     {
-      "company": "Apple",
-      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
-      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
-      "badge": "hot",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Apple",
-      "title": "New updates coming to Apple Creator Studio",
-      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "company": "Microsoft",
+      "title": "NFL Week 5 predictions by Microsoft Copilot AI for every game - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR19xU0pDY250cG9zT3V2eHZ4aDdpWEVJaXRjLUUxM254R0RzQTFiMEh4Zm9ZYjJpQ0xZZlA1U083MVdkU1p0X1pqOGV5V1NXR2ktZ011Wm5INjhycEh5WXNZQm9iM09zZGp3SGVlbnBQeDRNbEZZZWpfQkJ6VW9BYVlrNGl6NnhKLVpnZ3BmYnlKM1F4b2NESnlfbnVmRHZVTUxBSQ?oc=5",
+      "summary": "NFL Week 5 predictions by Microsoft Copilot AI for every game USA Today",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -167,30 +207,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
       "summary": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO Reuters",
       "badge": "hot",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic reveals Haiku 5.5 model as AI pricing war intensifies - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeHZ0WUJYU0QtenhKZXlFVWhIY2taQ1dCakNleGN1Ulp1Q3l1Ylk4V0Q1NDcyRDk1d2J6RXdUZzFIbnU5Rkc0Ykw2QVBQTGF3bVBuME85eTBPZW9QU3VnQVZWeW1POUFEVE5WTXlKY1ZMMjBXX2VpSVo2WV9uOXlqSm5aMzBYSlQ5N0hyLTVvb05jZXFyVlhpNEd5MXVNdy1Lc1VmQkhLVkV0QmJMd2NJeHVSMU51dU5Zc2FLTmRDUQ?oc=5",
-      "summary": "Anthropic reveals Haiku 5.5 model as AI pricing war intensifies Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOHF2ZzNBNk91NEdYZ05oZEU5enY1ZnEzNzY3cGptRzh2dUc2VGR2YnBSNFFBcGdqcWZJcWtPZnpQakJhZkV1cHc5My1Ea3k2OFJib3EzTXJXbDZidjI3RTNRdFkwU0pJSHdmRzdITUh6dzdBQWxkaTNTQXhkZkk?oc=5",
-      "summary": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws The Hacker News",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45MHNqR014dUJnRkpJRXJZNGtGNW9DT2l2NGdYYlB0blRWRUhIMS1TTVoySG1fRWxEZ3d4d1FpUFdkN1pqMGxuR1pyb1lwbnFybFIyMmVFcjBpT0JSMGp2bGlFcVVVdHc3SjRWY09kM3hHNy1udnlCbDlB?oc=5",
-      "summary": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner Business Insider",
-      "badge": "new",
       "date": "2026-10-07"
     },
     {
@@ -346,6 +362,14 @@
       "date": "2026-10-07"
     },
     {
+      "company": "Amazon",
+      "title": "Amazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1BIYS1aQ1owU2R2MGJoaXVSZ0k5R3BMS2ZZM3d5dHZta21WU05BbXJLQmZ3U0N5T0RtaUpjdy05aVJnenhBOXM0cjBhS2JGS0tOZFUybGR1NENrclc2azhxbWxkdEhxd0ItbEdLSUpISnhrVkJwNk1Zem1VT1oycmo5RzRpSlNmQ1g4SDdnMkUyRXlCdm9lR2p1NUJKNXpRR3BUMWFPck5VdjdrdDFHNEZlNnEwQzZjOTNN?oc=5",
+      "summary": "Amazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
       "company": "OpenAI",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "url": "https://openai.com/index/jump-trading",
@@ -366,22 +390,6 @@
       "title": "Advancing computer use with Ironclad",
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "badge": "watch",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Sets up a Second AI Paycheck as Copilot Shifts To Pay-Per-Use - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeWNjZlgzNHVfS2xDbXd0ZWUwc1RzcjJYUjB2VGNiejJMeERLS0VHaUw2bGxyZlNleWVpMGdmQzV4d1B3OHZmdDhheHJlYnFHYlVOUUxDdnZFMjVCTEs5bFl3V2RKUC1UWEE4YXptOHZOTExMX0YyWlExdlpFYWNISDU1Q3hJWk1XekZ2ajNVd01SMnRrVmw5YU5fbmJUaE5EVklaSkRYR0xaWW5TNGdXQWFYUjZoRXRzM2huMzJVNDRBNWp3dnJYTlNIVXd3NVVtMWMxOTVLNWVtSGc0M1NIXw?oc=5",
-      "summary": "Microsoft Sets up a Second AI Paycheck as Copilot Shifts To Pay-Per-Use Benzinga",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -632,14 +640,6 @@
       "summary": "Key facts: Amazon (AMZN) $25B AI sale; MS $500 target; 500 Tesla Semis TradingView",
       "badge": "new",
       "date": "2026-08-19"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring cameras may plan to track people using AI, according to leaked emails - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xOENzYVh0TTdTNDl6TXpxd21QMXlZaDU5MDhBalNDYkY4SnJSRFBUYjdrUXN2NllpRFlCaXVLRlhCdEpBVmxRMVU0LVphbHlvakpCbWxkbG85VmlvdngxTWhFWE50aHA3dEFITEhKWm4zV2ptT05mVA?oc=5",
-      "summary": "Ring cameras may plan to track people using AI, according to leaked emails Mashable",
-      "badge": "watch",
-      "date": "2026-07-28"
     }
   ]
 }
