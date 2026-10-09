@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-09T04:10:44Z",
+  "updated": "2026-10-09T12:26:48Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
-      "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Anthropic bans 'cruel' behavior against it",
+      "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Google unveils new cloud-based AI agent to",
+      "badge": "hot",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Exclusive: Anthropic's new plan to protect critical infrastructure - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5",
+      "summary": "Exclusive: Anthropic's new plan to protect critical infrastructure Axios",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHpYbFAtaXdvNGhkY3pGc1FVanI0LTBER09JSU9SeXpXQkdCVndPZ3dTcDVPQVNrT0NISkJwWE5MOGMzX2NHbFVTa3JBcFhNV2FMR1FPanNJS25yNEtvMHI2YURldnJfeEhVMlVvTUZrbzJqMWdKekdFd0dOWFdKbNIBhgFBVV95cUxPYzhZUWo3RDNTX3ZBbzNVRFBWQ3VkTlN4WEVaTV9TcTQyZ0M3V2loR1JEUGwyTmdjcFA0SmNWb3BTWjJzMThQSGZDd3Z3VVRjSVlNNFRmSC1KNVJhQVh1NzJyWXpob1JFT3JRcjZfR0lFWVV4UmRha2pzUUtQS21iSEpGLThJdw?oc=5",
+      "summary": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust CNBC",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -50,6 +74,14 @@
       "date": "2026-10-09"
     },
     {
+      "company": "Meta",
+      "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUtkVjlwSXlOeEVudTI3NWxvd0RVeDBVOGwySmNxOGZ3ZDRmODQ0UTZsZGpLRzNhZXQxWFRISmloVm5xTVdlMFFnNzI4Tm4zdmpiWnlURXYtc2lPeWszZTh2T0RMSnpKbHhjdk5rRmMxUk1sYXFUNkxqbGlSWkNBdkRVTmlJdFIyR005NkE2c1g1aHlkYWFyLTRvbjQwdXFpdzBsUVFkSWI1MkhvaUxoNHQtbzR4RS14M0VCRlNB?oc=5",
+      "summary": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent The New York Times",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
       "company": "OpenAI",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
@@ -87,14 +119,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
       "summary": "Introducing the Anthropic Cyber Mission Anthropic",
       "badge": "hot",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Exclusive: Anthropic's new plan to protect critical infrastructure - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5",
-      "summary": "Exclusive: Anthropic's new plan to protect critical infrastructure Axios",
-      "badge": "new",
       "date": "2026-10-08"
     },
     {
@@ -156,6 +180,22 @@
     {
       "company": "Perplexity",
       "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTFpMWtONHNxV3FDS0ladDN2X1RxY1lHTktDQlp1YmRuWDVjOGx0cFh1WWlSQ1pGSXgxYlJ3VHBsdEZ6RDhnZklLUTY5LU5JWmgzbkJQN3ctTS1teUllV1RiRUVSaUtzWk1HbHlRTGVxUW1rcVVfMS1Ka3BzaHVyTHNuODRseTJtdGtYTG1IazRKRWhqSzBXekcxbzlUTHd6ZWROb2pWc3JQU25pRWVQbHY2c0xyUl9pR01fOFJSMlRNRTJRUGZ2WTZkTGRZSWZCbEN30gHTAUFVX3lxTE1JMWkxa040c3FXcUNLSVp0M3ZfVHFjWUdOS0NCWnViZG5YNWM4bHRwWHVZaVJDWkZJeDFiUndUcGx0RnpEOGdmSUtRNjktTklaaDNuQlA3dy1NLW15SWVXVGJFRVJpS3NaTUdseVFMZXFRbWtxVV8xLUprcHNodXJMc244NGx5Mm10a1hMbUhrNEpFaGpLMFd6RzFvOVRMd3plZE5valZzclBTbmlFZVBsdjZzTHJSX2lHTV84UlIyVE1FMlFQZnZZNmRMZFlJZkJsQ3c?oc=5",
+      "summary": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA MarkTechPost",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Popular VC Paul Graham disagrees with Amazon ‘ban’ on Meta's Muse and Perplexity's Comet AI; says that bl - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVlVybDBQUVZsV0ZDVFdyUDZhX05lWHJSYjdnTzIzMXBXTkJXdVhtUXB4cV9GNzQtUmtvMFJiVm13dDdla0xLS29oQzYwQk5HU1kydWxrdGtPYjRoTUFBX3c4WVVBaFJ1X29RUXJ4RTR2X19FU3NmQlhyLVgzM1h3V2lsWGw3eEw4LVU0ZzA3d1FjOWo4WVd4SUxBMEF4aEotejQ2UzZYSndaZTFNeVNvYzZISzZJaGxUc1ZHZE9GRGxOdTVZOV9lcGlOR01vSzhGc29EOV9LelVaRm5DU0NqMm1Md2JsWXpjMTJaYzZRcVVnUHpKV09CTml0RXNnQ2NNdF9LRUlqV25ZcW5yTjA0NzBKTl9Lb00zV2c4bEhET0pUTGpES0gtOGVqbFFrUFdTQmxPbWhSUThHYUhiRVVnZkFn0gHHAkFVX3lxTE5ISThmdE9ENGNEUlhmWDMzNmw3S3R5TjdsUFNTdlR4cWxyLXVBUUtqQUd0Uk1melpkZWROSEJJZTlRc0dRd0xEUklKLWY3TmVsdGJ1TVQwSndTU1J6LWRFaTBnNlYyRFF3cm9mWTJQVFpjazV2WVc3Y05DTFA1dXlXWkN2c2RvYzdnMHlHa1RYeFZzNHZIQWZ5dVhObm9qNUVXVDVpYlVPM3cwOURESXhWWlNtWHV3a1YzcnNWQVF3dkJOOUl0eDljVUNxLTlIMEF6dEhmTWxLTER4YlpGUy1qUk1mU2o0WWFTcGpXeVhobm11WWlodlNTYXZPS2otem9xVWJEU1Vpa1FvWkxsTXJjQUU0aWVud25fTEVCMGdPZklpUjBhWlhHaERINHB1MmJ3c3VobmQzbE1pQk5pYkszQ25hOHh0dw?oc=5",
+      "summary": "Popular VC Paul Graham disagrees with Amazon ‘ban’ on Meta's Muse and Perplexity's Comet AI; says that bl The Times of India",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTJEM2RHbkhZYjFxSmNmSVF6eTlfaHhZR29nMmFKTkkxTUxjUHgxSHdzVHdJMW0yZmh5ZWhPRDJWSDJ0cjdaT3h4R0NKMUs0TEpaaU9jTUlrUmxNR01kMFpOMVNqd2N6SkJ3OU5YeUV1YndFaUM2TG8yWE13QUJ4Ymd5T3lpLVR5NFl5U2pQNUFhZGNKdUJvLXROTGItUkJFZzFwZDhYbmR1X1EwR01VQkNDMjdtd2pIZ2dEamJmc0w0OHZUbHdteHVXU2Vtb2Z6bkhPS19abElXNEHSAdsBQVVfeXFMTUEyRDNkR25IWWIxcUpjZklRenk5X2h4WUdvZzJhSk5JMU1MY1B4MUh3c1R3STFtMmZoeWVoT0QyVkgydHI3Wk94eEdDSjFLNExKWmlPY01Ja1JsTUdNZDBaTjFTandjekpCdzlOWHlFdWJ3RWlDNkxvMlhNd0FCeGJneU95aS1UeTRZeVNqUDVBYWRjSnVCby10TkxiLVJCRWcxcGQ4WG5kdV9RMEdNVUJDQzI3bXdqSGdnRGpiZnNMNDh2VGx3bXh1V1NlbW9mem5IT0tfWmxJVzRB?oc=5",
       "summary": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA MarkTechPost",
       "badge": "new",
@@ -202,14 +242,6 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
-      "summary": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO Reuters",
-      "badge": "hot",
-      "date": "2026-10-07"
-    },
-    {
       "company": "Google",
       "title": "Introducing Playground: Create and play custom games",
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -222,6 +254,22 @@
       "title": "Microsoft is about to let Copilot loose on your file system - The Register",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3lvMHlPRkg2RnlLanF3azBtVUY2cW1lMXBiMVhwZkl3bWtxTW85LVY0cnJob0IyeWU5NFFpUGNZN0ExNVRlMmU5TXFyS0tqMHg0a3VWYkdCaGdTR1FqX29ZVkdCeTVUeXN4cE1mUUZqSmxOc25VZ0FiaWNybHVRTDR0SnRRTHBzbnFBS0RhRnprVUVLMUNNcXBNOWtVTzd2dFI4UlZJeFRVTkhseVpfZTZLV3FUQUVILWNHZg?oc=5",
       "summary": "Microsoft is about to let Copilot loose on your file system The Register",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNi1IMlRyX1FGWU1LUjFQc2EycjdJMU10VkpDa19vS3dUZ3d2cUxzS20yaVRkM3ZHZk5qZ2d2UWg4b2x4bEJ0cVktbjJObE1XV3BGNy1TX3lmcHlsZlV1SmFvdkNwNmNTS0FpdDg0RktvUmlqeUdZODFOZVpjZ1lSMWE1YWo2dTZaTTNQVV9FR2lYS1U5TEZsZ254Zy1WdENWakJPMm1GM25fQnItTkE?oc=5",
+      "summary": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is giving Copilot more control over Windows and your files - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnQyTlFYNlhLaG4yVHFyS01KT19zcVlTVVJDUDN5M3N1V3YwVEI1N1NkWWJUN1l2d21UQjlMWERIVEE4cHMtTUlpWkxrWC15ajdXUE5DN05Cd2tzM0I1THoxbzBhWTBGX2hISzlGM1FsMUNGTUF1dDF0cWhXMkF6YURtZDk4QXlMams0M0dndEtkMlBJNHhfQU5DX1REMjZVY0tB?oc=5",
+      "summary": "Microsoft is giving Copilot more control over Windows and your files The Verge",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -251,25 +299,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNi1IMlRyX1FGWU1LUjFQc2EycjdJMU10VkpDa19vS3dUZ3d2cUxzS20yaVRkM3ZHZk5qZ2d2UWg4b2x4bEJ0cVktbjJObE1XV3BGNy1TX3lmcHlsZlV1SmFvdkNwNmNTS0FpdDg0RktvUmlqeUdZODFOZVpjZ1lSMWE1YWo2dTZaTTNQVV9FR2lYS1U5TEZsZ254Zy1WdENWakJPMm1GM25fQnItTkE?oc=5",
-      "summary": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Microsoft",
       "title": "100 Days Later: Microsoft still undermines browser choice - The Mozilla Blog",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmd2tHRi1ITXhKSzJ3aks3cW9ONG9UeGp6VVRobHRseVp2NXM1MFJIMk1jMWlNQVZuNnVGU09GR3NtdWxKNE91MGdKMVh1cFNvQzNVb2t2blBNbFRlaXhBMVoyV2lTQVUyN1M5NUhkbGViR1F6VVE?oc=5",
       "summary": "100 Days Later: Microsoft still undermines browser choice The Mozilla Blog",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is giving Copilot more control over Windows and your files - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnQyTlFYNlhLaG4yVHFyS01KT19zcVlTVVJDUDN5M3N1V3YwVEI1N1NkWWJUN1l2d21UQjlMWERIVEE4cHMtTUlpWkxrWC15ajdXUE5DN05Cd2tzM0I1THoxbzBhWTBGX2hISzlGM1FsMUNGTUF1dDF0cWhXMkF6YURtZDk4QXlMams0M0dndEtkMlBJNHhfQU5DX1REMjZVY0tB?oc=5",
-      "summary": "Microsoft is giving Copilot more control over Windows and your files The Verge",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -386,14 +418,6 @@
       "date": "2026-10-06"
     },
     {
-      "company": "OpenAI",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
       "company": "Perplexity",
       "title": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZXUxYm4xTnhLd2lUY2E0MGJ3clV2ZndFRHI2YzQ0ZjdfOG5Gc29yMFJXY2k2MUY1Z0RWZnc3cngxOGNMQm9faEhKWTZRcHRVUjNHbGVfd1JldzE0bFJvaXdpczRsMVpJTTVWYlNXeHh1YjBFQURCTTYtbThnWlQ1amNNck9nYmFhOXoxNVdnZDhUand5Qlg4T1U4em4zUXRYN3dPNVEzUXJzLUs2a0VScXhVNGNpdzRiTWd3OXNPRUFKeG9uQWhJdmFFbWJpcTJNeTluVGtVWndqMnhHZXM2SmM4bkVaUQ?oc=5",
@@ -450,34 +474,10 @@
       "date": "2026-10-05"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 - CNET",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ibDRXNUllVGFTVDNMbDltUUtpM19KQUwyV29fVDNTVjcwdWtIT1JsUmg0MXY4bmQ2ZjdMdkhOV0l5THpEckYwS2N5ck03czl1bG96S2NWQ21YS0tUU1J6X0JvVUlNMWpZckw1SFJGdWgtMlA4QV9yVXRIZUlOUQ?oc=5",
-      "summary": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027 CNET",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives - XDA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVFIXzJjc0RvN3dZZXI2d1QyelMtbTMtZzhQWDZUVWtsSHdWYUtyanEtR0RHWGQ2NVg2YXM4Ti05eUI0R2RFZGxGWTRCTGp1V3QwZmJpTGREY3NfLUhxcWM5eXJTdUR2aHdhQWtYSjRTelVZQVZaLXJpSllUazhoVnB1MkZhUUtsZ1AxVm9DYmlqZ0wxNWVJcGZJZlJVNVExMHVDdjVaeXFJdTg?oc=5",
-      "summary": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives XDA",
-      "badge": "new",
-      "date": "2026-10-03"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "A video showing the September AI updates",
-      "badge": "new",
-      "date": "2026-10-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] - upgradedpoints.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hV2ozamY4ZWM4TUFCTV9BYWlrMHVrSWQwb29hb3NRdHJfdDBqT3NzNWhqWXc3TVF3NmVtSkhNTVBWQzFqN1FmYTFOVzZjUnJLWGlBdmUwY1dDeUI5NEhfcU9HTUd3M3VaTmx5WkQyOXQ?oc=5",
-      "summary": "New Amex Offer: Save $125 on Select Perplexity AI Plans [Targeted] upgradedpoints.com",
       "badge": "new",
       "date": "2026-10-02"
     },
