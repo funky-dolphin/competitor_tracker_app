@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:26:48Z",
+  "updated": "2026-10-09T22:08:08Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -10,10 +10,18 @@
       "date": "2026-10-09"
     },
     {
+      "company": "OpenAI",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
       "company": "Anthropic",
-      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
-      "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Google unveils new cloud-based AI agent to",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5",
+      "summary": "Anthropic bans users from being 'cruel' to its AI systems BBC Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Anthropic Pauses Free Claude Startup Perks Days After Launch Forbes",
       "badge": "hot",
       "date": "2026-10-09"
     },
@@ -27,9 +35,33 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic AI model submits false homicide tip to Philadelphia police website - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
+      "summary": "Anthropic AI model submits false homicide tip to Philadelphia police website Reuters",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
+      "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Google unveils new cloud-based AI agent to",
+      "badge": "hot",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
       "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust - CNBC",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHpYbFAtaXdvNGhkY3pGc1FVanI0LTBER09JSU9SeXpXQkdCVndPZ3dTcDVPQVNrT0NISkJwWE5MOGMzX2NHbFVTa3JBcFhNV2FMR1FPanNJS25yNEtvMHI2YURldnJfeEhVMlVvTUZrbzJqMWdKekdFd0dOWFdKbNIBhgFBVV95cUxPYzhZUWo3RDNTX3ZBbzNVRFBWQ3VkTlN4WEVaTV9TcTQyZ0M3V2loR1JEUGwyTmdjcFA0SmNWb3BTWjJzMThQSGZDd3Z3VVRjSVlNNFRmSC1KNVJhQVh1NzJyWXpob1JFT3JRcjZfR0lFWVV4UmRha2pzUUtQS21iSEpGLThJdw?oc=5",
       "summary": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust CNBC",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5",
+      "summary": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer PCMag",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -70,6 +102,14 @@
       "title": "The new Mac mini and Mac Studio are available today",
       "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
       "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzRRY1RoV2d6WGpQdnh1WjdCcTZsQmljX0NNNmNMUXJFanNRTEhPb19sZkswakFNZThtYVVsN0lydWowRGFGOElLcEZ3aG1jalBLM3ptTy13OWJfOXhpZy15b0FHSTVDYXptY3VzNXdOZGNTVVRhOVZoRWk5TlpHWHhZSW5Vc2UwRUNnOHBEazhXZmtu?oc=5",
+      "summary": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion Startup Fortune",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -154,10 +194,10 @@
       "date": "2026-10-08"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOME9TY0hsNDBoX2Y5UmhoWkZKYlJTUTRHeWhqR3ZRQnhrc3FIZDFVRUhDY1V1N2p4dGJycnViMGxUb3JkSUhTWktYNnZfMGdrbWdRQWxuejIxM2ZZanEydWpTNzFwRU9TVURiZlUteXFvaExLd0V5dC1PZFoyVkVGQURCWHMzRU9XcmMzdUEtS1NkaFZVTXlfQ0dwd2RpZ3cyd2Y3N2c5U3hFT3BwM0k5UFVVWHhOQQ?oc=5",
-      "summary": "Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk Bloomberg.com",
+      "company": "Microsoft",
+      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVBJbVhlSWRyRUF2ZHZWM3NIcno3X01BcGlZQ1hTeld4M2NuYkN3dVJoNVF2M1piOEMyTUFlUEZnbGdPZWpnNFVDb3ZiS0kzbk52UDN4d2VnN2Rhb2hONmxzS3lUNi1hWkFlUkQ3RXg5cU5Hek44ZlhMSDVHcVVTVDZVcC1xM01PaDZNbUJKY2tvWk5IR0stZWQ3ZW94SnFyMWlEcXB5ZU5Zb3ZuT3dOeHZVa1BjWThXMDdDVHFpVkZkcHFvN0k4UEoxTkFhQVZMeFhtVVhoOTd6bXZCdjRzRU9rUU91RGs?oc=5",
+      "summary": "Bringing CRM into the flow of work and agents into business process for sales and service teams Microsoft",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -234,14 +274,6 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2dKUllnNVk3MmI2SFFNYUV4cm1jd3Z4VVJCcEJGclVRTDlSOE5NSkV2NjRBVm1PTEthM2tlVEUtNmZLV0UtMm5RY09IY1R2TFFpRkJhbDcwZ2F0allhc0lWNFNXS2V3UmVmdS1BdEtLY2g2WEk4aXlSSkR1Yjh3eFloUHVEVFhKR0k0eEdxY1dUcWRzeVA0UW9HVdIBoAFBVV95cUxOSnd6UVJsLTE4Rjc1dHE0bE9uMUZ1MnR1VnpvN2Y2M19mMkp1MVd2c1pBZUpQejhONC12REdXOHRuaGNuX0VaMkQwRW5jWTRvZGFUOEZNTlp1YnFXZmhSUEFtclRNZTNhVVg2TmtlNC0zWnBQOFF5dGZZM0QxdnlfclVsZGJCVnFPdU1xWUhuUGFZcUI4VXF1dEtSZ1A5ZEN3?oc=5",
-      "summary": "Anthropic will be 'most ridiculous IPO' of year, analyst says CNBC",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
       "company": "Google",
       "title": "Introducing Playground: Create and play custom games",
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -298,22 +330,6 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Microsoft",
-      "title": "100 Days Later: Microsoft still undermines browser choice - The Mozilla Blog",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmd2tHRi1ITXhKSzJ3aks3cW9ONG9UeGp6VVRobHRseVp2NXM1MFJIMk1jMWlNQVZuNnVGU09GR3NtdWxKNE91MGdKMVh1cFNvQzNVb2t2blBNbFRlaXhBMVoyV2lTQVUyN1M5NUhkbGViR1F6VVE?oc=5",
-      "summary": "100 Days Later: Microsoft still undermines browser choice The Mozilla Blog",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Building Windows for hybrid intelligence - Windows Blog",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlhoazVROUNXSmdpZjQxdjFINklLazg4a3BlYm5xcmM5b2JYQ2Vtb3ROeGp3ZEF3Ym9YWmx2b2hOSUh0MHFxLXh5bVgyVFhnZlMxaV9hOG9VQnlpdkJUUWpTOHI5UTQ1bFFIdDE4WU9oWFFYVDdnQ1VEMmxJcnhnaGYwTHlIajhDallaX2RnZUptc2pFSUY5NDhsclU?oc=5",
-      "summary": "Building Windows for hybrid intelligence Windows Blog",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
       "company": "Apple",
       "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
       "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
@@ -339,9 +355,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96cU13MzB4czVKVDdfOFRIcmZZcGVhckZIUjh1S2J0d0Q2SlhKNlFsRWdGcm1WZmlHOEtySnZ0a0RWcUpjUTZyUC1PM25HbnFJOWFyeEZ5WUlocmlPYTRfY185MElvanBfSGNVTE9jYVpzdDBLSWM0dDdPcGPSAYIBQVVfeXFMTWwwUzU2bUQtSmMtMjZtckw0Zy1DTDVnVUxmLWxVNlRBWmdmdEc5bzh0WU1vVjVnX3JrMU5WY2lkU2E1c2xZdS1FbTloaG1hYlhQbkJmYk1Zb0s4MVRzR3BBTjA0LS1tSnRvMVpXeE41dXYtYlhUbUsyU1ZsT0hMcnA0Zw?oc=5",
-      "summary": "Meta's Muse assistant tops app charts. Now it needs to become a habit CNBC",
+      "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
+      "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -355,9 +371,9 @@
     },
     {
       "company": "Meta",
-      "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
-      "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
+      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96cU13MzB4czVKVDdfOFRIcmZZcGVhckZIUjh1S2J0d0Q2SlhKNlFsRWdGcm1WZmlHOEtySnZ0a0RWcUpjUTZyUC1PM25HbnFJOWFyeEZ5WUlocmlPYTRfY185MElvanBfSGNVTE9jYVpzdDBLSWM0dDdPcGPSAYIBQVVfeXFMTWwwUzU2bUQtSmMtMjZtckw0Zy1DTDVnVUxmLWxVNlRBWmdmdEc5bzh0WU1vVjVnX3JrMU5WY2lkU2E1c2xZdS1FbTloaG1hYlhQbkJmYk1Zb0s4MVRzR3BBTjA0LS1tSnRvMVpXeE41dXYtYlhUbUsyU1ZsT0hMcnA0Zw?oc=5",
+      "summary": "Meta's Muse assistant tops app charts. Now it needs to become a habit CNBC",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -410,14 +426,6 @@
       "date": "2026-10-06"
     },
     {
-      "company": "OpenAI",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
       "company": "Perplexity",
       "title": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZXUxYm4xTnhLd2lUY2E0MGJ3clV2ZndFRHI2YzQ0ZjdfOG5Gc29yMFJXY2k2MUY1Z0RWZnc3cngxOGNMQm9faEhKWTZRcHRVUjNHbGVfd1JldzE0bFJvaXdpczRsMVpJTTVWYlNXeHh1YjBFQURCTTYtbThnWlQ1amNNck9nYmFhOXoxNVdnZDhUand5Qlg4T1U4em4zUXRYN3dPNVEzUXJzLUs2a0VScXhVNGNpdzRiTWd3OXNPRUFKeG9uQWhJdmFFbWJpcTJNeTluVGtVWndqMnhHZXM2SmM4bkVaUQ?oc=5",
@@ -443,17 +451,17 @@
     },
     {
       "company": "Meta",
-      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
-      "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' Reuters",
+      "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0NMWDhrajFVWi1NTnlneEo0NUVMb1lORjN1LV9Odi1FblhHSTYyUFZUbEhWVHZrS0doQUJHX2l0dHNoN2xLeTR3a0JHNWNVWlNpRTYyTkJnTGhZaWdOTmF4dVAydHQ3ZDdsMEJsMi1kazlBOV92R0lWT1hPcnRKQTI4V1d2SExCVlZNZnVvWHVpQll5Uk1lbk50TTFtYXVrb0dGcNIBqgFBVV95cUxQdEJ3QkhqZ290RjdObTVHZGlqZnZod0lmV0djTExDZWk3alpSeDlId243Z2pqanNZakVNTDR1TmxVM2o5TlRPczNaT1FWQmNQT2xjb2c4YW5SLTRBWUpjNTdrU2ptN2xUbVFzanRTS01iMVlVYVhqeGJsdFVNR3RWbE5MRlBabzRuS2VpZXExMVdMZThmRFlQbGl4OEllby1uVF95NzJ6MVNyQQ?oc=5",
+      "summary": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots CNBC",
       "badge": "new",
       "date": "2026-10-06"
     },
     {
       "company": "Meta",
-      "title": "Blind veterans can get free AI glasses Wednesday in Des Moines - Axios",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbktQRk9Tdzhmbk05bEpsR3ZFVFFoUVFsRE1LREZoemc0TE1BNXdaY3FWQnZNdVBFdGp3dDVidENOM1FRU3o3SlVGR3pjdXFXMjhZUUVZNE5MdWRoSnhrd2I5OTZLcWNtSjhYQmhYQmZGUGpCc3ZrYWQ1LW5SajUydk1ZdmprZEZnZGllYS1HaDE3bTFjSWc?oc=5",
-      "summary": "Blind veterans can get free AI glasses Wednesday in Des Moines Axios",
+      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
+      "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' Reuters",
       "badge": "new",
       "date": "2026-10-06"
     },
@@ -462,14 +470,6 @@
       "title": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0p5VGxVWlFFSmNfS2IweWw1LVhlcTZHbnh6dEFmOUExUkhDWENaSlUzaW5HZHpsT0lrVG5jUlFtbDlGSUk1aEhQVlhoUTVhYnVUeVpoTXZVeXhQRHJMOUNZaWR2WmNXUnpncDNhTEhjUURqZkRCNnFjMVUxcEh3MGpaZzJlVUJ6bG1UdGpSa1ZYZzV5SDBtdVhud2t5Z3FfVklyR3ZEOXdFSUdjaHFFWjVmVjlSSzZESFdaNnlOcUt6QkJBM2xtYVFud1VaYVdOS3FsMjZIM3VoSWxE?oc=5",
       "summary": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time TechRadar",
-      "badge": "new",
-      "date": "2026-10-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "American Express, Perplexity add AI Skills - The Paypers",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGxZaHJKeHB6T3Z4bUY4X2hiQ3BNcUNKM0VzSzZUYnZPLW9mRjJTMnpNUUZzZTI3Ni14UmhoazlxOFNmaWlzSkRqMktaR21FUW42cGhmWFJVSldFeUpTZWo3cnM0LWk5a1BxZUItNm9jNHFZN0stQ3pZYTFXb0Q4cGpxWjYxVFVnNlNWWWhSNEV2dVIxLUNpZHQ5b1NDY1RMT3BoT0VpYUc?oc=5",
-      "summary": "American Express, Perplexity add AI Skills The Paypers",
       "badge": "new",
       "date": "2026-10-05"
     },
