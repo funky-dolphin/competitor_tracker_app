@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-10T03:56:33Z",
+  "updated": "2026-10-10T11:45:44Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5",
+      "summary": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say 6abc Philadelphia Rogue Anthropic AI agent gave police fake tip in unsolved murder case BBC Anthropic AI Model Wen",
+      "badge": "new",
+      "date": "2026-10-10"
+    },
     {
       "company": "Apple",
       "title": "Apple, The King’s Trust launch initiative to empower young creatives",
@@ -59,6 +67,38 @@
     },
     {
       "company": "Anthropic",
+      "title": "Investigating unintended model actions in our evaluations and internal use - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
+      "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
+      "summary": "Scoop: AI companies plot \"day after\" scenarios for public revolt Axios",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5",
+      "summary": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI Fox News",
+      "badge": "hot",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic bans users from being 'cruel' to its AI systems - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5",
       "summary": "Anthropic bans users from being 'cruel' to its AI systems BBC Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Anthropic Pauses Free Claude Startup Perks Days After Launch Forbes",
@@ -102,6 +142,14 @@
       "title": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer - PCMag",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5",
       "summary": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer PCMag",
+      "badge": "new",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0hXRHJvc1J4MVdhYVdoWkJKWjRTMTVYdktFUy1TM3Jzb1k0SElxSWRIRV95VGhURFdCN2pYc2F1TW03RkhYRDE4Y203T2tnZjlRWndKS3dMR1duYXFTel9CdHFmZEt5NGk0R29pNmZpd0JtdVFNQUF2UGpxS1MzRXBWeUNSN3h1NEVsX1N4X3ZQdHBVWG5DZlVGcDVtaGhhU1c4Y0lyVnpXdG44NGlyOGJHMVlwMExua01Fdw?oc=5",
+      "summary": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits Neowin",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -150,46 +198,6 @@
       "title": "Disrupting AI-enabled “false front” operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Introducing the Anthropic Cyber Mission - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
-      "summary": "Introducing the Anthropic Cyber Mission Anthropic",
-      "badge": "hot",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtaVTdoNVhBaUw0U2xoNzlWX1VPWmFQRXBMejZyWWpnUXZfMW9WUS1ZT2ExRkV6alhyVkNTdGhDVUpvRGJrWklZc0hKVFhZQnZuYXpyaUxRdms3TG9XSnJUbXhUbnAzTUtYcExwa1BVVy1EWmNHTWlpdGJibGNvdU9fQ1J2TnJGVnB1eDg1a1dpaThwa3dMNw?oc=5",
-      "summary": "Anthropic launches free AI security scans for open-source projects The Verge",
-      "badge": "hot",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUzRFekFCZGVRTWVpRExUVWJkYTVGeFYxekkxMkpmYnRJSF9sNXdOd3BGd0NZVnhzakp0eWwxR3hTX2tqdUdOZXd3WjVZRlhZaDFkOHpoVElnanRZZXhwaEdweDRCTlVPVHEzRmxUWUpPVTU5Y0NTRHpJam5zZw?oc=5",
-      "summary": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced CNN",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5",
-      "summary": "Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2twUlZwTmdvdVBobFlHazd4UnRGZ0Rqam1GQm15S184aDJ2ZzVUaWJXSElGNHFzSGFGU1R3X0d2T0ZmV0V0UXdlTUVwb28zeldaYzVNeWoxT19GTnpmUEl4eXB4UWlETElkNDZ5dGJqTWJSMWZIbHFwZ2FzMzBBTy1qcUIxZ2lGNFJ4NFo5c19HRDRUWXk0X2YyRUJXeHU5Z0Y0QXczY0plaUdtT0NF?oc=5",
-      "summary": "Anthropic changes usage policy to ban model abuse and election interference TechCrunch",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -250,6 +258,14 @@
       "date": "2026-10-08"
     },
     {
+      "company": "Meta",
+      "title": "AI Smart Glasses Will Be Huge. But Meta Faces A Problem. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ01waENaUm04VEROanhTdjFTWno5UkZyams0RVJueVZLRDlsNzRXNEF4YkdRUk51UDQ5YmgtbnBwRFdBbWJfeElUS1VxOXo2ZFNwR1M3SFBfZkl0bEpXVm9hbXZkZkZoaGhlTFJQanU5R204WF9sbERuQTAtbmZsa0VUSHdQYzNxQlE4NVVHVFZIdUxfcjNzMnhrQ3lYbGFNYmpKN2VudmM3dDI4eUE?oc=5",
+      "summary": "AI Smart Glasses Will Be Huge. But Meta Faces A Problem. Investor's Business Daily",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
       "company": "OpenAI",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "url": "https://openai.com/index/teens-learn-and-plan",
@@ -282,10 +298,10 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "company": "Microsoft",
+      "title": "Microsoft is giving Copilot more control over Windows and your files - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnQyTlFYNlhLaG4yVHFyS01KT19zcVlTVVJDUDN5M3N1V3YwVEI1N1NkWWJUN1l2d21UQjlMWERIVEE4cHMtTUlpWkxrWC15ajdXUE5DN05Cd2tzM0I1THoxbzBhWTBGX2hISzlGM1FsMUNGTUF1dDF0cWhXMkF6YURtZDk4QXlMams0M0dndEtkMlBJNHhfQU5DX1REMjZVY0tB?oc=5",
+      "summary": "Microsoft is giving Copilot more control over Windows and your files The Verge",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -307,14 +323,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is giving Copilot more control over Windows and your files - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnQyTlFYNlhLaG4yVHFyS01KT19zcVlTVVJDUDN5M3N1V3YwVEI1N1NkWWJUN1l2d21UQjlMWERIVEE4cHMtTUlpWkxrWC15ajdXUE5DN05Cd2tzM0I1THoxbzBhWTBGX2hISzlGM1FsMUNGTUF1dDF0cWhXMkF6YURtZDk4QXlMams0M0dndEtkMlBJNHhfQU5DX1REMjZVY0tB?oc=5",
-      "summary": "Microsoft is giving Copilot more control over Windows and your files The Verge",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Microsoft",
       "title": "Building Windows for Hybrid Intelligence - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXZ5NnowbzFpRTdJdHZ0c0g5UEhOZDhhNHMyb3czenlTUTlHNlFsQjBEdlN3Q0NpRmFUVE9vdm9UMGw5NXloRkZsTzRrTjFkeWNKcGVaeHR6bGlHazJoblREc0pwVTFEOVFHYXQxb0Jud0hLYXl1SUM3ZG5UNWppV0VtQ0YyNHA2bG1tdE02VVgxUQ?oc=5",
       "summary": "Building Windows for Hybrid Intelligence Microsoft Source",
@@ -330,10 +338,10 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Microsoft",
-      "title": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event - PCMag Australia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb19kd1F3R0c1NGljYUtvYlM0c0RWem5BWjBmRWhNMjcwNjRRLWtSd1dfNDNRNHNmOTNOSms4WG9CM3VHOVJ3ZDFVX3BHYlJsUXRFR1dIWEhWZGtGUzFPblByLXZfcTYyd29TOGRVVEJwSVNSVTJfNm41cUlBUFlIN1hpc1ZfR0I2c0pWekNhUUJfa2c2Z0tkbWlfb1QtWHF4dmQ4N1dNbw?oc=5",
-      "summary": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event PCMag Australia",
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -355,6 +363,30 @@
     },
     {
       "company": "Meta",
+      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96cU13MzB4czVKVDdfOFRIcmZZcGVhckZIUjh1S2J0d0Q2SlhKNlFsRWdGcm1WZmlHOEtySnZ0a0RWcUpjUTZyUC1PM25HbnFJOWFyeEZ5WUlocmlPYTRfY185MElvanBfSGNVTE9jYVpzdDBLSWM0dDdPcGPSAYIBQVVfeXFMTWwwUzU2bUQtSmMtMjZtckw0Zy1DTDVnVUxmLWxVNlRBWmdmdEc5bzh0WU1vVjVnX3JrMU5WY2lkU2E1c2xZdS1FbTloaG1hYlhQbkJmYk1Zb0s4MVRzR3BBTjA0LS1tSnRvMVpXeE41dXYtYlhUbUsyU1ZsT0hMcnA0Zw?oc=5",
+      "summary": "Meta's Muse assistant tops app charts. Now it needs to become a habit CNBC",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZm1vTGEwZkNVbWZTQ1JrUGlyNjVQeTlTTGV5dlcxdzJHSzdPUFdkeE9HUUxnMUFnOUVKTExUN0lvS1VUTW5kTDNUdzlmUGRlRFd0bEpLOXFqRFlTWTJYQ3pucjVqaHk1Tnp5a2VHRF93d9IBd0FVX3lxTE5hMkNrbzBaX1poeG9HeV8tS3NNa2xNVzdJMnV5Vm9iOW9KMGhhbkdLako2ai1iai1FX3NFSWFFZUtKMFRuV25WOUNfMHdsRHFxQlk2dTcxOVpYempZei1OZk1pelk3cWNjYXpzZ1g3ZFhvdmcteXNV?oc=5",
+      "summary": "Why Data Centers Are Such a Big Part of Meta’s AI Approach Facebook",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUVhTGhhNkRpWm9wX0Q2UUllWWpxenVqUEZqYXFXdS1ucDRkMXVlUjBoRVhGQjdSeEJzWnpLdUkwU01Ua2hxbUZEV25KLVNILUxUZ09vRDlUTHpBUEdGbEhQbFVHb1ZhZ25CZ21xUXBSaTZuREpCVUtSa1lmQlVldEctQXdjSnVYUjhLRjJRa3dkNWR4QnpkelFqNkdJV2tjUVFCc1NQUFNnZE9EVzRSNkd2MVlhY0VRVnl3dFA3V1g1dy1w?oc=5",
+      "summary": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material TechCrunch",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
       "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
       "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
@@ -371,14 +403,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96cU13MzB4czVKVDdfOFRIcmZZcGVhckZIUjh1S2J0d0Q2SlhKNlFsRWdGcm1WZmlHOEtySnZ0a0RWcUpjUTZyUC1PM25HbnFJOWFyeEZ5WUlocmlPYTRfY185MElvanBfSGNVTE9jYVpzdDBLSWM0dDdPcGPSAYIBQVVfeXFMTWwwUzU2bUQtSmMtMjZtckw0Zy1DTDVnVUxmLWxVNlRBWmdmdEc5bzh0WU1vVjVnX3JrMU5WY2lkU2E1c2xZdS1FbTloaG1hYlhQbkJmYk1Zb0s4MVRzR3BBTjA0LS1tSnRvMVpXeE41dXYtYlhUbUsyU1ZsT0hMcnA0Zw?oc=5",
-      "summary": "Meta's Muse assistant tops app charts. Now it needs to become a habit CNBC",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Meta",
       "title": "Ray-Ban Meta (Gen 3) Review: Technically an Upgrade - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdzVxb0s1enBrY1BsSGFiQVc0UG9JVHVWN0w5cDZZVEJUTnJNdWJOQXhHZzU2cHBTTktBXzd3dl9GcmdGdk9vdnRzZ09sTFdrYXdNaEtGbGJnOHNiQzhsRXZ3dElUMHdYM2JVSTBZS2JPTEs4c3c?oc=5",
       "summary": "Ray-Ban Meta (Gen 3) Review: Technically an Upgrade Gizmodo",
@@ -390,14 +414,6 @@
       "title": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven - Futurism",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkloaDlKMlNnOUhPWUtTX3lXTndzZ3JmQjZtSGViZ1RKZjUzRTZNamlsRkN3c0Q2UWFoR0hUc1liaERFbGs1MVFSallMeHJGOUVkU2xLSXFUYlBCRk5aZGxVdUdKenBSc0otWjlydjhXR1hhYThNcV9kVnA5QXVCTGNRYTNQUnFmQ1BZWkpfMlk1N0E?oc=5",
       "summary": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven Futurism",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZm1vTGEwZkNVbWZTQ1JrUGlyNjVQeTlTTGV5dlcxdzJHSzdPUFdkeE9HUUxnMUFnOUVKTExUN0lvS1VUTW5kTDNUdzlmUGRlRFd0bEpLOXFqRFlTWTJYQ3pucjVqaHk1Tnp5a2VHRF93d9IBd0FVX3lxTE5hMkNrbzBaX1poeG9HeV8tS3NNa2xNVzdJMnV5Vm9iOW9KMGhhbkdLako2ai1iai1FX3NFSWFFZUtKMFRuV25WOUNfMHdsRHFxQlk2dTcxOVpYempZei1OZk1pelk3cWNjYXpzZ1g3ZFhvdmcteXNV?oc=5",
-      "summary": "Why Data Centers Are Such a Big Part of Meta’s AI Approach Facebook",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -446,22 +462,6 @@
       "title": "Meta’s Muse AI Agent Is Building a Dossier On You - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MR3ZoNkVqVlVoaDFQVzJoUTcxTS1lOG5uSWJ4bUlUSi1OVk5sd0Y5TG5TdXVHbnJpaG10T3I2ZC1UcDRCTTBkS1MwNWQ4Vm9aQU1TMFhLTGVSYUZaYUt1T1RNRElhcW5Xa2g4XzZ5dDY?oc=5",
       "summary": "Meta’s Muse AI Agent Is Building a Dossier On You Time Magazine",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0NMWDhrajFVWi1NTnlneEo0NUVMb1lORjN1LV9Odi1FblhHSTYyUFZUbEhWVHZrS0doQUJHX2l0dHNoN2xLeTR3a0JHNWNVWlNpRTYyTkJnTGhZaWdOTmF4dVAydHQ3ZDdsMEJsMi1kazlBOV92R0lWT1hPcnRKQTI4V1d2SExCVlZNZnVvWHVpQll5Uk1lbk50TTFtYXVrb0dGcNIBqgFBVV95cUxQdEJ3QkhqZ290RjdObTVHZGlqZnZod0lmV0djTExDZWk3alpSeDlId243Z2pqanNZakVNTDR1TmxVM2o5TlRPczNaT1FWQmNQT2xjb2c4YW5SLTRBWUpjNTdrU2ptN2xUbVFzanRTS01iMVlVYVhqeGJsdFVNR3RWbE5MRlBabzRuS2VpZXExMVdMZThmRFlQbGl4OEllby1uVF95NzJ6MVNyQQ?oc=5",
-      "summary": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots CNBC",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Meta",
-      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
-      "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' Reuters",
       "badge": "new",
       "date": "2026-10-06"
     },
