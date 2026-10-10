@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-09T22:08:08Z",
+  "updated": "2026-10-10T03:56:33Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
+      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
+      "badge": "hot",
+      "date": "2026-10-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
+      "badge": "new",
+      "date": "2026-10-10"
+    },
+    {
+      "company": "Apple",
+      "title": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
+      "badge": "new",
+      "date": "2026-10-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
+      "badge": "hot",
+      "date": "2026-10-10"
+    },
+    {
+      "company": "Apple",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-10"
+    },
     {
       "company": "OpenAI",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -62,46 +102,6 @@
       "title": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer - PCMag",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5",
       "summary": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer PCMag",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
-      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
-      "badge": "hot",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Apple",
-      "title": "New updates coming to Apple Creator Studio",
-      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -282,6 +282,14 @@
       "date": "2026-10-07"
     },
     {
+      "company": "Apple",
+      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
       "company": "Microsoft",
       "title": "Microsoft is about to let Copilot loose on your file system - The Register",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3lvMHlPRkg2RnlLanF3azBtVUY2cW1lMXBiMVhwZkl3bWtxTW85LVY0cnJob0IyeWU5NFFpUGNZN0ExNVRlMmU5TXFyS0tqMHg0a3VWYkdCaGdTR1FqX29ZVkdCeTVUeXN4cE1mUUZqSmxOc25VZ0FiaWNybHVRTDR0SnRRTHBzbnFBS0RhRnprVUVLMUNNcXBNOWtVTzd2dFI4UlZJeFRVTkhseVpfZTZLV3FUQUVILWNHZg?oc=5",
@@ -326,14 +334,6 @@
       "title": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event - PCMag Australia",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb19kd1F3R0c1NGljYUtvYlM0c0RWem5BWjBmRWhNMjcwNjRRLWtSd1dfNDNRNHNmOTNOSms4WG9CM3VHOVJ3ZDFVX3BHYlJsUXRFR1dIWEhWZGtGUzFPblByLXZfcTYyd29TOGRVVEJwSVNSVTJfNm41cUlBUFlIN1hpc1ZfR0I2c0pWekNhUUJfa2c2Z0tkbWlfb1QtWHF4dmQ4N1dNbw?oc=5",
       "summary": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event PCMag Australia",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "summary": "Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.",
       "badge": "new",
       "date": "2026-10-07"
     },
