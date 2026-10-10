@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-10T11:45:44Z",
+  "updated": "2026-10-10T16:48:43Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - ABC7 Eyewitness News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEpsSmd5ZERsaHRqS0pKV0JiRS1OTkJtSS1pbVlGZGV0a1dSaTBDM0R2R09kQkpfSlN4V1ZVZ3U1OW1JMFVFVGtvU1hFN1RZeWdjcFI2UUZZbEpWVlgwTGxDQVdEblB4NV9EZGdRc0gzcTdabWNzNFFSdUlRODRvcXF2cTdjVnZvcDVQNmVYVlViUHkyZ2Z6SzJqbVJmZFVDYi1YNXZoUi03bHAz0gGyAUFVX3lxTE9yWGVHRGJ2WW1Dcl9mWG14VVRLR0lHcE5aZlZsR0RiNXpPa2o0WVZ5b3ZzTHMzeTdMQ1g5REkxN3g0QlR0UUNOMlk3UkItUHBuLTk2STVkSU8zZWVzb01hSGFpOGliMUhKSmNuUXhEOEM3TFFYWU5qTEdjaXN2ZVZudEkzRXhrOHlVOEVKeUtSNkVaX2t4ZlhmblBkRjdYMlVsNFBCRFpOV1hMd201MTlFeEE?oc=5",
+      "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case ABC7 Eyewitness News",
+      "badge": "new",
+      "date": "2026-10-10"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say - 6abc Philadelphia",
@@ -50,6 +58,14 @@
       "date": "2026-10-10"
     },
     {
+      "company": "Perplexity",
+      "title": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J2cTNIQlBFaXpncjBrLVlabHR4Wk9kSlNDVjBCUWJjNDBtNnBRYi1fTFNWNTFnQ2NBeUhYQXdHWEpEUU0tVGNTMkE3c1hLRjZHWXQzRXdrTTVKUUptT3Nlc0JUTWlzdkRfN2RtQjhISHd1T0JMakNPZEI5QVZ2RTNZVGQyUllhSVZ0M29NdGp1OTJRUC0zREVGTWR3RjV3SXZoNFlrZVJHSUQ3OVdn?oc=5",
+      "summary": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button MakeUseOf",
+      "badge": "new",
+      "date": "2026-10-10"
+    },
+    {
       "company": "OpenAI",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -69,16 +85,16 @@
       "company": "Anthropic",
       "title": "Investigating unintended model actions in our evaluations and internal use - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
-      "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
+      "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say 6abc Philadelphia Anthropic i",
       "badge": "new",
       "date": "2026-10-09"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times",
-      "badge": "new",
+      "title": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5",
+      "summary": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI Fox News",
+      "badge": "hot",
       "date": "2026-10-09"
     },
     {
@@ -91,10 +107,18 @@
     },
     {
       "company": "Anthropic",
-      "title": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5",
-      "summary": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI Fox News",
+      "title": "Anthropic Pauses Free Claude Startup Perks Days After Launch - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXhCYjlxWDNfb1ltVFFTVTkxdjdiS2p0RlB2UjU1a3BlaVNqbUM0WVlIS2dOdV9JaVE0ZHI3VFFzVkZJZU5PZHVieTRMVU1MWFNITzNUZVg4ZHRrQ3Z4cThUUlpQeHZ0QnRSb3M2RjR0OXhnbnhQbHBiX1EtRnBkTjZfUl9ENTROZ0E1aERQOF9ZcUxUdUF4Tl9YWkx0VkUtQnRWaDVoVWZmREthbFJMYnJ3?oc=5",
+      "summary": "Anthropic Pauses Free Claude Startup Perks Days After Launch Forbes",
       "badge": "hot",
+      "date": "2026-10-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website The New York Times",
+      "badge": "new",
       "date": "2026-10-09"
     },
     {
@@ -122,18 +146,18 @@
       "date": "2026-10-09"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
-      "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge Google unveils new cloud-based AI agent to",
-      "badge": "hot",
+      "company": "Microsoft",
+      "title": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0hXRHJvc1J4MVdhYVdoWkJKWjRTMTVYdktFUy1TM3Jzb1k0SElxSWRIRV95VGhURFdCN2pYc2F1TW03RkhYRDE4Y203T2tnZjlRWndKS3dMR1duYXFTel9CdHFmZEt5NGk0R29pNmZpd0JtdVFNQUF2UGpxS1MzRXBWeUNSN3h1NEVsX1N4X3ZQdHBVWG5DZlVGcDVtaGhhU1c4Y0lyVnpXdG44NGlyOGJHMVlwMExua01Fdw?oc=5",
+      "summary": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits Neowin",
+      "badge": "new",
       "date": "2026-10-09"
     },
     {
-      "company": "Anthropic",
-      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHpYbFAtaXdvNGhkY3pGc1FVanI0LTBER09JSU9SeXpXQkdCVndPZ3dTcDVPQVNrT0NISkJwWE5MOGMzX2NHbFVTa3JBcFhNV2FMR1FPanNJS25yNEtvMHI2YURldnJfeEhVMlVvTUZrbzJqMWdKekdFd0dOWFdKbNIBhgFBVV95cUxPYzhZUWo3RDNTX3ZBbzNVRFBWQ3VkTlN4WEVaTV9TcTQyZ0M3V2loR1JEUGwyTmdjcFA0SmNWb3BTWjJzMThQSGZDd3Z3VVRjSVlNNFRmSC1KNVJhQVh1NzJyWXpob1JFT3JRcjZfR0lFWVV4UmRha2pzUUtQS21iSEpGLThJdw?oc=5",
-      "summary": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust CNBC",
+      "company": "Microsoft",
+      "title": "Microsoft’s AI-Powered Windows Strategy: 5 Things To Know - CRN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnNWeTR0aUFsTkhINDRSZDhaeEFCMVJhN3Npd0QxX1hTaEtfbmZxSFJCNUpqZ3hpOTFQUEFWNVRPTm12b3JEMDVOYjJNSmJtbmVSTHJRSVduTkNOSWdXS1lXQlNPVHdjMzMzVnNRc3prZk1ZTFVFa3BVaFJWdS01emwxOEIybk84bVdPZFZuaEJSeFE?oc=5",
+      "summary": "Microsoft’s AI-Powered Windows Strategy: 5 Things To Know CRN",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -142,14 +166,6 @@
       "title": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer - PCMag",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5",
       "summary": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer PCMag",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0hXRHJvc1J4MVdhYVdoWkJKWjRTMTVYdktFUy1TM3Jzb1k0SElxSWRIRV95VGhURFdCN2pYc2F1TW03RkhYRDE4Y203T2tnZjlRWndKS3dMR1duYXFTel9CdHFmZEt5NGk0R29pNmZpd0JtdVFNQUF2UGpxS1MzRXBWeUNSN3h1NEVsX1N4X3ZQdHBVWG5DZlVGcDVtaGhhU1c4Y0lyVnpXdG44NGlyOGJHMVlwMExua01Fdw?oc=5",
-      "summary": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits Neowin",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -203,17 +219,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVBJbVhlSWRyRUF2ZHZWM3NIcno3X01BcGlZQ1hTeld4M2NuYkN3dVJoNVF2M1piOEMyTUFlUEZnbGdPZWpnNFVDb3ZiS0kzbk52UDN4d2VnN2Rhb2hONmxzS3lUNi1hWkFlUkQ3RXg5cU5Hek44ZlhMSDVHcVVTVDZVcC1xM01PaDZNbUJKY2tvWk5IR0stZWQ3ZW94SnFyMWlEcXB5ZU5Zb3ZuT3dOeHZVa1BjWThXMDdDVHFpVkZkcHFvN0k4UEoxTkFhQVZMeFhtVVhoOTd6bXZCdjRzRU9rUU91RGs?oc=5",
-      "summary": "Bringing CRM into the flow of work and agents into business process for sales and service teams Microsoft",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Microsoft",
       "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW05WkZFd2M3R2dUR3AxWW04b0lSQkU0MktkODhyWTJtejlnM1lGR21xcmJybHc2TnVsWDc2NDFpS0FoYTl3U3JjZWZZX0t4aUR2cndmMzlmMXhzS1ZXN3YwdWQzQm5QWlBqRkVYdTEtWU42TWx0Z0NhcGZsU2xpcmxBTDk?oc=5",
-      "summary": "Bringing local models and sandboxed tools to Windows and GitHub Copilot Microsoft",
+      "summary": "Bringing local models and sandboxed tools to Windows and GitHub Copilot Microsoft Microsoft is giving Copilot more control over Windows and your files The Verge Microsoft Refuses to Let Copilot+ PCs D",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -222,6 +230,14 @@
       "title": "NFL Week 5 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR19xU0pDY250cG9zT3V2eHZ4aDdpWEVJaXRjLUUxM254R0RzQTFiMEh4Zm9ZYjJpQ0xZZlA1U083MVdkU1p0X1pqOGV5V1NXR2ktZ011Wm5INjhycEh5WXNZQm9iM09zZGp3SGVlbnBQeDRNbEZZZWpfQkJ6VW9BYVlrNGl6NnhKLVpnZ3BmYnlKM1F4b2NESnlfbnVmRHZVTUxBSQ?oc=5",
       "summary": "NFL Week 5 predictions by Microsoft Copilot AI for every game USA Today",
+      "badge": "new",
+      "date": "2026-10-08"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVBJbVhlSWRyRUF2ZHZWM3NIcno3X01BcGlZQ1hTeld4M2NuYkN3dVJoNVF2M1piOEMyTUFlUEZnbGdPZWpnNFVDb3ZiS0kzbk52UDN4d2VnN2Rhb2hONmxzS3lUNi1hWkFlUkQ3RXg5cU5Hek44ZlhMSDVHcVVTVDZVcC1xM01PaDZNbUJKY2tvWk5IR0stZWQ3ZW94SnFyMWlEcXB5ZU5Zb3ZuT3dOeHZVa1BjWThXMDdDVHFpVkZkcHFvN0k4UEoxTkFhQVZMeFhtVVhoOTd6bXZCdjRzRU9rUU91RGs?oc=5",
+      "summary": "Bringing CRM into the flow of work and agents into business process for sales and service teams Microsoft",
       "badge": "new",
       "date": "2026-10-08"
     },
@@ -299,6 +315,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNi1IMlRyX1FGWU1LUjFQc2EycjdJMU10VkpDa19vS3dUZ3d2cUxzS20yaVRkM3ZHZk5qZ2d2UWg4b2x4bEJ0cVktbjJObE1XV3BGNy1TX3lmcHlsZlV1SmFvdkNwNmNTS0FpdDg0RktvUmlqeUdZODFOZVpjZ1lSMWE1YWo2dTZaTTNQVV9FR2lYS1U5TEZsZ254Zy1WdENWakJPMm1GM25fQnItTkE?oc=5",
+      "summary": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft is giving Copilot more control over Windows and your files - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnQyTlFYNlhLaG4yVHFyS01KT19zcVlTVVJDUDN5M3N1V3YwVEI1N1NkWWJUN1l2d21UQjlMWERIVEE4cHMtTUlpWkxrWC15ajdXUE5DN05Cd2tzM0I1THoxbzBhWTBGX2hISzlGM1FsMUNGTUF1dDF0cWhXMkF6YURtZDk4QXlMams0M0dndEtkMlBJNHhfQU5DX1REMjZVY0tB?oc=5",
       "summary": "Microsoft is giving Copilot more control over Windows and your files The Verge",
@@ -315,25 +339,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNi1IMlRyX1FGWU1LUjFQc2EycjdJMU10VkpDa19vS3dUZ3d2cUxzS20yaVRkM3ZHZk5qZ2d2UWg4b2x4bEJ0cVktbjJObE1XV3BGNy1TX3lmcHlsZlV1SmFvdkNwNmNTS0FpdDg0RktvUmlqeUdZODFOZVpjZ1lSMWE1YWo2dTZaTTNQVV9FR2lYS1U5TEZsZ254Zy1WdENWakJPMm1GM25fQnItTkE?oc=5",
-      "summary": "Is Microsoft’s Expanding Copilot and Device Ecosystem Altering The Investment Case For Microsoft (MSFT)? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Microsoft",
       "title": "Building Windows for Hybrid Intelligence - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXZ5NnowbzFpRTdJdHZ0c0g5UEhOZDhhNHMyb3czenlTUTlHNlFsQjBEdlN3Q0NpRmFUVE9vdm9UMGw5NXloRkZsTzRrTjFkeWNKcGVaeHR6bGlHazJoblREc0pwVTFEOVFHYXQxb0Jud0hLYXl1SUM3ZG5UNWppV0VtQ0YyNHA2bG1tdE02VVgxUQ?oc=5",
       "summary": "Building Windows for Hybrid Intelligence Microsoft Source",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft plays the Windows card in the AI game, with help from Nvidia - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZLeUxsRXo3dGM4c0xsRVQ2b2Z6WEpRMlV3cHYtWm12SW5salRSQzJ1c1cza0RuLUJKU1F3SGdHc1c4M2s4bFptYUxmM2l4b0dxcnhMY3RBWkQtNEJVci1VOXF4QkNpZzl0WVU4RHAxNTJJd1hDSEhvUnZUaFZrZTBDc3NkWEQ2UnJJMVNmX3JlRkZnM3RzbkQ4ZmlQNHRkc0E?oc=5",
-      "summary": "Microsoft plays the Windows card in the AI game, with help from Nvidia GeekWire",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -366,6 +374,14 @@
       "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96cU13MzB4czVKVDdfOFRIcmZZcGVhckZIUjh1S2J0d0Q2SlhKNlFsRWdGcm1WZmlHOEtySnZ0a0RWcUpjUTZyUC1PM25HbnFJOWFyeEZ5WUlocmlPYTRfY185MElvanBfSGNVTE9jYVpzdDBLSWM0dDdPcGPSAYIBQVVfeXFMTWwwUzU2bUQtSmMtMjZtckw0Zy1DTDVnVUxmLWxVNlRBWmdmdEc5bzh0WU1vVjVnX3JrMU5WY2lkU2E1c2xZdS1FbTloaG1hYlhQbkJmYk1Zb0s4MVRzR3BBTjA0LS1tSnRvMVpXeE41dXYtYlhUbUsyU1ZsT0hMcnA0Zw?oc=5",
       "summary": "Meta's Muse assistant tops app charts. Now it needs to become a habit CNBC",
+      "badge": "new",
+      "date": "2026-10-07"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Took More Than 48 Hours to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkloaDlKMlNnOUhPWUtTX3lXTndzZ3JmQjZtSGViZ1RKZjUzRTZNamlsRkN3c0Q2UWFoR0hUc1liaERFbGs1MVFSallMeHJGOUVkU2xLSXFUYlBCRk5aZGxVdUdKenBSc0otWjlydjhXR1hhYThNcV9kVnA5QXVCTGNRYTNQUnFmQ1BZWkpfMlk1N0E?oc=5",
+      "summary": "Meta Took More Than 48 Hours to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven Futurism",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -406,14 +422,6 @@
       "title": "Ray-Ban Meta (Gen 3) Review: Technically an Upgrade - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdzVxb0s1enBrY1BsSGFiQVc0UG9JVHVWN0w5cDZZVEJUTnJNdWJOQXhHZzU2cHBTTktBXzd3dl9GcmdGdk9vdnRzZ09sTFdrYXdNaEtGbGJnOHNiQzhsRXZ3dElUMHdYM2JVSTBZS2JPTEs4c3c?oc=5",
       "summary": "Ray-Ban Meta (Gen 3) Review: Technically an Upgrade Gizmodo",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkloaDlKMlNnOUhPWUtTX3lXTndzZ3JmQjZtSGViZ1RKZjUzRTZNamlsRkN3c0Q2UWFoR0hUc1liaERFbGs1MVFSallMeHJGOUVkU2xLSXFUYlBCRk5aZGxVdUdKenBSc0otWjlydjhXR1hhYThNcV9kVnA5QXVCTGNRYTNQUnFmQ1BZWkpfMlk1N0E?oc=5",
-      "summary": "Meta Is Refusing to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven Futurism",
       "badge": "new",
       "date": "2026-10-07"
     },
@@ -464,14 +472,6 @@
       "summary": "Meta’s Muse AI Agent Is Building a Dossier On You Time Magazine",
       "badge": "new",
       "date": "2026-10-06"
-    },
-    {
-      "company": "Perplexity",
-      "title": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0p5VGxVWlFFSmNfS2IweWw1LVhlcTZHbnh6dEFmOUExUkhDWENaSlUzaW5HZHpsT0lrVG5jUlFtbDlGSUk1aEhQVlhoUTVhYnVUeVpoTXZVeXhQRHJMOUNZaWR2WmNXUnpncDNhTEhjUURqZkRCNnFjMVUxcEh3MGpaZzJlVUJ6bG1UdGpSa1ZYZzV5SDBtdVhud2t5Z3FfVklyR3ZEOXdFSUdjaHFFWjVmVjlSSzZESFdaNnlOcUt6QkJBM2xtYVFud1VaYVdOS3FsMjZIM3VoSWxE?oc=5",
-      "summary": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time TechRadar",
-      "badge": "new",
-      "date": "2026-10-05"
     },
     {
       "company": "Google",
