@@ -1,11 +1,43 @@
 {
-  "updated": "2026-10-13T13:22:35Z",
+  "updated": "2026-10-13T22:12:07Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic warns AI models could soon copy themselves across home devices - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5",
-      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC AI models may soon self-replicate without access to data centers, Anthropic warns Reuters Anthropic warns AI models could ",
+      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models could soon copy themselves in small devices ABC News - Breaking News, Latest News and Videos AI ",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5",
+      "summary": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade CNBC",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Redesigning source control at Anthropic \\ Anthropic - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
+      "summary": "Redesigning source control at Anthropic \\ Anthropic Anthropic",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says its A.I. model submitted a false cold case tip to Philadelphia police - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVnaE1VYlN3bTFyQnA2bnduR0FHTWh4MFB1M29VU3NTeTFJWlYzejlickh4SUlJbXI5N0xOY3lBRWpmdWtZeHBGOG9BZTRwOFpaSnlITTBhSUp2RnZVc1YzNWlHLXpnbDg0X2trak9OSFNFWVN2YUFKR1RFWlBGbnNycUd6NEh1eHgxTTkxNUtIRUtEeXV1cE5VaUVOVjJvNTJIaXp0S0I5Y1Zqd2pWbHRwWUZfY1Z4UHc?oc=5",
+      "summary": "Anthropic says its A.I. model submitted a false cold case tip to Philadelphia police NBC News",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -18,18 +50,18 @@
       "date": "2026-10-13"
     },
     {
-      "company": "Meta",
-      "title": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
-      "summary": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results Mashable",
-      "badge": "hot",
+      "company": "Google",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "summary": "TBD",
+      "badge": "new",
       "date": "2026-10-13"
     },
     {
-      "company": "Meta",
-      "title": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQW56OHpKWDg3dnd0R1RCQnJBdllwb0NBdDNQcW9HSU9KWC0wWDFzN1lFZjdfbldBV0VHLUZ6NnlOM1IxMEN6aHlpb09TM2VhVmIwSmxVdXlwSjVXckNDU18xcHN2am5YS1BMU3VVNGRON2ctVl9XQWNtd0trSlg1YUluaVFvanVidnJWT29sUUNLSDZjV2R0ajhwN0plMm9pLXk2SnFkQnBHQUpTeUhJNWdpQ0o1cGRYWkg0SXlRd2V0Y250b3RoYnpxcHcwajg1V0liZ3ZzZUl6d3dPVEM2Vkl0YW93SHI0YzR5YThKRkFDM1V6cXZEcTNxVmkza0Zv?oc=5",
-      "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate Benzinga",
+      "company": "Microsoft",
+      "title": "Microsoft lays off dozens of employees at its R&D center in Israel - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjMUxTa292cVVrQVNoZUhEZVA5N1VYcXZWNW1jc0w1aXhZZDZaY3I4dXB4VWIwTU1MM19lbWM0YWpQMnBPQXNqa1ZIbGZjVzFkUnRSVHlCS0NfbmFXeXBITDE0TEVfMnpBQWFhQg?oc=5",
+      "summary": "Microsoft lays off dozens of employees at its R&D center in Israel Ynetnews",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -114,6 +146,46 @@
       "date": "2026-10-13"
     },
     {
+      "company": "Meta",
+      "title": "Blind veterans run Army Ten-Miler with help from AI glasses - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2RXSThlTlNhY3A1ZXdIV1hHRXhUVU1SZVF1cV83b1ZudDZxT09wYjM2RDZtSkdvRFM5S3B1LUhtNVZRa2hoX2pWN2JLTGU4R0JXdndNTG9uQXp2dkxUN3c5M0VzczNTeUxZdTBKdWdGbm43bk1CdnNpMnluQ3pad1g2WFNhTHBnX1VTZTRhWlUzMWxYM2t1bDdjWGtNSFdtQ0hn?oc=5",
+      "summary": "Blind veterans run Army Ten-Miler with help from AI glasses Axios",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Privacy campaigners to ask court to ban sale of Meta AI glasses - DutchNews.nl",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEpsaFdyckZnZ0V4Q2pRZlJnOGhyVENOMnBtVmhvaEJOM0s5VG8teC1wTHRuSk9RREUzMldxUnFDUWxUbl8zbV92VURfNnlxZm5Xa09YQlVRSXRndi03MGR5TFN2OWVJRDNpQ3lTZWFMNFZtellfSUdGSnZweFlHT0tWTDBfdmhWak5YTi1pTktwaFNULXdlZDhIbFhrZw?oc=5",
+      "summary": "Privacy campaigners to ask court to ban sale of Meta AI glasses DutchNews.nl",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
+      "summary": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results Mashable",
+      "badge": "hot",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQW56OHpKWDg3dnd0R1RCQnJBdllwb0NBdDNQcW9HSU9KWC0wWDFzN1lFZjdfbldBV0VHLUZ6NnlOM1IxMEN6aHlpb09TM2VhVmIwSmxVdXlwSjVXckNDU18xcHN2am5YS1BMU3VVNGRON2ctVl9XQWNtd0trSlg1YUluaVFvanVidnJWT29sUUNLSDZjV2R0ajhwN0plMm9pLXk2SnFkQnBHQUpTeUhJNWdpQ0o1cGRYWkg0SXlRd2V0Y250b3RoYnpxcHcwajg1V0liZ3ZzZUl6d3dPVEM2Vkl0YW93SHI0YzR5YThKRkFDM1V6cXZEcTNxVmkza0Zv?oc=5",
+      "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate Benzinga",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSER5ZlJwUTROcmZEaU9pY3l3TVh6ZHpCUFcwTElGR0g2dnBicDItUDdrVTBmZnhKTVdiZGYzUmZrUG1GdEstVi1HNmlQN2Q0RHRtWkNhZFlJb3VuNHVwWUNPQk5QYUsySGdGXzJUQlltTDVhNmF2YU5XUjJuQ0g4QzBSYjdyMnhtSlVFYzM5OGJLbkZuX2Zkd19zVThHMFdMVGtZTk5mV0JsN0VPSFg1OXp3OXczdw?oc=5",
+      "summary": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police Ars Technica",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
       "company": "Anthropic",
       "title": "Strengthening our defenses against distillation attacks - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHNZdWYyUWdnYV9lY1lrOGw0MEhIY2dhY0dFbmxXUWd3QjYtanptamV5cEl1TVRXdGhsZnFtRUFUVzlNZXJGNWhnU1g2cDBEMDhEVXVDWUZkZmFPY1BZVEhucjBDY1U?oc=5",
@@ -146,102 +218,6 @@
       "date": "2026-10-12"
     },
     {
-      "company": "Anthropic",
-      "title": "AI-Powered Bond Rating Startup Says Open AI Debt Is Junk, Anthropic Is Barely Investment Grade - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSWlqalhMN25feVZzVlRaZ1VKZ1hrc3RONWVkXzA0STdpY3p4cGFEVEJLY3ZqWlV5Q2NnTndweFhSZHdTaWdySXBuWVNHZmM5ZUxaYmFNb29pMndIUllZOEQwTGNaSUZuOE5nZkZzWFZaMmdpVk1kRUI0UkVuNnY5QVFIQURyNEN4eTlLNkNPbDhMQ0d5UU80OXJtV0h5bzZBMDI1QW9QVExhdUpZMnF3cVpjSTkwSFdjeTk2azRlYnpwSHVPMkdEbDZZdW1lVHhOTGtlYU1rNTFEMDN2T3BHM1cwOU9JQQ?oc=5",
-      "summary": "AI-Powered Bond Rating Startup Says Open AI Debt Is Junk, Anthropic Is Barely Investment Grade Forbes",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "India's HCLTech signs a pact with Anthropic, to set up business unit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakI5S2NLS3JLb0FGeHRiWWdlZ0dKQmNUZDRuNTVTTTBvX2VZYmJSdFp4Z3lFaFRpcFprX1RiY1BpUGpmMmZuMnZBUjJveVV5YnpMX0R2cEF4LTE4NVZIa21GVzZVWndlVU54UlZBRUktaWlzNS03Vzg1eUlrRzBMdzVSRENhVndlYmNVS09Kc2RJM0o2TENPVlUyY3hZVGh4cmRYWXl6M3E5elFESVE?oc=5",
-      "summary": "India's HCLTech signs a pact with Anthropic, to set up business unit Reuters",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion - CTech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GMkZnSDE2aWktcU1jWDB0S2loQWx0WWN0ZHJuZVd1YzNGY013YUZZSnJVUS04MDlZRU9NU3lUQ2FCRkdiY2hEMERUVlgweVdmZ2NkSVlSZkczdG1FaXljR3NIY3drT00?oc=5",
-      "summary": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion CTech",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFhzenpRSU43QzhSNW03Wkd6OXFJcTFzT0o3UURaOEtjTTNNNF9yM3VkZTRoSEk4N0lCRFYwR0tjdjhLcDlyVGRpeUlrQmZUTTBWNzZtQzBjSkVuN3h4SFd6V3piTHhzeXpFa3p1REhLYTgwTS1ReGloS0VRZVJ1eVJWYlZCelhiZFl4LXZGVXgySkFmRERCNWl3elJUS0p6S0Ewcw?oc=5",
-      "summary": "IREN's Mystery Customer Is Anthropic? Fresh Buzz Pushes Stock Higher Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5",
-      "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic Axios",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
-      "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Mark Zuckerberg says Meta has reache",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUlJTmQyWEJBVXcwTnh3TEdDQW1QczlrMzE0VUhCWDlGU2hWX1hHcE5BakNPRTY3aEtDdlBTRXdVUVhzS1dOdTA2NmJiblFMNlNRZ1BIVzl4RFhIcGwzZC1FUWl5X3UyU0RZU1JpUkFvRnRHaS14SWZvNzNvX2lpSzRlODdfVDJlUm9lWlhwTENlSUR6NFpna2pzdw?oc=5",
-      "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine WIRED",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg says Meta has reached AI ‘frontier’ - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5",
-      "summary": "Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Unveils New Series of Advanced A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5",
-      "summary": "Meta Unveils New Series of Advanced A.I. Models The New York Times",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
-      "summary": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Watch Muse Wonder Puts Meta's AI Push in Focus - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT191SFEyVXhxang4NU9tR1Q0LXFLNDNUektUZl9fbkFCNHlEQWhwd0lORFB4cWUzdGVHVzhuc1FkZzNwUVBhWXpLa0czdExkcC1vcmQtUVRJOE9lUW1QWFE1ckszeHV4U1FUZ2xYd3lrNzhGOUItcEtlY1k2QTAyeC1uZUtwMlBpVWR0VXNQenBUbHpBeGhjSXIzbEpEemNaVEVDb1BvWUFjdw?oc=5",
-      "summary": "Watch Muse Wonder Puts Meta's AI Push in Focus Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWdKQ0NUMnE0R2ZRanZiOWlIZnVtUWpRS0puY1F4ZFBEZ1h5cWc2NjdJLXdsUXhvTmg3R0FQRkRVd3hvWFVKRmxJT1ZLMi1TZmZ5aHNYWXpVRndxOU0wVkV3QWhzY1lBTlZ2WmRYb0Fjd09VbTZYZXVZZUFrV1JpWk04d2ZJUlJaLVU0SjhtdWtiN3lHYnhkOWQ4aTFRWk12Q09UVlRNaHRfT2RwTV9UOXRB?oc=5",
-      "summary": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers Business Insider",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Microsoft",
       "title": "How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella - The Information",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC1STlhPa3JHUTJjQkF1M0RBd0U0TGhSak81dHhVSlg1M250UTZadURsMS1zOU5acjRfR055TlFaMmRQbnRvMUFSN2RkMUtGbW5PdF9WdzJ2ZW8zel8tMHg2UVBERmxKUjhDQTg0M0N5cndKWVA4OThUTHJNVzJIdXBablhtTXNoZWY5RnBsMFE0N3RKLXRtRA?oc=5",
@@ -267,18 +243,18 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft cutting R&D jobs in Israel - Globes - Israel Business News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1BqUmxoTFl3RExpdFNrWTFiNk5JTzB2THNuZjJKSGRfbUMwcG5nWk5VbVVfM3NQcDFKU2l5NEdiVXdfenRNZHBDM2dYRTlxTmVDTTFXc3RpbG5mZjRXRWZSd3lnanN6Vl9zQVk5WjdPZzdJOGtIOFIzbEkzdjJpVms0OV8yUXZH?oc=5",
-      "summary": "Microsoft cutting R&D jobs in Israel Globes - Israel Business News",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbkxTZjhjS05YdndrY09vU0wtLVRvbGYxTlBSRnZWR1hla2ZYc3lONlpVeFdTV21CQUdFclpva1J5R2pxUWZnMDF4dC1GMUdQSzcwNHRoV09sWHJ5cm5BenJEazhaN1Q0d0hibUpUZS0xRG1NUWRpVjZUTXBUMHBBZnVuSDBmRHd3SzB6LVpWVF9zUzJUVDR6aGFUUVZPTDFJWlB3bkMxRHE0SnFEaG5ZQjZMWG0tVmxZcTFwb19GS0Vqdzh2RXdOWDVHcFBuaGtNQUVjd1pjcGE0ZllWQlhNTjZhT21LVHR1b2JZ?oc=5",
       "summary": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last TechRadar",
       "badge": "hot",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft cutting R&D jobs in Israel - Globes - Israel Business News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1BqUmxoTFl3RExpdFNrWTFiNk5JTzB2THNuZjJKSGRfbUMwcG5nWk5VbVVfM3NQcDFKU2l5NEdiVXdfenRNZHBDM2dYRTlxTmVDTTFXc3RpbG5mZjRXRWZSd3lnanN6Vl9zQVk5WjdPZzdJOGtIOFIzbEkzdjJpVms0OV8yUXZH?oc=5",
+      "summary": "Microsoft cutting R&D jobs in Israel Globes - Israel Business News",
+      "badge": "new",
       "date": "2026-10-12"
     },
     {
@@ -311,6 +287,54 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzBsRlNqOGtWYmZlc0V4RS1Db1llZHNiS0xaX0dKcVJkbGs3azFvSWtsX0VmNmZUaEFmR2sxdC1ybUpmcnZLMzdGQ1loXzRLN0lpN3RaTzlfYnBFTlgyY3RmUTNKTUlPVTV0eVFNYk1LanJzZy1pWTNFVndtMHBSQkp6RFI4WWgxdVVaZ0NWdUc?oc=5",
       "summary": "Reddit Accuses Former Law Firm of Switching Sides to Defend Perplexity AI Law Commentary",
       "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg says Meta has reached AI ‘frontier’ - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5",
+      "summary": "Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Meta Unveils New Series of Advanced A.I. Models Th",
+      "badge": "hot",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUlJTmQyWEJBVXcwTnh3TEdDQW1QczlrMzE0VUhCWDlGU2hWX1hHcE5BakNPRTY3aEtDdlBTRXdVUVhzS1dOdTA2NmJiblFMNlNRZ1BIVzl4RFhIcGwzZC1FUWl5X3UyU0RZU1JpUkFvRnRHaS14SWZvNzNvX2lpSzRlODdfVDJlUm9lWlhwTENlSUR6NFpna2pzdw?oc=5",
+      "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine WIRED",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWdKQ0NUMnE0R2ZRanZiOWlIZnVtUWpRS0puY1F4ZFBEZ1h5cWc2NjdJLXdsUXhvTmg3R0FQRkRVd3hvWFVKRmxJT1ZLMi1TZmZ5aHNYWXpVRndxOU0wVkV3QWhzY1lBTlZ2WmRYb0Fjd09VbTZYZXVZZUFrV1JpWk04d2ZJUlJaLVU0SjhtdWtiN3lHYnhkOWQ4aTFRWk12Q09UVlRNaHRfT2RwTV9UOXRB?oc=5",
+      "summary": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers Business Insider",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5",
+      "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic Axios",
+      "badge": "hot",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
+      "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Mark Zuckerberg says Meta has reache",
+      "badge": "hot",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Unveils New Series of Advanced A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5",
+      "summary": "Meta Unveils New Series of Advanced A.I. Models The New York Times",
+      "badge": "hot",
       "date": "2026-10-12"
     },
     {
@@ -358,14 +382,6 @@
       "title": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits - Neowin",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0hXRHJvc1J4MVdhYVdoWkJKWjRTMTVYdktFUy1TM3Jzb1k0SElxSWRIRV95VGhURFdCN2pYc2F1TW03RkhYRDE4Y203T2tnZjlRWndKS3dMR1duYXFTel9CdHFmZEt5NGk0R29pNmZpd0JtdVFNQUF2UGpxS1MzRXBWeUNSN3h1NEVsX1N4X3ZQdHBVWG5DZlVGcDVtaGhhU1c4Y0lyVnpXdG44NGlyOGJHMVlwMExua01Fdw?oc=5",
       "summary": "Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits Neowin",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5",
-      "summary": "Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer PCMag",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -498,14 +514,6 @@
       "date": "2026-10-07"
     },
     {
-      "company": "OpenAI",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
@@ -582,14 +590,6 @@
       "title": "Building AI to accelerate science and improve lives",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "badge": "new",
-      "date": "2026-09-15"
-    },
-    {
-      "company": "Google",
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "summary": "Animation of several words in different languages slowly zooming past",
       "badge": "new",
       "date": "2026-09-15"
     },
