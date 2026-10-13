@@ -1,6 +1,62 @@
 {
-  "updated": "2026-10-12T14:11:32Z",
+  "updated": "2026-10-13T00:03:09Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "App Store Indie Games Week kicks off today",
+      "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+      "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
+      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
+      "badge": "hot",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Apple",
+      "title": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
+      "badge": "hot",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic AI model made false tip in unsolved Philly murder: Officials - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnlyRGc0MjctaER4YUVmRHFzZ2ZQRnc5N2JBVFNhNlBnNVprLTFtRmNlaUgwZndhME1CZE1FR3dxaDctNXRaWkd1VmlFbUE1ZVZmWVZvY1BMbndpaDJXSmxLTFA0SFM4aFhRbHNBZnVxSVdPU3M4Um5ZeU9iZ1M5UjlZSHhrdXZEREQ1di1Qb3FEOFBqWlHSAZsBQVVfeXFMT21OMTJzRWlHUXVRMTdZQlZwcU9ZVm5nejdYazVzV3pCUzNEMS1XNVBVZ1ZkaEhwTHdGYXZodEltZDVnY1RvcEtlUW1rTS1iSmdNc3pvV0dpZkRqQmw1RmtFQ3BFam93RmoxYjVvaU90cnFTOF9RYmFOQUwyb0tlcWYtbnlQRTRiMGp1OHNyNDVHM3Jtd09URjc5NlE?oc=5",
+      "summary": "Anthropic AI model made false tip in unsolved Philly murder: Officials ABC News - Breaking News, Latest News and Videos Anthropic’s Claude AI submitted false murder tip to Philadelphia police Ars Tech",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5",
+      "summary": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI Reuters",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
     {
       "company": "Anthropic",
       "title": "Iren Shares Rise 5% Premarket Following Reported Multi-Year AI Cloud Deal With Anthropic - Yahoo Finance",
@@ -51,9 +107,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Israel cuts hit AI agent team, with 50 Copilot Studio employees summoned to pre-dismissal hearings - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSnZKaEN1ZjRfX29nNjhtTEpRS1p0NEdSbldCNUJGM21LQTg2aE1NSnhsT3lQWW1PbjdjMmtFNFN2WFlzdXc3N0dqdGVpM3lqV25mNzhjbHNTSW1ZRnhLbkc2ZlVqVlU?oc=5",
+      "summary": "Microsoft Israel cuts hit AI agent team, with 50 Copilot Studio employees summoned to pre-dismissal hearings CTech",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft giveth and Microsoft taketh away: Copilot edition - The Register",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVNoc3c3UjNadnowemVJR0ZWRi1Wbk9KVVdUSHdqXzIzbmJrQnZZQVBQMmZHSnlzMVlGSmxBcTkyR3NhWGFFeG1nSGloUmxWOE5UZDBfOEg0TE1TTUo4ZWFWWEU4U3NqcmdJN1RCOHVYeXF4VGZjWnJpZHBPSmRjYnNvSWx3eWlPOVlrNDVpOHliVU5oNXZteWhqc3RlM0RKOHREb05Oa2NVUVJiaHByeVZ1RC0xblZJX1E?oc=5",
       "summary": "Microsoft giveth and Microsoft taketh away: Copilot edition The Register",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft takes on Google's NotebookLM with major Copilot Notebooks upgrades - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXJlRFgxR1lFRHZBbmRhT0dwcmktenRZeHVkeVg4MGtmd1FVczF5NFg0MUxObjJleGxGR3F1UDNhdDBBTFRHVl9uNFBEZTF2Vzdwdjdrc1E1N0lnbWdRR1kweG52NFRnR0g5QnRKTWVlNjJrQlVSMzQyMzFqUGJJZGdfN2xFVWd0MXRaMndKNm1qcTlVdkd2ck1LLWpST21YU0NyTzlBaw?oc=5",
+      "summary": "Microsoft takes on Google's NotebookLM with major Copilot Notebooks upgrades Neowin",
       "badge": "new",
       "date": "2026-10-12"
     },
@@ -66,58 +138,58 @@
       "date": "2026-10-12"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft takes on Google's NotebookLM with major Copilot Notebooks upgrades - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXJlRFgxR1lFRHZBbmRhT0dwcmktenRZeHVkeVg4MGtmd1FVczF5NFg0MUxObjJleGxGR3F1UDNhdDBBTFRHVl9uNFBEZTF2Vzdwdjdrc1E1N0lnbWdRR1kweG52NFRnR0g5QnRKTWVlNjJrQlVSMzQyMzFqUGJJZGdfN2xFVWd0MXRaMndKNm1qcTlVdkd2ck1LLWpST21YU0NyTzlBaw?oc=5",
-      "summary": "Microsoft takes on Google's NotebookLM with major Copilot Notebooks upgrades Neowin",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Apple",
-      "title": "App Store Indie Games Week kicks off today",
-      "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
-      "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple, The King’s Trust launch initiative to empower young creatives",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
-      "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-      "summary": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27.",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Apple",
-      "title": "New updates coming to Apple Creator Studio",
-      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "summary": "Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Apple",
       "title": "The new Mac mini and Mac Studio are available today",
       "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
       "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Reddit Accuses Former Law Firm of Switching Sides to Defend Perplexity AI - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzBsRlNqOGtWYmZlc0V4RS1Db1llZHNiS0xaX0dKcVJkbGs3azFvSWtsX0VmNmZUaEFmR2sxdC1ybUpmcnZLMzdGQ1loXzRLN0lpN3RaTzlfYnBFTlgyY3RmUTNKTUlPVTV0eVFNYk1LanJzZy1pWTNFVndtMHBSQkp6RFI4WWgxdVVaZ0NWdUc?oc=5",
+      "summary": "Reddit Accuses Former Law Firm of Switching Sides to Defend Perplexity AI Law Commentary",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
+      "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg says Meta has reached AI ‘frontier’ - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5",
+      "summary": "Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Unveils New Series of Advanced A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5",
+      "summary": "Meta Unveils New Series of Advanced A.I. Models The New York Times",
+      "badge": "hot",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
+      "summary": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Watch Muse Wonder Puts Meta's AI Push in Focus - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT191SFEyVXhxang4NU9tR1Q0LXFLNDNUektUZl9fbkFCNHlEQWhwd0lORFB4cWUzdGVHVzhuc1FkZzNwUVBhWXpLa0czdExkcC1vcmQtUVRJOE9lUW1QWFE1ckszeHV4U1FUZ2xYd3lrNzhGOUItcEtlY1k2QTAyeC1uZUtwMlBpVWR0VXNQenBUbHpBeGhjSXIzbEpEemNaVEVDb1BvWUFjdw?oc=5",
+      "summary": "Watch Muse Wonder Puts Meta's AI Push in Focus Bloomberg.com",
       "badge": "new",
       "date": "2026-10-12"
     },
@@ -150,22 +222,6 @@
       "title": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats? - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUIzQm5ZMldyemRuX3U2eEhRRlh3aDFiQjJpQlkwTVFxV3N6OG9yNUlOUGcxMlZXeF9SaUtrd2hvbXFOOW5TTHpTLU55aVJPd2R5U2t3TVdaZGFPcHhkVTFvbzJGZVl6SkNvSmlvWGUwTTJkclEzNkV1N3UzQzNtbG1mR081akIwWEh1UlIzSUE?oc=5",
       "summary": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats? Morningstar",
-      "badge": "new",
-      "date": "2026-10-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHdHRWE0TmJZOVotLUNOU3F5REl6YWh1clVZNzRsdXRhRzdkcjlnUzVET3BHYjFsUkQ4SEFtUXNZSTl4WFJCZ0hIRjJqUk9wRC1tclBwOGF3NERIM2RqcmRYWGQ5MXNCTWxyVlVTNWg5ZGttUXN2RVVOWXVFVmx3SEg0RWtxbGpMWFFCRE9JRWN4Tnl4NDc2OFY5aU5fb3NpMFB3bXpuWDd0Sll1MXBXSWllVXhoQQ?oc=5",
-      "summary": "How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO Barchart.com",
-      "badge": "new",
-      "date": "2026-10-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude AI sent US police a false murder tip, authorities say - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeTZsaC1QSm8xZkJWcXd5R2ZWVkZ4QjYtSUIzZDZHdjRwSTBSWm9vdG05NG1POG83WVZBQjVjTmZxam5TbE10UzJtbkg0Si1lMUJzTjNPeDl6TXBrNzRlaDE1QVJrR3BmTzg0VHJqRE9mWEN1S1c1aTg3S3l4S0U5RmFKcFl5anNYVkZSblNrUGdRVTBiTU1RZ0poN2xRTHp2bWN5R1ZrSnFwb3VYbFY2R2FmakE1aEp4NlVsVzFLb3p2Mm90?oc=5",
-      "summary": "Claude AI sent US police a false murder tip, authorities say Euronews.com",
       "badge": "new",
       "date": "2026-10-11"
     },
@@ -246,14 +302,6 @@
       "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFBjVDI5Q0tHcVBQb2NfRDJ4X21FODN4enFPOXlORS1RV2dFWWNrUG5GdHh4dDdtQi1WdTJuYzhSbm5sOGJ3aEpqQXVUbjMtTkNSQ29NVFVfNnFncG5PQzdpWEtrbDM2cDJYd2t2ZkM4a21jdnZ1d25NZEpEbnFyeW1vTGE0TGtlY0dZQjBYX0hac2N3LUExb2IwblBGbzZ2ZVBz?oc=5",
       "summary": "Microsoft 365 Family subscribers will finally be able to share AI benefits The Verge",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NFL Week 5 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR19xU0pDY250cG9zT3V2eHZ4aDdpWEVJaXRjLUUxM254R0RzQTFiMEh4Zm9ZYjJpQ0xZZlA1U083MVdkU1p0X1pqOGV5V1NXR2ktZ011Wm5INjhycEh5WXNZQm9iM09zZGp3SGVlbnBQeDRNbEZZZWpfQkJ6VW9BYVlrNGl6NnhKLVpnZ3BmYnlKM1F4b2NESnlfbnVmRHZVTUxBSQ?oc=5",
-      "summary": "NFL Week 5 predictions by Microsoft Copilot AI for every game USA Today",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -346,22 +394,6 @@
       "date": "2026-10-08"
     },
     {
-      "company": "Meta",
-      "title": "Influencers Are Promoting Cheap Dupes of Meta AI Glasses that Don't Have the \"Annoying Blinking Light\" When They Record - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXcyNEs2QkNvcWo2QjNMYkQ3dUc1X3ZGZXNRMU8zY0c1UmxuWG1Wd0VKY3p5ekZHNVZxOWtMQURfOWNBWjR3NGw3dGxENXBVQ2lFWEN6N016RnZiZ2ZfWDNLU1U2UXhFRmZ6SEtjY2FaZFVHYWZpQzB5THV4WlpKbUNXX0lVdENDS3EtYnZtM2t6ZDJ5VFEyZWdvQ3dRdw?oc=5",
-      "summary": "Influencers Are Promoting Cheap Dupes of Meta AI Glasses that Don't Have the \"Annoying Blinking Light\" When They Record Futurism",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "Meta",
-      "title": "AI Smart Glasses Will Be Huge. But Meta Faces A Problem. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ01waENaUm04VEROanhTdjFTWno5UkZyams0RVJueVZLRDlsNzRXNEF4YkdRUk51UDQ5YmgtbnBwRFdBbWJfeElUS1VxOXo2ZFNwR1M3SFBfZkl0bEpXVm9hbXZkZkZoaGhlTFJQanU5R204WF9sbERuQTAtbmZsa0VUSHdQYzNxQlE4NVVHVFZIdUxfcjNzMnhrQ3lYbGFNYmpKN2VudmM3dDI4eUE?oc=5",
-      "summary": "AI Smart Glasses Will Be Huge. But Meta Faces A Problem. Investor's Business Daily",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
       "company": "OpenAI",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "url": "https://openai.com/index/teens-learn-and-plan",
@@ -418,30 +450,6 @@
       "date": "2026-10-07"
     },
     {
-      "company": "Meta",
-      "title": "Meta Took More Than 48 Hours to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkloaDlKMlNnOUhPWUtTX3lXTndzZ3JmQjZtSGViZ1RKZjUzRTZNamlsRkN3c0Q2UWFoR0hUc1liaERFbGs1MVFSallMeHJGOUVkU2xLSXFUYlBCRk5aZGxVdUdKenBSc0otWjlydjhXR1hhYThNcV9kVnA5QXVCTGNRYTNQUnFmQ1BZWkpfMlk1N0E?oc=5",
-      "summary": "Meta Took More Than 48 Hours to Remove AI-Generated Facebook Videos of Graphic Child Abuse, Including a Baby Roasting in an Oven Futurism",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZm1vTGEwZkNVbWZTQ1JrUGlyNjVQeTlTTGV5dlcxdzJHSzdPUFdkeE9HUUxnMUFnOUVKTExUN0lvS1VUTW5kTDNUdzlmUGRlRFd0bEpLOXFqRFlTWTJYQ3pucjVqaHk1Tnp5a2VHRF93d9IBd0FVX3lxTE5hMkNrbzBaX1poeG9HeV8tS3NNa2xNVzdJMnV5Vm9iOW9KMGhhbkdLako2ai1iai1FX3NFSWFFZUtKMFRuV25WOUNfMHdsRHFxQlk2dTcxOVpYempZei1OZk1pelk3cWNjYXpzZ1g3ZFhvdmcteXNV?oc=5",
-      "summary": "Why Data Centers Are Such a Big Part of Meta’s AI Approach Facebook",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Meta",
-      "title": "Micron’s profits surge as Meta’s AI spending accelerates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3V6SGtBaXUzQUU0ZS1UbXQ5ZVU1b29pWjEzSERSX0xPM1E0T3czRUpkRWx4ZUtzTUIzN3JEazZoQUV0UndEWnpIYkFGNDdqSGV4cDNTTlB2WUJFUy04QTBodExSQ2g4cmd0Sm9jOUptXzVFSXVjNlJ1MlNmYzZMaA?oc=5",
-      "summary": "Micron’s profits surge as Meta’s AI spending accelerates Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
       "company": "Amazon",
       "title": "Ring ends smart lock anxiety with a lock you can recharge by hand - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BUmRhMl83ZVgtaHVuZnM2OGxGSW85UUJvd1hqMmhnS0NpT1g3UTFlWGZRck43UjBKX1gyNzQtdHl4ek12RjE0NTJOYUxwMVVJRTFtVEtZN0JUOWhlYlI3ZE9Hckc2RE5IbmZxWXFNOXl2YmFHNGFaQ1d5dXk0UQ?oc=5",
@@ -470,14 +478,6 @@
       "title": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZXUxYm4xTnhLd2lUY2E0MGJ3clV2ZndFRHI2YzQ0ZjdfOG5Gc29yMFJXY2k2MUY1Z0RWZnc3cngxOGNMQm9faEhKWTZRcHRVUjNHbGVfd1JldzE0bFJvaXdpczRsMVpJTTVWYlNXeHh1YjBFQURCTTYtbThnWlQ1amNNck9nYmFhOXoxNVdnZDhUand5Qlg4T1U4em4zUXRYN3dPNVEzUXJzLUs2a0VScXhVNGNpdzRiTWd3OXNPRUFKeG9uQWhJdmFFbWJpcTJNeTluVGtVWndqMnhHZXM2SmM4bkVaUQ?oc=5",
       "summary": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer StreetInsider",
-      "badge": "new",
-      "date": "2026-10-06"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnZLd2pqVjZfTWMwejdNa09mVGUwSi1mTTVhRmtlZHNlRl9UVDRSRVViMlktRFA0MVRweEkyZ2JrcTRwVzV0NnVpNUp2UU94SS1LRmFnN1RVVldSZnhSWGlOb25UMnBDeUhDZDdxOVNEVWdkSmhZOVdJaUg5bVlXMWlXeHpzQ2RmTzhXV3VtVXM4SURJVGlfLTlMM1VhRU1VTU1udko3Y0tUNDFNT2FKU2IxRE9hd29YRDJlV2RQdWRhWVpsTmtaX2RGV291OUg1VjVVM2FlRm9JSjk5NFA3MFZ2aTluN1M3aG1iNXFR?oc=5",
-      "summary": "Rings AI and Perplexity Partner to Bring Team Relationship Intelligence into Perplexity Computer Morningstar",
       "badge": "new",
       "date": "2026-10-06"
     },
