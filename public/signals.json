@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-14T11:01:02Z",
+  "updated": "2026-10-14T16:21:32Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
     {
       "company": "OpenAI",
       "title": "The EU’s next chapter in AI is agentic",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI engineer arrested after recording device found at San Francisco office - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DNGtWOUZxNDhRajRUakVfNjlhMkRjUlc3M0JjZFdtbkFnSExjUjFtcDlrakRMVGFfUGRXT3Y4UzBldWRvZ0stVm0zcDdRLWItQncyUmwwdFN4MFRicUNON3JYR3doWUVQb29id0VfYmdrV3ZTbzVKUV9qX2dyUQ?oc=5",
+      "summary": "OpenAI engineer arrested after recording device found at San Francisco office Fox News",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI money bomb is about to hit San Francisco - The San Francisco Standard",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajlxUnVlaEdhYzFXNlBlQURpMVQ4MGdRbm4xcHBvMDd2ZkRrcURxTWxoNTVWSzFpWnpnMkY5aVBURnhsY2lMSFM3QzQ2UWFEN21qZENHRlhWbUducllXYmtGTmE5ZFVyZVkzTUpuOF9Nd2ZyYXVhTFNQRV90T2piZ3ZHdGxCZFFGTVBibEUtWVpSSWVwX1Zn?oc=5",
+      "summary": "The AI money bomb is about to hit San Francisco The San Francisco Standard",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -74,6 +98,14 @@
       "date": "2026-10-14"
     },
     {
+      "company": "Meta",
+      "title": "Meta's AI comeback: From missteps to Muse AI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnRNTUU3cVZMSWtWRTBhbFNWVi00RWh0QkRJaDE3OHZOaUhhZEo0Zjh5Qi02MGgzbG45ZXozZmlfMDJrQnlqN2NMME9rX3VjU2Z6LTk5Tl9rU2Y5ZHhyNGVXVzlIWEJKME1mMDhMbld3UmdTMkRDbmlSUmpZaUVxMG9jWXMyVGR4bkpYVVRfSG9vZHM?oc=5",
+      "summary": "Meta's AI comeback: From missteps to Muse AI Yahoo Finance Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Mark Zuckerberg says Meta has reached AI ‘frontier’ Financi",
+      "badge": "hot",
+      "date": "2026-10-14"
+    },
+    {
       "company": "OpenAI",
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
@@ -93,7 +125,15 @@
       "company": "Anthropic",
       "title": "Anthropic warns AI models could soon copy themselves across home devices - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5",
-      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models could soon replicate across home devices, become difficult to shut down Fox News AI in your oven",
+      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models may soon self-replicate and could wreak havoc on the web Reuters Anthropic warns small AI models",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5",
+      "summary": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade CNBC",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -110,22 +150,6 @@
       "title": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police - NBC News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVnaE1VYlN3bTFyQnA2bnduR0FHTWh4MFB1M29VU3NTeTFJWlYzejlickh4SUlJbXI5N0xOY3lBRWpmdWtZeHBGOG9BZTRwOFpaSnlITTBhSUp2RnZVc1YzNWlHLXpnbDg0X2trak9OSFNFWVN2YUFKR1RFWlBGbnNycUd6NEh1eHgxTTkxNUtIRUtEeXV1cE5VaUVOVjJvNTJIaXp0S0I5Y1Zqd2pWbHRwWUZfY1Z4UHc?oc=5",
       "summary": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police NBC News",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5",
-      "summary": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade CNBC",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic eyeing renewable-powered data centers in Australia - Quartz",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VOEIxTVV1SFE0bUxRQk80VzdVa0U4dDJOR1BlZ3VqSHpmU21uM3Vka256a2N4bGpPX2JCdTctaXVuLXN5NEFRUFBaN0tWVm94cktXQUJPRXBvMzBpWWlSSGR2UkgwVFp3MWtsajFuaDNsUkc4MHJqVFZDcw?oc=5",
-      "summary": "Anthropic eyeing renewable-powered data centers in Australia Quartz",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -226,14 +250,6 @@
       "date": "2026-10-13"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSER5ZlJwUTROcmZEaU9pY3l3TVh6ZHpCUFcwTElGR0g2dnBicDItUDdrVTBmZnhKTVdiZGYzUmZrUG1GdEstVi1HNmlQN2Q0RHRtWkNhZFlJb3VuNHVwWUNPQk5QYUsySGdGXzJUQlltTDVhNmF2YU5XUjJuQ0g4QzBSYjdyMnhtSlVFYzM5OGJLbkZuX2Zkd19zVThHMFdMVGtZTk5mV0JsN0VPSFg1OXp3OXczdw?oc=5",
-      "summary": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police Ars Technica",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Microsoft",
       "title": "How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella - The Information",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC1STlhPa3JHUTJjQkF1M0RBd0U0TGhSak81dHhVSlg1M250UTZadURsMS1zOU5acjRfR055TlFaMmRQbnRvMUFSN2RkMUtGbW5PdF9WdzJ2ZW8zel8tMHg2UVBERmxKUjhDQTg0M0N5cndKWVA4OThUTHJNVzJIdXBablhtTXNoZWY5RnBsMFE0N3RKLXRtRA?oc=5",
@@ -251,9 +267,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObl9KakpiakRtRjZYQmUtVzlmTXg3OHNmN0RZOWNHNGxfSHR0dlVQMHlRYVozOGdlMmVmYnd5alFjR2REbS1Rbk1fdWY4bmxLX3Rfa3hSV2tDem1BVHV5QjVzZUlsazU5VXlLUXVBdlh5MktmM1VoVDBmM01FYVBwNkwzdFlWZ0dHM01rZzc5djlrTW9aX1o3Xy1R?oc=5",
-      "summary": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) Seeking Alpha",
+      "title": "Microsoft giveth and Microsoft taketh away: Copilot edition - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVNoc3c3UjNadnowemVJR0ZWRi1Wbk9KVVdUSHdqXzIzbmJrQnZZQVBQMmZHSnlzMVlGSmxBcTkyR3NhWGFFeG1nSGloUmxWOE5UZDBfOEg0TE1TTUo4ZWFWWEU4U3NqcmdJN1RCOHVYeXF4VGZjWnJpZHBPSmRjYnNvSWx3eWlPOVlrNDVpOHliVU5oNXZteWhqc3RlM0RKOHREb05Oa2NVUVJiaHByeVZ1RC0xblZJX1E?oc=5",
+      "summary": "Microsoft giveth and Microsoft taketh away: Copilot edition The Register",
       "badge": "new",
       "date": "2026-10-12"
     },
@@ -267,9 +283,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft giveth and Microsoft taketh away: Copilot edition - The Register",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVNoc3c3UjNadnowemVJR0ZWRi1Wbk9KVVdUSHdqXzIzbmJrQnZZQVBQMmZHSnlzMVlGSmxBcTkyR3NhWGFFeG1nSGloUmxWOE5UZDBfOEg0TE1TTUo4ZWFWWEU4U3NqcmdJN1RCOHVYeXF4VGZjWnJpZHBPSmRjYnNvSWx3eWlPOVlrNDVpOHliVU5oNXZteWhqc3RlM0RKOHREb05Oa2NVUVJiaHByeVZ1RC0xblZJX1E?oc=5",
-      "summary": "Microsoft giveth and Microsoft taketh away: Copilot edition The Register",
+      "title": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObl9KakpiakRtRjZYQmUtVzlmTXg3OHNmN0RZOWNHNGxfSHR0dlVQMHlRYVozOGdlMmVmYnd5alFjR2REbS1Rbk1fdWY4bmxLX3Rfa3hSV2tDem1BVHV5QjVzZUlsazU5VXlLUXVBdlh5MktmM1VoVDBmM01FYVBwNkwzdFlWZ0dHM01rZzc5djlrTW9aX1o3Xy1R?oc=5",
+      "summary": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) Seeking Alpha",
       "badge": "new",
       "date": "2026-10-12"
     },
@@ -323,25 +339,9 @@
     },
     {
       "company": "Meta",
-      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
-      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Meta Unveils New Series of Advanced ",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
       "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine - WIRED",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUlJTmQyWEJBVXcwTnh3TEdDQW1QczlrMzE0VUhCWDlGU2hWX1hHcE5BakNPRTY3aEtDdlBTRXdVUVhzS1dOdTA2NmJiblFMNlNRZ1BIVzl4RFhIcGwzZC1FUWl5X3UyU0RZU1JpUkFvRnRHaS14SWZvNzNvX2lpSzRlODdfVDJlUm9lWlhwTENlSUR6NFpna2pzdw?oc=5",
       "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine WIRED",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWdKQ0NUMnE0R2ZRanZiOWlIZnVtUWpRS0puY1F4ZFBEZ1h5cWc2NjdJLXdsUXhvTmg3R0FQRkRVd3hvWFVKRmxJT1ZLMi1TZmZ5aHNYWXpVRndxOU0wVkV3QWhzY1lBTlZ2WmRYb0Fjd09VbTZYZXVZZUFrV1JpWk04d2ZJUlJaLVU0SjhtdWtiN3lHYnhkOWQ4aTFRWk12Q09UVlRNaHRfT2RwTV9UOXRB?oc=5",
-      "summary": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers Business Insider",
       "badge": "new",
       "date": "2026-10-12"
     },
@@ -355,18 +355,26 @@
     },
     {
       "company": "Meta",
-      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
-      "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times Meta Unveils New Series of Advanced A.I. Models Th",
+      "title": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWdKQ0NUMnE0R2ZRanZiOWlIZnVtUWpRS0puY1F4ZFBEZ1h5cWc2NjdJLXdsUXhvTmg3R0FQRkRVd3hvWFVKRmxJT1ZLMi1TZmZ5aHNYWXpVRndxOU0wVkV3QWhzY1lBTlZ2WmRYb0Fjd09VbTZYZXVZZUFrV1JpWk04d2ZJUlJaLVU0SjhtdWtiN3lHYnhkOWQ4aTFRWk12Q09UVlRNaHRfT2RwTV9UOXRB?oc=5",
+      "summary": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers Business Insider",
+      "badge": "new",
+      "date": "2026-10-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
+      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Meta Unveils New Series of Advanced ",
       "badge": "hot",
       "date": "2026-10-12"
     },
     {
       "company": "Meta",
-      "title": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzlsanFYYks0ZG40aUI4aUY2M2hRR0hsemxqNTJlX1poaUo0bjdjQ3Y4SzJWX2kyUWg2bVJCNFpnV1JpT1Nlc1ROV3RIZXIzUkhqMlpFTURmODZxaFdZeVNvWmRIWVBoanhWUVYyajVaVzNZcXF2TF9RQkVIZEwyMS1CczRsNnA3SWRQbHpOMA?oc=5",
-      "summary": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers Yahoo Finance UK",
-      "badge": "new",
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
+      "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times Meta Unveils New Series of Advanced A.I. Models Th",
+      "badge": "hot",
       "date": "2026-10-12"
     },
     {
@@ -379,17 +387,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "badge": "new",
       "date": "2026-10-09"
     },
     {
       "company": "OpenAI",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "badge": "new",
       "date": "2026-10-09"
     },
@@ -470,14 +478,6 @@
       "title": "Helping teens learn, plan, and shape the future of AI",
       "url": "https://openai.com/index/teens-learn-and-plan",
       "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "badge": "new",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "badge": "new",
       "date": "2026-10-07"
     },
