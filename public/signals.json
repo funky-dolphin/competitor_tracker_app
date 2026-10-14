@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T16:21:32Z",
+  "updated": "2026-10-14T21:12:53Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "OpenAI",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
     {
       "company": "OpenAI",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -14,6 +30,30 @@
       "title": "The EU’s next chapter in AI is agentic",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5",
+      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos CNBC",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI race is back on - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5",
+      "summary": "The AI race is back on The Verge",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic to add US voting information to Claude before midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5",
+      "summary": "Anthropic to add US voting information to Claude before midterms Reuters",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -54,6 +94,22 @@
       "title": "AI Weekly: Anthropic's rogue police tip, Garfield plays Altman - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ydmpsSkFrZTd6TTZsSXNOb3VYTS01QVNqMHlVdGNDZG1CS250SGkyY0pVTExoSkhGSjFSMF9xOHFlSjV6MVI3QTdKTjlWajNRZ2pLcVhFdzZaMk1EUFdXam5FQXFqcjg?oc=5",
       "summary": "AI Weekly: Anthropic's rogue police tip, Garfield plays Altman Reuters",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Copilot Just Implemented Usage Pricing. How To Ensure Your Team's Creative Freedom Doesn't Stall - Inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEY4a2RrNmhndUREcERQZGhCa2Q4TFRESmg2QmtwZFhXbEdPdTIySUgtcjdmM0RpNllvX1NzMExGLUJ2SGFDbW9qU0tuWi1XYmw0enY3aHY0Q3RUbXc1S0t0RHExcXlmNGRpdVI5a0lnVU1NcDdLaVdBWWZJQTNNYWFLLWdPZFY2?oc=5",
+      "summary": "Microsoft Copilot Just Implemented Usage Pricing. How To Ensure Your Team's Creative Freedom Doesn't Stall Inc.com",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -99,6 +155,14 @@
     },
     {
       "company": "Meta",
+      "title": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlllSFdjUGN6MXplZWlreE1xek9XZmx0OVdGVFZzbDRsRXFjR0hfYkEzYXpZdTF5bVNEbzRRVGVzc1p1dUZFX3BzT25aLVRyenM3X1Nqel9CX3pZZ2lCYnI2ZDB6UVpfdnhPejNCWFdyWU1LcXh4NUFnNS1uclh3enpXdm05T0ZQWHRHbVNCVWFQbkpFRkJ1ODJ3VEE?oc=5",
+      "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Meta",
       "title": "Meta's AI comeback: From missteps to Muse AI - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnRNTUU3cVZMSWtWRTBhbFNWVi00RWh0QkRJaDE3OHZOaUhhZEo0Zjh5Qi02MGgzbG45ZXozZmlfMDJrQnlqN2NMME9rX3VjU2Z6LTk5Tl9rU2Y5ZHhyNGVXVzlIWEJKME1mMDhMbld3UmdTMkRDbmlSUmpZaUVxMG9jWXMyVGR4bkpYVVRfSG9vZHM?oc=5",
       "summary": "Meta's AI comeback: From missteps to Muse AI Yahoo Finance Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Mark Zuckerberg says Meta has reached AI ‘frontier’ Financi",
@@ -125,31 +189,7 @@
       "company": "Anthropic",
       "title": "Anthropic warns AI models could soon copy themselves across home devices - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5",
-      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models may soon self-replicate and could wreak havoc on the web Reuters Anthropic warns small AI models",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5",
-      "summary": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade CNBC",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
-      "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web Reuters Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models could",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVnaE1VYlN3bTFyQnA2bnduR0FHTWh4MFB1M29VU3NTeTFJWlYzejlickh4SUlJbXI5N0xOY3lBRWpmdWtZeHBGOG9BZTRwOFpaSnlITTBhSUp2RnZVc1YzNWlHLXpnbDg0X2trak9OSFNFWVN2YUFKR1RFWlBGbnNycUd6NEh1eHgxTTkxNUtIRUtEeXV1cE5VaUVOVjJvNTJIaXp0S0I5Y1Zqd2pWbHRwWUZfY1Z4UHc?oc=5",
-      "summary": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police NBC News",
+      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models may soon self-replicate and could wreak havoc on the web Reuters Self-replicating AIs are a grea",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -158,6 +198,14 @@
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "summary": "TBD",
+      "badge": "new",
+      "date": "2026-10-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot to autopilot: Why no single safeguard is enough - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2pwWmFSOHJRczVzd3FjRms1V05KWUZyLW5WTm9maDdrTVIxNUhTQUFjXzB1LUN2MUF1cUJONVlrUUxRbl93M29WQ1RfTzA3bTBtaTZTT21zcjBNS2NXTmI4bDZkSDFMZ2JjTXhNRHFKbl9QQUszS1VxNDkyTHF0Vm5DM3lMUExoYWVEMFdET19FSU9kVXFVYmdCMWxXd2o1MUI3c0hHZmFhTjRkZEN1V1NNUm1QYXlSajFnLUhaQQ?oc=5",
+      "summary": "Copilot to autopilot: Why no single safeguard is enough Microsoft",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -298,30 +346,6 @@
       "date": "2026-10-12"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft cutting R&D jobs in Israel - Globes - Israel Business News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1BqUmxoTFl3RExpdFNrWTFiNk5JTzB2THNuZjJKSGRfbUMwcG5nWk5VbVVfM3NQcDFKU2l5NEdiVXdfenRNZHBDM2dYRTlxTmVDTTFXc3RpbG5mZjRXRWZSd3lnanN6Vl9zQVk5WjdPZzdJOGtIOFIzbEkzdjJpVms0OV8yUXZH?oc=5",
-      "summary": "Microsoft cutting R&D jobs in Israel Globes - Israel Business News",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft takes on Google's NotebookLM with major Copilot Notebooks upgrades - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXJlRFgxR1lFRHZBbmRhT0dwcmktenRZeHVkeVg4MGtmd1FVczF5NFg0MUxObjJleGxGR3F1UDNhdDBBTFRHVl9uNFBEZTF2Vzdwdjdrc1E1N0lnbWdRR1kweG52NFRnR0g5QnRKTWVlNjJrQlVSMzQyMzFqUGJJZGdfN2xFVWd0MXRaMndKNm1qcTlVdkd2ck1LLWpST21YU0NyTzlBaw?oc=5",
-      "summary": "Microsoft takes on Google's NotebookLM with major Copilot Notebooks upgrades Neowin",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Apple",
-      "title": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "summary": "Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2R3cTg2Njhlb0VmcnVMZFNTNEhmLXFqVUE3eWNVbVRJUWY2dC1WSEZ3V0ExYXdmTmJOMlZNN0VHWUpjVnh4NXZuSzloZHRsZHp6VXhpZ2xDdzNlR3VyWTNaUkZXLXZUckIzUHNLbk1ROUNTTVVuemo4TzFaeTd1V2JHX2FmRU9JSkFfRnd4YlY2Z1dwTGU3c1pyaGZfZjFkUlVMSzJPUXNCb1FxMzAwY0NFd3dET1VPOVE?oc=5",
@@ -347,10 +371,10 @@
     },
     {
       "company": "Meta",
-      "title": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare? - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFZjTm45QWdRTVNwLVpjS04xZkdLMlJtNExPSld4VGk5eXlhNVhfOVFEVWJRUlNEazd5RGFTV2FWZkFLWGl0SWoycTdqYnJPM2kxN2JNdEQtY0lNMFNVMHZYRXN5YURHaGRyeHpGTVYyQWpyTWE5dEpNQ1R2MC1BWWp2NGE?oc=5",
-      "summary": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare? Engadget",
-      "badge": "new",
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
+      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Why Meta's AI bet could be mispriced Yahoo Finance Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times",
+      "badge": "hot",
       "date": "2026-10-12"
     },
     {
@@ -363,18 +387,10 @@
     },
     {
       "company": "Meta",
-      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
-      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Meta Unveils New Series of Advanced ",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
-      "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times Meta Unveils New Series of Advanced A.I. Models Th",
-      "badge": "hot",
+      "title": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare? - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFZjTm45QWdRTVNwLVpjS04xZkdLMlJtNExPSld4VGk5eXlhNVhfOVFEVWJRUlNEazd5RGFTV2FWZkFLWGl0SWoycTdqYnJPM2kxN2JNdEQtY0lNMFNVMHZYRXN5YURHaGRyeHpGTVYyQWpyTWE5dEpNQ1R2MC1BWWp2NGE?oc=5",
+      "summary": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare? Engadget",
+      "badge": "new",
       "date": "2026-10-12"
     },
     {
@@ -434,14 +450,6 @@
       "date": "2026-10-08"
     },
     {
-      "company": "OpenAI",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTFpMWtONHNxV3FDS0ladDN2X1RxY1lHTktDQlp1YmRuWDVjOGx0cFh1WWlSQ1pGSXgxYlJ3VHBsdEZ6RDhnZklLUTY5LU5JWmgzbkJQN3ctTS1teUllV1RiRUVSaUtzWk1HbHlRTGVxUW1rcVVfMS1Ka3BzaHVyTHNuODRseTJtdGtYTG1IazRKRWhqSzBXekcxbzlUTHd6ZWROb2pWc3JQU25pRWVQbHY2c0xyUl9pR01fOFJSMlRNRTJRUGZ2WTZkTGRZSWZCbEN30gHTAUFVX3lxTE1JMWkxa040c3FXcUNLSVp0M3ZfVHFjWUdOS0NCWnViZG5YNWM4bHRwWHVZaVJDWkZJeDFiUndUcGx0RnpEOGdmSUtRNjktTklaaDNuQlA3dy1NLW15SWVXVGJFRVJpS3NaTUdseVFMZXFRbWtxVV8xLUprcHNodXJMc244NGx5Mm10a1hMbUhrNEpFaGpLMFd6RzFvOVRMd3plZE5valZzclBTbmlFZVBsdjZzTHJSX2lHTV84UlIyVE1FMlFQZnZZNmRMZFlJZkJsQ3c?oc=5",
@@ -472,14 +480,6 @@
       "summary": "PilotDeck Launches ChatGPT and Perplexity Visibility Trackers to Help Businesses Measure AI Search Presence openPR.com",
       "badge": "hot",
       "date": "2026-10-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "badge": "new",
-      "date": "2026-10-07"
     },
     {
       "company": "Google",
