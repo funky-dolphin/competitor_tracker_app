@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-14T21:12:53Z",
+  "updated": "2026-10-15T02:50:09Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces the next generation of HomePod mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
+      "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.",
+      "badge": "hot",
+      "date": "2026-10-15"
+    },
     {
       "company": "OpenAI",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -27,9 +67,25 @@
     },
     {
       "company": "OpenAI",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "OpenAI",
       "title": "The EU’s next chapter in AI is agentic",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
+      "summary": "Anthropic Q3 revenue climbs to $16.8 billion: Report Yahoo Finance At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters AI giant Anthropic sees revenue surge ahead ",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -43,17 +99,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "The AI race is back on - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5",
-      "summary": "The AI race is back on The Verge",
+      "title": "Anthropic to add US voting information to Claude before midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5",
+      "summary": "Anthropic to add US voting information to Claude before midterms Reuters",
       "badge": "new",
       "date": "2026-10-14"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic to add US voting information to Claude before midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5",
-      "summary": "Anthropic to add US voting information to Claude before midterms Reuters",
+      "title": "The AI race is back on - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5",
+      "summary": "The AI race is back on The Verge",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -107,46 +163,6 @@
     },
     {
       "company": "Apple",
-      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
-      "badge": "hot",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces the next generation of HomePod mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
-      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
-      "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
-      "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.",
-      "badge": "hot",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Apple",
       "title": "App Store Indie Games Week kicks off today",
       "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
       "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.",
@@ -182,14 +198,6 @@
       "title": "Redesigning source control at Anthropic - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
       "summary": "Redesigning source control at Anthropic Anthropic",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic warns AI models could soon copy themselves across home devices - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWNyQzh5ak9WNUlLTW1wbWV4QkhuWGFqUHBocXhiZnllY0t2VGRXMWxiVTRpX05neGhMSlBXQml4VXlOZGRmazJ3VVhMRmlhVWRkd2JzNkd1Vm9RMlpWTDNUamZnQ3lJcXZJRDJDNGFBTDlhbDNOVEF5cUxiX1h3RG10bnM3OW9JQjRZN0R1OXTSAZYBQVVfeXFMTVRBTkdGclhPT1A4aEJuZW9Gdm1ndW14S1JoZGRZamN6Zlo3TFpQV0k5cjE5TEIxWnRBSFR4R1VkY1licnBqX0x2aGVJMC1vQzRLYXVYbkszcUxaSFdNMTZ2ZVZtYk5ZZ1BXQllBUTA5Z09BcGR2ZHYtUXB5WW52OXpTci1VcUtIbWhQanNXMUxEVXFIODl3?oc=5",
-      "summary": "Anthropic warns AI models could soon copy themselves across home devices CNBC Anthropic warns AI models may soon self-replicate and could wreak havoc on the web Reuters Self-replicating AIs are a grea",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -373,7 +381,7 @@
       "company": "Meta",
       "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
-      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Why Meta's AI bet could be mispriced Yahoo Finance Mark Zuckerberg says Meta has reached AI ‘frontier’ Financial Times",
+      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ Why Meta's AI bet could be mispriced Yaho",
       "badge": "hot",
       "date": "2026-10-12"
     },
@@ -438,14 +446,6 @@
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "url": "https://openai.com/index/pollo-ai",
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "badge": "new",
       "date": "2026-10-08"
     },
