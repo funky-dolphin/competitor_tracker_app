@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-15T10:44:02Z",
+  "updated": "2026-10-15T16:09:18Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis - BBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg?oc=5",
+      "summary": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis BBC",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
     {
       "company": "Anthropic",
       "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
       "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents Axios",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkhjUENoTlFhVkZ5NmN4TXRnb19CM0xaa0lkNlU3TjNtdjhuZ1Rnak1zTUhGLWtPSlJNdWVLU3BwNmd3WUFxbmdWT2NnbTdBcU5pZVpOTTdOclFMRzByMlg1RzRQWlFYR1VsLVU2THVPc3hUWFIwc3RpVW5xVjdsOTVBdnhwWW8?oc=5",
+      "summary": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents CBS News",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -22,6 +46,22 @@
       "title": "NFL Week 6 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkM4UTRSb09vUHpjMGVnZzFUY3pxdXFDbUg4Y1V6Uktkb0ltYTlhQkU0ZGdGOTh2Q203MHltOWFNUjdweG8tRDRyTGF1RjhoOUQwWXlUY3hoNTZEX1dMYUlURHN1ZWpzTFpLbHA4QTJoUEJFWlItRHd4Z09KLW93Z3psYjRZSXZ0MFJnWWZIemUzLTBLWUJ6NmZCS1pfNERLMU14WQ?oc=5",
       "summary": "NFL Week 6 predictions by Microsoft Copilot AI for every game USA Today",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot pricing gets complicated - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFpHSDI2aHZJSEs5OS1VTjJ0TENUMzNBNWpnQ0ljNnd5ZHFrRktXUnh5ZExuV0h4MlhhdkktOWxFMUJoWmVFMWdWTU9kck8tRmdlc2s4ekJfUlJTMXhOLXl0VlRiN3kzS3F3eEs2aFNENl9fNFFmWEM0N2w1ZW9wclRJcTJ3WWlHQkVLYkNxLXNLQjhZNW81Y1pEcU5oUGRqWWc?oc=5",
+      "summary": "Copilot pricing gets complicated Computerworld",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -63,6 +103,14 @@
       "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
       "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.",
       "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Meta",
+      "title": "What Wall Street may be forgetting about Meta's AI business - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
+      "summary": "What Wall Street may be forgetting about Meta's AI business Yahoo Finance",
+      "badge": "new",
       "date": "2026-10-15"
     },
     {
@@ -162,22 +210,6 @@
       "date": "2026-10-14"
     },
     {
-      "company": "Anthropic",
-      "title": "The AI money bomb is about to hit San Francisco - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajlxUnVlaEdhYzFXNlBlQURpMVQ4MGdRbm4xcHBvMDd2ZkRrcURxTWxoNTVWSzFpWnpnMkY5aVBURnhsY2lMSFM3QzQ2UWFEN21qZENHRlhWbUducllXYmtGTmE5ZFVyZVkzTUpuOF9Nd2ZyYXVhTFNQRV90T2piZ3ZHdGxCZFFGTVBibEUtWVpSSWVwX1Zn?oc=5",
-      "summary": "The AI money bomb is about to hit San Francisco The San Francisco Standard",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does - Scientific American",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
-      "summary": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does Scientific American",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Copilot Just Implemented Usage Pricing. How To Ensure Your Team's Creative Freedom Doesn't Stall - Inc.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEY4a2RrNmhndUREcERQZGhCa2Q4TFRESmg2QmtwZFhXbEdPdTIySUgtcjdmM0RpNllvX1NzMExGLUJ2SGFDbW9qU0tuWi1XYmw0enY3aHY0Q3RUbXc1S0t0RHExcXlmNGRpdVI5a0lnVU1NcDdLaVdBWWZJQTNNYWFLLWdPZFY2?oc=5",
@@ -198,6 +230,14 @@
       "title": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmpjSGIwSE9MZ0VlV3FrdldNdy1QbnQ1NHpYMmVkbTJvUmFmeURGWEh1WGhnZlRxNXNKMFFZUENmTkhDMGVFMWtCbFQ4TnY4Qnc5d1Bvb1Z1QnlSVkg2LTdoVzk5aVNCU2ZvLWRhOC1TQVRPdkhfYVRLcHVvWVdMVUdQRjNrTW5zWnNQU3V0WmtfcThxY2tuWHVtdk1fV3p6NmdVUmNCejZybGxCeXNOcU9ULVBKbGptM3JQZTRBMU9pNms3UmZzWkxPeGt6RHU4S2VKbkt0RjJoQjFBcXV3?oc=5",
       "summary": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil Folha de S.Paulo",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s Smart Glasses May Have Been Recording People Without Their Knowledge - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0V2bHF1dDc5d0lCemkyeHJSOXg5SG53WU5HYmpodklWSjFid2FSWERRUzFfaU9lS3FPWFh5elFxN1gwaWZSTXlZTC02cEhzZThqS0YxS2FsQWNrRU9TaHRVT1R1UnFOM1VBYnp3QWZQVkg3UlJ1NzNfNlRGOWhKZzln?oc=5",
+      "summary": "Meta’s Smart Glasses May Have Been Recording People Without Their Knowledge Gizmodo",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -282,14 +322,6 @@
       "date": "2026-10-13"
     },
     {
-      "company": "Apple",
-      "title": "Apple releases new guide to help families build healthy digital habits",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-      "summary": "Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.",
-      "badge": "hot",
-      "date": "2026-10-13"
-    },
-    {
       "company": "Perplexity",
       "title": "How to fix what ChatGPT and Gemini say about you - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNelhJdnE3cGJNNlNwX29JakZXMnBjenVoc21iTk5hSG02Y3pBUVFVLVNHQ2diUE9hbFF6ZU5YbWJLcE5zQjBZWTdIUTJNSVNvRUY2TzRGTkx5NW1EZTk0NjhLMzNoS1g5SF81d1FMMlEtazFjQWk3aVhKZjluZE5hcF9HNUs?oc=5",
@@ -362,14 +394,6 @@
       "date": "2026-10-12"
     },
     {
-      "company": "Microsoft",
-      "title": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObl9KakpiakRtRjZYQmUtVzlmTXg3OHNmN0RZOWNHNGxfSHR0dlVQMHlRYVozOGdlMmVmYnd5alFjR2REbS1Rbk1fdWY4bmxLX3Rfa3hSV2tDem1BVHV5QjVzZUlsazU5VXlLUXVBdlh5MktmM1VoVDBmM01FYVBwNkwzdFlWZ0dHM01rZzc5djlrTW9aX1o3Xy1R?oc=5",
-      "summary": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2R3cTg2Njhlb0VmcnVMZFNTNEhmLXFqVUE3eWNVbVRJUWY2dC1WSEZ3V0ExYXdmTmJOMlZNN0VHWUpjVnh4NXZuSzloZHRsZHp6VXhpZ2xDdzNlR3VyWTNaUkZXLXZUckIzUHNLbk1ROUNTTVVuemo4TzFaeTd1V2JHX2FmRU9JSkFfRnd4YlY2Z1dwTGU3c1pyaGZfZjFkUlVMSzJPUXNCb1FxMzAwY0NFd3dET1VPOVE?oc=5",
@@ -382,22 +406,6 @@
       "title": "Reddit Accuses Former Law Firm of Switching Sides to Defend Perplexity AI - Law Commentary",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzBsRlNqOGtWYmZlc0V4RS1Db1llZHNiS0xaX0dKcVJkbGs3azFvSWtsX0VmNmZUaEFmR2sxdC1ybUpmcnZLMzdGQ1loXzRLN0lpN3RaTzlfYnBFTlgyY3RmUTNKTUlPVTV0eVFNYk1LanJzZy1pWTNFVndtMHBSQkp6RFI4WWgxdVVaZ0NWdUc?oc=5",
       "summary": "Reddit Accuses Former Law Firm of Switching Sides to Defend Perplexity AI Law Commentary",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
-      "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ Why Meta's AI bet could be mispriced Yaho",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUlJTmQyWEJBVXcwTnh3TEdDQW1QczlrMzE0VUhCWDlGU2hWX1hHcE5BakNPRTY3aEtDdlBTRXdVUVhzS1dOdTA2NmJiblFMNlNRZ1BIVzl4RFhIcGwzZC1FUWl5X3UyU0RZU1JpUkFvRnRHaS14SWZvNzNvX2lpSzRlODdfVDJlUm9lWlhwTENlSUR6NFpna2pzdw?oc=5",
-      "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine WIRED",
       "badge": "new",
       "date": "2026-10-12"
     },
@@ -438,14 +446,6 @@
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "badge": "new",
       "date": "2026-10-08"
     },
