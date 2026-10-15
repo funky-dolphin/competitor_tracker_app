@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-15T02:50:09Z",
+  "updated": "2026-10-15T10:44:02Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
+      "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents Axios",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "At Singapore launch, Anthropic defends its oversight of how customers use its model, citing AI’s ‘dual use’ risks - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcElzNnRMYTVOVU9kdE44U0ZaQnhvREpBdHJxY1lQNFVtYnlGblZseFFOQkdGV0ZqWUNoeVpKMWdDLTB3NThlUmZRU2dDZkVIcGpuU2NVd0RKZVNTVmlLbGVCV3IxWUNaRmZFc1hyZld0N0pteG1fTGU2Vld3WFNBZjZSdmx0ZU1S?oc=5",
+      "summary": "At Singapore launch, Anthropic defends its oversight of how customers use its model, citing AI’s ‘dual use’ risks Fortune",
+      "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "NFL Week 6 predictions by Microsoft Copilot AI for every game - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkM4UTRSb09vUHpjMGVnZzFUY3pxdXFDbUg4Y1V6Uktkb0ltYTlhQkU0ZGdGOTh2Q203MHltOWFNUjdweG8tRDRyTGF1RjhoOUQwWXlUY3hoNTZEX1dMYUlURHN1ZWpzTFpLbHA4QTJoUEJFWlItRHd4Z09KLW93Z3psYjRZSXZ0MFJnWWZIemUzLTBLWUJ6NmZCS1pfNERLMU14WQ?oc=5",
+      "summary": "NFL Week 6 predictions by Microsoft Copilot AI for every game USA Today",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
     {
       "company": "Apple",
       "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
@@ -39,6 +63,14 @@
       "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
       "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.",
       "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI head Alexandr Wang praises Mark Zuckerberg, he replies: I have never gotten such a nice… - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYXdVb0UtLWs4U3k4NG9QNXAydWRFdFN5QU9ROGhMZjA3QlVkdE4tWWd0UTFlMW5fV2ZHRTk1N01tV0NTT0Q1WkQzaWtleV9uQ0VjX0pfalA0WWtlZzFMV0hOeDd6dGtSbUo3X2NsR1NkNDdCYWNzbk5UU0lyVVlkbERydTJid1dRb05xcFZjckpQbm1Za2dKTUJEc0liMGluZWJJVWpjaFpjWVdoYlBkNjFNYVRhZFAxUDFDUEF5X3ZHM2tFQUJ5Nkc3RnY4N1otdDlXVHBya2FyVmlmZ3RvWmFLclkyVUxJWHA0MHloMFB6S1gtdUluM21lbUIyTnVrNF8wYmZUNNIBjAJBVV95cUxOT3BCT1VfekJrdWJmQ3VqLWFxN0dWa25ldkZWeXFPTFlZOHFsRUhnSk93MnlMc2IxYmdRVTQ5djNhMWVIQXdkUFJaanFOaU1uTlRNYTh3ZkZZbmczM3Y4VEp6NllKV2FfRlJTWEpVSWJkbDIxbjM3cGFacGRibllLQjA4ak9mNnROVmJWand5R2xkZDNFM0JfNkViMGx4cHVLQmNyQjZtejlrSWZmbGtJaDFJVmljVzdMVVN6OG9YY3NaTjJScHFfVEZtWXhXSzNTMnN0ZnA1S05yNmhldG9ySjlvYnFHbC1TcUNYenFKRnZROWoxdXNKVTdlaUVQV2lOYzdHVkt4TEcwMzVo?oc=5",
+      "summary": "Meta AI head Alexandr Wang praises Mark Zuckerberg, he replies: I have never gotten such a nice… The Times of India",
+      "badge": "new",
       "date": "2026-10-15"
     },
     {
@@ -83,17 +115,25 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
-      "summary": "Anthropic Q3 revenue climbs to $16.8 billion: Report Yahoo Finance At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters AI giant Anthropic sees revenue surge ahead ",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5",
+      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos CNBC",
       "badge": "new",
       "date": "2026-10-14"
     },
     {
       "company": "Anthropic",
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5",
-      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos CNBC",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
+      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO Financial Times Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter The New York Times Anthropic bring",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
+      "summary": "Anthropic Q3 revenue climbs to $16.8 billion: Report Yahoo Finance At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters AI giant Anthropic sees revenue surge ahead ",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -138,22 +178,6 @@
       "date": "2026-10-14"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl8zSEtRa0QyR0Z5OHJVOFhjX2xJTGtmVVVXSll3cXNCUkVBOFdKWGZUMVhTZDVzX1lpM0RYSUFkdkRjbTVQZ2dnTjhjeDIzYWtncUsyMHZnbGZqZmhqaDdyS1RMNkp6MjBQRlFRcWJ5SFJSYU90SGhPanBUQjBsSncxeXVYOTlSb05ONVNMOHRYWVFFenp0VFpnM1pRbGliU3ktb2t5ZnV4MnREQUxsVVBiSQ?oc=5",
-      "summary": "Anthropic Executive Says Open-Source AI Models Are Higher Risk Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI Weekly: Anthropic's rogue police tip, Garfield plays Altman - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ydmpsSkFrZTd6TTZsSXNOb3VYTS01QVNqMHlVdGNDZG1CS250SGkyY0pVTExoSkhGSjFSMF9xOHFlSjV6MVI3QTdKTjlWajNRZ2pLcVhFdzZaMk1EUFdXam5FQXFqcjg?oc=5",
-      "summary": "AI Weekly: Anthropic's rogue police tip, Garfield plays Altman Reuters",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Copilot Just Implemented Usage Pricing. How To Ensure Your Team's Creative Freedom Doesn't Stall - Inc.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEY4a2RrNmhndUREcERQZGhCa2Q4TFRESmg2QmtwZFhXbEdPdTIySUgtcjdmM0RpNllvX1NzMExGLUJ2SGFDbW9qU0tuWi1XYmw0enY3aHY0Q3RUbXc1S0t0RHExcXlmNGRpdVI5a0lnVU1NcDdLaVdBWWZJQTNNYWFLLWdPZFY2?oc=5",
@@ -166,6 +190,14 @@
       "title": "App Store Indie Games Week kicks off today",
       "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
       "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.",
+      "badge": "new",
+      "date": "2026-10-14"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmpjSGIwSE9MZ0VlV3FrdldNdy1QbnQ1NHpYMmVkbTJvUmFmeURGWEh1WGhnZlRxNXNKMFFZUENmTkhDMGVFMWtCbFQ4TnY4Qnc5d1Bvb1Z1QnlSVkg2LTdoVzk5aVNCU2ZvLWRhOC1TQVRPdkhfYVRLcHVvWVdMVUdQRjNrTW5zWnNQU3V0WmtfcThxY2tuWHVtdk1fV3p6NmdVUmNCejZybGxCeXNOcU9ULVBKbGptM3JQZTRBMU9pNms3UmZzWkxPeGt6RHU4S2VKbkt0RjJoQjFBcXV3?oc=5",
+      "summary": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil Folha de S.Paulo",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -190,14 +222,6 @@
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Redesigning source control at Anthropic - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
-      "summary": "Redesigning source control at Anthropic Anthropic",
       "badge": "new",
       "date": "2026-10-13"
     },
@@ -346,14 +370,6 @@
       "date": "2026-10-12"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbkxTZjhjS05YdndrY09vU0wtLVRvbGYxTlBSRnZWR1hla2ZYc3lONlpVeFdTV21CQUdFclpva1J5R2pxUWZnMDF4dC1GMUdQSzcwNHRoV09sWHJ5cm5BenJEazhaN1Q0d0hibUpUZS0xRG1NUWRpVjZUTXBUMHBBZnVuSDBmRHd3SzB6LVpWVF9zUzJUVDR6aGFUUVZPTDFJWlB3bkMxRHE0SnFEaG5ZQjZMWG0tVmxZcTFwb19GS0Vqdzh2RXdOWDVHcFBuaGtNQUVjd1pjcGE0ZllWQlhNTjZhT21LVHR1b2JZ?oc=5",
-      "summary": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last TechRadar",
-      "badge": "hot",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2R3cTg2Njhlb0VmcnVMZFNTNEhmLXFqVUE3eWNVbVRJUWY2dC1WSEZ3V0ExYXdmTmJOMlZNN0VHWUpjVnh4NXZuSzloZHRsZHp6VXhpZ2xDdzNlR3VyWTNaUkZXLXZUckIzUHNLbk1ROUNTTVVuemo4TzFaeTd1V2JHX2FmRU9JSkFfRnd4YlY2Z1dwTGU3c1pyaGZfZjFkUlVMSzJPUXNCb1FxMzAwY0NFd3dET1VPOVE?oc=5",
@@ -371,14 +387,6 @@
     },
     {
       "company": "Meta",
-      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUlJTmQyWEJBVXcwTnh3TEdDQW1QczlrMzE0VUhCWDlGU2hWX1hHcE5BakNPRTY3aEtDdlBTRXdVUVhzS1dOdTA2NmJiblFMNlNRZ1BIVzl4RFhIcGwzZC1FUWl5X3UyU0RZU1JpUkFvRnRHaS14SWZvNzNvX2lpSzRlODdfVDJlUm9lWlhwTENlSUR6NFpna2pzdw?oc=5",
-      "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine WIRED",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
       "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents - Facebook",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEsySi16NFVPeGtFbHE2SWRCalRUMjNWYnhKNVI2eFg3aC1ocEJwYWRvdC1zaHhYYXRWNjNna3FfOFQxZXZMMXhRcnpHSGpnR204cGpzMzcxQmxXUkZCcmNXNDFfUXNCTzlMQ2Nmb0ZHaWPSAXhBVV95cUxQd0VSRVJsQ2M3eEtsZXpISkd5VWlMRTlCd29BZ3E2MUNWWUNhczVIOEhMSFFaSjNuemNlZ3l4aW5QdjVBWG15d21rVlRGbV93eUgyVzZOa19tYjVuNktQVDZ4RGYzMjJQU3R4cUUzZFdkM0o3U2pLRUQ?oc=5",
       "summary": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents Facebook Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ Why Meta's AI bet could be mispriced Yaho",
@@ -387,17 +395,9 @@
     },
     {
       "company": "Meta",
-      "title": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWdKQ0NUMnE0R2ZRanZiOWlIZnVtUWpRS0puY1F4ZFBEZ1h5cWc2NjdJLXdsUXhvTmg3R0FQRkRVd3hvWFVKRmxJT1ZLMi1TZmZ5aHNYWXpVRndxOU0wVkV3QWhzY1lBTlZ2WmRYb0Fjd09VbTZYZXVZZUFrV1JpWk04d2ZJUlJaLVU0SjhtdWtiN3lHYnhkOWQ4aTFRWk12Q09UVlRNaHRfT2RwTV9UOXRB?oc=5",
-      "summary": "Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers Business Insider",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Meta",
-      "title": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare? - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFZjTm45QWdRTVNwLVpjS04xZkdLMlJtNExPSld4VGk5eXlhNVhfOVFEVWJRUlNEazd5RGFTV2FWZkFLWGl0SWoycTdqYnJPM2kxN2JNdEQtY0lNMFNVMHZYRXN5YURHaGRyeHpGTVYyQWpyTWE5dEpNQ1R2MC1BWWp2NGE?oc=5",
-      "summary": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare? Engadget",
+      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUlJTmQyWEJBVXcwTnh3TEdDQW1QczlrMzE0VUhCWDlGU2hWX1hHcE5BakNPRTY3aEtDdlBTRXdVUVhzS1dOdTA2NmJiblFMNlNRZ1BIVzl4RFhIcGwzZC1FUWl5X3UyU0RZU1JpUkFvRnRHaS14SWZvNzNvX2lpSzRlODdfVDJlUm9lWlhwTENlSUR6NFpna2pzdw?oc=5",
+      "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine WIRED",
       "badge": "new",
       "date": "2026-10-12"
     },
