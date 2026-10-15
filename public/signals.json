@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-15T16:09:18Z",
+  "updated": "2026-10-15T20:50:28Z",
   "signals": [
     {
       "company": "OpenAI",
       "title": "Teaching students to think and learn through questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An update on independent evaluators - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+      "summary": "An update on independent evaluators Anthropic",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5",
+      "summary": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks Financial Times",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTIyNURFZndfMmRpN0liM2l3eE9Rb3pncXlkaGRDUExCemNqQldWUmlLcVhEWHhwYXlOVHFxSlpuLWVUXzV0eHoxcjdsVXAxVTJ0X3FFVGFscldqY0lnbVVxNlhxWWZ4QUZNUmYyc1dSWHpHSl9XdXNaMEVONm5SVXd5ODM2VFFEa2fSAY8BQVVfeXFMUGdJcmpnY21LbUlicTI5OEZXSzB2UE1SclB6TDZWRDdNd0luMEpaY1o3a3podTZLQ3hFZUVpSUpKaEtqWlNETUhZYXUyLWFqdTJhSGoyVXF3ejFCNldkMHJnYjJCbmRFLVlKeGo3OFFOQUNSUDRJRzNfaVlSb3p4NGl4eWE3TFNFR0tUNHNxa0k?oc=5",
+      "summary": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices CNBC",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -38,6 +62,22 @@
       "title": "At Singapore launch, Anthropic defends its oversight of how customers use its model, citing AI’s ‘dual use’ risks - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcElzNnRMYTVOVU9kdE44U0ZaQnhvREpBdHJxY1lQNFVtYnlGblZseFFOQkdGV0ZqWUNoeVpKMWdDLTB3NThlUmZRU2dDZkVIcGpuU2NVd0RKZVNTVmlLbGVCV3IxWUNaRmZFc1hyZld0N0pteG1fTGU2Vld3WFNBZjZSdmx0ZU1S?oc=5",
       "summary": "At Singapore launch, Anthropic defends its oversight of how customers use its model, citing AI’s ‘dual use’ risks Fortune",
+      "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMWJLZjF0emdwNkZQekdCZFdUbnI2eUFXc3FpYVBpZHpYZ0t2czdmUmcxOWQtWWZaM3BzS1pSdWJKVnRTVTRRazJudnJRQmhLWGhXeEwzYkhvNmJaXzVnb3VRUWdtNlB6LWRLZlRBQWFfVUdBVGFEN3p2OEdjWklEb0Z1U0JFbWdpOENEYU5UMkpSem5VcVNqSHJmSTFlQkpaZkhYSGZ2RDJyN1JEY0MzVEtJYlVabTVwZ095Z2dGazRka2lZREktbVd2RXJLNkhIM3hKSlc0UkhDYm1aSTRlU1MzYXVvZG14bTZ4WE9UTVA3X21GR2RfblNMZDFSeThTR054eg?oc=5",
+      "summary": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio Microsoft",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
+      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
       "badge": "hot",
       "date": "2026-10-15"
     },
@@ -103,6 +143,14 @@
       "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
       "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.",
       "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Exclusive / Perplexity to give away its AI security software - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjNjek4yZDJoN0RHOUhRSjBZcmQ4UjJBNldNaU00bGQ1dlQ4dUhKV2xYZlVnWVN1Q2JLd25jTEVZZVByU3FiU1VDQkhGOGFOd0dLZDhoVHVrcExBbXhRRFAxSFRST2pCaS1mSmlVRS1GZHM5OVIyeWhwY3E3VzJ4Vnh2UENFWlZ5d1FaSkgyT1Q3TDQzOHc?oc=5",
+      "summary": "Exclusive / Perplexity to give away its AI security software Semafor",
+      "badge": "new",
       "date": "2026-10-15"
     },
     {
@@ -182,30 +230,6 @@
       "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
       "summary": "Anthropic Q3 revenue climbs to $16.8 billion: Report Yahoo Finance At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters AI giant Anthropic sees revenue surge ahead ",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic to add US voting information to Claude before midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5",
-      "summary": "Anthropic to add US voting information to Claude before midterms Reuters",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The AI race is back on - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5",
-      "summary": "The AI race is back on The Verge",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI engineer arrested after recording device found at San Francisco office - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DNGtWOUZxNDhRajRUakVfNjlhMkRjUlc3M0JjZFdtbkFnSExjUjFtcDlrakRMVGFfUGRXT3Y4UzBldWRvZ0stVm0zcDdRLWItQncyUmwwdFN4MFRicUNON3JYR3doWUVQb29id0VfYmdrV3ZTbzVKUV9qX2dyUQ?oc=5",
-      "summary": "OpenAI engineer arrested after recording device found at San Francisco office Fox News",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -378,22 +402,6 @@
       "date": "2026-10-12"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft giveth and Microsoft taketh away: Copilot edition - The Register",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVNoc3c3UjNadnowemVJR0ZWRi1Wbk9KVVdUSHdqXzIzbmJrQnZZQVBQMmZHSnlzMVlGSmxBcTkyR3NhWGFFeG1nSGloUmxWOE5UZDBfOEg0TE1TTUo4ZWFWWEU4U3NqcmdJN1RCOHVYeXF4VGZjWnJpZHBPSmRjYnNvSWx3eWlPOVlrNDVpOHliVU5oNXZteWhqc3RlM0RKOHREb05Oa2NVUVJiaHByeVZ1RC0xblZJX1E?oc=5",
-      "summary": "Microsoft giveth and Microsoft taketh away: Copilot edition The Register",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept — but I'm afraid businesses won't bite the AI apple - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTBwbTJJT21EOUZUaDBBZGRjYkFlTVZtQTA4VnQwWWw2TG5hWEdMZmtyZXY1blZvSHViODFpck96OWRVOHBYVE9EU2NFSEN2VTZHdGdObVJEc08xYkZGSHpxQjJsZmExaTBaRE1NVG1uUFZrdi1oS0RWd2VDbk5PcjFDazBlVlcxelZ2dHJCZ3BxSEdBeHc?oc=5",
-      "summary": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept — but I'm afraid businesses won't bite the AI apple Yahoo Tech",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2R3cTg2Njhlb0VmcnVMZFNTNEhmLXFqVUE3eWNVbVRJUWY2dC1WSEZ3V0ExYXdmTmJOMlZNN0VHWUpjVnh4NXZuSzloZHRsZHp6VXhpZ2xDdzNlR3VyWTNaUkZXLXZUckIzUHNLbk1ROUNTTVVuemo4TzFaeTd1V2JHX2FmRU9JSkFfRnd4YlY2Z1dwTGU3c1pyaGZfZjFkUlVMSzJPUXNCb1FxMzAwY0NFd3dET1VPOVE?oc=5",
@@ -487,14 +495,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "summary": "Overview of Playground",
       "badge": "hot",
-      "date": "2026-10-07"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI releases pplx-embed-v2-late models for multimodal search - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFBObWVWcXF4NUFtb2ZGSklZeTZVX295YUg1OVVpT3lxdlJaREdvc0Z0MXdEM21jS1lwRjcwRGZ5bTZiZzFneDlsNE1XMU9qV25HX1NLNU5vSlBvYmxCTHhaZWV2cTNJRjkwVWREZENmT2ZYSGR5b0ZjbkVQMFJEYw?oc=5",
-      "summary": "Perplexity AI releases pplx-embed-v2-late models for multimodal search Crypto Briefing",
-      "badge": "new",
       "date": "2026-10-07"
     },
     {
