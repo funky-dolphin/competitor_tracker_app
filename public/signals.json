@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-16T15:56:33Z",
+  "updated": "2026-10-16T20:24:05Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic assigned highest junk credit rating in June - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm50bnlrZVJHbjF1SFlKcG5TVFlYRWtrYmJBc2FnTGNOOXZzaEtxdmxITS0yQkh5QWdqZ0h5TGdqeUU5TmFmZHZYTWhLNjlmWE5FSjdQNVZpNHV5SWVzX0ZnMkF5YU9kN3pJdG16WDFxREZFLWc0cWZ6bjc4S19KTjRsZ20?oc=5",
+      "summary": "Anthropic assigned highest junk credit rating in June Financial Times",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
+      "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents Axios",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5",
+      "summary": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents CNBC",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
     {
       "company": "Anthropic",
       "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations - CNBC",
@@ -22,14 +54,6 @@
       "title": "Anthropic warns of self-replicating artificial intelligence models as AI arms race heats up - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54S25lQXJ0Vl9IQWl0R2N3c0Q3OVU5R1I4TkxXNlFhWEhrYnhsR1dUWmpRLWVKd2RhVm9vOWFCQ0RlSS1mLTJJU3ZZeW12WTZRUUtiX0ZpdjFZSnc?oc=5",
       "summary": "Anthropic warns of self-replicating artificial intelligence models as AI arms race heats up Fox Business",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic secured highest junk credit rating in June - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm50bnlrZVJHbjF1SFlKcG5TVFlYRWtrYmJBc2FnTGNOOXZzaEtxdmxITS0yQkh5QWdqZ0h5TGdqeUU5TmFmZHZYTWhLNjlmWE5FSjdQNVZpNHV5SWVzX0ZnMkF5YU9kN3pJdG16WDFxREZFLWc0cWZ6bjc4S19KTjRsZ20?oc=5",
-      "summary": "Anthropic secured highest junk credit rating in June Financial Times",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -86,6 +110,22 @@
       "title": "I asked ChatGPT, Gemini, Claude and Perplexity which 10 jobs are 'safest' from AI — here's the roles they agreed on - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXU5clpGVEFBaTJSVnZHMmxTWTN0dnZQQUR2VDBESk4zRnV4aUVZaWd3N1pwQ1BLUXUxU0tvWWc1MktzSDJTY3VxQUZmZWQ1Y3lmZ3JiODBRbTE4UnZhNHdFbXJIVXVRZnNOMW4zSDE1dWczazlZTzV0SDJlVXBNWnI3Ml85NzlQOHJnYXlmRTVpWWxuT2U4LW13WktibXBwbkVONlZrblBZdHN6aUlnSWlBcTlYdnM1SUpwZmlNam02QnRmZXJFWllmWWhXdmxaQVBibkZzazh5dmd3NVBjV1Rn?oc=5",
       "summary": "I asked ChatGPT, Gemini, Claude and Perplexity which 10 jobs are 'safest' from AI — here's the roles they agreed on Tom's Guide",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Alexandr Wang, Meta’s AI wunderkind - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5",
+      "summary": "Alexandr Wang, Meta’s AI wunderkind Financial Times",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta confirms smart glasses were recording without being activated - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VhNFVtZ01iX2pwNTFPMkxGV1NhaWdzWVdIYWgtdHhpWEpPMU85MUxFZ0tTUnBuYWZhYnYwajFoenRpR29zQWZ6NFpWd1lINm5SeGtkUDVuQS1pZy1XZlVfRHdYX3FNYnowejc2RmF6UXNzUHZiXzNYUWJPS09ZY09ENXRlMkJGb0E3NGh6U1o?oc=5",
+      "summary": "Meta confirms smart glasses were recording without being activated Mashable",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -149,7 +189,15 @@
       "company": "Anthropic",
       "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
-      "summary": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say Reuters AI giant Anthropic woos potential investors ahead of stock market debut BBC Anthropic Might Be W",
+      "summary": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say Reuters AI giant Anthropic woos potential investors ahead of stock market debut BBC Sandisk, AMD Stocks ",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax” - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXdUNGl0SU9fM0RQWDJ1N1JWMi1vc0VCUFE1UkZQNG1pTVgxcTRfWkZyZHlXalJKcGotNzl1VjFvaWVhZnItMjM3c2xCRnRWWlBLX0dNRDQ5Um9xYmRrZ0RWX0p5V0FEM3BpZE16QjJFQU9kZ3BaVDBHU195UGU2Y05rZDJtazNmZGFzZWFUSVpWbmMtWUNuTl8zU2RGWnNhZ0c2bC1jRDY0RGZrTGxHUmVnTmZQUnotUG82ZWttZk4?oc=5",
+      "summary": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax” Ars Technica",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -170,43 +218,11 @@
       "date": "2026-10-15"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTIyNURFZndfMmRpN0liM2l3eE9Rb3pncXlkaGRDUExCemNqQldWUmlLcVhEWHhwYXlOVHFxSlpuLWVUXzV0eHoxcjdsVXAxVTJ0X3FFVGFscldqY0lnbVVxNlhxWWZ4QUZNUmYyc1dSWHpHSl9XdXNaMEVONm5SVXd5ODM2VFFEa2fSAY8BQVVfeXFMUGdJcmpnY21LbUlicTI5OEZXSzB2UE1SclB6TDZWRDdNd0luMEpaY1o3a3podTZLQ3hFZUVpSUpKaEtqWlNETUhZYXUyLWFqdTJhSGoyVXF3ejFCNldkMHJnYjJCbmRFLVlKeGo3OFFOQUNSUDRJRzNfaVlSb3p4NGl4eWE3TFNFR0tUNHNxa0k?oc=5",
-      "summary": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices CNBC",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5",
-      "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push Reuters",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5",
-      "summary": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks Financial Times",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical - LawSites",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUZTeHFON0FiQ0pLTm51eGx1YXVsT3VHOHdMTmJVbFRVVVUyNzZCVnpUbmxPaXR3SkIyN19maGNQMGVjaG5uZmlkZlk5UWVJOGdTcV93RjlZRlBOeE8zUHhSaElaODJQV0NFb3dDMnhIcGczUjZicFluSHdkR3llczVIVXp1V2pxcGhlZy01X25hOEs2X1pSRDZzbXRockRTVkpTMTRXQ0tIazlWZU9rcEdXVXlGeWZvTG93ZW93RVJyaDRnaWJTbUpHbGx1UnlBT3dCY2RBaDZKQWJsZldIVw?oc=5",
       "summary": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical LawSites",
       "badge": "hot",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMWJLZjF0emdwNkZQekdCZFdUbnI2eUFXc3FpYVBpZHpYZ0t2czdmUmcxOWQtWWZaM3BzS1pSdWJKVnRTVTRRazJudnJRQmhLWGhXeEwzYkhvNmJaXzVnb3VRUWdtNlB6LWRLZlRBQWFfVUdBVGFEN3p2OEdjWklEb0Z1U0JFbWdpOENEYU5UMkpSem5VcVNqSHJmSTFlQkpaZkhYSGZ2RDJyN1JEY0MzVEtJYlVabTVwZ095Z2dGazRka2lZREktbVd2RXJLNkhIM3hKSlc0UkhDYm1aSTRlU1MzYXVvZG14bTZ4WE9UTVA3X21GR2RfblNMZDFSeThTR054eg?oc=5",
-      "summary": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio Microsoft",
-      "badge": "new",
       "date": "2026-10-15"
     },
     {
@@ -223,6 +239,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnZhTVNQWUhNTU1INWtYdGlGLVFGVmdRNk5TaW4xeHNhR1RlbVRVMDhiUlZxaG9paXNwOGxyVUtRQXM5LXRHd2tERHVZRjlydlRiUUNqWEZHYTJDd3lJc2pSMzliNXBNakFHaUFIWnJDVDE1bWdwY0FkVkc1WUN3LTNpUFd5Z2ZYSE1MT3VuNVZlZmhlQTVIUUdjdDhfU1MyUWU1OFZYaUJIMzVubFJnWGhWRDdaU1lRdnVTQjlySE9YdWM?oc=5",
       "summary": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech Law.com",
       "badge": "hot",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMWJLZjF0emdwNkZQekdCZFdUbnI2eUFXc3FpYVBpZHpYZ0t2czdmUmcxOWQtWWZaM3BzS1pSdWJKVnRTVTRRazJudnJRQmhLWGhXeEwzYkhvNmJaXzVnb3VRUWdtNlB6LWRLZlRBQWFfVUdBVGFEN3p2OEdjWklEb0Z1U0JFbWdpOENEYU5UMkpSem5VcVNqSHJmSTFlQkpaZkhYSGZ2RDJyN1JEY0MzVEtJYlVabTVwZ095Z2dGazRka2lZREktbVd2RXJLNkhIM3hKSlc0UkhDYm1aSTRlU1MzYXVvZG14bTZ4WE9UTVA3X21GR2RfblNMZDFSeThTR054eg?oc=5",
+      "summary": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio Microsoft",
+      "badge": "new",
       "date": "2026-10-15"
     },
     {
@@ -275,6 +299,14 @@
     },
     {
       "company": "Meta",
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5",
+      "summary": "Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ \"Mommy and daddy\" play nice: Apple and Meta team up to b",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Meta",
       "title": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs - WSJ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
       "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ \"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs Axios Apple and Meta team up to make Muse",
@@ -294,22 +326,6 @@
       "title": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews - Hackaday",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0QybkhWM1VyTTcyU3A2dUhKcWJSWVhwSmRpMWJjUzd4QmtuSkJqYzBlSGthQ0hqbzR5dkNHV3lPekhsQzN3d1VTQzd3d0dycV9HeW9mR0JrZ3hQTF9VUEdqTk5HcjF6UWczZnBaTjRCbklMbFZ2b0V5dGtMQ1U3UmdvM2VVWVRvUjhvN3pPZHVKS2hJZmVKOHhJUHVDenZuRVE?oc=5",
       "summary": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews Hackaday",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Meta",
-      "title": "What Wall Street may be forgetting about Meta's AI business - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
-      "summary": "What Wall Street may be forgetting about Meta's AI business Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI head Alexandr Wang praises Mark Zuckerberg, he replies: I have never gotten such a nice… - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYXdVb0UtLWs4U3k4NG9QNXAydWRFdFN5QU9ROGhMZjA3QlVkdE4tWWd0UTFlMW5fV2ZHRTk1N01tV0NTT0Q1WkQzaWtleV9uQ0VjX0pfalA0WWtlZzFMV0hOeDd6dGtSbUo3X2NsR1NkNDdCYWNzbk5UU0lyVVlkbERydTJid1dRb05xcFZjckpQbm1Za2dKTUJEc0liMGluZWJJVWpjaFpjWVdoYlBkNjFNYVRhZFAxUDFDUEF5X3ZHM2tFQUJ5Nkc3RnY4N1otdDlXVHBya2FyVmlmZ3RvWmFLclkyVUxJWHA0MHloMFB6S1gtdUluM21lbUIyTnVrNF8wYmZUNNIBjAJBVV95cUxOT3BCT1VfekJrdWJmQ3VqLWFxN0dWa25ldkZWeXFPTFlZOHFsRUhnSk93MnlMc2IxYmdRVTQ5djNhMWVIQXdkUFJaanFOaU1uTlRNYTh3ZkZZbmczM3Y4VEp6NllKV2FfRlJTWEpVSWJkbDIxbjM3cGFacGRibllLQjA4ak9mNnROVmJWand5R2xkZDNFM0JfNkViMGx4cHVLQmNyQjZtejlrSWZmbGtJaDFJVmljVzdMVVN6OG9YY3NaTjJScHFfVEZtWXhXSzNTMnN0ZnA1S05yNmhldG9ySjlvYnFHbC1TcUNYenFKRnZROWoxdXNKVTdlaUVQV2lOYzdHVkt4TEcwMzVo?oc=5",
-      "summary": "Meta AI head Alexandr Wang praises Mark Zuckerberg, he replies: I have never gotten such a nice… The Times of India",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -366,14 +382,6 @@
       "title": "App Store Indie Games Week kicks off today",
       "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
       "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmpjSGIwSE9MZ0VlV3FrdldNdy1QbnQ1NHpYMmVkbTJvUmFmeURGWEh1WGhnZlRxNXNKMFFZUENmTkhDMGVFMWtCbFQ4TnY4Qnc5d1Bvb1Z1QnlSVkg2LTdoVzk5aVNCU2ZvLWRhOC1TQVRPdkhfYVRLcHVvWVdMVUdQRjNrTW5zWnNQU3V0WmtfcThxY2tuWHVtdk1fV3p6NmdVUmNCejZybGxCeXNOcU9ULVBKbGptM3JQZTRBMU9pNms3UmZzWkxPeGt6RHU4S2VKbkt0RjJoQjFBcXV3?oc=5",
-      "summary": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil Folha de S.Paulo",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -458,14 +466,6 @@
       "date": "2026-10-10"
     },
     {
-      "company": "OpenAI",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
       "company": "Perplexity",
       "title": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzRRY1RoV2d6WGpQdnh1WjdCcTZsQmljX0NNNmNMUXJFanNRTEhPb19sZkswakFNZThtYVVsN0lydWowRGFGOElLcEZ3aG1jalBLM3ptTy13OWJfOXhpZy15b0FHSTVDYXptY3VzNXdOZGNTVVRhOVZoRWk5TlpHWHhZSW5Vc2UwRUNnOHBEazhXZmtu?oc=5",
@@ -507,9 +507,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety - Bloomberg",
+      "title": "Amazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1BIYS1aQ1owU2R2MGJoaXVSZ0k5R3BMS2ZZM3d5dHZta21WU05BbXJLQmZ3U0N5T0RtaUpjdy05aVJnenhBOXM0cjBhS2JGS0tOZFUybGR1NENrclc2azhxbWxkdEhxd0ItbEdLSUpISnhrVkJwNk1Zem1VT1oycmo5RzRpSlNmQ1g4SDdnMkUyRXlCdm9lR2p1NUJKNXpRR3BUMWFPck5VdjdrdDFHNEZlNnEwQzZjOTNN?oc=5",
-      "summary": "Amazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety Bloomberg",
+      "summary": "Amazon Ring’s First Smart Lock Has a Clever Solution for Battery Anxiety Bloomberg.com",
       "badge": "new",
       "date": "2026-10-07"
     },
