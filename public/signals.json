@@ -1,11 +1,67 @@
 {
-  "updated": "2026-10-15T20:50:28Z",
+  "updated": "2026-10-16T02:47:19Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "badge": "hot",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces the next generation of HomePod mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "badge": "hot",
+      "date": "2026-10-15"
+    },
     {
       "company": "OpenAI",
       "title": "Teaching students to think and learn through questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -19,17 +75,33 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5",
-      "summary": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks Financial Times",
+      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTIyNURFZndfMmRpN0liM2l3eE9Rb3pncXlkaGRDUExCemNqQldWUmlLcVhEWHhwYXlOVHFxSlpuLWVUXzV0eHoxcjdsVXAxVTJ0X3FFVGFscldqY0lnbVVxNlhxWWZ4QUZNUmYyc1dSWHpHSl9XdXNaMEVONm5SVXd5ODM2VFFEa2fSAY8BQVVfeXFMUGdJcmpnY21LbUlicTI5OEZXSzB2UE1SclB6TDZWRDdNd0luMEpaY1o3a3podTZLQ3hFZUVpSUpKaEtqWlNETUhZYXUyLWFqdTJhSGoyVXF3ejFCNldkMHJnYjJCbmRFLVlKeGo3OFFOQUNSUDRJRzNfaVlSb3p4NGl4eWE3TFNFR0tUNHNxa0k?oc=5",
+      "summary": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices CNBC",
       "badge": "new",
       "date": "2026-10-15"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTIyNURFZndfMmRpN0liM2l3eE9Rb3pncXlkaGRDUExCemNqQldWUmlLcVhEWHhwYXlOVHFxSlpuLWVUXzV0eHoxcjdsVXAxVTJ0X3FFVGFscldqY0lnbVVxNlhxWWZ4QUZNUmYyc1dSWHpHSl9XdXNaMEVONm5SVXd5ODM2VFFEa2fSAY8BQVVfeXFMUGdJcmpnY21LbUlicTI5OEZXSzB2UE1SclB6TDZWRDdNd0luMEpaY1o3a3podTZLQ3hFZUVpSUpKaEtqWlNETUhZYXUyLWFqdTJhSGoyVXF3ejFCNldkMHJnYjJCbmRFLVlKeGo3OFFOQUNSUDRJRzNfaVlSb3p4NGl4eWE3TFNFR0tUNHNxa0k?oc=5",
-      "summary": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices CNBC",
+      "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5",
+      "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push Reuters",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "summary": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say Reuters Anthropic Revenue Jumps to $16.8 Billion in Quarter Before IPO Bloomberg.com 'Not good enough. I",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5",
+      "summary": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks Financial Times",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -75,9 +147,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
-      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
+      "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical - LawSites",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUZTeHFON0FiQ0pLTm51eGx1YXVsT3VHOHdMTmJVbFRVVVUyNzZCVnpUbmxPaXR3SkIyN19maGNQMGVjaG5uZmlkZlk5UWVJOGdTcV93RjlZRlBOeE8zUHhSaElaODJQV0NFb3dDMnhIcGczUjZicFluSHdkR3llczVIVXp1V2pxcGhlZy01X25hOEs2X1pSRDZzbXRockRTVkpTMTRXQ0tIazlWZU9rcEdXVXlGeWZvTG93ZW93RVJyaDRnaWJTbUpHbGx1UnlBT3dCY2RBaDZKQWJsZldIVw?oc=5",
+      "summary": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical LawSites",
       "badge": "hot",
       "date": "2026-10-15"
     },
@@ -91,49 +163,25 @@
     },
     {
       "company": "Microsoft",
-      "title": "Copilot pricing gets complicated - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFpHSDI2aHZJSEs5OS1VTjJ0TENUMzNBNWpnQ0ljNnd5ZHFrRktXUnh5ZExuV0h4MlhhdkktOWxFMUJoWmVFMWdWTU9kck8tRmdlc2s4ekJfUlJTMXhOLXl0VlRiN3kzS3F3eEs2aFNENl9fNFFmWEM0N2w1ZW9wclRJcTJ3WWlHQkVLYkNxLXNLQjhZNW81Y1pEcU5oUGRqWWc?oc=5",
-      "summary": "Copilot pricing gets complicated Computerworld",
+      "title": "Microsoft Copilot for Legal: What Will Be the Fallout? - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlluUkpYTkkwWWFzNXpsNEJzMlZKS1FCU3ZBNFIzakpSN2pPZDZWaUs1OUU1MzFPV3g3RVNWUG41YUVUMmkwaDhJUmlRakxRSkhGa0R4X3hjMnhqeGwwZURHRlFqZFNGbk1KREUxSHJvdEFycGpuZWN5OEZRUThOekdkRWMwN2NqdEZoNG54T2ZkNm9RX2p3ODgyd1FuUQ?oc=5",
+      "summary": "Microsoft Copilot for Legal: What Will Be the Fallout? Artificial Lawyer",
       "badge": "new",
       "date": "2026-10-15"
     },
     {
-      "company": "Apple",
-      "title": "Open up to new possibilities with iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "company": "Microsoft",
+      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
+      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
       "badge": "hot",
       "date": "2026-10-15"
     },
     {
-      "company": "Apple",
-      "title": "Apple announces the next generation of HomePod mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
-      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "company": "Microsoft",
+      "title": "Copilot pricing gets complicated - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFpHSDI2aHZJSEs5OS1VTjJ0TENUMzNBNWpnQ0ljNnd5ZHFrRktXUnh5ZExuV0h4MlhhdkktOWxFMUJoWmVFMWdWTU9kck8tRmdlc2s4ekJfUlJTMXhOLXl0VlRiN3kzS3F3eEs2aFNENl9fNFFmWEM0N2w1ZW9wclRJcTJ3WWlHQkVLYkNxLXNLQjhZNW81Y1pEcU5oUGRqWWc?oc=5",
+      "summary": "Copilot pricing gets complicated Computerworld",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -155,9 +203,25 @@
     },
     {
       "company": "Meta",
+      "title": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
+      "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC \"Mommy and daddy\" play nice: Apple and Meta t",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Meta",
       "title": "What Wall Street may be forgetting about Meta's AI business - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
       "summary": "What Wall Street may be forgetting about Meta's AI business Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Meta",
+      "title": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews - Hackaday",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0QybkhWM1VyTTcyU3A2dUhKcWJSWVhwSmRpMWJjUzd4QmtuSkJqYzBlSGthQ0hqbzR5dkNHV3lPekhsQzN3d1VTQzd3d0dycV9HeW9mR0JrZ3hQTF9VUEdqTk5HcjF6UWczZnBaTjRCbklMbFZ2b0V5dGtMQ1U3UmdvM2VVWVRvUjhvN3pPZHVKS2hJZmVKOHhJUHVDenZuRVE?oc=5",
+      "summary": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews Hackaday",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -214,22 +278,6 @@
       "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5",
       "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos CNBC",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
-      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO Financial Times Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter The New York Times Anthropic bring",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
-      "summary": "Anthropic Q3 revenue climbs to $16.8 billion: Report Yahoo Finance At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction Reuters AI giant Anthropic sees revenue surge ahead ",
       "badge": "new",
       "date": "2026-10-14"
     },
@@ -370,38 +418,6 @@
       "date": "2026-10-13"
     },
     {
-      "company": "Meta",
-      "title": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
-      "summary": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results Mashable",
-      "badge": "hot",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQW56OHpKWDg3dnd0R1RCQnJBdllwb0NBdDNQcW9HSU9KWC0wWDFzN1lFZjdfbldBV0VHLUZ6NnlOM1IxMEN6aHlpb09TM2VhVmIwSmxVdXlwSjVXckNDU18xcHN2am5YS1BMU3VVNGRON2ctVl9XQWNtd0trSlg1YUluaVFvanVidnJWT29sUUNLSDZjV2R0ajhwN0plMm9pLXk2SnFkQnBHQUpTeUhJNWdpQ0o1cGRYWkg0SXlRd2V0Y250b3RoYnpxcHcwajg1V0liZ3ZzZUl6d3dPVEM2Vkl0YW93SHI0YzR5YThKRkFDM1V6cXZEcTNxVmkza0Zv?oc=5",
-      "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate Benzinga",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC1STlhPa3JHUTJjQkF1M0RBd0U0TGhSak81dHhVSlg1M250UTZadURsMS1zOU5acjRfR055TlFaMmRQbnRvMUFSN2RkMUtGbW5PdF9WdzJ2ZW8zel8tMHg2UVBERmxKUjhDQTg0M0N5cndKWVA4OThUTHJNVzJIdXBablhtTXNoZWY5RnBsMFE0N3RKLXRtRA?oc=5",
-      "summary": "How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella The Information",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Israel cuts hit AI agent team, with 50 Copilot Studio employees summoned to pre-dismissal hearings - CTech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSnZKaEN1ZjRfX29nNjhtTEpRS1p0NEdSbldCNUJGM21LQTg2aE1NSnhsT3lQWW1PbjdjMmtFNFN2WFlzdXc3N0dqdGVpM3lqV25mNzhjbHNTSW1ZRnhLbkc2ZlVqVlU?oc=5",
-      "summary": "Microsoft Israel cuts hit AI agent team, with 50 Copilot Studio employees summoned to pre-dismissal hearings CTech",
-      "badge": "new",
-      "date": "2026-10-12"
-    },
-    {
       "company": "Perplexity",
       "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2R3cTg2Njhlb0VmcnVMZFNTNEhmLXFqVUE3eWNVbVRJUWY2dC1WSEZ3V0ExYXdmTmJOMlZNN0VHWUpjVnh4NXZuSzloZHRsZHp6VXhpZ2xDdzNlR3VyWTNaUkZXLXZUckIzUHNLbk1ROUNTTVVuemo4TzFaeTd1V2JHX2FmRU9JSkFfRnd4YlY2Z1dwTGU3c1pyaGZfZjFkUlVMSzJPUXNCb1FxMzAwY0NFd3dET1VPOVE?oc=5",
@@ -434,28 +450,12 @@
       "date": "2026-10-09"
     },
     {
-      "company": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "badge": "new",
-      "date": "2026-10-09"
-    },
-    {
       "company": "Perplexity",
       "title": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzRRY1RoV2d6WGpQdnh1WjdCcTZsQmljX0NNNmNMUXJFanNRTEhPb19sZkswakFNZThtYVVsN0lydWowRGFGOElLcEZ3aG1jalBLM3ptTy13OWJfOXhpZy15b0FHSTVDYXptY3VzNXdOZGNTVVRhOVZoRWk5TlpHWHhZSW5Vc2UwRUNnOHBEazhXZmtu?oc=5",
       "summary": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion Startup Fortune",
       "badge": "new",
       "date": "2026-10-09"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "badge": "new",
-      "date": "2026-10-08"
     },
     {
       "company": "Perplexity",
