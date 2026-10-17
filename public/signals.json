@@ -1,11 +1,19 @@
 {
-  "updated": "2026-10-17T10:01:32Z",
+  "updated": "2026-10-17T14:49:44Z",
   "signals": [
     {
       "company": "Anthropic",
       "title": "Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5",
       "summary": "Anthropic offers Blackstone double-digit yield in latest chip financing Financial Times",
+      "badge": "new",
+      "date": "2026-10-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI was supposed to spare gardeners. Anthropic's robot research has me thinking about pulling weeds. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUdRN0l4YlNUakdkRUZUU1BtcXA1QVMwZkV1M3ZDWEVpZEF5eUwyN1lST3diQnRDcWpFa04xTDQtT1VmdGw2OGtydUdUWTRaNzU2a3N4QmtQMVlMVGZDNE9yVUpEZVNrdXRPbEFqVVhGSzdXZGpvVjRjUEROZ0I0T3NuYzltWUcybXpvWjB3?oc=5",
+      "summary": "AI was supposed to spare gardeners. Anthropic's robot research has me thinking about pulling weeds. Business Insider",
       "badge": "new",
       "date": "2026-10-17"
     },
@@ -75,17 +83,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "badge": "new",
       "date": "2026-10-16"
     },
     {
       "company": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -99,17 +107,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports Reuters",
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers - Politico",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
+      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers Politico",
       "badge": "new",
       "date": "2026-10-16"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers - Politico",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
-      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers Politico",
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
+      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports Reuters",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -142,14 +150,6 @@
       "title": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents - CNBC",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5",
       "summary": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents CNBC",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NYWVJdExzaWZ2OE04TGRrblVKZEtKN0c3NkE5WVhMN2FyZW91Z1VXZmgxWW00QlhjVDlVbmp6VDJXMHYxYV9aTEtBRk1QZ1RIazBvX3ExMTEzczZPNEljbVNtdkNuY3I2S1MwUkFVelJ0N3dkYlhLNdIBfkFVX3lxTE5jc3Z3a0dsUGF5dm9FYkVjT3Q3ZTFpY2E0U2o3WmU2S0JiSU1SRzB6WndGOGpmeFBxOEQ0U2lXUUwzNl8yS1dsWUJmYjViMEFFSmd4a0ZtRVRuT2JFUjRfTmlTX3d5NW1qQ2IyZXVKOVBYNThpNzRUYmp2U3Q0QQ?oc=5",
-      "summary": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations CNBC",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -259,18 +259,18 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnZhTVNQWUhNTU1INWtYdGlGLVFGVmdRNk5TaW4xeHNhR1RlbVRVMDhiUlZxaG9paXNwOGxyVUtRQXM5LXRHd2tERHVZRjlydlRiUUNqWEZHYTJDd3lJc2pSMzliNXBNakFHaUFIWnJDVDE1bWdwY0FkVkc1WUN3LTNpUFd5Z2ZYSE1MT3VuNVZlZmhlQTVIUUdjdDhfU1MyUWU1OFZYaUJIMzVubFJnWGhWRDdaU1lRdnVTQjlySE9YdWM?oc=5",
-      "summary": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech Law.com",
-      "badge": "hot",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnB6Vk50amVmN0QyQUliVlZaZE1lR01QVXVVUTh3RmlKWlNYdEpuQ3cyT1FEMjZBZmYyaHo0WkZMQzZkUE9hdHQ4QWl0RTFCcEZNQ3RadGROZDZab0p2YmVxU1d4VGZPUnh0NFlnMnBWN1F6aW9TeGNZYW4ySGZ0U3hSTVZFZGFTRER0T21lYW9lSXpYci0wN2ZGRTYtclJSRktqcnBUWk9pazh5?oc=5",
       "summary": "Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills Legal IT Insider",
       "badge": "new",
+      "date": "2026-10-15"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
+      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
+      "badge": "hot",
       "date": "2026-10-15"
     },
     {
@@ -283,9 +283,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
-      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
+      "title": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnZhTVNQWUhNTU1INWtYdGlGLVFGVmdRNk5TaW4xeHNhR1RlbVRVMDhiUlZxaG9paXNwOGxyVUtRQXM5LXRHd2tERHVZRjlydlRiUUNqWEZHYTJDd3lJc2pSMzliNXBNakFHaUFIWnJDVDE1bWdwY0FkVkc1WUN3LTNpUFd5Z2ZYSE1MT3VuNVZlZmhlQTVIUUdjdDhfU1MyUWU1OFZYaUJIMzVubFJnWGhWRDdaU1lRdnVTQjlySE9YdWM?oc=5",
+      "summary": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech Law.com",
       "badge": "hot",
       "date": "2026-10-15"
     },
@@ -339,9 +339,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
-      "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta releases Muse Spark Open, a new ‘open-weight’ AI mo",
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5",
+      "summary": "Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ \"Mommy and daddy\" play nice: Apple and Meta team up to b",
       "badge": "new",
       "date": "2026-10-15"
     },
@@ -355,9 +355,9 @@
     },
     {
       "company": "Meta",
-      "title": "Apple and Meta team up to make Muse AI model run on Mac computers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5",
-      "summary": "Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ \"Mommy and daddy\" play nice: Apple and Meta team up to b",
+      "title": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
+      "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta releases Muse Spark Open, a new ‘open-weight’ AI mo",
       "badge": "new",
       "date": "2026-10-15"
     },
