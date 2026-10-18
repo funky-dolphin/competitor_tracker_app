@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-17T19:58:33Z",
+  "updated": "2026-10-18T02:40:12Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "badge": "new",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "badge": "hot",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces the next generation of HomePod mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "badge": "new",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5",
+      "summary": "Anthropic says its workforce has become less junior and is spending more time in meetings TechCrunch",
+      "badge": "new",
+      "date": "2026-10-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
+      "summary": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers CNBC",
+      "badge": "new",
+      "date": "2026-10-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtvRm9GMV9WQV90M25SSXpwUGJNQjlOTGFYa3MyZ2FoTklpRWRxVkllRnZFSVdRTDNFc2FnZWFKYTA4QUVCRUtLNkNIMGRkYXNrZjg0R1Y0SzFOSjNXNDFTWlB3RE1UcWROT0tNd3RLekRUT29uYjNKcE1PbnRvek5iTWc0YkVHWWFPc2tYdzZkekhp?oc=5",
+      "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-17"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic co-founder Clark projects U.S. GDP to hit $44T by 2030 thanks to AI - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVV5bkZpZWdSX1V5eVRaWE5kNmZFWWNWSTd2LVktNGlWUGlqaEZ4Ujg0cHRWTGRxRjhjZzJwMkcyMVlUbzRKUHpvOFVweUE3TW85VEVFWE9FVjIybzVySFJ3SjVYenNEUExnOFFTVGtOUnROaS1HQWxGckJwMk02WEhIdXRxUVRrd0NDY3lLUHlYdEE?oc=5",
+      "summary": "Anthropic co-founder Clark projects U.S. GDP to hit $44T by 2030 thanks to AI Seeking Alpha",
+      "badge": "new",
+      "date": "2026-10-17"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action - Mother Jones",
@@ -38,46 +110,6 @@
       "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
       "summary": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP Reuters",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Open up to new possibilities with iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
-      "badge": "hot",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces the next generation of HomePod mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
-      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
       "badge": "new",
       "date": "2026-10-17"
     },
@@ -130,34 +162,10 @@
       "date": "2026-10-16"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers - Politico",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
-      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers Politico",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-      "summary": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports Reuters",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The AI expectations gap - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
-      "summary": "The AI expectations gap Anthropic",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic assigned highest junk credit rating in June - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm50bnlrZVJHbjF1SFlKcG5TVFlYRWtrYmJBc2FnTGNOOXZzaEtxdmxITS0yQkh5QWdqZ0h5TGdqeUU5TmFmZHZYTWhLNjlmWE5FSjdQNVZpNHV5SWVzX0ZnMkF5YU9kN3pJdG16WDFxREZFLWc0cWZ6bjc4S19KTjRsZ20?oc=5",
-      "summary": "Anthropic assigned highest junk credit rating in June Financial Times",
+      "company": "Perplexity",
+      "title": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbndjdTZKa19LclRhSEIzaFNuNDFtVmRnRnNyMmRxY3FOVEdHWi1QMjRZWkJKX3A2VTNhUnI0OEJDXzVfczhEYkI2OEViSzdpT2pZQzNmRGdHX1ozeWFhZTl5RzhpMVBxdUljcWdBeF90UkxuQk5TMDJHZkh2MnVKSUhhQ21JUQ?oc=5",
+      "summary": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy tech-insider.org",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -267,10 +275,10 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot for Legal: What Will Be the Fallout? - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlluUkpYTkkwWWFzNXpsNEJzMlZKS1FCU3ZBNFIzakpSN2pPZDZWaUs1OUU1MzFPV3g3RVNWUG41YUVUMmkwaDhJUmlRakxRSkhGa0R4X3hjMnhqeGwwZURHRlFqZFNGbk1KREUxSHJvdEFycGpuZWN5OEZRUThOekdkRWMwN2NqdEZoNG54T2ZkNm9RX2p3ODgyd1FuUQ?oc=5",
-      "summary": "Microsoft Copilot for Legal: What Will Be the Fallout? Artificial Lawyer",
-      "badge": "new",
+      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
+      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
+      "badge": "hot",
       "date": "2026-10-15"
     },
     {
@@ -291,10 +299,10 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
-      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
-      "badge": "hot",
+      "title": "Microsoft Copilot for Legal: What Will Be the Fallout? - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlluUkpYTkkwWWFzNXpsNEJzMlZKS1FCU3ZBNFIzakpSN2pPZDZWaUs1OUU1MzFPV3g3RVNWUG41YUVUMmkwaDhJUmlRakxRSkhGa0R4X3hjMnhqeGwwZURHRlFqZFNGbk1KREUxSHJvdEFycGpuZWN5OEZRUThOekdkRWMwN2NqdEZoNG54T2ZkNm9RX2p3ODgyd1FuUQ?oc=5",
+      "summary": "Microsoft Copilot for Legal: What Will Be the Fallout? Artificial Lawyer",
+      "badge": "new",
       "date": "2026-10-15"
     },
     {
@@ -349,8 +357,8 @@
       "company": "Meta",
       "title": "Apple and Meta team up to make Muse AI model run on Mac computers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5",
-      "summary": "Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ \"Mommy and daddy\" play nice: Apple and Meta team up to b",
-      "badge": "new",
+      "summary": "Apple and Meta team up to make Muse AI model run on Mac computers CNBC Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs WSJ Meta Unveils New Series of Advanced A.I. Models The New ",
+      "badge": "hot",
       "date": "2026-10-15"
     },
     {
@@ -482,14 +490,6 @@
       "date": "2026-10-09"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTFpMWtONHNxV3FDS0ladDN2X1RxY1lHTktDQlp1YmRuWDVjOGx0cFh1WWlSQ1pGSXgxYlJ3VHBsdEZ6RDhnZklLUTY5LU5JWmgzbkJQN3ctTS1teUllV1RiRUVSaUtzWk1HbHlRTGVxUW1rcVVfMS1Ka3BzaHVyTHNuODRseTJtdGtYTG1IazRKRWhqSzBXekcxbzlUTHd6ZWROb2pWc3JQU25pRWVQbHY2c0xyUl9pR01fOFJSMlRNRTJRUGZ2WTZkTGRZSWZCbEN30gHTAUFVX3lxTE1JMWkxa040c3FXcUNLSVp0M3ZfVHFjWUdOS0NCWnViZG5YNWM4bHRwWHVZaVJDWkZJeDFiUndUcGx0RnpEOGdmSUtRNjktTklaaDNuQlA3dy1NLW15SWVXVGJFRVJpS3NaTUdseVFMZXFRbWtxVV8xLUprcHNodXJMc244NGx5Mm10a1hMbUhrNEpFaGpLMFd6RzFvOVRMd3plZE5valZzclBTbmlFZVBsdjZzTHJSX2lHTV84UlIyVE1FMlFQZnZZNmRMZFlJZkJsQ3c?oc=5",
-      "summary": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA MarkTechPost",
-      "badge": "new",
-      "date": "2026-10-08"
-    },
-    {
       "company": "Google",
       "title": "Introducing Playground: Create and play custom games",
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -531,17 +531,17 @@
     },
     {
       "company": "Amazon",
-      "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1BRal9pR1NJWElLTXpEREVyMW9GRkpwNzNyNkMxOElxT1NMZTlxSnRPMmxCSDVBcWp2eWc0dzFWVWhZOW5JR1p0M0R1aTd2SlV0c28zTTF4Nlh1RHM1ZFFabTN6MWRSeTBUVW4yQklhRnh2T0k4U0hlSEI3YjNJUXp1VU8tc2NCZEM0MkdyS3dNekhOYWZxb3JmX0xoYVhtd3cxWDIxd2JaRVg0djFQeGc5dmpYYVhWMGdRQ2F3c0dVa3Y4?oc=5",
-      "summary": "Apple is making your security camera smarter. What comes next is more interesting. The Verge",
+      "title": "Apple Intelligence vs Ring vs Nest: AI Camera Showdown - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVJ0elk0NkN2ZEhLSTdqYU42akRXdHF4VkVNamdzVXNNX2FnVEtxbXdYR3VMOWZNTllIcUpSQUdOb1Q5RENZTHlZaHFsc3MxZEhlQjJHQjdIYXJfbEJ1b0RDdHhySHpfdC1Rak9hd3EwVlhLWURhQjFjU05Zb2NQOGkwd1ZlLUp0XzN1WXJ0VQ?oc=5",
+      "summary": "Apple Intelligence vs Ring vs Nest: AI Camera Showdown The Tech Buzz",
       "badge": "new",
       "date": "2026-09-25"
     },
     {
       "company": "Amazon",
-      "title": "Apple Intelligence vs Ring vs Nest: AI Camera Showdown - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVJ0elk0NkN2ZEhLSTdqYU42akRXdHF4VkVNamdzVXNNX2FnVEtxbXdYR3VMOWZNTllIcUpSQUdOb1Q5RENZTHlZaHFsc3MxZEhlQjJHQjdIYXJfbEJ1b0RDdHhySHpfdC1Rak9hd3EwVlhLWURhQjFjU05Zb2NQOGkwd1ZlLUp0XzN1WXJ0VQ?oc=5",
-      "summary": "Apple Intelligence vs Ring vs Nest: AI Camera Showdown The Tech Buzz",
+      "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1BRal9pR1NJWElLTXpEREVyMW9GRkpwNzNyNkMxOElxT1NMZTlxSnRPMmxCSDVBcWp2eWc0dzFWVWhZOW5JR1p0M0R1aTd2SlV0c28zTTF4Nlh1RHM1ZFFabTN6MWRSeTBUVW4yQklhRnh2T0k4U0hlSEI3YjNJUXp1VU8tc2NCZEM0MkdyS3dNekhOYWZxb3JmX0xoYVhtd3cxWDIxd2JaRVg0djFQeGc5dmpYYVhWMGdRQ2F3c0dVa3Y4?oc=5",
+      "summary": "Apple is making your security camera smarter. What comes next is more interesting. The Verge",
       "badge": "new",
       "date": "2026-09-25"
     },
