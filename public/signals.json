@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-19T11:52:41Z",
+  "updated": "2026-10-19T18:11:51Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Musk and Anthropic pledge public share giveaways - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96d1pfMGRCUGNicWlMXzlMckdGTGlnMGJyM1ZwR3lxb2xoRG5BR19QaWNDVDBPVXFXRVhQd2lDM0RfTXNNMGE1WFgwNVR3R3MxQV9rV2lseGRSZ28?oc=5",
+      "summary": "Musk and Anthropic pledge public share giveaways BBC",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDRsOTlqdE9oSWhyakM3Zzc5Nnk5Umw3b0NkazBvb0NNUjUyejNGVDNsXzgzeF9fb3NKeFFjRkhZVU9XaDlWZkhweWszMi1zdE5KSHFiSkFwRTBHQ3pQdHB3NU9GTWVZNlZnSGhoT21wdmQtQ2dGQ0dzeHRVZmliZWlZV3pJT0lXczhqaFM0NmJVNmRfUG1ZdDkyUnRzeEFscG55MURTXzllMWdf?oc=5",
+      "summary": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie NBC News",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Musk pledges to give a share of his SpaceX company to 'every kid in America' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGpkbU9mNFBZaG44TnJkTHdBQ1JnWGt0T2wzMUNubndoSXY0RFY3OFVKcGJKSTUxblFGTjBZd3J4NUJaOERKZHlOQnpiQjVXSmJWX2hGUFZWSXBIdXk5OEFkRkcxWUFYamlyVmF1eDZoTE54b2FVSW4xcC05M052V1FRUTQtLW5IN2syOGNvOWFtdUxLMnBV?oc=5",
+      "summary": "Musk pledges to give a share of his SpaceX company to 'every kid in America' Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic fund to help workers impacted by AI job disruption - Fox News",
@@ -30,6 +54,14 @@
       "title": "What to Know About the Obscure Trust Looming Over Anthropic’s IPO - WSJ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ISFpZMnFpbzQ3NWZQZmF0ZDUyNk1wSFg2WUFZT0hiSXh6THFObUw3dUFCbzk5UVY0NjNfdXQxQWhybEQxLXNZNlB4cllkOXFMa05CZ3dmekU1dTZkSGdMczZqeXFneFFCcUxmc3d4UDczdw?oc=5",
       "summary": "What to Know About the Obscure Trust Looming Over Anthropic’s IPO WSJ",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Windows 11's Hybrid Intelligence features will breathe new life into Copilot+ PCs - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTElDLXRFbXdvbHBlYTFXeXUzOVJ3RU95V2d4N0M2cTR0YlJRNmpTUTBKNHg4RFNfRks4VlRwUHo3THcyV0JsMUFlc0ozUGZ5VU1heDlqOThySHJuTlNMNXRWUkdxU216SVhfaDhnbVVIUF9HQjlqaGZ2Nk1pMVFSOEFuM1JKSUYxVXhiVnJzeExTVHd5WlUyVGxrcGR5alhzTnl1MlZUOVlMMUMtbUdxR0tpeU1HUFRIV2ZybWZWR2pFLS1pQ0YwTmtCT1lBc0Mwbm9EOXl2TDZ6aHVkVjgyLUZzN050NEdzejhHd3cwRm1JZzZxcHdYVDBoVFphTEo3a3hsQjFXWTN6WmtkUkVIbEdHV1llakdpbGRFWGlvT20?oc=5",
+      "summary": "Windows 11's Hybrid Intelligence features will breathe new life into Copilot+ PCs Windows Central",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -74,10 +106,26 @@
       "date": "2026-10-19"
     },
     {
+      "company": "Meta",
+      "title": "Meta's AI vision doesn't come cheap, and its earnings could prove it - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczJkZURyVjBJaUszYWdzSkdYc0wwUG91MV81SmlQLXJpQXlDeFUwVjRyaTJHOUZUQV9RaGFpN0h4QlhxSmhDNU1RVnFvV1ZFTDVkOGMzeE9VNmpGVWJIVjF1eEZsbm9EeDk5VDRGamQ3UXdueXVvYzRpaERKMTRuNjd2TG5nUlNtb2FldFNGaTQ3bEgxUFFJZFhvUTRhOEhqQVBFeTY0OElFbG9yVkVhbC00eVpOTk9yWXZ2U1ZBY2IzUUE?oc=5",
+      "summary": "Meta's AI vision doesn't come cheap, and its earnings could prove it Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Meta",
+      "title": "He let Meta’s AI agent sell a keyboard. It sent a buyer to his home - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEhHYzFvbXg5dmVfTjFoY1NOZWVhSW9QMkFBSGVVZmcwM3BqdGh1YUpmc0hwWThkaWtubENySU5QLXRjTS1NWUNxQXZpZGFHRnJWeFNNT1lxT2Y3d21PMy13V2M5c21tY0ozeTNVM2x1YkFEUlVvSVg3UXdqdnhFSWl2UEF6a0VPaGhrZ3Y1NV9Ic3NBR19zd0RiTnR0QXpSVzZZSXBFWmNBR3l5R21kWg?oc=5",
+      "summary": "He let Meta’s AI agent sell a keyboard. It sent a buyer to his home Los Angeles Times",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
       "company": "Anthropic",
       "title": "Investing in the public benefit - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
-      "summary": "Investing in the public benefit Anthropic Anthropic says it will commit 5% of its shares to 'public benefit fund' BBC AI firm Anthropic to commit 5% of shares to fund for ‘public good’ The Guardian",
+      "summary": "Investing in the public benefit Anthropic Anthropic commits 5% stake to new 'public benefit fund', Musk argues for direct share donations to kids Reuters What to Know About the Obscure Trust Looming O",
       "badge": "new",
       "date": "2026-10-18"
     },
@@ -94,30 +142,6 @@
       "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5",
       "summary": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic wants outside input on Claude’s values. But who gets the final say? - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5",
-      "summary": "Anthropic wants outside input on Claude’s values. But who gets the final say? NBC News",
-      "badge": "new",
-      "date": "2026-10-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic turns to lawyers to help AI agents strike deals - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c?oc=5",
-      "summary": "Anthropic turns to lawyers to help AI agents strike deals Financial Times",
-      "badge": "new",
-      "date": "2026-10-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5",
-      "summary": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an",
       "badge": "new",
       "date": "2026-10-18"
     },
@@ -258,22 +282,6 @@
       "date": "2026-10-16"
     },
     {
-      "company": "Meta",
-      "title": "Can Meta AI Break Into The Enterprise? Why Zuckerberg Thinks So - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3NvbHJkcVhFbVFIMzl3WFJIMVpEdEFkS1ZTNmctdDFiR0paZFVMLWJsNHkzMXp6dWFGcmZfVUdLZnZjSEdXdldLenMwUXpXOGkydGduQTZuSnNtUHZGdXFqU1doZVFoXzhiRlRwWE00bEpvVUVIOFlWTUN2d3o1SUxWVjd4aWJNT1RISHlabHRjUGxwZUhTaA?oc=5",
-      "summary": "Can Meta AI Break Into The Enterprise? Why Zuckerberg Thinks So Investor's Business Daily",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Dan Ives Says Apple-Meta AI Partnership Could Help Unlock $75 Per Share in AI Value for AAPL Stock — 'Sta - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOejRHNnBUejJ2ZWU0ODhua2p2MVdDQkJjM3dpc3ZIS2dkR05wZGQ5bWR3NV92R2dmTnlxS3g2c2FET2tDOTM5TEpEdFkxUTllRHNHRnNFdkRxckZ5a3ZBNXBTRVc3emYyT1ZpUGlmb0I3cTU0Q29xcmFod1MwS1JLS1V1bk5ac1RIR0JLay1mdWZ4RmZHVFRqRmtuRTVLQ1NpeFBldVZDQkxkV0lNcEZlbnZSZE9TWFJOR2xCWHNwOXpSQ2VQYUNXT0tFWVVkaGRIQVR2a2k1YTNUOXBuY213NGFJSWV3TER3d2xWb0liY21tc1ZtSFVHQkJIcUxSa0hEaHJaSzlOaXBPbHlpbWk3c0tMYVdCV3cxU1JyNkxmeGxhSTh0WGdScFRlSWhnLVU?oc=5",
-      "summary": "Dan Ives Says Apple-Meta AI Partnership Could Help Unlock $75 Per Share in AI Value for AAPL Stock — 'Sta Benzinga",
-      "badge": "watch",
-      "date": "2026-10-16"
-    },
-    {
       "company": "OpenAI",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -358,14 +366,6 @@
       "title": "Microsoft Stock Heads into Earnings with Azure Growth, Copilot Momentum in Focus - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjY2WkdQY3ZxT3IzaVlVd2ZuZTE5WW5OSWtIR01QdW55RWhzYzlCdmh4WTlMdnhTVkJwVm9lSGRyNTFxUUZocUs4R3g3N2R0YTRwMWpOdm9PV2dWUDBMTklvVXAxWkJIY0JLZHJIVXoyTXdncU5lczd5VUJlcVcwbnRrZXNSNnZJVmxqaVdGbHlzT3B6ZkJuNGEyV09LbTNqcFcwMzl4cldlcUQwVnBsZkNUMFVLb0RLaXVHQnhWc1hDQTRmU0E5d2tIMFM?oc=5",
       "summary": "Microsoft Stock Heads into Earnings with Azure Growth, Copilot Momentum in Focus Benzinga",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot pricing gets complicated - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFpHSDI2aHZJSEs5OS1VTjJ0TENUMzNBNWpnQ0ljNnd5ZHFrRktXUnh5ZExuV0h4MlhhdkktOWxFMUJoWmVFMWdWTU9kck8tRmdlc2s4ekJfUlJTMXhOLXl0VlRiN3kzS3F3eEs2aFNENl9fNFFmWEM0N2w1ZW9wclRJcTJ3WWlHQkVLYkNxLXNLQjhZNW81Y1pEcU5oUGRqWWc?oc=5",
-      "summary": "Copilot pricing gets complicated Computerworld",
       "badge": "new",
       "date": "2026-10-15"
     },
