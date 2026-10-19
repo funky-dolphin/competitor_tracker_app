@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T02:53:24Z",
+  "updated": "2026-10-19T11:52:41Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic fund to help workers impacted by AI job disruption - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxd1RNSHpTX2J4X3FmRUtTMU9PSXZnS2luTDM1NHFIaGJUczM4ZnBoUVREX2N6MXVRZnFOT1BoZzMyWFNRVncwbWZvbkQyWGhyVEFrVDFR?oc=5",
+      "summary": "Anthropic fund to help workers impacted by AI job disruption Fox News",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says AI malware is coming for your smart oven… eventually - PCWorld",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzFsNWVMMDA3cy1QOTBsRjVVTEpjbWRLUEdPVGhWWFZpcDh0TUdtQXlKZUozNHFuZUEwWEI5aGhYLXFjTk5XNUJoYXlDbWduWWk0ZFdxcWk5Tnk3eW5VOVgwVW9tcmxRV1dsR3ZfVEFhN1k0S21ocURIUHBRQVZQaVAtZlExQXdDY3NGOXZEaWd5Qm9LOHhEb25LbFlHeUp0a1JLZWJ4WTBPWkVVNXg5cw?oc=5",
+      "summary": "Anthropic says AI malware is coming for your smart oven… eventually PCWorld",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic commits 5% of shares to ‘public benefit’ fund - Financial Times",
@@ -59,6 +75,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Investing in the public benefit - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+      "summary": "Investing in the public benefit Anthropic Anthropic says it will commit 5% of its shares to 'public benefit fund' BBC AI firm Anthropic to commit 5% of shares to fund for ‘public good’ The Guardian",
+      "badge": "new",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Anthropic",
       "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5",
       "summary": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? The Guardian",
@@ -114,28 +138,12 @@
       "date": "2026-10-18"
     },
     {
-      "company": "Anthropic",
-      "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
-      "summary": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers CNBC",
+      "company": "Meta",
+      "title": "Meta AI chief Alexandr Wang reveals the man who made the 'impossible' possible between Apple and Meta - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdzRxTk8tQkYzUnozZU1tQWVqSzRYX1NLU1JpcGt0RUxBTmJRc2IzR1ZIcjF1WnJNNW9yYnIwTmkwMi1fNDVyWnRZQ1U4ZEx6S0NBS0Vsb1dpR2tIZEpFN0pyYW5TeUZYMHcxX21aOGpaT21yYVFXTFlhMXNNVVdQMmd3T1NmN2dMYVpOcUZJNVhCdWlSVHZwMVBMT3hJeGI2Q3BRSnJUck85SmdURVZIN080VGJvTVF4bDZzOXZYQ29nZU8xeU1lRldDN1A1YTltblY2SDJ1QV9xMlpJNzlldm1vbFhoUV9BUklsWDJmV01sWVBibWNTTmxuanp0M1JWNWQyQVBWUC1MdXdnN3lz0gGUAkFVX3lxTE9ydmtPYWpOOXgycXlmSWVzTTN1WFpPWmFjaVN4TzFWTnlPZ0hfZ0ZOeFpEV01TU2JhOXY2bURicEZoWGVwa2xQMTJVWW5WN0ctaDBCc3dyVm1VUzlKZEp0VFpQbFN2cEptY3pKSURSd3hYOTVsaFdVUG5nU1NIQUNSa3BDSU1sbEx4SE5pcnJkXzhsV0M1YXlIRUZPdC13cXowbmc3YUJkNXl2Uk1tLWIxWFJxS2o5QzdlYW9RNWQ5dTFsV24xejNjVEd4NnZjVHBCT2g0VlAzdWtjZmtIM05XNHk3ZFdXUGx6b1NOZUotMXNDQktTSDk0bkxvQXBoYlZ1S29mMElzUmtPMDZkaGxaWS1XZQ?oc=5",
+      "summary": "Meta AI chief Alexandr Wang reveals the man who made the 'impossible' possible between Apple and Meta The Times of India",
       "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
-      "summary": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Anthropic",
-      "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5",
-      "summary": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-17"
+      "date": "2026-10-18"
     },
     {
       "company": "Perplexity",
@@ -227,6 +235,14 @@
     },
     {
       "company": "Meta",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlPUEprazRLcDF3OW9MZW11SURDckdxRjdla2hLVUl5cGtvS0hyNEpyY0UzdmhyYXRraTloUW0yUVBoUVRDQnhvaUNfcm05UG92a3RtWHl2VDJCVGxHVXdMX0p4VDRzdlBnc0V0XzFlYWhNNk1sNEMwNVByWmNQQ0EzUDA0VDV2M2MweDgxQ2ZMRWQtV1J2N1U4NHk5UGZoTVhBX24yZkthNmY0OTF2eHVjcw?oc=5",
+      "summary": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality Ars Technica",
+      "badge": "new",
+      "date": "2026-10-16"
+    },
+    {
+      "company": "Meta",
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHBTZXBWN0tzYWdwd2tydGp4TExpVjRaaGlob3E5WVh6cDVuelJ5ajlWRVNLREJiU2VtUndvWHk3UmNZZkhuVXBNUWRCXzhDZXZ1MS16eVNGemJZdGVaaFZIRUZ3Q0duWnhCX3hEZWxfNkp4Y0o0WGNweU1zZ1ZEQUQxRmNILVRIM3lpOG9nS3lSU0VpUnFvZlVKdGJKWURKT013Z0pLZnNmZ0EzTm9jTlVlQ09ZbEhDaHJ0SkVFNWs1UQ?oc=5",
       "summary": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees Ars Technica",
@@ -255,22 +271,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOejRHNnBUejJ2ZWU0ODhua2p2MVdDQkJjM3dpc3ZIS2dkR05wZGQ5bWR3NV92R2dmTnlxS3g2c2FET2tDOTM5TEpEdFkxUTllRHNHRnNFdkRxckZ5a3ZBNXBTRVc3emYyT1ZpUGlmb0I3cTU0Q29xcmFod1MwS1JLS1V1bk5ac1RIR0JLay1mdWZ4RmZHVFRqRmtuRTVLQ1NpeFBldVZDQkxkV0lNcEZlbnZSZE9TWFJOR2xCWHNwOXpSQ2VQYUNXT0tFWVVkaGRIQVR2a2k1YTNUOXBuY213NGFJSWV3TER3d2xWb0liY21tc1ZtSFVHQkJIcUxSa0hEaHJaSzlOaXBPbHlpbWk3c0tMYVdCV3cxU1JyNkxmeGxhSTh0WGdScFRlSWhnLVU?oc=5",
       "summary": "Dan Ives Says Apple-Meta AI Partnership Could Help Unlock $75 Per Share in AI Value for AAPL Stock — 'Sta Benzinga",
       "badge": "watch",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's AI Reels show crying kids 'arrested' and told they'll be freed if viewers like and follow - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUo2RGxweFRrMHoxTTVzV1JiUlYzRGVwMjJlOVpqenN1RXJDeUV2ZUtrVHRHVlBrSGdWSEpTV1E4bzRRSC13QzRIa2FtdXp3aUlzbGRPN191QkFPNV83ZXROcktOY0JENXBoN1VRamdEM2tXYlRwalE2Q3AzSHNhbHg5dGM5bWc?oc=5",
-      "summary": "Meta's AI Reels show crying kids 'arrested' and told they'll be freed if viewers like and follow Yahoo",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5",
-      "summary": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model The Guardian",
-      "badge": "new",
       "date": "2026-10-16"
     },
     {
