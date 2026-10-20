@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-19T18:11:51Z",
+  "updated": "2026-10-20T03:03:47Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "badge": "hot",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces the next generation of HomePod mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5",
+      "summary": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+      "summary": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says Reuters",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1NLVUZHTjRBSTloV1dqSi0wVmZXTUkwSmpzT2NpVG5ia29za0NIdkpGbWJDMnVVSmY2M2FvQTF5NnlrdWRkM0duNUZtNEdRQmVTLWxTZm1DN3V5NFBmQmxCOEJWZG4yNWRyN295NjYtc3A5Z1pzQ1QwUVJDY0VaZmNqbFI?oc=5",
+      "summary": "Anthropic and Nscale in talks for second multibillion-dollar deal Financial Times",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
     {
       "company": "Anthropic",
       "title": "Musk and Anthropic pledge public share giveaways - BBC",
@@ -66,42 +138,10 @@
       "date": "2026-10-19"
     },
     {
-      "company": "Apple",
-      "title": "Open up to new possibilities with iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
-      "badge": "hot",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces the next generation of HomePod mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
-      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "company": "Perplexity",
+      "title": "Perplexity has an open-source alternative now, and I'm hooked - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3F0SjM5eS1xa3ZWOEpGLW4yVFdSZC13QWJGWk4tWFdpVWlyTk5YWWtrZWVETExQYUdYTEM0UVJvdWlSN0dVTzVuYlNGbFNha2NVdFJsZS1KN3p5MDZQemxXZ3hRVDNHcS1OUWRPb2xBTDl6Wm1nbnVVWFROaUhRS3dqU0UteU0zQ1NCNE4wYw?oc=5",
+      "summary": "Perplexity has an open-source alternative now, and I'm hooked MakeUseOf",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -120,30 +160,6 @@
       "summary": "He let Meta’s AI agent sell a keyboard. It sent a buyer to his home Los Angeles Times",
       "badge": "new",
       "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Investing in the public benefit - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
-      "summary": "Investing in the public benefit Anthropic Anthropic commits 5% stake to new 'public benefit fund', Musk argues for direct share donations to kids Reuters What to Know About the Obscure Trust Looming O",
-      "badge": "new",
-      "date": "2026-10-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5",
-      "summary": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? The Guardian",
-      "badge": "new",
-      "date": "2026-10-18"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5",
-      "summary": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-18"
     },
     {
       "company": "Perplexity",
@@ -203,17 +219,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "badge": "new",
       "date": "2026-10-16"
     },
     {
       "company": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -259,17 +275,17 @@
     },
     {
       "company": "Meta",
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlPUEprazRLcDF3OW9MZW11SURDckdxRjdla2hLVUl5cGtvS0hyNEpyY0UzdmhyYXRraTloUW0yUVBoUVRDQnhvaUNfcm05UG92a3RtWHl2VDJCVGxHVXdMX0p4VDRzdlBnc0V0XzFlYWhNNk1sNEMwNVByWmNQQ0EzUDA0VDV2M2MweDgxQ2ZMRWQtV1J2N1U4NHk5UGZoTVhBX24yZkthNmY0OTF2eHVjcw?oc=5",
-      "summary": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality Ars Technica",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHBTZXBWN0tzYWdwd2tydGp4TExpVjRaaGlob3E5WVh6cDVuelJ5ajlWRVNLREJiU2VtUndvWHk3UmNZZkhuVXBNUWRCXzhDZXZ1MS16eVNGemJZdGVaaFZIRUZ3Q0duWnhCX3hEZWxfNkp4Y0o0WGNweU1zZ1ZEQUQxRmNILVRIM3lpOG9nS3lSU0VpUnFvZlVKdGJKWURKT013Z0pLZnNmZ0EzTm9jTlVlQ09ZbEhDaHJ0SkVFNWs1UQ?oc=5",
+      "summary": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees Ars Technica",
       "badge": "new",
       "date": "2026-10-16"
     },
     {
       "company": "Meta",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHBTZXBWN0tzYWdwd2tydGp4TExpVjRaaGlob3E5WVh6cDVuelJ5ajlWRVNLREJiU2VtUndvWHk3UmNZZkhuVXBNUWRCXzhDZXZ1MS16eVNGemJZdGVaaFZIRUZ3Q0duWnhCX3hEZWxfNkp4Y0o0WGNweU1zZ1ZEQUQxRmNILVRIM3lpOG9nS3lSU0VpUnFvZlVKdGJKWURKT013Z0pLZnNmZ0EzTm9jTlVlQ09ZbEhDaHJ0SkVFNWs1UQ?oc=5",
-      "summary": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees Ars Technica",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlPUEprazRLcDF3OW9MZW11SURDckdxRjdla2hLVUl5cGtvS0hyNEpyY0UzdmhyYXRraTloUW0yUVBoUVRDQnhvaUNfcm05UG92a3RtWHl2VDJCVGxHVXdMX0p4VDRzdlBnc0V0XzFlYWhNNk1sNEMwNVByWmNQQ0EzUDA0VDV2M2MweDgxQ2ZMRWQtV1J2N1U4NHk5UGZoTVhBX24yZkthNmY0OTF2eHVjcw?oc=5",
+      "summary": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality Ars Technica",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -410,14 +426,6 @@
       "date": "2026-10-14"
     },
     {
-      "company": "OpenAI",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
       "company": "Apple",
       "title": "App Store Indie Games Week kicks off today",
       "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
@@ -488,14 +496,6 @@
       "summary": "Reddit and Perplexity AI clash over law firm's role in data-scraping case Reuters",
       "badge": "new",
       "date": "2026-10-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J2cTNIQlBFaXpncjBrLVlabHR4Wk9kSlNDVjBCUWJjNDBtNnBRYi1fTFNWNTFnQ2NBeUhYQXdHWEpEUU0tVGNTMkE3c1hLRjZHWXQzRXdrTTVKUUptT3Nlc0JUTWlzdkRfN2RtQjhISHd1T0JMakNPZEI5QVZ2RTNZVGQyUllhSVZ0M29NdGp1OTJRUC0zREVGTWR3RjV3SXZoNFlrZVJHSUQ3OVdn?oc=5",
-      "summary": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button MakeUseOf",
-      "badge": "new",
-      "date": "2026-10-10"
     },
     {
       "company": "Google",
