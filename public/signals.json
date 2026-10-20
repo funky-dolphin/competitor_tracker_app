@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-20T16:12:46Z",
+  "updated": "2026-10-20T21:08:42Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
+      "summary": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports Reuters",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3A5WUhzc052RnlDWFU5R2FOWFQtU0g0OXV4X0MzTGRoR1U2enhudDIzMU9FNFBQaHVZNFlHN2dDc2VnRzM0ZmxSVldfdmVLTnVLNjFVSG9tcGF2QkQ3VE16ZkZzV25GU3BLWTRldFphbzd4bFhjSzFmU3VtN1dmMjdYR2kwSk1VcTlKNDJVZVlSRUlWaVI3U3dBTTBFY0U4UHVqeklBOXotNFBYTlVUUQ?oc=5",
+      "summary": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOejdoZGdqRDhIcFpYUlJrR1pEZ3RhUEFuRUhJTWw4eXp2bUVzbHMwWk9TOWkwUlkxODBrT0dTd241ZmxtV0FWZ2o5Yk1UNEs4M0d0OHlRRTFWbEItU2loOFR6c3NJcFRWNkdmRG81TDh0cnlyblZOOXl6TUxRdjJsMTQ2akFISUV5akpobndSUUpNc3dPVXhWYWtCQ3dUejVnM3FBWE1HbnhDb0tZeW9zWUZ2eWZmdw?oc=5",
+      "summary": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei TechCrunch",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic Will Be The Last AI IPO Of 2026, As Industry Collapses - Yahoo Finance",
@@ -14,6 +54,14 @@
       "title": "AI takes on great experiment in self-rule - Axios",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMHZpdFZTX09GU2ZVNk1FWnR6RV9oTFpTOTVLMUZKeGZBNW02Rk82OW1WSEduR25TNUw4ZVltR0hyTFFwQldTd2VtajR4V0JoTVZab2dIbnBfRS01WTRpb05WUzJHbGdsdnRJ?oc=5",
       "summary": "AI takes on great experiment in self-rule Axios",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNWU1g1bzY1RmxET2JBS0dTWUd3ZmxFOFQ2aUI3TWVCcE1DN190RW1qMFNPLTZlZVFWZnpWUm5ZcUtHcVYyYy10NjBOeGs3aThCNzJFUFNBRnJCOENRSHV5TG9GOHprVThGdThYejdMbmRoSkNlUHhrZDNpLTVhTElmTkJ3OVFILUNjdkp0ZVNyUjlVSUdZcTVjeE15RzFWTnZZVmFwZklGVFpJNVNyWUMyTURXXzFHX3lUcTJOc255UkU?oc=5",
+      "summary": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out The Register",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -75,17 +123,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity’s Computer can now run entirely on your Mac, even offline - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpveHFqWk81cFJPQ1hfWjlack1BLXNZMmhUVVdzNlNLRFNRRGdoaW1uZno3bVR4UF9IMTllaDM5NXJDdk1maUxXdzZTZXZqSlhfajhYLTBrQnhIYUpjcXF0QnBCTXdVNk83cmZ6a0RnUGI3YWc5UlZlMHVxWHhZZ1JESG42LXVkTGJLMjFQcUx2b3JxNHFCUFNFbGdrT1U?oc=5",
-      "summary": "Perplexity’s Computer can now run entirely on your Mac, even offline 9to5Mac",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
-      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
+      "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxIcE1tbHBxUTBWYVFsQjF6WFNXeFQzWE9PTElvOTNHWmk5NzlxcTJtX2tZSTdNQTN3X0VPWWN2Z2U5ME9nbUxrTTR1bEREaENLSUlBWHRnWThDUjNKMGlWUFVlbUlnNGV6amZaaHJialV2ejBWU0IxQTYyc19JZ0c1dWktZmx5dWc0WUxGdVJ4UUV6b2NtUExDUFVHdTVIU1g0?oc=5",
+      "summary": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac Engadget",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -99,10 +139,26 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxIcE1tbHBxUTBWYVFsQjF6WFNXeFQzWE9PTElvOTNHWmk5NzlxcTJtX2tZSTdNQTN3X0VPWWN2Z2U5ME9nbUxrTTR1bEREaENLSUlBWHRnWThDUjNKMGlWUFVlbUlnNGV6amZaaHJialV2ejBWU0IxQTYyc19JZ0c1dWktZmx5dWc0WUxGdVJ4UUV6b2NtUExDUFVHdTVIU1g0?oc=5",
-      "summary": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac Engadget",
+      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
+      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
       "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity’s Computer can now run entirely on your Mac, even offline - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpveHFqWk81cFJPQ1hfWjlack1BLXNZMmhUVVdzNlNLRFNRRGdoaW1uZno3bVR4UF9IMTllaDM5NXJDdk1maUxXdzZTZXZqSlhfajhYLTBrQnhIYUpjcXF0QnBCTXdVNk83cmZ6a0RnUGI3YWc5UlZlMHVxWHhZZ1JESG42LXVkTGJLMjFQcUx2b3JxNHFCUFNFbGdrT1U?oc=5",
+      "summary": "Perplexity’s Computer can now run entirely on your Mac, even offline 9to5Mac",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AI security hiring focuses on red-teaming, SOC orchestration and governance - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFpMFhyRVI2czJRTHRnZEo0LTNKaFg1S3JlTGpKOGdKOVdNb3VhQXpieDBUSGlxQ0c1VV9PajlSeTgtVzdZcHJLWEktWHNld2YtNWFyVnkxMks4eTVua3VsbXVBbHBaWUttWWhJX0hDckNGS1RNYjJDRjRyTEQ0VlZ5andmRWhjb2JZ?oc=5",
+      "summary": "AI security hiring focuses on red-teaming, SOC orchestration and governance Cybersecurity Dive",
+      "badge": "watch",
       "date": "2026-10-20"
     },
     {
@@ -118,6 +174,14 @@
       "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
       "summary": "Meta's AI spending, Muse assistant adoption in focus for quarterly results Reuters",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZk5TX1pPSUZoODYzRlNtNWF0bnYxS3p1cjBpcFJLTlZzcGU0eTR4bWhBRzdlR0dEd2xZdXU5V1hISEpPQm1qanlyZXFUSFRmcWtSTGdINlF0dHV4d2hIeEZMUGh5eEdVa0NrazkyM0hMQXlnYjhoZjFMVVB3REZzV0FHSXJxN3pZQTdTQS04ZXAxeHpzemVIV05ZN1dTc0d4X0FOeWN4bnlwNUVlTE5QbW5rY3hBOVVacEl3NlR3?oc=5",
+      "summary": "Meta's Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps TechCrunch",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -142,6 +206,14 @@
       "title": "Advancing coding in low‑resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21NdVRPSTJNSUZiZ201OEo3U1Q0Rk9XVFJGaHVEWG1pczBSZzNpZVI2UXEwdEljb0F1UjJTUFRQOXBSTF9zQTNtRnhUcjBKRG9pVktwU1JXeWNiS0ZSZjBZaUhhakJEaU5YbEpBWG14MkUwTjhLX1RzU2NnY2ZvRER6VkVvNUVzemcwU0JzSWE4SmMzM3loLUdFR2JsMG9BbE9hS0ZrZFRGRVUtQ3BYYw?oc=5",
+      "summary": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports Reuters",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -174,38 +246,6 @@
       "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5",
       "summary": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
-      "summary": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says Reuters",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1NLVUZHTjRBSTloV1dqSi0wVmZXTUkwSmpzT2NpVG5ia29za0NIdkpGbWJDMnVVSmY2M2FvQTF5NnlrdWRkM0duNUZtNEdRQmVTLWxTZm1DN3V5NFBmQmxCOEJWZG4yNWRyN295NjYtc3A5Z1pzQ1QwUVJDY0VaZmNqbFI?oc=5",
-      "summary": "Anthropic and Nscale in talks for second multibillion-dollar deal Financial Times",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Musk and Anthropic pledge public share giveaways - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96d1pfMGRCUGNicWlMXzlMckdGTGlnMGJyM1ZwR3lxb2xoRG5BR19QaWNDVDBPVXFXRVhQd2lDM0RfTXNNMGE1WFgwNVR3R3MxQV9rV2lseGRSZ28?oc=5",
-      "summary": "Musk and Anthropic pledge public share giveaways BBC",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDRsOTlqdE9oSWhyakM3Zzc5Nnk5Umw3b0NkazBvb0NNUjUyejNGVDNsXzgzeF9fb3NKeFFjRkhZVU9XaDlWZkhweWszMi1zdE5KSHFiSkFwRTBHQ3pQdHB3NU9GTWVZNlZnSGhoT21wdmQtQ2dGQ0dzeHRVZmliZWlZV3pJT0lXczhqaFM0NmJVNmRfUG1ZdDkyUnRzeEFscG55MURTXzllMWdf?oc=5",
-      "summary": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie NBC News",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -290,14 +330,6 @@
       "date": "2026-10-17"
     },
     {
-      "company": "Meta",
-      "title": "Meta AI CEO Alexandr Wang sends a long thanks note to his team; says: I am so grateful for every one of y - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNFl2dmUtd0JOaUNwdjNJRUUzZHhrS01wQ2hBc3lqYjY1QTF5QVhRMVZ2c2x5Q0plY0FkdUZyU0xrX3RWODNMdjRnd09wT3ZFMGNKMklPTE5oSVEySTVSejlPYTR3Q1d2T1FuZ3d5bFNDYkxldkpyYzJpQTV3b1NsTk1VelVLUW9FUzBCQUd6WENvTjlvS0U3ZmNmYlZicWZ6ZWJUTmJxOEp6cHU2cjl5aVhvUG9mUGVfV2txMmlEVy1fYkpIcUtYblJtWnBSdDEyNm5pNjF0OGRVaG1Gbjd6NkUyRmpvLU9aUTUybE1NQzAzTUNlZWliRW1XSUJSMWJQSlVLVzl0VTRLRGtEN3g1VmhpR1R0ajN0NU03blczajdza25JNi1pUEc4QmdpNDJ3YWF1RWhGTEltSnRfRlVGWTJjUGw3Tndy0gHOAkFVX3lxTE5EekowU2F3OHltSFpEUzRsZWYtbzlGbVByeHNGLTZEWXpiMzZFa1VXc0NEQ01zXzlFUVBweXRGY2E3U204UHFaU0FTdGtmTUhBNkpEaXlEUTZ1ekFGNVdUbXN4MG8wNnJxUFRveFZ2eTBDOW5uVDV6and4LUU1NEFUZDFyaWlhVHFiWmVrMFdkSmpqRFpSRktwWXNVVURqcldVSjM2NFBWNUdVVkxRNXdMRGdKb0hzam9sS3JYNU8zWlBiNV83ZmNwWV9pRUpPdUJmbDdHMVNLdUlXRkdKelkzYzJEN0laTVNWY3ZwVmFKWnBBUzVzTnZST2NWblg4ZTlocVduMHRUUXdlTzBmUVkxVGNJRkxvT0hxSmV0NGN2dUVDTmFnR2VmRjJmQ1R1Q2gxR2xOMGxwaGh1TUV3RHFHVjR2Q3dlR1JkeTRzS1E?oc=5",
-      "summary": "Meta AI CEO Alexandr Wang sends a long thanks note to his team; says: I am so grateful for every one of y The Times of India",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
       "company": "OpenAI",
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
@@ -342,14 +374,6 @@
       "title": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbndjdTZKa19LclRhSEIzaFNuNDFtVmRnRnNyMmRxY3FOVEdHWi1QMjRZWkJKX3A2VTNhUnI0OEJDXzVfczhEYkI2OEViSzdpT2pZQzNmRGdHX1ozeWFhZTl5RzhpMVBxdUljcWdBeF90UkxuQk5TMDJHZkh2MnVKSUhhQ21JUQ?oc=5",
       "summary": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy tech-insider.org",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I asked ChatGPT, Gemini, Claude and Perplexity which 10 jobs are 'safest' from AI — here's the roles they agreed on - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXU5clpGVEFBaTJSVnZHMmxTWTN0dnZQQUR2VDBESk4zRnV4aUVZaWd3N1pwQ1BLUXUxU0tvWWc1MktzSDJTY3VxQUZmZWQ1Y3lmZ3JiODBRbTE4UnZhNHdFbXJIVXVRZnNOMW4zSDE1dWczazlZTzV0SDJlVXBNWnI3Ml85NzlQOHJnYXlmRTVpWWxuT2U4LW13WktibXBwbkVONlZrblBZdHN6aUlnSWlBcTlYdnM1SUpwZmlNam02QnRmZXJFWllmWWhXdmxaQVBibkZzazh5dmd3NVBjV1Rn?oc=5",
-      "summary": "I asked ChatGPT, Gemini, Claude and Perplexity which 10 jobs are 'safest' from AI — here's the roles they agreed on Tom's Guide",
       "badge": "new",
       "date": "2026-10-16"
     },
@@ -426,14 +450,6 @@
       "date": "2026-10-15"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnB6Vk50amVmN0QyQUliVlZaZE1lR01QVXVVUTh3RmlKWlNYdEpuQ3cyT1FEMjZBZmYyaHo0WkZMQzZkUE9hdHQ4QWl0RTFCcEZNQ3RadGROZDZab0p2YmVxU1d4VGZPUnh0NFlnMnBWN1F6aW9TeGNZYW4ySGZ0U3hSTVZFZGFTRER0T21lYW9lSXpYci0wN2ZGRTYtclJSRktqcnBUWk9pazh5?oc=5",
-      "summary": "Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills Legal IT Insider",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
       "company": "Apple",
       "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
       "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
@@ -446,22 +462,6 @@
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "OpenAI",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "badge": "new",
-      "date": "2026-10-14"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "badge": "new",
       "date": "2026-10-14"
     },
