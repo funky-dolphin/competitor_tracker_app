@@ -1,11 +1,59 @@
 {
-  "updated": "2026-10-20T21:08:42Z",
+  "updated": "2026-10-21T02:58:03Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple unveils the 2026 Designers of Tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
+      "badge": "hot",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "badge": "watch",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
     {
       "company": "OpenAI",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -21,7 +69,23 @@
       "company": "Anthropic",
       "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
-      "summary": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports Reuters",
+      "summary": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports Reuters Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs WSJ Anthropic May Spend $750 ",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Claude designed protein binders against scorpion neurotoxins - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5",
+      "summary": "How Claude designed protein binders against scorpion neurotoxins Anthropic",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTZpOEhpbXJmc3YzQTlzYWx5dFAzeVJ0em9iWWdpV0RfX1BlZUozTUI1aTVxdHBtOFJHdnlPZDlVWUVJVkVmMkxKekNMSWhXVWRLbk5XSGo5VkVUSjFGRzBqdG16VUg0SE9JR2tMZE5rZE54NWxhUmVRSHFYMDdYcDloc1lRVU8zRGl0NXNRQ05QQ2VDakdJS01mY210eVExekRPVmZzWnQ4WlIxaUdpMjFMQ2ZkM1BYN2J0NTB0VndHNUI4OU9temFtVElyMWg4V2RaN1ZaVQ?oc=5",
+      "summary": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses Los Angeles Times",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -66,42 +130,18 @@
       "date": "2026-10-20"
     },
     {
-      "company": "Apple",
-      "title": "Apple unveils the 2026 Designers of Tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
-      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
-      "badge": "hot",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
-      "badge": "watch",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Open up to new possibilities with iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "company": "Microsoft",
+      "title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
+      "summary": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” Windows Latest",
       "badge": "new",
       "date": "2026-10-20"
     },
     {
-      "company": "Apple",
-      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "company": "Microsoft",
+      "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
+      "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -123,6 +163,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
+      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxIcE1tbHBxUTBWYVFsQjF6WFNXeFQzWE9PTElvOTNHWmk5NzlxcTJtX2tZSTdNQTN3X0VPWWN2Z2U5ME9nbUxrTTR1bEREaENLSUlBWHRnWThDUjNKMGlWUFVlbUlnNGV6amZaaHJialV2ejBWU0IxQTYyc19JZ0c1dWktZmx5dWc0WUxGdVJ4UUV6b2NtUExDUFVHdTVIU1g0?oc=5",
       "summary": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac Engadget",
@@ -134,14 +182,6 @@
       "title": "Perplexity Computer’s Local-First Approach to Agents - MacStories",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlByQjdZX2hhbUdBeXluZEFWaHphRzl0N3FlRHRNVERvSzd0N0xGRE5sUGNPUmFTdjVvSWVyZ3p3enZLbUVvUEtHYzlXRFRsbnFDNEF3S3NiSDNlS2wxRXRrMEltQ2FvZTBhb1NYeXFuTmtoaE5qZEhpOTAzNW5McGRrTmxLV1gwQ0s3Ng?oc=5",
       "summary": "Perplexity Computer’s Local-First Approach to Agents MacStories",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
-      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -163,9 +203,9 @@
     },
     {
       "company": "Meta",
-      "title": "Zuckerberg spent years building on Apple’s terms. His $100 billion-plus AI bet is about owning everything - Fortune",
+      "title": "Zuckerberg spent years building on Apple’s terms. His $100-billion-plus AI bet is about owning everything - Fortune",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE9ySmJRM3l3NUhKaTc5aHJJUTBXX3FhZEZheHFIYXFQd0VGYllmaXhXa3lYRGVqajJiN19pX2lRYlNRb2ZabGxfQ2ZYT3NkVm1yODNaaUdfaUx4ZzdGV3k5TnBXMjB4R2FzM25FUWh0RGFFazRLYWlVOHRxQ3pnTGd5MzVIUQ?oc=5",
-      "summary": "Zuckerberg spent years building on Apple’s terms. His $100 billion-plus AI bet is about owning everything Fortune",
+      "summary": "Zuckerberg spent years building on Apple’s terms. His $100-billion-plus AI bet is about owning everything Fortune",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -174,6 +214,22 @@
       "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
       "summary": "Meta's AI spending, Muse assistant adoption in focus for quarterly results Reuters",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Recent mistakes highlight the risks of AI - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemIzOGo4TnBNNFgwQVREWGlKaXlHcExPT2ZTZHAzOWJwVzVyWTUtaUQwTGc2TFZQb0xFQVIyRzZOUzVDc1lYMld1LVUzakp0OFdFRm9KUkZZR25ENmg3ME51b1lPMkFJTnhUN283Y2s2M2J2NFE0VmRSa0kxWEhienFlYlk1TlgxVGxMdjAxUzE?oc=5",
+      "summary": "Recent mistakes highlight the risks of AI Social Media Today",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Meta",
+      "title": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzRsbHNxYW1Ka0NjaWxGQnhleFRfLTE3Slc4QzJEeEo3Ujh4RHNReVNkaG90c2VTTkFRLVFiTFFwNkFWYVA1OUJhNmszcDY0WHk5QVVzcWtNQmpZb1ZMMmdGMWRHRHpMY1hPelROel85bndoMmRucXdEZ3lYd2I0Uml3T3BjWVpMalF1OVhsZXFsV1U1QzRIUmlQdE9sRUlrdk1NWGIzTVJqV1pnUjFqOXREQ3djRjc3bHVsbmpIWHFzaVVSQWZMMkZZdw?oc=5",
+      "summary": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns Bloomberg.com",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -194,42 +250,10 @@
       "date": "2026-10-20"
     },
     {
-      "company": "Meta",
-      "title": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzRsbHNxYW1Ka0NjaWxGQnhleFRfLTE3Slc4QzJEeEo3Ujh4RHNReVNkaG90c2VTTkFRLVFiTFFwNkFWYVA1OUJhNmszcDY0WHk5QVVzcWtNQmpZb1ZMMmdGMWRHRHpMY1hPelROel85bndoMmRucXdEZ3lYd2I0Uml3T3BjWVpMalF1OVhsZXFsV1U1QzRIUmlQdE9sRUlrdk1NWGIzTVJqV1pnUjFqOXREQ3djRjc3bHVsbmpIWHFzaVVSQWZMMkZZdw?oc=5",
-      "summary": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
       "company": "OpenAI",
       "title": "Advancing coding in low‑resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21NdVRPSTJNSUZiZ201OEo3U1Q0Rk9XVFJGaHVEWG1pczBSZzNpZVI2UXEwdEljb0F1UjJTUFRQOXBSTF9zQTNtRnhUcjBKRG9pVktwU1JXeWNiS0ZSZjBZaUhhakJEaU5YbEpBWG14MkUwTjhLX1RzU2NnY2ZvRER6VkVvNUVzemcwU0JzSWE4SmMzM3loLUdFR2JsMG9BbE9hS0ZrZFRGRVUtQ3BYYw?oc=5",
-      "summary": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports Reuters",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
-      "summary": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say Reuters",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81Rkp2RnpSZVNGbTEyaU9jeFkxdUJfZ1E5VGg4YUZmSklueTJPd0I5aElKMV9taERnOVNJUkJiZzhkbTVtNVFXajI4dHdoYWNJVnFHcGtPdnFtSWhKZUNsajU0YXA4bEM5M3ln0gFwQVVfeXFMUHhPRjNFT0tZOUVGcWRXXzN2ckRjcGpGb2J3TVlFRzAxelI5cmxEdGIwQm05eElzcWFQSmdQRVZJSHdSZEVnMkNad2dubW9WblV0X2t5UGxkdVBlUkF0aDRXUHNjbGZYMEp0YWJBZWlWUA?oc=5",
-      "summary": "Anthropic is AI trade's last big hope for a major IPO this year CNBC",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -243,9 +267,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5",
-      "summary": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal Bloomberg.com",
+      "title": "Musk pledges to give a share of his SpaceX company to ‘every kid in America’ - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakpVQ1NkRFNtZUtxVHd2V3d0N0lfcWRrY0JLVUFYNUxIaWt6Unpacm5CQWtTNHpVSy1QUGUyNU5VNFlzenE2N2NCWjBqVU0tejI5MWp3WW5tbndpc3NIcl9fbFp0OGlZOTZNRjI5ZlEzXy1yTjV1QlNFX3JaWFBaVEREVmJGNUhBMnZXTGZ3LTJORjZsVWtvVA?oc=5",
+      "summary": "Musk pledges to give a share of his SpaceX company to ‘every kid in America’ AP News",
+      "badge": "new",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21NdVRPSTJNSUZiZ201OEo3U1Q0Rk9XVFJGaHVEWG1pczBSZzNpZVI2UXEwdEljb0F1UjJTUFRQOXBSTF9zQTNtRnhUcjBKRG9pVktwU1JXeWNiS0ZSZjBZaUhhakJEaU5YbEpBWG14MkUwTjhLX1RzU2NnY2ZvRER6VkVvNUVzemcwU0JzSWE4SmMzM3loLUdFR2JsMG9BbE9hS0ZrZFRGRVUtQ3BYYw?oc=5",
+      "summary": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports Reuters",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -318,14 +350,6 @@
       "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW9RZnVwazZ3dkFPY3pzQ19vSFIxVDk3TndxOE5lMjVjanVDb0tXMGxKbEdkY3FkSjAyd1RXSXk0dTQ0Um9SdXZ4SFRBNVZvTU1ZYnpqS3VRTE5wck9ZNkFCYjBqN3lQUTR0Z2pvWTFIX01DOEstUUZ4MldyZ0dyb2MwWGxYeHpxTkx0bVhDbEkwOXdpbGIzV1NScTk3b2ZPcXNRamdsbUFrUVU?oc=5",
       "summary": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents MarkTechPost",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta removes language that raised scraping and AI training concerns - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjBudXBlX2FJZ0FRV1pwVWp5dFJTVWM5ZU90UHpKQmtHeGk1Yjd5M0xkUUstUjJ0ZEdiUDlGdmEwbzQtQzhjMm5PVGtIOU5qN2pMeXRpQkNIWWtoMXFFUjNEMlZUT0FPVHpNSUs1cHRtRU0xUUVFNHpudFJZMXJyLW5iaVBNcEFvQUpXSDRWR295WU4zSDM0bV81YnNUNkZrUnYtTQ?oc=5",
-      "summary": "Meta removes language that raised scraping and AI training concerns TechCrunch",
       "badge": "new",
       "date": "2026-10-17"
     },
@@ -434,36 +458,12 @@
       "date": "2026-10-15"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnZhTVNQWUhNTU1INWtYdGlGLVFGVmdRNk5TaW4xeHNhR1RlbVRVMDhiUlZxaG9paXNwOGxyVUtRQXM5LXRHd2tERHVZRjlydlRiUUNqWEZHYTJDd3lJc2pSMzliNXBNakFHaUFIWnJDVDE1bWdwY0FkVkc1WUN3LTNpUFd5Z2ZYSE1MT3VuNVZlZmhlQTVIUUdjdDhfU1MyUWU1OFZYaUJIMzVubFJnWGhWRDdaU1lRdnVTQjlySE9YdWM?oc=5",
-      "summary": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech Law.com",
-      "badge": "hot",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Launches Copilot for Legal – Brace for Impact! - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRENsbnZuMnE1bUdIbzZZTGk4czRMLU5SUHduR3Y3cFhZY3NIajJZaUx1aF9hbFBSaGZQQ2kzYWF4b0J2MGxKN0RYdExyWXpRWHdka01aOXdJRHNTYnQ0eS00a01qenI3Q1FKVVJaWHRnNy1wZnpGenM2dTg5M0FaTF9LRy1DVUxFcEgzWUxNMnBzRUhSOHdMU0h3cmMxN1E?oc=5",
-      "summary": "Microsoft Launches Copilot for Legal – Brace for Impact! Artificial Lawyer",
-      "badge": "hot",
-      "date": "2026-10-15"
-    },
-    {
       "company": "Apple",
       "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
       "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
       "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.",
       "badge": "hot",
       "date": "2026-10-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "badge": "new",
-      "date": "2026-10-14"
     },
     {
       "company": "Apple",
