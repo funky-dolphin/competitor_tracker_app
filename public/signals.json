@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-21T16:27:59Z",
+  "updated": "2026-10-21T21:07:42Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI models are coming to Google Cloud",
@@ -43,6 +51,30 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm0xalYzS19NOGxhQ0ZpanpWeFpjN3g0VzZfVjROQ3RUemxqZmc3STZhdHlRUTlvZEJOaW52dzdVTUxOc09MMzlVeFlJSmc5V2p4WDdwWjRRaDZKMU5QbldoWHBIaTh0Qi1yc1JFaVNHM1BkQ25ucFZfbVJtWGNYMS1jRWlocDk5NUVheDVpclZEUTJw?oc=5",
+      "summary": "Anthropic takes on Muse with Claude Duet, its new AI agent The Verge",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+      "summary": "Anthropic unveils Claude Duet AI agent app Reuters",
+      "badge": "hot",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
+      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Anthropic",
       "title": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5",
       "summary": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China Fox News",
@@ -78,6 +110,14 @@
       "title": "Microsoft Scales Back Copilot Integration in Windows 11, Removes Eight File Explorer Actions - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXZiZDRLYVhXNXVNZTk0QWhkdGktZVhzYzZpLXd4SzE4dG5TWGZFZEdNaUMwNlI2T2d3bmNQWUV6YlRGN1dXTjE2NXREV29XX25kc2pXd2NDZTNCYXdSQlpWeFUzMnJSS2pCY3pjX2UxM3VpcG5vNVBRTUFIQVJlcm5DVUw0RmdVV3JCR3NiSkRDeDVWMVJKOFhhQnlVRUZldzJZZUlHRjhpYkRYekd6UkFDZDhDNFE1N1RxSFVwbmd0dXFQ0gHKAUFVX3lxTE5zWVlIUFRfOFRYY3lLVjhMQUN3ODR4YUJfSHlSQ0dXLWs5TlpWV1VvLXBJUUY5eU5vUGVSdHVIMGxyUFpoc2l3WFBDNjNIOERkRHF4UGRETHhpV1JwZDN2X2VKN2hzbklia2dDeWkzOWR6YTdGZlRESHBuZzk5UGFMbVpqX0JEMzhMVWVsX1NJaG1YZldycDNSYVNITzA4VHd4OHZrcTQ3Z2NCVUE0NExrS3FrOFVaeUhXcHpGTGxqbUVlMGRud1FocUE?oc=5",
       "summary": "Microsoft Scales Back Copilot Integration in Windows 11, Removes Eight File Explorer Actions TechPowerUp",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Scales Back Copilot In Windows 11, Removing Eight AI Actions From File Explorer Amid User Backlash - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQjI5NTlWMTVoclpZdzVYeDcyaFE0SzJWUDN0NHQ5emlNcmJFYmE0ejMxT1FiUXdGMkJNTlViN0prNUdtQ0htdkNmN095dUJFbG15RWVZNGxfQTczbDFJYnNJUktZTWlyeUJkdmtrUGpBYjdMZTVlT3k2T2lhcHdVMnVKRHJzVUtjLTlwOHFTcjh0eHVubWlaRHhwZTNtR0E1Z0JwSV80cHgxQXZMTUpxSV9Icldoak84MDZtODNhZUlFVHdvcU9PbdIBzgFBVV95cUxOTmY1RUpVRHhHM1Y5UjR3ZnJVVEUzUV93dEozLUl1Z1VvUXVrSVpCY3lOZDh6RWpHajctLV9fNVVEWjEzV3oxNl9aeGtDS0RiMDR6TG1ZTkpkRHhyRjdiM0sxVFBBc3JRa0dMeGNjYnpmbHNzWVlGZTFuNVk1Rk5RZkZSTS16SWRLZ19jVjFOVWJacGFFRmZfZ1ZzVlJ6UnZ5eFU1YkZENWo4NDhKYW9TdTN6QV9UNk1rbmZVTHduUENpbGN6d3Fodm02TUxtQQ?oc=5",
+      "summary": "Microsoft Scales Back Copilot In Windows 11, Removing Eight AI Actions From File Explorer Amid User Backlash Wccftech",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -226,30 +266,6 @@
       "date": "2026-10-20"
     },
     {
-      "company": "Anthropic",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOejdoZGdqRDhIcFpYUlJrR1pEZ3RhUEFuRUhJTWw4eXp2bUVzbHMwWk9TOWkwUlkxODBrT0dTd241ZmxtV0FWZ2o5Yk1UNEs4M0d0OHlRRTFWbEItU2loOFR6c3NJcFRWNkdmRG81TDh0cnlyblZOOXl6TUxRdjJsMTQ2akFISUV5akpobndSUUpNc3dPVXhWYWtCQ3dUejVnM3FBWE1HbnhDb0tZeW9zWUZ2eWZmdw?oc=5",
-      "summary": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei TechCrunch",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Will Be The Last AI IPO Of 2026, As Industry Collapses - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVl2Ym13cVBsZTNRWlVOTzNxVmJoR1VIbWRPMGtwWm1DaExGQTU1clozVDd0LWdneFpWV0g2Sk1hS082RjJ2MENTN0RKNjU5YzNnYk0xdnk1NVhHbGllbVhkX21vR1JTUnF5WkR3V2tYTVMtdTNHUmVqQ0xCbGR5S0dEa09uWVNKOEl6RlNyd1Q0bFVh?oc=5",
-      "summary": "Anthropic Will Be The Last AI IPO Of 2026, As Industry Collapses Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI takes on great experiment in self-rule - Axios",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMHZpdFZTX09GU2ZVNk1FWnR6RV9oTFpTOTVLMUZKeGZBNW02Rk82OW1WSEduR25TNUw4ZVltR0hyTFFwQldTd2VtajR4V0JoTVZab2dIbnBfRS01WTRpb05WUzJHbGdsdnRJ?oc=5",
-      "summary": "AI takes on great experiment in self-rule Axios",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
@@ -259,17 +275,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out - The Register",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNWU1g1bzY1RmxET2JBS0dTWUd3ZmxFOFQ2aUI3TWVCcE1DN190RW1qMFNPLTZlZVFWZnpWUm5ZcUtHcVYyYy10NjBOeGs3aThCNzJFUFNBRnJCOENRSHV5TG9GOHprVThGdThYejdMbmRoSkNlUHhrZDNpLTVhTElmTkJ3OVFILUNjdkp0ZVNyUjlVSUdZcTVjeE15RzFWTnZZVmFwZklGVFpJNVNyWUMyTURXXzFHX3lUcTJOc255UkU?oc=5",
-      "summary": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out The Register",
+      "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
+      "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
       "badge": "new",
       "date": "2026-10-20"
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
-      "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
+      "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNWU1g1bzY1RmxET2JBS0dTWUd3ZmxFOFQ2aUI3TWVCcE1DN190RW1qMFNPLTZlZVFWZnpWUm5ZcUtHcVYyYy10NjBOeGs3aThCNzJFUFNBRnJCOENRSHV5TG9GOHprVThGdThYejdMbmRoSkNlUHhrZDNpLTVhTElmTkJ3OVFILUNjdkp0ZVNyUjlVSUdZcTVjeE15RzFWTnZZVmFwZklGVFpJNVNyWUMyTURXXzFHX3lUcTJOc255UkU?oc=5",
+      "summary": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out The Register",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -291,10 +307,10 @@
     },
     {
       "company": "Perplexity",
-      "title": "AI security hiring focuses on red-teaming, SOC orchestration and governance - Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFpMFhyRVI2czJRTHRnZEo0LTNKaFg1S3JlTGpKOGdKOVdNb3VhQXpieDBUSGlxQ0c1VV9PajlSeTgtVzdZcHJLWEktWHNld2YtNWFyVnkxMks4eTVua3VsbXVBbHBaWUttWWhJX0hDckNGS1RNYjJDRjRyTEQ0VlZ5andmRWhjb2JZ?oc=5",
-      "summary": "AI security hiring focuses on red-teaming, SOC orchestration and governance Cybersecurity Dive",
-      "badge": "watch",
+      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
+      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
+      "badge": "new",
       "date": "2026-10-20"
     },
     {
@@ -307,17 +323,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity’s Computer can now run entirely on your Mac, even offline - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpveHFqWk81cFJPQ1hfWjlack1BLXNZMmhUVVdzNlNLRFNRRGdoaW1uZno3bVR4UF9IMTllaDM5NXJDdk1maUxXdzZTZXZqSlhfajhYLTBrQnhIYUpjcXF0QnBCTXdVNk83cmZ6a0RnUGI3YWc5UlZlMHVxWHhZZ1JESG42LXVkTGJLMjFQcUx2b3JxNHFCUFNFbGdrT1U?oc=5",
-      "summary": "Perplexity’s Computer can now run entirely on your Mac, even offline 9to5Mac",
-      "badge": "new",
+      "title": "AI security hiring focuses on red-teaming, SOC orchestration and governance - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFpMFhyRVI2czJRTHRnZEo0LTNKaFg1S3JlTGpKOGdKOVdNb3VhQXpieDBUSGlxQ0c1VV9PajlSeTgtVzdZcHJLWEktWHNld2YtNWFyVnkxMks4eTVua3VsbXVBbHBaWUttWWhJX0hDckNGS1RNYjJDRjRyTEQ0VlZ5andmRWhjb2JZ?oc=5",
+      "summary": "AI security hiring focuses on red-teaming, SOC orchestration and governance Cybersecurity Dive",
+      "badge": "watch",
       "date": "2026-10-20"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
-      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
+      "title": "Perplexity’s Computer can now run entirely on your Mac, even offline - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpveHFqWk81cFJPQ1hfWjlack1BLXNZMmhUVVdzNlNLRFNRRGdoaW1uZno3bVR4UF9IMTllaDM5NXJDdk1maUxXdzZTZXZqSlhfajhYLTBrQnhIYUpjcXF0QnBCTXdVNk83cmZ6a0RnUGI3YWc5UlZlMHVxWHhZZ1JESG42LXVkTGJLMjFQcUx2b3JxNHFCUFNFbGdrT1U?oc=5",
+      "summary": "Perplexity’s Computer can now run entirely on your Mac, even offline 9to5Mac",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -442,28 +458,12 @@
       "date": "2026-10-17"
     },
     {
-      "company": "OpenAI",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work - Neowin",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHpMckxIYUR0bzlONm9nRW1rVmY5WF82eUdDZWZzQ3g3TGJKOVJrVXdBbUhudllxWHhFbm1DNWdmb3JZa21SOFV5bWVmSEFYU3NaSHNkOWpRMkd6NFdLTzM1c0ZRRnNZaHJPYmM4ajRpRTZFZmNEb0ViaWs1eG51RU5GajFDTzZLM0E1MHBMdE9yTFhPeEJFZnJMR2M5WWpFM3h1LWxXcHJlaWlPc0YzZA?oc=5",
       "summary": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work Neowin",
       "badge": "new",
       "date": "2026-10-16"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical - LawSites",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUZTeHFON0FiQ0pLTm51eGx1YXVsT3VHOHdMTmJVbFRVVVUyNzZCVnpUbmxPaXR3SkIyN19maGNQMGVjaG5uZmlkZlk5UWVJOGdTcV93RjlZRlBOeE8zUHhSaElaODJQV0NFb3dDMnhIcGczUjZicFluSHdkR3llczVIVXp1V2pxcGhlZy01X25hOEs2X1pSRDZzbXRockRTVkpTMTRXQ0tIazlWZU9rcEdXVXlGeWZvTG93ZW93RVJyaDRnaWJTbUpHbGx1UnlBT3dCY2RBaDZKQWJsZldIVw?oc=5",
-      "summary": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical LawSites",
-      "badge": "hot",
-      "date": "2026-10-15"
     },
     {
       "company": "Apple",
