@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-21T11:01:16Z",
+  "updated": "2026-10-21T16:27:59Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5",
+      "summary": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China Fox News",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
     {
       "company": "Anthropic",
       "title": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
@@ -11,9 +59,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic CEO defends record on safety, sales to China - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5",
-      "summary": "Anthropic CEO defends record on safety, sales to China Fox News",
+      "title": "A $345,000 writing job at Anthropic says a lot about what humans still bring to the table - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3UwUjFDMXlwbEh1SzVqVlVXdzJlbnc4RW42S1ZiWjA4aEUtS3hLMGl4cE95QTRVeEczRmJBTEdpbWVDbHdCQU5wV01GcHkxeks1R09XcldGSWRucnNhUHBReTBRMWFJMmtJeWRCR012VW5IeGRPN1VaWXZ3LXlmZkdOQ2pseThjRWFzcA?oc=5",
+      "summary": "A $345,000 writing job at Anthropic says a lot about what humans still bring to the table Business Insider",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -22,6 +70,22 @@
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Scales Back Copilot Integration in Windows 11, Removes Eight File Explorer Actions - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXZiZDRLYVhXNXVNZTk0QWhkdGktZVhzYzZpLXd4SzE4dG5TWGZFZEdNaUMwNlI2T2d3bmNQWUV6YlRGN1dXTjE2NXREV29XX25kc2pXd2NDZTNCYXdSQlpWeFUzMnJSS2pCY3pjX2UxM3VpcG5vNVBRTUFIQVJlcm5DVUw0RmdVV3JCR3NiSkRDeDVWMVJKOFhhQnlVRUZldzJZZUlHRjhpYkRYekd6UkFDZDhDNFE1N1RxSFVwbmd0dXFQ0gHKAUFVX3lxTE5zWVlIUFRfOFRYY3lLVjhMQUN3ODR4YUJfSHlSQ0dXLWs5TlpWV1VvLXBJUUY5eU5vUGVSdHVIMGxyUFpoc2l3WFBDNjNIOERkRHF4UGRETHhpV1JwZDN2X2VKN2hzbklia2dDeWkzOWR6YTdGZlRESHBuZzk5UGFMbVpqX0JEMzhMVWVsX1NJaG1YZldycDNSYVNITzA4VHd4OHZrcTQ3Z2NCVUE0NExrS3FrOFVaeUhXcHpGTGxqbUVlMGRud1FocUE?oc=5",
+      "summary": "Microsoft Scales Back Copilot Integration in Windows 11, Removes Eight File Explorer Actions TechPowerUp",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVlXSDMtV2hxcG5LdUhpMG90cVUzN0RuYWVhLW5CdHhQNlM5YjJiakdEUzZtX1lyRThaSnZSZXRfWWNiaEZOY2hVV2RjTlAtME1TSDVSLWVpXzFCMElyNEk0a2RLaXlHbkFXZ21PZ2NyV0thT3plTFRCMEh2Ql9NWnJKN1lTNmE1MW5kX1VRNElPVUlqWUNPRjJSMG9kOHMyTDhYN1J3?oc=5",
+      "summary": "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one MakeUseOf",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -74,6 +138,38 @@
       "date": "2026-10-21"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity Computer now runs fully locally, securely, and privately on Mac - MacDailyNews",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkRrdTNhUGhKYUpGTlo1TnlCUGJITmVKaXQxRi1BOGhkbU0zYXB2T0h5ckpTTDlORlNQSDRwaTlkUWNWNTVoazVQdHpMQUcxY3dhaGR2TTZ6eDhxLWY0Wlc1ZW1MVGlHWWo2eWF5UVJZZTRiVDh4M2pGQUh5NXl6cWJCT01rV0tlMXdMU2hyejhUWEZPZ0ptajlQY3NzRHJFcWhrcVdaVzk1YmZqQVHSAbMBQVVfeXFMTkRBbGRSdTZTdE5UVW1fUTFCTU5pTmwtMDd6Q2hFN1Yxcm1HaHdnM0J4S3lmZDlyMlFMTUxBOGhzYzJqLTc0MF9XeTd2SV9qYXZxX2k5MnVSanYwcFdpMFYtREloQm02OGJvdF9NY2Q3MU4wM1d1bEZObjkwZ0p3akp5aDBKcWowckhkeDRFQ3BFa2xZbXYtOHVIdkR1VFVoQ1NjaG9aQnYzSjQ2WWRUQWppRkU?oc=5",
+      "summary": "Perplexity Computer now runs fully locally, securely, and privately on Mac MacDailyNews",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Perplexity",
+      "title": "How AI Agents Are Changing Online Shopping - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0ViNUt1djJPMFItRzdQUU1jNE1yOGU5UHBoOElvYmpXUGNXQTJwOFJSRldsN2VoemgxbHRRMU1sYmZXTzNEcGJrRldUaXE4c043ZE96ZnUwSVZJYmZfRzBSZzMyb0dTc01LN3hPZFF0QXlqYUxXM3lOcTdSLXhyRDFB?oc=5",
+      "summary": "How AI Agents Are Changing Online Shopping Newsweek",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI agent Muse set up Marketplace sale without telling him — and gave out his address - CBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZ0ozS2k0VFljMURVQjNMRXF4ZHVyQThJVEMwNUhmcTR4eWQ5WDQ5SEpWckFVOEtKNlZGMzdpWnVOQjE4bjN2cTZkdlJTUGRBS2JoWGxvNllnSVJtWUU2bGoyYi1fdDF4YnQwMVh4RkdnZVp6ZUlNd3NqNlFudG8?oc=5",
+      "summary": "Meta's AI agent Muse set up Marketplace sale without telling him — and gave out his address CBC",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHBBZHZ5SmlfMlJld3djNmdPcTVXN0txckV0cGpLbTFZRVIwV21XTnJaVFFHcW1nMERidkNvYW1GamNKQTBkdVlkcC1ZbTd4aTJSNUVEY0toLVV5cERuZmk4dDBLWkRBZFpqWjZTMlZqRFhGQlEzdnZvZjdIMjlVVUZkcGdnSS1IbmMzVUtQSUNRTnBVaWpVT01JVUppQUQ2eG13b1JEdVRHbjk2dlJDY3Vlc3M0VExYbThjLXRudlNJRXZ1dVZtYQ?oc=5",
+      "summary": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook MarketWatch",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
       "company": "OpenAI",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "url": "https://openai.com/index/ted-taylor-restaurant",
@@ -101,7 +197,7 @@
       "company": "Anthropic",
       "title": "Anthropic logged net loss of over $80 billion in first half of 2026 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
-      "summary": "Anthropic logged net loss of over $80 billion in first half of 2026 Reuters Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs WSJ Why Anthropic can't afford to delay it",
+      "summary": "Anthropic logged net loss of over $80 billion in first half of 2026 Reuters Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs WSJ Anthropic to publicly file for IPO as ",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -155,6 +251,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
+      "summary": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” Windows Latest",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Microsoft",
       "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out - The Register",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNWU1g1bzY1RmxET2JBS0dTWUd3ZmxFOFQ2aUI3TWVCcE1DN190RW1qMFNPLTZlZVFWZnpWUm5ZcUtHcVYyYy10NjBOeGs3aThCNzJFUFNBRnJCOENRSHV5TG9GOHprVThGdThYejdMbmRoSkNlUHhrZDNpLTVhTElmTkJ3OVFILUNjdkp0ZVNyUjlVSUdZcTVjeE15RzFWTnZZVmFwZklGVFpJNVNyWUMyTURXXzFHX3lUcTJOc255UkU?oc=5",
       "summary": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out The Register",
@@ -166,14 +270,6 @@
       "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
       "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” - Windows Latest",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
-      "summary": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” Windows Latest",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -243,17 +339,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yUGlOQ2UwMGVnTlVQQmFVQ2MtcWdDRThmTXk3THl1QW1KSzM5TndiMWE1bUdFeS0wUDlkRXNqX0NrcERMck9MYVdqSWZwcGdNMk1lbU1lRDNvUjNmWFVQSGR5SDdiVXByYmNqNmV5bGxBWW9CcXc?oc=5",
-      "summary": "Meta pauses Muse sharing after researchers find AI chats on the web The Verge",
+      "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
+      "summary": "Meta's AI spending, Muse assistant adoption in focus for quarterly results Reuters",
       "badge": "new",
       "date": "2026-10-20"
     },
     {
       "company": "Meta",
-      "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
-      "summary": "Meta's AI spending, Muse assistant adoption in focus for quarterly results Reuters",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yUGlOQ2UwMGVnTlVQQmFVQ2MtcWdDRThmTXk3THl1QW1KSzM5TndiMWE1bUdFeS0wUDlkRXNqX0NrcERMck9MYVdqSWZwcGdNMk1lbU1lRDNvUjNmWFVQSGR5SDdiVXByYmNqNmV5bGxBWW9CcXc?oc=5",
+      "summary": "Meta pauses Muse sharing after researchers find AI chats on the web The Verge",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -298,14 +394,6 @@
       "date": "2026-10-19"
     },
     {
-      "company": "Anthropic",
-      "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5",
-      "summary": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
       "company": "Microsoft",
       "title": "Windows 11's Hybrid Intelligence features will breathe new life into Copilot+ PCs - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTElDLXRFbXdvbHBlYTFXeXUzOVJ3RU95V2d4N0M2cTR0YlJRNmpTUTBKNHg4RFNfRks4VlRwUHo3THcyV0JsMUFlc0ozUGZ5VU1heDlqOThySHJuTlNMNXRWUkdxU216SVhfaDhnbVVIUF9HQjlqaGZ2Nk1pMVFSOEFuM1JKSUYxVXhiVnJzeExTVHd5WlUyVGxrcGR5alhzTnl1MlZUOVlMMUMtbUdxR0tpeU1HUFRIV2ZybWZWR2pFLS1pQ0YwTmtCT1lBc0Mwbm9EOXl2TDZ6aHVkVjgyLUZzN050NEdzejhHd3cwRm1JZzZxcHdYVDBoVFphTEo3a3hsQjFXWTN6WmtkUkVIbEdHV1llakdpbGRFWGlvT20?oc=5",
@@ -330,26 +418,10 @@
       "date": "2026-10-19"
     },
     {
-      "company": "Meta",
-      "title": "He let Meta’s AI agent sell a keyboard. It sent a buyer to his home - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEhHYzFvbXg5dmVfTjFoY1NOZWVhSW9QMkFBSGVVZmcwM3BqdGh1YUpmc0hwWThkaWtubENySU5QLXRjTS1NWUNxQXZpZGFHRnJWeFNNT1lxT2Y3d21PMy13V2M5c21tY0ozeTNVM2x1YkFEUlVvSVg3UXdqdnhFSWl2UEF6a0VPaGhrZ3Y1NV9Ic3NBR19zd0RiTnR0QXpSVzZZSXBFWmNBR3l5R21kWg?oc=5",
-      "summary": "He let Meta’s AI agent sell a keyboard. It sent a buyer to his home Los Angeles Times",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity vs ChatGPT vs Google AI Mode: 37% vs 67% [2026] - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41bUxaRm1nQmxqaW43UUFrNHdqbFRxejJNbFZzUjdKdkJOWEFPbW4wZmcyOWcxblk0dGtFVUFJTFJPVjYxaTd1VTA3Qnl2cnZqOWZ0WTJWMWY5YTFzSnhIckFMR0ZTeW81elpCaTRzLVBwQkdhYmhIX2pB?oc=5",
       "summary": "Perplexity vs ChatGPT vs Google AI Mode: 37% vs 67% [2026] https://tech-insider.org/",
-      "badge": "new",
-      "date": "2026-10-18"
-    },
-    {
-      "company": "Meta",
-      "title": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcGljR2F3bXBwbUxGYURZMS1zaDlDcHpDaFhqMFZVSUhTcEh1emw0cWZLRFQ0dXhva1QxbThudmptcTlWSkh3M0hjSVJNQnZFOEZIaF9FSHhBQ3l0aGpJYXZNX0x1YTJUVnFpNHBuSWNnRWhYMVJZM3VVNA?oc=5",
-      "summary": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits Futurism",
       "badge": "new",
       "date": "2026-10-18"
     },
@@ -378,22 +450,6 @@
       "date": "2026-10-16"
     },
     {
-      "company": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work - Neowin",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHpMckxIYUR0bzlONm9nRW1rVmY5WF82eUdDZWZzQ3g3TGJKOVJrVXdBbUhudllxWHhFbm1DNWdmb3JZa21SOFV5bWVmSEFYU3NaSHNkOWpRMkd6NFdLTzM1c0ZRRnNZaHJPYmM4ajRpRTZFZmNEb0ViaWs1eG51RU5GajFDTzZLM0E1MHBMdE9yTFhPeEJFZnJMR2M5WWpFM3h1LWxXcHJlaWlPc0YzZA?oc=5",
@@ -402,67 +458,11 @@
       "date": "2026-10-16"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI open-sources its secure AI agent sandbox SPACE - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzYwUlNKRjB5dGNUak1GSmotZUxJeTZpbDZWZXlCYVZvRkd6LTluZ25Eb29URi02dk44ZTFHOTEwbXgxVHBDVTJVVGVEWGhmUXNKSldRbWtOcjNYYXVoVGtSVURVam9RRWw0X2VIaTZWTGo0SWYteEJVVFJyeGRkTm5vcnFjcnc4S0pvUFBZOFdYZ2FseGpnV2V1b0hBdw?oc=5",
-      "summary": "Perplexity AI open-sources its secure AI agent sandbox SPACE SiliconANGLE",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbndjdTZKa19LclRhSEIzaFNuNDFtVmRnRnNyMmRxY3FOVEdHWi1QMjRZWkJKX3A2VTNhUnI0OEJDXzVfczhEYkI2OEViSzdpT2pZQzNmRGdHX1ozeWFhZTl5RzhpMVBxdUljcWdBeF90UkxuQk5TMDJHZkh2MnVKSUhhQ21JUQ?oc=5",
-      "summary": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy tech-insider.org",
-      "badge": "new",
-      "date": "2026-10-16"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "badge": "hot",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical - LawSites",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUZTeHFON0FiQ0pLTm51eGx1YXVsT3VHOHdMTmJVbFRVVVUyNzZCVnpUbmxPaXR3SkIyN19maGNQMGVjaG5uZmlkZlk5UWVJOGdTcV93RjlZRlBOeE8zUHhSaElaODJQV0NFb3dDMnhIcGczUjZicFluSHdkR3llczVIVXp1V2pxcGhlZy01X25hOEs2X1pSRDZzbXRockRTVkpTMTRXQ0tIazlWZU9rcEdXVXlGeWZvTG93ZW93RVJyaDRnaWJTbUpHbGx1UnlBT3dCY2RBaDZKQWJsZldIVw?oc=5",
       "summary": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical LawSites",
       "badge": "hot",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMWJLZjF0emdwNkZQekdCZFdUbnI2eUFXc3FpYVBpZHpYZ0t2czdmUmcxOWQtWWZaM3BzS1pSdWJKVnRTVTRRazJudnJRQmhLWGhXeEwzYkhvNmJaXzVnb3VRUWdtNlB6LWRLZlRBQWFfVUdBVGFEN3p2OEdjWklEb0Z1U0JFbWdpOENEYU5UMkpSem5VcVNqSHJmSTFlQkpaZkhYSGZ2RDJyN1JEY0MzVEtJYlVabTVwZ095Z2dGazRka2lZREktbVd2RXJLNkhIM3hKSlc0UkhDYm1aSTRlU1MzYXVvZG14bTZ4WE9UTVA3X21GR2RfblNMZDFSeThTR054eg?oc=5",
-      "summary": "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio Microsoft",
-      "badge": "new",
-      "date": "2026-10-15"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot for Legal: What Will Be the Fallout? - Artificial Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlluUkpYTkkwWWFzNXpsNEJzMlZKS1FCU3ZBNFIzakpSN2pPZDZWaUs1OUU1MzFPV3g3RVNWUG41YUVUMmkwaDhJUmlRakxRSkhGa0R4X3hjMnhqeGwwZURHRlFqZFNGbk1KREUxSHJvdEFycGpuZWN5OEZRUThOekdkRWMwN2NqdEZoNG54T2ZkNm9RX2p3ODgyd1FuUQ?oc=5",
-      "summary": "Microsoft Copilot for Legal: What Will Be the Fallout? Artificial Lawyer",
-      "badge": "new",
       "date": "2026-10-15"
     },
     {
