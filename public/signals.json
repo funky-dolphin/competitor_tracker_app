@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-22T16:28:30Z",
+  "updated": "2026-10-22T21:06:52Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
     {
       "company": "OpenAI",
       "title": "What FDE means at OpenAI",
@@ -10,10 +18,10 @@
       "date": "2026-10-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic's top engineer reveals just how far her team has gone with AI coding - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1ozdXdwU0xrLW9uTW9US0NpV3hOMWNrcVdXREw1a3hvUkxqUERlTkl3M1NGd0JQcTJ4RnlaNE5ZNWd6MGlCbjVzbmtqbElPZ1VVSENRSTRzMVIxY0dFbEg4TUF3SVFtREY1Uk9kTTczcG9OVjVUWUpJck5Nai1PMmhJX2o0bUxaQ3dqQm52S014TjRYZU5Mb0JPeVZBNDg?oc=5",
-      "summary": "Anthropic's top engineer reveals just how far her team has gone with AI coding Business Insider",
+      "company": "OpenAI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -21,7 +29,31 @@
       "company": "Anthropic",
       "title": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5",
-      "summary": "Anthropic IPO stands alone as AI market jitters sideline others Reuters Anthropic to publicly file for IPO as early as Friday, sources say Yahoo Finance ‘Paralyzed’ US IPO Market Asks If There’s Life ",
+      "summary": "Anthropic IPO stands alone as AI market jitters sideline others Reuters Anthropic to publicly file for IPO as early as Friday, sources say Yahoo Finance Anthropic IPO to Drive Blockbuster Gains for Ic",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Youngest billionaires in America are mostly AI founders - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hODVZMWotc19aeHlrUFpfZ2N5SU1vVWp0ZWJ3aXJCSVI2RHhleVNqelBrTWdZRHl2eXRSU3R2cjI2b1EwNTRvcEVtcnZZQWRjWldWa1h4NTJBc3ZyTTVIWTd3?oc=5",
+      "summary": "Youngest billionaires in America are mostly AI founders qz.com",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Alex Kantrowitz: Google, Anthropic, OpenAI will be looking for ways to fund the backbone of AI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWDI1bllvaXE2aGtTUzhvQ1padTVhbF9hVlFVNHQtdUh4M05CdnJDeDdYYko5WXlIZHotNjhtanRPLXlwekNQckdPczVTU3RCaDgyV1hHZlNIOTQzY1g3cl9VLUNKZ1I4MzJVNXNJSWR6TzJ0d0RuMkZmUHpudGFncWNhRUdNRkZUbUV2N001ZXRSLWNYVU9leks4RmJRZ2cxNUQzaTJNM0JNNm54NlZpWHE3NVAwcnNWNTBJRElwSTdpSlRRWGJCMC1DakxQRWc?oc=5",
+      "summary": "Alex Kantrowitz: Google, Anthropic, OpenAI will be looking for ways to fund the backbone of AI CNBC",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's top engineer reveals just how far her team has gone with AI coding - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1ozdXdwU0xrLW9uTW9US0NpV3hOMWNrcVdXREw1a3hvUkxqUERlTkl3M1NGd0JQcTJ4RnlaNE5ZNWd6MGlCbjVzbmtqbElPZ1VVSENRSTRzMVIxY0dFbEg4TUF3SVFtREY1Uk9kTTczcG9OVjVUWUpJck5Nai1PMmhJX2o0bUxaQ3dqQm52S014TjRYZU5Mb0JPeVZBNDg?oc=5",
+      "summary": "Anthropic's top engineer reveals just how far her team has gone with AI coding Business Insider",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -62,6 +94,14 @@
       "title": "Anthropic Could Take Major IPO Step as Soon as Friday: What Investors Need to Know - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPczdObXNwYWRORFVlS195RS1ER0plOXZxYmRlZTBJbVp2cVhVRHpyd0ROZTNaMEJFUEFIdG9kZDNPVzJ0WV9qNjdBenJobjI5b0hzQTFXNUxDOHo2TmpRbk5BVHBPNXNqRVNsaHVTUnRERV9uR1RzMUdTbTY2WVZVdnhHQnQ0TFFqUmUtQWxyWWd1XzVGeXJkVURn?oc=5",
       "summary": "Anthropic Could Take Major IPO Step as Soon as Friday: What Investors Need to Know Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
+      "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -149,7 +189,31 @@
       "company": "Meta",
       "title": "Meta's AI build-out comes with an $825 billion price tag - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjBURUhlWENudEZMUzZ1OGZCNmZBTXVIbURucGY3azBMbTJXaGkxaS1nVTMwRWo5VnhlUlcwc05fc19LVmVyeU5hYWxXbnl3U0pXTUhZdHVhRks3QUg1NmZmdllDSFFqdzlOZ3RUVkxJSm4tTmlEU05MZHFzTUQyNzZDSklEcmxWQlBSMFlZclRhZ3pabkFTYWIwYnZ4RDdtQjBV?oc=5",
-      "summary": "Meta's AI build-out comes with an $825 billion price tag Yahoo Finance",
+      "summary": "Meta's AI build-out comes with an $825 billion price tag Yahoo Finance Meta shares slide, default insurance hits record as AI spending alarms investors Reuters Meta reports third-quarter revenue beat ",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI could still scrape news sites, legal experts say - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjEwVHJwV0FYSGtBT2ZtSGVQbW5CdkRvaGRLR25YRXdHNDFmZno0STkxU2FTQnlya1E0a0Z3OVNzWTZpVExveDloQnJfRndwUnRQdEZHWFpkT0IycURhVV9YamZwNk54R3daZ0s1WXZUVkxjVE9HSkFMV2NUMGNZWFlB?oc=5",
+      "summary": "Meta’s AI could still scrape news sites, legal experts say The Verge",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Falls After Boosting Spending Plans for AI Bet - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWw2TXFoSmlmM18yRERkMXpHSGdDN0lWbzl1ZGVNczh4aUYxU1JmZkJualZKREM2Q3JmcjFtWE50a0JUR283UU5XdFk0d1UwSGh0QzdDM3puaU51MjlQM2k1dVdUSVBpZnVOTWI1SWg4eUN0OU5SY0ZfT2ljT0JOemxvd0JDb2tlY2lYWEZFT2VNZ1lka3RIbklORkgwUWJLMzE1XzNUQ0VReEtTaTl5U0Ezcw?oc=5",
+      "summary": "Meta Falls After Boosting Spending Plans for AI Bet Bloomberg.com",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR?oc=5",
+      "summary": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings Forbes",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -245,23 +309,7 @@
       "company": "Anthropic",
       "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
-      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times Anthropic unveils Claude Duet AI agent app Reuters Claude Duet app is Anthropic’s bet on agents TechCrunch",
-      "badge": "hot",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic to publicly file for IPO as early as Friday, sources say - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPREpSeVQzcmx3WVBKdmRna3pObmZqMEpoN3hvcGpid1JuZEJRODNnZUg5X19DQmJDT2E5YnRqQTNwbWJwMjVPVXQ2MDBLRmNXd1VMOGFScHl6cE9GWUp3LWc0UTAzcGJtRnJiR1ZqdjNWWkZwVV9OX0Y5WkVER2RMMHhmZVBjYVR5aVN2ME1nd3BNNWdQNTFGOTMtM245MGpEOGhRTFNqSlZ0bnBwQmRHZVlLeXJOVFhCZDd3TEpnNA?oc=5",
-      "summary": "Anthropic to publicly file for IPO as early as Friday, sources say Yahoo Finance EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say Reuters Exclusive | Anthropic S-1",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
-      "summary": "Anthropic unveils Claude Duet AI agent app Reuters Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times Anthropic announces preview of Claude Duet, a personal AI agent to take on Mu",
+      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times Anthropic unveils Claude Duet AI agent app Reuters Anthropic announces preview of Claude Duet, a personal AI agent to take on Mu",
       "badge": "hot",
       "date": "2026-10-21"
     },
@@ -362,58 +410,10 @@
       "date": "2026-10-21"
     },
     {
-      "company": "Meta",
-      "title": "Meta's AI agent Muse set up Marketplace sale without telling him — and gave out his address - CBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZ0ozS2k0VFljMURVQjNMRXF4ZHVyQThJVEMwNUhmcTR4eWQ5WDQ5SEpWckFVOEtKNlZGMzdpWnVOQjE4bjN2cTZkdlJTUGRBS2JoWGxvNllnSVJtWUU2bGoyYi1fdDF4YnQwMVh4RkdnZVp6ZUlNd3NqNlFudG8?oc=5",
-      "summary": "Meta's AI agent Muse set up Marketplace sale without telling him — and gave out his address CBC",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
-      "summary": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments Reuters",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's AI bet faces Wall Street - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zUHBaa1VWQzZTeWxrUHVHamJITzJfbTJxWjI3bnY2NGl6ekc0SlI1UjZ0QWdJOEJCWlhZUkFBLUlGTktpNlFFWUJ4cU5GMzJRM1BESjhjUWoyNTgxRTFYelNQdmxqVmNTeE1iMGhvaTZ4Z05pdUF5N0xpZ0hhZw?oc=5",
-      "summary": "Meta's AI bet faces Wall Street CNBC",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
       "summary": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” Windows Latest",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
-      "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -443,17 +443,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
-      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
+      "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxIcE1tbHBxUTBWYVFsQjF6WFNXeFQzWE9PTElvOTNHWmk5NzlxcTJtX2tZSTdNQTN3X0VPWWN2Z2U5ME9nbUxrTTR1bEREaENLSUlBWHRnWThDUjNKMGlWUFVlbUlnNGV6amZaaHJialV2ejBWU0IxQTYyc19JZ0c1dWktZmx5dWc0WUxGdVJ4UUV6b2NtUExDUFVHdTVIU1g0?oc=5",
+      "summary": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac Engadget",
       "badge": "new",
       "date": "2026-10-20"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxIcE1tbHBxUTBWYVFsQjF6WFNXeFQzWE9PTElvOTNHWmk5NzlxcTJtX2tZSTdNQTN3X0VPWWN2Z2U5ME9nbUxrTTR1bEREaENLSUlBWHRnWThDUjNKMGlWUFVlbUlnNGV6amZaaHJialV2ejBWU0IxQTYyc19JZ0c1dWktZmx5dWc0WUxGdVJ4UUV6b2NtUExDUFVHdTVIU1g0?oc=5",
-      "summary": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac Engadget",
+      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
+      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
       "badge": "new",
       "date": "2026-10-20"
     },
