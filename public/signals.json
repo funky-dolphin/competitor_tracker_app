@@ -1,11 +1,59 @@
 {
-  "updated": "2026-10-21T21:07:42Z",
+  "updated": "2026-10-22T02:57:12Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple unveils the 2026 Designers of Tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
+      "badge": "hot",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "badge": "watch",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
     {
       "company": "OpenAI",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "url": "https://openai.com/index/att-legal",
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -51,9 +99,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm0xalYzS19NOGxhQ0ZpanpWeFpjN3g0VzZfVjROQ3RUemxqZmc3STZhdHlRUTlvZEJOaW52dzdVTUxOc09MMzlVeFlJSmc5V2p4WDdwWjRRaDZKMU5QbldoWHBIaTh0Qi1yc1JFaVNHM1BkQ25ucFZfbVJtWGNYMS1jRWlocDk5NUVheDVpclZEUTJw?oc=5",
-      "summary": "Anthropic takes on Muse with Claude Duet, its new AI agent The Verge",
+      "title": "Anthropic to publicly file for IPO as early as Friday, sources say - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPREpSeVQzcmx3WVBKdmRna3pObmZqMEpoN3hvcGpid1JuZEJRODNnZUg5X19DQmJDT2E5YnRqQTNwbWJwMjVPVXQ2MDBLRmNXd1VMOGFScHl6cE9GWUp3LWc0UTAzcGJtRnJiR1ZqdjNWWkZwVV9OX0Y5WkVER2RMMHhmZVBjYVR5aVN2ME1nd3BNNWdQNTFGOTMtM245MGpEOGhRTFNqSlZ0bnBwQmRHZVlLeXJOVFhCZDd3TEpnNA?oc=5",
+      "summary": "Anthropic to publicly file for IPO as early as Friday, sources say Yahoo Finance Why Anthropic can't afford to delay its IPO Axios Anthropic logged net loss of over $80 billion in first half of 2026 R",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -61,16 +109,8 @@
       "company": "Anthropic",
       "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
-      "summary": "Anthropic unveils Claude Duet AI agent app Reuters",
+      "summary": "Anthropic unveils Claude Duet AI agent app Reuters Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times Anthropic announces preview of Claude Duet, a personal AI agent to take on Mu",
       "badge": "hot",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
-      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times",
-      "badge": "new",
       "date": "2026-10-21"
     },
     {
@@ -86,6 +126,22 @@
       "title": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5",
       "summary": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk Politico",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm0xalYzS19NOGxhQ0ZpanpWeFpjN3g0VzZfVjROQ3RUemxqZmc3STZhdHlRUTlvZEJOaW52dzdVTUxOc09MMzlVeFlJSmc5V2p4WDdwWjRRaDZKMU5QbldoWHBIaTh0Qi1yc1JFaVNHM1BkQ25ucFZfbVJtWGNYMS1jRWlocDk5NUVheDVpclZEUTJw?oc=5",
+      "summary": "Anthropic takes on Muse with Claude Duet, its new AI agent The Verge",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
+      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -123,6 +179,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXlXNEc1SFI3YXR6RXBmbzNtdjVxUUp3M0tBYUZVZXNDNm1rSmZHVGhzNml0bU93RnhDOEVpcDRGbThMenk3eEYzMkt4M0RoNlJMY2wwaGFmdENKUG41ZVQ3aWJvN1lVazhXZHN1eFlSdjFaTzc5YlRZV3VNcS1ZMGREa2FEYXJaUGNNM1NLenExTEpuMjhNdGlUd0pWazljekVwbjdpN25iOEVMQVkwOEFZUkFUeG5yZ09ZV0l3?oc=5",
+      "summary": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot Microsoft Source",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one - MakeUseOf",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVlXSDMtV2hxcG5LdUhpMG90cVUzN0RuYWVhLW5CdHhQNlM5YjJiakdEUzZtX1lyRThaSnZSZXRfWWNiaEZOY2hVV2RjTlAtME1TSDVSLWVpXzFCMElyNEk0a2RLaXlHbkFXZ21PZ2NyV0thT3plTFRCMEh2Ql9NWnJKN1lTNmE1MW5kX1VRNElPVUlqWUNPRjJSMG9kOHMyTDhYN1J3?oc=5",
       "summary": "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one MakeUseOf",
@@ -138,43 +202,11 @@
       "date": "2026-10-21"
     },
     {
-      "company": "Apple",
-      "title": "Apple unveils the 2026 Designers of Tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
-      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
+      "company": "Perplexity",
+      "title": "On-Device AI Agents: Perplexity Launches Fully Local Computer for Mac - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QWVFEeUtHNTRvc2tRQi05Vkxlb1pzMURDazhUOHJjYkFseDVDYzhwaDhraHBMaDRpbzFmc1BTZ1g0TnI4TXJwVXdGTzFfQlRHUnJZb3VzNlFEaUZqWjZBd1dmN3k?oc=5",
+      "summary": "On-Device AI Agents: Perplexity Launches Fully Local Computer for Mac Trend Hunter",
       "badge": "hot",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
-      "badge": "watch",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Open up to new possibilities with iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-      "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-      "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.",
-      "badge": "new",
       "date": "2026-10-21"
     },
     {
@@ -190,6 +222,30 @@
       "title": "How AI Agents Are Changing Online Shopping - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0ViNUt1djJPMFItRzdQUU1jNE1yOGU5UHBoOElvYmpXUGNXQTJwOFJSRldsN2VoemgxbHRRMU1sYmZXTzNEcGJrRldUaXE4c043ZE96ZnUwSVZJYmZfRzBSZzMyb0dTc01LN3hPZFF0QXlqYUxXM3lOcTdSLXhyRDFB?oc=5",
       "summary": "How AI Agents Are Changing Online Shopping Newsweek",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPYTI4UlUxdjlSUm9wTV9lNmJoZlhtSmhRSVgtYUdxa0NCRy1YWGNPUldnLXNrUzlhR003YVUwNjJuSFpWeTRfb1Vzd1JhN2Mtb25MSktUQlc0eWVoQkZhb0dYVWoxWEpxa19ucDZuSVVmQQ?oc=5",
+      "summary": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow The New York Times",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+      "summary": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments Reuters",
+      "badge": "new",
+      "date": "2026-10-21"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's AI bet faces Wall Street - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zUHBaa1VWQzZTeWxrUHVHamJITzJfbTJxWjI3bnY2NGl6ekc0SlI1UjZ0QWdJOEJCWlhZUkFBLUlGTktpNlFFWUJ4cU5GMzJRM1BESjhjUWoyNTgxRTFYelNQdmxqVmNTeE1iMGhvaTZ4Z05pdUF5N0xpZ0hhZw?oc=5",
+      "summary": "Meta's AI bet faces Wall Street CNBC",
       "badge": "new",
       "date": "2026-10-21"
     },
@@ -235,6 +291,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
+      "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed TechCrunch",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic logged net loss of over $80 billion in first half of 2026 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
       "summary": "Anthropic logged net loss of over $80 billion in first half of 2026 Reuters Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs WSJ Anthropic to publicly file for IPO as ",
@@ -246,22 +310,6 @@
       "title": "How Claude designed protein binders against scorpion neurotoxins - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5",
       "summary": "How Claude designed protein binders against scorpion neurotoxins Anthropic",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTZpOEhpbXJmc3YzQTlzYWx5dFAzeVJ0em9iWWdpV0RfX1BlZUozTUI1aTVxdHBtOFJHdnlPZDlVWUVJVkVmMkxKekNMSWhXVWRLbk5XSGo5VkVUSjFGRzBqdG16VUg0SE9JR2tMZE5rZE54NWxhUmVRSHFYMDdYcDloc1lRVU8zRGl0NXNRQ05QQ2VDakdJS01mY210eVExekRPVmZzWnQ4WlIxaUdpMjFMQ2ZkM1BYN2J0NTB0VndHNUI4OU9temFtVElyMWg4V2RaN1ZaVQ?oc=5",
-      "summary": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses Los Angeles Times",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3A5WUhzc052RnlDWFU5R2FOWFQtU0g0OXV4X0MzTGRoR1U2enhudDIzMU9FNFBQaHVZNFlHN2dDc2VnRzM0ZmxSVldfdmVLTnVLNjFVSG9tcGF2QkQ3VE16ZkZzV25GU3BLWTRldFphbzd4bFhjSzFmU3VtN1dmMjdYR2kwSk1VcTlKNDJVZVlSRUlWaVI3U3dBTTBFY0U4UHVqeklBOXotNFBYTlVUUQ?oc=5",
-      "summary": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall Bloomberg.com",
       "badge": "new",
       "date": "2026-10-20"
     },
@@ -386,30 +434,6 @@
       "date": "2026-10-20"
     },
     {
-      "company": "Meta",
-      "title": "Meta's Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZk5TX1pPSUZoODYzRlNtNWF0bnYxS3p1cjBpcFJLTlZzcGU0eTR4bWhBRzdlR0dEd2xZdXU5V1hISEpPQm1qanlyZXFUSFRmcWtSTGdINlF0dHV4d2hIeEZMUGh5eEdVa0NrazkyM0hMQXlnYjhoZjFMVVB3REZzV0FHSXJxN3pZQTdTQS04ZXAxeHpzemVIV05ZN1dTc0d4X0FOeWN4bnlwNUVlTE5QbW5rY3hBOVVacEl3NlR3?oc=5",
-      "summary": "Meta's Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps TechCrunch",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Meta",
-      "title": "Watch RBC Weighs Blocking Meta’s AI Agent Muse, CEO McKay Says - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk93WkI0eGpISldJaHFzaHFYQ1NVLTRkYnNZdldJc3QzMmRMX1ppSDBTaldlc3dkaDFCOWo1SW1tTmFpdGpjUkNxT2k4d2xMT2RvWkVyX25RVkZWcnlOeFZsUzdSOUhZN3FNNy1OdlJqcGpmd2cwN3l1SS1BN0hIbWRFTXdoUG4wbktfWUtZZm5aajBrWnZ4TFFXNUVWQmpmb3VhajdJRnk?oc=5",
-      "summary": "Watch RBC Weighs Blocking Meta’s AI Agent Muse, CEO McKay Says Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
       "company": "Microsoft",
       "title": "Windows 11's Hybrid Intelligence features will breathe new life into Copilot+ PCs - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTElDLXRFbXdvbHBlYTFXeXUzOVJ3RU95V2d4N0M2cTR0YlJRNmpTUTBKNHg4RFNfRks4VlRwUHo3THcyV0JsMUFlc0ozUGZ5VU1heDlqOThySHJuTlNMNXRWUkdxU216SVhfaDhnbVVIUF9HQjlqaGZ2Nk1pMVFSOEFuM1JKSUYxVXhiVnJzeExTVHd5WlUyVGxrcGR5alhzTnl1MlZUOVlMMUMtbUdxR0tpeU1HUFRIV2ZybWZWR2pFLS1pQ0YwTmtCT1lBc0Mwbm9EOXl2TDZ6aHVkVjgyLUZzN050NEdzejhHd3cwRm1JZzZxcHdYVDBoVFphTEo3a3hsQjFXWTN6WmtkUkVIbEdHV1llakdpbGRFWGlvT20?oc=5",
@@ -422,14 +446,6 @@
       "title": "Perplexity has an open-source alternative now, and I'm hooked - MakeUseOf",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3F0SjM5eS1xa3ZWOEpGLW4yVFdSZC13QWJGWk4tWFdpVWlyTk5YWWtrZWVETExQYUdYTEM0UVJvdWlSN0dVTzVuYlNGbFNha2NVdFJsZS1KN3p5MDZQemxXZ3hRVDNHcS1OUWRPb2xBTDl6Wm1nbnVVWFROaUhRS3dqU0UteU0zQ1NCNE4wYw?oc=5",
       "summary": "Perplexity has an open-source alternative now, and I'm hooked MakeUseOf",
-      "badge": "new",
-      "date": "2026-10-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's AI vision doesn't come cheap, and its earnings could prove it - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczJkZURyVjBJaUszYWdzSkdYc0wwUG91MV81SmlQLXJpQXlDeFUwVjRyaTJHOUZUQV9RaGFpN0h4QlhxSmhDNU1RVnFvV1ZFTDVkOGMzeE9VNmpGVWJIVjF1eEZsbm9EeDk5VDRGamQ3UXdueXVvYzRpaERKMTRuNjd2TG5nUlNtb2FldFNGaTQ3bEgxUFFJZFhvUTRhOEhqQVBFeTY0OElFbG9yVkVhbC00eVpOTk9yWXZ2U1ZBY2IzUUE?oc=5",
-      "summary": "Meta's AI vision doesn't come cheap, and its earnings could prove it Yahoo Finance",
       "badge": "new",
       "date": "2026-10-19"
     },
@@ -448,22 +464,6 @@
       "summary": "Everything You Missed From Microsoft's Fall Event: Local Copilot AI, RTX Spark, and Game-Changing Windows Features PCMag",
       "badge": "new",
       "date": "2026-10-17"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW9RZnVwazZ3dkFPY3pzQ19vSFIxVDk3TndxOE5lMjVjanVDb0tXMGxKbEdkY3FkSjAyd1RXSXk0dTQ0Um9SdXZ4SFRBNVZvTU1ZYnpqS3VRTE5wck9ZNkFCYjBqN3lQUTR0Z2pvWTFIX01DOEstUUZ4MldyZ0dyb2MwWGxYeHpxTkx0bVhDbEkwOXdpbGIzV1NScTk3b2ZPcXNRamdsbUFrUVU?oc=5",
-      "summary": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents MarkTechPost",
-      "badge": "new",
-      "date": "2026-10-17"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHpMckxIYUR0bzlONm9nRW1rVmY5WF82eUdDZWZzQ3g3TGJKOVJrVXdBbUhudllxWHhFbm1DNWdmb3JZa21SOFV5bWVmSEFYU3NaSHNkOWpRMkd6NFdLTzM1c0ZRRnNZaHJPYmM4ajRpRTZFZmNEb0ViaWs1eG51RU5GajFDTzZLM0E1MHBMdE9yTFhPeEJFZnJMR2M5WWpFM3h1LWxXcHJlaWlPc0YzZA?oc=5",
-      "summary": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work Neowin",
-      "badge": "new",
-      "date": "2026-10-16"
     },
     {
       "company": "Apple",
