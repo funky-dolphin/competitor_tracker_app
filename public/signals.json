@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-22T21:06:52Z",
+  "updated": "2026-10-23T03:00:23Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
+      "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
+      "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Developers bring incredible new app experiences to iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+      "summary": "Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils the 2026 Designers of Tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
+      "badge": "hot",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "badge": "watch",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Apple",
+      "title": "Open up to new possibilities with iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
     {
       "company": "OpenAI",
       "title": "Build more responsive apps with the Decisions API",
@@ -22,6 +62,22 @@
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
+      "summary": "LLMs are making formal software verification feasible at a much larger scale Anthropic",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude Duet app is Anthropic’s bet on agents - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmgyb1ZobDFPVTdQcnNCbTIwR2EzODI3TmRwUGEyWl92eDY3OV83UVh3LXVfekJpNldLdlBXSW1oQlN0Z0MyRTNvUG1NSHRnTGg0NzBhSUFXbm41NFRIQjNObVNCV0xQS2xxWi1YaHpxN1dEOWtLZnUxRzBNMlJCc3lSTXI?oc=5",
+      "summary": "Claude Duet app is Anthropic’s bet on agents TechCrunch",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -90,58 +146,10 @@
       "date": "2026-10-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Could Take Major IPO Step as Soon as Friday: What Investors Need to Know - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPczdObXNwYWRORFVlS195RS1ER0plOXZxYmRlZTBJbVp2cVhVRHpyd0ROZTNaMEJFUEFIdG9kZDNPVzJ0WV9qNjdBenJobjI5b0hzQTFXNUxDOHo2TmpRbk5BVHBPNXNqRVNsaHVTUnRERV9uR1RzMUdTbTY2WVZVdnhHQnQ0TFFqUmUtQWxyWWd1XzVGeXJkVURn?oc=5",
-      "summary": "Anthropic Could Take Major IPO Step as Soon as Friday: What Investors Need to Know Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Announces Major Upgrade to OneDrive - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5",
       "summary": "Microsoft Announces Major Upgrade to OneDrive Thurrott.com",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
-      "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Developers bring incredible new app experiences to iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
-      "summary": "Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the 2026 Designers of Tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
-      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
-      "badge": "hot",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
-      "badge": "watch",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Apple",
-      "title": "Open up to new possibilities with iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-      "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -187,6 +195,30 @@
     },
     {
       "company": "Meta",
+      "title": "Meta shares slide, default insurance hits record as AI spending alarms investors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
+      "summary": "Meta shares slide, default insurance hits record as AI spending alarms investors Reuters",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVWVYNkMweW9aM3VpcGl5ekhoRjdSYm5aM0xOVTdKOU1yOGU5TGhma29lckk4eXdDQjZaODAwVGpRWFE5OW1VNUpqckV5NVdydk0xZnh2VzNuWnM0NjB3VHN5ZFJyTFVwSEpGXzZDcDJZenZXc3c?oc=5",
+      "summary": "Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried Time Magazine",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Tesla lowers capital expenditures target, IBM recovers from earnings, META AI build-out plans - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUwxVEFOckVNa1hsZlNMblhBOGJRZVI0M2d0X2RNQXpCdnE0THdXRHFIUU1BTXBTcUtSLTNfQ2NDUFdYeWVva0dfMVpza1ZJVG5CTjAyTm9IZEF0VHc4TklMZ2ZXNWxBQ3hxZHNSVVNQUGdFeUFfS0RRSFRER203ZjYwdmNQX19UZERNeS1xUFBwT3lSdUduY1N1SC03dWh2R3VrOExjNlZWbWJLNWtmS3V0NTlDNWg2VTR3a3F4MFRhcHhoQW1LamQxWmxHMEc0c0ZEZg?oc=5",
+      "summary": "Tesla lowers capital expenditures target, IBM recovers from earnings, META AI build-out plans Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-22"
+    },
+    {
+      "company": "Meta",
       "title": "Meta's AI build-out comes with an $825 billion price tag - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjBURUhlWENudEZMUzZ1OGZCNmZBTXVIbURucGY3azBMbTJXaGkxaS1nVTMwRWo5VnhlUlcwc05fc19LVmVyeU5hYWxXbnl3U0pXTUhZdHVhRks3QUg1NmZmdllDSFFqdzlOZ3RUVkxJSm4tTmlEU05MZHFzTUQyNzZDSklEcmxWQlBSMFlZclRhZ3pabkFTYWIwYnZ4RDdtQjBV?oc=5",
       "summary": "Meta's AI build-out comes with an $825 billion price tag Yahoo Finance Meta shares slide, default insurance hits record as AI spending alarms investors Reuters Meta reports third-quarter revenue beat ",
@@ -214,14 +246,6 @@
       "title": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings - Forbes",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR?oc=5",
       "summary": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings Forbes",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVWVYNkMweW9aM3VpcGl5ekhoRjdSYm5aM0xOVTdKOU1yOGU5TGhma29lckk4eXdDQjZaODAwVGpRWFE5OW1VNUpqckV5NVdydk0xZnh2VzNuWnM0NjB3VHN5ZFJyTFVwSEpGXzZDcDJZenZXc3c?oc=5",
-      "summary": "Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried Time Magazine",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -306,14 +330,6 @@
       "date": "2026-10-21"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5",
-      "summary": "Anthropic Joins the A.I. Agent Race With Claude Duet The New York Times Anthropic unveils Claude Duet AI agent app Reuters Anthropic announces preview of Claude Duet, a personal AI agent to take on Mu",
-      "badge": "hot",
-      "date": "2026-10-21"
-    },
-    {
       "company": "Google",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -394,22 +410,6 @@
       "date": "2026-10-21"
     },
     {
-      "company": "Meta",
-      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPYTI4UlUxdjlSUm9wTV9lNmJoZlhtSmhRSVgtYUdxa0NCRy1YWGNPUldnLXNrUzlhR003YVUwNjJuSFpWeTRfb1Vzd1JhN2Mtb25MSktUQlc0eWVoQkZhb0dYVWoxWEpxa19ucDZuSVVmQQ?oc=5",
-      "summary": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow The New York Times Meta falls as investors balance Muse growth with rising AI costs Reuters Meta's AI spending drives create new",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta reports third-quarter revenue beat and issues strong guidance - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HVnM1M1JBSWFqUlBzWnZDYlNqcksySUpHN2xrOU0zM1BpZjE2TDdCY2UyMk52VjEwVU1CLUpnM3psWkZ0QTlFTllWcGRZWEQ5WXBjdjQzcnBfOXRoWThaM3ZaMXlHa0NqSjRQcWtVME9nQmhhVV9pNzRTWdIBgAFBVV95cUxPaUNsLXo1aHM2VlZxR3RUWFQwWUpDNVR5VFdSb3VIdWUtS0VlQXJhQ2tYS2ZwalYzanZaSjVMRjdmMGtQNi1mOWotNmZKa3hhOFpKbVlYbTI3OUI3eEQwRnNqM0k1RGRFa2dlWUdXNUpSUnM2MW1yMXlKc1RPS3ZtSQ?oc=5",
-      "summary": "Meta reports third-quarter revenue beat and issues strong guidance CNBC Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow The New York Times Meta puts Muse agent at heart of AI s",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying” - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
@@ -443,6 +443,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity’s Computer can now run entirely on your Mac, even offline - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpveHFqWk81cFJPQ1hfWjlack1BLXNZMmhUVVdzNlNLRFNRRGdoaW1uZno3bVR4UF9IMTllaDM5NXJDdk1maUxXdzZTZXZqSlhfajhYLTBrQnhIYUpjcXF0QnBCTXdVNk83cmZ6a0RnUGI3YWc5UlZlMHVxWHhZZ1JESG42LXVkTGJLMjFQcUx2b3JxNHFCUFNFbGdrT1U?oc=5",
+      "summary": "Perplexity’s Computer can now run entirely on your Mac, even offline 9to5Mac",
+      "badge": "new",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxIcE1tbHBxUTBWYVFsQjF6WFNXeFQzWE9PTElvOTNHWmk5NzlxcTJtX2tZSTdNQTN3X0VPWWN2Z2U5ME9nbUxrTTR1bEREaENLSUlBWHRnWThDUjNKMGlWUFVlbUlnNGV6amZaaHJialV2ejBWU0IxQTYyc19JZ0c1dWktZmx5dWc0WUxGdVJ4UUV6b2NtUExDUFVHdTVIU1g0?oc=5",
       "summary": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac Engadget",
@@ -451,25 +459,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
-      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
+      "title": "Perplexity Computer can run completely local on Mac, with a big caveat - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXFfUjhhWVVzbU04aTd0Q0NJY3lyS3Y0bGxNeWVXcnFreGV4TUo1QXhUTjdSVjg1a2NjdEs4OHVhX0xhMTFHanhOWFN0TGVUYTh3OF9mYk9XaUFZSG9FVkVhdEFGc1ZCWHlRWWpEVTdxTHlqbWJLM2NvVmpqbUFEVlhSSkZjdVNveTdRRFZ3S2xkNEtNdVhMX0RFTFJRdl9HU3QtdGtnT2lhQlN2MndIa2NB?oc=5",
+      "summary": "Perplexity Computer can run completely local on Mac, with a big caveat AppleInsider",
       "badge": "new",
       "date": "2026-10-20"
     },
     {
       "company": "Perplexity",
-      "title": "AI security hiring focuses on red-teaming, SOC orchestration and governance - Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFpMFhyRVI2czJRTHRnZEo0LTNKaFg1S3JlTGpKOGdKOVdNb3VhQXpieDBUSGlxQ0c1VV9PajlSeTgtVzdZcHJLWEktWHNld2YtNWFyVnkxMks4eTVua3VsbXVBbHBaWUttWWhJX0hDckNGS1RNYjJDRjRyTEQ0VlZ5andmRWhjb2JZ?oc=5",
-      "summary": "AI security hiring focuses on red-teaming, SOC orchestration and governance Cybersecurity Dive",
-      "badge": "watch",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity’s Computer can now run entirely on your Mac, even offline - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpveHFqWk81cFJPQ1hfWjlack1BLXNZMmhUVVdzNlNLRFNRRGdoaW1uZno3bVR4UF9IMTllaDM5NXJDdk1maUxXdzZTZXZqSlhfajhYLTBrQnhIYUpjcXF0QnBCTXdVNk83cmZ6a0RnUGI3YWc5UlZlMHVxWHhZZ1JESG42LXVkTGJLMjFQcUx2b3JxNHFCUFNFbGdrT1U?oc=5",
-      "summary": "Perplexity’s Computer can now run entirely on your Mac, even offline 9to5Mac",
+      "title": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMllxSm5nQzZKcjZSZU51YXdsbmx3N1RNdmR0Q2dlRmVFOUplaUhtQWgtTkFiYzlLYmF3Wmdzd3RxbkkzVS1aSmdOSnAtZU04cTBvY0gzWUZnRUpMN2M5Wmc5Uk9HSng0aGNFcS13RmlFSXdWWkg2YTlGNzFIMnNKYW9ZcGZoNVJKeTgwLS1CdUdlNEVzNGZqN3FZVXNZX1J6UVo1MkhFQk1YQXhKRHgwc1Rtc0xtby0tZTVLUEZQRmV3V1E1OE9sV3FVaw?oc=5",
+      "summary": "Perplexity Partners With Valarian to Offer Sovereign Intelligence at Scale Business Wire",
       "badge": "new",
       "date": "2026-10-20"
     },
