@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:07:34Z",
+  "updated": "2026-10-24T15:15:08Z",
   "signals": [
     {
       "company": "Anthropic",
@@ -83,18 +83,42 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic strikes deal to launch European consultancy - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
-      "summary": "Anthropic strikes deal to launch European consultancy Financial Times",
+      "title": "Anthropic says Mythos kept hacking even when it knew real people could get hurt - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFVoUm1BYWE3QUVLT203MFZGZWNzaTJwcldpbUpDZGdRRFVVZXlmU2dGVmdDWVM0cEllaXFlNkVPNm5FdXNhc0hLNm40cFRaYjJKbl9xbU56N0JkNHdWTXI0RXBfcHFCbUlXRjF6SXF4TU0wcFBkM2ZCVmNYNTdWSnB0STk?oc=5",
+      "summary": "Anthropic says Mythos kept hacking even when it knew real people could get hurt Business Insider",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTi0xMUJXTXVacllRVHhIV2NwQkFfX2JORUlualY3M1BvX2tjSjE3eTVFeEpJQ1JNcUg2WnNwVU5TSDhwNnJxbnFzN25JeUlMTC03T3k4cU1KWlZ0eGhaMU5fQVVtZ05rMGR0VUdLWUhQWWtkeHhEOUZSTXl0cDJJT1NkRjVjdEM3V05aazNEM05fd0pJWUpkUUExZlUyMURGbnlWVzctWEtrR0V4X0ZFQ1VkdVcwdnM?oc=5",
+      "summary": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 The Decoder",
       "badge": "hot",
       "date": "2026-10-23"
     },
     {
       "company": "Anthropic",
-      "title": "What some of Anthropic’s backers are worth before its IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWRxUnQ1d3RNZE1GcnMwc1g3VGJRaFpUUlNwTk1WMlIxcFlpZzBUc3R3ZUN4TG5DXzZyNWMwTDlZdlZfU290eVFmUHVIZmgtc1htb0ZSYzJJVFVoWXd3TnNQM24zUlNHWWEyRTU3cHNUaFhlV09iZ1ZCZy1xb1N0Q0tGUGt3TkFIbWdNUm1UQ19WRE01VnJqdjRMekx4M3BoM3dZMw?oc=5",
-      "summary": "What some of Anthropic’s backers are worth before its IPO Yahoo Finance",
+      "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa - The Register",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVMxbXlyS2JEMTBHUmllX1hralpkMy11VTFfdUtlR3pTa1RyYkZTZUJvNkx2MF9yRVVJMElUVUhzQUtYdGFRamxlM2NTVDk5WFJ5TDJZbS1qUzJQUXJQTUZxSGtQVUlSN2J6ZGhUTzBuQ2FfaGdRQTRJVnRocVdZZGluMlp6Y05uTkFlZG5hQWU5YldkNTBmTnk4Uy12Rl9kcmJJMWxwSWN4WlhCVkJvVnJQT0tDQTdqbUlLak1IR1FKejNudC01cVFWOEZSWXhkbXBZbnA3bGhYWEh6NHQ2TVpyaHA1UQ?oc=5",
+      "summary": "OpenAI disables internet access during model training while Anthropic issues another mea culpa The Register",
       "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWRxUnQ1d3RNZE1GcnMwc1g3VGJRaFpUUlNwTk1WMlIxcFlpZzBUc3R3ZUN4TG5DXzZyNWMwTDlZdlZfU290eVFmUHVIZmgtc1htb0ZSYzJJVFVoWXd3TnNQM24zUlNHWWEyRTU3cHNUaFhlV09iZ1ZCZy1xb1N0Q0tGUGt3TkFIbWdNUm1UQ19WRE01VnJqdjRMekx4M3BoM3dZMw?oc=5",
+      "summary": "What some of Anthropic’s backers are reportedly worth before its IPO Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic strikes deal to launch European consultancy - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+      "summary": "Anthropic strikes deal to launch European consultancy Financial Times",
+      "badge": "hot",
       "date": "2026-10-23"
     },
     {
@@ -122,10 +146,18 @@
       "date": "2026-10-23"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic's Mythos pretends to be human during CTF exercise - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEl1MW1yRXUzOTJqckthVFAyX09fYkNzQzRoLXptQllxcTNpMHU5bDI5VU5yWndvcnZ6TEFxekVMVzFCNklKVElWSExQRFNlZ3lCUzRYSE8wRUs0UjhKTjhTQmZVNWVuajE3S0ZLT1ZoaExQb1NSVjdGbGppZ1VfakhnZ01CQQ?oc=5",
-      "summary": "Anthropic's Mythos pretends to be human during CTF exercise The Jerusalem Post",
+      "company": "Microsoft",
+      "title": "Outlook is about to lose this Copilot-powered inbox feature - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjZITEpsUmZjTjM0RExDazlGakV4SXU4TTRwQTZ0dl9aR3FVc0locFFtOGw2eE1QR05kbGZrdnpvczVWY1BReWU2dXhKTVpZYy1RXzl6Zy1yZ2FDTkZETGlLSG01ZlBOTXNua1lyMXNwcUNHSjgwRmdMZW5RR1RiTFozQVFLZkRGWTVlT3RibXhNZjBEY0tHNlg5NU9vNW1VUk9ScWZQdDhsV2M5Mkx1QkxvWHJvZ2otUlQ3c05pbkZ6dWlKRThaN0djbHRsT1NUOEpzV2dGb2ZfNXJpU2FEbFlaRQ?oc=5",
+      "summary": "Outlook is about to lose this Copilot-powered inbox feature Windows Central",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXVueWVQMW5qaUpUR3BCNUp5bkpiMGc0cjFBWGh5eVVnaC1Na2tfS2Q4SkhoQnJwSnVzSk5XTE5VSkxtRzFKVWN0blJGd0FKRElMM1dtMHIzRncxaWNXNm5BWS1PTDd6Tm1FdUtUYnlCMWRBN1V6cVgxME5pZ1lxakNyNWIySUtwemVxNWdxS0pUNE9BcjlTOXFadE9ONjRnRmVzV1c1bEszVWZyUzRXRUVB?oc=5",
+      "summary": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer Notebookcheck",
       "badge": "new",
       "date": "2026-10-23"
     },
@@ -134,14 +166,6 @@
       "title": "Microsoft Azure Growth, Copilot Monetization in Focus Ahead of Earnings, BofA Says - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVFQZUkwR3dxQlFndVUtc211MWxfUHQ2TTNNWEFGa3Q4R2RCdTBiVk4zS21XWFFqUk4tU1ZFOTQwQWhVV2xZekQ0RUhnRE1fd2I1bHpTWkptV0JzaW93TnJGQmx0cEhkNlFIc1lVZDZkQzFSa2pMSUJnaHhLcE5yMmNIWGJ4QjJ5Y0tlTUR0anlpR2pmcEpfVkQtWUN4eGVreng5N3NTd2xPVmc?oc=5",
       "summary": "Microsoft Azure Growth, Copilot Monetization in Focus Ahead of Earnings, BofA Says Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-23"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Outlook is about to lose this Copilot-powered inbox feature - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjZITEpsUmZjTjM0RExDazlGakV4SXU4TTRwQTZ0dl9aR3FVc0locFFtOGw2eE1QR05kbGZrdnpvczVWY1BReWU2dXhKTVpZYy1RXzl6Zy1yZ2FDTkZETGlLSG01ZlBOTXNua1lyMXNwcUNHSjgwRmdMZW5RR1RiTFozQVFLZkRGWTVlT3RibXhNZjBEY0tHNlg5NU9vNW1VUk9ScWZQdDhsV2M5Mkx1QkxvWHJvZ2otUlQ3c05pbkZ6dWlKRThaN0djbHRsT1NUOEpzV2dGb2ZfNXJpU2FEbFlaRQ?oc=5",
-      "summary": "Outlook is about to lose this Copilot-powered inbox feature Windows Central",
       "badge": "new",
       "date": "2026-10-23"
     },
@@ -194,6 +218,14 @@
       "date": "2026-10-23"
     },
     {
+      "company": "Meta",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjBNWmwyRnRGYVI4RmM3UEtBRXFIRTJTLTFpUmh6NU5aaE1nTXJQeV9sYUpGb1AtS0xmUXlLczR0Q0NxaHB6aUo0c1FXWmdDYWRxVWZFa25BM0FmTzV4QjBjTTJJUlFlOFJnTEZBTEFFaU5jN3prVFlVMFdndmJGaTUxSQ?oc=5",
+      "summary": "Meta delays new business terms after publisher pushback on AI scraping The Verge",
+      "badge": "new",
+      "date": "2026-10-23"
+    },
+    {
       "company": "OpenAI",
       "title": "Build more responsive apps with the Decisions API",
       "url": "https://openai.com/index/decisions-api",
@@ -218,18 +250,18 @@
       "date": "2026-10-22"
     },
     {
-      "company": "Anthropic",
-      "title": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
-      "summary": "LLMs are making formal software verification feasible at a much larger scale Anthropic",
+      "company": "Microsoft",
+      "title": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpGdVpzU2YtT3h4TlVURDM1YjZudDFOaHBCc0dHeVh1bmtUVVZWM3FLMFNDS1FfUzBlX0lxTW44bTUtU0hpellXaUN0VU9vb1BNRFktODJzWEJhNFg0cjdQTFRnb3JVRmRET3laY0kwQjVsU0FfY1lfUC13M2R6djNJQzRvWllicmtuQ2tZbVkzZks0UmZwM1E0SllFMFIxelppYTM1eUsxbTlURzJsMEdMOWNaX1dEdzVjXw?oc=5",
+      "summary": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails Neowin",
       "badge": "new",
       "date": "2026-10-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWU0S2RSc3UweGd3OGdmMlF0VVNnQ3paTmp3SjhrT0hxMUU2eXdDRGp2cXl6S043dFJ0Z0Z6RnhQb3g0NjJTRWtDYWx1YzJJTFdkemRIbkFHY2Yybi1WUjc0Sk5aX1NEblZBUURoakwxUEFCdUVmRFRlbnF3blhpczNwLVlzZERvVnpZaVIxa2hCdk1za0VJTnFoQjZxc1BvZ1NWSElxWVlJUlpnalFrc1lB?oc=5",
-      "summary": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC Bloomberg Anthropic's IPO could be the ultimate test for the AI trade Yahoo Finance Anthropic, Please Get on With Your IPO to Soothe the",
+      "company": "Microsoft",
+      "title": "Microsoft named a Leader in two evaluations of next-generation app development platforms - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVXpDNDUzdlpLZl9uQURBUm5DT1pSWGpqWXpCenoyRmVuQVBSdWRhM3g3VjVMbWtkLTNqZEFfQ3pXSTJrR2tSc3hlekJuYXZEM3ZjMkduMkxoUDNoY3N5c1hpM3BjOUgzU1ZuLUdkTnRILTY2RE5aTnUxOUdkODFoc1hRTy1uNTQxcXZDWGc3WUUxaC1uUnZKOWdmQjdRMjFxQnQ0UTVOV2N4cWtuWGg5dXdTT25reV9RUHoxZ2NzMmtsZ1NLbTAtSnRQVm55cm5jcE9BSVoyNnAzcmN5YVRaTEtxYkE1Ulk?oc=5",
+      "summary": "Microsoft named a Leader in two evaluations of next-generation app development platforms Microsoft",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -362,14 +394,6 @@
       "date": "2026-10-22"
     },
     {
-      "company": "Meta",
-      "title": "Meta Falls After Boosting Spending Plans for AI Bet - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWw2TXFoSmlmM18yRERkMXpHSGdDN0lWbzl1ZGVNczh4aUYxU1JmZkJualZKREM2Q3JmcjFtWE50a0JUR283UU5XdFk0d1UwSGh0QzdDM3puaU51MjlQM2k1dVdUSVBpZnVOTWI1SWg4eUN0OU5SY0ZfT2ljT0JOemxvd0JDb2tlY2lYWEZFT2VNZ1lka3RIbklORkgwUWJLMzE1XzNUQ0VReEtTaTl5U0Ezcw?oc=5",
-      "summary": "Meta Falls After Boosting Spending Plans for AI Bet Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
       "company": "OpenAI",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "url": "https://openai.com/index/att-legal",
@@ -422,30 +446,6 @@
       "title": "Microsoft Scales Back Copilot In Windows 11, Removing Eight AI Actions From File Explorer Amid User Backlash - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQjI5NTlWMTVoclpZdzVYeDcyaFE0SzJWUDN0NHQ5emlNcmJFYmE0ejMxT1FiUXdGMkJNTlViN0prNUdtQ0htdkNmN095dUJFbG15RWVZNGxfQTczbDFJYnNJUktZTWlyeUJkdmtrUGpBYjdMZTVlT3k2T2lhcHdVMnVKRHJzVUtjLTlwOHFTcjh0eHVubWlaRHhwZTNtR0E1Z0JwSV80cHgxQXZMTUpxSV9Icldoak84MDZtODNhZUlFVHdvcU9PbdIBzgFBVV95cUxOTmY1RUpVRHhHM1Y5UjR3ZnJVVEUzUV93dEozLUl1Z1VvUXVrSVpCY3lOZDh6RWpHajctLV9fNVVEWjEzV3oxNl9aeGtDS0RiMDR6TG1ZTkpkRHhyRjdiM0sxVFBBc3JRa0dMeGNjYnpmbHNzWVlGZTFuNVk1Rk5RZkZSTS16SWRLZ19jVjFOVWJacGFFRmZfZ1ZzVlJ6UnZ5eFU1YkZENWo4NDhKYW9TdTN6QV9UNk1rbmZVTHduUENpbGN6d3Fodm02TUxtQQ?oc=5",
       "summary": "Microsoft Scales Back Copilot In Windows 11, Removing Eight AI Actions From File Explorer Amid User Backlash Wccftech",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Scales Back Copilot Integration in Windows 11, Removes Eight File Explorer Actions - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXZiZDRLYVhXNXVNZTk0QWhkdGktZVhzYzZpLXd4SzE4dG5TWGZFZEdNaUMwNlI2T2d3bmNQWUV6YlRGN1dXTjE2NXREV29XX25kc2pXd2NDZTNCYXdSQlpWeFUzMnJSS2pCY3pjX2UxM3VpcG5vNVBRTUFIQVJlcm5DVUw0RmdVV3JCR3NiSkRDeDVWMVJKOFhhQnlVRUZldzJZZUlHRjhpYkRYekd6UkFDZDhDNFE1N1RxSFVwbmd0dXFQ0gHKAUFVX3lxTE5zWVlIUFRfOFRYY3lLVjhMQUN3ODR4YUJfSHlSQ0dXLWs5TlpWV1VvLXBJUUY5eU5vUGVSdHVIMGxyUFpoc2l3WFBDNjNIOERkRHF4UGRETHhpV1JwZDN2X2VKN2hzbklia2dDeWkzOWR6YTdGZlRESHBuZzk5UGFMbVpqX0JEMzhMVWVsX1NJaG1YZldycDNSYVNITzA4VHd4OHZrcTQ3Z2NCVUE0NExrS3FrOFVaeUhXcHpGTGxqbUVlMGRud1FocUE?oc=5",
-      "summary": "Microsoft Scales Back Copilot Integration in Windows 11, Removes Eight File Explorer Actions TechPowerUp",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Is Removing 8 Copilot Shortcuts From File Explorer — Here’s What Stays - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1MwZktQcjZHV1JXZ1I4YnNETjR6TnY5MHBjU3huX216V0RuOGRITHppTlVnYVRVWW1xbFVGU2JhTGZvZFNZU0lsdnV0NmJqYlg5RkVfcV9JTzVlbzJvVVdhSnlMMF8yN3N2eWh3U3RnUjYxc095Y0p5ZzBQTFp4d0xqTG84M2Y1aURyVTQxMmNUeGVCQmNadg?oc=5",
-      "summary": "Microsoft Is Removing 8 Copilot Shortcuts From File Explorer — Here’s What Stays TechRepublic",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVlXSDMtV2hxcG5LdUhpMG90cVUzN0RuYWVhLW5CdHhQNlM5YjJiakdEUzZtX1lyRThaSnZSZXRfWWNiaEZOY2hVV2RjTlAtME1TSDVSLWVpXzFCMElyNEk0a2RLaXlHbkFXZ21PZ2NyV0thT3plTFRCMEh2Ql9NWnJKN1lTNmE1MW5kX1VRNElPVUlqWUNPRjJSMG9kOHMyTDhYN1J3?oc=5",
-      "summary": "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one MakeUseOf",
       "badge": "new",
       "date": "2026-10-21"
     },
