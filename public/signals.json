@@ -1,11 +1,83 @@
 {
-  "updated": "2026-10-26T12:06:24Z",
+  "updated": "2026-10-26T22:11:59Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, PBC - S-1 (Q2) - SEC.gov",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2ItSXJrUWdNaklDTWloN3RSd1VfTldGWDFMc2xySV8ta1ZTSUNNdUpmajBhMmVtTks0QnJIZnI1TWlHdnd1WF91Z2c1WEFHSVNxWTF4UXNMWnJ1RmFCM2hEb3NYd29uSVljWWhpVV81MGFfVENldDJxbFhUeWJ2RU93WmVPSnBJMmM0WDA3OGU?oc=5",
+      "summary": "Anthropic, PBC - S-1 (Q2) SEC.gov Anthropic just put out its IPO filing. Here’s everything you need to know. MarketWatch Anthropic reveals $80 billion loss, surging revenue as it prepares to go public",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic is burning gas to feed the AI boom - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHJjRElTTVd1TFppMk1PZnBuZjdYaFNuLVZUU0ZDTUdlYmszVkM2RUNQNmk4elRxclp2VDE3RE9XSVY4YjVrUGlGZDRzUFg2THg5R1Q3cnNkMF9WTXBJTVRvU01pUlVOZlU4QUVNZE1MN3lpNHFOMWYxVl9nQURNU0RaT2lBLW5hYnc3NENDX2R2V0xEMjBEQlFpYzZJVzg0Qi1tSmNhR3J1YzhO?oc=5",
+      "summary": "Anthropic is burning gas to feed the AI boom The Verge",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5",
       "summary": "Anthropic’s Claude AI model accessed Georgia voter data in US The Guardian",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says its AI model Claude accessed public voter data with prompting - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmVwVGx2VUR4dlU5eXhnb193Sy1DZ0tBR1JlNnpxZU9Sc056ZGhoVFM5M09lWDhzSmQ3RDZsVHRIRDQzcURIVkpaMnVHcmZucVBUbHdUWHRBeHpCbXl6RlI0Tjc0VWthZmZDVDhuS25BdkpvU3h1V2pvOEMxMjdTWkhfal9HVENVeDZWVnJQNkgybC15TndkcFJCTFhTemxjUXVRS2VNVHJtdGpPaW0xaW9jcw?oc=5",
+      "summary": "Anthropic says its AI model Claude accessed public voter data with prompting CBS News",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1V0TEFXVkRST0oyRUxLRmM1eDlNVXpWU1Z6eUpMdmZ3cUhrYjJDeEtKbUJRUWJfVHEzRXBfMTZMYldqdlMwX0hSTFRNTkJmQmJvX25ycU8xM01Bc1hUUHItTzhqVXZ5UXVLMFVUeTBMRHN0Q3hfcUtXTDNzZldoRkl1U2NKVHRvRXFIbEJ5ODhXcGRtcDhKYVAydlZwd3ZSZjBDQnI1YmdNUS1iZXhHQTNHb0dIN2FN0gG-AUFVX3lxTE50STBSNzFDRHpBSjBJSDhWYU1HaGtyWVRUa1pOdEhZc1k4N0xOSmotektxSk84RXI3OXAxTm91eGU4NHJwM1dVUThmcFZQVDkteVhPcXh1dldhVmxuNHNrVW5QQVB3YTlVaWxiQkRwUHg4VmQxbWFXUWdHSGZGc3hwUUppa0ZRM0wyQ3dFeTY5bnZ3UFdpZWxKZHB3UjhDWXI1TmQ2aWhmMGdicy14Z25RNHNLY3V3TVlaOFBnWkE?oc=5",
+      "summary": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms Fox Business",
       "badge": "new",
       "date": "2026-10-26"
     },
@@ -34,11 +106,51 @@
       "date": "2026-10-26"
     },
     {
-      "company": "Anthropic",
-      "title": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1V0TEFXVkRST0oyRUxLRmM1eDlNVXpWU1Z6eUpMdmZ3cUhrYjJDeEtKbUJRUWJfVHEzRXBfMTZMYldqdlMwX0hSTFRNTkJmQmJvX25ycU8xM01Bc1hUUHItTzhqVXZ5UXVLMFVUeTBMRHN0Q3hfcUtXTDNzZldoRkl1U2NKVHRvRXFIbEJ5ODhXcGRtcDhKYVAydlZwd3ZSZjBDQnI1YmdNUS1iZXhHQTNHb0dIN2FN0gG-AUFVX3lxTE50STBSNzFDRHpBSjBJSDhWYU1HaGtyWVRUa1pOdEhZc1k4N0xOSmotektxSk84RXI3OXAxTm91eGU4NHJwM1dVUThmcFZQVDkteVhPcXh1dldhVmxuNHNrVW5QQVB3YTlVaWxiQkRwUHg4VmQxbWFXUWdHSGZGc3hwUUppa0ZRM0wyQ3dFeTY5bnZ3UFdpZWxKZHB3UjhDWXI1TmQ2aWhmMGdicy14Z25RNHNLY3V3TVlaOFBnWkE?oc=5",
-      "summary": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms Fox Business",
+      "company": "Google",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
       "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - KRON4",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWnhLdmxtaUlmUklIb0w0Z2UwZVVnbDFueGw1T3k1ZGRrZnhuQ0R4UWVxUE1ZZlRFWGZQdTdZNmdLTmVXVjQ3TmFtbFVtb3haQVc5YWFtSjgtZlgtM2M0NVFwWWlnX3g2UlJlQ2xROGdHWkc1bTZZMllLQkZFcjBleTRLWDFFN3BrcHBqaEdmbTl1ZVN2TUxmTE4zWERGLXFfQXU2aGFLbzM5eGZpVUR4Ym9zdWRyUWU0TUJlNk1LdEVsbUlLZGNhbUpCOXlQaDhuaTNnRHVQakFCY1Z0OEJj0gHkAUFVX3lxTE1pWEZKNU1Ld0hwYTR0RWs5RFpjV0tVejBnSVBVSUpJbjVuVzZrV3FKNGJsTTZ6ZXJfenc1S0wydzRVRXpIQ1RheWlNUHM0RS12SHdnMlRGOElKVkhBTGZRX1liQ2ZZUXhLMWhJNm0xLUVQRS1SX0FHZXl4bXFCZDE0YllhdElZYlItdlhoOWN5Z19FOVpxN3JQcEJWYWFLWXJqYXEzSk5xeFN5MFFHSWZMaHpUVXlabURIRk9memRSTUowT2lrSGR0TGkyUUhZS3JJRXdnWmZubTc2Mm1zaUQ0Sy1CWA?oc=5",
+      "summary": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates KRON4",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft’s $2,599 Laptop Is a Distraction. Copilot Is the Real Test for MSFT Stock. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2ozT1hvb3hYYk9PSXpjallQNkJac3VMaVJqa21pdTdqZHZEY1NjVVRwQ2hTYXB1dzlJVVVsRnhya0ZLTFVqSFh2NjR1UVR0RTdfSHg1S2swWkFwOVJMMG15UnUtUGFRNWUteEMwRjhjSi1KTzhqd3dVMHY5TVZVY3dVa01HcjlMUEtjYlBDUDV3RC1pX001Q0xRZldvdGVr?oc=5",
+      "summary": "Microsoft’s $2,599 Laptop Is a Distraction. Copilot Is the Real Test for MSFT Stock. Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft in focus as BNP sees continued Azure growth, Copilot adding to sales (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJmeDBzTWRmTkVPc0l1d2pCNWw4aFpaS1o3REhTX1Rtc1pnaGx4bVlWZzhfSzlMRHdLam9EUWlYakhObUFlX1R6LWJHMXVKV25TZVgzSGFfbUI1blhITzBvcVJwdHJqTDgzWGVOWEVlbXFKV0lmbjZQalk2ajZVb1otVWNpNXEzSV9IenFFb3E2VGdQOW5xUkxPNE1oVWE4OWlGYnQzMnhLbkZKa053M0hYUjdFZw?oc=5",
+      "summary": "Microsoft in focus as BNP sees continued Azure growth, Copilot adding to sales (MSFT:NASDAQ) Seeking Alpha",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI is available in more languages starting today",
+      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
+      "badge": "hot",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple gives iPad mini its biggest update ever",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.",
+      "badge": "hot",
       "date": "2026-10-26"
     },
     {
@@ -82,6 +194,38 @@
       "date": "2026-10-26"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Wild Finish to 2026 for XRP - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzFTZHlYN1VWU3VvUTBkYmtuN1hNUGk2RXdXbnpYSnowTWxkUEtVckxRM2wzZGVQV25PRl9PTTdMT2k0cTd2ZG1fNFprckc3Mk82YUM0b2pNSkhzWFZZTlY3SEltWG5HT3pqSXdtYTZCZk5KSnhTa09SU3VjaWFXallhU1pwOFdk?oc=5",
+      "summary": "Perplexity AI Predicts a Wild Finish to 2026 for XRP Cryptonews",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Pro vs ChatGPT Plus: Which Research Job Fits? - Quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3VrYnNrQWJOdldDSENVVmRuaF8tUXNnX2tlYW82Q0d2ZU1YM21sV3p6TnVwXzR0ajVLbXpqNVF5UEJtWnJvUVJQVjlWb3ZGNXlQYk1Gc2dMTmhmVWpPS0tjT2ZfYmxGamlMUzJVeTJYa3BZU1dVaGpqczlNVWdhU25pLUxhME03RWQ2UmUtYzY?oc=5",
+      "summary": "Perplexity Pro vs ChatGPT Plus: Which Research Job Fits? Quasa.io",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta announces $95 billion stock offering to fund AI expansion - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
+      "summary": "Meta announces $95 billion stock offering to fund AI expansion CNBC",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta eyes record $95 billion equity raise to fund AI expansion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
+      "summary": "Meta eyes record $95 billion equity raise to fund AI expansion Reuters",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
       "company": "Meta",
       "title": "Meta plans $95bn stock offering to bankroll AI expansion - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5",
@@ -102,22 +246,6 @@
       "title": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5",
       "summary": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement The New York Times Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models The Guardian Elvis Presley’s r",
-      "badge": "new",
-      "date": "2026-10-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
-      "summary": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple AP News",
-      "badge": "new",
-      "date": "2026-10-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5",
-      "summary": "Anthropic Sued for Using Elvis Presley Music to Train AI Models The Hollywood Reporter",
       "badge": "new",
       "date": "2026-10-25"
     },
@@ -152,14 +280,6 @@
       "summary": "4 Ray-Ban Meta Privacy Settings You Should Change Before Wearing Them Engadget",
       "badge": "new",
       "date": "2026-10-25"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’ - Billboard",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYTdwUkE2NmdWaEY4RkdneUhHNXFUdzZVbG5kOA?oc=5",
-      "summary": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’ Billboard Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models The Guard",
-      "badge": "new",
-      "date": "2026-10-24"
     },
     {
       "company": "Microsoft",
@@ -290,22 +410,6 @@
       "date": "2026-10-23"
     },
     {
-      "company": "Meta",
-      "title": "Meta faces massive AI bills and legal troubles. Mark Zuckerberg keeps finding ways to come out on top. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDdMSGtoMTJqUWlUUWhrMGVyRENVdUtsZ016M2NFZE5neExuc3RGbjRjeWs2T2V6dXZSandUU1dSenNPS2pxWU9xdHdWUm9nR3dJbDBULXpCd1lXLS1yMlh0T0xVNDRNU2MzazZUNFN1dkJxQ1p6M041TGdYN09BajhBaWdNeUVyYmRTUVpMX0xpRE5pYjl0Y1Byb29JQy1W?oc=5",
-      "summary": "Meta faces massive AI bills and legal troubles. Mark Zuckerberg keeps finding ways to come out on top. Business Insider",
-      "badge": "new",
-      "date": "2026-10-23"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjBNWmwyRnRGYVI4RmM3UEtBRXFIRTJTLTFpUmh6NU5aaE1nTXJQeV9sYUpGb1AtS0xmUXlLczR0Q0NxaHB6aUo0c1FXWmdDYWRxVWZFa25BM0FmTzV4QjBjTTJJUlFlOFJnTEZBTEFFaU5jN3prVFlVMFdndmJGaTUxSQ?oc=5",
-      "summary": "Meta delays new business terms after publisher pushback on AI scraping The Verge",
-      "badge": "new",
-      "date": "2026-10-23"
-    },
-    {
       "company": "OpenAI",
       "title": "Build more responsive apps with the Decisions API",
       "url": "https://openai.com/index/decisions-api",
@@ -318,38 +422,6 @@
       "title": "What FDE means at OpenAI",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "summary": "What forward deployed engineering means at OpenAI",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft named a Leader in two evaluations of next-generation app development platforms - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVXpDNDUzdlpLZl9uQURBUm5DT1pSWGpqWXpCenoyRmVuQVBSdWRhM3g3VjVMbWtkLTNqZEFfQ3pXSTJrR2tSc3hlekJuYXZEM3ZjMkduMkxoUDNoY3N5c1hpM3BjOUgzU1ZuLUdkTnRILTY2RE5aTnUxOUdkODFoc1hRTy1uNTQxcXZDWGc3WUUxaC1uUnZKOWdmQjdRMjFxQnQ0UTVOV2N4cWtuWGg5dXdTT25reV9RUHoxZ2NzMmtsZ1NLbTAtSnRQVm55cm5jcE9BSVoyNnAzcmN5YVRaTEtxYkE1Ulk?oc=5",
-      "summary": "Microsoft named a Leader in two evaluations of next-generation app development platforms Microsoft",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Warns AI Agents Can't Be Trusted, But Continues Adoption - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVJIZG0tUmJ0NVdZOFdRY0RsLXlvSERnSk0wUjl0cUVMQTJsMXJ2WGtwTEs2S244bGZCbWlWYkJQR1pQVGJtQ2JsT3dCQmNaZU5hbnhwcnZJZDBLWk9PcHRZVTRvaVlVN2VreS1yZVQwSHpzbWtZYk40c2xmcGRsWjBZWjRma3pIMXFaeVNINGFVZUNzU1Q4Znc0Zzhjcnlw0gGmAUFVX3lxTE1RaXFqbEdYbUJuQXJDRUYyNG5FcGs0UnBSNnZrMlFfekRCanB0Z2hZenJnN3d5Y1hIdGpnRTNYVFVyZlJ0ZUxmNEV0WWxkaXdVTk9uaHJmaTRLbm5XQUpsbkpNQy1NX2liNkdaNFFCakZRVGhXdjJRZ3FBMWpTUy11aldPWU9sODdlSURYWkNsOTlaSlFnN2REbm1OR2U4OURsN2RaUUE?oc=5",
-      "summary": "Microsoft Warns AI Agents Can't Be Trusted, But Continues Adoption TechPowerUp",
-      "badge": "new",
-      "date": "2026-10-22"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpGdVpzU2YtT3h4TlVURDM1YjZudDFOaHBCc0dHeVh1bmtUVVZWM3FLMFNDS1FfUzBlX0lxTW44bTUtU0hpellXaUN0VU9vb1BNRFktODJzWEJhNFg0cjdQTFRnb3JVRmRET3laY0kwQjVsU0FfY1lfUC13M2R6djNJQzRvWllicmtuQ2tZbVkzZks0UmZwM1E0SllFMFIxelppYTM1eUsxbTlURzJsMEdMOWNaX1dEdzVjXw?oc=5",
-      "summary": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails Neowin",
       "badge": "new",
       "date": "2026-10-22"
     },
@@ -410,38 +482,6 @@
       "date": "2026-10-22"
     },
     {
-      "company": "OpenAI",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
       "company": "Google",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -456,38 +496,6 @@
       "summary": "On-Device AI Agents: Perplexity Launches Fully Local Computer for Mac Trend Hunter",
       "badge": "hot",
       "date": "2026-10-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Computer now runs fully locally, securely, and privately on Mac - MacDailyNews",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkRrdTNhUGhKYUpGTlo1TnlCUGJITmVKaXQxRi1BOGhkbU0zYXB2T0h5ckpTTDlORlNQSDRwaTlkUWNWNTVoazVQdHpMQUcxY3dhaGR2TTZ6eDhxLWY0Wlc1ZW1MVGlHWWo2eWF5UVJZZTRiVDh4M2pGQUh5NXl6cWJCT01rV0tlMXdMU2hyejhUWEZPZ0ptajlQY3NzRHJFcWhrcVdaVzk1YmZqQVHSAbMBQVVfeXFMTkRBbGRSdTZTdE5UVW1fUTFCTU5pTmwtMDd6Q2hFN1Yxcm1HaHdnM0J4S3lmZDlyMlFMTUxBOGhzYzJqLTc0MF9XeTd2SV9qYXZxX2k5MnVSanYwcFdpMFYtREloQm02OGJvdF9NY2Q3MU4wM1d1bEZObjkwZ0p3akp5aDBKcWowckhkeDRFQ3BFa2xZbXYtOHVIdkR1VFVoQ1NjaG9aQnYzSjQ2WWRUQWppRkU?oc=5",
-      "summary": "Perplexity Computer now runs fully locally, securely, and privately on Mac MacDailyNews",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "How AI Agents Are Changing Online Shopping - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0ViNUt1djJPMFItRzdQUU1jNE1yOGU5UHBoOElvYmpXUGNXQTJwOFJSRldsN2VoemgxbHRRMU1sYmZXTzNEcGJrRldUaXE4c043ZE96ZnUwSVZJYmZfRzBSZzMyb0dTc01LN3hPZFF0QXlqYUxXM3lOcTdSLXhyRDFB?oc=5",
-      "summary": "How AI Agents Are Changing Online Shopping Newsweek",
-      "badge": "new",
-      "date": "2026-10-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
-      "badge": "hot",
-      "date": "2026-10-20"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple announces the next generation of HomePod mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
-      "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
-      "badge": "new",
-      "date": "2026-10-20"
     },
     {
       "company": "Google",
@@ -592,14 +600,6 @@
       "summary": "UN System Data Commons Data webpage",
       "badge": "new",
       "date": "2026-09-17"
-    },
-    {
-      "company": "Google",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "badge": "hot",
-      "date": "2026-09-15"
     },
     {
       "company": "Amazon",
