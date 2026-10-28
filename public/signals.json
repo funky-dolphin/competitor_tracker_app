@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-28T03:38:11Z",
+  "updated": "2026-10-28T11:58:32Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Amazon relaxes push for AI use as Anthropic reveals shocking stats - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVmNYTzcxeFpBNVduX2JnRzcwODFoRE50Y0JKcEQ2QnE0WkE1emllTDFJTDBrOHFMd2oxMkY1V2xxeUM1RHpOam9hVC1zUkNiN3JVR2NHZTNMbmQxUmNQMTF3UjE1QWZCNDBqVTZucVpTS05nRW5BUw?oc=5",
+      "summary": "Amazon relaxes push for AI use as Anthropic reveals shocking stats Fox News",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblo5NXRfeFc1dWFZVks0QmFUbmRVaDd1RVM0ZHNLRTRtTjJma0lhNndpT09lZy1UWEVrbUcydTVDMzh3aGgwTl9mb0xfS0FnV3Jxb3E0enNLdjdHR3pvLVlMTjdHd2ltczZsX053aWt1QUEyVzlTRHJnWDlUc3RORlFpRm1neDVVNEE5WUROU0JhcjBTMUFYQ0RNUDZUSWlfRHc3Mnh1X0owQ3JiMGVF?oc=5",
+      "summary": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers Business Insider",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
     {
       "company": "Apple",
       "title": "Apple introduces the new 14-inch MacBook Pro with M6",
@@ -42,6 +66,14 @@
       "date": "2026-10-28"
     },
     {
+      "company": "Amazon",
+      "title": "Amazon’s October Hardware Wave: New Alexa Tablets, Kindles, Ring Devices, Fire TV Stick and AI Wearables - Innovation Village",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzdqbFJLN0N5TE91RV85MmpsN2RZZ0RZVzJveElGRU1BcEpjaWhzU3BNaFJUZlIxc2E2M1d1SFZhVEo1ZzZycWZtUENjc2V1bnk1bUJyTDlJWDYyejZlQk5EWUpRYUZFVEtpZmRHUW5feGRURW9NN2xWai1XZnQzSWoxeFAteW1sajdKcmJRb1VteWt0Wk1WQ29kbFBmZnZ5dTZkZmt1aVRzbWxSeWxFb3IzUmh2ZWhCMndSTXhDQnQyRjlxZUJlN1dWRQ?oc=5",
+      "summary": "Amazon’s October Hardware Wave: New Alexa Tablets, Kindles, Ring Devices, Fire TV Stick and AI Wearables Innovation Village",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
       "company": "OpenAI",
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
       "url": "https://openai.com/index/retell-ai",
@@ -75,6 +107,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic IPO filing reveals AI security breaches, training halt - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
+      "summary": "Anthropic IPO filing reveals AI security breaches, training halt Fox News Anthropic's IPO filing lists 93 pages of risks. What could possibly go wrong? CBS News Inside Anthropic’s IPO + How AI Agents ",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs - R&D World",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG5QVkVkdXoyQ0N3eEFmbjBtdGtNNC1jalU4ck1HZ25Ea011cWw0Y2VIY2k0RkhORWppN21pV0Jwd1Q1ZHpYOGNNTTVnM0RpYllJZG9wTS0xczNhMWt4ZE5QcnFVa3FjM0F5dnhYczQtSS1SOXdpU2dlUVhyQVNBd2phbUhOQzZOVktnQjlB?oc=5",
       "summary": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs R&D World",
@@ -94,14 +134,6 @@
       "title": "Anthropic illegally trained Claude with Stanford professors’ books - The Stanford Daily",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzktZjBLLXdtYmMxRG9iX1A1bVpYTjVraVF2R2drRm43TDhpRnZnZVhjQUd3b1E4WkR5clpvWVpaUUJTLWFxNGtYd0dHdFBTRk12YUpVWUJZZG15dlYwWWlibkFEUkExN2NodEhZZlMzalNJRk83MTcyWkFNYThUejcwTkQ?oc=5",
       "summary": "Anthropic illegally trained Claude with Stanford professors’ books The Stanford Daily",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO filing reveals AI security breaches, training halt - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
-      "summary": "Anthropic IPO filing reveals AI security breaches, training halt Fox News Anthropic's IPO is risky business CNBC Anthropic's expansion into biotech brings new risks — and opportunities Axios",
       "badge": "new",
       "date": "2026-10-27"
     },
@@ -130,26 +162,18 @@
       "date": "2026-10-27"
     },
     {
-      "company": "Anthropic",
-      "title": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdLMFpXUmh5WjlTQUxaOExSbmM0bTV2bGRRY05iSnNfT1BnZ3l6OWFON2hYMlh0MnNyeDV3c2NGN2dHUl9xbVo0SHJzdkFHUWFfNHdNU2g0RktoYnZPdXc4ZEcxNW5SRzU3Njg4VzhscE14ODk3T0tONHBSYnFMNk5IYXdvSDktY2FNZDR2Tnd0dG82NHBuQUV0d3lVWVBoYkpNM1dwcjJCVDRseTVwQkxZWEpFNkhHOUFTRA?oc=5",
-      "summary": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart Reuters",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-      "summary": "Anthropic | History, Controversies, & Claude AI Britannica",
+      "company": "Microsoft",
+      "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
+      "summary": "The platform approach to becoming Frontier The Official Microsoft Blog",
       "badge": "new",
       "date": "2026-10-27"
     },
     {
       "company": "Microsoft",
-      "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
-      "summary": "The platform approach to becoming Frontier The Official Microsoft Blog",
+      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year - The Register",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0IzSktLdXgxUmhndUdWQnRXSTg3RjEzdEpoRzFGMVlwVE9HOWViQ094YWdpTl9fWGJGVVFVQnVPZTd2NS1HZEpaSndiME5wb0t0cXdHVGdydzJpejRtWHlud2d5R1Z5cml2a2g3RlB1RnBBa0FaYjBiTHQ4Q0pQY2JEdW9JWDJfbWpONlhEQ2NwR0o2X1FfWUNNYzBxWkxDSFBHbEVxVFpXWThoY1dmVTlpb1lQUzg1d0ZVTms2aERjaFBPVVE?oc=5",
+      "summary": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year The Register",
       "badge": "new",
       "date": "2026-10-27"
     },
@@ -171,9 +195,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year - The Register",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0IzSktLdXgxUmhndUdWQnRXSTg3RjEzdEpoRzFGMVlwVE9HOWViQ094YWdpTl9fWGJGVVFVQnVPZTd2NS1HZEpaSndiME5wb0t0cXdHVGdydzJpejRtWHlud2d5R1Z5cml2a2g3RlB1RnBBa0FaYjBiTHQ4Q0pQY2JEdW9JWDJfbWpONlhEQ2NwR0o2X1FfWUNNYzBxWkxDSFBHbEVxVFpXWThoY1dmVTlpb1lQUzg1d0ZVTms2aERjaFBPVVE?oc=5",
-      "summary": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year The Register",
+      "title": "Sweden blocks ChatGPT and Claude but keeps Copilot - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eam8zTWotY0RlVUNXVXV6M1lYSHVHMk53SVV4Vkw4T1IwcE5vNVE4VHYzXzJlVUdLT1JDRzVJUDlJZ1dBcG95MGxtWkQ5X1I3UXBkblJrSFBxZ19mQ3l0U3pZX29hRGRxTW5kOHhydUx4cXhu?oc=5",
+      "summary": "Sweden blocks ChatGPT and Claude but keeps Copilot Cybernews",
       "badge": "new",
       "date": "2026-10-27"
     },
@@ -387,25 +411,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
-      "summary": "Meta eyes record $97.5 billion equity raise to fund AI expansion Reuters",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "Meta",
-      "title": "Bill Gates is a ‘fan’ of Meta's AI agent Muse; says: I talked to Alexandr Wang about it, congratulated hi - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTlhHdVdLMnpCNzZrVW5KNWRrb3czMVB6ZHo5d1d5b3ZLNi1xNGx2YllOMk5kYVN5XzVMOFVwVDlHalc5RllDRzUxX0dsM1cwdGhDamlTMVl0VzlSNUEwTjVRMlUtTzVrQTcxNkFEak1aZERMNXVFNmZUb0dTYmNxYUNETldpSm5mQkhwVG9NamNkRXpZZWdja09MV0dtTzlEaUM5dlQtWkR0ZUxkV3lXQTdfMTBRUDJ3Qmh6M2pmdGM5blkwSVVBeUFDTUFkSENEMlpfd0xCbDUwRENYQlVXQlMteHNKQkpKUjdYLU5nSlpjUi1meWJ3ZFZpNXdKYjlXQl95dHlKNzQ5YWxaNVdLTGZEZGg3b2ZhY3dnSzFFbGkwN3BtWUIw0gGsAkFVX3lxTE1Ubmx2Z0RHRGJJNUxsYnZHMm5ZSS16NnEzV3RVUDBFWGtQWlhON1NBb2N6WGx1R2wwRTJ3VG9VV1drTHFZZFYtWlk2TGY0Q2JscXkyUzM1b0dKNWhYTEdtVjBsRkZiZ3lyNzZrd0tkclNBbVA4M2JHdWE5OFFTalZPOXUxTDBuTWkxYWhTWmFIOXROUks1THBpbkVRSkZjS3RNd290U1k0OWhfcGVnc0JCenR5TnRieVlYdlFmTWpvWUJxb0xwdWR5a1lBN2hlRWFsNUFmSWJrcU91aDNFemZGS0pnVktMYVowc1g2MTB3T3NBc0tLTGhLMkV3bG5tUVpOX3hpVGJoQmt2Q0pWajBXaEtzNTFiSkQ2UV9fTTBjaUswdzFoQzgyRU9NRQ?oc=5",
-      "summary": "Bill Gates is a ‘fan’ of Meta's AI agent Muse; says: I talked to Alexandr Wang about it, congratulated hi The Times of India",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "Meta",
       "title": "Meta announces $95 billion stock offering to fund AI expansion - CNBC",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
       "summary": "Meta announces $95 billion stock offering to fund AI expansion CNBC",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
+      "summary": "Meta eyes record $97.5 billion equity raise to fund AI expansion Reuters",
       "badge": "new",
       "date": "2026-10-26"
     },
@@ -419,27 +435,19 @@
     },
     {
       "company": "Meta",
+      "title": "Bill Gates is a ‘fan’ of Meta's AI agent Muse; says: I talked to Alexandr Wang about it, congratulated hi - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTlhHdVdLMnpCNzZrVW5KNWRrb3czMVB6ZHo5d1d5b3ZLNi1xNGx2YllOMk5kYVN5XzVMOFVwVDlHalc5RllDRzUxX0dsM1cwdGhDamlTMVl0VzlSNUEwTjVRMlUtTzVrQTcxNkFEak1aZERMNXVFNmZUb0dTYmNxYUNETldpSm5mQkhwVG9NamNkRXpZZWdja09MV0dtTzlEaUM5dlQtWkR0ZUxkV3lXQTdfMTBRUDJ3Qmh6M2pmdGM5blkwSVVBeUFDTUFkSENEMlpfd0xCbDUwRENYQlVXQlMteHNKQkpKUjdYLU5nSlpjUi1meWJ3ZFZpNXdKYjlXQl95dHlKNzQ5YWxaNVdLTGZEZGg3b2ZhY3dnSzFFbGkwN3BtWUIw0gGsAkFVX3lxTE1Ubmx2Z0RHRGJJNUxsYnZHMm5ZSS16NnEzV3RVUDBFWGtQWlhON1NBb2N6WGx1R2wwRTJ3VG9VV1drTHFZZFYtWlk2TGY0Q2JscXkyUzM1b0dKNWhYTEdtVjBsRkZiZ3lyNzZrd0tkclNBbVA4M2JHdWE5OFFTalZPOXUxTDBuTWkxYWhTWmFIOXROUks1THBpbkVRSkZjS3RNd290U1k0OWhfcGVnc0JCenR5TnRieVlYdlFmTWpvWUJxb0xwdWR5a1lBN2hlRWFsNUFmSWJrcU91aDNFemZGS0pnVktMYVowc1g2MTB3T3NBc0tLTGhLMkV3bG5tUVpOX3hpVGJoQmt2Q0pWajBXaEtzNTFiSkQ2UV9fTTBjaUswdzFoQzgyRU9NRQ?oc=5",
+      "summary": "Bill Gates is a ‘fan’ of Meta's AI agent Muse; says: I talked to Alexandr Wang about it, congratulated hi The Times of India",
+      "badge": "new",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s AI ambitions raise questions over returns as spending mounts (META:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmk2RjFLMl9sNzVIT2FXbG0zMG55bEI0Y1dCMTMxT09LejV2Vm5XRlpqb2MzQUNsckRVNmRTV2NrQTZJYVk5R052UTA4dExVX2gtaGpBdmZQdEtjaGZEMlRWQTZTRks0WWhfZkZCSS1jTktQTVZRazAyX0RKTzFHWUlmN1MyQVl0a2tNNDFDaVl2bEc5X3VTYWNhZFBYZjF1WUM5WDdaNA?oc=5",
       "summary": "Meta’s AI ambitions raise questions over returns as spending mounts (META:NASDAQ) Seeking Alpha",
       "badge": "new",
       "date": "2026-10-26"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Sweden's government blocks ChatGPT and Claude, keeps Copilot - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkJGLXdiMlliSjhNa0JIVUVTeXlPQmx2bDNfaEtxWU96MnEtc3JaUHkwWnBJXy1EcTNJMzhrU3ExTjFBaWs4SFBMaVdjY1FwdTd4MW15UDNkaWFnajd2TmpESXVaOGZxblVCWFkxQ2N2NXFBcHhWU1lmRGZZLVE1eUJEYzR1RUpmSW5vdUJsUFk2QklRcWhqM0RMU2pvbDhpMko4S1QzZw?oc=5",
-      "summary": "Sweden's government blocks ChatGPT and Claude, keeps Copilot Notebookcheck",
-      "badge": "new",
-      "date": "2026-10-25"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s Unending AI Spending - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
-      "summary": "Meta’s Unending AI Spending WSJ",
-      "badge": "new",
-      "date": "2026-10-25"
     },
     {
       "company": "Meta",
@@ -450,12 +458,12 @@
       "date": "2026-10-25"
     },
     {
-      "company": "OpenAI",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "company": "Meta",
+      "title": "Meta’s Unending AI Spending - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
+      "summary": "Meta’s Unending AI Spending WSJ",
       "badge": "new",
-      "date": "2026-10-23"
+      "date": "2026-10-25"
     },
     {
       "company": "Perplexity",
@@ -629,14 +637,6 @@
       "company": "Amazon",
       "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdklrRXRoU1Z5VFhUeHVZRTFmVTZiaEllMllQdzAtNjFyWTZOaDJ6dWl5Rm5IQjRUaHFlamVjZkR0X3o5WkhkTlg0WkhBLTRLYXU4bWJyQVhHbmFYSXc1QThYOEMxZ2NONGIwTHNmMVo4QWRQMTA5WlEtemhRNmR1ZTBtdmhBbTFnWjVCazZuc2U2aFNkRmpxRmFnQnlFbjhvbzFoekI5Y3dRVEtVdXRBWjl1Smk?oc=5",
-      "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
-      "badge": "new",
-      "date": "2026-08-26"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing - CNET",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclo2VXRTUHhnRmNfU2ZhUmltcWF3d25RUEZzeDU3Y0p3V2lra3pyYW13TnhfVXhPR2kzdHZfQ3dFaUEzb1JUMTUxai02NWkxTzVyazE2MFpFMV9QdFA3MjhGV1A3eS1ZdExUelVPZkpUTkhQSEVxY2Z1LTB0anZkQ1ZYcFo0bExtMnYyeFV0eTB4bWNRcS11cUhLWEpoc0JjYjBlU0JLS292Vm9kN2lJeUlxTG5OM3M?oc=5",
       "summary": "Ring Gave Itself a Security Makeover Called TAKE. Here’s What’s Actually Changing CNET",
       "badge": "new",
       "date": "2026-08-26"
