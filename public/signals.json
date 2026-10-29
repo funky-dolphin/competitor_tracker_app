@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-29T03:58:25Z",
+  "updated": "2026-10-29T12:09:03Z",
   "signals": [
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSktIaXJTMDZTSzBBQ1VIUW03ajJzZ2JQV1VYOFN2amxQbTdQQVk5NjQybDlpakZmRFZBWkRqdFJ0VEgxMlpqT181Y0N3YmFVall0N08tdzVSMHVrYm5QdW5pbmxTNU1YeTFSemY4MjNVTlliaUJOeXNYM3BzMDhQU1M0c3VEejRwOWNlQkhFSQ?oc=5",
-      "summary": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] shattered.io",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2xKMjJsUnppQ1l5U0V0MXN6UElta0dHN1RILVZZdnVuTTc4LUFYQkhYTTJXUWpMRndnR1ZKdUZUZ3hxQUQxZzgyTW9SNTFETWxBODJUS1dKMmpwQTFpeVJQeDZkdWZpUk56TU1hb1hQMVUycGxpSHBDcC10d1JqU0c0WjZQZTVTZnExTFBobVZnTTU0X3AzQ2ZkQQ?oc=5",
-      "summary": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. Yahoo Finance",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
     {
       "company": "Apple",
       "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
@@ -55,6 +39,22 @@
       "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
       "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
       "badge": "hot",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSktIaXJTMDZTSzBBQ1VIUW03ajJzZ2JQV1VYOFN2amxQbTdQQVk5NjQybDlpakZmRFZBWkRqdFJ0VEgxMlpqT181Y0N3YmFVall0N08tdzVSMHVrYm5QdW5pbmxTNU1YeTFSemY4MjNVTlliaUJOeXNYM3BzMDhQU1M0c3VEejRwOWNlQkhFSQ?oc=5",
+      "summary": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] shattered.io",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2xKMjJsUnppQ1l5U0V0MXN6UElta0dHN1RILVZZdnVuTTc4LUFYQkhYTTJXUWpMRndnR1ZKdUZUZ3hxQUQxZzgyTW9SNTFETWxBODJUS1dKMmpwQTFpeVJQeDZkdWZpUk56TU1hb1hQMVUycGxpSHBDcC10d1JqU0c0WjZQZTVTZnExTFBobVZnTTU0X3AzQ2ZkQQ?oc=5",
+      "summary": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. Yahoo Finance",
+      "badge": "new",
       "date": "2026-10-29"
     },
     {
@@ -106,6 +106,14 @@
       "date": "2026-10-28"
     },
     {
+      "company": "Apple",
+      "title": "Apple gives iPad mini its biggest update ever",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.",
+      "badge": "hot",
+      "date": "2026-10-28"
+    },
+    {
       "company": "Anthropic",
       "title": "Amazon relaxes push for AI use as Anthropic reveals shocking stats - Fox News",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVmNYTzcxeFpBNVduX2JnRzcwODFoRE50Y0JKcEQ2QnE0WkE1emllTDFJTDBrOHFMd2oxMkY1V2xxeUM1RHpOam9hVC1zUkNiN3JVR2NHZTNMbmQxUmNQMTF3UjE1QWZCNDBqVTZucVpTS05nRW5BUw?oc=5",
@@ -126,6 +134,38 @@
       "title": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblo5NXRfeFc1dWFZVks0QmFUbmRVaDd1RVM0ZHNLRTRtTjJma0lhNndpT09lZy1UWEVrbUcydTVDMzh3aGgwTl9mb0xfS0FnV3Jxb3E0enNLdjdHR3pvLVlMTjdHd2ltczZsX053aWt1QUEyVzlTRHJnWDlUc3RORlFpRm1neDVVNEE5WUROU0JhcjBTMUFYQ0RNUDZUSWlfRHc3Mnh1X0owQ3JiMGVF?oc=5",
       "summary": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers Business Insider",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE) - icobench.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDRBWTZmM1V4VlBLTXptQlRINldsY2Y4blgtUm9LLTUzdW9yUC1tbEhFSjlOWDRDeGFuNG52UDFSR1BNODhUYUlzbjRVWUd3VUpkQ0Ywb2tWTEM3OXJpQXo2VlVqZ0FOQWxxUHNyQTA3Umc2cURCcS12ZTJLdnVpcGRqNE1UQQ?oc=5",
+      "summary": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE) icobench.com",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS01mZS1TU2dDREU1SGRrNThNNFhreVFjTmEwd1ZXTmxmTndqMlhHWnp6d3BnSU1ZRzByR0d4SEoyVFlDM3Nic2o1bzZ1akFkRGxkREZKMUlHekh3NXJyMDlhYW54ZzdnSlYzbE1Id01Oc1VmVllFX2JPOTRISXJfYTlvWjY3aGdEQmVDc2poQ0xuQURRNlE?oc=5",
+      "summary": "Perplexity upgrades Mac app with ChatGPT-powered voice mode 9to5Mac",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Aravind Srinivas looked up to Google CEO Sundar Pichai before building Perplexity AI; how an unexpected de - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPcjllZm5xS1ppWDdiZks0YnpBMVlyNWJpeGRmczdsUHpJMmswTWVaY3dWTFdKaVZVRndSVE91V2ZNUk56RC1FeS16LWl0b0hnQ1dLSnQ3SHFDNC1wM2t4Z2hGd0x4cmhsR2d0bFhzcUp6VkQ1RmtYM0NuMUJjSWFCNWtoNDR0R1NBREpZSndNNWw0dTByRkNKTUkwUlVTSXY4R2pnNDBuN3lYVXgxcVpaTVdGaUdUTHFqVV9kQ3RaY3plMGR1SEsySWw4aUl0aE5UbGdHVjVjZ0ZZZFViZGlhYU5sLVpxYUY3b3pvZnVDbFRsdmc1VjEzSHozZ2EtN1ROWm1tV2dUSThHN1hEYWQ3bTgzckFKZUtUZ2R5YzVpVdIBpAJBVV95cUxNTG5KVTZYWnI1U254UkhHNEQ0dDV4YVNzb1VxTVphbk5DM2xvT2tINlI4TmlSYjlnLTRJb1dZZkNua1VpeVhxRS1tR2RueGpJTkNVX1BOU1dObG45V1M5S1hOWWxXWkY4bDVXSGU4SkxsMUxPaHhkRm16OVhWQVlsaTAwc25mSDV3SXVlZ25YVVloaWJNU3A2YXJsVTFacnZhTW5DdUt2aUlUUGJReGl2T3otTjVoR256cjItWU9aQUNLR0ZEeVJyTHJJQVJ5M2dxSEJhbGpGSmZVRmJHMmtBTHZCNGZvWnZtYndUbkFwR3ZDdFVtMXdpbGdFOXh1VXc2S2Q0T0dCRWs4eDFqbUF3WVRiWTI2XzBkdG05bmZETHZiaVF3?oc=5",
+      "summary": "Aravind Srinivas looked up to Google CEO Sundar Pichai before building Perplexity AI; how an unexpected de The Economic Times",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Meta",
+      "title": "If You're In the UK or EU, Here's How to Object to Meta's AI Training - 404 Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWHFJYjdwcm92Mm5wRHY3NEFwU2dVRWxmZUVRS3JiUjlkT204MU5wVzB5akppU1BXUUp6X2t0cmVMejBwNHZqQkM1bHFTSm00emJEaW9XYUV4Q28?oc=5",
+      "summary": "If You're In the UK or EU, Here's How to Object to Meta's AI Training 404 Media",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -170,46 +210,6 @@
       "date": "2026-10-28"
     },
     {
-      "company": "Apple",
-      "title": "Apple gives iPad mini its biggest update ever",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.",
-      "badge": "hot",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE) - icobench.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDRBWTZmM1V4VlBLTXptQlRINldsY2Y4blgtUm9LLTUzdW9yUC1tbEhFSjlOWDRDeGFuNG52UDFSR1BNODhUYUlzbjRVWUd3VUpkQ0Ywb2tWTEM3OXJpQXo2VlVqZ0FOQWxxUHNyQTA3Umc2cURCcS12ZTJLdnVpcGRqNE1UQQ?oc=5",
-      "summary": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE) icobench.com",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS01mZS1TU2dDREU1SGRrNThNNFhreVFjTmEwd1ZXTmxmTndqMlhHWnp6d3BnSU1ZRzByR0d4SEoyVFlDM3Nic2o1bzZ1akFkRGxkREZKMUlHekh3NXJyMDlhYW54ZzdnSlYzbE1Id01Oc1VmVllFX2JPOTRISXJfYTlvWjY3aGdEQmVDc2poQ0xuQURRNlE?oc=5",
-      "summary": "Perplexity upgrades Mac app with ChatGPT-powered voice mode 9to5Mac",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Aravind Srinivas looked up to Google CEO Sundar Pichai before building Perplexity AI; how an unexpected de - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPcjllZm5xS1ppWDdiZks0YnpBMVlyNWJpeGRmczdsUHpJMmswTWVaY3dWTFdKaVZVRndSVE91V2ZNUk56RC1FeS16LWl0b0hnQ1dLSnQ3SHFDNC1wM2t4Z2hGd0x4cmhsR2d0bFhzcUp6VkQ1RmtYM0NuMUJjSWFCNWtoNDR0R1NBREpZSndNNWw0dTByRkNKTUkwUlVTSXY4R2pnNDBuN3lYVXgxcVpaTVdGaUdUTHFqVV9kQ3RaY3plMGR1SEsySWw4aUl0aE5UbGdHVjVjZ0ZZZFViZGlhYU5sLVpxYUY3b3pvZnVDbFRsdmc1VjEzSHozZ2EtN1ROWm1tV2dUSThHN1hEYWQ3bTgzckFKZUtUZ2R5YzVpVdIBpAJBVV95cUxNTG5KVTZYWnI1U254UkhHNEQ0dDV4YVNzb1VxTVphbk5DM2xvT2tINlI4TmlSYjlnLTRJb1dZZkNua1VpeVhxRS1tR2RueGpJTkNVX1BOU1dObG45V1M5S1hOWWxXWkY4bDVXSGU4SkxsMUxPaHhkRm16OVhWQVlsaTAwc25mSDV3SXVlZ25YVVloaWJNU3A2YXJsVTFacnZhTW5DdUt2aUlUUGJReGl2T3otTjVoR256cjItWU9aQUNLR0ZEeVJyTHJJQVJ5M2dxSEJhbGpGSmZVRmJHMmtBTHZCNGZvWnZtYndUbkFwR3ZDdFVtMXdpbGdFOXh1VXc2S2Q0T0dCRWs4eDFqbUF3WVRiWTI2XzBkdG05bmZETHZiaVF3?oc=5",
-      "summary": "Aravind Srinivas looked up to Google CEO Sundar Pichai before building Perplexity AI; how an unexpected de The Economic Times",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "If You're In the UK or EU, Here's How to Object to Meta's AI Training - 404 Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWHFJYjdwcm92Mm5wRHY3NEFwU2dVRWxmZUVRS3JiUjlkT204MU5wVzB5akppU1BXUUp6X2t0cmVMejBwNHZqQkM1bHFTSm00emJEaW9XYUV4Q28?oc=5",
-      "summary": "If You're In the UK or EU, Here's How to Object to Meta's AI Training 404 Media",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
       "company": "Amazon",
       "title": "Amazon’s October Hardware Wave: New Alexa Tablets, Kindles, Ring Devices, Fire TV Stick and AI Wearables - Innovation Village",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzdqbFJLN0N5TE91RV85MmpsN2RZZ0RZVzJveElGRU1BcEpjaWhzU3BNaFJUZlIxc2E2M1d1SFZhVEo1ZzZycWZtUENjc2V1bnk1bUJyTDlJWDYyejZlQk5EWUpRYUZFVEtpZmRHUW5feGRURW9NN2xWai1XZnQzSWoxeFAteW1sajdKcmJRb1VteWt0Wk1WQ29kbFBmZnZ5dTZkZmt1aVRzbWxSeWxFb3IzUmh2ZWhCMndSTXhDQnQyRjlxZUJlN1dWRQ?oc=5",
@@ -238,6 +238,30 @@
       "title": "How Check Point accelerates vulnerability research with Daybreak",
       "url": "https://openai.com/index/check-point-daybreak",
       "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Apple",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
+      "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
+      "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Apple",
+      "title": "Developers bring incredible new app experiences to iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+      "summary": "Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.",
       "badge": "new",
       "date": "2026-10-27"
     },
@@ -278,70 +302,6 @@
       "title": "Anthropic IPO filing reveals AI security breaches, training halt - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
       "summary": "Anthropic IPO filing reveals AI security breaches, training halt Fox News Anthropic's IPO filing lists 93 pages of risks. What could possibly go wrong? CBS News Inside Anthropic’s IPO + How AI Agents ",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "The AI advantage your company can keep - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDVfTHRUMGw0ZVBFOC1mMThVOUsyN0llV3RhT1NaWElkNHpPQnA1UTYyUFZVaTdyRlFOV21GdEJQUjNmd2p6bFZwdUtSZ3FBWk5SOGdMeGhXOWljLWc4d0QyN1lEMkN6RU56R3RDeHNwNjhUWW9Gc3RjWVRORGREaV9ZeVBmN3hmRFptcjRjU2ZLbHQtbEk4dFQtUQ?oc=5",
-      "summary": "The AI advantage your company can keep Microsoft",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year - The Register",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0IzSktLdXgxUmhndUdWQnRXSTg3RjEzdEpoRzFGMVlwVE9HOWViQ094YWdpTl9fWGJGVVFVQnVPZTd2NS1HZEpaSndiME5wb0t0cXdHVGdydzJpejRtWHlud2d5R1Z5cml2a2g3RlB1RnBBa0FaYjBiTHQ4Q0pQY2JEdW9JWDJfbWpONlhEQ2NwR0o2X1FfWUNNYzBxWkxDSFBHbEVxVFpXWThoY1dmVTlpb1lQUzg1d0ZVTms2aERjaFBPVVE?oc=5",
-      "summary": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year The Register",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
-      "summary": "The platform approach to becoming Frontier The Official Microsoft Blog",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVpsQmZ1dXFSVUdDTmFXVHZVNGowZzA4RkQyZ0xJQjRzYjRVeHNkYjMzVURnOFBILS13cnFIWF94eDF4NEREM2dNTXpnV3BRTExhQWY4U0VGcVpHZ0tkVl90X3FsVmRsemdrOXVXcjlSa2FmVWJ3N0t2aUhnWnJYdFdfWlVvdHl0Z3Z1blNYbmlhZDdzcXVFWUx5VS16R2ZxM0ZJQ1plaUNUd2h4TDVXVnJrRUctTWswSl9GX3NCMnF2QzV6blcyZGoxanRZblA4TWx4Z2tqRm5qclF2YWRFVEFnYUJFQzhnRzJuTERpejhNRmVXLWE4?oc=5",
-      "summary": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar Windows Central",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot Notebooks Turns Project Files Into Drafts: What to Check - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORF8wVmdOSG9xeVJIUXRWMmFHWjhwTUpENXhXeTYzY3FPcWRldlF6UGU4d21ja1VCWjhKR3JOc3UyemEya0lCVF9EZWdpSmF0QVREeHloUlNvSWhNZnlHbWsyUmpBY2Q5NXhEZlF2WmRVUmVHSF9OWHNyMkdxbzBZSU9vMG1neHdhRm4xRE53?oc=5",
-      "summary": "Copilot Notebooks Turns Project Files Into Drafts: What to Check TechRepublic",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Apple",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
-      "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Developers bring incredible new app experiences to iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
-      "summary": "Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.",
       "badge": "new",
       "date": "2026-10-27"
     },
@@ -406,6 +366,46 @@
       "title": "Meta Platforms’ (META) AI Agent Opens a New Growth Opportunity - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWQtOGc3Y0pDQzBqVEFhWGVULXNrQ3ZWR2ZEWnBxdlhjUTJLYVgzTUltbVB1RVpNNF9JNXplcVJhTzk4b3E1amJpcmxjaXlfX0VNOGZTU2VxYnlGcWtweHNxS05waVdsbWM2YUZJelNnOVZ2dlJ3aDZ0aEhQWkFoX1RrUnRXZkh0X1pjQlE2bVhjaU9Xd0hV?oc=5",
       "summary": "Meta Platforms’ (META) AI Agent Opens a New Growth Opportunity Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The AI advantage your company can keep - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDVfTHRUMGw0ZVBFOC1mMThVOUsyN0llV3RhT1NaWElkNHpPQnA1UTYyUFZVaTdyRlFOV21GdEJQUjNmd2p6bFZwdUtSZ3FBWk5SOGdMeGhXOWljLWc4d0QyN1lEMkN6RU56R3RDeHNwNjhUWW9Gc3RjWVRORGREaV9ZeVBmN3hmRFptcjRjU2ZLbHQtbEk4dFQtUQ?oc=5",
+      "summary": "The AI advantage your company can keep Microsoft",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year - The Register",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0IzSktLdXgxUmhndUdWQnRXSTg3RjEzdEpoRzFGMVlwVE9HOWViQ094YWdpTl9fWGJGVVFVQnVPZTd2NS1HZEpaSndiME5wb0t0cXdHVGdydzJpejRtWHlud2d5R1Z5cml2a2g3RlB1RnBBa0FaYjBiTHQ4Q0pQY2JEdW9JWDJfbWpONlhEQ2NwR0o2X1FfWUNNYzBxWkxDSFBHbEVxVFpXWThoY1dmVTlpb1lQUzg1d0ZVTms2aERjaFBPVVE?oc=5",
+      "summary": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year The Register",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
+      "summary": "The platform approach to becoming Frontier The Official Microsoft Blog",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVpsQmZ1dXFSVUdDTmFXVHZVNGowZzA4RkQyZ0xJQjRzYjRVeHNkYjMzVURnOFBILS13cnFIWF94eDF4NEREM2dNTXpnV3BRTExhQWY4U0VGcVpHZ0tkVl90X3FsVmRsemdrOXVXcjlSa2FmVWJ3N0t2aUhnWnJYdFdfWlVvdHl0Z3Z1blNYbmlhZDdzcXVFWUx5VS16R2ZxM0ZJQ1plaUNUd2h4TDVXVnJrRUctTWswSl9GX3NCMnF2QzV6blcyZGoxanRZblA4TWx4Z2tqRm5qclF2YWRFVEFnYUJFQzhnRzJuTERpejhNRmVXLWE4?oc=5",
+      "summary": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar Windows Central",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot Notebooks Turns Project Files Into Drafts: What to Check - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORF8wVmdOSG9xeVJIUXRWMmFHWjhwTUpENXhXeTYzY3FPcWRldlF6UGU4d21ja1VCWjhKR3JOc3UyemEya0lCVF9EZWdpSmF0QVREeHloUlNvSWhNZnlHbWsyUmpBY2Q5NXhEZlF2WmRVUmVHSF9OWHNyMkdxbzBZSU9vMG1neHdhRm4xRE53?oc=5",
+      "summary": "Copilot Notebooks Turns Project Files Into Drafts: What to Check TechRepublic",
       "badge": "new",
       "date": "2026-10-27"
     },
