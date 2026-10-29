@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-29T12:09:03Z",
+  "updated": "2026-10-29T22:20:17Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic vows to do the right thing. Can it succeed where Google failed? - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OeHprek10YlRmY2MteFhfeDdBLWJjbF9heS0xdi1rU21IZkFEbV9jOGU4Z0pYWmxVMi1DZ00xNmVRZWJvUzV0WFltNHRYOWxpYjZLOFBacS00Z1ZfcW12UkRXN09xdUs3THRoYjRkSGZ2SlU?oc=5",
+      "summary": "Anthropic vows to do the right thing. Can it succeed where Google failed? The Boston Globe",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEM3SHF5UUZnYkdJSE5hMWJaY1RQTWRpUG90YjhhWHhZcGtXT2FlcXpfdElleFRGbjdlVVZaR0J1cFpKRTJ3Vzc3ZFg4bG1rNDNvMG8zcVBxSTBPd1NxTTROemttQkN3clc0VUlIUElpenVHY2h3R2N2MXZoYlRXVkhIOUhRYU1YSzFxQXBlSXBiYXpTU0Z1Q0xEN2lQVnE5MDNQckNsYVFvQm9XdnVfMw?oc=5",
+      "summary": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment Reuters",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSktIaXJTMDZTSzBBQ1VIUW03ajJzZ2JQV1VYOFN2amxQbTdQQVk5NjQybDlpakZmRFZBWkRqdFJ0VEgxMlpqT181Y0N3YmFVall0N08tdzVSMHVrYm5QdW5pbmxTNU1YeTFSemY4MjNVTlliaUJOeXNYM3BzMDhQU1M0c3VEejRwOWNlQkhFSQ?oc=5",
+      "summary": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] shattered.io",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2xKMjJsUnppQ1l5U0V0MXN6UElta0dHN1RILVZZdnVuTTc4LUFYQkhYTTJXUWpMRndnR1ZKdUZUZ3hxQUQxZzgyTW9SNTFETWxBODJUS1dKMmpwQTFpeVJQeDZkdWZpUk56TU1hb1hQMVUycGxpSHBDcC10d1JqU0c0WjZQZTVTZnExTFBobVZnTTU0X3AzQ2ZkQQ?oc=5",
+      "summary": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. Yahoo Finance",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
+      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
     {
       "company": "Apple",
       "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
@@ -42,26 +106,50 @@
       "date": "2026-10-29"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSktIaXJTMDZTSzBBQ1VIUW03ajJzZ2JQV1VYOFN2amxQbTdQQVk5NjQybDlpakZmRFZBWkRqdFJ0VEgxMlpqT181Y0N3YmFVall0N08tdzVSMHVrYm5QdW5pbmxTNU1YeTFSemY4MjNVTlliaUJOeXNYM3BzMDhQU1M0c3VEejRwOWNlQkhFSQ?oc=5",
-      "summary": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] shattered.io",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2xKMjJsUnppQ1l5U0V0MXN6UElta0dHN1RILVZZdnVuTTc4LUFYQkhYTTJXUWpMRndnR1ZKdUZUZ3hxQUQxZzgyTW9SNTFETWxBODJUS1dKMmpwQTFpeVJQeDZkdWZpUk56TU1hb1hQMVUycGxpSHBDcC10d1JqU0c0WjZQZTVTZnExTFBobVZnTTU0X3AzQ2ZkQQ?oc=5",
-      "summary": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time. Yahoo Finance",
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
+      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
       "badge": "new",
       "date": "2026-10-29"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
-      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
+      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGdYSFlaYUJTMERsRXhfaFRxVFE5R2d0c2dEREpiaWJsbzJXYWlhRGFPSkFMSjU1dXp4Z3Z6aVQzc19CUVByQXhfWGNWV0FaRnEyM1l1WThsREFXZDVfdlJmbEd4ZHBSMlJuSFV0U3FYWm5OVWVRX0lwbFRFWWRUX055dG5sb3NOdjY5R2xlRDV4WVhwejZFVjdHSUY1ZHdvQUE?oc=5",
+      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Yahoo Tech",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity’s AI got some answers wrong, but it helped Aravind Srinivas find his first users - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUxfald0WFp3UWZGU1NySnl4THN2STF0eE9IRG5fbUZtOWZDLWZmQVFXUVlwRHdzc1BkNl9LRWxCekRxMDdaaC0xSFFZLWJUX1RQdnh3OHBhclpCMEtMbk9VaXpaY0NRcXFkWWxqeEMxWTBYejlaNFVCYXZCM3J1cUtCUGdYZzZKaUlJOE9EV0ZkWERWQlV0RDd4UXlmZUhuQ2JoWlhSZjNGanc2V3pSLUVOZVJfU1k0eEtYR0dGMi1BYTZLRUxpeExxejNNcnZXUDB5MHJlWUJ5V2lXbmJzekZ2UzYzdC1IbjFQM0trRdIB9AFBVV95cUxQWDdLc1M4Q2pja20wSTM5UTNicW14TU5jc0hFcUlETWh5Y205V1hnWUowZVZsMXFkVmFzLWJFeWN3N1o3dHd5VG5fVGdCdTgyYjlBd0FQMld0dzBlRTJXR0swb0x1NEV2R0o5cXBiOUdnMkJWOFFFQVEwc3BpWnlEUEZzbjVFLWJPaHJOeGd5Z1FSUjN5a092ZHJkM0dmVmxwTE8yS09INmI5dW1UZXVBczVkd2xKam4xR21zZDJvTW9VMHR0Uk9vQzRzREdfUmQxSnZyT3dGUVJXM0NLY1dPaXpTRXY0OUh6Um9GRUZTWk1XaElD?oc=5",
+      "summary": "Perplexity’s AI got some answers wrong, but it helped Aravind Srinivas find his first users The Economic Times",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AI Search Citations 2026: 360 Tests Show Domains Win - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1JtQUdiWVdXWTRuM0ZKOWk3eTVPNEFzTkhWNTdWSWhXbnpFYzBIVXFrUXhzVktqNF9kQVJrTTVLYXZuS2xaR0JzbHcwM0dXODJHTl9wTHFLSDV0bUdwNUl0Q2lkaGF6S0ktcVpSVkZHZDFFeldULUgxQk13YV8yc0hzeXlCR1lOak5NUzhSRXpHNnVB?oc=5",
+      "summary": "AI Search Citations 2026: 360 Tests Show Domains Win tech-insider.org",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launches two new AI apps, including one aimed at kids - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUp6UjZ2OVZ5Qm5waWpiWVR3cG9zc0VLUXEtNWYyUTJWaENtcWZVQWxTRGk2aFRvNjJHSW12VHYxeVY4Q09MbXpVcEJkY1kwUjFjVnU1SU5YcUFCVldUMTdLZ25LRDlWeVkwUC0xYUNELTM4aUNwc2hQcHcybXk0UkRvbmI5TlhKZG4xbE9fMWtmbVpOcXhWMnl5TTRDUVA3LWdOX0Jn?oc=5",
+      "summary": "Meta launches two new AI apps, including one aimed at kids Social Media Today",
+      "badge": "hot",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Delays Update Amid Concern About Scraping Websites for AI Training - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5",
+      "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training PCMag",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -106,11 +194,19 @@
       "date": "2026-10-28"
     },
     {
-      "company": "Apple",
-      "title": "Apple gives iPad mini its biggest update ever",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.",
-      "badge": "hot",
+      "company": "Anthropic",
+      "title": "AI for Science expands to foundations and research institutions - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+      "summary": "AI for Science expands to foundations and research institutions Anthropic",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Anthropic",
+      "title": "NEWSLETTER: Should you invest in Anthropic? Five takeaways from its S-1 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0k1aFM3cXppSjREQmI3Y3phQzItVW5CdXQ2Y21sN3pnRDd0YWp5YjdWNFJieVFwa2daeVhpV1NTWHNYT21CSm9LOW9hVDByaF9mSlY3VU9NNnliWW9vak43OGwzRnZTa2FVeXdob3hZejZ1R3BWSHpRTFljY0RTaWhnRUNmZ1J5M1B6eDNoSV92LTAxTFpsVi12OHVScWdKc0RXbDJUWF9SX3lzZEZjSWptSmtDRVJ2cXFxcDN3?oc=5",
+      "summary": "NEWSLETTER: Should you invest in Anthropic? Five takeaways from its S-1 Reuters Anthropic IPO May Spark AI Rally as Short Bets on Tech Pile Up Bloomberg.com Anthropic’s IPO Hype Meets Growing Investor",
+      "badge": "new",
       "date": "2026-10-28"
     },
     {
@@ -135,6 +231,62 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblo5NXRfeFc1dWFZVks0QmFUbmRVaDd1RVM0ZHNLRTRtTjJma0lhNndpT09lZy1UWEVrbUcydTVDMzh3aGgwTl9mb0xfS0FnV3Jxb3E0enNLdjdHR3pvLVlMTjdHd2ltczZsX053aWt1QUEyVzlTRHJnWDlUc3RORlFpRm1neDVVNEE5WUROU0JhcjBTMUFYQ0RNUDZUSWlfRHc3Mnh1X0owQ3JiMGVF?oc=5",
       "summary": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers Business Insider",
       "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUnllWG01c2NfbkdMV3c4SHZ0VWlXdm5yTF9nNjhIS0FhY0xkWG5EeUZ0Tlp1RHRXTUlWVHRNdWhKLVNILXpIYlR4aHpWYS1fWTdzVmd1SHA3U0hCQjlaYUxFSDFEZUowV2NpMWxGUjlTOGd1S2M4d0VuLVhXQndpU2pXcERJcXIzckpFV3hsRkJ4eFdqUjRGbW9yWlY0WDBTRkltTTVNS1JHSjE1SzJMVFJZcmFkTkxFandyTmtIOVZXMVRQWS1YUGIxRnItX3FrbzlYWk1jbkt5Zw?oc=5",
+      "summary": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness Microsoft",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
+      "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "How Microsoft quietly reinvented itself to build better AI - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUYtWnJyV0JscDRVMWdiVl81T05uRWNXUVFMa0haT1ZJMU1VYU1uYnE3STFNT0M0SDEzLWg2MjlremZldUV5SkJJRThRTE9KaDZhUHFMd2gyZXhydmxzd3FkaURZWUhOYVd1LW45ckhuUnNEemg5QW85M3M1TE1Rd1prdlI5NnNhT3hQR000NkV4c0xBc2h3TU9pM0toOVo1d1d4ZlUzTGMwVHRxaG9NSnZB?oc=5",
+      "summary": "How Microsoft quietly reinvented itself to build better AI Fast Company",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Next up: Microsoft needs to show Copilot momentum, one analyst says - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ1Fsa0dUU1JPMkk0dmE2M0owT3EyRmZqRFozV2xGNUZHNHlOUFg3REV3NjhVclJaUHBidGgyd2lpekVjcXExTDBzYUFTRWpfS3l0UjdhSlk4SndzYXNPRFNYYUFvV3dXQjJnaWZfUjIxU3VoR3pDR29fNzJ2enhfVnNqeFB2ZTVsZzRWakxlRDBUbEVzZWttVDlGYncxWUloSy1iUG13ZmdVWi1NS2dtWmFNb25DT01Lem5ETVoyMlJrdzR4eWdrR3BELTBVNUpfMUlMYjNPQjFoekdKeG5RWE5mV243WWtvVGpVZnJYZC01cGZJMFFYYmxHLWh6WTI0RGhoTTdrbw?oc=5",
+      "summary": "Next up: Microsoft needs to show Copilot momentum, one analyst says MarketWatch",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft to end Copilot support on smart TVs by end of year - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPemlkX0Fqa1RldzNTVXhXb0J0ZEd5NVYtb3ZONG1LNGM5N3JEdndXUEZyZ3V5ejhscnNmb0otWGRQSXFodExDTEVuUlVfbXUwVEhXeXVwd1B5Z0RGQWRUQmYxaXlScnd4WlVRS3E1SXB6dWEyaXd4UURFSjY0eHBEN1p2YXBoX1FjbHA3WUs5Vm93ZUxMbjVwZ1JGVUJRcTNyd0JqLVJVYmhyYkRYT1JXU2tlZm5zUDJCdzNUZjdRNk1JeG9laVhiRFBoczM1LXM5aHV5TTZaNUU0Wm5LRXdoNWkxR3pHcmV4aGhDOUtheExzSTM1dzcwX29nbDBfWm14YTVuX0dNazVUX2JNSnM3TWZsSk1qWTlvYnhnbnh3?oc=5",
+      "summary": "Microsoft to end Copilot support on smart TVs by end of year Windows Central",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft is killing off Copilot on smart TVs - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHplNl9FMm5Sb2wxYW9MX2J3bWRkX0ZYcm96YTEzVXdPOWZ0ZkFTVnhMdDM3U0JJYlJJVF9XU1B2VjItSXFhMS1Jd0w3bDNRX1UwcDRERFdscE9jZFg4UnBhRXlpX3Zhc0Z5VXRlYXgza1g2cFV6OGRycHZKOXc?oc=5",
+      "summary": "Microsoft is killing off Copilot on smart TVs Neowin",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple gives iPad mini its biggest update ever",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.",
+      "badge": "hot",
       "date": "2026-10-28"
     },
     {
@@ -166,46 +318,6 @@
       "title": "If You're In the UK or EU, Here's How to Object to Meta's AI Training - 404 Media",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWHFJYjdwcm92Mm5wRHY3NEFwU2dVRWxmZUVRS3JiUjlkT204MU5wVzB5akppU1BXUUp6X2t0cmVMejBwNHZqQkM1bHFTSm00emJEaW9XYUV4Q28?oc=5",
       "summary": "If You're In the UK or EU, Here's How to Object to Meta's AI Training 404 Media",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUnllWG01c2NfbkdMV3c4SHZ0VWlXdm5yTF9nNjhIS0FhY0xkWG5EeUZ0Tlp1RHRXTUlWVHRNdWhKLVNILXpIYlR4aHpWYS1fWTdzVmd1SHA3U0hCQjlaYUxFSDFEZUowV2NpMWxGUjlTOGd1S2M4d0VuLVhXQndpU2pXcERJcXIzckpFV3hsRkJ4eFdqUjRGbW9yWlY0WDBTRkltTTVNS1JHSjE1SzJMVFJZcmFkTkxFandyTmtIOVZXMVRQWS1YUGIxRnItX3FrbzlYWk1jbkt5Zw?oc=5",
-      "summary": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness Microsoft",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
-      "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft to end Copilot support on smart TVs by end of year - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPemlkX0Fqa1RldzNTVXhXb0J0ZEd5NVYtb3ZONG1LNGM5N3JEdndXUEZyZ3V5ejhscnNmb0otWGRQSXFodExDTEVuUlVfbXUwVEhXeXVwd1B5Z0RGQWRUQmYxaXlScnd4WlVRS3E1SXB6dWEyaXd4UURFSjY0eHBEN1p2YXBoX1FjbHA3WUs5Vm93ZUxMbjVwZ1JGVUJRcTNyd0JqLVJVYmhyYkRYT1JXU2tlZm5zUDJCdzNUZjdRNk1JeG9laVhiRFBoczM1LXM5aHV5TTZaNUU0Wm5LRXdoNWkxR3pHcmV4aGhDOUtheExzSTM1dzcwX29nbDBfWm14YTVuX0dNazVUX2JNSnM3TWZsSk1qWTlvYnhnbnh3?oc=5",
-      "summary": "Microsoft to end Copilot support on smart TVs by end of year Windows Central",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is killing off Copilot on smart TVs - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHplNl9FMm5Sb2wxYW9MX2J3bWRkX0ZYcm96YTEzVXdPOWZ0ZkFTVnhMdDM3U0JJYlJJVF9XU1B2VjItSXFhMS1Jd0w3bDNRX1UwcDRERFdscE9jZFg4UnBhRXlpX3Zhc0Z5VXRlYXgza1g2cFV6OGRycHZKOXc?oc=5",
-      "summary": "Microsoft is killing off Copilot on smart TVs Neowin",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How Microsoft quietly reinvented itself to build better AI - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUYtWnJyV0JscDRVMWdiVl81T05uRWNXUVFMa0haT1ZJMU1VYU1uYnE3STFNT0M0SDEzLWg2MjlremZldUV5SkJJRThRTE9KaDZhUHFMd2gyZXhydmxzd3FkaURZWUhOYVd1LW45ckhuUnNEemg5QW85M3M1TE1Rd1prdlI5NnNhT3hQR000NkV4c0xBc2h3TU9pM0toOVo1d1d4ZlUzTGMwVHRxaG9NSnZB?oc=5",
-      "summary": "How Microsoft quietly reinvented itself to build better AI Fast Company",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -242,6 +354,38 @@
       "date": "2026-10-27"
     },
     {
+      "company": "Anthropic",
+      "title": "Early progress on accelerating drug development with Claude - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
+      "summary": "Early progress on accelerating drug development with Claude Anthropic",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The AI advantage your company can keep - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDVfTHRUMGw0ZVBFOC1mMThVOUsyN0llV3RhT1NaWElkNHpPQnA1UTYyUFZVaTdyRlFOV21GdEJQUjNmd2p6bFZwdUtSZ3FBWk5SOGdMeGhXOWljLWc4d0QyN1lEMkN6RU56R3RDeHNwNjhUWW9Gc3RjWVRORGREaV9ZeVBmN3hmRFptcjRjU2ZLbHQtbEk4dFQtUQ?oc=5",
+      "summary": "The AI advantage your company can keep Microsoft",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year - The Register",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0IzSktLdXgxUmhndUdWQnRXSTg3RjEzdEpoRzFGMVlwVE9HOWViQ094YWdpTl9fWGJGVVFVQnVPZTd2NS1HZEpaSndiME5wb0t0cXdHVGdydzJpejRtWHlud2d5R1Z5cml2a2g3RlB1RnBBa0FaYjBiTHQ4Q0pQY2JEdW9JWDJfbWpONlhEQ2NwR0o2X1FfWUNNYzBxWkxDSFBHbEVxVFpXWThoY1dmVTlpb1lQUzg1d0ZVTms2aERjaFBPVVE?oc=5",
+      "summary": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year The Register",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
+      "company": "Microsoft",
+      "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
+      "summary": "The platform approach to becoming Frontier The Official Microsoft Blog",
+      "badge": "new",
+      "date": "2026-10-27"
+    },
+    {
       "company": "Apple",
       "title": "iPhone Duo arrives at Apple Store locations worldwide",
       "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
@@ -266,46 +410,6 @@
       "date": "2026-10-27"
     },
     {
-      "company": "Anthropic",
-      "title": "Early progress on accelerating drug development with Claude - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
-      "summary": "Early progress on accelerating drug development with Claude Anthropic",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs - R&D World",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG5QVkVkdXoyQ0N3eEFmbjBtdGtNNC1jalU4ck1HZ25Ea011cWw0Y2VIY2k0RkhORWppN21pV0Jwd1Q1ZHpYOGNNTTVnM0RpYllJZG9wTS0xczNhMWt4ZE5QcnFVa3FjM0F5dnhYczQtSS1SOXdpU2dlUVhyQVNBd2phbUhOQzZOVktnQjlB?oc=5",
-      "summary": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs R&D World",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's latest biotech buy is a one-man stealth startup run by a pseudonymous Twitter poster - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHpwcmFPOUt4SGt2Q3VCTHJoT0FWdGp5eWJsZHFsQjdUczVLWFNQYXdFTDNkYVBOeFNuWjlvRUxWRHVKUzNlNEZSNVg2aU4yY2RucnNrQkNwYkdPOTRUak4tWnFIRnBSUGpnbWFFb1Z5SU9NVzVnLWNQblJUM0tkYzlIMHhxLV9XU3I4WnJPdmNEcWQ2alA2eTdn?oc=5",
-      "summary": "Anthropic's latest biotech buy is a one-man stealth startup run by a pseudonymous Twitter poster Endpoints News",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
-      "summary": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity Ars Technica Anthropic IPO filing reveals AI security breaches, training halt Fox News Anthropic is about to go public.",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO filing reveals AI security breaches, training halt - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
-      "summary": "Anthropic IPO filing reveals AI security breaches, training halt Fox News Anthropic's IPO filing lists 93 pages of risks. What could possibly go wrong? CBS News Inside Anthropic’s IPO + How AI Agents ",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
       "company": "Perplexity",
       "title": "Best AI Chatbot for Writing in Ireland: 5 Ranked [2026] - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bkVwR0FDVG1VWkNMblh2THlES2VKcmZjdkZXRkstcHI1aEZ6XzJnOVBaV2dWeVUzcVZITFJPa2FrWVFPTkN1SGR4N2pGOU5MR3RWVzBDWWJnZFVGREVwbmVWRkNLeEcwOS15MmhZQW42UklXcUdJNA?oc=5",
@@ -326,14 +430,6 @@
       "title": "AI chatbots outperformed dentists and doctors on radiation safety quiz - Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzFkZmJNQzNiWHhtb2dFcHg1Z1Vudm5PM2dKZVlJVHh5ZV9IMEdNVDJlV0NJN3VtVk1VSGZnRjBQXzNrNEZyMmNUUzFISmlDVDJxU0wzT2ZUcHU4dDFuMWZRZ3M3QmoybEtRTFdiWENXaW5jVXJ2RVBJdlhaa3Zab25ianlQUHYwQ0duYzdQVG8zdWhWcVZnajN3Zw?oc=5",
       "summary": "AI chatbots outperformed dentists and doctors on radiation safety quiz Bioengineer.org",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT Alternatives 2026: 5 Rivals Compared - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHc21vbzFIRlpNbjFMTzZES0NDYjZENFBDb0pROWF5b2lWZHBTanBrWWxFRmR2djA5ZzB6alVsMV9HakV2LUluZE9RVEZLN0tJWFpkTEhYRUR4RUlVcnFkX0RjNU12dW5CazF4TmNRX1VjdGlzX0E?oc=5",
-      "summary": "ChatGPT Alternatives 2026: 5 Rivals Compared tech-insider.org",
       "badge": "new",
       "date": "2026-10-27"
     },
@@ -370,70 +466,6 @@
       "date": "2026-10-27"
     },
     {
-      "company": "Microsoft",
-      "title": "The AI advantage your company can keep - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDVfTHRUMGw0ZVBFOC1mMThVOUsyN0llV3RhT1NaWElkNHpPQnA1UTYyUFZVaTdyRlFOV21GdEJQUjNmd2p6bFZwdUtSZ3FBWk5SOGdMeGhXOWljLWc4d0QyN1lEMkN6RU56R3RDeHNwNjhUWW9Gc3RjWVRORGREaV9ZeVBmN3hmRFptcjRjU2ZLbHQtbEk4dFQtUQ?oc=5",
-      "summary": "The AI advantage your company can keep Microsoft",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year - The Register",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0IzSktLdXgxUmhndUdWQnRXSTg3RjEzdEpoRzFGMVlwVE9HOWViQ094YWdpTl9fWGJGVVFVQnVPZTd2NS1HZEpaSndiME5wb0t0cXdHVGdydzJpejRtWHlud2d5R1Z5cml2a2g3RlB1RnBBa0FaYjBiTHQ4Q0pQY2JEdW9JWDJfbWpONlhEQ2NwR0o2X1FfWUNNYzBxWkxDSFBHbEVxVFpXWThoY1dmVTlpb1lQUzg1d0ZVTms2aERjaFBPVVE?oc=5",
-      "summary": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year The Register",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
-      "summary": "The platform approach to becoming Frontier The Official Microsoft Blog",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVpsQmZ1dXFSVUdDTmFXVHZVNGowZzA4RkQyZ0xJQjRzYjRVeHNkYjMzVURnOFBILS13cnFIWF94eDF4NEREM2dNTXpnV3BRTExhQWY4U0VGcVpHZ0tkVl90X3FsVmRsemdrOXVXcjlSa2FmVWJ3N0t2aUhnWnJYdFdfWlVvdHl0Z3Z1blNYbmlhZDdzcXVFWUx5VS16R2ZxM0ZJQ1plaUNUd2h4TDVXVnJrRUctTWswSl9GX3NCMnF2QzV6blcyZGoxanRZblA4TWx4Z2tqRm5qclF2YWRFVEFnYUJFQzhnRzJuTERpejhNRmVXLWE4?oc=5",
-      "summary": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar Windows Central",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot Notebooks Turns Project Files Into Drafts: What to Check - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORF8wVmdOSG9xeVJIUXRWMmFHWjhwTUpENXhXeTYzY3FPcWRldlF6UGU4d21ja1VCWjhKR3JOc3UyemEya0lCVF9EZWdpSmF0QVREeHloUlNvSWhNZnlHbWsyUmpBY2Q5NXhEZlF2WmRVUmVHSF9OWHNyMkdxbzBZSU9vMG1neHdhRm4xRE53?oc=5",
-      "summary": "Copilot Notebooks Turns Project Files Into Drafts: What to Check TechRepublic",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
       "company": "Google",
       "title": "Our newest AI Quest: Mapping the human brain",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -450,30 +482,6 @@
       "date": "2026-10-26"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Wild Finish to 2026 for XRP - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzFTZHlYN1VWU3VvUTBkYmtuN1hNUGk2RXdXbnpYSnowTWxkUEtVckxRM2wzZGVQV25PRl9PTTdMT2k0cTd2ZG1fNFprckc3Mk82YUM0b2pNSkhzWFZZTlY3SEltWG5HT3pqSXdtYTZCZk5KSnhTa09SU3VjaWFXallhU1pwOFdk?oc=5",
-      "summary": "Perplexity AI Predicts a Wild Finish to 2026 for XRP Cryptonews",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Pro vs ChatGPT Plus: Which Research Job Fits? - Quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3VrYnNrQWJOdldDSENVVmRuaF8tUXNnX2tlYW82Q0d2ZU1YM21sV3p6TnVwXzR0ajVLbXpqNVF5UEJtWnJvUVJQVjlWb3ZGNXlQYk1Gc2dMTmhmVWpPS0tjT2ZfYmxGamlMUzJVeTJYa3BZU1dVaGpqczlNVWdhU25pLUxhME03RWQ2UmUtYzY?oc=5",
-      "summary": "Perplexity Pro vs ChatGPT Plus: Which Research Job Fits? Quasa.io",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta announces $95 billion stock offering to fund AI expansion - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV?oc=5",
-      "summary": "Meta announces $95 billion stock offering to fund AI expansion CNBC",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
       "company": "Meta",
       "title": "Meta announces $95 billion stock offering to fund AI expansion - CNBC",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
@@ -483,17 +491,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWVJZlJtQjJkZTMyWV9zMXNqV3RxZERPOE1CZlliQTVqR3VaTFk5anp5bHViM0pVTlVlc3lmMTU2YzVkb01hRXVsYU9yWUVFWjJxVHlrbW5TRVZoMWw3SzM1VUZ3UmpZN1NRODBhZmpHQXI4OXFCZDI5dWpMOGlTcGlWblREUUhmWHRCLWtZeW9zcnNUMVlRa2JTN0pwZ2dkSXBKQS14emotVmM1LWMtb2RxMEF5Y3RqNHBFZndn?oc=5",
-      "summary": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth WSJ",
-      "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta plans $95bn stock offering to bankroll AI expansion - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5",
-      "summary": "Meta plans $95bn stock offering to bankroll AI expansion Financial Times",
+      "title": "Meta announces $95 billion stock offering to fund AI expansion - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV?oc=5",
+      "summary": "Meta announces $95 billion stock offering to fund AI expansion CNBC",
       "badge": "new",
       "date": "2026-10-26"
     },
