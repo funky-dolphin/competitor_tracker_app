@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-30T17:54:00Z",
+  "updated": "2026-10-30T21:52:31Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
     {
       "company": "OpenAI",
       "title": "Community safety report and new protections for teens",
@@ -11,9 +19,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zblNkSjA1M2N3Q0hrc0ZQWC1UMEluYXJrbXRUSnlSWENfTWdkUkZ0R3dCX3NhbTFFajZkQi1UdHZsdk1aZ3k2YTVmOTlfQlRWQ2pnT3VBMVIxcldpOE9TSFRHeGMwRFNRQ0QwTXZGUzZWMXk1RTQ5MEZ0SQ?oc=5",
-      "summary": "Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times Opinion |",
+      "title": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUF2YXlnSkNGTGxNUXFMenVYXzZsb0ZaUERLTFkwWjIxbG5qUTRhUFU3VHdoS1BnTkZNNkdQcUtjUXdsZ0Fyb0xCX0NGZDdLVUI1SG5fYWkzQnhjMG9xTjQtUkFtcFFkMnZfSFAxRW9wUXB1aUNqV21TNi1RWUFtNWljSVpwb0s2ZHVjWmNqVWt0VGhDUVB1Tnd6V2hjQQ?oc=5",
+      "summary": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic Yahoo Finance Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's I read Anthropic's 92-page ",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE5ocmVNZU5oSnJ3YzNYQ05jNUdGZUpzdE85dHBKejZWT0s2QUx5OU9nVHZhenU2VTBMRG4xenpHc1ZUSFJaeHdIVUFQVEVEX3hvZXB5M3R6eXE1OWt3QTNRX3ZNbHBpUlk2SzBCWldDVDEydXNkTHhwVS1OVmhJUHNibk1nekxMMjcyTXpXTVNSelU3Mm9j?oc=5",
+      "summary": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost Yahoo Finance",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -22,6 +38,22 @@
       "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
       "summary": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports Reuters",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic appears to have ordered AI tool Claude to stop remaking video games - Game Developer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
+      "summary": "Anthropic appears to have ordered AI tool Claude to stop remaking video games Game Developer",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zblNkSjA1M2N3Q0hrc0ZQWC1UMEluYXJrbXRUSnlSWENfTWdkUkZ0R3dCX3NhbTFFajZkQi1UdHZsdk1aZ3k2YTVmOTlfQlRWQ2pnT3VBMVIxcldpOE9TSFRHeGMwRFNRQ0QwTXZGUzZWMXk1RTQ5MEZ0SQ?oc=5",
+      "summary": "Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times Opinion |",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -170,30 +202,6 @@
       "date": "2026-10-29"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic vows to do the right thing. Can it succeed where Google failed? - The Boston Globe",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OeHprek10YlRmY2MteFhfeDdBLWJjbF9heS0xdi1rU21IZkFEbV9jOGU4Z0pYWmxVMi1DZ00xNmVRZWJvUzV0WFltNHRYOWxpYjZLOFBacS00Z1ZfcW12UkRXN09xdUs3THRoYjRkSGZ2SlU?oc=5",
-      "summary": "Anthropic vows to do the right thing. Can it succeed where Google failed? The Boston Globe",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEM3SHF5UUZnYkdJSE5hMWJaY1RQTWRpUG90YjhhWHhZcGtXT2FlcXpfdElleFRGbjdlVVZaR0J1cFpKRTJ3Vzc3ZFg4bG1rNDNvMG8zcVBxSTBPd1NxTTROemttQkN3clc0VUlIUElpenVHY2h3R2N2MXZoYlRXVkhIOUhRYU1YSzFxQXBlSXBiYXpTU0Z1Q0xEN2lQVnE5MDNQckNsYVFvQm9XdnVfMw?oc=5",
-      "summary": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment Reuters",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSktIaXJTMDZTSzBBQ1VIUW03ajJzZ2JQV1VYOFN2amxQbTdQQVk5NjQybDlpakZmRFZBWkRqdFJ0VEgxMlpqT181Y0N3YmFVall0N08tdzVSMHVrYm5QdW5pbmxTNU1YeTFSemY4MjNVTlliaUJOeXNYM3BzMDhQU1M0c3VEejRwOWNlQkhFSQ?oc=5",
-      "summary": "Anthropic Newsom Letter: 3 Ways Courts Block AI [2026] shattered.io",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Copilot for finance: Purpose-built for the way finance teams work - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2N2YTBIZjhXamltUzg3aXNhOGJUUGxxX3piekRCVEFjNEJVc2F2WFpJNmZZTkloOUlUR1BfV2JuMFo3Z0JVclNBZFhnZEFjMEhSQ05jdFBuaFVpLUkxQmpMeWJ0ZlpFblZpRm05aFJicTV6RnJTWWhQS2tZUXYtUFAzRzNrRldNblR0eEtQMm9BOVN2TXVubVNsbzVseWNadkNYTWExQVFxNEJfV1NBeWVwTV9saVJqVzJaSWhEWXpnWUFMeEFuRlBWMA?oc=5",
@@ -203,17 +211,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more - Accounting Today",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
-      "summary": "Microsoft increases Copilot capacities for audit, tax, compliance, more Accounting Today",
+      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
+      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
       "badge": "new",
       "date": "2026-10-29"
     },
     {
       "company": "Microsoft",
-      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
-      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
+      "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more - Accounting Today",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
+      "summary": "Microsoft increases Copilot capacities for audit, tax, compliance, more Accounting Today",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -251,6 +259,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta launches two new AI apps, including one aimed at kids - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUp6UjZ2OVZ5Qm5waWpiWVR3cG9zc0VLUXEtNWYyUTJWaENtcWZVQWxTRGk2aFRvNjJHSW12VHYxeVY4Q09MbXpVcEJkY1kwUjFjVnU1SU5YcUFCVldUMTdLZ25LRDlWeVkwUC0xYUNELTM4aUNwc2hQcHcybXk0UkRvbmI5TlhKZG4xbE9fMWtmbVpOcXhWMnl5TTRDUVA3LWdOX0Jn?oc=5",
+      "summary": "Meta launches two new AI apps, including one aimed at kids Social Media Today",
+      "badge": "hot",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Meta",
       "title": "Meta quietly launches an AI fashion app called Style Sketch - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXRBNUhYaUUzS1AzR0lfSWpvTVZrT2xhVEczTzJqMmg0dUp1S2RVeWlmQno4SGFXRmk5UkNub0dibHl1eEpMbEtiSnhtaFpZUlYyd2huLUF2SGZnUm5QZGwtb0E0TjNQaDBidTh2RWdUZ0FzTXNNcFNuU3MzV3BXSURmS19qSWNpSk5OcENWdzRXX0pjWHpFUTR3?oc=5",
       "summary": "Meta quietly launches an AI fashion app called Style Sketch TechCrunch",
@@ -263,14 +279,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzlXR2w2a2J1R0RfaVg3WmxXdjFhejhtVHVLcDBLZnQ1bjNsVmxwbGs3YmQ4QldaWEx3S0NkYnpZWTlkSUR1RGRibGdVTmZWSGYyV25GMUVxMUE2ZGJXOXdzenhhYkIwWl9TOFpKUWNYX0xPNFdEeEJZd09HQzRyUXJWQU5Qc0ZiUFcwMDlJZUFydFVrWHZBVnJLenZqdkJTbWwzYTQtT2ZVWlZlZlpnLVJRMWRfdlhJclUtRGd2Zw?oc=5",
       "summary": "Meta Will Now Alert Parents If Teens 'Repeatedly' Search For Self-Harm Content On Facebook Engadget",
       "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta launches two new AI apps, including one aimed at kids - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUp6UjZ2OVZ5Qm5waWpiWVR3cG9zc0VLUXEtNWYyUTJWaENtcWZVQWxTRGk2aFRvNjJHSW12VHYxeVY4Q09MbXpVcEJkY1kwUjFjVnU1SU5YcUFCVldUMTdLZ25LRDlWeVkwUC0xYUNELTM4aUNwc2hQcHcybXk0UkRvbmI5TlhKZG4xbE9fMWtmbVpOcXhWMnl5TTRDUVA3LWdOX0Jn?oc=5",
-      "summary": "Meta launches two new AI apps, including one aimed at kids Social Media Today",
-      "badge": "hot",
       "date": "2026-10-29"
     },
     {
@@ -323,9 +331,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "How Microsoft quietly reinvented itself to build better AI - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUYtWnJyV0JscDRVMWdiVl81T05uRWNXUVFMa0haT1ZJMU1VYU1uYnE3STFNT0M0SDEzLWg2MjlremZldUV5SkJJRThRTE9KaDZhUHFMd2gyZXhydmxzd3FkaURZWUhOYVd1LW45ckhuUnNEemg5QW85M3M1TE1Rd1prdlI5NnNhT3hQR000NkV4c0xBc2h3TU9pM0toOVo1d1d4ZlUzTGMwVHRxaG9NSnZB?oc=5",
-      "summary": "How Microsoft quietly reinvented itself to build better AI Fast Company",
+      "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
+      "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -339,9 +347,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
-      "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
+      "title": "How Microsoft quietly reinvented itself to build better AI - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUYtWnJyV0JscDRVMWdiVl81T05uRWNXUVFMa0haT1ZJMU1VYU1uYnE3STFNT0M0SDEzLWg2MjlremZldUV5SkJJRThRTE9KaDZhUHFMd2gyZXhydmxzd3FkaURZWUhOYVd1LW45ckhuUnNEemg5QW85M3M1TE1Rd1prdlI5NnNhT3hQR000NkV4c0xBc2h3TU9pM0toOVo1d1d4ZlUzTGMwVHRxaG9NSnZB?oc=5",
+      "summary": "How Microsoft quietly reinvented itself to build better AI Fast Company",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -424,14 +432,6 @@
       "summary": "Amazon’s October Hardware Wave: New Alexa Tablets, Kindles, Ring Devices, Fire TV Stick and AI Wearables Innovation Village",
       "badge": "new",
       "date": "2026-10-28"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "badge": "new",
-      "date": "2026-10-27"
     },
     {
       "company": "Apple",
