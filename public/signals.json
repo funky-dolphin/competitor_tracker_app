@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:44:35Z",
+  "updated": "2026-10-31T11:34:28Z",
   "signals": [
     {
       "company": "Apple",
@@ -42,6 +42,14 @@
       "date": "2026-10-31"
     },
     {
+      "company": "Perplexity",
+      "title": "Best AI for Research: 30 Free Lab Seats vs $20 [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRndXYU5HZzdrbmNKa2JMcHpwU3VzdDJkNHBOM205SDgwZkw3eGJ3eEJ6dkhrUDhyVDJFWGhHeXQ3Y1M2WTYzd0lEZ1RlaVI0NWVteE5SQ0R2X2JVeTQ2clZmMVl2Vk5BaXdOMGdyUDhwck5XZDVmc2VPNVNjTlJBUDdscUUzS1dkWlZfQURmTFV6MnFNMGZmZks1OU85Zw?oc=5",
+      "summary": "Best AI for Research: 30 Free Lab Seats vs $20 [2026] https://tech-insider.org/",
+      "badge": "new",
+      "date": "2026-10-31"
+    },
+    {
       "company": "OpenAI",
       "title": "Making it easier for websites to express AI training preferences",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -67,14 +75,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5",
-      "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times I read Anthropic's 92-page risk factor document, so you don't have to – video explainer The Guard",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
       "summary": "Anthropic orders AI tool Claude to stop remaking video games Game Developer",
@@ -83,9 +83,25 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5",
+      "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. Busines",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
       "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
       "summary": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports Reuters",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5",
+      "summary": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices WIRED",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -134,6 +150,22 @@
       "title": "Anthropic's heavy AI spending could hold the key to its profitability: Ark Invest - CNBC",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR25fSGlQWHBHeFp3cVRsVWd2a2VyZFBCS1hBbjViMURRYzMxZDZWdUoxbWh0SlVqM0lNSWw4S1RaZXI2UTNsend0cjVTUUlwdHdDdGhUbWg1WlJtbXExejZuNW9jaUpIZV9HM1piRnFtVnEwQTEyWFhzZFk0LVJkYWc2dG14Zm9jck9PdkxMYVIteFVtRTVoaUhlNDVtejVJM3pCUjJOc2kyZ21xbnpkeg?oc=5",
       "summary": "Anthropic's heavy AI spending could hold the key to its profitability: Ark Invest CNBC",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
+      "summary": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence Microsoft",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft expands Copilot’s reach in finance workflows - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTZwZlBBREJzMW5nOHdpVFRBcnlUN0FsMF8zdmhrMjQwUzZEZGEzRTZVaG9OdEVBVVlQWDR6NzJvbkpxUURza19KSVNwRTByQ1daMWw5eGZkay1fWlFramRwWFhKWVFWX0N1YXNzZHF3RVJlMUItT3l3WUZsVXBWMlFTXzF6UlBlazRidVZMb2RtR2c?oc=5",
+      "summary": "Microsoft expands Copilot’s reach in finance workflows CFO Dive",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -218,10 +250,10 @@
       "date": "2026-10-29"
     },
     {
-      "company": "Anthropic",
-      "title": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ044eGtubmthLU5BVE1IbUVZbGQ1MklPR1R2MzhTQ0xRdE95ZUEwSEx5b0ttZkRrWDNLWG4zQ3d6S3IwZjBQbUphajhfY2VCa0NIbkx2TEc0TWpENmRvS2ZpTHB1TVNKMEJvNjdlNHFNYVRzZUwtb2N6SnZoeG5ISmtwOUFsajdYMnd4dlJBcm1uQ1czNzVlRTlDUE81QVo3QW1kTGFoSXBmT1gxZ0RRa2ZPNm4?oc=5",
-      "summary": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic Bloomberg.com",
+      "company": "Microsoft",
+      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
+      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -235,14 +267,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
-      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more - Accounting Today",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
       "summary": "Microsoft increases Copilot capacities for audit, tax, compliance, more Accounting Today",
@@ -251,17 +275,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
-      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
+      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGdYSFlaYUJTMERsRXhfaFRxVFE5R2d0c2dEREpiaWJsbzJXYWlhRGFPSkFMSjU1dXp4Z3Z6aVQzc19CUVByQXhfWGNWV0FaRnEyM1l1WThsREFXZDVfdlJmbEd4ZHBSMlJuSFV0U3FYWm5OVWVRX0lwbFRFWWRUX055dG5sb3NOdjY5R2xlRDV4WVhwejZFVjdHSUY1ZHdvQUE?oc=5",
+      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Yahoo Tech",
       "badge": "new",
       "date": "2026-10-29"
     },
     {
       "company": "Perplexity",
-      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGdYSFlaYUJTMERsRXhfaFRxVFE5R2d0c2dEREpiaWJsbzJXYWlhRGFPSkFMSjU1dXp4Z3Z6aVQzc19CUVByQXhfWGNWV0FaRnEyM1l1WThsREFXZDVfdlJmbEd4ZHBSMlJuSFV0U3FYWm5OVWVRX0lwbFRFWWRUX055dG5sb3NOdjY5R2xlRDV4WVhwejZFVjdHSUY1ZHdvQUE?oc=5",
-      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Yahoo Tech",
+      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
+      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -347,22 +371,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "How Microsoft quietly reinvented itself to build better AI - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUYtWnJyV0JscDRVMWdiVl81T05uRWNXUVFMa0haT1ZJMU1VYU1uYnE3STFNT0M0SDEzLWg2MjlremZldUV5SkJJRThRTE9KaDZhUHFMd2gyZXhydmxzd3FkaURZWUhOYVd1LW45ckhuUnNEemg5QW85M3M1TE1Rd1prdlI5NnNhT3hQR000NkV4c0xBc2h3TU9pM0toOVo1d1d4ZlUzTGMwVHRxaG9NSnZB?oc=5",
-      "summary": "How Microsoft quietly reinvented itself to build better AI Fast Company",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUnllWG01c2NfbkdMV3c4SHZ0VWlXdm5yTF9nNjhIS0FhY0xkWG5EeUZ0Tlp1RHRXTUlWVHRNdWhKLVNILXpIYlR4aHpWYS1fWTdzVmd1SHA3U0hCQjlaYUxFSDFEZUowV2NpMWxGUjlTOGd1S2M4d0VuLVhXQndpU2pXcERJcXIzckpFV3hsRkJ4eFdqUjRGbW9yWlY0WDBTRkltTTVNS1JHSjE1SzJMVFJZcmFkTkxFandyTmtIOVZXMVRQWS1YUGIxRnItX3FrbzlYWk1jbkt5Zw?oc=5",
-      "summary": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness Microsoft",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
       "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
@@ -371,9 +379,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "LG TVs to Remove Copilot App After Complaints - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3SVEyUHRGcDBZNXg0TXJkM2NIT0pGem1tMmI4cGpOTUlWaUtkekJKMDBFdHhxNVRoaE5UdkF0ckNiM2FOTVo5WmhYNnQ2VmkxQUNQb2ZsWE1BLTMzWm1XNmVyaFJQdnRLa2J3UzFzWlZYZW00Z2g2YWc2MzU?oc=5",
-      "summary": "LG TVs to Remove Copilot App After Complaints PCMag",
+      "title": "How Microsoft quietly reinvented itself to build better AI - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUYtWnJyV0JscDRVMWdiVl81T05uRWNXUVFMa0haT1ZJMU1VYU1uYnE3STFNT0M0SDEzLWg2MjlremZldUV5SkJJRThRTE9KaDZhUHFMd2gyZXhydmxzd3FkaURZWUhOYVd1LW45ckhuUnNEemg5QW85M3M1TE1Rd1prdlI5NnNhT3hQR000NkV4c0xBc2h3TU9pM0toOVo1d1d4ZlUzTGMwVHRxaG9NSnZB?oc=5",
+      "summary": "How Microsoft quietly reinvented itself to build better AI Fast Company",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -470,14 +478,6 @@
       "title": "Best AI Chatbot for Writing in Ireland: 5 Ranked [2026] - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bkVwR0FDVG1VWkNMblh2THlES2VKcmZjdkZXRkstcHI1aEZ6XzJnOVBaV2dWeVUzcVZITFJPa2FrWVFPTkN1SGR4N2pGOU5MR3RWVzBDWWJnZFVGREVwbmVWRkNLeEcwOS15MmhZQW42UklXcUdJNA?oc=5",
       "summary": "Best AI Chatbot for Writing in Ireland: 5 Ranked [2026] tech-insider.org",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Perplexity",
-      "title": "How to Get Your Website Cited by ChatGPT and Other AI Search Engines - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEpnTzdwdXdDNm5ZLTY0eGI2TU1tYnNFdm1IVHhpVVIwX282YnlFbkgyTHp6VGFJNmNkb1p0NVdrdXRCOGFETVRRZjRkclVPWS1PeW45SE15a3luMnpBNkhNY0R6RUhKbjFwUGtGZEl3M01OeHd6NTUxUWFWalpzcHRJdU5FQ01Nd1E?oc=5",
-      "summary": "How to Get Your Website Cited by ChatGPT and Other AI Search Engines Startup Fortune",
       "badge": "new",
       "date": "2026-10-27"
     },
