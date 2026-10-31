@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-30T21:52:31Z",
+  "updated": "2026-10-31T03:44:35Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "badge": "new",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI is available in more languages starting today",
+      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
+      "badge": "hot",
+      "date": "2026-10-31"
+    },
     {
       "company": "OpenAI",
       "title": "Making it easier for websites to express AI training preferences",
@@ -18,18 +58,26 @@
       "date": "2026-10-30"
     },
     {
-      "company": "Anthropic",
-      "title": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUF2YXlnSkNGTGxNUXFMenVYXzZsb0ZaUERLTFkwWjIxbG5qUTRhUFU3VHdoS1BnTkZNNkdQcUtjUXdsZ0Fyb0xCX0NGZDdLVUI1SG5fYWkzQnhjMG9xTjQtUkFtcFFkMnZfSFAxRW9wUXB1aUNqV21TNi1RWUFtNWljSVpwb0s2ZHVjWmNqVWt0VGhDUVB1Tnd6V2hjQQ?oc=5",
-      "summary": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic Yahoo Finance Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's I read Anthropic's 92-page ",
+      "company": "OpenAI",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
       "badge": "new",
       "date": "2026-10-30"
     },
     {
       "company": "Anthropic",
-      "title": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE5ocmVNZU5oSnJ3YzNYQ05jNUdGZUpzdE85dHBKejZWT0s2QUx5OU9nVHZhenU2VTBMRG4xenpHc1ZUSFJaeHdIVUFQVEVEX3hvZXB5M3R6eXE1OWt3QTNRX3ZNbHBpUlk2SzBCWldDVDEydXNkTHhwVS1OVmhJUHNibk1nekxMMjcyTXpXTVNSelU3Mm9j?oc=5",
-      "summary": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost Yahoo Finance",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5",
+      "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times I read Anthropic's 92-page risk factor document, so you don't have to – video explainer The Guard",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
+      "summary": "Anthropic orders AI tool Claude to stop remaking video games Game Developer",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -43,9 +91,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic appears to have ordered AI tool Claude to stop remaking video games - Game Developer",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
-      "summary": "Anthropic appears to have ordered AI tool Claude to stop remaking video games Game Developer",
+      "title": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUF2YXlnSkNGTGxNUXFMenVYXzZsb0ZaUERLTFkwWjIxbG5qUTRhUFU3VHdoS1BnTkZNNkdQcUtjUXdsZ0Fyb0xCX0NGZDdLVUI1SG5fYWkzQnhjMG9xTjQtUkFtcFFkMnZfSFAxRW9wUXB1aUNqV21TNi1RWUFtNWljSVpwb0s2ZHVjWmNqVWt0VGhDUVB1Tnd6V2hjQQ?oc=5",
+      "summary": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic Yahoo Finance Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's I read Anthropic's 92-page ",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Anthropic",
+      "title": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE5ocmVNZU5oSnJ3YzNYQ05jNUdGZUpzdE85dHBKejZWT0s2QUx5OU9nVHZhenU2VTBMRG4xenpHc1ZUSFJaeHdIVUFQVEVEX3hvZXB5M3R6eXE1OWt3QTNRX3ZNbHBpUlk2SzBCWldDVDEydXNkTHhwVS1OVmhJUHNibk1nekxMMjcyTXpXTVNSelU3Mm9j?oc=5",
+      "summary": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost Yahoo Finance",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -83,50 +139,18 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft to withdraw Copilot from Samsung and LG TVs - Broadband TV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmVFQUJwSU4yTlFhTThYYk5kYUlsRXZQdVVHc1BocExqN2MyVlNJTnk1WV9Wa2JwMXR2bGNjU1I5SVFfa0hMdjNaaGFhY0pTQ0FodjZIOVhZOHI4OTBobE5UN194VjdNZVFnazBnUXg1TGpOb1N0RlFmZDZNa29TdG9IbTFwczlHdTBJaThldjh2T0xPZnNNcTQtS1FuUQ?oc=5",
+      "summary": "Microsoft to withdraw Copilot from Samsung and LG TVs Broadband TV News",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft's Copilot AI chatbot app might disappear from Samsung TVs soon - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2R4azB1cjZEMnE4dU9IYU1PNU5QQ19PNFpxbjM4UGo4MlhqXy15ejQ0YjdpVnpZbVpWMmpZSVgzZmRkWE1sb1ZjS1pyYXdNZHBULUZyQ1RvbzktZkRDLUJ5UzNoYjY0UjJBY1NwT0I2aE5YYll3bWNxV0FFYlc0MHNFeS1nT3hHVloxcXBaTW4?oc=5",
       "summary": "Microsoft's Copilot AI chatbot app might disappear from Samsung TVs soon SamMobile",
       "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI is available in more languages starting today",
-      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
-      "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
-      "badge": "hot",
       "date": "2026-10-30"
     },
     {
@@ -142,6 +166,14 @@
       "title": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses - Engadget",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHM0SlFOcFpGWDVzc3pNN1g0aGpnSEVlbC1DVDd6cmsydDNIRHExVEh0Mi1vNE1iZG5kOE1zN1l0dGdNQV9jdG90UHhCakozNkctZTNGZzFhN0JucHZsR2MtMGstbllBV2N2WGRnRkt5M1dWTkVIMG1WR0RDQVFHN0pWYktuSHQ4ZWxEZ0kyTnpoVEhNeHpBZjJBeEdCWnc?oc=5",
       "summary": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses Engadget",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI raid triggers monopoly abuse investigation - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3NvZ1EyaUxoa1pfdjM4ajVmNFFwdzRudUVSN19PamkzcTZtc0dmWk45eVJpX0RhY09OQVpCUEJLY2c5YlR0amVXVEtQemxfMkNMSlp0TnBkV2IteXlTVjliM2N3WGJxX2VXQ2lVeEFGN1JZUDc5WVhxVV9LTGliQ0RZRnI0ZGxiVGpsWi1WcDVUZUJzcVVfUnRlQnp5bDNfQWc?oc=5",
+      "summary": "Meta’s AI raid triggers monopoly abuse investigation The Telegraph",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -190,14 +222,6 @@
       "title": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ044eGtubmthLU5BVE1IbUVZbGQ1MklPR1R2MzhTQ0xRdE95ZUEwSEx5b0ttZkRrWDNLWG4zQ3d6S3IwZjBQbUphajhfY2VCa0NIbkx2TEc0TWpENmRvS2ZpTHB1TVNKMEJvNjdlNHFNYVRzZUwtb2N6SnZoeG5ISmtwOUFsajdYMnd4dlJBcm1uQ1czNzVlRTlDUE81QVo3QW1kTGFoSXBmT1gxZ0RRa2ZPNm4?oc=5",
       "summary": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic Bloomberg.com",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What a Wobbly AI Trade Could Mean for Anthropic’s IPO - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGk1Rnc4cExnUkFnVUlxUUgtOHhHbkUtLXY3eXNob0VOOWRReUM0Nl9XN3NXaUplMTh1LXF1ZndseWg4X0VKb2pfNmY5bnNhYWx1REFfbnpEcUhIT3o4R25FaEd2cFhieDVjWmNrMjBjUkRnTXIzYjNZX3dRUDBCb3R3SnB0SEV3?oc=5",
-      "summary": "What a Wobbly AI Trade Could Mean for Anthropic’s IPO Morningstar Anthropic IPO May Spark AI Rally as Short Bets on Tech Pile Up Bloomberg Kevin O'Leary Says Anthropic IPO Offers What SpaceX Didn't: '",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -314,34 +338,10 @@
       "date": "2026-10-28"
     },
     {
-      "company": "OpenAI",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft to end Copilot support on smart TVs by end of year - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPemlkX0Fqa1RldzNTVXhXb0J0ZEd5NVYtb3ZONG1LNGM5N3JEdndXUEZyZ3V5ejhscnNmb0otWGRQSXFodExDTEVuUlVfbXUwVEhXeXVwd1B5Z0RGQWRUQmYxaXlScnd4WlVRS3E1SXB6dWEyaXd4UURFSjY0eHBEN1p2YXBoX1FjbHA3WUs5Vm93ZUxMbjVwZ1JGVUJRcTNyd0JqLVJVYmhyYkRYT1JXU2tlZm5zUDJCdzNUZjdRNk1JeG9laVhiRFBoczM1LXM5aHV5TTZaNUU0Wm5LRXdoNWkxR3pHcmV4aGhDOUtheExzSTM1dzcwX29nbDBfWm14YTVuX0dNazVUX2JNSnM3TWZsSk1qWTlvYnhnbnh3?oc=5",
       "summary": "Microsoft to end Copilot support on smart TVs by end of year Windows Central",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
-      "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "LG TVs to Remove Copilot App After Complaints - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3SVEyUHRGcDBZNXg0TXJkM2NIT0pGem1tMmI4cGpOTUlWaUtkekJKMDBFdHhxNVRoaE5UdkF0ckNiM2FOTVo5WmhYNnQ2VmkxQUNQb2ZsWE1BLTMzWm1XNmVyaFJQdnRLa2J3UzFzWlZYZW00Z2g2YWc2MzU?oc=5",
-      "summary": "LG TVs to Remove Copilot App After Complaints PCMag",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -363,9 +363,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Next up: Microsoft needs to show Copilot momentum, one analyst says - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ1Fsa0dUU1JPMkk0dmE2M0owT3EyRmZqRFozV2xGNUZHNHlOUFg3REV3NjhVclJaUHBidGgyd2lpekVjcXExTDBzYUFTRWpfS3l0UjdhSlk4SndzYXNPRFNYYUFvV3dXQjJnaWZfUjIxU3VoR3pDR29fNzJ2enhfVnNqeFB2ZTVsZzRWakxlRDBUbEVzZWttVDlGYncxWUloSy1iUG13ZmdVWi1NS2dtWmFNb25DT01Lem5ETVoyMlJrdzR4eWdrR3BELTBVNUpfMUlMYjNPQjFoekdKeG5RWE5mV243WWtvVGpVZnJYZC01cGZJMFFYYmxHLWh6WTI0RGhoTTdrbw?oc=5",
-      "summary": "Next up: Microsoft needs to show Copilot momentum, one analyst says MarketWatch",
+      "title": "Microsoft is ending Copilot support on smart TVs - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1MzRkE0d3YxLVp0NTBDQ2U1ZUF5S25TVFRHY3pQaFFTazVYVXZsN2xGZUN4cGM4UlRtV1VxVHd1RGpNZ1hMMmc3X2NvWkw2TjBYYTNmX3NCYmNLSXdESkVkMXRESnRidnRSNTdFU016dTZVeEd4Q09nLVlWT2FsazktZ1M5eC11OUI2am15cGhhYWZkQXQycElzaWU?oc=5",
+      "summary": "Microsoft is ending Copilot support on smart TVs The Verge",
+      "badge": "new",
+      "date": "2026-10-28"
+    },
+    {
+      "company": "Microsoft",
+      "title": "LG TVs to Remove Copilot App After Complaints - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3SVEyUHRGcDBZNXg0TXJkM2NIT0pGem1tMmI4cGpOTUlWaUtkekJKMDBFdHhxNVRoaE5UdkF0ckNiM2FOTVo5WmhYNnQ2VmkxQUNQb2ZsWE1BLTMzWm1XNmVyaFJQdnRLa2J3UzFzWlZYZW00Z2g2YWc2MzU?oc=5",
+      "summary": "LG TVs to Remove Copilot App After Complaints PCMag",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -411,17 +419,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta says it’ll probably delay its controversial new business terms again - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0hScGNRaWxNMUhFVlFkLXBTT2JTSzdVZmczTF9MNW9Va1NidDl0QzJNVG5LWnZWYWJOLUIzaHFJVTlUWXFlX0ZRS1hZWVI5SmxDS29FTjF2Z3NjbXRyZ2lDVGtkc19qNTd0YU9vWlA4WEFOT2hGLUFTbTVmSEJybG16elU2bTFNdzVJXw?oc=5",
-      "summary": "Meta says it’ll probably delay its controversial new business terms again The Verge",
+      "title": "Meta has a new AI pet app called Waddle World - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUJhcmFQaktsWGd3eUk2SlF1TWE1OXR5cGFxbnJWZ2gyd0xudWdXdk1MY0MtUHB6b0pDOGxVaTFyVXNCdlM0aWQ0b2Y3Q2FndThadVFHSTU4Zlo1dUYwZ0FOaUZNWjFjbmxxM3lzRmdaU2RPXzFka1ZoRDgxWUY1S0RhemVfX1k?oc=5",
+      "summary": "Meta has a new AI pet app called Waddle World TechCrunch",
       "badge": "new",
       "date": "2026-10-28"
     },
     {
       "company": "Meta",
-      "title": "Meta Delays Update Amid Concern About Scraping Websites for AI Training - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5",
-      "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training PCMag",
+      "title": "Meta says it’ll probably delay its controversial new business terms again - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0hScGNRaWxNMUhFVlFkLXBTT2JTSzdVZmczTF9MNW9Va1NidDl0QzJNVG5LWnZWYWJOLUIzaHFJVTlUWXFlX0ZRS1hZWVI5SmxDS29FTjF2Z3NjbXRyZ2lDVGtkc19qNTd0YU9vWlA4WEFOT2hGLUFTbTVmSEJybG16elU2bTFNdzVJXw?oc=5",
+      "summary": "Meta says it’ll probably delay its controversial new business terms again The Verge",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -470,14 +478,6 @@
       "title": "How to Get Your Website Cited by ChatGPT and Other AI Search Engines - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEpnTzdwdXdDNm5ZLTY0eGI2TU1tYnNFdm1IVHhpVVIwX282YnlFbkgyTHp6VGFJNmNkb1p0NVdrdXRCOGFETVRRZjRkclVPWS1PeW45SE15a3luMnpBNkhNY0R6RUhKbjFwUGtGZEl3M01OeHd6NTUxUWFWalpzcHRJdU5FQ01Nd1E?oc=5",
       "summary": "How to Get Your Website Cited by ChatGPT and Other AI Search Engines Startup Fortune",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Meta",
-      "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenBXenBKaW9oQ1R5bGVxbWNzYko0NTRSQkNfS1ZNMVZsWW84Y1JHQmtZMmVHcWNwU042b1ZmUEl2bTJfUnRhc05sMl9WUm1OZ1g3a2MySWJtYVVSc0FndURSQms3ZHBMVUZ3Mm4xQ3NfVnZRWk00cWhFR0VTVFZaTUFONzVjVEdCXzRfaDFQc3JrbjA4Q3N6a2xuU2FENlJBSEJzWGprdHdteVYxVXNUSEJfWWN0OXFsMFYw?oc=5",
-      "summary": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite TechCrunch",
       "badge": "new",
       "date": "2026-10-27"
     },
