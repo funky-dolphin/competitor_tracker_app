@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T03:53:15Z",
+  "updated": "2026-11-01T12:31:08Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "We’re Living in the Age of the Imperial CEO - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3N0ZlF1dzhaZkYzV0RpanUyVDczaDFGWWh2dDJFbldQclhJSmdWUFNYaThpLTdQUkc0UGluZVQ1aXJmZ1FYblBWNVgyd1BsY0dfVmVPa0drRGlaZzV6THVNX3NDWmozVWhqM0pVd3pyOHd4RFNNM3BFcjdyUWRXcXhwT1FzampSYkgw?oc=5",
+      "summary": "We’re Living in the Age of the Imperial CEO WSJ Anthropic's path to the Nasdaq just got a lot bumpier CNBC Markets podcaster Ed Elson says investors are reading Anthropic's S-1 wrong Business Insider",
+      "badge": "new",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Anthropic",
+      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
+      "summary": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-01"
+    },
     {
       "company": "Apple",
       "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
@@ -39,6 +55,14 @@
       "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
       "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
       "badge": "hot",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Meta",
+      "title": "CMA opens Meta investigation over use of publishers’ content for AI - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GXzB3Z3dDVEdjQjBnYW1mODZJRWxQbmF1cjhPQy05VkV4MmVfMm5pU0hyTEFqR3hhUm9uRDJDM2gyZ0ZZczNOczhiWUtKQVJxME1xbFZ5ZFQ1Q2RlU2MxUFlNbEh6ck1HNk1aREFPdEFRTENWSXZHU2VB?oc=5",
+      "summary": "CMA opens Meta investigation over use of publishers’ content for AI The Next Web",
+      "badge": "new",
       "date": "2026-11-01"
     },
     {
@@ -138,26 +162,18 @@
       "date": "2026-10-30"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5",
-      "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. Busines",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUF2YXlnSkNGTGxNUXFMenVYXzZsb0ZaUERLTFkwWjIxbG5qUTRhUFU3VHdoS1BnTkZNNkdQcUtjUXdsZ0Fyb0xCX0NGZDdLVUI1SG5fYWkzQnhjMG9xTjQtUkFtcFFkMnZfSFAxRW9wUXB1aUNqV21TNi1RWUFtNWljSVpwb0s2ZHVjWmNqVWt0VGhDUVB1Tnd6V2hjQQ?oc=5",
-      "summary": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic Yahoo Finance Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's I read Anthropic's 92-page ",
+      "company": "Microsoft",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
+      "summary": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence Microsoft",
       "badge": "new",
       "date": "2026-10-30"
     },
     {
       "company": "Microsoft",
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
-      "summary": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence Microsoft",
+      "title": "Microsoft expands Copilot’s reach in finance workflows - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTZwZlBBREJzMW5nOHdpVFRBcnlUN0FsMF8zdmhrMjQwUzZEZGEzRTZVaG9OdEVBVVlQWDR6NzJvbkpxUURza19KSVNwRTByQ1daMWw5eGZkay1fWlFramRwWFhKWVFWX0N1YXNzZHF3RVJlMUItT3l3WUZsVXBWMlFTXzF6UlBlazRidVZMb2RtR2c?oc=5",
+      "summary": "Microsoft expands Copilot’s reach in finance workflows CFO Dive",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -171,9 +187,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft expands Copilot’s reach in finance workflows - CFO Dive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTZwZlBBREJzMW5nOHdpVFRBcnlUN0FsMF8zdmhrMjQwUzZEZGEzRTZVaG9OdEVBVVlQWDR6NzJvbkpxUURza19KSVNwRTByQ1daMWw5eGZkay1fWlFramRwWFhKWVFWX0N1YXNzZHF3RVJlMUItT3l3WUZsVXBWMlFTXzF6UlBlazRidVZMb2RtR2c?oc=5",
-      "summary": "Microsoft expands Copilot’s reach in finance workflows CFO Dive",
+      "title": "Microsoft Copilot's Daily User Base Grows Fivefold in a Year, User Satisfaction Rises 20% - Mezha",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUElEdDRNbjlmczk1bTF0YVBOUy05Q0dpck5TME1qNGU3UjZ6NnNaeFUtRGlPWEZhMlpRU2dRX2JOMlBPOHVkNDFNamNRYlNuZEMzbmxoa3BFcGFoVk00dFBQQ0k2VFl3WldzMXFMRXQ2Rll2TWEtTHB5RGhzRzYtd3Fn0gGHAUFVX3lxTE1nZXBpVkRSWmR2cjhma0wzMUEtN3FDMExwQUpSdllaZ2gyeDJPMTZrWFBEWHdSSmlZcDA1Y1JleGpGcmt1QnJPUUxTUlpOV3Q0bC03YXdnZVBCWGZSVk9jdUF0NnRFNUEwcHM5dkFVcmIweHl0MWhzTllkWEYxTnVTbU9DVVJMSQ?oc=5",
+      "summary": "Microsoft Copilot's Daily User Base Grows Fivefold in a Year, User Satisfaction Rises 20% Mezha",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -190,6 +206,14 @@
       "title": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs - FourWeekMBA",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJFZEFHT29PdjZGSFRNTVdqM2l5RjFBeTNYY05MaHNnZlkyRjc1a0lrNjV4MUx1WEdjYURhTnBwWlJLNzM3U0hXeTE2R0JuckNSbDhJU0g2ZDhtQmd1UFhQNDlyaWJod2pBYmRTMmpma1F6WHNmOFB0SmFudl80Ri1LUU00bEh6N2EtWklDdldIZw?oc=5",
       "summary": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs FourWeekMBA",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHM0SlFOcFpGWDVzc3pNN1g0aGpnSEVlbC1DVDd6cmsydDNIRHExVEh0Mi1vNE1iZG5kOE1zN1l0dGdNQV9jdG90UHhCakozNkctZTNGZzFhN0JucHZsR2MtMGstbllBV2N2WGRnRkt5M1dWTkVIMG1WR0RDQVFHN0pWYktuSHQ4ZWxEZ0kyTnpoVEhNeHpBZjJBeEdCWnc?oc=5",
+      "summary": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses Engadget",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -214,14 +238,6 @@
       "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2JMY29zcEM2TFRURW5TbmY4MTNoWVM1NDhiVG44UTF1YWladnh0aDNSRUhxLXZpclBPZmFySDR3dXE2XzBsQ3NpcE5SRWZiNkF0RVI3NkQyQWhrS1RvdDlwamRJWmxSa2E4ckc0SlBBdFdnOHFZem1UOHVScElQZ2hzUkU0N0Z1ajdMNnNYYzB2djU5dFNnM1FHMUpzczdsbzUxSA?oc=5",
       "summary": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries Reuters",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHM0SlFOcFpGWDVzc3pNN1g0aGpnSEVlbC1DVDd6cmsydDNIRHExVEh0Mi1vNE1iZG5kOE1zN1l0dGdNQV9jdG90UHhCakozNkctZTNGZzFhN0JucHZsR2MtMGstbllBV2N2WGRnRkt5M1dWTkVIMG1WR0RDQVFHN0pWYktuSHQ4ZWxEZ0kyTnpoVEhNeHpBZjJBeEdCWnc?oc=5",
-      "summary": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses Engadget",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -275,17 +291,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft Copilot for finance: Purpose-built for the way finance teams work - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2N2YTBIZjhXamltUzg3aXNhOGJUUGxxX3piekRCVEFjNEJVc2F2WFpJNmZZTkloOUlUR1BfV2JuMFo3Z0JVclNBZFhnZEFjMEhSQ05jdFBuaFVpLUkxQmpMeWJ0ZlpFblZpRm05aFJicTV6RnJTWWhQS2tZUXYtUFAzRzNrRldNblR0eEtQMm9BOVN2TXVubVNsbzVseWNadkNYTWExQVFxNEJfV1NBeWVwTV9saVJqVzJaSWhEWXpnWUFMeEFuRlBWMA?oc=5",
-      "summary": "Microsoft Copilot for finance: Purpose-built for the way finance teams work Microsoft",
+      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
+      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
       "badge": "new",
       "date": "2026-10-29"
     },
     {
       "company": "Microsoft",
-      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
-      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
+      "title": "Microsoft Copilot for finance: Purpose-built for the way finance teams work - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2N2YTBIZjhXamltUzg3aXNhOGJUUGxxX3piekRCVEFjNEJVc2F2WFpJNmZZTkloOUlUR1BfV2JuMFo3Z0JVclNBZFhnZEFjMEhSQ05jdFBuaFVpLUkxQmpMeWJ0ZlpFblZpRm05aFJicTV6RnJTWWhQS2tZUXYtUFAzRzNrRldNblR0eEtQMm9BOVN2TXVubVNsbzVseWNadkNYTWExQVFxNEJfV1NBeWVwTV9saVJqVzJaSWhEWXpnWUFMeEFuRlBWMA?oc=5",
+      "summary": "Microsoft Copilot for finance: Purpose-built for the way finance teams work Microsoft",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -299,17 +315,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
-      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
+      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzc3YVEwTU4ybk9mbHdrcThoTDZNaThaWlhHMXM0ZXFLb1pseUNsUG9RNVNuQ2VxOHRRXzVlc0twbWJ6UXl6am02TnJaX21IUWRLQ0h0QVdoUlp2ZWdENnpEV1hOVEY4OGc2blBqbFdvTHpERFc1YXV2VnlVTy1YNlZpSEZkVjJxQmEwRlBpZTF4dUFIWnFvN1E2di0yelJsSUdhbnRIWlo5cnNnV3I4OXhhOXQwM3A2?oc=5",
+      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Tom's Guide",
       "badge": "new",
       "date": "2026-10-29"
     },
     {
       "company": "Perplexity",
-      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzc3YVEwTU4ybk9mbHdrcThoTDZNaThaWlhHMXM0ZXFLb1pseUNsUG9RNVNuQ2VxOHRRXzVlc0twbWJ6UXl6am02TnJaX21IUWRLQ0h0QVdoUlp2ZWdENnpEV1hOVEY4OGc2blBqbFdvTHpERFc1YXV2VnlVTy1YNlZpSEZkVjJxQmEwRlBpZTF4dUFIWnFvN1E2di0yelJsSUdhbnRIWlo5cnNnV3I4OXhhOXQwM3A2?oc=5",
-      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Tom's Guide",
+      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
+      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -362,14 +378,6 @@
       "date": "2026-10-29"
     },
     {
-      "company": "Meta",
-      "title": "Meta's AI Ambitions Come At A High Price (NASDAQ:META) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlBRTW5NcjlpbllkdHFQbTdJYW1kUjBTT1ZqaTdxQmFpcVVPTk94alpOSHE0T0VfSHduQm0yYWFrNFpaaTRFX1pnQ2pRb0ZFZVIzNmZRRll6NjNQRWFpRGRoRF9wdlFzM3lpcllqdFdHaDZaZDRlQmt0QzczREhEVC14d0dPYWhFM25GdVp5Nkg4WERjUW9LRm5rVDlmQQ?oc=5",
-      "summary": "Meta's AI Ambitions Come At A High Price (NASDAQ:META) Seeking Alpha",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
       "company": "OpenAI",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -406,14 +414,6 @@
       "title": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUnllWG01c2NfbkdMV3c4SHZ0VWlXdm5yTF9nNjhIS0FhY0xkWG5EeUZ0Tlp1RHRXTUlWVHRNdWhKLVNILXpIYlR4aHpWYS1fWTdzVmd1SHA3U0hCQjlaYUxFSDFEZUowV2NpMWxGUjlTOGd1S2M4d0VuLVhXQndpU2pXcERJcXIzckpFV3hsRkJ4eFdqUjRGbW9yWlY0WDBTRkltTTVNS1JHSjE1SzJMVFJZcmFkTkxFandyTmtIOVZXMVRQWS1YUGIxRnItX3FrbzlYWk1jbkt5Zw?oc=5",
       "summary": "The GitHub Copilot harness in Copilot Studio is now the Microsoft Copilot harness Microsoft",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Dataverse plugin for Copilot Cowork: one prompt, governed app - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2l5QlZUTG4wYlNkUUlnaG1LU1pIZlNOcmFPYldMay1nQjhBdENxeHcyYmZfaTVLUkFoYjVweVBkR0ZYMVZxbjVVTGMyazFqZnl6RzlIMzFQNTlTVUNZLUZxQzBoQU9QRnN4Zk50UmxsN2VGX2pQQ1JqNFlqQ3JhaERjVXJ3Q1NJa3JqRFVnR1BIWEFQMkhYQVBIMA?oc=5",
-      "summary": "Dataverse plugin for Copilot Cowork: one prompt, governed app Microsoft",
       "badge": "new",
       "date": "2026-10-28"
     },
