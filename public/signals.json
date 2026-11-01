@@ -1,12 +1,68 @@
 {
-  "updated": "2026-10-31T20:53:24Z",
+  "updated": "2026-11-01T03:53:15Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "badge": "new",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Apple",
+      "title": "Siri AI is available in more languages starting today",
+      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
+      "badge": "hot",
+      "date": "2026-11-01"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic takes steps to block Claude from reverse-engineering video games - Mashable",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5",
       "summary": "Anthropic takes steps to block Claude from reverse-engineering video games Mashable",
       "badge": "new",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Bans AI Game Clones and Reverse Engineering With Claude - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0FUUndYLVIwQi00eEt2YjlaSlNmd2FNYldOZ0dhbFg4ZDRtUjdTb200Y0dhMHVoVGRqSmxMSTZGU1lxMWtScVN4RTNmVGZMMjVxTkczY292TF82d1lMdl9lLXZzT0ZRMV9YVW16RW1vY0F2TDZUalU1WThZa0JMTk56djEyc1kxREtYUjNyVnhSTkY2SHpnWmdWS1h0RGVxWHfSAacBQVVfeXFMTkZUMFpBZ0QzWmJGbUdhN2VSZ056VTFfSHhpVlM0UDZUMkNwdFFzRVlyQXdhcHlERUF3ajBnaGpCb0ZjSVB4b0pMQmdXTUs2QnZjcXJ6RmpqRTFYZHN3LXBfMkVNUGtzZlRwVXdZRUE1N1dEOGdYbDhieGtsQThVV1M4eko4QWJfdGh6ekRrTnMwbm8xWkpSMWxFVGV2UG5rMVJDaDQzQlE?oc=5",
+      "summary": "Anthropic Bans AI Game Clones and Reverse Engineering With Claude TechPowerUp",
+      "badge": "new",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
+      "summary": "Anthropic's path to the Nasdaq just got a lot bumpier CNBC OpenAI Cuts Funding Target As Investors Lose AI Appetite Investor's Business Daily Before Buying Anthropic Stock, Here's What History Says Ab",
+      "badge": "watch",
       "date": "2026-10-31"
     },
     {
@@ -19,58 +75,10 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
-      "summary": "Anthropic's path to the Nasdaq just got a lot bumpier CNBC Smart Investor: AI Sells Off, Anthropic’s IPO Outlook, and Income for Bond Investors Morningstar Video: Anthropic’s I.P.O.: Why the Stakes Ar",
-      "badge": "new",
-      "date": "2026-10-31"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
       "summary": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks Tom's Hardware",
       "badge": "new",
-      "date": "2026-10-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-10-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-10-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
-      "date": "2026-10-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
-      "badge": "new",
-      "date": "2026-10-31"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI is available in more languages starting today",
-      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
-      "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
-      "badge": "hot",
       "date": "2026-10-31"
     },
     {
@@ -107,17 +115,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5",
-      "summary": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices WIRED",
+      "title": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
+      "summary": "Anthropic orders AI tool Claude to stop remaking video games Game Developer",
       "badge": "new",
       "date": "2026-10-30"
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
-      "summary": "Anthropic orders AI tool Claude to stop remaking video games Game Developer",
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5",
+      "summary": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices WIRED",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -142,14 +150,6 @@
       "title": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUF2YXlnSkNGTGxNUXFMenVYXzZsb0ZaUERLTFkwWjIxbG5qUTRhUFU3VHdoS1BnTkZNNkdQcUtjUXdsZ0Fyb0xCX0NGZDdLVUI1SG5fYWkzQnhjMG9xTjQtUkFtcFFkMnZfSFAxRW9wUXB1aUNqV21TNi1RWUFtNWljSVpwb0s2ZHVjWmNqVWt0VGhDUVB1Tnd6V2hjQQ?oc=5",
       "summary": "The Smartest AI Stock to Buy on Anthropic's IPO Filing Isn't Anthropic Yahoo Finance Anthropic Is a Revolutionary Business, but Its IPO Is Still an Enormous Gamble Barron's I read Anthropic's 92-page ",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Anthropic",
-      "title": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaE5ocmVNZU5oSnJ3YzNYQ05jNUdGZUpzdE85dHBKejZWT0s2QUx5OU9nVHZhenU2VTBMRG4xenpHc1ZUSFJaeHdIVUFQVEVEX3hvZXB5M3R6eXE1OWt3QTNRX3ZNbHBpUlk2SzBCWldDVDEydXNkTHhwVS1OVmhJUHNibk1nekxMMjcyTXpXTVNSelU3Mm9j?oc=5",
-      "summary": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost Yahoo Finance",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -190,6 +190,22 @@
       "title": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs - FourWeekMBA",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJFZEFHT29PdjZGSFRNTVdqM2l5RjFBeTNYY05MaHNnZlkyRjc1a0lrNjV4MUx1WEdjYURhTnBwWlJLNzM3U0hXeTE2R0JuckNSbDhJU0g2ZDhtQmd1UFhQNDlyaWJod2pBYmRTMmpma1F6WHNmOFB0SmFudl80Ri1LUU00bEh6N2EtWklDdldIZw?oc=5",
       "summary": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs FourWeekMBA",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Best smart AI glasses in 2026: Features for different lifestyles - www.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SSnlvRXZDSUVVTjRkQUJVZUE3ZE5uYlBCOHhaLVR6bW1JbUNVc1dMNm8xa1BuRUJ3UkRGb0tvSmFzX01DUWhReENHMUpheHlTLVpKa3g3LVFSQzd3OHBaNDVWMVhyU0xWc2YtUGlB?oc=5",
+      "summary": "Best smart AI glasses in 2026: Features for different lifestyles www.meta.com",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI and CMU Researchers Cut AI Jailbreak Rates by 22% With Pre-Deployment Training Data Filter - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzlIaF9QdXNBYXZoY281R1diNzZCbGFyZzR4UVpkX3A2Tzg4TDJKT3dKeHpCUXBHNXlyellKTTFVRy03VGU2QVJMVWI1OEM3ck50NE0xcUNsby1weExSdXlqci04Mm4zb0JBVzRpS2owQlRoODZsY1NqdFhTejVGbVEza1EwTUlYd29RMzI4VW1QeEtINU1oT2UwMUoyVEtHckRRVWlialVld2RjNzFUNTd2RldsQktTRTlTUWtsOVU1SWxxSDREeTJ4cUdnMzRwelNYRFk3Yw?oc=5",
+      "summary": "Meta AI and CMU Researchers Cut AI Jailbreak Rates by 22% With Pre-Deployment Training Data Filter Tech Times",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -283,17 +299,25 @@
     },
     {
       "company": "Perplexity",
-      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGdYSFlaYUJTMERsRXhfaFRxVFE5R2d0c2dEREpiaWJsbzJXYWlhRGFPSkFMSjU1dXp4Z3Z6aVQzc19CUVByQXhfWGNWV0FaRnEyM1l1WThsREFXZDVfdlJmbEd4ZHBSMlJuSFV0U3FYWm5OVWVRX0lwbFRFWWRUX055dG5sb3NOdjY5R2xlRDV4WVhwejZFVjdHSUY1ZHdvQUE?oc=5",
-      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Yahoo Tech",
+      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
+      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
       "badge": "new",
       "date": "2026-10-29"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
-      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
+      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzc3YVEwTU4ybk9mbHdrcThoTDZNaThaWlhHMXM0ZXFLb1pseUNsUG9RNVNuQ2VxOHRRXzVlc0twbWJ6UXl6am02TnJaX21IUWRLQ0h0QVdoUlp2ZWdENnpEV1hOVEY4OGc2blBqbFdvTHpERFc1YXV2VnlVTy1YNlZpSEZkVjJxQmEwRlBpZTF4dUFIWnFvN1E2di0yelJsSUdhbnRIWlo5cnNnV3I4OXhhOXQwM3A2?oc=5",
+      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Tom's Guide",
+      "badge": "new",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Perplexity",
+      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGdYSFlaYUJTMERsRXhfaFRxVFE5R2d0c2dEREpiaWJsbzJXYWlhRGFPSkFMSjU1dXp4Z3Z6aVQzc19CUVByQXhfWGNWV0FaRnEyM1l1WThsREFXZDVfdlJmbEd4ZHBSMlJuSFV0U3FYWm5OVWVRX0lwbFRFWWRUX055dG5sb3NOdjY5R2xlRDV4WVhwejZFVjdHSUY1ZHdvQUE?oc=5",
+      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Yahoo Tech",
       "badge": "new",
       "date": "2026-10-29"
     },
@@ -387,9 +411,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft to end Copilot support on smart TVs by end of year - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPemlkX0Fqa1RldzNTVXhXb0J0ZEd5NVYtb3ZONG1LNGM5N3JEdndXUEZyZ3V5ejhscnNmb0otWGRQSXFodExDTEVuUlVfbXUwVEhXeXVwd1B5Z0RGQWRUQmYxaXlScnd4WlVRS3E1SXB6dWEyaXd4UURFSjY0eHBEN1p2YXBoX1FjbHA3WUs5Vm93ZUxMbjVwZ1JGVUJRcTNyd0JqLVJVYmhyYkRYT1JXU2tlZm5zUDJCdzNUZjdRNk1JeG9laVhiRFBoczM1LXM5aHV5TTZaNUU0Wm5LRXdoNWkxR3pHcmV4aGhDOUtheExzSTM1dzcwX29nbDBfWm14YTVuX0dNazVUX2JNSnM3TWZsSk1qWTlvYnhnbnh3?oc=5",
-      "summary": "Microsoft to end Copilot support on smart TVs by end of year Windows Central",
+      "title": "Dataverse plugin for Copilot Cowork: one prompt, governed app - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2l5QlZUTG4wYlNkUUlnaG1LU1pIZlNOcmFPYldMay1nQjhBdENxeHcyYmZfaTVLUkFoYjVweVBkR0ZYMVZxbjVVTGMyazFqZnl6RzlIMzFQNTlTVUNZLUZxQzBoQU9QRnN4Zk50UmxsN2VGX2pQQ1JqNFlqQ3JhaERjVXJ3Q1NJa3JqRFVnR1BIWEFQMkhYQVBIMA?oc=5",
+      "summary": "Dataverse plugin for Copilot Cowork: one prompt, governed app Microsoft",
       "badge": "new",
       "date": "2026-10-28"
     },
@@ -426,22 +450,6 @@
       "date": "2026-10-28"
     },
     {
-      "company": "Meta",
-      "title": "If You're In the UK or EU, Here's How to Object to Meta's AI Training - 404 Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWHFJYjdwcm92Mm5wRHY3NEFwU2dVRWxmZUVRS3JiUjlkT204MU5wVzB5akppU1BXUUp6X2t0cmVMejBwNHZqQkM1bHFTSm00emJEaW9XYUV4Q28?oc=5",
-      "summary": "If You're In the UK or EU, Here's How to Object to Meta's AI Training 404 Media",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta has a new AI pet app called Waddle World - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUJhcmFQaktsWGd3eUk2SlF1TWE1OXR5cGFxbnJWZ2gyd0xudWdXdk1MY0MtUHB6b0pDOGxVaTFyVXNCdlM0aWQ0b2Y3Q2FndThadVFHSTU4Zlo1dUYwZ0FOaUZNWjFjbmxxM3lzRmdaU2RPXzFka1ZoRDgxWUY1S0RhemVfX1k?oc=5",
-      "summary": "Meta has a new AI pet app called Waddle World TechCrunch",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
       "company": "Amazon",
       "title": "Amazon’s October Hardware Wave: New Alexa Tablets, Kindles, Ring Devices, Fire TV Stick and AI Wearables - Innovation Village",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzdqbFJLN0N5TE91RV85MmpsN2RZZ0RZVzJveElGRU1BcEpjaWhzU3BNaFJUZlIxc2E2M1d1SFZhVEo1ZzZycWZtUENjc2V1bnk1bUJyTDlJWDYyejZlQk5EWUpRYUZFVEtpZmRHUW5feGRURW9NN2xWai1XZnQzSWoxeFAteW1sajdKcmJRb1VteWt0Wk1WQ29kbFBmZnZ5dTZkZmt1aVRzbWxSeWxFb3IzUmh2ZWhCMndSTXhDQnQyRjlxZUJlN1dWRQ?oc=5",
@@ -470,14 +478,6 @@
       "title": "Developers bring incredible new app experiences to iPhone Duo",
       "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
       "summary": "Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Best AI Chatbot for Writing in Ireland: 5 Ranked [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bkVwR0FDVG1VWkNMblh2THlES2VKcmZjdkZXRkstcHI1aEZ6XzJnOVBaV2dWeVUzcVZITFJPa2FrWVFPTkN1SGR4N2pGOU5MR3RWVzBDWWJnZFVGREVwbmVWRkNLeEcwOS15MmhZQW42UklXcUdJNA?oc=5",
-      "summary": "Best AI Chatbot for Writing in Ireland: 5 Ranked [2026] tech-insider.org",
       "badge": "new",
       "date": "2026-10-27"
     },
