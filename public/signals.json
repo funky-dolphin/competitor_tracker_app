@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-03T00:21:25Z",
+  "updated": "2026-11-03T13:28:36Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Progress on provable inference for large language models - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
+      "summary": "Progress on provable inference for large language models Anthropic",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
+      "summary": "Chinese AI models tumble down rankings after a crucial change to testing Business Insider",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft’s AI PC Roadmap Outlines Next-Gen AMD & Intel Chips, With Entry-Tier 8 GB, Copilot+ Ready 16 GB+, Builder PCs & Supercomputers at 128 GB+ - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMU05ZjBlMzY2aEsyY2pXV0pSZnpjUWw5amJYVXNndTNuTW41WGVBQVdSek1IZ1BfVWZJT25uTGVCNkk3bDlKZlFvSFlUemF5QUY3V1puaFNPVzVmOW9BMTlJNDg3d1FUZ01xbWxKYmVGcy03eWVCODB5V25NbS1VYVRXdXo1S1BIdVhONXZtUkVGRDM2akY5bF9RdXdkWGVya2F0SkRhVzJndWMtV09iaUREVGMyazhMZExWbmQ1aUNSUnNOZE9MaNIBzgFBVV95cUxPYUU2LXF4SGViSmhGZmNSM0lTazNRSUItY3owUzBzQTZpWWt4cTFFTmdDeWZWVGc1NHBBaU1hZFVud2Fyd2txSzNVcVd0NW5UU3hNS2o2M0RlWWZyYUVsVnQ3RWZyc2c4QzhIamx0bXlVTktTcGllcXJhbWNFWE8wUUlyVTZPZEZzd2tSVkJ1UXM4MGl0T2dnREY2N19KWnZKU2xHc3JGcFhQbk45VXE0YUtvYnREMVJKdHBaZHFOVUVhS21ZUkFmQzNCMjFodw?oc=5",
+      "summary": "Microsoft’s AI PC Roadmap Outlines Next-Gen AMD & Intel Chips, With Entry-Tier 8 GB, Copilot+ Ready 16 GB+, Builder PCs & Supercomputers at 128 GB+ Wccftech",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
     {
       "company": "Apple",
       "title": "Apple reports fourth quarter results",
@@ -42,6 +74,22 @@
       "date": "2026-11-03"
     },
     {
+      "company": "Perplexity",
+      "title": "Best AI Assistant: 6 Picks, $0 to $200 a Month [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyb2tiQ2NXaVBKcE9SM1VVYmFUWGJFZHNMbXBZeVRYdnRkYzdMbjdZci1fdXFHaXZ6VEtfX1Z3ZWhUc05wZDBUdHFjSTNwTkZFSk91d3BJVC1aN2piSWFpT0ZRSUdSMmdkeERtMWZEU1dSVG1QNjdsMF8tQmE?oc=5",
+      "summary": "Best AI Assistant: 6 Picks, $0 to $200 a Month [2026] https://tech-insider.org/",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5",
+      "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business Business Insider",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
       "company": "OpenAI",
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai",
@@ -55,6 +103,22 @@
       "url": "https://openai.com/index/grid-protectors-program",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "badge": "hot",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "badge": "hot",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "badge": "new",
       "date": "2026-11-02"
     },
     {
@@ -75,9 +139,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic, PBC - S-1/A-1 - SEC.gov",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnhSTzBlYzFrejZheW9wX3ppRzZ3OFVkUkpTVWlHeldiMzVlRjUwdUNTRUZTZG5EcERIc2xfd2loZWVPMXJoZzItNkpaVGp5TFJkdkpKd0RnU3NieEhGV3g0TUtuUEx3MjdxMEpvZk5ONWp0MXlwTXdXRFVnQzZMaUhVa3lpVGdMYnhoZHY1RzRGS05t?oc=5",
-      "summary": "Anthropic, PBC - S-1/A-1 SEC.gov Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg.com The SEC Should Block Anthropic’s IPO to Protect the Public Tech Policy Press",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
+      "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI TechCrunch",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1J3NXRpRXlFZHZiUUotRlNhandEU19SQVVyM3c1SW0teWRrMGxhUnpzbjJYN0hyTUlOMGd2a3dqSDl3ZG9tMFIyVEhkN1BnVDdTcmNzUF94dExOZEMwN0VUMTBKbE52U2hma3BLOVp3T0VCRVh0ZE1mVWdvU0RiNjFIOWhRTHdfeElXZUJHMkppd0hHbFRuVzNiODBURVJLNzJyLXpRSkx1TTlsaVJvUDJnSUo?oc=5",
+      "summary": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches The New York Times Can AI safety and profit growth coexist? Ant",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -91,9 +163,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
-      "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI TechCrunch",
+      "title": "Anthropic, PBC - S-1/A-1 - SEC.gov",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnhSTzBlYzFrejZheW9wX3ppRzZ3OFVkUkpTVWlHeldiMzVlRjUwdUNTRUZTZG5EcERIc2xfd2loZWVPMXJoZzItNkpaVGp5TFJkdkpKd0RnU3NieEhGV3g0TUtuUEx3MjdxMEpvZk5ONWp0MXlwTXdXRFVnQzZMaUhVa3lpVGdMYnhoZHY1RzRGS05t?oc=5",
+      "summary": "Anthropic, PBC - S-1/A-1 SEC.gov Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg.com The SEC Should Block Anthropic’s IPO to Protect the Public Tech Policy Press",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -139,6 +211,22 @@
     },
     {
       "company": "Microsoft",
+      "title": "Nine engineers, 1,211 pull requests in a day: Lessons from building Copilot Cowork - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFF3ZlVhVnNOZDQ5cmFxd3BZc3ByOWt3c3EwRXZLWk9hcmRnSWVQelltelZkM01nV3dNRHh5VG04UkZ0dTF4WmdTaGxzSjVvZkhRcER0OHRQeVM3MXJvY1NGZjNHT3puazhJbzVIb0Q1aDAxVFJJeUVvTWM1NWk0MlNxbGpTRC0xdW9BaUNCTTk?oc=5",
+      "summary": "Nine engineers, 1,211 pull requests in a day: Lessons from building Copilot Cowork Microsoft",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFVzWE5ncThURDdoelp6V3JvYy1zRE10eUFSSGtuZUxVOWp2NGlINWdEcEZFXzRxb0s1REhGNGplREQ0RWp1TVpGY2tOcV9ZV1V2UTgyQ1lwdFJ1YWxMb2VmbmdXeUdqeEQ3NnlnMXBGcDZIQjYxTTBWZ0pLNEYtSy1TRVdCTmg0bkV0cUpMZk9ENTQ4VDRUUXJhNFozWENudlJuVzFXcFhzUXA5RUZv?oc=5",
+      "summary": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n Microsoft",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Microsoft",
       "title": "Clarivate to Bring Trusted Trademark Data into Microsoft Copilot Through IPOne - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjE5SEs0clJuWW5rWDdybXlmTGMwQU0tdmtRWkthWDJYVjVmckhSVE1NTG9oYjB0WlhzN2E4Zkd6SS1HYXBxNnVvZWU2QUVvMFRkcHlnRDRSdEV2QkRvNzIyZ0wwY1JEYkY1Y0xOUW5mMW1WNFpSMk1PRDdYQ09kMFBFZHJKTFhYX18tNQ?oc=5",
       "summary": "Clarivate to Bring Trusted Trademark Data into Microsoft Copilot Through IPOne Yahoo Finance",
@@ -158,6 +246,14 @@
       "title": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Va3RfWUJ4cXpGNUJCRThFR3pmS0tDSXpuTld4SDBPcktoSlZMb2VWZEdOeTNvbUdSUHBKUVFBRGtiZTJocG05VUdpbURRSGNsR0VUWE1ubk9Yc2h0SEU5UlI1amdSQjUzb0HSAW9BVV95cUxPU29KVFdqU25oOVBHa09XMDBuMWFuSlJwbDhlZ05GNVM4OWxHU0lZbHpUaHJKTmZRWG11aDhTdFdtRE44WHVQYlRlN3VpSDI1X1VRWC16dWpJOW9rd2trSlljME5WdE5qSnhUNS03aTA?oc=5",
       "summary": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys CyberSecurityNews",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Perplexity",
+      "title": "New York Times sues maker of Brave web browser over copyrights - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUlhZHQ0WWQxSG5Pb3RDTmRISEdjd0U3UjZHNXZXVHMwaFY3UjVsX2NSWTJuRVgza2YyZUtBWXczTnVnZEZJZHpUc1JIUGREaTU4dG0wV1NqLWprWE9PT1NHM1EtR1pBaktRM3Y5VHp2am4zTTQ0VHN3Z2V0WTd6OVE4bnluNURtOVB2VW9JMHcwUllPV0dKZm9MUkFoaWRRMlNSdzRaeWYtUTlPV1ZSRUNR?oc=5",
+      "summary": "New York Times sues maker of Brave web browser over copyrights Reuters",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -186,34 +282,18 @@
       "date": "2026-11-02"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ?oc=5",
-      "summary": "Anthropic says you can’t be mean to Claude. It’s not about feelings CNN",
-      "badge": "new",
-      "date": "2026-11-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "We’re Living in the Age of the Imperial CEO - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3N0ZlF1dzhaZkYzV0RpanUyVDczaDFGWWh2dDJFbldQclhJSmdWUFNYaThpLTdQUkc0UGluZVQ1aXJmZ1FYblBWNVgyd1BsY0dfVmVPa0drRGlaZzV6THVNX3NDWmozVWhqM0pVd3pyOHd4RFNNM3BFcjdyUWRXcXhwT1FzampSYkgw?oc=5",
-      "summary": "We’re Living in the Age of the Imperial CEO WSJ Anthropic's path to the Nasdaq just got a lot bumpier CNBC Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows Reuter",
-      "badge": "new",
-      "date": "2026-11-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic expands text watermarking to older Claude versions beginning November 3 - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEM4THdHaktsdExGbnVyMWxVLWhuRmx4S3hYSEMwWFIxcjIydjA2TVl6bkZidU10QmYyWEZWYkNsM0NXdTBHc2pIY0tXU1ZiMTdYbDZvYVNUUDduTDB2eU1DRU0yVERyS3ppRFpHWjZ5OUFxdXU5ZTRCbk5hSG9UNkgxQTJmX1BKWlJkOXAtNA?oc=5",
-      "summary": "Anthropic expands text watermarking to older Claude versions beginning November 3 Mashable",
-      "badge": "new",
-      "date": "2026-11-01"
-    },
-    {
       "company": "Microsoft",
       "title": "Copilot AI Predicts Solana Could Hit $2,500 if This Landmark Event Happens - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSENSS2V3T0ZTRlRiM1I2VENOTDBIdWdiaU1sT1NPRFZEeHRfR3Jsc2poc2NHY3QzX24xcWNabGJ0bEY3THBlZ2tFdTY4Y1p3Y0ZPY0JPYV9fZlEtS0hCbzRSaHB5RHJ1ejYyaHlSUFJLeTY4UGVQSHU1eU12b2NKdXhhTVhpcWdJU2VSb3dCa0gtNzFzQ1pEOEFUUThENlV4RHo1T1k5clJUUUlyN3otTkN0bXRjMFFsejhiWC03WlZPaGdWMHJ1S2hhOWVRbEU?oc=5",
       "summary": "Copilot AI Predicts Solana Could Hit $2,500 if This Landmark Event Happens TradingView",
+      "badge": "new",
+      "date": "2026-11-01"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Huge Cardano Boom: How High Can ADA Price Go? - Coinspeaker",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ1U01KYk9oVEs0SlI5RzRfMEhCSnFnVHJreEUyczdoWGlINWE5eW5QM252S0laTnU4MkF4dHVQX21pZnRYWktZLWhSdkFpUlk4SHAwZEdmX1NLREU5cVZfVGlpYWJ2Z25KcTNZUXM0WUhYQk9pVUVteld0RHdCV1F1dmpmdUJ6YW9pQmU1UFJwQ1UxT1oxTi1VbHhqaDlH0gGmAUFVX3lxTFBoLXJGblJWc1NIY1JETUpTZk90QlNoemVEZjR6ZGY3ZklJdFZuc1drTGhjNmltOXY3aHViWjlVLS1qZEt0d09tcnhSU3hCYmtOV2hXZkJ3dlMwNzlpRWozVzhFemFpUEJIYXpXV2RNbnFNTHZoM3JPXzBnZ2UzeTdXbVQwU0JPQ19zajdlRE03NHRMZHM1SDVBd3ZVa2ZhZEtmMUF5TUE?oc=5",
+      "summary": "Perplexity AI Predicts a Huge Cardano Boom: How High Can ADA Price Go? Coinspeaker",
       "badge": "new",
       "date": "2026-11-01"
     },
@@ -330,14 +410,6 @@
       "date": "2026-10-30"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft's Copilot AI chatbot app might disappear from Samsung TVs soon - SamMobile",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2R4azB1cjZEMnE4dU9IYU1PNU5QQ19PNFpxbjM4UGo4MlhqXy15ejQ0YjdpVnpZbVpWMmpZSVgzZmRkWE1sb1ZjS1pyYXdNZHBULUZyQ1RvbzktZkRDLUJ5UzNoYjY0UjJBY1NwT0I2aE5YYll3bWNxV0FFYlc0MHNFeS1nT3hHVloxcXBaTW4?oc=5",
-      "summary": "Microsoft's Copilot AI chatbot app might disappear from Samsung TVs soon SamMobile",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs - FourWeekMBA",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJFZEFHT29PdjZGSFRNTVdqM2l5RjFBeTNYY05MaHNnZlkyRjc1a0lrNjV4MUx1WEdjYURhTnBwWlJLNzM3U0hXeTE2R0JuckNSbDhJU0g2ZDhtQmd1UFhQNDlyaWJod2pBYmRTMmpma1F6WHNmOFB0SmFudl80Ri1LUU00bEh6N2EtWklDdldIZw?oc=5",
@@ -378,62 +450,6 @@
       "date": "2026-10-30"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI raid triggers monopoly abuse investigation - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3NvZ1EyaUxoa1pfdjM4ajVmNFFwdzRudUVSN19PamkzcTZtc0dmWk45eVJpX0RhY09OQVpCUEJLY2c5YlR0amVXVEtQemxfMkNMSlp0TnBkV2IteXlTVjliM2N3WGJxX2VXQ2lVeEFGN1JZUDc5WVhxVV9LTGliQ0RZRnI0ZGxiVGpsWi1WcDVUZUJzcVVfUnRlQnp5bDNfQWc?oc=5",
-      "summary": "Meta’s AI raid triggers monopoly abuse investigation The Telegraph",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Copilot for finance: Purpose-built for the way finance teams work - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2N2YTBIZjhXamltUzg3aXNhOGJUUGxxX3piekRCVEFjNEJVc2F2WFpJNmZZTkloOUlUR1BfV2JuMFo3Z0JVclNBZFhnZEFjMEhSQ05jdFBuaFVpLUkxQmpMeWJ0ZlpFblZpRm05aFJicTV6RnJTWWhQS2tZUXYtUFAzRzNrRldNblR0eEtQMm9BOVN2TXVubVNsbzVseWNadkNYTWExQVFxNEJfV1NBeWVwTV9saVJqVzJaSWhEWXpnWUFMeEFuRlBWMA?oc=5",
-      "summary": "Microsoft Copilot for finance: Purpose-built for the way finance teams work Microsoft",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFp2TENUQ1BtQWNWdjA2S0tabV9zVjd3ZW84eGdkdWFSajRVblVXWmpvUTR6c1JKNC1XQmRmS0Z5TmJyZlFFRjlGTVZMMG1jZk55MExzU2tORmhsMEtaVGx0enUxTm9KZk16b0dRNDV3OWUzTUJtMmJlYkJGVXZJTzlBOGtXczRFUTFRajZxZ1NFbUJYUkdMZ3RBczFVRUJ1cFRmRVRLTQ?oc=5",
-      "summary": "Inside Microsoft, a powerful new AI executive is shaking up some of the company's most important businesses Business Insider",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzc3YVEwTU4ybk9mbHdrcThoTDZNaThaWlhHMXM0ZXFLb1pseUNsUG9RNVNuQ2VxOHRRXzVlc0twbWJ6UXl6am02TnJaX21IUWRLQ0h0QVdoUlp2ZWdENnpEV1hOVEY4OGc2blBqbFdvTHpERFc1YXV2VnlVTy1YNlZpSEZkVjJxQmEwRlBpZTF4dUFIWnFvN1E2di0yelJsSUdhbnRIWlo5cnNnV3I4OXhhOXQwM3A2?oc=5",
-      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Tom's Guide",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
@@ -443,25 +459,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGdYSFlaYUJTMERsRXhfaFRxVFE5R2d0c2dEREpiaWJsbzJXYWlhRGFPSkFMSjU1dXp4Z3Z6aVQzc19CUVByQXhfWGNWV0FaRnEyM1l1WThsREFXZDVfdlJmbEd4ZHBSMlJuSFV0U3FYWm5OVWVRX0lwbFRFWWRUX055dG5sb3NOdjY5R2xlRDV4WVhwejZFVjdHSUY1ZHdvQUE?oc=5",
-      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Yahoo Tech",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity’s AI got some answers wrong, but it helped Aravind Srinivas find his first users - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUxfald0WFp3UWZGU1NySnl4THN2STF0eE9IRG5fbUZtOWZDLWZmQVFXUVlwRHdzc1BkNl9LRWxCekRxMDdaaC0xSFFZLWJUX1RQdnh3OHBhclpCMEtMbk9VaXpaY0NRcXFkWWxqeEMxWTBYejlaNFVCYXZCM3J1cUtCUGdYZzZKaUlJOE9EV0ZkWERWQlV0RDd4UXlmZUhuQ2JoWlhSZjNGanc2V3pSLUVOZVJfU1k0eEtYR0dGMi1BYTZLRUxpeExxejNNcnZXUDB5MHJlWUJ5V2lXbmJzekZ2UzYzdC1IbjFQM0trRdIB9AFBVV95cUxQWDdLc1M4Q2pja20wSTM5UTNicW14TU5jc0hFcUlETWh5Y205V1hnWUowZVZsMXFkVmFzLWJFeWN3N1o3dHd5VG5fVGdCdTgyYjlBd0FQMld0dzBlRTJXR0swb0x1NEV2R0o5cXBiOUdnMkJWOFFFQVEwc3BpWnlEUEZzbjVFLWJPaHJOeGd5Z1FSUjN5a092ZHJkM0dmVmxwTE8yS09INmI5dW1UZXVBczVkd2xKam4xR21zZDJvTW9VMHR0Uk9vQzRzREdfUmQxSnZyT3dGUVJXM0NLY1dPaXpTRXY0OUh6Um9GRUZTWk1XaElD?oc=5",
-      "summary": "Perplexity’s AI got some answers wrong, but it helped Aravind Srinivas find his first users The Economic Times",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "AI Search Citations 2026: 360 Tests Show Domains Win - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1JtQUdiWVdXWTRuM0ZKOWk3eTVPNEFzTkhWNTdWSWhXbnpFYzBIVXFrUXhzVktqNF9kQVJrTTVLYXZuS2xaR0JzbHcwM0dXODJHTl9wTHFLSDV0bUdwNUl0Q2lkaGF6S0ktcVpSVkZHZDFFeldULUgxQk13YV8yc0hzeXlCR1lOak5NUzhSRXpHNnVB?oc=5",
-      "summary": "AI Search Citations 2026: 360 Tests Show Domains Win tech-insider.org",
+      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzc3YVEwTU4ybk9mbHdrcThoTDZNaThaWlhHMXM0ZXFLb1pseUNsUG9RNVNuQ2VxOHRRXzVlc0twbWJ6UXl6am02TnJaX21IUWRLQ0h0QVdoUlp2ZWdENnpEV1hOVEY4OGc2blBqbFdvTHpERFc1YXV2VnlVTy1YNlZpSEZkVjJxQmEwRlBpZTF4dUFIWnFvN1E2di0yelJsSUdhbnRIWlo5cnNnV3I4OXhhOXQwM3A2?oc=5",
+      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Tom's Guide",
       "badge": "new",
       "date": "2026-10-29"
     },
