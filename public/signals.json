@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-02T14:33:06Z",
+  "updated": "2026-11-03T00:21:25Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "badge": "hot",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "OpenAI",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "badge": "hot",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, PBC - S-1/A-1 - SEC.gov",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnhSTzBlYzFrejZheW9wX3ppRzZ3OFVkUkpTVWlHeldiMzVlRjUwdUNTRUZTZG5EcERIc2xfd2loZWVPMXJoZzItNkpaVGp5TFJkdkpKd0RnU3NieEhGV3g0TUtuUEx3MjdxMEpvZk5ONWp0MXlwTXdXRFVnQzZMaUhVa3lpVGdMYnhoZHY1RzRGS05t?oc=5",
+      "summary": "Anthropic, PBC - S-1/A-1 SEC.gov Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg.com The SEC Should Block Anthropic’s IPO to Protect the Public Tech Policy Press",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inside Anthropic’s Hunt for A.I. Computing Power - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5",
+      "summary": "Inside Anthropic’s Hunt for A.I. Computing Power The New York Times",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
+      "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI TechCrunch",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
     {
       "company": "Anthropic",
       "title": "In Silicon Valley, Founders Fear — And Depend On — Anthropic - Forbes",
@@ -34,42 +130,18 @@
       "date": "2026-11-02"
     },
     {
+      "company": "Google",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "summary": "Animated carousel of images from AI posts in October",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
       "company": "Microsoft",
       "title": "Clarivate to Bring Trusted Trademark Data into Microsoft Copilot Through IPOne - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjE5SEs0clJuWW5rWDdybXlmTGMwQU0tdmtRWkthWDJYVjVmckhSVE1NTG9oYjB0WlhzN2E4Zkd6SS1HYXBxNnVvZWU2QUVvMFRkcHlnRDRSdEV2QkRvNzIyZ0wwY1JEYkY1Y0xOUW5mMW1WNFpSMk1PRDdYQ09kMFBFZHJKTFhYX18tNQ?oc=5",
       "summary": "Clarivate to Bring Trusted Trademark Data into Microsoft Copilot Through IPOne Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -86,6 +158,14 @@
       "title": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Va3RfWUJ4cXpGNUJCRThFR3pmS0tDSXpuTld4SDBPcktoSlZMb2VWZEdOeTNvbUdSUHBKUVFBRGtiZTJocG05VUdpbURRSGNsR0VUWE1ubk9Yc2h0SEU5UlI1amdSQjUzb0HSAW9BVV95cUxPU29KVFdqU25oOVBHa09XMDBuMWFuSlJwbDhlZ05GNVM4OWxHU0lZbHpUaHJKTmZRWG11aDhTdFdtRE44WHVQYlRlN3VpSDI1X1VRWC16dWpJOW9rd2trSlljME5WdE5qSnhUNS03aTA?oc=5",
       "summary": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys CyberSecurityNews",
+      "badge": "new",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Details Brain Memory Architecture and Agent API Testing - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTgtU2JWTU1vVU1iZGg3V0VqYUNvTEtpaE43SWM2QjJwVEh6TzJDYzNkMV9RcVRITWhJck1oTnFrSU92am1udXR4QzBEeFlveGsyQjVpZEV3bGJ3UnNFMXQ2RHRUNnRVRXpGVDNEMFZDTWpNd3ZDWDVwSlJMeXpKZUY5TXVUVXBCMHR2WHFUUzJqUQ?oc=5",
+      "summary": "Perplexity Details Brain Memory Architecture and Agent API Testing Unite.AI",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -130,22 +210,6 @@
       "date": "2026-11-01"
     },
     {
-      "company": "Anthropic",
-      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
-      "summary": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZlQklSTUE5MnZLZDM2U1RWbGFtQzRmVU1mTTk5YUVLNEVta3FmZnM5OWIxUW9DN253ZlctTGk4RFEybHFGQU9hXzNSdkE5SGZRbjNKLUd6RE9OaEN6NWkzd2dpcnRDRjdGR01DN0JyQWVjcFhkaEs5UmlmNS1oZV9VSVhjbHk3d0M3aHVwa0lfODdOZFF4NnVHSTBRUy1EZlE?oc=5",
-      "summary": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers Business Insider",
-      "badge": "new",
-      "date": "2026-11-01"
-    },
-    {
       "company": "Microsoft",
       "title": "Copilot AI Predicts Solana Could Hit $2,500 if This Landmark Event Happens - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSENSS2V3T0ZTRlRiM1I2VENOTDBIdWdiaU1sT1NPRFZEeHRfR3Jsc2poc2NHY3QzX24xcWNabGJ0bEY3THBlZ2tFdTY4Y1p3Y0ZPY0JPYV9fZlEtS0hCbzRSaHB5RHJ1ejYyaHlSUFJLeTY4UGVQSHU1eU12b2NKdXhhTVhpcWdJU2VSb3dCa0gtNzFzQ1pEOEFUUThENlV4RHo1T1k5clJUUUlyN3otTkN0bXRjMFFsejhiWC03WlZPaGdWMHJ1S2hhOWVRbEU?oc=5",
@@ -176,14 +240,6 @@
       "summary": "CMA opens Meta investigation over use of publishers’ content for AI The Next Web",
       "badge": "new",
       "date": "2026-11-01"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
-      "summary": "Anthropic's path to the Nasdaq just got a lot bumpier CNBC We’re Living in the Age of the Imperial CEO WSJ Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if st",
-      "badge": "new",
-      "date": "2026-10-31"
     },
     {
       "company": "Perplexity",
@@ -235,17 +291,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
-      "summary": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence Microsoft",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft to withdraw Copilot from Samsung and LG TVs - Broadband TV News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmVFQUJwSU4yTlFhTThYYk5kYUlsRXZQdVVHc1BocExqN2MyVlNJTnk1WV9Wa2JwMXR2bGNjU1I5SVFfa0hMdjNaaGFhY0pTQ0FodjZIOVhZOHI4OTBobE5UN194VjdNZVFnazBnUXg1TGpOb1N0RlFmZDZNa29TdG9IbTFwczlHdTBJaThldjh2T0xPZnNNcTQtS1FuUQ?oc=5",
-      "summary": "Microsoft to withdraw Copilot from Samsung and LG TVs Broadband TV News",
+      "title": "Microsoft pulls Copilot from smart TVs following controversial rollout - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXowcU9UMkdUd3dqNEMtMmVzMmFpRlBVRGw3dHRjQ2pfVzljZmJpckN2cjBjSmp6T0xDZmtzd1RBV1U5LTNBTVRSUHc0a2lBZkZBNUVtak5wRGJnYjgtaXM3WnJkSjhPeEY3TkhNbjZadDljZ0dMQ2pTWU9VeUFZMmxPU3RXV2IwQlFLWl80QVBDbVoteEtfR1BDR25venJpa2wyZGZCR2tDc09xNUxBdkx3RUZ4QQ?oc=5",
+      "summary": "Microsoft pulls Copilot from smart TVs following controversial rollout Notebookcheck",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -259,9 +307,17 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft pulls Copilot from smart TVs following controversial rollout - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXowcU9UMkdUd3dqNEMtMmVzMmFpRlBVRGw3dHRjQ2pfVzljZmJpckN2cjBjSmp6T0xDZmtzd1RBV1U5LTNBTVRSUHc0a2lBZkZBNUVtak5wRGJnYjgtaXM3WnJkSjhPeEY3TkhNbjZadDljZ0dMQ2pTWU9VeUFZMmxPU3RXV2IwQlFLWl80QVBDbVoteEtfR1BDR25venJpa2wyZGZCR2tDc09xNUxBdkx3RUZ4QQ?oc=5",
-      "summary": "Microsoft pulls Copilot from smart TVs following controversial rollout Notebookcheck",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
+      "summary": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence Microsoft",
+      "badge": "new",
+      "date": "2026-10-30"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft to withdraw Copilot from Samsung and LG TVs - Broadband TV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmVFQUJwSU4yTlFhTThYYk5kYUlsRXZQdVVHc1BocExqN2MyVlNJTnk1WV9Wa2JwMXR2bGNjU1I5SVFfa0hMdjNaaGFhY0pTQ0FodjZIOVhZOHI4OTBobE5UN194VjdNZVFnazBnUXg1TGpOb1N0RlFmZDZNa29TdG9IbTFwczlHdTBJaThldjh2T0xPZnNNcTQtS1FuUQ?oc=5",
+      "summary": "Microsoft to withdraw Copilot from Samsung and LG TVs Broadband TV News",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -354,14 +410,6 @@
       "date": "2026-10-29"
     },
     {
-      "company": "OpenAI",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Copilot for finance: Purpose-built for the way finance teams work - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2N2YTBIZjhXamltUzg3aXNhOGJUUGxxX3piekRCVEFjNEJVc2F2WFpJNmZZTkloOUlUR1BfV2JuMFo3Z0JVclNBZFhnZEFjMEhSQ05jdFBuaFVpLUkxQmpMeWJ0ZlpFblZpRm05aFJicTV6RnJTWWhQS2tZUXYtUFAzRzNrRldNblR0eEtQMm9BOVN2TXVubVNsbzVseWNadkNYTWExQVFxNEJfV1NBeWVwTV9saVJqVzJaSWhEWXpnWUFMeEFuRlBWMA?oc=5",
@@ -418,43 +466,11 @@
       "date": "2026-10-29"
     },
     {
-      "company": "OpenAI",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "badge": "watch",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "badge": "new",
-      "date": "2026-10-28"
-    },
-    {
       "company": "Apple",
       "title": "Apple gives iPad mini its biggest update ever",
       "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
       "summary": "Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.",
       "badge": "hot",
-      "date": "2026-10-28"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE) - icobench.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDRBWTZmM1V4VlBLTXptQlRINldsY2Y4blgtUm9LLTUzdW9yUC1tbEhFSjlOWDRDeGFuNG52UDFSR1BNODhUYUlzbjRVWUd3VUpkQ0Ywb2tWTEM3OXJpQXo2VlVqZ0FOQWxxUHNyQTA3Umc2cURCcS12ZTJLdnVpcGRqNE1UQQ?oc=5",
-      "summary": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE) icobench.com",
-      "badge": "new",
       "date": "2026-10-28"
     },
     {
@@ -495,14 +511,6 @@
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
       "badge": "new",
-      "date": "2026-10-26"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils the 2026 Designers of Tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
-      "summary": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
-      "badge": "hot",
       "date": "2026-10-26"
     },
     {
@@ -608,14 +616,6 @@
       "summary": "Jane Wade and Sergio Hudson",
       "badge": "new",
       "date": "2026-09-18"
-    },
-    {
-      "company": "Google",
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage",
-      "badge": "new",
-      "date": "2026-09-17"
     },
     {
       "company": "Amazon",
