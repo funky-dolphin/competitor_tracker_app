@@ -1,11 +1,35 @@
 {
-  "updated": "2026-11-03T13:28:36Z",
+  "updated": "2026-11-03T22:47:45Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
     {
       "company": "OpenAI",
       "title": "Heimstaden is changing residential real estate management with AI",
       "url": "https://openai.com/index/heimstaden",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -19,6 +43,30 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5",
+      "summary": "Anthropic Claims to Be Near Recursive Self-Improvement Gizmodo",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjdTekJoa3gzVS1WSGpCX0lpQmRvc3dCUVl2NHNoU2JudXFFM1pXTkhfZXJsY1JiLVdNSFE3dU1ZQnIyenhGWFZIRFV2T0dCcDVkdFRWR2F4ZDZtSXkzYVlXaXRackIwZjJXZkVudlpBRHJUeG85Tm9aVWZVZzNvVGVXaURSNnY4dzNaWmo3QlhjQmRQQU9ReGZvellZb28zRk9iRjEwdV8tMjZNZlZRd082UG9fREZMbVHSAb8BQVVfeXFMTkxpWHM1MWp1a2hsSHV6eUNNZE04aGxzdzhaVHR6ZW1hODg2QlRsNzZGMU95cGhLbGJZR0o1NGhUTUFjYlVjbTlsTmQ5LW5qNjRMQnJVdEQ5b0RnUmo3VHA5SEFLdS1KX01nWnFfb0d0Uk1MeVVOYndWb1BYSzBqd3cyZkdqQ2I0UUhSYkNBQmRrZEstLVlUbEJBS1YzSWUwSnVtTThRamdvWmIyWEVuT2Vjb3RELUVHTDJPT3FxdkU?oc=5",
+      "summary": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. Wccftech",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
+      "summary": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance The IPO Market Is Open For Anthropic. Not For Everyone Else. WSJ Jim Cramer Says Bears Want to Derail Anthropic’s IPO. Here’s Why It ",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
       "title": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
       "summary": "Chinese AI models tumble down rankings after a crucial change to testing Business Insider",
@@ -27,9 +75,25 @@
     },
     {
       "company": "Microsoft",
+      "title": "Copilot for Legal – AL Interview: Carina Negreanu, Microsoft - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1RQOEc3MkVXQ3NHc0tjRnQ4djJHMC1Ed1Z0bEFPZEViZDVQYXd5N0tRbXlmRUlJc2wwT09Na1huaWdyTlM1SFhfLXNvaUNlWWozU0oyNTVFWGhfLUdJVE5uUzlKcWVOMmFFSWtVZk1HeUNQbUJVV044Q05mZFI3RTRKWGNycGpGQjdVbW5PYlhudWdXb1lQamNQbEU1Vy1OcUZz?oc=5",
+      "summary": "Copilot for Legal – AL Interview: Carina Negreanu, Microsoft Artificial Lawyer",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft’s AI PC Roadmap Outlines Next-Gen AMD & Intel Chips, With Entry-Tier 8 GB, Copilot+ Ready 16 GB+, Builder PCs & Supercomputers at 128 GB+ - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMU05ZjBlMzY2aEsyY2pXV0pSZnpjUWw5amJYVXNndTNuTW41WGVBQVdSek1IZ1BfVWZJT25uTGVCNkk3bDlKZlFvSFlUemF5QUY3V1puaFNPVzVmOW9BMTlJNDg3d1FUZ01xbWxKYmVGcy03eWVCODB5V25NbS1VYVRXdXo1S1BIdVhONXZtUkVGRDM2akY5bF9RdXdkWGVya2F0SkRhVzJndWMtV09iaUREVGMyazhMZExWbmQ1aUNSUnNOZE9MaNIBzgFBVV95cUxPYUU2LXF4SGViSmhGZmNSM0lTazNRSUItY3owUzBzQTZpWWt4cTFFTmdDeWZWVGc1NHBBaU1hZFVud2Fyd2txSzNVcVd0NW5UU3hNS2o2M0RlWWZyYUVsVnQ3RWZyc2c4QzhIamx0bXlVTktTcGllcXJhbWNFWE8wUUlyVTZPZEZzd2tSVkJ1UXM4MGl0T2dnREY2N19KWnZKU2xHc3JGcFhQbk45VXE0YUtvYnREMVJKdHBaZHFOVUVhS21ZUkFmQzNCMjFodw?oc=5",
       "summary": "Microsoft’s AI PC Roadmap Outlines Next-Gen AMD & Intel Chips, With Entry-Tier 8 GB, Copilot+ Ready 16 GB+, Builder PCs & Supercomputers at 128 GB+ Wccftech",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -70,6 +134,38 @@
       "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
       "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
       "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Best AI Chatbot for Web Answers: 4 Rivals, US$8-500 [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2I3MERzbUd3OUdlM3h1czFxblA3a1h1dk12aEQ4bXkyQ3ZvSEp0eVZYM2VjQWhrbGs3OE0xLXZQTElKM2hVTUIwbEs0UXhwSVdoejBIQ1hiTDgxUlM5ei1JWk5PQjhQNk1WQy1JWXoxWjNaMFV2QTAycU1NZVBFbVpmYjk5U0VMdDFhVlhWcnQtdjl3d0xEdEZiUXRIZXRV?oc=5",
+      "summary": "Best AI Chatbot for Web Answers: 4 Rivals, US$8-500 [2026] tech-insider.org",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Computer Links Shopify Sales to Meta and Klaviyo Campaigns - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRTZ1anI4V1JiQWFYQVF4ZW1sN2NBMDl3WEt2UWpJdlZUb2VvUFZWcmd6Qk9XNFFaQkpwVEFkdmcxMjZCeE0tOFEzOEVGMGhzOFNqbVVtWjRyNC1STzBjcVE5Z3phMXlNaEdwQ2hhREVGSkktT0RlaWVtWmREbXBNSk8zMlBYUHpIVW51aEs3R002LTR0elE?oc=5",
+      "summary": "Perplexity Computer Links Shopify Sales to Meta and Klaviyo Campaigns Unite.AI",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity CEO Aravind Srinivas at Money20-20 USA- We’re Your Life’s CFO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTBPcFpYcFY0YUpJd0hvaU5ocW5GcG1TVXZ1QXBvVGI2WHBTYmMtYXJndXI0SHFjWVc3YVJjd0RZbjVnYVhuR3U5TktsOGN3c1VNdXJrbkYxLWNCVlNPWkFSaTNFQkN2aE0yNmpzam1BdUVLTklKRGt0VkROM1B5SThxNkswdWtYM0xNVFlvNA?oc=5",
+      "summary": "Perplexity CEO Aravind Srinivas at Money20-20 USA- We’re Your Life’s CFO Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AI Builders’ Search Use Up 6x to 30%; Menlo Maps Perplexity - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0F6R2haM1FoR1NOaWk2anJYN1YyX1ZJRUR4S05fcUNPX012N3dVYTBLR0RWekxuOEoxY3VKRUFXMWIyNVF3Tkp4Yl92WkRfd2xKUnlRV2RNcHdpMzZMV0dQY0VYTGYyOUw3ejF1eUNmMjVPTDJjRzlrV2RjRnJwNlhRZ2J6NDJJ?oc=5",
+      "summary": "AI Builders’ Search Use Up 6x to 30%; Menlo Maps Perplexity FourWeekMBA",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -174,30 +270,6 @@
       "title": "In Silicon Valley, Founders Fear — And Depend On — Anthropic - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXF6Y2U2dWg4V0dRRVpIUFVsX0VsMUNPZ05lemxralZvcHZVZWFwcHo0aVBjNnBvZGxHdVFSUGdYRkRKUXkwMHZmQjI3cVBPRGFpMWN0Y1RFbjVRTU16M1FrWkJiMy1NUzZhS0xrSjE1M1o4NzM0cDgwWDllaUh4YUJzVXRXTWszVkd3aTgwbktERFRacUM3RFpBQmI0UXozRWJBTGE0T1lnb2dYMzdoWVhKMFM4bEI5aVE?oc=5",
       "summary": "In Silicon Valley, Founders Fear — And Depend On — Anthropic Forbes",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic confirms new Claude Code limits to prevent game cloning — users report Opus 5.5 is also actively blocking reverse engineering tasks - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQmtwU201Rm8zX2dFeGRGay0wY0F2UVZ2V0wydFFNVEU1Q1d1SzJlQmgwT0JhUnB3eHF2X3BmdGFQZ2dMajR4UHp1by1rUmlMZHBqd2Z1VkRwYlRhVmkxUG9GWE93X3JNd3dFbExob0VPcl9KN1czbFlJdXpqbTJxU1hCTTNSMWIxaEs4SHdoYVAwMlI2cEQ3dDlVVUF0bDdnV0RDOTBnQWpmUGJtSmZLOWQ5QUItTDhxWlN2ZEdhMTNuMGEwQ0gweDZvVWRLRWVZQ1BMeTNETzA2MTlwTnAxYXEyNTFFRFZUZTl1eDJMV0hCVExYRkFnazFKZjBybGRlQ2JWUG9BM2Y4U0MzOVF0NEJVRDV4RVNHNDBKczBRbk03di0zV0ppd1A2N3lCZ1k?oc=5",
-      "summary": "Anthropic confirms new Claude Code limits to prevent game cloning — users report Opus 5.5 is also actively blocking reverse engineering tasks Tom's Hardware",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO: Silicon Valley’s AI Bets Are Built on Hype, Hope and Hubris - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1ZhMmFDZnhESjdhVURGOGFzaHdfcWFPSk1UQjhGZUNtUjhKTkNtbkhjdkhWZElKZkVLTFd0ZEZZNUJ6T3k5OGd1ZmtFMk4tUXVEZUUtblZOSHJfaHNEb1o2N3ZUY3FpSkt5UjZxZnM0YzAxQ1N1T3UtUDkyVWtIejg1ZzBUZXpxbVI3N2JQdmJTNmwyOGtXcUdyRk5tSEZDSjUzZEFtRE00S09SalFJY1BWaUZ0Szk2am5FTVZCYlZfWWxi?oc=5",
-      "summary": "Anthropic IPO: Silicon Valley’s AI Bets Are Built on Hype, Hope and Hubris Bloomberg",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "El-Sayed Leads Michigan Senate Poll by 7 Points, Wants 50% Public Ownership of OpenAI, Anthropic - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0ZWVEhtWE1SOHhOMTFYUzhnVnJTZVpISlpyS3FCRE1XNUduZGFPenY1OWdKZlpWVkVIWkJxM3plYm9RV3BwVGI4Z05hZGVJN1NaM1dnMkdVMF9KU0lfbUxRckxiNG10ZGQ3dk42eE9HNEtIczhGeGl3MWI2RW0tYXcwZnlvUlly?oc=5",
-      "summary": "El-Sayed Leads Michigan Senate Poll by 7 Points, Wants 50% Public Ownership of OpenAI, Anthropic Yahoo",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -322,14 +394,6 @@
       "date": "2026-11-01"
     },
     {
-      "company": "Perplexity",
-      "title": "Best AI for Research: 30 Free Lab Seats vs $20 [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRndXYU5HZzdrbmNKa2JMcHpwU3VzdDJkNHBOM205SDgwZkw3eGJ3eEJ6dkhrUDhyVDJFWGhHeXQ3Y1M2WTYzd0lEZ1RlaVI0NWVteE5SQ0R2X2JVeTQ2clZmMVl2Vk5BaXdOMGdyUDhwck5XZDVmc2VPNVNjTlJBUDdscUUzS1dkWlZfQURmTFV6MnFNMGZmZks1OU85Zw?oc=5",
-      "summary": "Best AI for Research: 30 Free Lab Seats vs $20 [2026] https://tech-insider.org/",
-      "badge": "new",
-      "date": "2026-10-31"
-    },
-    {
       "company": "Meta",
       "title": "I built an AI Tamagotchi before Meta could - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGtvUWV0UHRsU2VLY2ljWjFqWkRuS3Q2LVI3Vm9pLXkyS2NpR3JVcHRyTGpSRXNoNHhDc2hNeUlxQWptcnRLUmYzUUFsUlRxVjZpdjZhNkNWQVdzRnlXQ2t0aFA4V3hadFFLZ01XenpMaFh5OE93Z2tzZERraGM0N25yMmtYazdvN29JVVJCRTRZbzYyYVY0SVJhbnJHa0cxVlE?oc=5",
@@ -344,30 +408,6 @@
       "summary": "Snag the Samsung Galaxy Ring for $299.99 at Amazon Mashable",
       "badge": "new",
       "date": "2026-10-31"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "badge": "new",
-      "date": "2026-10-30"
     },
     {
       "company": "Microsoft",
@@ -398,22 +438,6 @@
       "title": "Microsoft to withdraw Copilot from Samsung and LG TVs - Broadband TV News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmVFQUJwSU4yTlFhTThYYk5kYUlsRXZQdVVHc1BocExqN2MyVlNJTnk1WV9Wa2JwMXR2bGNjU1I5SVFfa0hMdjNaaGFhY0pTQ0FodjZIOVhZOHI4OTBobE5UN194VjdNZVFnazBnUXg1TGpOb1N0RlFmZDZNa29TdG9IbTFwczlHdTBJaThldjh2T0xPZnNNcTQtS1FuUQ?oc=5",
       "summary": "Microsoft to withdraw Copilot from Samsung and LG TVs Broadband TV News",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft expands Copilot’s reach in finance workflows - CFO Dive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTZwZlBBREJzMW5nOHdpVFRBcnlUN0FsMF8zdmhrMjQwUzZEZGEzRTZVaG9OdEVBVVlQWDR6NzJvbkpxUURza19KSVNwRTByQ1daMWw5eGZkay1fWlFramRwWFhKWVFWX0N1YXNzZHF3RVJlMUItT3l3WUZsVXBWMlFTXzF6UlBlazRidVZMb2RtR2c?oc=5",
-      "summary": "Microsoft expands Copilot’s reach in finance workflows CFO Dive",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJFZEFHT29PdjZGSFRNTVdqM2l5RjFBeTNYY05MaHNnZlkyRjc1a0lrNjV4MUx1WEdjYURhTnBwWlJLNzM3U0hXeTE2R0JuckNSbDhJU0g2ZDhtQmd1UFhQNDlyaWJod2pBYmRTMmpma1F6WHNmOFB0SmFudl80Ri1LUU00bEh6N2EtWklDdldIZw?oc=5",
-      "summary": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs FourWeekMBA",
       "badge": "new",
       "date": "2026-10-30"
     },
@@ -450,22 +474,6 @@
       "date": "2026-10-30"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts Somnia Crypto Is About to Explode - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckw0RVJUVDUxei1qeWptWjgyTmZiWTdlUGd2bUpEX1daRFQyZWJIY2JGQ1o2alNqLVU2dkZSSjNOeG5ScFZzSkNDNkpSbms3TDNHd2drXy1SdUFSREZ2QzNMVDRhVi1Nd0RqdTRhZFI2TXNSV2N1R182UjNRMS13Tk5Yb2UxVGp6YXc?oc=5",
-      "summary": "Perplexity AI Predicts Somnia Crypto Is About to Explode Cryptonews",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
-      "company": "Perplexity",
-      "title": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzc3YVEwTU4ybk9mbHdrcThoTDZNaThaWlhHMXM0ZXFLb1pseUNsUG9RNVNuQ2VxOHRRXzVlc0twbWJ6UXl6am02TnJaX21IUWRLQ0h0QVdoUlp2ZWdENnpEV1hOVEY4OGc2blBqbFdvTHpERFc1YXV2VnlVTy1YNlZpSEZkVjJxQmEwRlBpZTF4dUFIWnFvN1E2di0yelJsSUdhbnRIWlo5cnNnV3I4OXhhOXQwM3A2?oc=5",
-      "summary": "ChatGPT, Gemini and Perplexity are getting election facts wrong — and a new study shows why Tom's Guide",
-      "badge": "new",
-      "date": "2026-10-29"
-    },
-    {
       "company": "Apple",
       "title": "Apple gives iPad mini its biggest update ever",
       "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
@@ -494,14 +502,6 @@
       "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
       "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
       "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Developers bring incredible new app experiences to iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
-      "summary": "Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.",
       "badge": "new",
       "date": "2026-10-27"
     },
