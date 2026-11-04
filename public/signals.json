@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-03T22:47:45Z",
+  "updated": "2026-11-04T04:29:57Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-04"
+    },
     {
       "company": "OpenAI",
       "title": "Accelerating engineering for the physical world",
@@ -43,6 +83,30 @@
     },
     {
       "company": "Anthropic",
+      "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
+      "summary": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup Business Insider",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
+      "summary": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance Anthropic Commits to $895 Billion in Spending as Mega-IPO Nears Bloomberg.com Inside Anthropic’s Hunt for A.I. Computing Power The Ne",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors - The Information",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
+      "summary": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors The Information",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5",
       "summary": "Anthropic Claims to Be Near Recursive Self-Improvement Gizmodo",
@@ -54,14 +118,6 @@
       "title": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjdTekJoa3gzVS1WSGpCX0lpQmRvc3dCUVl2NHNoU2JudXFFM1pXTkhfZXJsY1JiLVdNSFE3dU1ZQnIyenhGWFZIRFV2T0dCcDVkdFRWR2F4ZDZtSXkzYVlXaXRackIwZjJXZkVudlpBRHJUeG85Tm9aVWZVZzNvVGVXaURSNnY4dzNaWmo3QlhjQmRQQU9ReGZvellZb28zRk9iRjEwdV8tMjZNZlZRd082UG9fREZMbVHSAb8BQVVfeXFMTkxpWHM1MWp1a2hsSHV6eUNNZE04aGxzdzhaVHR6ZW1hODg2QlRsNzZGMU95cGhLbGJZR0o1NGhUTUFjYlVjbTlsTmQ5LW5qNjRMQnJVdEQ5b0RnUmo3VHA5SEFLdS1KX01nWnFfb0d0Uk1MeVVOYndWb1BYSzBqd3cyZkdqQ2I0UUhSYkNBQmRrZEstLVlUbEJBS1YzSWUwSnVtTThRamdvWmIyWEVuT2Vjb3RELUVHTDJPT3FxdkU?oc=5",
       "summary": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. Wccftech",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
-      "summary": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance The IPO Market Is Open For Anthropic. Not For Everyone Else. WSJ Jim Cramer Says Bears Want to Derail Anthropic’s IPO. Here’s Why It ",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -91,49 +147,17 @@
     },
     {
       "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Apple",
       "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
       "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
       "summary": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Perplexity",
+      "title": "FedRAMP 20x picks up steam with first full ‘Class C’ certification to AI company - FedScoop",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFNZZVU2U2hOQTRZYzl6eFVXcUxabWk4eXFjeE1RMUYzWjU2SENTZ0xWU0ZFcFJsandhOHBpM3NXeGh5SjVKYmk4b2RsdVRHbTBBbzZmMUJFTjk3ZUF1c0J3YlJvcWRISEtENjc4dHg5eDVMTGlSVW43SzNBSXhsb2p5NA?oc=5",
+      "summary": "FedRAMP 20x picks up steam with first full ‘Class C’ certification to AI company FedScoop",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -182,6 +206,14 @@
       "title": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5",
       "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business Business Insider",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta updates creator assistant chatbot - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZl8tNmdlS1gtd041MmdMQjc3WmRYRV9BY3VfaXptWXNHT252MkJkWDd3ZGZSOVBCbXNQWmZYSXVPcnd2S1l3amFTQklHRTRFUF9CM0laZmcyMFJYRmtZZ3lIZll6R1NVZVN5UE9MMGF2RF9CVkhRZ096cTA2OVpiaE9XM1RTYXIzTklpWQ?oc=5",
+      "summary": "Meta updates creator assistant chatbot Social Media Today",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -254,22 +286,6 @@
       "title": "Inside Anthropic’s Hunt for A.I. Computing Power - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5",
       "summary": "Inside Anthropic’s Hunt for A.I. Computing Power The New York Times",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic, PBC - S-1/A-1 - SEC.gov",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnhSTzBlYzFrejZheW9wX3ppRzZ3OFVkUkpTVWlHeldiMzVlRjUwdUNTRUZTZG5EcERIc2xfd2loZWVPMXJoZzItNkpaVGp5TFJkdkpKd0RnU3NieEhGV3g0TUtuUEx3MjdxMEpvZk5ONWp0MXlwTXdXRFVnQzZMaUhVa3lpVGdMYnhoZHY1RzRGS05t?oc=5",
-      "summary": "Anthropic, PBC - S-1/A-1 SEC.gov Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg.com The SEC Should Block Anthropic’s IPO to Protect the Public Tech Policy Press",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "In Silicon Valley, Founders Fear — And Depend On — Anthropic - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXF6Y2U2dWg4V0dRRVpIUFVsX0VsMUNPZ05lemxralZvcHZVZWFwcHo0aVBjNnBvZGxHdVFSUGdYRkRKUXkwMHZmQjI3cVBPRGFpMWN0Y1RFbjVRTU16M1FrWkJiMy1NUzZhS0xrSjE1M1o4NzM0cDgwWDllaUh4YUJzVXRXTWszVkd3aTgwbktERFRacUM3RFpBQmI0UXozRWJBTGE0T1lnb2dYMzdoWVhKMFM4bEI5aVE?oc=5",
-      "summary": "In Silicon Valley, Founders Fear — And Depend On — Anthropic Forbes",
       "badge": "new",
       "date": "2026-11-02"
     },
@@ -358,14 +374,6 @@
       "title": "Copilot AI Predicts Solana Could Hit $2,500 if This Landmark Event Happens - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSENSS2V3T0ZTRlRiM1I2VENOTDBIdWdiaU1sT1NPRFZEeHRfR3Jsc2poc2NHY3QzX24xcWNabGJ0bEY3THBlZ2tFdTY4Y1p3Y0ZPY0JPYV9fZlEtS0hCbzRSaHB5RHJ1ejYyaHlSUFJLeTY4UGVQSHU1eU12b2NKdXhhTVhpcWdJU2VSb3dCa0gtNzFzQ1pEOEFUUThENlV4RHo1T1k5clJUUUlyN3otTkN0bXRjMFFsejhiWC03WlZPaGdWMHJ1S2hhOWVRbEU?oc=5",
       "summary": "Copilot AI Predicts Solana Could Hit $2,500 if This Landmark Event Happens TradingView",
-      "badge": "new",
-      "date": "2026-11-01"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Huge Cardano Boom: How High Can ADA Price Go? - Coinspeaker",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ1U01KYk9oVEs0SlI5RzRfMEhCSnFnVHJreEUyczdoWGlINWE5eW5QM252S0laTnU4MkF4dHVQX21pZnRYWktZLWhSdkFpUlk4SHAwZEdmX1NLREU5cVZfVGlpYWJ2Z25KcTNZUXM0WUhYQk9pVUVteld0RHdCV1F1dmpmdUJ6YW9pQmU1UFJwQ1UxT1oxTi1VbHhqaDlH0gGmAUFVX3lxTFBoLXJGblJWc1NIY1JETUpTZk90QlNoemVEZjR6ZGY3ZklJdFZuc1drTGhjNmltOXY3aHViWjlVLS1qZEt0d09tcnhSU3hCYmtOV2hXZkJ3dlMwNzlpRWozVzhFemFpUEJIYXpXV2RNbnFNTHZoM3JPXzBnZ2UzeTdXbVQwU0JPQ19zajdlRE03NHRMZHM1SDVBd3ZVa2ZhZEtmMUF5TUE?oc=5",
-      "summary": "Perplexity AI Predicts a Huge Cardano Boom: How High Can ADA Price Go? Coinspeaker",
       "badge": "new",
       "date": "2026-11-01"
     },
@@ -462,14 +470,6 @@
       "title": "Best smart AI glasses in 2026: Features for different lifestyles - www.meta.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SSnlvRXZDSUVVTjRkQUJVZUE3ZE5uYlBCOHhaLVR6bW1JbUNVc1dMNm8xa1BuRUJ3UkRGb0tvSmFzX01DUWhReENHMUpheHlTLVpKa3g3LVFSQzd3OHBaNDVWMVhyU0xWc2YtUGlB?oc=5",
       "summary": "Best smart AI glasses in 2026: Features for different lifestyles www.meta.com",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI and CMU Researchers Cut AI Jailbreak Rates by 22% With Pre-Deployment Training Data Filter - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzlIaF9QdXNBYXZoY281R1diNzZCbGFyZzR4UVpkX3A2Tzg4TDJKT3dKeHpCUXBHNXlyellKTTFVRy03VGU2QVJMVWI1OEM3ck50NE0xcUNsby1weExSdXlqci04Mm4zb0JBVzRpS2owQlRoODZsY1NqdFhTejVGbVEza1EwTUlYd29RMzI4VW1QeEtINU1oT2UwMUoyVEtHckRRVWlialVld2RjNzFUNTd2RldsQktTRTlTUWtsOVU1SWxxSDREeTJ4cUdnMzRwelNYRFk3Yw?oc=5",
-      "summary": "Meta AI and CMU Researchers Cut AI Jailbreak Rates by 22% With Pre-Deployment Training Data Filter Tech Times",
       "badge": "new",
       "date": "2026-10-30"
     },
