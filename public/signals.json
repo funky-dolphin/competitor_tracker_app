@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-04T13:39:40Z",
+  "updated": "2026-11-04T23:05:41Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "OpenAI",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "OpenAI",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic unveils cryptographic tool to verify model outputs - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1RXSTJyUGNZTjNLTVFNNkEwdzhVMVlPTnA1OV9ETko5T1MzU0RWSXVPM0NPVGtISVc2QjVGWlZXc2dTaFdMaENiQ2syY2NKYmRuWElwa3ZpZk9OTk05U1pYbUl3MGEzUVMyQlFFSmJlT01tY3RqS2x0bE8tV1V1MW5JeGE2SGpXbFZPTlQzWVEzempPS0p5Q3JnX0RwdG5oZEE?oc=5",
+      "summary": "Anthropic unveils cryptographic tool to verify model outputs Interesting Engineering",
+      "badge": "hot",
+      "date": "2026-11-04"
+    },
     {
       "company": "Apple",
       "title": "Redesigned Health app expands language support",
@@ -43,6 +83,38 @@
     },
     {
       "company": "Perplexity",
+      "title": "FedRAMP grants first ‘Class C’ certification to Perplexity - Nextgov/FCW",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1FrS1MtSjI1alNwS0IweThVNk5HVEh0UEVnamtkSmNLRWpCQ25tUUo3SjJlemZxMjFZQm12Ym8ydzNKRUl4cUFfaERXcFVkQWhrYmNFTDRXajBWYm1qZS1DaFhveU5iLWwwMGZsSzRlUUFkZ2NhVFd4RDRLRzBNQWdJTFg2SGRTbTdsN3VtQWVGMUFIa2lWanZnRVR1RFdkVkNpZUJWdXdHVTR4QWVIOW5CZDhaWktDUTdTc2ZoT1hrdkQ5dFMw?oc=5",
+      "summary": "FedRAMP grants first ‘Class C’ certification to Perplexity Nextgov/FCW",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates - MLex",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTB6Q0NsUFg4QVJGU3FNVzBSRFNfUjdMY0NybVNudUtRWkdNVjdNV2htRi1CSzJVOHM0dG9TQUhTdUhLMU0wdUwtSno3RVNPb1dRc1hROFQxeFZYbWJDU09zVHQ3SDFPWlBNV0J3MTRORXpMcmoxOFFJNC05MGNBOWFTOTlSZ0RYZ1Y4dm9FNF9KdnY1em8zSEdyMVJJX2VEa3FZWkhaV3Jma211MnlNVU84XzNWcmlVNUhmTHBBVdIBWkFVX3lxTFA1VnZhZ0h0d2h2ZUlqaGg5d2c4T0kzeW1seHkyZlNwX2UwMjlfcEU1T0NnQnlpekdmYk4tbWt4NlJYX3NXcWhkQzMzNGRNUkV1Wm1GelRWakJGZw?oc=5",
+      "summary": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates MLex",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Adds Live Web Grounding to Its Decisions API - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEtjNXdwSEs5bGpuZllEbEZ6OG94VmZsQWpBT0Jka0JUQk9yVlgzdW9lVHN0Ql9sSEMyYlFweWh0cE15OWxwa05mVUh1Q2JFZkFtSFh2SEoxb3hjT3BpWG02YzhsOEZBbUZYdGNzbmRIOUNvenFGZ0Vvbnlfdlg2eWpFZw?oc=5",
+      "summary": "Perplexity Adds Live Web Grounding to Its Decisions API Unite.AI",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Wins 1st Full FedRAMP 20x Class C; 26 Had Pilots - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXJ6VlVWb2REQVEzSXhHU19MQTJBOHdjWHItNXROa2h6T2xXaWFzb1FsRGpZZDFaeVg5b3huZ0hqa1llUWlNcDZBNWo4d3JoeXRva0dvZElNRXE5S2p2dVNXYVFKRVh2VE1mTDBuRU4yVGJXdkhtUzIzdTVlajdnTEZDcl9hdVF0dlBpQllZOA?oc=5",
+      "summary": "Perplexity Wins 1st Full FedRAMP 20x Class C; 26 Had Pilots FourWeekMBA",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Perplexity",
       "title": "Best AI Search Engines: 6 Ranked, $0 to $200 [2026] - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHU3RXpIQjRWc2FJV1BYLUlLRTVmQmRaM01tVFpfVWV5S0xfQ296RjU0MmR1MHlrWDZpTXFTenpKVGtESUU3ZU1IbzExSnVhR1ZrU0FzRjhYVkRUcEtmcWcxVXBmOGpiaDVUZmpkckxpZDhBZXZGRmEyeURQdnppdm8xd291YVJPcThyNEVuUF80VHJ1SVJvUFlpM05CMHM?oc=5",
       "summary": "Best AI Search Engines: 6 Ranked, $0 to $200 [2026] https://tech-insider.org/",
@@ -54,6 +126,14 @@
       "title": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? - Tokenist",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rOEk3ODNET2J5eG1pYjd1QTdvemh4RExyMzhVS2RrRURXS3NiM01OTWVVbndwaDFqYzhjbG5icHlxMmVVMTBzcDdZUEFZakZTbVZFSllCeU8tTzRPdkp3bW5wVmh2QjdSNktkT0M2SFkzYjA?oc=5",
       "summary": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? Tokenist",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta is training its AI on millions of Australians, but now you can stop it - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekpNSXp6Tm5FbzFHb1M0MC04bklBMGExd2JvVWFvQTZ2OTFWaGZtV3NQamxkVC1RM3VzZWdBdzVrVjFoSjBWYjVLTG9qN0VUUG9MYzFqeG02NHQ3S05Qc2duemV5YTl5Z0dLZ3pGSnUyVW91OFlKWXY4aXZMVWRJRlozYmxxZ1lCaXIzbnJyckVtRWNqV3JvS3YzeDdDSDVSQmlZNVl3?oc=5",
+      "summary": "Meta is training its AI on millions of Australians, but now you can stop it ABC News & Headlines – Australian Broadcasting Corporation",
       "badge": "new",
       "date": "2026-11-04"
     },
@@ -107,6 +187,30 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic is working on a system to prove AI models’ identity - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
+      "summary": "Anthropic is working on a system to prove AI models’ identity TechCrunch",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclosed - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXFfaGEzdUp6NjFkRHpzVU16VVhlNFVsZ1hQTVh6cUdQTmJCUUxZaXZKdF9EeVhpTTE5WmkzWEt3MGVDQ2p6bDZzQU1SR3VHX0pKeDB4WGdYc1VxN2g5a0VWUzI4Q3p0NHRRQzQ5SFdMMm9BQ1BZdWxrbk02QTFSbFdSOGhaZm5qSlh5Y0JwX2FoSm1DeUE?oc=5",
+      "summary": "Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclosed Yahoo Finance One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right. Yahoo Finan",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
+      "summary": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup Business Insider",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors - The Information",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
       "summary": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors The Information",
@@ -118,22 +222,6 @@
       "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
       "summary": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance The IPO Market Is Open For Anthropic. Not For Everyone Else. WSJ Anthropic is an opportunity to rethink IPO rules Financial Times",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic is working on a system to prove AI models’ identity - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
-      "summary": "Anthropic is working on a system to prove AI models’ identity TechCrunch",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5",
-      "summary": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup Business Insider",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -226,14 +314,6 @@
       "date": "2026-11-03"
     },
     {
-      "company": "Perplexity",
-      "title": "Best AI Assistant: 6 Picks, $0 to $200 a Month [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyb2tiQ2NXaVBKcE9SM1VVYmFUWGJFZHNMbXBZeVRYdnRkYzdMbjdZci1fdXFHaXZ6VEtfX1Z3ZWhUc05wZDBUdHFjSTNwTkZFSk91d3BJVC1aN2piSWFpT0ZRSUdSMmdkeERtMWZEU1dSVG1QNjdsMF8tQmE?oc=5",
-      "summary": "Best AI Assistant: 6 Picks, $0 to $200 a Month [2026] https://tech-insider.org/",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
       "company": "Meta",
       "title": "Meta AI Ads Eye Google Search Budgets: 10M Users [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVdBSi1FQ0J2YXdPcldVTEE2dVJSUDJpMXhlZHhZQU1IWkpWaUVwWFB6RkcyQVdGd2N2OHpKQ2ZtaUhCY0VGdXNKTUJ4VjU2bW8wN3BOa2pWZ3JGMHNiZkJIZFBKcmpGb1F2VjdaNUNYdmV0Sk84YkpTaTNqLUhwNW5tTmhUSUs5SlE?oc=5",
@@ -274,54 +354,6 @@
       "date": "2026-11-02"
     },
     {
-      "company": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "badge": "hot",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "OpenAI",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "badge": "hot",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
-      "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI TechCrunch",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1J3NXRpRXlFZHZiUUotRlNhandEU19SQVVyM3c1SW0teWRrMGxhUnpzbjJYN0hyTUlOMGd2a3dqSDl3ZG9tMFIyVEhkN1BnVDdTcmNzUF94dExOZEMwN0VUMTBKbE52U2hma3BLOVp3T0VCRVh0ZE1mVWdvU0RiNjFIOWhRTHdfeElXZUJHMkppd0hHbFRuVzNiODBURVJLNzJyLXpRSkx1TTlsaVJvUDJnSUo?oc=5",
-      "summary": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches The New York Times Can AI safety and profit growth coexist? Ant",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -359,30 +391,6 @@
       "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
       "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
       "badge": "hot",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Va3RfWUJ4cXpGNUJCRThFR3pmS0tDSXpuTld4SDBPcktoSlZMb2VWZEdOeTNvbUdSUHBKUVFBRGtiZTJocG05VUdpbURRSGNsR0VUWE1ubk9Yc2h0SEU5UlI1amdSQjUzb0HSAW9BVV95cUxPU29KVFdqU25oOVBHa09XMDBuMWFuSlJwbDhlZ05GNVM4OWxHU0lZbHpUaHJKTmZRWG11aDhTdFdtRE44WHVQYlRlN3VpSDI1X1VRWC16dWpJOW9rd2trSlljME5WdE5qSnhUNS03aTA?oc=5",
-      "summary": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys CyberSecurityNews",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "New York Times sues maker of Brave web browser over copyrights - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUlhZHQ0WWQxSG5Pb3RDTmRISEdjd0U3UjZHNXZXVHMwaFY3UjVsX2NSWTJuRVgza2YyZUtBWXczTnVnZEZJZHpUc1JIUGREaTU4dG0wV1NqLWprWE9PT1NHM1EtR1pBaktRM3Y5VHp2am4zTTQ0VHN3Z2V0WTd6OVE4bnluNURtOVB2VW9JMHcwUllPV0dKZm9MUkFoaWRRMlNSdzRaeWYtUTlPV1ZSRUNR?oc=5",
-      "summary": "New York Times sues maker of Brave web browser over copyrights Reuters",
-      "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Details Brain Memory Architecture and Agent API Testing - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTgtU2JWTU1vVU1iZGg3V0VqYUNvTEtpaE43SWM2QjJwVEh6TzJDYzNkMV9RcVRITWhJck1oTnFrSU92am1udXR4QzBEeFlveGsyQjVpZEV3bGJ3UnNFMXQ2RHRUNnRVRXpGVDNEMFZDTWpNd3ZDWDVwSlJMeXpKZUY5TXVUVXBCMHR2WHFUUzJqUQ?oc=5",
-      "summary": "Perplexity Details Brain Memory Architecture and Agent API Testing Unite.AI",
-      "badge": "new",
       "date": "2026-11-02"
     },
     {
@@ -470,14 +478,6 @@
       "title": "Microsoft to withdraw Copilot from Samsung and LG TVs - Broadband TV News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmVFQUJwSU4yTlFhTThYYk5kYUlsRXZQdVVHc1BocExqN2MyVlNJTnk1WV9Wa2JwMXR2bGNjU1I5SVFfa0hMdjNaaGFhY0pTQ0FodjZIOVhZOHI4OTBobE5UN194VjdNZVFnazBnUXg1TGpOb1N0RlFmZDZNa29TdG9IbTFwczlHdTBJaThldjh2T0xPZnNNcTQtS1FuUQ?oc=5",
       "summary": "Microsoft to withdraw Copilot from Samsung and LG TVs Broadband TV News",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Meta",
-      "title": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHM0SlFOcFpGWDVzc3pNN1g0aGpnSEVlbC1DVDd6cmsydDNIRHExVEh0Mi1vNE1iZG5kOE1zN1l0dGdNQV9jdG90UHhCakozNkctZTNGZzFhN0JucHZsR2MtMGstbllBV2N2WGRnRkt5M1dWTkVIMG1WR0RDQVFHN0pWYktuSHQ4ZWxEZ0kyTnpoVEhNeHpBZjJBeEdCWnc?oc=5",
-      "summary": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses Engadget",
       "badge": "new",
       "date": "2026-10-30"
     },
