@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-04T23:05:41Z",
+  "updated": "2026-11-05T04:45:47Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
+      "summary": "A top Anthropic product leader has been poached by OpenAI Business Insider",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWDRDT0pHemRFaFNQWnlJaUR2NU9VdjV1bmllSGMxR0NFWFJLMU9fUm1hU28yUzBZdURGOVFUQ1RscGptV3lDdmJGT1JySWtrUWVUNmdsRHQwdi0wWEhyLUFPZDFiOEZDV2hKaGNad3hxTTNw?oc=5",
+      "summary": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage ADWEEK",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-05"
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -27,6 +83,14 @@
     },
     {
       "company": "OpenAI",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "badge": "hot",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "OpenAI",
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "url": "https://openai.com/index/devrev-enterprise-self-service",
       "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
@@ -42,43 +106,11 @@
       "date": "2026-11-04"
     },
     {
-      "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "company": "Microsoft",
+      "title": "Microsoft Delays Default Copilot Usage-Based Billing Again, Citing Partner Feedback - CRN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWxLbTMxellNWldlam81cWNtYURuY1BwZV85Zko5RVJiRFQ5SFJjcjVETHRNdEFBWlN0NGRpUktZdEEwWGdCT0Zwb05kMlpUWk5yTi04aWhKQmNyb1FJSmhNdmtjemU5UVlRUlU0UUc0dEdUcXU2b0E3bDNob3dMUnp6RG1uTXNybXF1RmtRWWJ2blNMRkZVUXRFZlZhZG1CN0tET2V0TjQ3b1d1TGtLdWZFUHM?oc=5",
+      "summary": "Microsoft Delays Default Copilot Usage-Based Billing Again, Citing Partner Feedback CRN",
       "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
-      "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
       "date": "2026-11-04"
     },
     {
@@ -91,17 +123,17 @@
     },
     {
       "company": "Perplexity",
-      "title": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates - MLex",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTB6Q0NsUFg4QVJGU3FNVzBSRFNfUjdMY0NybVNudUtRWkdNVjdNV2htRi1CSzJVOHM0dG9TQUhTdUhLMU0wdUwtSno3RVNPb1dRc1hROFQxeFZYbWJDU09zVHQ3SDFPWlBNV0J3MTRORXpMcmoxOFFJNC05MGNBOWFTOTlSZ0RYZ1Y4dm9FNF9KdnY1em8zSEdyMVJJX2VEa3FZWkhaV3Jma211MnlNVU84XzNWcmlVNUhmTHBBVdIBWkFVX3lxTFA1VnZhZ0h0d2h2ZUlqaGg5d2c4T0kzeW1seHkyZlNwX2UwMjlfcEU1T0NnQnlpekdmYk4tbWt4NlJYX3NXcWhkQzMzNGRNUkV1Wm1GelRWakJGZw?oc=5",
-      "summary": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates MLex",
+      "title": "Perplexity Adds Live Web Grounding to Its Decisions API - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEtjNXdwSEs5bGpuZllEbEZ6OG94VmZsQWpBT0Jka0JUQk9yVlgzdW9lVHN0Ql9sSEMyYlFweWh0cE15OWxwa05mVUh1Q2JFZkFtSFh2SEoxb3hjT3BpWG02YzhsOEZBbUZYdGNzbmRIOUNvenFGZ0Vvbnlfdlg2eWpFZw?oc=5",
+      "summary": "Perplexity Adds Live Web Grounding to Its Decisions API Unite.AI",
       "badge": "new",
       "date": "2026-11-04"
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Adds Live Web Grounding to Its Decisions API - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEtjNXdwSEs5bGpuZllEbEZ6OG94VmZsQWpBT0Jka0JUQk9yVlgzdW9lVHN0Ql9sSEMyYlFweWh0cE15OWxwa05mVUh1Q2JFZkFtSFh2SEoxb3hjT3BpWG02YzhsOEZBbUZYdGNzbmRIOUNvenFGZ0Vvbnlfdlg2eWpFZw?oc=5",
-      "summary": "Perplexity Adds Live Web Grounding to Its Decisions API Unite.AI",
+      "title": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates - MLex",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTB6Q0NsUFg4QVJGU3FNVzBSRFNfUjdMY0NybVNudUtRWkdNVjdNV2htRi1CSzJVOHM0dG9TQUhTdUhLMU0wdUwtSno3RVNPb1dRc1hROFQxeFZYbWJDU09zVHQ3SDFPWlBNV0J3MTRORXpMcmoxOFFJNC05MGNBOWFTOTlSZ0RYZ1Y4dm9FNF9KdnY1em8zSEdyMVJJX2VEa3FZWkhaV3Jma211MnlNVU84XzNWcmlVNUhmTHBBVdIBWkFVX3lxTFA1VnZhZ0h0d2h2ZUlqaGg5d2c4T0kzeW1seHkyZlNwX2UwMjlfcEU1T0NnQnlpekdmYk4tbWt4NlJYX3NXcWhkQzMzNGRNUkV1Wm1GelRWakJGZw?oc=5",
+      "summary": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates MLex",
       "badge": "new",
       "date": "2026-11-04"
     },
@@ -123,9 +155,9 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? - Tokenist",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rOEk3ODNET2J5eG1pYjd1QTdvemh4RExyMzhVS2RrRURXS3NiM01OTWVVbndwaDFqYzhjbG5icHlxMmVVMTBzcDdZUEFZakZTbVZFSllCeU8tTzRPdkp3bW5wVmh2QjdSNktkT0M2SFkzYjA?oc=5",
-      "summary": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? Tokenist",
+      "title": "The New Meta AI Glasses Have Reached Their Peak - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXk1TkZtR1ltQ1AySm9SbHpsMTRQcEhLOUNWN3ZjWmtHR2gza3ZWZWljeURjRGVBUVBZbHNOVWd5dGV3OUg2UEN4NWVZVHNsTkhHYkN3cEZEYUJLRklEM2dBNGJNR0JpNVJnUlpXSmVzUUxFdTZhS3Q2cFB6a1BqOGktYWRWSjBuckE?oc=5",
+      "summary": "The New Meta AI Glasses Have Reached Their Peak Yahoo",
       "badge": "new",
       "date": "2026-11-04"
     },
@@ -134,6 +166,14 @@
       "title": "Meta is training its AI on millions of Australians, but now you can stop it - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekpNSXp6Tm5FbzFHb1M0MC04bklBMGExd2JvVWFvQTZ2OTFWaGZtV3NQamxkVC1RM3VzZWdBdzVrVjFoSjBWYjVLTG9qN0VUUG9MYzFqeG02NHQ3S05Qc2duemV5YTl5Z0dLZ3pGSnUyVW91OFlKWXY4aXZMVWRJRlozYmxxZ1lCaXIzbnJyckVtRWNqV3JvS3YzeDdDSDVSQmlZNVl3?oc=5",
       "summary": "Meta is training its AI on millions of Australians, but now you can stop it ABC News & Headlines – Australian Broadcasting Corporation",
+      "badge": "new",
+      "date": "2026-11-04"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? - Tokenist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rOEk3ODNET2J5eG1pYjd1QTdvemh4RExyMzhVS2RrRURXS3NiM01OTWVVbndwaDFqYzhjbG5icHlxMmVVMTBzcDdZUEFZakZTbVZFSllCeU8tTzRPdkp3bW5wVmh2QjdSNktkT0M2SFkzYjA?oc=5",
+      "summary": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? Tokenist",
       "badge": "new",
       "date": "2026-11-04"
     },
@@ -187,6 +227,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street - CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY2gxUHV5VzhJcUoyWkFHdG9vZUdRT1VYZ0hfcjRJOU8xa3otZVpYbWNib1Q0WnJ2UUhhekFRNng1Z2tKWTB2aFBva2ZUN0Vzc3lRT0VuXzZ6LURoRDAxNUI4SzVYdVdXOVIw?oc=5",
+      "summary": "Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street CNN",
+      "badge": "new",
+      "date": "2026-11-03"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic is working on a system to prove AI models’ identity - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
       "summary": "Anthropic is working on a system to prove AI models’ identity TechCrunch",
@@ -222,30 +270,6 @@
       "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
       "summary": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance The IPO Market Is Open For Anthropic. Not For Everyone Else. WSJ Anthropic is an opportunity to rethink IPO rules Financial Times",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5",
-      "summary": "Anthropic Claims to Be Near Recursive Self-Improvement Gizmodo",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjdTekJoa3gzVS1WSGpCX0lpQmRvc3dCUVl2NHNoU2JudXFFM1pXTkhfZXJsY1JiLVdNSFE3dU1ZQnIyenhGWFZIRFV2T0dCcDVkdFRWR2F4ZDZtSXkzYVlXaXRackIwZjJXZkVudlpBRHJUeG85Tm9aVWZVZzNvVGVXaURSNnY4dzNaWmo3QlhjQmRQQU9ReGZvellZb28zRk9iRjEwdV8tMjZNZlZRd082UG9fREZMbVHSAb8BQVVfeXFMTkxpWHM1MWp1a2hsSHV6eUNNZE04aGxzdzhaVHR6ZW1hODg2QlRsNzZGMU95cGhLbGJZR0o1NGhUTUFjYlVjbTlsTmQ5LW5qNjRMQnJVdEQ5b0RnUmo3VHA5SEFLdS1KX01nWnFfb0d0Uk1MeVVOYndWb1BYSzBqd3cyZkdqQ2I0UUhSYkNBQmRrZEstLVlUbEJBS1YzSWUwSnVtTThRamdvWmIyWEVuT2Vjb3RELUVHTDJPT3FxdkU?oc=5",
-      "summary": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. Wccftech",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
-      "summary": "Chinese AI models tumble down rankings after a crucial change to testing Business Insider",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -346,14 +370,6 @@
       "date": "2026-11-02"
     },
     {
-      "company": "OpenAI",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "badge": "hot",
-      "date": "2026-11-02"
-    },
-    {
       "company": "Google",
       "title": "The latest AI news we announced in October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -434,14 +450,6 @@
       "date": "2026-11-01"
     },
     {
-      "company": "Meta",
-      "title": "I built an AI Tamagotchi before Meta could - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGtvUWV0UHRsU2VLY2ljWjFqWkRuS3Q2LVI3Vm9pLXkyS2NpR3JVcHRyTGpSRXNoNHhDc2hNeUlxQWptcnRLUmYzUUFsUlRxVjZpdjZhNkNWQVdzRnlXQ2t0aFA4V3hadFFLZ01XenpMaFh5OE93Z2tzZERraGM0N25yMmtYazdvN29JVVJCRTRZbzYyYVY0SVJhbnJHa0cxVlE?oc=5",
-      "summary": "I built an AI Tamagotchi before Meta could The Verge",
-      "badge": "new",
-      "date": "2026-10-31"
-    },
-    {
       "company": "Amazon",
       "title": "Snag the Samsung Galaxy Ring for $299.99 at Amazon - Mashable",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YYkx4UzBnSE9oUWxlY0dpVWZtN0x0RGtndWFyVjdEYm04NXZyTENzMGJBQlZlWWtSeXdLa0R5d2VraWtfaVJXd296N1JpTUQ2MW95WEhndzNLT0phQ0lLelAwT01rS0dUeXloSQ?oc=5",
@@ -470,14 +478,6 @@
       "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
       "summary": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence Microsoft",
-      "badge": "new",
-      "date": "2026-10-30"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft to withdraw Copilot from Samsung and LG TVs - Broadband TV News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmVFQUJwSU4yTlFhTThYYk5kYUlsRXZQdVVHc1BocExqN2MyVlNJTnk1WV9Wa2JwMXR2bGNjU1I5SVFfa0hMdjNaaGFhY0pTQ0FodjZIOVhZOHI4OTBobE5UN194VjdNZVFnazBnUXg1TGpOb1N0RlFmZDZNa29TdG9IbTFwczlHdTBJaThldjh2T0xPZnNNcTQtS1FuUQ?oc=5",
-      "summary": "Microsoft to withdraw Copilot from Samsung and LG TVs Broadband TV News",
       "badge": "new",
       "date": "2026-10-30"
     },
