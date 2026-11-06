@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-05T23:10:12Z",
+  "updated": "2026-11-06T04:45:22Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
     {
       "company": "OpenAI",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
@@ -11,9 +67,49 @@
     },
     {
       "company": "OpenAI",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "OpenAI",
       "title": "Setting a new standard for responsible AI infrastructure",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
+      "summary": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 METR AI for scientific discovery How researchers use Claude Anthropic 3 takeaways from the big AI report on Anthropic everyon",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+      "summary": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say Reuters Anthropic's IPO plans run up against a battered Wall Street Yahoo Finance Michael Burry says Anthropic is 'b",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5",
+      "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work Business Insider",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5",
+      "summary": "Claude can now analyze your spending with its new Personal Finance tool TechCrunch",
       "badge": "new",
       "date": "2026-11-05"
     },
@@ -27,25 +123,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
-      "summary": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 METR",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
       "title": "3 takeaways from the big AI report on Anthropic everyone is talking about - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVU2aDNKNTRhU3NLcmJXR3pnTkVKT1UxR0JJcXUtWDdPU0FlSEhZUkNHLU8zYlNQOURaeWxwRWw3TWRIb1M5QmJxWTJhWS1aSW9Kc2szSUFsV1hKOHFrUVZuMmVhWGFDVXpubEdicjQ3TC1PejNqOXY1LWhyT0htMGJoZW9rLTFYUUt1TFBYYTlyT2Ffc3VLYnAxZzF6SjMwXzRHOWJUc0x6aUVoRTdKMlREY2IweFk?oc=5",
       "summary": "3 takeaways from the big AI report on Anthropic everyone is talking about Business Insider",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5",
-      "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work Business Insider",
       "badge": "new",
       "date": "2026-11-05"
     },
@@ -82,14 +162,6 @@
       "date": "2026-11-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage - ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWDRDT0pHemRFaFNQWnlJaUR2NU9VdjV1bmllSGMxR0NFWFJLMU9fUm1hU28yUzBZdURGOVFUQ1RscGptV3lDdmJGT1JySWtrUWVUNmdsRHQwdi0wWEhyLUFPZDFiOEZDV2hKaGNad3hxTTNw?oc=5",
-      "summary": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage ADWEEK",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
       "company": "Google",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -115,6 +187,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "NFL Week 9 predictions by Microsoft Copilot AI for every game - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0JsS2NkRVJuS2JXcGdxblhWQnFuTkZPQndVOEN2TWJJVkNZY1d0dm5yem5fOHMtQUtCZlNZQ3o4UnB3ajJKZ3FNNkMzQ09hdlJaZFpFME9NTUhfSGRpc0xkTFI4R2tHRmd3czBhMENyc0FJdkV3Wk43c1BwNjkyQmROVEwyb2dXSEEzV2xqZFJWLUtJSno5MXNmbnU5ak1iZGdaYw?oc=5",
+      "summary": "NFL Week 9 predictions by Microsoft Copilot AI for every game USA Today",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Microsoft",
       "title": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them - The Register",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEp6WXpXWG9XeGlJeXpFTnBFZXllNE56ZDhZeVFxbkNPaGxxc0o1UGprNTZqUnJTMXFCQ0Radk9WdkE1WTk0Qzc5NUJyV21vY0JKY3JmRVN1ODN5MVFWcWlEWHFUUWhaelJYU2o1NFIyXzdHQXJrcTNEMVVLNnZsYWJyb0VfXzdTOUZ1QTkxVHFURlBRSkR3SDVqelRZbXNLN05kUUE3ZWFRS0VSTFBFaGsyT1R6akNLcFRPbnYwNkNXM1Q4Vmp1aGRkS2VNMnN2VUhLZHEzSFBOUQ?oc=5",
       "summary": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them The Register",
@@ -130,66 +210,10 @@
       "date": "2026-11-05"
     },
     {
-      "company": "Microsoft",
-      "title": "NFL Week 9 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0JsS2NkRVJuS2JXcGdxblhWQnFuTkZPQndVOEN2TWJJVkNZY1d0dm5yem5fOHMtQUtCZlNZQ3o4UnB3ajJKZ3FNNkMzQ09hdlJaZFpFME9NTUhfSGRpc0xkTFI4R2tHRmd3czBhMENyc0FJdkV3Wk43c1BwNjkyQmROVEwyb2dXSEEzV2xqZFJWLUtJSno5MXNmbnU5ak1iZGdaYw?oc=5",
-      "summary": "NFL Week 9 predictions by Microsoft Copilot AI for every game USA Today",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
-      "date": "2026-11-05"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity: AI Answer Engine Tops US$750m Run-Rate - AI Magazine",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGQzMmVpa3hMUWU5alRONks1RDRORUhRMmp1WFJKT2NfcThMY0s0eWYwOEctUkRRMTl1WGUxNG1aTHhhRGt3SlhkREM3NTU5RWZWUkxvWnlZRkZYcnNPdjV1a3N4NVRPY1NkY1cyTUxvdi1WVjh2bFZ6dHVFX1pYcU1GUQ?oc=5",
       "summary": "Perplexity: AI Answer Engine Tops US$750m Run-Rate AI Magazine",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHNVaFhRMG4zQUltMnNRdzZwN3JOMHRWYlFENEJZS3NrRTlEZU02ZnlTbHMzZWNjQV91SlMtUUJzWVJOTnRrdEVyMV9QSE5ocHlvZVpVUFRNZG9ITjE4YUZnUGE2QURxWnUwb2VTVUJnUjBiX1FCTjRCMjAtZnJ1S0xYZzFPTVQwSkNVRGQ3UnlXNkxaSkpEbGhJUHpoYnlUWll3?oc=5",
-      "summary": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? Yahoo Finance",
       "badge": "new",
       "date": "2026-11-05"
     },
@@ -203,10 +227,26 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHNVaFhRMG4zQUltMnNRdzZwN3JOMHRWYlFENEJZS3NrRTlEZU02ZnlTbHMzZWNjQV91SlMtUUJzWVJOTnRrdEVyMV9QSE5ocHlvZVpVUFRNZG9ITjE4YUZnUGE2QURxWnUwb2VTVUJnUjBiX1FCTjRCMjAtZnJ1S0xYZzFPTVQwSkNVRGQ3UnlXNkxaSkpEbGhJUHpoYnlUWll3?oc=5",
+      "summary": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Launches Teammates AI Agents to Battle OpenAI - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3ZlZ1gxTk8xTmJhVUI4ak8wajN4MlptQUJnU0QzV1AwUm9NVGdfa0pPZmRLc19wU1ZHSU4xcl9xVWo3RE1tTF9BYk02MDNFTE5VS3FWRHRyaUoxV0dyTmV6dGZwdkRHTGd1MG9YcE4xXzAtbUtMQVVldmtzNmFiRGYyZGdnSE4tbE9TOWtuVF9YWUU?oc=5",
       "summary": "Perplexity Launches Teammates AI Agents to Battle OpenAI The Tech Buzz",
       "badge": "hot",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Cuts Agent API Research Costs and Adds Ultra Effort - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXVKZjhPWVZVaHVtYVRCNmxLUnhBY3RUbWpIYnl0N0M5UFVCMmZEeXZwNktDNmdDdUY2a2E2ZHVJZkZycThGRWUweGx5ZjdId0tJTE1feHRiemxGazNMNXI5MHk1T3RWbW1rVUlkWFZVZzA5OUNGTFBFeWZqR2lBSnp3d0JMSklpSzhmdg?oc=5",
+      "summary": "Perplexity Cuts Agent API Research Costs and Adds Ultra Effort Unite.AI",
+      "badge": "new",
       "date": "2026-11-05"
     },
     {
@@ -290,14 +330,6 @@
       "date": "2026-11-04"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic unveils cryptographic tool to verify model outputs - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1RXSTJyUGNZTjNLTVFNNkEwdzhVMVlPTnA1OV9ETko5T1MzU0RWSXVPM0NPVGtISVc2QjVGWlZXc2dTaFdMaENiQ2syY2NKYmRuWElwa3ZpZk9OTk05U1pYbUl3MGEzUVMyQlFFSmJlT01tY3RqS2x0bE8tV1V1MW5JeGE2SGpXbFZPTlQzWVEzempPS0p5Q3JnX0RwdG5oZEE?oc=5",
-      "summary": "Anthropic unveils cryptographic tool to verify model outputs Interesting Engineering",
-      "badge": "hot",
-      "date": "2026-11-04"
-    },
-    {
       "company": "Microsoft",
       "title": "Microsoft Delays Default Copilot Usage-Based Billing Again, Citing Partner Feedback - CRN",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWxLbTMxellNWldlam81cWNtYURuY1BwZV85Zko5RVJiRFQ5SFJjcjVETHRNdEFBWlN0NGRpUktZdEEwWGdCT0Zwb05kMlpUWk5yTi04aWhKQmNyb1FJSmhNdmtjemU5UVlRUlU0UUc0dEdUcXU2b0E3bDNob3dMUnp6RG1uTXNybXF1RmtRWWJ2blNMRkZVUXRFZlZhZG1CN0tET2V0TjQ3b1d1TGtLdWZFUHM?oc=5",
@@ -318,14 +350,6 @@
       "title": "Perplexity Adds Live Web Grounding to Its Decisions API - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEtjNXdwSEs5bGpuZllEbEZ6OG94VmZsQWpBT0Jka0JUQk9yVlgzdW9lVHN0Ql9sSEMyYlFweWh0cE15OWxwa05mVUh1Q2JFZkFtSFh2SEoxb3hjT3BpWG02YzhsOEZBbUZYdGNzbmRIOUNvenFGZ0Vvbnlfdlg2eWpFZw?oc=5",
       "summary": "Perplexity Adds Live Web Grounding to Its Decisions API Unite.AI",
-      "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates - MLex",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTB6Q0NsUFg4QVJGU3FNVzBSRFNfUjdMY0NybVNudUtRWkdNVjdNV2htRi1CSzJVOHM0dG9TQUhTdUhLMU0wdUwtSno3RVNPb1dRc1hROFQxeFZYbWJDU09zVHQ3SDFPWlBNV0J3MTRORXpMcmoxOFFJNC05MGNBOWFTOTlSZ0RYZ1Y4dm9FNF9KdnY1em8zSEdyMVJJX2VEa3FZWkhaV3Jma211MnlNVU84XzNWcmlVNUhmTHBBVdIBWkFVX3lxTFA1VnZhZ0h0d2h2ZUlqaGg5d2c4T0kzeW1seHkyZlNwX2UwMjlfcEU1T0NnQnlpekdmYk4tbWt4NlJYX3NXcWhkQzMzNGRNUkV1Wm1GelRWakJGZw?oc=5",
-      "summary": "Amazon tells US court Perplexity AI aims to conceal how Comet AI agent operates MLex",
       "badge": "new",
       "date": "2026-11-04"
     },
@@ -360,30 +384,6 @@
       "summary": "Landlords add AI apps to Ring doorbells to monitor tenants and flag rule violations Cybernews",
       "badge": "new",
       "date": "2026-11-04"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "badge": "new",
-      "date": "2026-11-03"
     },
     {
       "company": "Microsoft",
