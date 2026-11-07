@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:13:57Z",
+  "updated": "2026-11-07T12:17:39Z",
   "signals": [
     {
       "company": "Apple",
@@ -42,6 +42,14 @@
       "date": "2026-11-07"
     },
     {
+      "company": "Perplexity",
+      "title": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? - PCMag Middle East",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQml1cU1wbk82QS1yRWxqMmJ5cG00ZmZLZG1EZElpSWtRNGNVYUFnSzVqZUJ5RHN4OTBpN0QzNEdlT2dzLWt2YlFKWlRyc19kdVZvSzFpMU1RYWpxTnVTOHl5R2p6VmIxU0RwMVpNb2FDUkJtR0xoRnBHT2R6U0xuZmRMQ18zaUVUVXVwcDJCM25mNVpRdkE?oc=5",
+      "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? PCMag Middle East",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
       "company": "OpenAI",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "url": "https://openai.com/index/partnering-with-hacktron",
@@ -61,7 +69,7 @@
       "company": "Anthropic",
       "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
-      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation WSJ Market turmoil saps enthusiasm ",
+      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic's IPO valuation could plunge to near $1 trillion amid market turmoil Yahoo Finance Investors brace for lower Anthropi",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -123,18 +131,18 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
-      "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
-      "badge": "hot",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity Teammates: 24/7 AI Agents for Work [2026] - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWIxNkVxOGRYUzNXY2t0RU5XYzJPdlJRMEhGdGg2RmJUSkFneXNrV0otcEYtYVM5M3A3MW5hSkNsWFVDeTFuUGZySmhfSWtwUnJoQ0NKaXFsU0FkTjJIYVUzMXBqMzNadm9POHBPN3huSlBRRm45QWdLeV9yVEMzcg?oc=5",
       "summary": "Perplexity Teammates: 24/7 AI Agents for Work [2026] https://tech-insider.org/",
       "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
+      "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
+      "badge": "hot",
       "date": "2026-11-06"
     },
     {
@@ -163,6 +171,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s best AI model now trains the one most of its users get - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nbW5LUUNKb1pkRXdiSWx5TXYtalJRUzVBaC1oQm4yTEozam56TUhGWVRCSUZJOXMyZXNZd0d5cVFQUmZQd3ZBMnVZTXhBVTlmZWpPUExmbHVkelNoRFd4R1VR?oc=5",
+      "summary": "Meta’s best AI model now trains the one most of its users get The New Stack",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Meta",
       "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xQUF5VTNxUVoyTWpMMXotUzg2TmZ0NmZIcEtJbDZ2Vk9vTVhWTk5xYTBBQ04tcURMX2NkWTRNMnJkTjNFTEJwaWtqc1k4MlczNVVtRHBwQ0FubTVjWTl3NHVOSGstWWd3?oc=5",
       "summary": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now The Verge",
@@ -174,6 +190,14 @@
       "title": "Meta lets AI freaks create college gymnastics molestation fantasies - FOIAball",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJOHNUNEc4eUItUUg3RnBhNFV5WGpobWZOWFU5SDQzdHM2dHlkMWdrMl9QQlhaRHowc2hScnJfb2U4LW1iMFZaMXFKV2ZnTkhsYVd6Vk5jRVBpZWF5MEVaM3dTUTdHS1NqdHFLbEQ3QzgzcHVMWHc?oc=5",
       "summary": "Meta lets AI freaks create college gymnastics molestation fantasies FOIAball",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Amazon",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWJMYnMyWXROcDR6c1FIN3dLdUN1QkduYm9ROWhtbnRUeTZpVDlEOFJSSTI5NEpUN1V2Z2ZORmN0YzFqSTlQMWNpZDZjZENqUWRCcnQyWTBHNDdkNmpxMjR0Zi1RdGs2SDZkM29pcjNEMTBSOGl0amJ2cWkxMG41SllxTVNyR1BCNU12NFVVRkJfaDF5UWR1Vk5ZSy1pbXAtRHM2c2thRFE?oc=5",
+      "summary": "After blocking Muse, Amazon now lets users text Alexa to help them shop TechCrunch",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -227,6 +251,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic’s Ambition to Cure Diseases - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1drZ3NwOE9Ra3A3eXVQaUNSVlp2b3pjS3BzMHVQX0ZjWU90MkN2NE1hTUgxbnJMVjlhUllQV3E2ZmVMUWRHYmhBNlBNd0szT3o2LTI5XzNQQW9xbkNGVHE5d19wQ1pMMFFNVUtUX082TFZVdC1LLVdjWnRDbDNUVml0VmFaTkNLZTh0MGtB?oc=5",
+      "summary": "Anthropic’s Ambition to Cure Diseases WSJ",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - AP News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
       "summary": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says AP News",
@@ -246,14 +278,6 @@
       "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5",
       "summary": "Claude can now analyze your spending with its new Personal Finance tool TechCrunch",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic rolls out personal finance feature for Claude - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5",
-      "summary": "Anthropic rolls out personal finance feature for Claude Reuters",
       "badge": "new",
       "date": "2026-11-05"
     },
@@ -335,14 +359,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHNVaFhRMG4zQUltMnNRdzZwN3JOMHRWYlFENEJZS3NrRTlEZU02ZnlTbHMzZWNjQV91SlMtUUJzWVJOTnRrdEVyMV9QSE5ocHlvZVpVUFRNZG9ITjE4YUZnUGE2QURxWnUwb2VTVUJnUjBiX1FCTjRCMjAtZnJ1S0xYZzFPTVQwSkNVRGQ3UnlXNkxaSkpEbGhJUHpoYnlUWll3?oc=5",
       "summary": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? Yahoo Finance",
       "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Launches Teammates AI Agents to Battle OpenAI - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3ZlZ1gxTk8xTmJhVUI4ak8wajN4MlptQUJnU0QzV1AwUm9NVGdfa0pPZmRLc19wU1ZHSU4xcl9xVWo3RE1tTF9BYk02MDNFTE5VS3FWRHRyaUoxV0dyTmV6dGZwdkRHTGd1MG9YcE4xXzAtbUtMQVVldmtzNmFiRGYyZGdnSE4tbE9TOWtuVF9YWUU?oc=5",
-      "summary": "Perplexity Launches Teammates AI Agents to Battle OpenAI The Tech Buzz",
-      "badge": "hot",
       "date": "2026-11-05"
     },
     {
@@ -462,14 +478,6 @@
       "title": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5",
       "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business Business Insider",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta updates creator assistant chatbot - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZl8tNmdlS1gtd041MmdMQjc3WmRYRV9BY3VfaXptWXNHT252MkJkWDd3ZGZSOVBCbXNQWmZYSXVPcnd2S1l3amFTQklHRTRFUF9CM0laZmcyMFJYRmtZZ3lIZll6R1NVZVN5UE9MMGF2RF9CVkhRZ096cTA2OVpiaE9XM1RTYXIzTklpWQ?oc=5",
-      "summary": "Meta updates creator assistant chatbot Social Media Today",
       "badge": "new",
       "date": "2026-11-03"
     },
@@ -632,14 +640,6 @@
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
       "badge": "new",
       "date": "2026-09-18"
-    },
-    {
-      "company": "Amazon",
-      "title": "High-flying Kiwi in New York raises $54m for his AI start-up - NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdTQ3cXJVT3EtN29CMWlubjhKaFdzTHdfVzBmREgwamZub0ltOWVCVXd0Ykc2MWIyajYxcVdoNS1hWjJmbV9HTEJGWHhzSTU3TldTclpWME1vQktBMXZ4ZHVpR0NJU21wRTQwWkc2WTh6TGFFSkhWU1UwNVcteV92QmFwWjA3QV8xMnd6NWlaaDVyb3ZieEwxTjhtYURTcTRBRFpYYjJsU183SE4zSzJCR3U4WjVVOHE1ZXVkc1lvbjB0T3dWeWxaaGxPMVBiT1c5OUxCS3pxYVJqdVE5aGhKdTEya1FoWEVIZzF5RXFobGtiSkdTYVZYX3p4akdPQTQ1dkJ1WWYteFA0NldjWnRUaGRYMDZWUQ?oc=5",
-      "summary": "High-flying Kiwi in New York raises $54m for his AI start-up NZ Herald",
-      "badge": "new",
-      "date": "2026-09-09"
     }
   ]
 }
