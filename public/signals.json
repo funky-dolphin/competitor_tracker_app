@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-06T22:37:51Z",
+  "updated": "2026-11-07T04:13:57Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-07"
+    },
     {
       "company": "OpenAI",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -21,7 +61,31 @@
       "company": "Anthropic",
       "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
-      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation WSJ Anthropic's falling IPO valuati",
+      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation WSJ Market turmoil saps enthusiasm ",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Teaching AI to build scientific models - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rLVltMFY0UFlmby1uSWtsdF9VZHpwWmNqUWZ3dFpTUDZKd2ZfZTVZRHl0aE5OdGxvLUt0OXc3WXZvLWdjSkNQZEpvSk9jNVJYUWlZZGpHZ0Q5Z2hQNFpDZ3JjZl9DUGROYXc0NWE4aWZfYnREX1ZMT3VGT3RaUQ?oc=5",
+      "summary": "Teaching AI to build scientific models Anthropic",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Big Tech Lost the Midterms - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5",
+      "summary": "How Big Tech Lost the Midterms Politico",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1V5eTlOcFp2WTMzTmxDVlJrVEN3NkxtclJ0WWd1ZmNCOEFoeGlxSlY4aE96QWJlUmZtV0FZa1R2X1Q1MTJ4M0d0Zl9KSXRiT0tnMmluc01mVmN5NmhJbXlRWnB1bm1mbkF4dThtTVFsWjN1UkM0ZURzR3VqTUdrRXNKLXlSanhzNnFKYUNDc1FMTVBjWUNISDJwcExPNmRPVlhXOTBB?oc=5",
+      "summary": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines Fierce Biotech",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -55,46 +119,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEJQa3JiVzdXRmRNT09ySDVMelZwd0c5NWJ5cW96REtXT0E1V3l4Vjg4Z0Zhd2N3Mm5rN3hKSGN6akFySF8ydTdMUXpLclFYRVFQb2JiNFBtTDlRSXlyVUc0ZUR1OHQ5SEg1MHFISjlBb1pxUGVWTlVpSDYyQnQ4MXZhNGwxSC1vYzdnbTVPYjh5eWp6ZGV0ckxoNUpSUkVPQ29vZUlCS3pJZndVX0tIS2tDdzVxUEM3eUd2ellYTVZqODNMUE8tYkVVMTVnVERYMHc?oc=5",
       "summary": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users Computerworld",
       "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils new iMac with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "badge": "hot",
       "date": "2026-11-06"
     },
     {
@@ -234,30 +258,6 @@
       "date": "2026-11-05"
     },
     {
-      "company": "Anthropic",
-      "title": "Claude AI can plug directly into your bank account - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3lQLVFKMlNaVkNiczJpdi1IZ1pjWWpSQVhjQTV0X3FHWnhIVklqX2swZFZHT1JJSzFkWEVsN002WGhOalpRSXBrT3Nzc09DU3RnS2VoZzUwMVFkTHlVb1ItME1QYmoyWGpmaFBwX2ZhTUY2V3Zid0M5OTg2d3kyam1pR3l5MXh6ZWpEZWJYVG8wY3EwOTNIN3BJd3NkVHZo?oc=5",
-      "summary": "Claude AI can plug directly into your bank account The Verge",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
-      "summary": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say Reuters Anthropic's IPO plans run up against a battered Wall Street Yahoo Finance Michael Burry says Anthropic is 'b",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5",
-      "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work Business Insider",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
       "company": "Google",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -323,6 +323,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? - 99Bitcoins",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0ZDZFNOX2ZTTEpBRHF4ZUNoVjhaaU9iWkhZeWJnbEhvekRrS1pGdU1NSnF2RlhPdW1hRUs3LVlsaTBLU2RwaXQzY3RET3gzNmN2Wm1MaVhIS3Z4Nk95Ql9SWjB6UVpkSGVMTllXYzRtN3JCVGlESWUtQmNqXy1ubHFwcW1KQzFpV293WVRnUy1sOTJXN284ZldsY0RQY01GMGdhbEpfZXlSTzh4MW1lcUFRcFpzaGl4SXg0Q2ZvMA?oc=5",
+      "summary": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? 99Bitcoins",
+      "badge": "new",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHNVaFhRMG4zQUltMnNRdzZwN3JOMHRWYlFENEJZS3NrRTlEZU02ZnlTbHMzZWNjQV91SlMtUUJzWVJOTnRrdEVyMV9QSE5ocHlvZVpVUFRNZG9ITjE4YUZnUGE2QURxWnUwb2VTVUJnUjBiX1FCTjRCMjAtZnJ1S0xYZzFPTVQwSkNVRGQ3UnlXNkxaSkpEbGhJUHpoYnlUWll3?oc=5",
       "summary": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? Yahoo Finance",
@@ -335,14 +343,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3ZlZ1gxTk8xTmJhVUI4ak8wajN4MlptQUJnU0QzV1AwUm9NVGdfa0pPZmRLc19wU1ZHSU4xcl9xVWo3RE1tTF9BYk02MDNFTE5VS3FWRHRyaUoxV0dyTmV6dGZwdkRHTGd1MG9YcE4xXzAtbUtMQVVldmtzNmFiRGYyZGdnSE4tbE9TOWtuVF9YWUU?oc=5",
       "summary": "Perplexity Launches Teammates AI Agents to Battle OpenAI The Tech Buzz",
       "badge": "hot",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Cuts Agent API Research Costs and Adds Ultra Effort - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXVKZjhPWVZVaHVtYVRCNmxLUnhBY3RUbWpIYnl0N0M5UFVCMmZEeXZwNktDNmdDdUY2a2E2ZHVJZkZycThGRWUweGx5ZjdId0tJTE1feHRiemxGazNMNXI5MHk1T3RWbW1rVUlkWFZVZzA5OUNGTFBFeWZqR2lBSnp3d0JMSklpSzhmdg?oc=5",
-      "summary": "Perplexity Cuts Agent API Research Costs and Adds Ultra Effort Unite.AI",
-      "badge": "new",
       "date": "2026-11-05"
     },
     {
