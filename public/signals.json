@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-07T12:17:39Z",
+  "updated": "2026-11-07T21:20:25Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "An unreleased Anthropic model just helped solve a major quantum-computing question - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",
+      "summary": "An unreleased Anthropic model just helped solve a major quantum-computing question Business Insider",
+      "badge": "hot",
+      "date": "2026-11-07"
+    },
     {
       "company": "Apple",
       "title": "Redesigned Health app expands language support",
@@ -67,9 +75,9 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
-      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic's IPO valuation could plunge to near $1 trillion amid market turmoil Yahoo Finance Investors brace for lower Anthropi",
+      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2xnRmphZ1JWMGh1OHplODE3ek1GTHFoLXBkNkY2RVlDM2NVRHJBdzBsYlNVMFlJSWdXMVpBMkV5TFRMbUxSaGsyVmN4T0pKSGhiYnhKWkg5Q1ZkZEVmUE9RVUhXTlJWSFAtOE4yM0JCbG5PdGVIbnE4VURQam9RNWcyNHFrZUFZdkdCNzlGbzJuRzhYYjBDb0JPSk91cUhlWnRaemVR?oc=5",
+      "summary": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' CNBC Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic to press ahead with IPO targeti",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -78,6 +86,14 @@
       "title": "Teaching AI to build scientific models - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rLVltMFY0UFlmby1uSWtsdF9VZHpwWmNqUWZ3dFpTUDZKd2ZfZTVZRHl0aE5OdGxvLUt0OXc3WXZvLWdjSkNQZEpvSk9jNVJYUWlZZGpHZ0Q5Z2hQNFpDZ3JjZl9DUGROYXc0NWE4aWZfYnREX1ZMT3VGT3RaUQ?oc=5",
       "summary": "Teaching AI to build scientific models Anthropic",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
+      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic's IPO valuation could plunge to near $1 trillion amid market turmoil Yahoo Finance Investors brace for lower Anthropi",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -131,18 +147,18 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Teammates: 24/7 AI Agents for Work [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWIxNkVxOGRYUzNXY2t0RU5XYzJPdlJRMEhGdGg2RmJUSkFneXNrV0otcEYtYVM5M3A3MW5hSkNsWFVDeTFuUGZySmhfSWtwUnJoQ0NKaXFsU0FkTjJIYVUzMXBqMzNadm9POHBPN3huSlBRRm45QWdLeV9yVEMzcg?oc=5",
-      "summary": "Perplexity Teammates: 24/7 AI Agents for Work [2026] https://tech-insider.org/",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
       "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
       "badge": "hot",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Teammates: 24/7 AI Agents for Work [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWIxNkVxOGRYUzNXY2t0RU5XYzJPdlJRMEhGdGg2RmJUSkFneXNrV0otcEYtYVM5M3A3MW5hSkNsWFVDeTFuUGZySmhfSWtwUnJoQ0NKaXFsU0FkTjJIYVUzMXBqMzNadm9POHBPN3huSlBRRm45QWdLeV9yVEMzcg?oc=5",
+      "summary": "Perplexity Teammates: 24/7 AI Agents for Work [2026] https://tech-insider.org/",
+      "badge": "new",
       "date": "2026-11-06"
     },
     {
@@ -166,6 +182,14 @@
       "title": "Fitch Solutions Brings Fitch Ratings, CreditSights, and BMI Intelligence to Perplexity - Fitch Solutions",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUk9Vb1dfem1nRTZTRlNVTlJYTHBlMmRzc01hRmN1cmE4RkdkenlTd3N6VUhBemFHcWFVdmtwY3E1cEtRVElERjdlRzVnYXpTRjRoTFlLQ1Y4bnYzWDRScnpIaWc2ZkdBajdnd2dsTWZqRTZhSjRvQkJrSklGa1lqYWMxUzZzZGZoSTFzNUFuS2lUdjlZMk1LbkEtdUFKekI4LU8tU09LX2NvRXNDbVg0Zy1yTi1Temdsejg2NGRGZkdabzlXZU0zTUNLZw?oc=5",
       "summary": "Fitch Solutions Brings Fitch Ratings, CreditSights, and BMI Intelligence to Perplexity Fitch Solutions",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Brings Active Memory and Active Focus to Muse and Meta AI - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uaG1ra0NIa290WnVsQzNya2ZrY1czMDZ3SWhQeWFsdG9HSy1iZFM2cGRKaXNzN3U5aEZubm13MHpjTF9BTm9FNFNEbUJYVnNzYkJhX0FZV191dkxYRnZnSXdvSXlVNEhIYWV5SUpiWQ?oc=5",
+      "summary": "Meta Brings Active Memory and Active Focus to Muse and Meta AI Technobezz",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -262,22 +286,6 @@
       "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - AP News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
       "summary": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says AP News",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI for scientific discovery How researchers use Claude - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMDFpTC1odkNLZ3AxZk5sMUplMXhyU2MtSll2Z3J6a20tN3p5UjJuTF83T2xaNzlTbDJGQ1J6ckk2TUcyTWVRSUNETjZQbjhBa2R3cHcyQi1CRVJSQ3BmTHBYb1gtT2JNemw3bmt3?oc=5",
-      "summary": "AI for scientific discovery How researchers use Claude Anthropic",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEtFZTdKVm5NbllXbVdGcTRrU3ZuZ3p4Q0VvS2hPRjJQWmJGUWlIRmlpaC1kV1l0WUJTbmRQSm5mVVhrYV9oRUE2c2xPZWpoRDRnWkJwQzFmVmg1REtTN0k4WkRVYjUyaUExOXUyaXlWZU9yei1Bd0ZqYWpGLTNlOXJubi1DQmZxekZWbG9Cd1Q1NE1rTnMzbm15bEw2TnJMNFZnMm9rOWxVdw?oc=5",
-      "summary": "Claude can now analyze your spending with its new Personal Finance tool TechCrunch",
       "badge": "new",
       "date": "2026-11-05"
     },
@@ -470,14 +478,6 @@
       "title": "Meta AI Ads Eye Google Search Budgets: 10M Users [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVdBSi1FQ0J2YXdPcldVTEE2dVJSUDJpMXhlZHhZQU1IWkpWaUVwWFB6RkcyQVdGd2N2OHpKQ2ZtaUhCY0VGdXNKTUJ4VjU2bW8wN3BOa2pWZ3JGMHNiZkJIZFBKcmpGb1F2VjdaNUNYdmV0Sk84YkpTaTNqLUhwNW5tTmhUSUs5SlE?oc=5",
       "summary": "Meta AI Ads Eye Google Search Budgets: 10M Users [2026] shattered.io",
-      "badge": "new",
-      "date": "2026-11-03"
-    },
-    {
-      "company": "Meta",
-      "title": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5",
-      "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business Business Insider",
       "badge": "new",
       "date": "2026-11-03"
     },
