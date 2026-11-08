@@ -1,21 +1,13 @@
 {
-  "updated": "2026-11-07T21:20:25Z",
+  "updated": "2026-11-08T03:56:48Z",
   "signals": [
-    {
-      "company": "Anthropic",
-      "title": "An unreleased Anthropic model just helped solve a major quantum-computing question - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",
-      "summary": "An unreleased Anthropic model just helped solve a major quantum-computing question Business Insider",
-      "badge": "hot",
-      "date": "2026-11-07"
-    },
     {
       "company": "Apple",
       "title": "Redesigned Health app expands language support",
       "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
       "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
       "badge": "new",
-      "date": "2026-11-07"
+      "date": "2026-11-08"
     },
     {
       "company": "Apple",
@@ -23,7 +15,7 @@
       "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
       "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
       "badge": "new",
-      "date": "2026-11-07"
+      "date": "2026-11-08"
     },
     {
       "company": "Apple",
@@ -31,7 +23,7 @@
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
       "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
       "badge": "hot",
-      "date": "2026-11-07"
+      "date": "2026-11-08"
     },
     {
       "company": "Apple",
@@ -39,13 +31,53 @@
       "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
       "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
       "badge": "new",
-      "date": "2026-11-07"
+      "date": "2026-11-08"
     },
     {
       "company": "Apple",
       "title": "Apple unveils new iMac with M6",
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "badge": "hot",
+      "date": "2026-11-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
+      "summary": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers CNBC",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3hrdzRJZkZxWlhPSDhkX0IwNTdBWFdfNERhMFN3M3FyTG8wQmlCYW54WnZiM2p1V3RxNFJGdi1jeWZteWM4OEJfd1FybVpYOW9NSHo5Ul83Q1l1V3hOSE1SZl84QnltSFp4WTBoNlhhM3lZUXhIaUZnWmlnd0VNaEJxZUVUQ0lScjJKUnVqMDhkUXRQTjhyZzJDZF92ZU5XM2tCNUtqRHptUElZb1FPR2lEeGRLc092dGtTd0htZTJsYS05WkM3cnd2Tk1mQQ?oc=5",
+      "summary": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time MarketWatch",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Could Postpone Its $1.5 Trillion IPO, Per One Investor, As Market Sours On AI Trade. Another Says It Could End Up Closer To $1 Trillion - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSWd6elZReThZWEV0T1FNQnhRVENqZ05KV1k2SzAyRURoTGJ0U1RKRGlrbEhTZWRxTTBNWTZRazN4REFWTDBlXzFWcUh5SmFLRHAzeXBHUWhLcGY2R1FZUlNSanhIYUJSbFU0X3RaSlhnUlpqTDJMNUZkYkRnRC11SUJmRksxNUdKUUQ2MTdOM0lObkQwRlQ0VDRuOTBkaDZvWDVyX245dDFNdzBpdDRkYnc4RTJIX19FTHI4ZmpsNHJsclN1R0U3RWNWaDQ1bndJb21XSk1aVGkxUmlVbjBmNmpaU1ZZQ2F3TDJQbnhIc0w5UFpUdmk4alN4Mm0tbzJEMWJKMEh2a1h4OVlEVG9fTVVR?oc=5",
+      "summary": "Anthropic Could Postpone Its $1.5 Trillion IPO, Per One Investor, As Market Sours On AI Trade. Another Says It Could End Up Closer To $1 Trillion 24/7 Wall St.",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO to move forward despite tech selloff: FT - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG44NXNtN3I0alUwQkRkVnRiTW1kYVVsOVh6NlJTTkVuUFROWV92c250eW44NnpyYjgydmVpS2pOOGtKVy1rVnRPazA1RVRBWEtwODhVWHQ0NWVOeEU3eXdEamFyYzFqR3VSUzdOcXc1WlJMeUZXbU1xSnpPUzJNcGNaUU02Y2c?oc=5",
+      "summary": "Anthropic IPO to move forward despite tech selloff: FT Seeking Alpha",
+      "badge": "new",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Anthropic",
+      "title": "An unreleased Anthropic model just helped solve a major quantum-computing question - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",
+      "summary": "An unreleased Anthropic model just helped solve a major quantum-computing question Business Insider",
       "badge": "hot",
       "date": "2026-11-07"
     },
@@ -75,6 +107,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
+      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Anthropic",
       "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2xnRmphZ1JWMGh1OHplODE3ek1GTHFoLXBkNkY2RVlDM2NVRHJBdzBsYlNVMFlJSWdXMVpBMkV5TFRMbUxSaGsyVmN4T0pKSGhiYnhKWkg5Q1ZkZEVmUE9RVUhXTlJWSFAtOE4yM0JCbG5PdGVIbnE4VURQam9RNWcyNHFrZUFZdkdCNzlGbzJuRzhYYjBDb0JPSk91cUhlWnRaemVR?oc=5",
       "summary": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' CNBC Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic to press ahead with IPO targeti",
@@ -91,14 +131,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
-      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic's IPO valuation could plunge to near $1 trillion amid market turmoil Yahoo Finance Investors brace for lower Anthropi",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Anthropic",
       "title": "How Big Tech Lost the Midterms - Politico",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5",
       "summary": "How Big Tech Lost the Midterms Politico",
@@ -110,14 +142,6 @@
       "title": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines - Fierce Biotech",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1V5eTlOcFp2WTMzTmxDVlJrVEN3NkxtclJ0WWd1ZmNCOEFoeGlxSlY4aE96QWJlUmZtV0FZa1R2X1Q1MTJ4M0d0Zl9KSXRiT0tnMmluc01mVmN5NmhJbXlRWnB1bm1mbkF4dThtTVFsWjN1UkM0ZURzR3VqTUdrRXNKLXlSanhzNnFKYUNDc1FMTVBjWUNISDJwcExPNmRPVlhXOTBB?oc=5",
       "summary": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines Fierce Biotech",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic AI Progress Nearly Doubles: METR’s Findings - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlhGY1JGSjJmN19sYjFiU0JQUVNHajRJZGZZVV9xejY3S01xX2JrWGFyRzVZQXhGeEhJNTNGWW5jWEhVa3pPUFhtVXFOZno5UzJTSVNseFFhUHNwbDBUakpjU2ZJY0VIbzM4REVkTjNKTGU0WFMyZV9yTmhKa2YzS3J5YVQwUQ?oc=5",
-      "summary": "Anthropic AI Progress Nearly Doubles: METR’s Findings TechRepublic",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -155,6 +179,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEg0eW5XRUhEWEE5cEVqLXFfd0c5VE9xcVI1VGdEMlJ5dlU0N2RPSzJscC16SEpObEtqdlVEVklFaWRDQ0N2VnpVTGNwNVB5UmVjLVI5Y3QxOUxzSC1RMmx2SGRPSTJZdzFlMWQtQWxNeHVwZnVWTVZkeGg3UE1XWEpPenQ2NTVO?oc=5",
+      "summary": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks Engadget",
+      "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Teammates: 24/7 AI Agents for Work [2026] - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWIxNkVxOGRYUzNXY2t0RU5XYzJPdlJRMEhGdGg2RmJUSkFneXNrV0otcEYtYVM5M3A3MW5hSkNsWFVDeTFuUGZySmhfSWtwUnJoQ0NKaXFsU0FkTjJIYVUzMXBqMzNadm9POHBPN3huSlBRRm45QWdLeV9yVEMzcg?oc=5",
       "summary": "Perplexity Teammates: 24/7 AI Agents for Work [2026] https://tech-insider.org/",
@@ -166,14 +198,6 @@
       "title": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLbGMyRDJhem9VS2JjcDR3T1ZEUVVnUHVTMl9nWXVwanVDZWp6bnZlWVFlalhQdVAzOXJFcWxXMDlZbG0wZWpIMjFtRVRoTndzMzZ6YlJMd1FpWjg3ZmJCVzlxMUlQTHRRczdDT0xnamIwdkxTZU9RbnZR?oc=5",
       "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? PCMag",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEg0eW5XRUhEWEE5cEVqLXFfd0c5VE9xcVI1VGdEMlJ5dlU0N2RPSzJscC16SEpObEtqdlVEVklFaWRDQ0N2VnpVTGNwNVB5UmVjLVI5Y3QxOUxzSC1RMmx2SGRPSTJZdzFlMWQtQWxNeHVwZnVWTVZkeGg3UE1XWEpPenQ2NTVO?oc=5",
-      "summary": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks Engadget",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -262,30 +286,6 @@
       "title": "Setting a new standard for responsible AI infrastructure",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
-      "summary": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 METR",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic’s Ambition to Cure Diseases - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1drZ3NwOE9Ra3A3eXVQaUNSVlp2b3pjS3BzMHVQX0ZjWU90MkN2NE1hTUgxbnJMVjlhUllQV3E2ZmVMUWRHYmhBNlBNd0szT3o2LTI5XzNQQW9xbkNGVHE5d19wQ1pMMFFNVUtUX082TFZVdC1LLVdjWnRDbDNUVml0VmFaTkNLZTh0MGtB?oc=5",
-      "summary": "Anthropic’s Ambition to Cure Diseases WSJ",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
-      "summary": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says AP News",
       "badge": "new",
       "date": "2026-11-05"
     },
