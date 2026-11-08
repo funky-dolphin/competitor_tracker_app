@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-08T12:37:44Z",
+  "updated": "2026-11-08T21:34:50Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3dmWWtwZTJMS0pBRzdvYVVabzBjUHNzQnlWVlF0T3B6U1JrZVhZSG9NZDRCaVlkQ1JvS1p1ZDR1bjVrRUdwMkVxX2NIN3MzbGpsZ2NPQ1RYSFJWRTNwM2J5akxsaWd0RXZ3RVpGTlN6TEFFalRERVRhYWE5d3lxOXBlcw?oc=5",
+      "summary": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports CNBC",
+      "badge": "new",
+      "date": "2026-11-08"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres - Financial Times",
@@ -11,9 +19,17 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says - Bloomberg",
+      "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSi00VTRySXpJSXQwU3ZiRnZUYzk3MDYtTEJLZ3V0cm0zRlBMVDV1czVMalNRbmRldHhCSWNaaFNoMEpfZkI1dU9HVW9pVXN5VGhYQ1VwRV9UOVF4cmVTY0ViMFhwZll3NjNjVE9sTDZFM0xFUzRFZ1VuSE5WNXdweFdJaU1NaURWanYxUG1VRkQ3emo0clAwRFFya3BBUDVLWHVENjQ4SkdrdGU3Q1FYZGdR?oc=5",
-      "summary": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says Bloomberg",
+      "summary": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-08"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI safety center faces White House oversight questions - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcGlRZm42NkFGVnVmZFBkQXE5SGpKR2dtV2o0dkFwVG9OM0lhcDBkZWJwVFRyaDRldWdsVDZIOWpmeTJBYjdfYUQtSF9vZUpUemluai1xdldDZzA3R1hWeWZhUjhyU2Iy?oc=5",
+      "summary": "AI safety center faces White House oversight questions Fox News",
       "badge": "new",
       "date": "2026-11-08"
     },
@@ -55,6 +71,22 @@
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
       "badge": "hot",
+      "date": "2026-11-08"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity’s AI agents keep working after you close the tab - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NOHRPWU5DTjFiWU8yTFVBWGNKYk9vc3hCbjRpT1BEOE1rNWpUdWp4ZkZZMGFCR0tjdTRURGVGUUdNLVE5bF9qWDJjb1FxUjl2NjExNXdJVGJFQVZja1gxNTJEN2phNUV6QzM3NHdXSXdNZw?oc=5",
+      "summary": "Perplexity’s AI agents keep working after you close the tab The New Stack",
+      "badge": "new",
+      "date": "2026-11-08"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Meta AI Predicts ‘Will Crypto Recover in November’ - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjhKanZ3dXl5Z1ROQmhuN1dLd3FBNDVLcG0tTGYzQWt2eWE1QUhaVldhUF92Zl8xX2hRSktSeFdVUWhRelVrU1g0YS1Nd2ZTSXZ4UVlra2VUdno2dEkta2JBSWRpY3pzclR4anZOb3J3aUpGckJDY1Q4Y2JLcG1QeXhfLTNRSThvcWo0emR1N29MaVZv?oc=5",
+      "summary": "Mark Zuckerberg Meta AI Predicts ‘Will Crypto Recover in November’ Cryptonews",
+      "badge": "new",
       "date": "2026-11-08"
     },
     {
@@ -131,22 +163,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
-      "summary": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2xnRmphZ1JWMGh1OHplODE3ek1GTHFoLXBkNkY2RVlDM2NVRHJBdzBsYlNVMFlJSWdXMVpBMkV5TFRMbUxSaGsyVmN4T0pKSGhiYnhKWkg5Q1ZkZEVmUE9RVUhXTlJWSFAtOE4yM0JCbG5PdGVIbnE4VURQam9RNWcyNHFrZUFZdkdCNzlGbzJuRzhYYjBDb0JPSk91cUhlWnRaemVR?oc=5",
-      "summary": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch' CNBC Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg.com Anthropic to press ahead with IPO targeti",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Anthropic",
       "title": "Teaching AI to build scientific models - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rLVltMFY0UFlmby1uSWtsdF9VZHpwWmNqUWZ3dFpTUDZKd2ZfZTVZRHl0aE5OdGxvLUt0OXc3WXZvLWdjSkNQZEpvSk9jNVJYUWlZZGpHZ0Q5Z2hQNFpDZ3JjZl9DUGROYXc0NWE4aWZfYnREX1ZMT3VGT3RaUQ?oc=5",
       "summary": "Teaching AI to build scientific models Anthropic",
@@ -179,18 +195,18 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
-      "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
-      "badge": "hot",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Perplexity",
       "title": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEg0eW5XRUhEWEE5cEVqLXFfd0c5VE9xcVI1VGdEMlJ5dlU0N2RPSzJscC16SEpObEtqdlVEVklFaWRDQ0N2VnpVTGNwNVB5UmVjLVI5Y3QxOUxzSC1RMmx2SGRPSTJZdzFlMWQtQWxNeHVwZnVWTVZkeGg3UE1XWEpPenQ2NTVO?oc=5",
       "summary": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks Engadget",
       "badge": "new",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
+      "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
+      "badge": "hot",
       "date": "2026-11-06"
     },
     {
@@ -370,14 +386,6 @@
       "date": "2026-11-05"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHNVaFhRMG4zQUltMnNRdzZwN3JOMHRWYlFENEJZS3NrRTlEZU02ZnlTbHMzZWNjQV91SlMtUUJzWVJOTnRrdEVyMV9QSE5ocHlvZVpVUFRNZG9ITjE4YUZnUGE2QURxWnUwb2VTVUJnUjBiX1FCTjRCMjAtZnJ1S0xYZzFPTVQwSkNVRGQ3UnlXNkxaSkpEbGhJUHpoYnlUWll3?oc=5",
-      "summary": "Perplexity AI Predicts a Parabolic Run for Chainlink (LINK): Can it Really Go This High? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
       "company": "Meta",
       "title": "Meta's AI Buildout Runs Into a Political Problem - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2VoZHR0RFNKX05qZG1hY3RlODRmNlN2QTBOcWNSanRkbkVkSEE2OWJZSVZreWt5S1l1VGVodkZ1aHhycFRuVkFNNFczdUg3elBSZFQwamZfMkVjaFZwZjR3WTYzUUpEa1BYZU16ejA4Z3BubDB2bnVBRXJxanBNWjdqUmhaRU4yT19jLVRWTk9yVVVCbGd1NUpoZGM?oc=5",
@@ -454,14 +462,6 @@
       "title": "Meta is training its AI on millions of Australians, but now you can stop it - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekpNSXp6Tm5FbzFHb1M0MC04bklBMGExd2JvVWFvQTZ2OTFWaGZtV3NQamxkVC1RM3VzZWdBdzVrVjFoSjBWYjVLTG9qN0VUUG9MYzFqeG02NHQ3S05Qc2duemV5YTl5Z0dLZ3pGSnUyVW91OFlKWXY4aXZMVWRJRlozYmxxZ1lCaXIzbnJyckVtRWNqV3JvS3YzeDdDSDVSQmlZNVl3?oc=5",
       "summary": "Meta is training its AI on millions of Australians, but now you can stop it ABC News & Headlines – Australian Broadcasting Corporation",
-      "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? - Tokenist",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rOEk3ODNET2J5eG1pYjd1QTdvemh4RExyMzhVS2RrRURXS3NiM01OTWVVbndwaDFqYzhjbG5icHlxMmVVMTBzcDdZUEFZakZTbVZFSllCeU8tTzRPdkp3bW5wVmh2QjdSNktkT0M2SFkzYjA?oc=5",
-      "summary": "Meta AI Predicts a Huge Gold Boom in Q4: How High Will It Go? Tokenist",
       "badge": "new",
       "date": "2026-11-04"
     },
