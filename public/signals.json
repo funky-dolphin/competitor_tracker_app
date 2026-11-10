@@ -1,11 +1,107 @@
 {
-  "updated": "2026-11-09T14:56:26Z",
+  "updated": "2026-11-10T01:04:40Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5",
+      "summary": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds CNBC Anthropic releases new Mythos and Fable models amid RSI concerns TechCrunch Anthropic Unveils New Fabl",
+      "badge": "hot",
+      "date": "2026-11-09"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVlpNjBPSk5CcWpIVmc4RnVtUmsxT00wUFVZTXNrYzJqU2w1VGFoUUlUVS02TXVDODhpanJQSUlrNEUzLUo5c0czMXRaYVdSUzdubzBSTG5lVnVEUUE4bW9HSmVHZGV0ZVhYazJsOWw1WDdLMzYxRU1BaEVfbWpWTWtkTDZhakdWd1l5aU1DZk1abDJKY1JRM1VHQnU2Snl5X2xCMHQwaXJ5bWJxYzZPMFFybnlXOWhGSlByeGFDRXZGY291RzJkeW01dHN2a3Fsd0Jn?oc=5",
-      "summary": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' Yahoo Finance Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers CNBC Anthropic ",
+      "summary": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' Yahoo Finance Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why CNBC Anthropic is one ",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic must face lawsuit over Claude subscription marketing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5",
+      "summary": "Anthropic must face lawsuit over Claude subscription marketing Reuters",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Claude can design electronic prototypes from start to finish - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+      "summary": "Claude can design electronic prototypes from start to finish Anthropic",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -27,6 +123,30 @@
     },
     {
       "company": "Microsoft",
+      "title": "'Opt-in always becomes opt-out later': Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra — but users are skeptical about where Microsoft is going with this - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzV1TmtOT3N4WFZWRVcyNnVlSlBjNmFFYVVySjRMcnJsVjNhQ1ZuWGZsMW5Hdld1eTNhSDFnOE9TaUtjcHROZE0tc0N0NC1tcmtRTFBGZGl6b2dBOXM5aE9paWY1OUVENHVPaVVoNkctYWNDd1ZNVVlPRHFRMlh1dmRQOHBMRWUtYmpPbmQxc1BqQ3FibHpSbU9IcWRPUTdNLWRyemtRaHRTYV9XUzUwX1NISU1RWlAwakM0SFJteUlwNVVTcVhfMGljbWxIQndzYWIzYldabUNRTFlIYm9CQ1hCS2I5NVlrZTBzSXB4SW9Sb2pRU0lCal9RTQ?oc=5",
+      "summary": "'Opt-in always becomes opt-out later': Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra — but users are skeptical about where Microsoft is going with",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemxSZE5kdG4yUDJPQmpqZGs4Um5FMDJWazIzWUhmby1HaVpmRDdhMFpVWFU3blBhYk1oSkxQZ255RE1WRDVuYXk1d0VnYkEtaGRPNTZ1MlYzUXdVSzVWWlFKVWdnQWhMd0lGdVlWVWdycWV1cUxEa1RKNUtRSmV4dmdBWndrRnJxUlhfbUlBbURSZFZPOWhXZHFGYmk?oc=5",
+      "summary": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses - www.crn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWNFOFd0N3h2b2JYX1BieDNLN3psRHFNQXp3Y2hiRzNUc2hnOUliaXMyMVBhSGNKZ2ZDUjVMWmI4dHdmbGh6NWx2Y0haUkFZOTVQdV9HSDFaMDQwVU44d2xsaklKU2JfOExfTVlmd0JaUGlmNFlyM2pycUNOTUZCZl90cURMem5VSzNZSFFwdWpTcGVNMUhTMmd0OXM1U0t6dk9vNkZaN2tIRERsWmc?oc=5",
+      "summary": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses www.crn.com",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Microsoft",
       "title": "How to Get an HP Copilot AI Laptop for Less Than Apple's Cheapest iPad, With Microsoft Office 365 Sweetening the Deal - Kotaku",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY1ZmelpLTW1IdUkxaDk5UHFwbE56NWNydDJlMWlUbG8wVF9ZeDRHa1lVcjJGVm1VM0JoUzNwdGstRW00UE5SX2Q1VWFTNkd5S3NtcXhkVU9LRS1qX1hzdE0yTjhyVHVrU1JvdUxybDU5UDFUcC1URV9pMl9pamxLTWZrRFJtWXVJRGZVeGNrU3BQZUY5NE0xcXV2OTQ3OUFzNTBadk40MFVfTlhNTUVIR3lEYUhDeG5jUWthM0RxSlkteUxtWlN5SDdwYXBJOVdXdnRYRzQ1REIyWVRwSUE?oc=5",
       "summary": "How to Get an HP Copilot AI Laptop for Less Than Apple's Cheapest iPad, With Microsoft Office 365 Sweetening the Deal Kotaku",
@@ -43,42 +163,18 @@
     },
     {
       "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-      "summary": "Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.",
-      "badge": "hot",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Apple",
       "title": "Apple unveils new iMac with M6",
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
       "badge": "hot",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Aravind Sviniras Perplexity AI Predicts a Mega-Bullish XRP Price Move - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU03dlpySjRfZ0JhMmY2TkItcXVWaXBDcUZnRmFySGZ5UnBsdmhQLVpHWFYweVMyOWR6S1FaY0VVdi1ndTJ6amdTSU1FRm0wNXM4c2RTeWZIdnBpOVJldjk0UldPWjVuMGlManc1aDF2djRtbG13Y3FBSFNyT2JqNVBXYy1ib294NURvTnRB?oc=5",
+      "summary": "Aravind Sviniras Perplexity AI Predicts a Mega-Bullish XRP Price Move Cryptonews",
+      "badge": "new",
       "date": "2026-11-09"
     },
     {
@@ -91,11 +187,27 @@
     },
     {
       "company": "Meta",
+      "title": "Meta AI glasses can overheat from water and sweat — update right now - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5",
+      "summary": "Meta AI glasses can overheat from water and sweat — update right now Tom's Guide",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Meta",
       "title": "ChatGPT, Gemini, Meta AI: What parents can control in AI chatbots - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOS1kLXFSYzJEa01NaUdBc2JmU2lwRFZnX2lFWkhrbWl1VmFMQWhUX2pSdVM0dzFQZHBHZUV3a0xnaVpKY3c1clZTaFV6LU81MG9KX2tyQmpsMWxHTkZGRlNVTlA2OWZCcHFEUzgyVXZSUjRVNVVWN2RMNG9IbGlDVTNQSFRlbVJMS3hPYkZUWk9VNmFJMW80anNNcThxQklnN3lJU3I3NExEYzg?oc=5",
       "summary": "ChatGPT, Gemini, Meta AI: What parents can control in AI chatbots Notebookcheck",
       "badge": "new",
       "date": "2026-11-09"
+    },
+    {
+      "company": "Anthropic",
+      "title": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTQ3MGdxOWVJeWtRSXZzUDNib0JvRWxiVm9haXFBczdHX0lGYk43WXRUVVhMeERWcG00Q0lBTmRMWkZqbGx6VzV6OEM4TTFLcm1IQmtXUFkwUFJRVGhVOEZNaW9RWGMwekhGdWxHVng4WHFLeTJCZjB4VVZJRWwxSkZERkdLNUxYaXRfelMxWVdLdTUxTjRF?oc=5",
+      "summary": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-08"
     },
     {
       "company": "Anthropic",
@@ -118,22 +230,6 @@
       "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhoaHlMZk8tNWhZWlFEczhOc1FpNnZjcnlZTF9MUDJrVG5mb2NvUkdzZlBldmx2YkhEMkQtdVRuaXpWYkhTcDd2N3VLWlFvLW81S0ttcWxKTUlkdXBOMWRNZUIzS0o4ZVM1Y1dpbUIxRG4waXdxRVlncjJiVTM2TGtTZ0g?oc=5",
       "summary": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres Financial Times",
-      "badge": "new",
-      "date": "2026-11-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSi00VTRySXpJSXQwU3ZiRnZUYzk3MDYtTEJLZ3V0cm0zRlBMVDV1czVMalNRbmRldHhCSWNaaFNoMEpfZkI1dU9HVW9pVXN5VGhYQ1VwRV9UOVF4cmVTY0ViMFhwZll3NjNjVE9sTDZFM0xFUzRFZ1VuSE5WNXdweFdJaU1NaURWanYxUG1VRkQ3emo0clAwRFFya3BBUDVLWHVENjQ4SkdrdGU3Q1FYZGdR?oc=5",
-      "summary": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI safety center faces White House oversight questions - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcGlRZm42NkFGVnVmZFBkQXE5SGpKR2dtV2o0dkFwVG9OM0lhcDBkZWJwVFRyaDRldWdsVDZIOWpmeTJBYjdfYUQtSF9vZUpUemluai1xdldDZzA3R1hWeWZhUjhyU2Iy?oc=5",
-      "summary": "AI safety center faces White House oversight questions Fox News",
       "badge": "new",
       "date": "2026-11-08"
     },
@@ -163,6 +259,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta AI Predicts How Secure is XRP Following Recent Ripple Security Incident - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0ctSmtZUVU1M3VxWm5OLWFTOEwyT0U0TzFlU3dRbkNwYTJ0aWZoVVE3cWh4WVZDMmRCY3cxTFlpTWpQNnJGYlBtYjdSejQwNDlvbW5aZ25LeEx2WG43eHZhZDdSX2p5UDAtRWQ1SnRRM2ttQ1FQemkwUEdmVklKbklhaXg3UFhMS0hmMnU1WDlKTlFRQ2dMYVdxd0dyN1lRUl9zVy1BVk1aaGlSXzkzWWhWV19IM216cU0zNC1Qb05pbno3aVgyY2J0Y3ZpU2Y0X0Zn?oc=5",
+      "summary": "Meta AI Predicts How Secure is XRP Following Recent Ripple Security Incident TradingView",
+      "badge": "new",
+      "date": "2026-11-08"
+    },
+    {
+      "company": "Meta",
       "title": "Illinois veterans struggling with vision gifted Meta AI glasses - FOX 9 Minneapolis-St. Paul",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SjVRUUpPNmVJamQxZVJBTGFaV1IyRnp5eVk3aE43YU9jV3lPOVJDQU5mb3JQWFgzWHdUMk1NTWpfd19EeXJ6Qzc3SWF2S2wyVEFrMU1ib21oZknSAWBBVV95cUxPcE4wMXNzeEg2Y2dWbFZkLS01cWdEU0xySldjRWplTEhMWXY4WnJwWjhFOVFlWkdZUGEwYjdSa0xObngwRHZhWkFjSkZGaThMVjA3UmdBeXJ4Q3VGSkpMSkM?oc=5",
       "summary": "Illinois veterans struggling with vision gifted Meta AI glasses FOX 9 Minneapolis-St. Paul",
@@ -184,22 +288,6 @@
       "summary": "Every Milliwatt Counts: Inside the Battery Engineering of Meta’s AI Glasses TechBullion",
       "badge": "new",
       "date": "2026-11-08"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
-      "summary": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers CNBC Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion Bloomberg Anthropic Could Postpone Its $1.5 Trillion",
-      "badge": "new",
-      "date": "2026-11-07"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3hrdzRJZkZxWlhPSDhkX0IwNTdBWFdfNERhMFN3M3FyTG8wQmlCYW54WnZiM2p1V3RxNFJGdi1jeWZteWM4OEJfd1FybVpYOW9NSHo5Ul83Q1l1V3hOSE1SZl84QnltSFp4WTBoNlhhM3lZUXhIaUZnWmlnd0VNaEJxZUVUQ0lScjJKUnVqMDhkUXRQTjhyZzJDZF92ZU5XM2tCNUtqRHptUElZb1FPR2lEeGRLc092dGtTd0htZTJsYS05WkM3cnd2Tk1mQQ?oc=5",
-      "summary": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time MarketWatch",
-      "badge": "new",
-      "date": "2026-11-07"
     },
     {
       "company": "Perplexity",
@@ -322,14 +410,6 @@
       "date": "2026-11-06"
     },
     {
-      "company": "Meta",
-      "title": "Meta lets AI freaks create college gymnastics molestation fantasies - FOIAball",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJOHNUNEc4eUItUUg3RnBhNFV5WGpobWZOWFU5SDQzdHM2dHlkMWdrMl9QQlhaRHowc2hScnJfb2U4LW1iMFZaMXFKV2ZnTkhsYVd6Vk5jRVBpZWF5MEVaM3dTUTdHS1NqdHFLbEQ3QzgzcHVMWHc?oc=5",
-      "summary": "Meta lets AI freaks create college gymnastics molestation fantasies FOIAball",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
       "company": "Amazon",
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWJMYnMyWXROcDR6c1FIN3dLdUN1QkduYm9ROWhtbnRUeTZpVDlEOFJSSTI5NEpUN1V2Z2ZORmN0YzFqSTlQMWNpZDZjZENqUWRCcnQyWTBHNDdkNmpxMjR0Zi1RdGs2SDZkM29pcjNEMTBSOGl0amJ2cWkxMG41SllxTVNyR1BCNU12NFVVRkJfaDF5UWR1Vk5ZSy1pbXAtRHM2c2thRFE?oc=5",
@@ -370,14 +450,6 @@
       "date": "2026-11-05"
     },
     {
-      "company": "OpenAI",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
       "company": "Google",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -394,76 +466,12 @@
       "date": "2026-11-05"
     },
     {
-      "company": "Microsoft",
-      "title": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEp6WXpXWG9XeGlJeXpFTnBFZXllNE56ZDhZeVFxbkNPaGxxc0o1UGprNTZqUnJTMXFCQ0Radk9WdkE1WTk0Qzc5NUJyV21vY0JKY3JmRVN1ODN5MVFWcWlEWHFUUWhaelJYU2o1NFIyXzdHQXJrcTNEMVVLNnZsYWJyb0VfXzdTOUZ1QTkxVHFURlBRSkR3SDVqelRZbXNLN05kUUE3ZWFRS0VSTFBFaGsyT1R6akNLcFRPbnYwNkNXM1Q4Vmp1aGRkS2VNMnN2VUhLZHEzSFBOUQ?oc=5",
-      "summary": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them The Register",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot is coming to Windows 11's new Search UI later this year, but Microsoft promises it'll be entirely optional this time - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcmdzV0ZESldwWmpEUFRrbjBvNE00WW9vZWM5LU9Ublo5TnhvN3dETW9YRWZVRjZZcHJUU094TWV1QmVUaGlBVGI3bTh2LXNsLURkQUN5Y1lJSGRrRlc0QXhRVU1rZWdKN2FCS040MFBCUzZkdHF4WExrQXBCRkVtMkFPZHRhTzRLczNWRmctQXR0Vm5OTjhLa3AyY0d1eTNnNU8wZWUwamVXeFFjNmJJd3B4UGFoblhMV3lyVUJGZF9tTERjVDJPUWZsTW1EZzRsNFJnWHdGMjdOdXRPNGxyS1dqMTFZb3htRlFkQ0FQaHBJOFMtOTBV?oc=5",
-      "summary": "Copilot is coming to Windows 11's new Search UI later this year, but Microsoft promises it'll be entirely optional this time Windows Central",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NFL Week 9 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0JsS2NkRVJuS2JXcGdxblhWQnFuTkZPQndVOEN2TWJJVkNZY1d0dm5yem5fOHMtQUtCZlNZQ3o4UnB3ajJKZ3FNNkMzQ09hdlJaZFpFME9NTUhfSGRpc0xkTFI4R2tHRmd3czBhMENyc0FJdkV3Wk43c1BwNjkyQmROVEwyb2dXSEEzV2xqZFJWLUtJSno5MXNmbnU5ak1iZGdaYw?oc=5",
-      "summary": "NFL Week 9 predictions by Microsoft Copilot AI for every game USA Today",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity launches its own take on AI agents for work - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmpjbUlKRk5NNS1ocHJHQkVMNklPamFtSzNjUjhEWWItYndXYk1UbWdjUlB1NXFzc3NQX1Q0MVJnVm95TkZtYUUyZTFCUVA3WjZ1M19MMGNZQ09EeEFuTGZMd3JvV0xWaEl1dnh5Z0lYOTg3MkZhMnVsRnlWMFdoQ0lNMzlvZ1Bka1k0UHdxYUFxSHp3cEZhMmJFNA?oc=5",
-      "summary": "Perplexity launches its own take on AI agents for work The Verge",
-      "badge": "hot",
-      "date": "2026-11-05"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta's AI Buildout Runs Into a Political Problem - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2VoZHR0RFNKX05qZG1hY3RlODRmNlN2QTBOcWNSanRkbkVkSEE2OWJZSVZreWt5S1l1VGVodkZ1aHhycFRuVkFNNFczdUg3elBSZFQwamZfMkVjaFZwZjR3WTYzUUpEa1BYZU16ejA4Z3BubDB2bnVBRXJxanBNWjdqUmhaRU4yT19jLVRWTk9yVVVCbGd1NUpoZGM?oc=5",
-      "summary": "Meta's AI Buildout Runs Into a Political Problem Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-05"
-    },
-    {
       "company": "Amazon",
       "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmhyMlFCTVQxQWRicEF3TDRDNTVFQUhIV05zOGctUEZPaEVZRW1PU3hTNmNIeWt6cklaQVFCWFZjb2sxQVpFb3dVcWFMSF8za085X1VrdWo2M1dIQmJwM3VrcTI5UmJPS05UazJRRFBOZmZUTTlvMnlWUXh2UnZqZGdtMUtCVTl6UGs3aDFJMkRteUY0RVhaRU1KSzdoSkxhLXcwdHFyS0wzNW9qTlVqbmUybWQ?oc=5",
       "summary": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents TechCrunch",
       "badge": "new",
       "date": "2026-11-05"
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "badge": "new",
-      "date": "2026-11-04"
-    },
-    {
-      "company": "OpenAI",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "badge": "new",
-      "date": "2026-11-04"
     },
     {
       "company": "Amazon",
@@ -526,14 +534,6 @@
       "title": "iPhone Duo arrives at Apple Store locations worldwide",
       "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
       "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "badge": "new",
-      "date": "2026-10-27"
-    },
-    {
-      "company": "Apple",
-      "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
-      "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "summary": "Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.",
       "badge": "new",
       "date": "2026-10-27"
     },
