@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:25:20Z",
+  "updated": "2026-11-11T23:57:10Z",
   "signals": [
     {
       "company": "OpenAI",
@@ -14,6 +14,54 @@
       "title": "ChatGPT Plus for veterans and servicemembers",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "OpenAI",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ4NldHMG5hNlVnay14bFh4QlBweEl3eDVoQVc1Xy1yUW1MV2pTWUdiTXFlWFIzVUdNQjRGT3RiamVmZTBqYjRjWWZqcjhzNmlMSzA0cTNVd3lQQ1ZMU19sSVA0b3M1R2VGbmROZkttQzh3a3JaVERuVnVsTVFmSDVmb2tKUDJkOGd5cWp2dVhTejFqRFVXNjdYd2hQMWJPWEo4?oc=5",
+      "summary": "Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans Yahoo Finance Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg Jim Cramer: This is the bet you're ma",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWoxVUJ4SmRSWjYzNFNsNVBwV1hfUEVtMlVZSmVSY3pibDdFaUVXbHVrVXNuRFR3b3RMS0o2TVpERVVmbU8yemRBNVpULW1WdjZoRVJ2bVFGbUJDZU1zMk5KcXpLUGJWd0JWcV9xamJmRG00TDJUTjJFV2VwWVVsS2FtUzFMUQ?oc=5",
+      "summary": "Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO Yahoo! Finance Canada",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWhFb0Z4UU5tNk9GTTVCYW9hallXVDZiRkhNMjFubzVVbmt1RXY4ekdtSFdZSTV4cEhqYkNrMlM0TW9keklFMHBOUDVzTTNhNXhJX2ZuVWRjSTFheURwb1NlU1F5b3Q0SXJWaGdzMzlEZHE5N3UzeE5jSzJIbkpoc2tqdkNKZG0zczBSYndTNm5GUFVUeEM1OHB2LUlnRktreFhueUxleGRwTWp0S1RZcWFQRQ?oc=5",
+      "summary": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In Bloomberg",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
+      "summary": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI Ars Technica",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI industry's week from hell - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5STzlCTEFvX01KVHZJZGRLM2NnQzVyTV9CQjNYT3dqWDBUZmlRdVpNVUIxNWp5TVRZV1lrcjctR0NqZjRTQ2xsWGktN3dVQU1MazM1UTF2SGMxNUlxMDVDNmZJOTVuQkxXNWh3Vi01ekt2RzA?oc=5",
+      "summary": "The AI industry's week from hell Axios",
       "badge": "new",
       "date": "2026-11-11"
     },
@@ -38,6 +86,22 @@
       "title": "Anthropic Bankers Look to Increase IPO Valuation, Report Says - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
       "summary": "Anthropic Bankers Look to Increase IPO Valuation, Report Says Bloomberg.com EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor Reuters Jim Cramer has a new warnin",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Google",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Google",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
       "badge": "new",
       "date": "2026-11-11"
     },
@@ -98,10 +162,50 @@
       "date": "2026-11-11"
     },
     {
+      "company": "Perplexity",
+      "title": "etoro becomes available on Perplexity - FX News Group",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDE2a1pnQnFNT1p5YnZiaG5qd2Z3ZkFXWmk0UW1GTlJFS1pxcDZUWUt1RzBWazExQnVibHlxTVE3ZHpmVUlkU2l1WE0wRFU3dENwX1p6VzVqNU52WlZQVjcwTDRnT3IyOU1CWnlOZ3AwNmlfMGc4Rkhmbi1ha09uSzJrVU90MTdnLVcweUwwbw?oc=5",
+      "summary": "etoro becomes available on Perplexity FX News Group",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Meta",
+      "title": "21 Penn State professors are testing Meta’s AI smart glasses. What can they do for education? - The Daily Collegian",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT1ZGbnc0Z2hobXdKemVwWUlNY1JZbFhQSWVNekVJT1gycVN4c0RMNDJiY2ZQYjNDNjVtWUMtRXkzQ2hmOGI0RnBEd3pDMW9mWTV2UHUxQzRrNzkzQjl5VjhkMGRSRmhFd3pfaWNqbTlkMkVYLTBtR0tCdXNoaTFuamZsSldRaWd1cnFTSTROMXM3dXVIWlVWMWg0MEc4SUtjdy16T05JMFNyX2cwcmVIOEw4bS1CRG5VM0F0blRpR2l5SXVfSHpmNWpYWFpNWFNyYmlMcFE2S0Q0S1MzTEpXa1BOSEktXzRhaDJ2TldEWnFjeGJzREJsaDBSdDdHdHh4MjFlTTk3eXJWLTM5cFYyYVFB?oc=5",
+      "summary": "21 Penn State professors are testing Meta’s AI smart glasses. What can they do for education? The Daily Collegian",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Cheat Sheet: Features, Pricing, and How to Use It - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83cE5Ib1VQOWhCWjJydEJobGdkME5TbUNqcXpJRWNOLWJWN19fM0RZWGk1X1BNQ05IdGpibFd1b0RZamo4d1hSUWQxdk5LdmRvSS1YTGh5bzFKTG5zcldyZVJyZjRZSkVOcUZKdHFxdw?oc=5",
+      "summary": "Meta AI Cheat Sheet: Features, Pricing, and How to Use It TechRepublic",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
       "company": "Meta",
       "title": "LSU and Meta AI partner on five projects across LSU’s campuses, using AI to tackle healthcare challenges - The Reveille, LSU's student newspaper",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWpKV2NIWDNWRW5GQmJoWVdBU0lNM0s4Mkd4TU1YSkdEZGZjMk12Mk96MlN1S0h3VkFZTUw4amZOWktETlFUczQ0ay1xWno4c2FXWl9lWm54X296cDJKUS1xb0lpOFBRdWhaRWJLWjZtMnFNTU5rWFhmMFh5VTQzVWJpOTJFdEZBbGcxNm82RzFWVHB1eXk4Nl9uN3o2SFcyQldvUE1lbmw2UV8teTQ1YWktNnJhRHl1Z3YwODhrVTVTcndkcS1TcXZUYmFFOEFrbWYzV1Jn?oc=5",
       "summary": "LSU and Meta AI partner on five projects across LSU’s campuses, using AI to tackle healthcare challenges The Reveille, LSU's student newspaper",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins - LADbible",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnpqRHJYMzVVUjdJLWhLcUFrUllyOThNX01JQjNpU3Y3QWJJdE9ZdjQ3ZTFFeVVZbkxVNU5hZDBSREdWZEQyMFg5bWxFYlozUEVBd01LSXFfU3U0bTkwQk01ZTZQWjJPZHQ5UU9KcURGUUpkc1RCWElQV0NrTi14dV9TNVZlRFNrQ3c?oc=5",
+      "summary": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins LADbible",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's Ring introduces security drone and robot - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcllVNkowaEo2XzlacVU1WHFUamNjdzkyY1daQ1hMZmJzN1NOSkVQQzdyZkJ3eHNIS1FmRHRoelJOMXRlLS1oZ2tLVjlKeGpRbG9PRmNhNUJHdzdIX3dZZ2FybmR5RkxQeTAwMFROdjNRQ0U?oc=5",
+      "summary": "Amazon's Ring introduces security drone and robot Axios",
       "badge": "new",
       "date": "2026-11-11"
     },
@@ -150,46 +254,6 @@
       "title": "Column | How to protect your brain from AI chatbots - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFM0ODE1Z2QzbThTMHhxdVZVWWF1bW5SemxodjBkT0VfbVU0UW5yeW1vS2tCbXdKZVdjdHJIMVo0cU5tS1NucHhGRmt0OHZnZmVqVDA2ZlVMY0hfR3FfQVp6Q0pwV0VTajlHT3VDMWR1d0dVM3dPMW9SQ2hObzZOOWx2bFRxRkRFc05JNnlnQ2hYMzVadGx3NEJvcGl3RFNGa0xkaldlT3NCZGNLUE01VDlmTEdRUVJtY1BwR3M1WlZpMnN4?oc=5",
       "summary": "Column | How to protect your brain from AI chatbots The Washington Post",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "How to participate in the Anthropic IPO - Fidelity Investments",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVFLMmFINVppZ09jYmdROFFLaFB5NF9aMTdTY3o2OHFNenVWWlJfTXV1T2FoWTdTNDRfMFY2RXFxV05icDdxS2phMmtrdkwxVnhfWHlFSTJxdlVFX0dZbVVmbXdJM1hVYnh0RVoybVhWbUZaNElhd2p4Q1NRMTNXbnR1LXdNbnNlT1YxaUln?oc=5",
-      "summary": "How to participate in the Anthropic IPO Fidelity Investments",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Microsoft tumbles as Anthropic unveils office tools ahead of IPO (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk5XZzZTN001ckRmLXd3cmt5T0dYMXBnYkd5aUs2dmMzcU9kNFlSYU5ZaFY0UVE3U2VVdGxzbnJoZVp4blJkMDMySktmWTFVZFZEU3YyeWRXeW1TSHNpQnFwMmNuaGYyVXRmakRsQ3lNU08xaVhrdGphSGNWdmZTeVlpWER6SW9VaW1PZzU5QWZMOGg1b1M2UDMxamE4MHl2RzFTRg?oc=5",
-      "summary": "Microsoft tumbles as Anthropic unveils office tools ahead of IPO (MSFT:NASDAQ) Seeking Alpha Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft Bloomberg.com Anthropic launches Claude Me",
-      "badge": "hot",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030 - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0tWeGNDOUh5S1RleHBrVDlUdGNiRjktVDZGbmtRNlBUcXkwbDRfNXBuSXZ4Yk1NNVBOUTZXNDRlc09LdDI0VlpKMlFRMUVCaVh6VndVSWlwT2NkNElsc1JxUDVZUWFYZ2pWY3NFTFNKQm9fZnk1YkNTZWV6dnFVc2s0T2o?oc=5",
-      "summary": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030 Financial Times",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Stifel CEO on Anthropic, Integrating AI and Fed Policy - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY01tZ3AtWmdjaGZlblpPQ1VTUXNzWlBWd1IzVTlCZHF2OThJcFV0dVZDU1VpNGdUalVBY2VjTFJ3SUMyRWdpZE1OMWdEdmxNcHExc2s1dzRMRTRZTi1Jd25yN2tzOTF3NzVWLVBueUExNDRfRFE2SE5WY2tFRWM2a3FvcThtVUVNdklzcm5EX055TmF6UjBxVWRDcFMxM1JiaVFsVGJXMEdNaDlH?oc=5",
-      "summary": "Stifel CEO on Anthropic, Integrating AI and Fed Policy Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nvidia, CEO Jensen Huang sued over alleged Chinese spy ties amid FBI probe - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zeDV4MzdsbTR5NF9hZDQzdUZScDdpRXFBWEh5YTZVVVdjZmdjMjltQnBCZlg3SnBVTDN4Q2tycXVkdzFKNFhmMmNsMERja2hneE5PWm9XZGk2Y242ME9udTI3Y2d4cmQ3U2hXbEZXa0lsYUhaVTl6Qm5n?oc=5",
-      "summary": "Nvidia, CEO Jensen Huang sued over alleged Chinese spy ties amid FBI probe Fox News",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -275,14 +339,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5",
-      "summary": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Meta",
       "title": "Meta’s AI age-check goes global: Can it protect teens? - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVpwWDhZeFc0RkEyLUlpZzJvWlE0dlBTMHVfM1RuV0RFNkVvbGU5V3pHMkFJTmt2UXB5NzVObVJhVEVZbDFVQzdaZ2MzTGxDLTN4eXlnYk45dDZCNEpDOW1TbDFhMjgteWtxWWNTSnhTUEtHUHBISTQzNXFKSTkwY0plTE54N2lKei1HNE0yVk9IQUVXOXNrMNIBngFBVV95cUxPZU1aTGRnZGtwRjh1S016Y2lQVGhjeXNTZEE2VENzMUdKeDZWek4xaG5weFdqdGRPX0x6ZERFN1dsdGZkZmFURi1kTWRCUVJuUDF1R2g5R1U3eTlsQm9PSGttcG8yd0paYUxEXzhMOFJaTTlGZ3V4Rm9oVHNYUklnMG95WFRDVGI3Mk55aHJnRzgzdmFIN1JmalR6Y3l5dw?oc=5",
       "summary": "Meta’s AI age-check goes global: Can it protect teens? Al Jazeera",
@@ -291,9 +347,9 @@
     },
     {
       "company": "Meta",
-      "title": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnc2OGl5aW5mOFY2QWxocXFCalRvbERnVVI0VXAyMllGTGxmVnNVQlp2SWJMcmFYWktMM2JPNTZDUVBiVXQ2dVBDaHB0VmFvMnRDSmI0X2F4VWlmN3BCQU9OVnFlREJOaGhqekNDLXF5cUhrRzQ3b2RfS01EdVFJdzdSU2tWU3BTXzVBdA?oc=5",
-      "summary": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome Yahoo Finance",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5",
+      "summary": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -302,6 +358,14 @@
       "title": "Meta Warns Some Of Its AI Glasses May Get 'Too Warm' If They Get Wet - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0hDakR6VFdYZ2o5ZTY4NXF3NjFGOVY2Z3BIUl9fUDFCTXROX2hwVTBJTGlfRDZnUV9YdTg4MjI1U0dEZ0RySkFFWXZ5aXhTVGh0SjZDQVpobjBUUHI3UVBORU84TFI2aDlhZUEzRDhwNWhMVGZhX2RyOGp6MVcza3lPbnlpaGNpdnU5azNWOFI0blJpdXpnUWZ2cVJxaUNxLVE?oc=5",
       "summary": "Meta Warns Some Of Its AI Glasses May Get 'Too Warm' If They Get Wet Engadget",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Meta",
+      "title": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnc2OGl5aW5mOFY2QWxocXFCalRvbERnVVI0VXAyMllGTGxmVnNVQlp2SWJMcmFYWktMM2JPNTZDUVBiVXQ2dVBDaHB0VmFvMnRDSmI0X2F4VWlmN3BCQU9OVnFlREJOaGhqekNDLXF5cUhrRzQ3b2RfS01EdVFJdzdSU2tWU3BTXzVBdA?oc=5",
+      "summary": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome Yahoo Finance",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -323,18 +387,10 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins - LADbible",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnpqRHJYMzVVUjdJLWhLcUFrUllyOThNX01JQjNpU3Y3QWJJdE9ZdjQ3ZTFFeVVZbkxVNU5hZDBSREdWZEQyMFg5bWxFYlozUEVBd01LSXFfU3U0bTkwQk01ZTZQWjJPZHQ5UU9KcURGUUpkc1RCWElQV0NrTi14dV9TNVZlRFNrQ3c?oc=5",
-      "summary": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins LADbible",
+      "title": "Ring says its flying indoor security camera is finally shipping - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenFjTGlwNUtqb1BmUEExRXZHRkNaMlBNOEx2NUpoanNPZFEtQmhvZ2JKTks2aXhSSC1VVGJPaG15TGFNSHd5SjFCcFNDOUpyRS1nQXB4WlkwS3E4aTIza1hKdnd2N25SYy0tU2pnUTNmZWlyYnhwSldrWFlBZzRFQlI3b2ZZYUM2LUgzODU1WUo0TzA?oc=5",
+      "summary": "Ring says its flying indoor security camera is finally shipping The Verge",
       "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon's Ring launches flying camera, autonomous security robot - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE9yTnVGeDUteVpSZzY1QW5jUzVxSmpna2hSb29VUE9hVTRjWHhuUTNsZlQtVGtoRkQxQ0JWNkl5amNoWksxdXQyT2c0LV9jNUctdXp3LUZGaDZsaUJCcDlIX0pHWG04WER3clpEVWtzVGI4RXRjaEZoTDBLbkVBZjUtOXhEUjM2N3FENHBrNEJlaU91elR6UmZFZjlxMWdPdHI5YnZIYmpMTkhv?oc=5",
-      "summary": "Amazon's Ring launches flying camera, autonomous security robot Reuters",
-      "badge": "hot",
       "date": "2026-11-10"
     },
     {
@@ -342,6 +398,14 @@
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
       "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's Ring launches flying camera, autonomous security robot - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE9yTnVGeDUteVpSZzY1QW5jUzVxSmpna2hSb29VUE9hVTRjWHhuUTNsZlQtVGtoRkQxQ0JWNkl5amNoWksxdXQyT2c0LV9jNUctdXp3LUZGaDZsaUJCcDlIX0pHWG04WER3clpEVWtzVGI4RXRjaEZoTDBLbkVBZjUtOXhEUjM2N3FENHBrNEJlaU91elR6UmZFZjlxMWdPdHI5YnZIYmpMTkhv?oc=5",
+      "summary": "Amazon's Ring launches flying camera, autonomous security robot Reuters",
       "badge": "hot",
       "date": "2026-11-10"
     },
@@ -363,14 +427,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring introduces security drone and robot - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcllVNkowaEo2XzlacVU1WHFUamNjdzkyY1daQ1hMZmJzN1NOSkVQQzdyZkJ3eHNIS1FmRHRoelJOMXRlLS1oZ2tLVjlKeGpRbG9PRmNhNUJHdzdIX3dZZ2FybmR5RkxQeTAwMFROdjNRQ0U?oc=5",
-      "summary": "Amazon's Ring introduces security drone and robot Axios",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
       "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
       "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
@@ -383,14 +439,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
       "summary": "Ring announces Ring Robotics, ushering in a new era of security About Amazon",
       "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon's Ring is unveiling an AI-powered security drone after delays - Quartz",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OQkt3TWV6ZmdDWVZqT0diQ1Y0YTAxUVl4bHRqQ0RwTVo1RktNMWxURExMc29HUE9CcmZVRUZ1Nzk0ODFLOXRhYmZJb0pMMTh6c0FNZTlfeGdScUxkVTN4TjNzMHJfSmpCWENDRW54T0FnV0hab0tR?oc=5",
-      "summary": "Amazon's Ring is unveiling an AI-powered security drone after delays Quartz",
-      "badge": "hot",
       "date": "2026-11-10"
     },
     {
@@ -418,10 +466,10 @@
       "date": "2026-11-09"
     },
     {
-      "company": "OpenAI",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "company": "Microsoft",
+      "title": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnFGdmNoRlF5a2J2c1Bzd2ZSaW4ydjFuOTEzYWgybHR0VDJWZ2kzQ1ZaSVFhWEhsVnp2MHBVSHhrbmJ4LWgtbWlGeDdHWXJZRFc0VmRlQnhmV2VGdUJoa3pJeDFtSkoxRXdBMW01N0dfQUlNcjhPX2dEV21ickU4WV9CY2Rlci1SbmlvNEZhQmY0VVZiaFJxb05sRDRDcFo4SS1talBRVU5SSDZsbVZpeTQxQ01XSlo5RkVCSFIyLUxwVHhQNlFyYWlvbGRXajRnWVczQWozVQ?oc=5",
+      "summary": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog Microsoft",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -438,14 +486,6 @@
       "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses - CRN",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWNFOFd0N3h2b2JYX1BieDNLN3psRHFNQXp3Y2hiRzNUc2hnOUliaXMyMVBhSGNKZ2ZDUjVMWmI4dHdmbGh6NWx2Y0haUkFZOTVQdV9HSDFaMDQwVU44d2xsaklKU2JfOExfTVlmd0JaUGlmNFlyM2pycUNOTUZCZl90cURMem5VSzNZSFFwdWpTcGVNMUhTMmd0OXM1U0t6dk9vNkZaN2tIRERsWmc?oc=5",
       "summary": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses CRN",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnFGdmNoRlF5a2J2c1Bzd2ZSaW4ydjFuOTEzYWgybHR0VDJWZ2kzQ1ZaSVFhWEhsVnp2MHBVSHhrbmJ4LWgtbWlGeDdHWXJZRFc0VmRlQnhmV2VGdUJoa3pJeDFtSkoxRXdBMW01N0dfQUlNcjhPX2dEV21ickU4WV9CY2Rlci1SbmlvNEZhQmY0VVZiaFJxb05sRDRDcFo4SS1talBRVU5SSDZsbVZpeTQxQ01XSlo5RkVCSFIyLUxwVHhQNlFyYWlvbGRXajRnWVczQWozVQ?oc=5",
-      "summary": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog Microsoft",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -506,14 +546,6 @@
       "date": "2026-11-09"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI ads included unapproved discounts - Social Media Today",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdG9PMmI2X0sxODJNbndDRWJQTVZmWWdXRTVPbWxCY2xuY2tlMmwtbFJWTXVsbzZ0YmtpOUlCREhjUkxRVGU3YkdiRWgzalhwYWEySUo5bnA2cm9SdDJ1dlhBWkU4blRiOXFtdVVpdkIxd2NTSVlLRk5ma3VzTVNSbnJNRlZFemk2eFJSc25mdzVzQQ?oc=5",
-      "summary": "Meta’s AI ads included unapproved discounts Social Media Today",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
       "company": "Microsoft",
       "title": "Bill Gates Microsoft Copilot AI Predicts a DOGE Price Explosion - icobench.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjhaVi1ueE5IUzJKazhoRVNMTFVlSzgwdm5rRWtEWU5TMUtfajRZc1lGeEdxa21qb0Z4RTZORWNxNS1DdlZvWHd0M29yU3cwZkcwWk1TbF83SkN0ZURaN0tWQXpZQ0hKZnZUbi1VRHlmMktHT3hpNDNjY2xrR19YMXNhTDN0UVM5VXhqMWdxLVNIczFz?oc=5",
@@ -534,14 +566,6 @@
       "title": "Perplexity AI Predicts the CPI Data Drop on November 10 - Tokenist",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9STEZ0c0JPMTc4VVk2X3AtZ3JWOXhoSkFfZk9WNFBIakRXNFVYQjFaY0REdDEtUDFsY2VqdnNUaE9zY2cxZDNJWXhxcHgxalF3bmFfZUFqQ21QTWhxZlFERDVmOC1zTllyblhrMFpMc1ZqQmttVW9uWkRn?oc=5",
       "summary": "Perplexity AI Predicts the CPI Data Drop on November 10 Tokenist",
-      "badge": "new",
-      "date": "2026-11-08"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI Predicts How Secure is XRP Following Recent Ripple Security Incident - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0ctSmtZUVU1M3VxWm5OLWFTOEwyT0U0TzFlU3dRbkNwYTJ0aWZoVVE3cWh4WVZDMmRCY3cxTFlpTWpQNnJGYlBtYjdSejQwNDlvbW5aZ25LeEx2WG43eHZhZDdSX2p5UDAtRWQ1SnRRM2ttQ1FQemkwUEdmVklKbklhaXg3UFhMS0hmMnU1WDlKTlFRQ2dMYVdxd0dyN1lRUl9zVy1BVk1aaGlSXzkzWWhWV19IM216cU0zNC1Qb05pbno3aVgyY2J0Y3ZpU2Y0X0Zn?oc=5",
-      "summary": "Meta AI Predicts How Secure is XRP Following Recent Ripple Security Incident TradingView",
       "badge": "new",
       "date": "2026-11-08"
     },
@@ -567,14 +591,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEg0eW5XRUhEWEE5cEVqLXFfd0c5VE9xcVI1VGdEMlJ5dlU0N2RPSzJscC16SEpObEtqdlVEVklFaWRDQ0N2VnpVTGNwNVB5UmVjLVI5Y3QxOUxzSC1RMmx2SGRPSTJZdzFlMWQtQWxNeHVwZnVWTVZkeGg3UE1XWEpPenQ2NTVO?oc=5",
       "summary": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks Engadget",
       "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
-      "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
-      "badge": "hot",
       "date": "2026-11-06"
     },
     {
@@ -624,22 +640,6 @@
       "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ",
       "badge": "new",
       "date": "2026-10-21"
-    },
-    {
-      "company": "Google",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "summary": "TBD",
-      "badge": "new",
-      "date": "2026-10-13"
-    },
-    {
-      "company": "Google",
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "summary": "Overview of Playground",
-      "badge": "hot",
-      "date": "2026-10-07"
     }
   ]
 }
