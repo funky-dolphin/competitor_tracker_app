@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-10T22:44:19Z",
+  "updated": "2026-11-11T04:15:46Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Bankers Look to Increase IPO Valuation, Report Says - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
+      "summary": "Anthropic Bankers Look to Increase IPO Valuation, Report Says Bloomberg.com EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor Reuters Jim Cramer has a new warnin",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple TV introduces new Sign Language interpretation feature",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+      "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+      "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-11"
+    },
     {
       "company": "OpenAI",
       "title": "Helping caregivers use AI in everyday life",
@@ -35,6 +91,38 @@
     },
     {
       "company": "Anthropic",
+      "title": "Column | How to protect your brain from AI chatbots - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFM0ODE1Z2QzbThTMHhxdVZVWWF1bW5SemxodjBkT0VfbVU0UW5yeW1vS2tCbXdKZVdjdHJIMVo0cU5tS1NucHhGRmt0OHZnZmVqVDA2ZlVMY0hfR3FfQVp6Q0pwV0VTajlHT3VDMWR1d0dVM3dPMW9SQ2hObzZOOWx2bFRxRkRFc05JNnlnQ2hYMzVadGx3NEJvcGl3RFNGa0xkaldlT3NCZGNLUE01VDlmTEdRUVJtY1BwR3M1WlZpMnN4?oc=5",
+      "summary": "Column | How to protect your brain from AI chatbots The Washington Post",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How to participate in the Anthropic IPO - Fidelity Investments",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVFLMmFINVppZ09jYmdROFFLaFB5NF9aMTdTY3o2OHFNenVWWlJfTXV1T2FoWTdTNDRfMFY2RXFxV05icDdxS2phMmtrdkwxVnhfWHlFSTJxdlVFX0dZbVVmbXdJM1hVYnh0RVoybVhWbUZaNElhd2p4Q1NRMTNXbnR1LXdNbnNlT1YxaUln?oc=5",
+      "summary": "How to participate in the Anthropic IPO Fidelity Investments",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Microsoft tumbles as Anthropic unveils office tools ahead of IPO (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk5XZzZTN001ckRmLXd3cmt5T0dYMXBnYkd5aUs2dmMzcU9kNFlSYU5ZaFY0UVE3U2VVdGxzbnJoZVp4blJkMDMySktmWTFVZFZEU3YyeWRXeW1TSHNpQnFwMmNuaGYyVXRmakRsQ3lNU08xaVhrdGphSGNWdmZTeVlpWER6SW9VaW1PZzU5QWZMOGg1b1M2UDMxamE4MHl2RzFTRg?oc=5",
+      "summary": "Microsoft tumbles as Anthropic unveils office tools ahead of IPO (MSFT:NASDAQ) Seeking Alpha Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft Bloomberg.com Anthropic launches Claude Me",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030 - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0tWeGNDOUh5S1RleHBrVDlUdGNiRjktVDZGbmtRNlBUcXkwbDRfNXBuSXZ4Yk1NNVBOUTZXNDRlc09LdDI0VlpKMlFRMUVCaVh6VndVSWlwT2NkNElsc1JxUDVZUWFYZ2pWY3NFTFNKQm9fZnk1YkNTZWV6dnFVc2s0T2o?oc=5",
+      "summary": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030 Financial Times",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWplYjFtNjRwemt5Y0dEYV9Wem5ET3FLYXpQOFo0MWttT0hPOW5HN3BRM3hYZWU0YUYwdUJIemhKR0Q4aGw4dWxGbWZ6QlZZcHM3Sm5kMkZsaVVaOE1jOVJueHFSMERPS3lPZHptelZseENfMk0zeGlPUGtZODJEaUZuUmVYbXNucG1xVW1HZw?oc=5",
       "summary": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. The New York Times Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO Bloomberg.com Anthropic IPO could give AI stoc",
@@ -46,14 +134,6 @@
       "title": "Stifel CEO on Anthropic, Integrating AI and Fed Policy - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY01tZ3AtWmdjaGZlblpPQ1VTUXNzWlBWd1IzVTlCZHF2OThJcFV0dVZDU1VpNGdUalVBY2VjTFJ3SUMyRWdpZE1OMWdEdmxNcHExc2s1dzRMRTRZTi1Jd25yN2tzOTF3NzVWLVBueUExNDRfRFE2SE5WY2tFRWM2a3FvcThtVUVNdklzcm5EX055TmF6UjBxVWRDcFMxM1JiaVFsVGJXMEdNaDlH?oc=5",
       "summary": "Stifel CEO on Anthropic, Integrating AI and Fed Policy Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Column | How to protect your brain from AI chatbots - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFM0ODE1Z2QzbThTMHhxdVZVWWF1bW5SemxodjBkT0VfbVU0UW5yeW1vS2tCbXdKZVdjdHJIMVo0cU5tS1NucHhGRmt0OHZnZmVqVDA2ZlVMY0hfR3FfQVp6Q0pwV0VTajlHT3VDMWR1d0dVM3dPMW9SQ2hObzZOOWx2bFRxRkRFc05JNnlnQ2hYMzVadGx3NEJvcGl3RFNGa0xkaldlT3NCZGNLUE01VDlmTEdRUVJtY1BwR3M1WlZpMnN4?oc=5",
-      "summary": "Column | How to protect your brain from AI chatbots The Washington Post",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -78,14 +158,6 @@
       "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
       "summary": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom Yahoo Finance Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. The New York Times Anthropic seek",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Anthropic",
-      "title": "EXCLUSIVE: Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
-      "summary": "EXCLUSIVE: Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted Reuters",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -115,14 +187,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Bill Gates Microsoft Copilot AI Predicts a Crazy AVAX Crypto Move - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMk9vWFZMWlNtRFVoeml0S1Z3azU2eDFIU1VoOEJ2MlVNMGtRVDdTT1hqY1lNU3ljV3lOYUtnczlMaTAwRC1iMTJucXJLZXpwQmIxdEtRNzZCa3ktbXRULURVXzFaSk1OcWxyUk1KbkhRVFAwWUkzaXNwU2VDVjFWZWt3bnBPbGdUZG9XOF9YSElRV2F1alZCQTVvZks?oc=5",
-      "summary": "Bill Gates Microsoft Copilot AI Predicts a Crazy AVAX Crypto Move Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Microsoft",
       "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default - The Register",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHZMenBCVHdldnQyNHRRSllnVm9zb0VqM2NmUTd3M3RHX2ZtX3ZrdjJIRlpGeUFtNTRwRlV4eXgxdnFFSGloRFdaaWFET2s5RW42dzNnTGwwd3ZoYi1vNUVuSl80MXdqNjhDNndibjFUWkZQanZwUW1JTnl0ejY0ZTQyc3lEZ2NTZjRBZnM5c1pJR0JYaXkzUkN0dndDYmhZMkhVMkYxT0JaUjExOW5SV2psQ29CZTVLbWd6LTBtZWpXX2M?oc=5",
       "summary": "Microsoft is giving Claude the keys to UK Copilot tenants by default The Register",
@@ -130,42 +194,10 @@
       "date": "2026-11-10"
     },
     {
-      "company": "Apple",
-      "title": "Apple TV introduces new Sign Language interpretation feature",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
-      "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
-      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
-      "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
-      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
-      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "company": "Microsoft",
+      "title": "Bill Gates Microsoft Copilot AI Predicts a Crazy AVAX Crypto Move - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMk9vWFZMWlNtRFVoeml0S1Z3azU2eDFIU1VoOEJ2MlVNMGtRVDdTT1hqY1lNU3ljV3lOYUtnczlMaTAwRC1iMTJucXJLZXpwQmIxdEtRNzZCa3ktbXRULURVXzFaSk1OcWxyUk1KbkhRVFAwWUkzaXNwU2VDVjFWZWt3bnBPbGdUZG9XOF9YSElRV2F1alZCQTVvZks?oc=5",
+      "summary": "Bill Gates Microsoft Copilot AI Predicts a Crazy AVAX Crypto Move Yahoo Finance",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -227,14 +259,6 @@
     },
     {
       "company": "Meta",
-      "title": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZ3Z2VBaEx4aTdtVVkyTnV2aWZnSkh3TTY4V0FRc0RqZGZIS3NtYlV4VkIyWURNMk51Q09kaVZ6QmczMTR4ejdNb1BLZFZ2X3VhWW16VEo5OFBpd0YwR1FKckdwMkV1bDRjaTlIN2o2ckVjOU5UTG8tdG9RSVZyS19DcV81UU85MXdzRFVUTURHQnRtYUFHOXlIY2xSRUZHcFd5R01idnFhQ19JQWRpNlRCY3VfOW8?oc=5",
-      "summary": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome TradingView",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Meta",
       "title": "Meta Warns Some Of Its AI Glasses May Get 'Too Warm' If They Get Wet - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0hDakR6VFdYZ2o5ZTY4NXF3NjFGOVY2Z3BIUl9fUDFCTXROX2hwVTBJTGlfRDZnUV9YdTg4MjI1U0dEZ0RySkFFWXZ5aXhTVGh0SjZDQVpobjBUUHI3UVBORU84TFI2aDlhZUEzRDhwNWhMVGZhX2RyOGp6MVcza3lPbnlpaGNpdnU5azNWOFI0blJpdXpnUWZ2cVJxaUNxLVE?oc=5",
       "summary": "Meta Warns Some Of Its AI Glasses May Get 'Too Warm' If They Get Wet Engadget",
@@ -242,26 +266,10 @@
       "date": "2026-11-10"
     },
     {
-      "company": "Amazon",
-      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
-      "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
-      "badge": "hot",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon’s Ring debuts AI-capable flying, ground security robots - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUVSWXlLYXJUX0V6bEtJVzh2TjNRSWFFU3dTdWxJRDduQ295VGRpZkFYdWZmbWxSandRTmNJM1lSbkZmTmlkR1NyNjJJcGZEZHU4OWtFTnJzWmQtSExPa2tsQTUtbkhmT1VmczlNdDF2MllqMUZxaDB3bjBnbTRZOGtvZU5YLVZybUY3ZnhkbVR5QURRdGoxeUtvUktFWGlIRlBSekxXekxhVDNBTlNV?oc=5",
-      "summary": "Amazon’s Ring debuts AI-capable flying, ground security robots Washington Times",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring announces Ring Robotics, ushering in a new era of security - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
-      "summary": "Ring announces Ring Robotics, ushering in a new era of security About Amazon",
+      "company": "Meta",
+      "title": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZ3Z2VBaEx4aTdtVVkyTnV2aWZnSkh3TTY4V0FRc0RqZGZIS3NtYlV4VkIyWURNMk51Q09kaVZ6QmczMTR4ejdNb1BLZFZ2X3VhWW16VEo5OFBpd0YwR1FKckdwMkV1bDRjaTlIN2o2ckVjOU5UTG8tdG9RSVZyS19DcV81UU85MXdzRFVUTURHQnRtYUFHOXlIY2xSRUZHcFd5R01idnFhQ19JQWRpNlRCY3VfOW8?oc=5",
+      "summary": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome TradingView",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -275,9 +283,41 @@
     },
     {
       "company": "Amazon",
+      "title": "Amazon’s Ring debuts AI-capable flying, ground security robots - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUVSWXlLYXJUX0V6bEtJVzh2TjNRSWFFU3dTdWxJRDduQ295VGRpZkFYdWZmbWxSandRTmNJM1lSbkZmTmlkR1NyNjJJcGZEZHU4OWtFTnJzWmQtSExPa2tsQTUtbkhmT1VmczlNdDF2MllqMUZxaDB3bjBnbTRZOGtvZU5YLVZybUY3ZnhkbVR5QURRdGoxeUtvUktFWGlIRlBSekxXekxhVDNBTlNV?oc=5",
+      "summary": "Amazon’s Ring debuts AI-capable flying, ground security robots Washington Times",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
+      "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's Ring introduces security drone and robot - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcllVNkowaEo2XzlacVU1WHFUamNjdzkyY1daQ1hMZmJzN1NOSkVQQzdyZkJ3eHNIS1FmRHRoelJOMXRlLS1oZ2tLVjlKeGpRbG9PRmNhNUJHdzdIX3dZZ2FybmR5RkxQeTAwMFROdjNRQ0U?oc=5",
+      "summary": "Amazon's Ring introduces security drone and robot Axios",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
       "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
       "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring announces Ring Robotics, ushering in a new era of security - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
+      "summary": "Ring announces Ring Robotics, ushering in a new era of security About Amazon",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -346,30 +386,6 @@
       "date": "2026-11-09"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5",
-      "summary": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds CNBC Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears Yahoo Finance Claude can design e",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVlpNjBPSk5CcWpIVmc4RnVtUmsxT00wUFVZTXNrYzJqU2w1VGFoUUlUVS02TXVDODhpanJQSUlrNEUzLUo5c0czMXRaYVdSUzdubzBSTG5lVnVEUUE4bW9HSmVHZGV0ZVhYazJsOWw1WDdLMzYxRU1BaEVfbWpWTWtkTDZhakdWd1l5aU1DZk1abDJKY1JRM1VHQnU2Snl5X2xCMHQwaXJ5bWJxYzZPMFFybnlXOWhGSlByeGFDRXZGY291RzJkeW01dHN2a3Fsd0Jn?oc=5",
-      "summary": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' Yahoo Finance Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why CNBC Anthropic is one ",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic must face lawsuit over Claude subscription marketing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5",
-      "summary": "Anthropic must face lawsuit over Claude subscription marketing Reuters",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
       "company": "Microsoft",
       "title": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemxSZE5kdG4yUDJPQmpqZGs4Um5FMDJWazIzWUhmby1HaVpmRDdhMFpVWFU3blBhYk1oSkxQZ255RE1WRDVuYXk1d0VnYkEtaGRPNTZ1MlYzUXdVSzVWWlFKVWdnQWhMd0lGdVlWVWdycWV1cUxEa1RKNUtRSmV4dmdBWndrRnJxUlhfbUlBbURSZFZPOWhXZHFGYmk?oc=5",
@@ -382,6 +398,14 @@
       "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses - CRN",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWNFOFd0N3h2b2JYX1BieDNLN3psRHFNQXp3Y2hiRzNUc2hnOUliaXMyMVBhSGNKZ2ZDUjVMWmI4dHdmbGh6NWx2Y0haUkFZOTVQdV9HSDFaMDQwVU44d2xsaklKU2JfOExfTVlmd0JaUGlmNFlyM2pycUNOTUZCZl90cURMem5VSzNZSFFwdWpTcGVNMUhTMmd0OXM1U0t6dk9vNkZaN2tIRERsWmc?oc=5",
       "summary": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses CRN",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Microsoft",
+      "title": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnFGdmNoRlF5a2J2c1Bzd2ZSaW4ydjFuOTEzYWgybHR0VDJWZ2kzQ1ZaSVFhWEhsVnp2MHBVSHhrbmJ4LWgtbWlGeDdHWXJZRFc0VmRlQnhmV2VGdUJoa3pJeDFtSkoxRXdBMW01N0dfQUlNcjhPX2dEV21ickU4WV9CY2Rlci1SbmlvNEZhQmY0VVZiaFJxb05sRDRDcFo4SS1talBRVU5SSDZsbVZpeTQxQ01XSlo5RkVCSFIyLUxwVHhQNlFyYWlvbGRXajRnWVczQWozVQ?oc=5",
+      "summary": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog Microsoft",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -514,26 +538,10 @@
       "date": "2026-11-06"
     },
     {
-      "company": "OpenAI",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
       "company": "Microsoft",
       "title": "Copilot is coming to the reworked Windows 11 search box, but Microsoft claims it will be an 'opt-in' feature - TweakTown",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGxfTXljY3ZwV3lmWG96SDZVb2F4RTJOQjdXWUZYNWxCRGl6R2Rsa3ZqV25oZGxaYXNHaWtlRmFLRTgyNm1YaGhTVTNVUEpTLWVjeDN5VFN2UzlIb09fOWh2dndWZnZmTUVhN0RMbnFfSmJuV203X0J0SE1RMEVleU1iNmtiT0pvcnprMG5mckZWNGpDMkZZUTljY2ttT2pmT3loYzJGRy1KWDZ5WGxvYXlYS1RXd01VMXR5Vm9iUVFaemdvRjZhd25fdGFRRjhOUmpVRGpGMjJTRTRjbHJlVzhzVVd0alQ1S1E?oc=5",
       "summary": "Copilot is coming to the reworked Windows 11 search box, but Microsoft claims it will be an 'opt-in' feature TweakTown",
-      "badge": "new",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Copilot now reconciles your accounts. Who signs off? - Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbm85eUxyMW9HTjRhckdhbkltY3VqSGZDR0ZPWjBlaGRBNWpFTExidzVyN1pWaUdwM2JxRmhpYzZFWDV2dFp1RTdtNVg1X3hoVDJ5ejdibXdjcXRFdXdxMTRpX19Dem8xTWlvVTN1WUR0a0Z4Z2dhVHdYUXpBX29HXzZ0T3dkN2J1TlF6U1ZR?oc=5",
-      "summary": "Copilot now reconciles your accounts. Who signs off? Jamaica Observer",
       "badge": "new",
       "date": "2026-11-06"
     },
@@ -559,14 +567,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkxWWVpibXNmcC14aEVtYnJRQ0pxQjl5Tkh3U0F2b0RtOFpjckJ4elduLUdPUmJTamdRbHFtZ19VVENwUnlWWWZDWFdvOGI1bmROUFlUS0FDSjItQVdCb01WTi1TMHRqaEp3Y3BQTWs3SU12c05MX0tUZEkwMjJ6WlVBakZGdy1WcG52amxIaTYtbGJD?oc=5",
       "summary": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work TechRepublic",
       "badge": "hot",
-      "date": "2026-11-06"
-    },
-    {
-      "company": "Amazon",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWJMYnMyWXROcDR6c1FIN3dLdUN1QkduYm9ROWhtbnRUeTZpVDlEOFJSSTI5NEpUN1V2Z2ZORmN0YzFqSTlQMWNpZDZjZENqUWRCcnQyWTBHNDdkNmpxMjR0Zi1RdGs2SDZkM29pcjNEMTBSOGl0amJ2cWkxMG41SllxTVNyR1BCNU12NFVVRkJfaDF5UWR1Vk5ZSy1pbXAtRHM2c2thRFE?oc=5",
-      "summary": "After blocking Muse, Amazon now lets users text Alexa to help them shop TechCrunch",
-      "badge": "new",
       "date": "2026-11-06"
     },
     {
