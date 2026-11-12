@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-12T14:46:39Z",
+  "updated": "2026-11-12T23:05:57Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
     {
       "company": "OpenAI",
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -29,7 +37,31 @@
       "company": "Anthropic",
       "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
-      "summary": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg.com Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans Yahoo Finance Anthropic IPO: Buy, Sell Or Hold ",
+      "summary": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg.com Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say CNBC Stock market has a 'worrisom",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5",
+      "summary": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges CBS News",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development Reuters",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "summary": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race Politico",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -66,6 +98,46 @@
       "date": "2026-11-12"
     },
     {
+      "company": "Google",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft outage sees Teams, Outlook and Copilot suffer 'connectivity issues' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96LUE5dHZZQnk2dFR3ZjRsLXpJT0NTS0gyaGM3NW9sVVJ3TG1Ld1BnVGNRNlRNa04xTnVIalJSYWFVQ2lkTUlVRlROQmFSRGhhUUdtbTY4U3lPMlE?oc=5",
+      "summary": "Microsoft outage sees Teams, Outlook and Copilot suffer 'connectivity issues' BBC Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region' Yahoo Finance Microsoft says it’s work",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
+      "summary": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 Microsoft Source",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft wants developers spending less time fixing AI mistakes - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYkRNZ3lweDVvdUpQLWktajI3emVoZDdMWXkwNlVFUGxTUDhNa0xrd2gyU0lvQ3ZZR252YUxFQ2NiTlFOTWtGVGh0T00yOS1FNndpclJuNTBzMkdQdXQtTmZmb01Qenl0Sm0xd3RNWU9CejJnenNTV202STJkdWk4Wi0tbFJfbHJVS0hsaXAzdlVTR2w5M2RUMGtnNlRTbVdpQlBoX2Mta0ZoRHVJc3IzeU9sa2FPZkZTU3Y2WHFsaEMyUDlPWThpdVdobTdoOVlyUGh0RGstdktLaEltVFlfM3ZLdVR6Z3Z6a1duRnRDMXpFb25tdUJ4VGpmOTFfOVU?oc=5",
+      "summary": "Microsoft wants developers spending less time fixing AI mistakes Windows Central",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Is Microsoft Outlook down? What company says about Microsoft 365 outage - The Providence Journal",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUy01ajdJWmxKTlJxWFdib1NSV2xmb1Nwd3I2a1M4V01vdXdDUGJLdUNyOTNJaWJxMlp0UWd6cFRKQVNBVzJYbnRjTlJVRmxaZ3RUSG81QXFRVHZXSGNha0czVFFKR3RGUzhac1JsTzV6ODhKU0tNS0t3NUJ2T0NGMWtvWkZLNTRRczBXMFZaYWsyc3FrWFJTb1l5X2VULUM0QnZ4TGQwaGtaLUFkclUxVFg2c2tXNkxXZnJFWVJSNHVBNDR0SE10T000cWdSdHhvTTViel9uYUZzcFh0X3VQRldjSC13aExUY1ZKQS1keW5FTXI1?oc=5",
+      "summary": "Is Microsoft Outlook down? What company says about Microsoft 365 outage The Providence Journal",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
       "company": "Microsoft",
       "title": "NFL Week 10 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVhHcno2NnUyMFNzZlhON3JHS3BmVllWSW94eE96bjNZa2RjZTVMaDV1VkhWM3B1dW8yMHdsMS1oMWFGbmtraVVSaDBKaERsTWs3WXhjV2ZwWEtLbXZtMGs2TTh6eW5jcUZXLVM1ejRzd1Y3WFVYQmFwMXpZUGdIUWJDSVFJcXh1Y3pIdW5WQ1VLY1ROS0N0azZRc0xBR0kxUVJwSVFn?oc=5",
@@ -78,14 +150,6 @@
       "title": "Microsoft's CEO says AI copilots will change every profession - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0dhYUl3Ry1zanBoNGdPM0FVSUV4U2tPQ3JjMV9VM3FKSlJfX2FxMFV6YjJTVktGRzJXaTVoRUg5MFNIWWl6alJfWlBGLXR2bS1fRXlBNmtvZGg2ZzZKTVQ3ZHpNeGRZRmI2VkxialJGMlpWRFB6SFR6ejNLN203UkxrT080a3M?oc=5",
       "summary": "Microsoft's CEO says AI copilots will change every profession Yahoo",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
-      "summary": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 Microsoft Source",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -131,9 +195,41 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity AI sued over undisclosed usage caps on paid subscription features - Top Class Actions",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY256QV83NXJIbkptX25yb2dPdldqUHU2YXVBYmJPZWNJalktSkhjdkI0aEdBbkY3b0dJakU3V1l5SEo5WGxxVkxtZ2NPY28tbXZSbGFzU0pPWXQ1N3M3c2ZlSUd4T0Y0dGRIMG5wQlZXNEhhdDYwQ2lrWmhYbU5uY3NVbVZaQ19abzF6WTYxbVEzdldyOFBQa2VLam84bzlYNFJ2ZS1UdlY0ZTE4dkYtbm5HSEpnWlhaaXZQQXp2UHlQbnhHcDU5SkZPLTg0SGxyaUYzQg?oc=5",
+      "summary": "Perplexity AI sued over undisclosed usage caps on paid subscription features Top Class Actions",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW03YTl1TUZGRzZ6bGtTRkk5SkZOMXNlemlJdmUzZUNfbG5tczg5ay00SU5IemlkWEtZM2hYSHNkcktWMmNaX1prMVV6SGhVWi15MU9yMXRZeUhRLXJ2aUJLNENUR085cEZIdFJoWHREQ2hrUXdFWFc5TVNCSlgtVTBvaXZUQU1Za05DRHdua3ptQThNeGRBeUhTYmFJZw?oc=5",
       "summary": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "AI chatbots are recommending fake retail websites, study finds - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXVBU2sxNWh5eHhiaG9kM2dtR0xXZmhwc0w2a3ozWmVMQ1hmQnc3NG9tR2FUazVRYW5jQXFRaUpLQlFyT1JGM0lMYTVxOU1oNGgwZ0E4eFgwdWUtR243Tk81WHVXV3FiY0V0b1dlVlFvUHNpWGVoOHBzbllXREJBd21LV0lOdWNPZzB4QnBrVVpmUVN2OHU5b3FHLTVBTWt4cUQ5SFRFeU5DUEFrcFV2elJFdzFFRC0yT25RR1FFQjRpbW91NGVvYg?oc=5",
+      "summary": "AI chatbots are recommending fake retail websites, study finds The Verge",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Podqi study finds ChatGPT, Gemini and Perplexity send shoppers to fake stores - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHpkSkVuZ2NNenRybzUxV2p4Y3hBWk9pZEVZZWJWYXRoYkxMRnd0TFVSUE9CcWFYQ2Uza3lBMGhOYjg2OFlQajVUbTNYbWZPUmt1VWtYSkRKTzVIWWhDbGhwZDVhZlZLdlYxMkt2NUF4UE5weGNhcEF1UU03WFVHaDRMdWFfM2JKR2ZXdWpBT2FkSFlpRGpidksybExrc2tER2pfNXhfUQ?oc=5",
+      "summary": "Podqi study finds ChatGPT, Gemini and Perplexity send shoppers to fake stores Startup Fortune",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity Releases Decider V1.3 Models with Text-Span Extraction - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnJMWGZES2haVFFEQ3VLc1ZSNnJaQURRVzRxQmVyZmtNUU9qdUhLTUJOT3R2akVHS1Q2OG1kZ1BZZnEtSXVPSjNRcmZFX0RqV3F2SDlxbUZseVZ4Q3lYczEyaGQtUFN0S2lRUF9nSmQ1ejlZVXg1VUZaMkpMcWxTbXNia25MSy1rWm1SYUh1aEE?oc=5",
+      "summary": "Perplexity Releases Decider V1.3 Models with Text-Span Extraction Unite.AI",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -174,30 +270,6 @@
       "title": "Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlQ4NldHMG5hNlVnay14bFh4QlBweEl3eDVoQVc1Xy1yUW1MV2pTWUdiTXFlWFIzVUdNQjRGT3RiamVmZTBqYjRjWWZqcjhzNmlMSzA0cTNVd3lQQ1ZMU19sSVA0b3M1R2VGbmROZkttQzh3a3JaVERuVnVsTVFmSDVmb2tKUDJkOGd5cWp2dVhTejFqRFVXNjdYd2hQMWJPWEo4?oc=5",
       "summary": "Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans Yahoo Finance Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg Jim Cramer: This is the bet you're ma",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWoxVUJ4SmRSWjYzNFNsNVBwV1hfUEVtMlVZSmVSY3pibDdFaUVXbHVrVXNuRFR3b3RMS0o2TVpERVVmbU8yemRBNVpULW1WdjZoRVJ2bVFGbUJDZU1zMk5KcXpLUGJWd0JWcV9xamJmRG00TDJUTjJFV2VwWVVsS2FtUzFMUQ?oc=5",
-      "summary": "Micron Technology (MU) Commits $1 Billion To Landmark AI Infrastructure IPO Yahoo! Finance Canada",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWhFb0Z4UU5tNk9GTTVCYW9hallXVDZiRkhNMjFubzVVbmt1RXY4ekdtSFdZSTV4cEhqYkNrMlM0TW9keklFMHBOUDVzTTNhNXhJX2ZuVWRjSTFheURwb1NlU1F5b3Q0SXJWaGdzMzlEZHE5N3UzeE5jSzJIbkpoc2tqdkNKZG0zczBSYndTNm5GUFVUeEM1OHB2LUlnRktreFhueUxleGRwTWp0S1RZcWFQRQ?oc=5",
-      "summary": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In Bloomberg",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
-      "summary": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI Ars Technica",
       "badge": "new",
       "date": "2026-11-11"
     },
@@ -403,17 +475,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI age-check goes global: Can it protect teens? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVpwWDhZeFc0RkEyLUlpZzJvWlE0dlBTMHVfM1RuV0RFNkVvbGU5V3pHMkFJTmt2UXB5NzVObVJhVEVZbDFVQzdaZ2MzTGxDLTN4eXlnYk45dDZCNEpDOW1TbDFhMjgteWtxWWNTSnhTUEtHUHBISTQzNXFKSTkwY0plTE54N2lKei1HNE0yVk9IQUVXOXNrMNIBngFBVV95cUxPZU1aTGRnZGtwRjh1S016Y2lQVGhjeXNTZEE2VENzMUdKeDZWek4xaG5weFdqdGRPX0x6ZERFN1dsdGZkZmFURi1kTWRCUVJuUDF1R2g5R1U3eTlsQm9PSGttcG8yd0paYUxEXzhMOFJaTTlGZ3V4Rm9oVHNYUklnMG95WFRDVGI3Mk55aHJnRzgzdmFIN1JmalR6Y3l5dw?oc=5",
-      "summary": "Meta’s AI age-check goes global: Can it protect teens? Al Jazeera",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5",
+      "summary": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch",
       "badge": "new",
       "date": "2026-11-10"
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5",
-      "summary": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch",
+      "title": "Meta’s AI age-check goes global: Can it protect teens? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVpwWDhZeFc0RkEyLUlpZzJvWlE0dlBTMHVfM1RuV0RFNkVvbGU5V3pHMkFJTmt2UXB5NzVObVJhVEVZbDFVQzdaZ2MzTGxDLTN4eXlnYk45dDZCNEpDOW1TbDFhMjgteWtxWWNTSnhTUEtHUHBISTQzNXFKSTkwY0plTE54N2lKei1HNE0yVk9IQUVXOXNrMNIBngFBVV95cUxPZU1aTGRnZGtwRjh1S016Y2lQVGhjeXNTZEE2VENzMUdKeDZWek4xaG5weFdqdGRPX0x6ZERFN1dsdGZkZmFURi1kTWRCUVJuUDF1R2g5R1U3eTlsQm9PSGttcG8yd0paYUxEXzhMOFJaTTlGZ3V4Rm9oVHNYUklnMG95WFRDVGI3Mk55aHJnRzgzdmFIN1JmalR6Y3l5dw?oc=5",
+      "summary": "Meta’s AI age-check goes global: Can it protect teens? Al Jazeera",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -460,6 +532,30 @@
     {
       "company": "Amazon",
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB0gGrAUFVX3lxTE5SRy12VkFNOXkzZTN6TGVMd2dLLXpHUGU1Qy1sbEpzbTdOV2hUb1A0bXgtN19IdnUtdnp0TzI1Q2JyX0lhNHpBNDVESm9RcmVmQ05UV2hwU0MxWWJ1a3BYcE5PQnZuZVRlMkd6bnJOQzJEOEpNelBBVE9lTlk0U2tOR05DaG5XY3Y4NW9vX19IcFNHZmZMOWVOZXAxT3dXbXhNVW1NOTFYUmE1aw?oc=5",
+      "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
+      "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
+      "badge": "new",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
+      "summary": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses Beinsure",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
       "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
       "badge": "hot",
@@ -475,14 +571,6 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
-      "summary": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses Beinsure",
-      "badge": "hot",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
       "title": "Amazon’s Ring debuts AI-capable flying, ground security robots - Washington Times",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUVSWXlLYXJUX0V6bEtJVzh2TjNRSWFFU3dTdWxJRDduQ295VGRpZkFYdWZmbWxSandRTmNJM1lSbkZmTmlkR1NyNjJJcGZEZHU4OWtFTnJzWmQtSExPa2tsQTUtbkhmT1VmczlNdDF2MllqMUZxaDB3bjBnbTRZOGtvZU5YLVZybUY3ZnhkbVR5QURRdGoxeUtvUktFWGlIRlBSekxXekxhVDNBTlNV?oc=5",
       "summary": "Amazon’s Ring debuts AI-capable flying, ground security robots Washington Times",
@@ -490,58 +578,10 @@
       "date": "2026-11-10"
     },
     {
-      "company": "Amazon",
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
-      "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Ring announces Ring Robotics, ushering in a new era of security - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
-      "summary": "Ring announces Ring Robotics, ushering in a new era of security About Amazon",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
       "company": "Microsoft",
       "title": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnFGdmNoRlF5a2J2c1Bzd2ZSaW4ydjFuOTEzYWgybHR0VDJWZ2kzQ1ZaSVFhWEhsVnp2MHBVSHhrbmJ4LWgtbWlGeDdHWXJZRFc0VmRlQnhmV2VGdUJoa3pJeDFtSkoxRXdBMW01N0dfQUlNcjhPX2dEV21ickU4WV9CY2Rlci1SbmlvNEZhQmY0VVZiaFJxb05sRDRDcFo4SS1talBRVU5SSDZsbVZpeTQxQ01XSlo5RkVCSFIyLUxwVHhQNlFyYWlvbGRXajRnWVczQWozVQ?oc=5",
       "summary": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog Microsoft",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses - CRN",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWNFOFd0N3h2b2JYX1BieDNLN3psRHFNQXp3Y2hiRzNUc2hnOUliaXMyMVBhSGNKZ2ZDUjVMWmI4dHdmbGh6NWx2Y0haUkFZOTVQdV9HSDFaMDQwVU44d2xsaklKU2JfOExfTVlmd0JaUGlmNFlyM2pycUNOTUZCZl90cURMem5VSzNZSFFwdWpTcGVNMUhTMmd0OXM1U0t6dk9vNkZaN2tIRERsWmc?oc=5",
-      "summary": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses CRN",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemxSZE5kdG4yUDJPQmpqZGs4Um5FMDJWazIzWUhmby1HaVpmRDdhMFpVWFU3blBhYk1oSkxQZ255RE1WRDVuYXk1d0VnYkEtaGRPNTZ1MlYzUXdVSzVWWlFKVWdnQWhMd0lGdVlWVWdycWV1cUxEa1RKNUtRSmV4dmdBWndrRnJxUlhfbUlBbURSZFZPOWhXZHFGYmk?oc=5",
-      "summary": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "'Opt-in always becomes opt-out later': Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra — but users are skeptical about where Microsoft is going with this - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzV1TmtOT3N4WFZWRVcyNnVlSlBjNmFFYVVySjRMcnJsVjNhQ1ZuWGZsMW5Hdld1eTNhSDFnOE9TaUtjcHROZE0tc0N0NC1tcmtRTFBGZGl6b2dBOXM5aE9paWY1OUVENHVPaVVoNkctYWNDd1ZNVVlPRHFRMlh1dmRQOHBMRWUtYmpPbmQxc1BqQ3FibHpSbU9IcWRPUTdNLWRyemtRaHRTYV9XUzUwX1NISU1RWlAwakM0SFJteUlwNVVTcVhfMGljbWxIQndzYWIzYldabUNRTFlIYm9CQ1hCS2I5NVlrZTBzSXB4SW9Sb2pRU0lCal9RTQ?oc=5",
-      "summary": "'Opt-in always becomes opt-out later': Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra — but users are skeptical about where Microsoft is going with",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -554,44 +594,12 @@
       "date": "2026-11-09"
     },
     {
-      "company": "Perplexity",
-      "title": "Aravind Sviniras Perplexity AI Predicts a Mega-Bullish XRP Price Move - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU03dlpySjRfZ0JhMmY2TkItcXVWaXBDcUZnRmFySGZ5UnBsdmhQLVpHWFYweVMyOWR6S1FaY0VVdi1ndTJ6amdTSU1FRm0wNXM4c2RTeWZIdnBpOVJldjk0UldPWjVuMGlManc1aDF2djRtbG13Y3FBSFNyT2JqNVBXYy1ib294NURvTnRB?oc=5",
-      "summary": "Aravind Sviniras Perplexity AI Predicts a Mega-Bullish XRP Price Move Cryptonews",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
       "company": "Meta",
       "title": "Meta AI glasses can get too warm from water and sweat — update right now - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5",
       "summary": "Meta AI glasses can get too warm from water and sweat — update right now Tom's Guide",
       "badge": "new",
       "date": "2026-11-09"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity’s AI agents keep working after you close the tab - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NOHRPWU5DTjFiWU8yTFVBWGNKYk9vc3hCbjRpT1BEOE1rNWpUdWp4ZkZZMGFCR0tjdTRURGVGUUdNLVE5bF9qWDJjb1FxUjl2NjExNXdJVGJFQVZja1gxNTJEN2phNUV6QzM3NHdXSXdNZw?oc=5",
-      "summary": "Perplexity’s AI agents keep working after you close the tab The New Stack",
-      "badge": "new",
-      "date": "2026-11-08"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts the CPI Data Drop on November 10 - Tokenist",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9STEZ0c0JPMTc4VVk2X3AtZ3JWOXhoSkFfZk9WNFBIakRXNFVYQjFaY0REdDEtUDFsY2VqdnNUaE9zY2cxZDNJWXhxcHgxalF3bmFfZUFqQ21QTWhxZlFERDVmOC1zTllyblhrMFpMc1ZqQmttVW9uWkRn?oc=5",
-      "summary": "Perplexity AI Predicts the CPI Data Drop on November 10 Tokenist",
-      "badge": "new",
-      "date": "2026-11-08"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQml1cU1wbk82QS1yRWxqMmJ5cG00ZmZLZG1EZElpSWtRNGNVYUFnSzVqZUJ5RHN4OTBpN0QzNEdlT2dzLWt2YlFKWlRyc19kdVZvSzFpMU1RYWpxTnVTOHl5R2p6VmIxU0RwMVpNb2FDUkJtR0xoRnBHT2R6U0xuZmRMQ18zaUVUVXVwcDJCM25mNVpRdkE?oc=5",
-      "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? PCMag Middle East",
-      "badge": "new",
-      "date": "2026-11-07"
     },
     {
       "company": "Google",
@@ -632,14 +640,6 @@
       "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
       "badge": "new",
       "date": "2026-10-26"
-    },
-    {
-      "company": "Google",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ",
-      "badge": "new",
-      "date": "2026-10-21"
     }
   ]
 }
