@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T05:57:50Z",
+  "updated": "2026-11-12T14:46:39Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
     {
       "company": "OpenAI",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -11,9 +27,57 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
+      "summary": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg.com Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans Yahoo Finance Anthropic IPO: Buy, Sell Or Hold ",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Yahoo Finance company of the year: Anthropic's AI dominance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWpONjRvUThBcmNQamEteXNqa0V6cC1Cb2Zkalg4ckVHbmxuSWZ1Vk9xNHNIZ3YyNV9hbXpPZTl5MkN4VXIyQzZZdWlIV2s5TjhuRUt3UVo5YXNWa3VHSTZ5NEp5d2NZWXYyUVhwbXlneHJOQnBpVGxYX3FteXdrOU1tNjMwRXIxcmJUcjVfcTI4WDkyQ096c2daTTVraERlTVNnNVdNakw2dFBLWUZsQ0YxblNDT0c5?oc=5",
+      "summary": "Yahoo Finance company of the year: Anthropic's AI dominance Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5",
+      "summary": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study Fierce Pharma",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Can the AI boom make enough money to sustain itself? - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNi1Qeks0dFhUY3VJZ0FHOXdZSERPMmdLTVFGbEo1a2dNaF9LRXJSeVdxcDFDM2pBSHlfTWxLUktjRmFGVGFtS3BEZEM4WkU0dkNPMmFKWTUxX0x3bnF0OWFoZ2x1MURHcUotTFE4QzFCdkZ3R1RzTVpDV0lrbUVZMm1WRlhma01Ma2J2SXhVV2VmektMMnNYclpBZ1pWdw?oc=5",
+      "summary": "Can the AI boom make enough money to sustain itself? The Economist",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Anthropic",
       "title": "Meta's AI Bot Won’t Revolutionize Your Finances - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWJmZ01vZE41aVVUeFA2VTZyVVNFeHBLMFctdVNfd0hieVNON1gtb1gxZl9zbDNzOVVQUGNfVVd4OHd5UVltQ3hRRUZzZzdsRWtyMmRFcEp5elczUk40X0hDYm1BRlRrckwwZFlZUFB2c3gyMmI3WDE3a2pSVTMzdVA3T1BrcERmdE50N3diUkRhVk0taEZ3dVZQWEZtdFVyUVFDZHdtRXJReENwTmxwenBHMC1WaUU?oc=5",
       "summary": "Meta's AI Bot Won’t Revolutionize Your Finances Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "NFL Week 10 predictions by Microsoft Copilot AI for every game - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVhHcno2NnUyMFNzZlhON3JHS3BmVllWSW94eE96bjNZa2RjZTVMaDV1VkhWM3B1dW8yMHdsMS1oMWFGbmtraVVSaDBKaERsTWs3WXhjV2ZwWEtLbXZtMGs2TTh6eW5jcUZXLVM1ejRzd1Y3WFVYQmFwMXpZUGdIUWJDSVFJcXh1Y3pIdW5WQ1VLY1ROS0N0azZRc0xBR0kxUVJwSVFn?oc=5",
+      "summary": "NFL Week 10 predictions by Microsoft Copilot AI for every game USA Today",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's CEO says AI copilots will change every profession - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0dhYUl3Ry1zanBoNGdPM0FVSUV4U2tPQ3JjMV9VM3FKSlJfX2FxMFV6YjJTVktGRzJXaTVoRUg5MFNIWWl6alJfWlBGLXR2bS1fRXlBNmtvZGg2ZzZKTVQ3ZHpNeGRZRmI2VkxialJGMlpWRFB6SFR6ejNLN203UkxrT080a3M?oc=5",
+      "summary": "Microsoft's CEO says AI copilots will change every profession Yahoo",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -62,6 +126,22 @@
       "title": "Apple reports fourth quarter results",
       "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
       "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW03YTl1TUZGRzZ6bGtTRkk5SkZOMXNlemlJdmUzZUNfbG5tczg5ay00SU5IemlkWEtZM2hYSHNkcktWMmNaX1prMVV6SGhVWi15MU9yMXRZeUhRLXJ2aUJLNENUR085cEZIdFJoWHREQ2hrUXdFWFc5TVNCSlgtVTBvaXZUQU1Za05DRHdua3ptQThNeGRBeUhTYmFJZw?oc=5",
+      "summary": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Glasses Can Overheat When Wet: 5 Models Need Update 130 - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2hnX3hzaTlUbVNyS2NYREEtM3FDbHllN2pBZER4WFJPY1p1X01BSGFTdW9OOTNIZ1lkaEJEbEs0cXZoVEprZW5rVmZvQW9XZVdZMmJZRzVQOUcyckZUNGtVNG9QZUI5Vm5xZDY5dm16UW9ySmFoakxSOXNkaUc5dmlYc2lmNXd2?oc=5",
+      "summary": "Meta AI Glasses Can Overheat When Wet: 5 Models Need Update 130 TechRepublic",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -118,38 +198,6 @@
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
       "summary": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI Ars Technica",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The AI industry's week from hell - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5STzlCTEFvX01KVHZJZGRLM2NnQzVyTV9CQjNYT3dqWDBUZmlRdVpNVUIxNWp5TVRZV1lrcjctR0NqZjRTQ2xsWGktN3dVQU1MazM1UTF2SGMxNUlxMDVDNmZJOTVuQkxXNWh3Vi01ekt2RzA?oc=5",
-      "summary": "The AI industry's week from hell Axios",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI Bulls Return on CoreWeave, Anthropic and OpenAI Buzz - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDVyVXJLM0xoWXpxLVcxOElGUThIVndBSU9MekRDTF8wc0pBcnpHZER2V0VKSlhnQnJBdjZSZF9aM1pTcXVoSGhEalNMTUNxaDMxbUNVTk5ONGJQS1ZHRmRtWVhiOEI1QzNTNEdQWFpSZnR2bkgyTUJ1T1lRN0U1ajNiLXhmc2JWMnpkczFHaXZmTXlmaVBhS0dMVVZ6UkhrQzVicGZya19ZMnBu?oc=5",
-      "summary": "AI Bulls Return on CoreWeave, Anthropic and OpenAI Buzz Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic is hiding its best AI: Fable 5.2 and the IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEcxbnJ5SWJ0UkZrcUNVSVJvZWRwTEJ3VDl1RzdaRVpfbnhUZm1CQlpGeVJNano5ZXdkS3hYN0FUM1FURkROVE5GR2dzSk5uWm5aUjJwVnlJY2ducjZzbV9yd3NSVDRXaUhNSEh6YXNpaVhaUVlmYnU5LVRBaDN3aHRKZw?oc=5",
-      "summary": "Anthropic is hiding its best AI: Fable 5.2 and the IPO Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Bankers Look to Increase IPO Valuation, Report Says - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
-      "summary": "Anthropic Bankers Look to Increase IPO Valuation, Report Says Bloomberg.com EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor Reuters Jim Cramer has a new warnin",
       "badge": "new",
       "date": "2026-11-11"
     },
@@ -355,17 +403,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5",
-      "summary": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch",
+      "title": "Meta’s AI age-check goes global: Can it protect teens? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVpwWDhZeFc0RkEyLUlpZzJvWlE0dlBTMHVfM1RuV0RFNkVvbGU5V3pHMkFJTmt2UXB5NzVObVJhVEVZbDFVQzdaZ2MzTGxDLTN4eXlnYk45dDZCNEpDOW1TbDFhMjgteWtxWWNTSnhTUEtHUHBISTQzNXFKSTkwY0plTE54N2lKei1HNE0yVk9IQUVXOXNrMNIBngFBVV95cUxPZU1aTGRnZGtwRjh1S016Y2lQVGhjeXNTZEE2VENzMUdKeDZWek4xaG5weFdqdGRPX0x6ZERFN1dsdGZkZmFURi1kTWRCUVJuUDF1R2g5R1U3eTlsQm9PSGttcG8yd0paYUxEXzhMOFJaTTlGZ3V4Rm9oVHNYUklnMG95WFRDVGI3Mk55aHJnRzgzdmFIN1JmalR6Y3l5dw?oc=5",
+      "summary": "Meta’s AI age-check goes global: Can it protect teens? Al Jazeera",
       "badge": "new",
       "date": "2026-11-10"
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI age-check goes global: Can it protect teens? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVpwWDhZeFc0RkEyLUlpZzJvWlE0dlBTMHVfM1RuV0RFNkVvbGU5V3pHMkFJTmt2UXB5NzVObVJhVEVZbDFVQzdaZ2MzTGxDLTN4eXlnYk45dDZCNEpDOW1TbDFhMjgteWtxWWNTSnhTUEtHUHBISTQzNXFKSTkwY0plTE54N2lKei1HNE0yVk9IQUVXOXNrMNIBngFBVV95cUxPZU1aTGRnZGtwRjh1S016Y2lQVGhjeXNTZEE2VENzMUdKeDZWek4xaG5weFdqdGRPX0x6ZERFN1dsdGZkZmFURi1kTWRCUVJuUDF1R2g5R1U3eTlsQm9PSGttcG8yd0paYUxEXzhMOFJaTTlGZ3V4Rm9oVHNYUklnMG95WFRDVGI3Mk55aHJnRzgzdmFIN1JmalR6Y3l5dw?oc=5",
-      "summary": "Meta’s AI age-check goes global: Can it protect teens? Al Jazeera",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzh6WmhUSU5wU1hZSlFMUDliMXBJZXFGZmcxTGpLZnowMEI1RXluMmVBZUVvWFV4MGltR0J0VTQ3dEVGR3BOdjZDRFU2bUk2WEFhcjgyVmxaSEhvSzFSMTZFMHBkeU5tVWNwQUFnc19uWTdwMkF4OWN2bWdLY0dVM0FjTWhXZXVpaUJWNWgyUUE?oc=5",
+      "summary": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch",
       "badge": "new",
       "date": "2026-11-10"
     },
@@ -411,18 +459,18 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring says its flying indoor security camera is finally shipping - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenFjTGlwNUtqb1BmUEExRXZHRkNaMlBNOEx2NUpoanNPZFEtQmhvZ2JKTks2aXhSSC1VVGJPaG15TGFNSHd5SjFCcFNDOUpyRS1nQXB4WlkwS3E4aTIza1hKdnd2N25SYy0tU2pnUTNmZWlyYnhwSldrWFlBZzRFQlI3b2ZZYUM2LUgzODU1WUo0TzA?oc=5",
-      "summary": "Ring says its flying indoor security camera is finally shipping The Verge",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
       "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
       "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring says its flying indoor security camera is finally shipping - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenFjTGlwNUtqb1BmUEExRXZHRkNaMlBNOEx2NUpoanNPZFEtQmhvZ2JKTks2aXhSSC1VVGJPaG15TGFNSHd5SjFCcFNDOUpyRS1nQXB4WlkwS3E4aTIza1hKdnd2N25SYy0tU2pnUTNmZWlyYnhwSldrWFlBZzRFQlI3b2ZZYUM2LUgzODU1WUo0TzA?oc=5",
+      "summary": "Ring says its flying indoor security camera is finally shipping The Verge",
+      "badge": "new",
       "date": "2026-11-10"
     },
     {
@@ -466,34 +514,10 @@
       "date": "2026-11-09"
     },
     {
-      "company": "OpenAI",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "OpenAI",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
       "company": "Microsoft",
       "title": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnFGdmNoRlF5a2J2c1Bzd2ZSaW4ydjFuOTEzYWgybHR0VDJWZ2kzQ1ZaSVFhWEhsVnp2MHBVSHhrbmJ4LWgtbWlGeDdHWXJZRFc0VmRlQnhmV2VGdUJoa3pJeDFtSkoxRXdBMW01N0dfQUlNcjhPX2dEV21ickU4WV9CY2Rlci1SbmlvNEZhQmY0VVZiaFJxb05sRDRDcFo4SS1talBRVU5SSDZsbVZpeTQxQ01XSlo5RkVCSFIyLUxwVHhQNlFyYWlvbGRXajRnWVczQWozVQ?oc=5",
       "summary": "How the Microsoft Copilot harness helps agents complete complex tasks | Microsoft Copilot Blog Microsoft",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemxSZE5kdG4yUDJPQmpqZGs4Um5FMDJWazIzWUhmby1HaVpmRDdhMFpVWFU3blBhYk1oSkxQZ255RE1WRDVuYXk1d0VnYkEtaGRPNTZ1MlYzUXdVSzVWWlFKVWdnQWhMd0lGdVlWVWdycWV1cUxEa1RKNUtRSmV4dmdBWndrRnJxUlhfbUlBbURSZFZPOWhXZHFGYmk?oc=5",
-      "summary": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion Yahoo Finance",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -507,25 +531,17 @@
     },
     {
       "company": "Microsoft",
+      "title": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemxSZE5kdG4yUDJPQmpqZGs4Um5FMDJWazIzWUhmby1HaVpmRDdhMFpVWFU3blBhYk1oSkxQZ255RE1WRDVuYXk1d0VnYkEtaGRPNTZ1MlYzUXdVSzVWWlFKVWdnQWhMd0lGdVlWVWdycWV1cUxEa1RKNUtRSmV4dmdBWndrRnJxUlhfbUlBbURSZFZPOWhXZHFGYmk?oc=5",
+      "summary": "Bill Gates Microsoft Copilot AI Predicts a SOL Crypto Explosion Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Microsoft",
       "title": "'Opt-in always becomes opt-out later': Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra — but users are skeptical about where Microsoft is going with this - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzV1TmtOT3N4WFZWRVcyNnVlSlBjNmFFYVVySjRMcnJsVjNhQ1ZuWGZsMW5Hdld1eTNhSDFnOE9TaUtjcHROZE0tc0N0NC1tcmtRTFBGZGl6b2dBOXM5aE9paWY1OUVENHVPaVVoNkctYWNDd1ZNVVlPRHFRMlh1dmRQOHBMRWUtYmpPbmQxc1BqQ3FibHpSbU9IcWRPUTdNLWRyemtRaHRTYV9XUzUwX1NISU1RWlAwakM0SFJteUlwNVVTcVhfMGljbWxIQndzYWIzYldabUNRTFlIYm9CQ1hCS2I5NVlrZTBzSXB4SW9Sb2pRU0lCal9RTQ?oc=5",
       "summary": "'Opt-in always becomes opt-out later': Windows 11 users will get the choice to integrate Copilot AI in the search box as an optional extra — but users are skeptical about where Microsoft is going with",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "How to Get an HP Copilot AI Laptop for Less Than Apple's Cheapest iPad, With Microsoft Office 365 Sweetening the Deal - Kotaku",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY1ZmelpLTW1IdUkxaDk5UHFwbE56NWNydDJlMWlUbG8wVF9ZeDRHa1lVcjJGVm1VM0JoUzNwdGstRW00UE5SX2Q1VWFTNkd5S3NtcXhkVU9LRS1qX1hzdE0yTjhyVHVrU1JvdUxybDU5UDFUcC1URV9pMl9pamxLTWZrRFJtWXVJRGZVeGNrU3BQZUY5NE0xcXV2OTQ3OUFzNTBadk40MFVfTlhNTUVIR3lEYUhDeG5jUWthM0RxSlkteUxtWlN5SDdwYXBJOVdXdnRYRzQ1REIyWVRwSUE?oc=5",
-      "summary": "How to Get an HP Copilot AI Laptop for Less Than Apple's Cheapest iPad, With Microsoft Office 365 Sweetening the Deal Kotaku",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft to move Copilot’s Claude processing into EU Data Boundary | ETIH EdTech News - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeEJDclN2Smw4V0szek00NDVSTXFtclNIRE1NS181TmtZamlPdWNRRGQ4RFJnc2pURmJBVkRRalpQOFBBMjZrY1k2Tl93UmhYYmFJdVRCNE9hWVZYMkRqQnNYUkJ5NTNsMW1FT29XOTVGcnhfWHBwbXNUZVF4WWhvaXlxUFk4OFVRRkltTG80OGpUT184NERtWUpVQW9RLTNONGpQcHk5QnZ5QU1VV0E?oc=5",
-      "summary": "Microsoft to move Copilot’s Claude processing into EU Data Boundary | ETIH EdTech News EdTech Innovation Hub",
       "badge": "new",
       "date": "2026-11-09"
     },
@@ -554,14 +570,6 @@
       "date": "2026-11-09"
     },
     {
-      "company": "Meta",
-      "title": "ChatGPT, Gemini, Meta AI: What parents can control in AI chatbots - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOS1kLXFSYzJEa01NaUdBc2JmU2lwRFZnX2lFWkhrbWl1VmFMQWhUX2pSdVM0dzFQZHBHZUV3a0xnaVpKY3c1clZTaFV6LU81MG9KX2tyQmpsMWxHTkZGRlNVTlA2OWZCcHFEUzgyVXZSUjRVNVVWN2RMNG9IbGlDVTNQSFRlbVJMS3hPYkZUWk9VNmFJMW80anNNcThxQklnN3lJU3I3NExEYzg?oc=5",
-      "summary": "ChatGPT, Gemini, Meta AI: What parents can control in AI chatbots Notebookcheck",
-      "badge": "new",
-      "date": "2026-11-09"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity’s AI agents keep working after you close the tab - The New Stack",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NOHRPWU5DTjFiWU8yTFVBWGNKYk9vc3hCbjRpT1BEOE1rNWpUdWp4ZkZZMGFCR0tjdTRURGVGUUdNLVE5bF9qWDJjb1FxUjl2NjExNXdJVGJFQVZja1gxNTJEN2phNUV6QzM3NHdXSXdNZw?oc=5",
@@ -584,14 +592,6 @@
       "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? PCMag Middle East",
       "badge": "new",
       "date": "2026-11-07"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEdtLThZOFhYMl9wQWttOUlYSEZ2TWU2S2JYazQ4anI0XzNlcFU5M2JEeEhObjdsNFRuRnNQbzRadm5MSDM1OTZqMmoxMGNLLUloNEEtQnUwYWpkck4xSzJGMm9zZVpSQ2Q0UmJ4bkxvZ2ViTG40anVjRWY0SktOTUNRTFE5YTRvWWo2cnFHYWV6TVRhVXJmWFVLUFRpdw?oc=5",
-      "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? Yahoo Tech",
-      "badge": "new",
-      "date": "2026-11-06"
     },
     {
       "company": "Google",
