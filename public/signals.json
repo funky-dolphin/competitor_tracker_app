@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-13T13:47:41Z",
+  "updated": "2026-11-13T23:08:44Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "badge": "hot",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why Silicon Valley’s Knives Came Out for Anthropic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "summary": "Why Silicon Valley’s Knives Came Out for Anthropic The New York Times",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Wall Street Braces for Anthropic’s Aggressive Spending - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
+      "summary": "Wall Street Braces for Anthropic’s Aggressive Spending The New York Times Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO CNBC EXCLUSIVE: Investors flock to Anthropi",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO is overpriced, says CIO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
+      "summary": "Anthropic IPO is overpriced, says CIO Reuters",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Building strong safety evaluations - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
+      "summary": "Building strong safety evaluations Anthropic",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
     {
       "company": "Anthropic",
       "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
@@ -27,9 +67,41 @@
     },
     {
       "company": "Microsoft",
+      "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenFENG44c2tIRWlsR1FZSkxRMnRGOTZnZHZNRF9TbDBSeDlqS3phbU9xQlN3MkhoWkdFVnIxUGY3Ymw4cnlPeDRBVlkwQXcxdjZLblJuQmpneHYwbElQZE0zcncwR0ZrV1pKZVgwREU0ODQ1UVdLRm1RVGZuMlA0ZHBKOVlfNXp5X0M0dUp4eWJDVkphTEFRZFJpWXBmQ2hUc0dXbElSQVpvamk5NG9wb3dLdUtJZERXX2hzcVRrM2JJWDJfTEdPQnFvYmQwNkZG?oc=5",
+      "summary": "The Microsoft outage didn’t lose your email — here’s what it does mean for you Yahoo Finance Microsoft hit by global outages: What happened and why? Al Jazeera Microsoft outage: As cyberattack and rog",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft says recovery efforts are making progress on worldwide outage - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUNUZ05vd1lFTHRReXVlUHpjREtZX2NLV2dNdk10MjI1dTVWNDZsek9ta2VtWmtKMXlNQW94UWVIRUkzS2c1THM5UnYtM1RSZUNzbVZSeVlwZ3JpNzYxWnZOTkk3SENPUURYdHBZM1dzVUFOdFJyelFRbWxPS2FFMDVzZFFNUFBUMDlHNjdwMUhPN29tekpz?oc=5",
+      "summary": "Microsoft says recovery efforts are making progress on worldwide outage KCRA",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5",
+      "summary": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted Mashable",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft Struggles to Fix Outlook, Copilot, Hours Into Outage - American Banker",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOG5tMFJJd3dqQTlPS1BJTmIyR2ExWHRsQWNiU0RwR3hOSUU5QmhONU5lbUFxWERhMlFCYzB3aHNXb2ptbHRfWmJSbzd4WUhtOU82MDA3aHBNWWZTUUJBd21HQU1WRGstcmRNNmtwWmt2ZDl5QjBSZTlOaHc0Wi1OSGFwOTg1SFhlZXFaNmpvZDFpU2NZTENnRXl4OWs?oc=5",
       "summary": "Microsoft Struggles to Fix Outlook, Copilot, Hours Into Outage American Banker",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple HomeView available today",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+      "summary": "Customers can now purchase Apple HomeView and experience a new way to enjoy entertainment, stay connected, and manage their home.",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -75,6 +147,30 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity brings AI agents feature called Teammates to the Mac - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTR4RTRZeE1mdWViZTNNbHlxZHFja1VtOVlCeWpOUkZEbVdzWWpYMDFCb2JLbFlNWG4tQ3NSclR5TXhhTDJVb3BYNGdoQnZCWF9zeG05QUZHZFVIR0czLWJSY3NzNFZtajVFd3pFU2NnbzZoam9YQk5VanMtMlVtVnVSNjN2YmF1SV9SLWRHUDVSZUNvdy1NOGcybw?oc=5",
+      "summary": "Perplexity brings AI agents feature called Teammates to the Mac 9to5Mac",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity brings Teammates to Mac for Max subscribers - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkZlRmh2X0ZiNVZ0NkpqOWVPUnF0eWk1ZmNJdUxZS0hVWWtIaW1TZVd4NEgzdHppN180RW5BbHVsTjhKSGtlX3ZULTZhVTNnejhYbGMxM3o2ejNhX0ZkckhRUlliM0tZaFlHdXdlNGU3YzB2cUZDU2syaXdtZk5TeUdrN3k1Tnp6MkM5RXJNcw?oc=5",
+      "summary": "Perplexity brings Teammates to Mac for Max subscribers TestingCatalog AI News",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity brings Teammates AI agents to its Mac app - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bjlsS0VHNmZkQ0JxQWJUZjhfOGQtQ0x6RmpBRzFQQTRBQVdGdms2RkdNVjg5NFNacEd5aXhZYUZkTFM1OHJfc21mVHF2MzIzQXV3MzhUTTRSVXNfY1RBRW1IeGp1NzRJVnVJelBoMmYycVhOUlE?oc=5",
+      "summary": "Perplexity brings Teammates AI agents to its Mac app Mezha.net",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Perplexity",
       "title": "Proskauer Won't Rep Perplexity In Reddit Data-Scraping Suit - Law360",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlZteW1Dd1JUTEtKM0Vaa19UelllRGwwdk9WalpQUGNHWDc4UTljaUpIZ3RwR2JjNnhIZVc3RXQwMl9CaEpneVMzTENLeURISWF2RjJOQko3bTYyaFpCSXJzZW52UVNrLXJNSkkxNEhmcGpSN1FiYmk5VW00SDZUZlgxNWFRRmlGVnBVdURxYWtZMVBiYVUwVlRxSG1fenBk0gFWQVVfeXFMTTBIR1NMX2xrNVFMSzFvalJwTGdUaThjallIY1FEdjRUNi01MmQ4d3FCZElCWURsTEx1ZXdQeG02S1FJRWRuSGpueEM5UVN4dEFkaV9JWlE?oc=5",
       "summary": "Proskauer Won't Rep Perplexity In Reddit Data-Scraping Suit Law360",
@@ -94,6 +190,22 @@
       "title": "Perplexity’s Free Decider Led to 14 Agent Security Fixes - FourWeekMBA",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3lNNFZMc1VGVUNwd005Z1dpdHFDT1BIR3VFWFFJTFBBQ2hVaW5aUlNJbEQ3S09qMER3cGkwZ1BtaFprYTU2VEpHdjlrRWZzaldqSjZ3dG5mc3BhZm9jeTBCdVNscmJoQXJseGo1dEtOXzJfRmNPZ0tnOGktb0NfZHg0Tk9Nc3N2ZTJJ?oc=5",
       "summary": "Perplexity’s Free Decider Led to 14 Agent Security Fixes FourWeekMBA",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI smart glasses being tested by 21 Penn State profs - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVQ4NmowSmNwSVdTTUZXb1FRQWl1UF96SzFYcU56eGdRU3AtY19xVGdiQXVaUWQwbGROLTdHUjZkazBGdGROdHJDUHZ1ZmJUUWdUWjg3VVZBMWx0N21SXzJxd3YwQnNaZDFZaE01TmtMM2pQZmYxckg1WTRIdTZWTldjYWZyVm5ubVk4dXFzQk1ZMXlZTDZWZl9B?oc=5",
+      "summary": "Meta AI smart glasses being tested by 21 Penn State profs TribLIVE.com",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Amazon",
+      "title": "Ring revives its flying home camera and adds a $1,000 security rover - The Rundown AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SnJWX1JGNmJ4SldfaEdYMjhMY0dIUVVQc0FkYmVBTXRBTEZOWG9jc0NleWJvY210Wm82NFprR0JfczhVcEk4eE1BUHJXT2pkTHpUZnZLSkhtbFVaTTdMZFB0a2JHcnlGWkhCcGVKaWx2clAzOElkVnlHWQ?oc=5",
+      "summary": "Ring revives its flying home camera and adds a $1,000 security rover The Rundown AI",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -178,42 +290,18 @@
       "date": "2026-11-12"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5",
-      "summary": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges CBS News",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Yahoo Finance company of the year: Anthropic's AI dominance - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWpONjRvUThBcmNQamEteXNqa0V6cC1Cb2Zkalg4ckVHbmxuSWZ1Vk9xNHNIZ3YyNV9hbXpPZTl5MkN4VXIyQzZZdWlIV2s5TjhuRUt3UVo5YXNWa3VHSTZ5NEp5d2NZWXYyUVhwbXlneHJOQnBpVGxYX3FteXdrOU1tNjMwRXIxcmJUcjVfcTI4WDkyQ096c2daTTVraERlTVNnNVdNakw2dFBLWUZsQ0YxblNDT0c5?oc=5",
-      "summary": "Yahoo Finance company of the year: Anthropic's AI dominance Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study - Fierce Pharma",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5",
-      "summary": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study Fierce Pharma",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Can the AI boom make enough money to sustain itself? - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNi1Qeks0dFhUY3VJZ0FHOXdZSERPMmdLTVFGbEo1a2dNaF9LRXJSeVdxcDFDM2pBSHlfTWxLUktjRmFGVGFtS3BEZEM4WkU0dkNPMmFKWTUxX0x3bnF0OWFoZ2x1MURHcUotTFE4QzFCdkZ3R1RzTVpDV0lrbUVZMm1WRlhma01Ma2J2SXhVV2VmektMMnNYclpBZ1pWdw?oc=5",
-      "summary": "Can the AI boom make enough money to sustain itself? The Economist",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
       "company": "Google",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
+      "summary": "Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain Reuters",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -235,14 +323,6 @@
     },
     {
       "company": "Microsoft",
-      "title": "Hours-long Microsoft outage disrupts businesses, governments globally - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
-      "summary": "Hours-long Microsoft outage disrupts businesses, governments globally Reuters",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
       "title": "ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03V2tVTjM4WEJoLU5rM0RILWp4Sjh3N2h3c2NORkFmUXFPQVpqVWVVWWFxRnpBMEgtYmItMW9DRXgxYW5rMUxVbmF4Z1hJd21YTzdObWdEUHJuNnNPdGtyYWlYaHE1WEQ4cXoyNmVYMA?oc=5",
       "summary": "ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions Microsoft",
@@ -259,41 +339,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5",
-      "summary": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted Mashable Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region' Yahoo Finance Microsoft Says It’s Working",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
       "title": "NFL Week 10 predictions by Microsoft Copilot AI for every game - USA Today",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVhHcno2NnUyMFNzZlhON3JHS3BmVllWSW94eE96bjNZa2RjZTVMaDV1VkhWM3B1dW8yMHdsMS1oMWFGbmtraVVSaDBKaERsTWs3WXhjV2ZwWEtLbXZtMGs2TTh6eW5jcUZXLVM1ejRzd1Y3WFVYQmFwMXpZUGdIUWJDSVFJcXh1Y3pIdW5WQ1VLY1ROS0N0azZRc0xBR0kxUVJwSVFn?oc=5",
       "summary": "NFL Week 10 predictions by Microsoft Copilot AI for every game USA Today",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft outage sees Teams, Outlook and Copilot suffer 'connectivity issues' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96LUE5dHZZQnk2dFR3ZjRsLXpJT0NTS0gyaGM3NW9sVVJ3TG1Ld1BnVGNRNlRNa04xTnVIalJSYWFVQ2lkTUlVRlROQmFSRGhhUUdtbTY4U3lPMlE?oc=5",
-      "summary": "Microsoft outage sees Teams, Outlook and Copilot suffer 'connectivity issues' BBC Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region' Yahoo Finance Microsoft says it’s work",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
-      "summary": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 Microsoft Source",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI sued over undisclosed usage caps on paid subscription features - Top Class Actions",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY256QV83NXJIbkptX25yb2dPdldqUHU2YXVBYmJPZWNJalktSkhjdkI0aEdBbkY3b0dJakU3V1l5SEo5WGxxVkxtZ2NPY28tbXZSbGFzU0pPWXQ1N3M3c2ZlSUd4T0Y0dGRIMG5wQlZXNEhhdDYwQ2lrWmhYbU5uY3NVbVZaQ19abzF6WTYxbVEzdldyOFBQa2VLam84bzlYNFJ2ZS1UdlY0ZTE4dkYtbm5HSEpnWlhaaXZQQXp2UHlQbnhHcDU5SkZPLTg0SGxyaUYzQg?oc=5",
-      "summary": "Perplexity AI sued over undisclosed usage caps on paid subscription features Top Class Actions",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -302,6 +350,14 @@
       "title": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW03YTl1TUZGRzZ6bGtTRkk5SkZOMXNlemlJdmUzZUNfbG5tczg5ay00SU5IemlkWEtZM2hYSHNkcktWMmNaX1prMVV6SGhVWi15MU9yMXRZeUhRLXJ2aUJLNENUR085cEZIdFJoWHREQ2hrUXdFWFc5TVNCSlgtVTBvaXZUQU1Za05DRHdua3ptQThNeGRBeUhTYmFJZw?oc=5",
       "summary": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity AI sued over undisclosed usage caps on paid subscription features - Top Class Actions",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY256QV83NXJIbkptX25yb2dPdldqUHU2YXVBYmJPZWNJalktSkhjdkI0aEdBbkY3b0dJakU3V1l5SEo5WGxxVkxtZ2NPY28tbXZSbGFzU0pPWXQ1N3M3c2ZlSUd4T0Y0dGRIMG5wQlZXNEhhdDYwQ2lrWmhYbU5uY3NVbVZaQ19abzF6WTYxbVEzdldyOFBQa2VLam84bzlYNFJ2ZS1UdlY0ZTE4dkYtbm5HSEpnWlhaaXZQQXp2UHlQbnhHcDU5SkZPLTg0SGxyaUYzQg?oc=5",
+      "summary": "Perplexity AI sued over undisclosed usage caps on paid subscription features Top Class Actions",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -318,14 +374,6 @@
       "title": "Perplexity Releases Decider V1.3 Models with Text-Span Extraction - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnJMWGZES2haVFFEQ3VLc1ZSNnJaQURRVzRxQmVyZmtNUU9qdUhLTUJOT3R2akVHS1Q2OG1kZ1BZZnEtSXVPSjNRcmZFX0RqV3F2SDlxbUZseVZ4Q3lYczEyaGQtUFN0S2lRUF9nSmQ1ejlZVXg1VUZaMkpMcWxTbXNia25MSy1rWm1SYUh1aEE?oc=5",
       "summary": "Perplexity Releases Decider V1.3 Models with Text-Span Extraction Unite.AI",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Podqi study finds ChatGPT, Gemini and Perplexity send shoppers to fake stores - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHpkSkVuZ2NNenRybzUxV2p4Y3hBWk9pZEVZZWJWYXRoYkxMRnd0TFVSUE9CcWFYQ2Uza3lBMGhOYjg2OFlQajVUbTNYbWZPUmt1VWtYSkRKTzVIWWhDbGhwZDVhZlZLdlYxMkt2NUF4UE5weGNhcEF1UU03WFVHaDRMdWFfM2JKR2ZXdWpBT2FkSFlpRGpidksybExrc2tER2pfNXhfUQ?oc=5",
-      "summary": "Podqi study finds ChatGPT, Gemini and Perplexity send shoppers to fake stores Startup Fortune",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -378,22 +426,6 @@
       "date": "2026-11-11"
     },
     {
-      "company": "Perplexity",
-      "title": "SemiAnalysis: 45% of AI Spend Now Agents, Mostly Perplexity - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUZQZ0pQMFlYdGpPdEM3a2p6OTlWY2toY01FejNJN1lIOFF3NGxkTFc0NE53cDRsR2pGU0IwV05KRWdpZFRRd2RBYVowUUlBY0JwOUxEYnRFRFJKWXVtcnN0UmtENDFiOVVRX091anV5enJnSlluR082OURMU05tRWItUER1ZXJkX2M5cg?oc=5",
-      "summary": "SemiAnalysis: 45% of AI Spend Now Agents, Mostly Perplexity FourWeekMBA",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Perplexity",
-      "title": "etoro becomes available on Perplexity - FX News Group",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDE2a1pnQnFNT1p5YnZiaG5qd2Z3ZkFXWmk0UW1GTlJFS1pxcDZUWUt1RzBWazExQnVibHlxTVE3ZHpmVUlkU2l1WE0wRFU3dENwX1p6VzVqNU52WlZQVjcwTDRnT3IyOU1CWnlOZ3AwNmlfMGc4Rkhmbi1ha09uSzJrVU90MTdnLVcweUwwbw?oc=5",
-      "summary": "etoro becomes available on Perplexity FX News Group",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
       "company": "Meta",
       "title": "21 Penn State professors are testing Meta’s AI smart glasses. What can they do for education? - The Daily Collegian",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT1ZGbnc0Z2hobXdKemVwWUlNY1JZbFhQSWVNekVJT1gycVN4c0RMNDJiY2ZQYjNDNjVtWUMtRXkzQ2hmOGI0RnBEd3pDMW9mWTV2UHUxQzRrNzkzQjl5VjhkMGRSRmhFd3pfaWNqbTlkMkVYLTBtR0tCdXNoaTFuamZsSldRaWd1cnFTSTROMXM3dXVIWlVWMWg0MEc4SUtjdy16T05JMFNyX2cwcmVIOEw4bS1CRG5VM0F0blRpR2l5SXVfSHpmNWpYWFpNWFNyYmlMcFE2S0Q0S1MzTEpXa1BOSEktXzRhaDJ2TldEWnFjeGJzREJsaDBSdDdHdHh4MjFlTTk3eXJWLTM5cFYyYVFB?oc=5",
@@ -439,14 +471,6 @@
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "badge": "hot",
       "date": "2026-11-10"
     },
     {
@@ -578,27 +602,11 @@
       "date": "2026-11-10"
     },
     {
-      "company": "Amazon",
-      "title": "Ring says its flying indoor security camera is finally shipping - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenFjTGlwNUtqb1BmUEExRXZHRkNaMlBNOEx2NUpoanNPZFEtQmhvZ2JKTks2aXhSSC1VVGJPaG15TGFNSHd5SjFCcFNDOUpyRS1nQXB4WlkwS3E4aTIza1hKdnd2N25SYy0tU2pnUTNmZWlyYnhwSldrWFlBZzRFQlI3b2ZZYUM2LUgzODU1WUo0TzA?oc=5",
-      "summary": "Ring says its flying indoor security camera is finally shipping The Verge",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
       "company": "Apple",
       "title": "Apple unveils new iMac with M6",
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "summary": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
       "badge": "hot",
-      "date": "2026-11-09"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI glasses can get too warm from water and sweat — update right now - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5",
-      "summary": "Meta AI glasses can get too warm from water and sweat — update right now Tom's Guide",
-      "badge": "new",
       "date": "2026-11-09"
     },
     {
@@ -623,14 +631,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "summary": "Animated carousel of images from AI posts in October",
       "badge": "new",
-      "date": "2026-11-02"
-    },
-    {
-      "company": "Apple",
-      "title": "Siri AI is available in more languages starting today",
-      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
-      "summary": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
-      "badge": "hot",
       "date": "2026-11-02"
     },
     {
