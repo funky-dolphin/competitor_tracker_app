@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-13T23:08:44Z",
+  "updated": "2026-11-14T04:36:53Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple HomeView available today",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+      "summary": "Customers can now purchase Apple HomeView and experience a new way to enjoy entertainment, stay connected, and manage their home.",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple TV introduces new Sign Language interpretation feature",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+      "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+      "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
     {
       "company": "OpenAI",
       "title": "Introducing ChatGPT Wallet",
@@ -10,26 +50,42 @@
       "date": "2026-11-13"
     },
     {
+      "company": "OpenAI",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
       "company": "Anthropic",
-      "title": "Why Silicon Valley’s Knives Came Out for Anthropic - The New York Times",
+      "title": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5",
+      "summary": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "summary": "Why Silicon Valley’s Knives Came Out for Anthropic The New York Times",
+      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers The New York Times",
       "badge": "new",
       "date": "2026-11-13"
     },
     {
       "company": "Anthropic",
-      "title": "Wall Street Braces for Anthropic’s Aggressive Spending - The New York Times",
+      "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcloySmU0ekIyaV9vRXNHWHNUZ1Z0eHVlenVrRW9PNDBhNTFOVEtiNUFCSk02ci1sOWVabGI5dEtjTUxzUldjTWxFeGdUVTRVZVBPY1IzWVFtOFd5Y1V6UGVRMGRvT3VrbE84Qzd2ZnNyOUxPZ29hWXg0Q2ZMWTk4Wi1aVDFjdHNPMWVlNWxjYWVfSzBZYThDWDBBcm9wUnY3SUdZVWFVMlRfc2Y1VEpzRQ?oc=5",
+      "summary": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Wall Street Braces for Anthropic’s Spending - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
-      "summary": "Wall Street Braces for Anthropic’s Aggressive Spending The New York Times Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO CNBC EXCLUSIVE: Investors flock to Anthropi",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO is overpriced, says CIO - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
-      "summary": "Anthropic IPO is overpriced, says CIO Reuters",
+      "summary": "Wall Street Braces for Anthropic’s Spending The New York Times EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead Reuters Sam Bankman-Fried would have made nearly $40bn in ",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -38,6 +94,14 @@
       "title": "Building strong safety evaluations - Anthropic",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
       "summary": "Building strong safety evaluations Anthropic",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic IPO is overpriced, says CIO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
+      "summary": "Anthropic IPO is overpriced, says CIO Reuters",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -69,7 +133,23 @@
       "company": "Microsoft",
       "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenFENG44c2tIRWlsR1FZSkxRMnRGOTZnZHZNRF9TbDBSeDlqS3phbU9xQlN3MkhoWkdFVnIxUGY3Ymw4cnlPeDRBVlkwQXcxdjZLblJuQmpneHYwbElQZE0zcncwR0ZrV1pKZVgwREU0ODQ1UVdLRm1RVGZuMlA0ZHBKOVlfNXp5X0M0dUp4eWJDVkphTEFRZFJpWXBmQ2hUc0dXbElSQVpvamk5NG9wb3dLdUtJZERXX2hzcVRrM2JJWDJfTEdPQnFvYmQwNkZG?oc=5",
-      "summary": "The Microsoft outage didn’t lose your email — here’s what it does mean for you Yahoo Finance Microsoft hit by global outages: What happened and why? Al Jazeera Microsoft outage: As cyberattack and rog",
+      "summary": "The Microsoft outage didn’t lose your email — here’s what it does mean for you Yahoo Finance Microsoft hit by global outages: What happened and why? Al Jazeera South West: Recovery after Microsoft out",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft Outage: ‘Millions And Millions Of Dollars Lost,’ Partners Say, As Microsoft Finds ‘No Evidence Of Malicious Activity’ - CRN",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkVnMVFVTnF5dlVHSlNjcEgyaDlqNnc4ZHJkVzhFSmxRLVIyUF9YbkZLcVU3ZVNpQWVfeTd1Tko0aEtzNTYtN0x0emxSLWtTVlpyVTdOQkpVdmZVS05LbTFLV2NtNXBQZTRRSkVES2ZBRTBJd01QVG9jZGZ4SWw0QTJLRUJjTlBKLVBDS2EwdEQtUUZWRHc2NVdzNENIZFhlVkFzRzlDc01Id1lIbV9CV2VNaVFOLW1YOXo0T0pld1F0VENjeDlXeWRaSnJzUmpUSGVXTzlNSERXcmQ1YnlxTnU2Sl9CQmhTMm9hQQ?oc=5",
+      "summary": "Microsoft Outage: ‘Millions And Millions Of Dollars Lost,’ Partners Say, As Microsoft Finds ‘No Evidence Of Malicious Activity’ CRN",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide - The Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SYU9FWjdObVlZQVZxOU1QcmlRMkp1Vm1KRFV2Zk5wdzlxWWtST2FjNFZLWmxueGRPU3FKQUlSV3hWdlRVSzJJRWNKclc1eF9tUnZhTUxRZ19GQk1hN3gycElCYUMxaE5DR0hxZlF5V1NlUG1RbFZmaE1iZ0xPWmc?oc=5",
+      "summary": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide The Business Journal",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -94,46 +174,6 @@
       "title": "Microsoft Struggles to Fix Outlook, Copilot, Hours Into Outage - American Banker",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOG5tMFJJd3dqQTlPS1BJTmIyR2ExWHRsQWNiU0RwR3hOSUU5QmhONU5lbUFxWERhMlFCYzB3aHNXb2ptbHRfWmJSbzd4WUhtOU82MDA3aHBNWWZTUUJBd21HQU1WRGstcmRNNmtwWmt2ZDl5QjBSZTlOaHc0Wi1OSGFwOTg1SFhlZXFaNmpvZDFpU2NZTENnRXl4OWs?oc=5",
       "summary": "Microsoft Struggles to Fix Outlook, Copilot, Hours Into Outage American Banker",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple HomeView available today",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
-      "summary": "Customers can now purchase Apple HomeView and experience a new way to enjoy entertainment, stay connected, and manage their home.",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple TV introduces new Sign Language interpretation feature",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
-      "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
-      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
-      "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
-      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
-      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -190,6 +230,14 @@
       "title": "Perplexity’s Free Decider Led to 14 Agent Security Fixes - FourWeekMBA",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3lNNFZMc1VGVUNwd005Z1dpdHFDT1BIR3VFWFFJTFBBQ2hVaW5aUlNJbEQ3S09qMER3cGkwZ1BtaFprYTU2VEpHdjlrRWZzaldqSjZ3dG5mc3BhZm9jeTBCdVNscmJoQXJseGo1dEtOXzJfRmNPZ0tnOGktb0NfZHg0Tk9Nc3N2ZTJJ?oc=5",
       "summary": "Perplexity’s Free Decider Led to 14 Agent Security Fixes FourWeekMBA",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI smart glasses being tested by 21 Penn State profs - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HaGFneDBvUU40cmlsZFVLS25NbTQ0Znh0X0dLNXMyTGJNdUQtMW4wOWUwOHZrZkVET0hGdVhYS19vaVdyeTVaeGdPYWRnb0ZtNm1fX2d3?oc=5",
+      "summary": "Meta AI smart glasses being tested by 21 Penn State profs TribLIVE.com",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -274,22 +322,6 @@
       "date": "2026-11-12"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
-      "summary": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Anthropic",
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development Reuters",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
       "company": "Google",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -326,22 +358,6 @@
       "title": "ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03V2tVTjM4WEJoLU5rM0RILWp4Sjh3N2h3c2NORkFmUXFPQVpqVWVVWWFxRnpBMEgtYmItMW9DRXgxYW5rMUxVbmF4Z1hJd21YTzdObWdEUHJuNnNPdGtyYWlYaHE1WEQ4cXoyNmVYMA?oc=5",
       "summary": "ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions Microsoft",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Works To Address Massive Outage Across Copilot, Teams - CRN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHl5REdIWFFFRUFCV0RlTklpQ1k2NTAwV1NKYzZqZWl2elByZ0ljdW93eFZPa1V4bHVWajZRUmFBWHFJa0FpRWQ4YWZUYVdUdDV0cnFNbDNFWlFjQk1Mb1pPc1NkMkNCdUZfdzVPV1dianoxN1FFVEJUbVVZVUJkWEJxcEdxUXM4WXcwa1h0WE84SUc1VTlqZ0pSVQ?oc=5",
-      "summary": "Microsoft Works To Address Massive Outage Across Copilot, Teams CRN",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Microsoft",
-      "title": "NFL Week 10 predictions by Microsoft Copilot AI for every game - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVhHcno2NnUyMFNzZlhON3JHS3BmVllWSW94eE96bjNZa2RjZTVMaDV1VkhWM3B1dW8yMHdsMS1oMWFGbmtraVVSaDBKaERsTWs3WXhjV2ZwWEtLbXZtMGs2TTh6eW5jcUZXLVM1ejRzd1Y3WFVYQmFwMXpZUGdIUWJDSVFJcXh1Y3pIdW5WQ1VLY1ROS0N0azZRc0xBR0kxUVJwSVFn?oc=5",
-      "summary": "NFL Week 10 predictions by Microsoft Copilot AI for every game USA Today",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -451,27 +467,11 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins - LADbible",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnpqRHJYMzVVUjdJLWhLcUFrUllyOThNX01JQjNpU3Y3QWJJdE9ZdjQ3ZTFFeVVZbkxVNU5hZDBSREdWZEQyMFg5bWxFYlozUEVBd01LSXFfU3U0bTkwQk01ZTZQWjJPZHQ5UU9KcURGUUpkc1RCWElQV0NrTi14dV9TNVZlRFNrQ3c?oc=5",
-      "summary": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins LADbible",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Amazon",
       "title": "Amazon's Ring introduces security drone and robot - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcllVNkowaEo2XzlacVU1WHFUamNjdzkyY1daQ1hMZmJzN1NOSkVQQzdyZkJ3eHNIS1FmRHRoelJOMXRlLS1oZ2tLVjlKeGpRbG9PRmNhNUJHdzdIX3dZZ2FybmR5RkxQeTAwMFROdjNRQ0U?oc=5",
       "summary": "Amazon's Ring introduces security drone and robot Axios",
       "badge": "new",
       "date": "2026-11-11"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "badge": "new",
-      "date": "2026-11-10"
     },
     {
       "company": "Google",
@@ -546,14 +546,6 @@
       "date": "2026-11-10"
     },
     {
-      "company": "Meta",
-      "title": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZ3Z2VBaEx4aTdtVVkyTnV2aWZnSkh3TTY4V0FRc0RqZGZIS3NtYlV4VkIyWURNMk51Q09kaVZ6QmczMTR4ejdNb1BLZFZ2X3VhWW16VEo5OFBpd0YwR1FKckdwMkV1bDRjaTlIN2o2ckVjOU5UTG8tdG9RSVZyS19DcV81UU85MXdzRFVUTURHQnRtYUFHOXlIY2xSRUZHcFd5R01idnFhQ19JQWRpNlRCY3VfOW8?oc=5",
-      "summary": "Can XRP Reach $2? Meta AI Predicts an Interesting Outcome TradingView",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
       "company": "Amazon",
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzMtUkZBdVhIWE41Rkx3b2RFOHlPZTlkeGtTNlFGRFhlVzREWnBNSFVMbldLZkVrSkwtaDN3amN5cl9CQUdLOVRUMXhTa040WkVvdFhqOWtOTENqNkN1RklNaDNlRi1udjA1OUJNZnpYc3VOQVlNSUYxQjZOaTlWYTJxcXhhN2hJeXo3MS1yLXV4ZmphQ1ZYeDNacHJfSkk0U01FOU1UNTQtb3o0ckF1Rw?oc=5",
@@ -567,6 +559,14 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE9yTnVGeDUteVpSZzY1QW5jUzVxSmpna2hSb29VUE9hVTRjWHhuUTNsZlQtVGtoRkQxQ0JWNkl5amNoWksxdXQyT2c0LV9jNUctdXp3LUZGaDZsaUJCcDlIX0pHWG04WER3clpEVWtzVGI4RXRjaEZoTDBLbkVBZjUtOXhEUjM2N3FENHBrNEJlaU91elR6UmZFZjlxMWdPdHI5YnZIYmpMTkhv?oc=5",
       "summary": "Amazon's Ring launches flying camera, autonomous security robot Reuters",
       "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
+      "title": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins - LADbible",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnpqRHJYMzVVUjdJLWhLcUFrUllyOThNX01JQjNpU3Y3QWJJdE9ZdjQ3ZTFFeVVZbkxVNU5hZDBSREdWZEQyMFg5bWxFYlozUEVBd01LSXFfU3U0bTkwQk01ZTZQWjJPZHQ5UU9KcURGUUpkc1RCWElQV0NrTi14dV9TNVZlRFNrQ3c?oc=5",
+      "summary": "Amazon's new AI-powered Ring camera can fly around your house to investigate potential break-ins LADbible",
+      "badge": "new",
       "date": "2026-11-10"
     },
     {
