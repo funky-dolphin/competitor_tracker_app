@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-15T13:18:53Z",
+  "updated": "2026-11-15T22:24:28Z",
   "signals": [
-    {
-      "company": "Anthropic",
-      "title": "A Human Reads the Anthropic I.P.O. Filing - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RWQ19WVmdZdzNSV2VQcV9TM2c1UGlEdjM5TUVWRmwtTXltMnZ5MTA0a3phZ2xVMjBsbjVmTUNycmhUMi14STh5N2dwTUxpVGhkdUFWbHdrQ1V6ekJ2OFd0UVp1UjM2Y0VhUTI0NWRQVElBdWsyUU5Zdzlud2J5VXZhVDZfNmc?oc=5",
-      "summary": "A Human Reads the Anthropic I.P.O. Filing The New York Times",
-      "badge": "new",
-      "date": "2026-11-15"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5",
-      "summary": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI WSJ",
-      "badge": "new",
-      "date": "2026-11-15"
-    },
     {
       "company": "Apple",
       "title": "Apple HomeView available today",
@@ -54,6 +38,22 @@
       "title": "Redesigned Health app expands language support",
       "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
       "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "A Human Reads the Anthropic I.P.O. Filing - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RWQ19WVmdZdzNSV2VQcV9TM2c1UGlEdjM5TUVWRmwtTXltMnZ5MTA0a3phZ2xVMjBsbjVmTUNycmhUMi14STh5N2dwTUxpVGhkdUFWbHdrQ1V6ekJ2OFd0UVp1UjM2Y0VhUTI0NWRQVElBdWsyUU5Zdzlud2J5VXZhVDZfNmc?oc=5",
+      "summary": "A Human Reads the Anthropic I.P.O. Filing The New York Times",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5",
+      "summary": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI WSJ",
       "badge": "new",
       "date": "2026-11-15"
     },
@@ -186,6 +186,14 @@
       "date": "2026-11-13"
     },
     {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
       "company": "Anthropic",
       "title": "Wall Street Braces for Anthropic’s Spending - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
@@ -230,14 +238,6 @@
       "title": "Microsoft says recovery efforts are making progress on worldwide outage - KCRA",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUNUZ05vd1lFTHRReXVlUHpjREtZX2NLV2dNdk10MjI1dTVWNDZsek9ta2VtWmtKMXlNQW94UWVIRUkzS2c1THM5UnYtM1RSZUNzbVZSeVlwZ3JpNzYxWnZOTkk3SENPUURYdHBZM1dzVUFOdFJyelFRbWxPS2FFMDVzZFFNUFBUMDlHNjdwMUhPN29tekpz?oc=5",
       "summary": "Microsoft says recovery efforts are making progress on worldwide outage KCRA",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
       "badge": "new",
       "date": "2026-11-13"
     },
