@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-14T21:54:05Z",
+  "updated": "2026-11-15T04:26:44Z",
   "signals": [
+    {
+      "company": "Apple",
+      "title": "Apple HomeView available today",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+      "summary": "Customers can now purchase Apple HomeView and experience a new way to enjoy entertainment, stay connected, and manage their home.",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple TV introduces new Sign Language interpretation feature",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+      "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+      "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Apple",
+      "title": "Redesigned Health app expands language support",
+      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts - Yahoo Finance",
@@ -82,46 +122,6 @@
       "date": "2026-11-14"
     },
     {
-      "company": "Apple",
-      "title": "Apple HomeView available today",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
-      "summary": "Customers can now purchase Apple HomeView and experience a new way to enjoy entertainment, stay connected, and manage their home.",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple TV introduces new Sign Language interpretation feature",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
-      "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
-      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
-      "summary": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
-      "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
-      "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Apple",
-      "title": "Redesigned Health app expands language support",
-      "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
-      "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
       "company": "Perplexity",
       "title": "Perplexity Teammates bring autonomous AI agents to the Mac app - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTi1nd1RpdWdqSHVjWmhlNmhBMnUyZWs1MThqcFl2MExhdUgyT1dUNjFpdEFPYVZlYkJKSkRqelNUU2RLcTBuNHRXQVk2VmRTcGFQbUozLUc3NFhIdUpsSHY4ZTFwZUxCd0NHY2hGUnc5d2tvMTl1Z1dEV0UtaFFNVEZUOG9aLVJqSndGLXM5d3REU2NFWDdKcDljU0NhR24wTGRDdm1B?oc=5",
@@ -142,6 +142,14 @@
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "url": "https://openai.com/business/customer-stories/shield",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "badge": "new",
+      "date": "2026-11-13"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -222,14 +230,6 @@
       "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted - Mashable",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5",
       "summary": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted Mashable",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
       "badge": "new",
       "date": "2026-11-13"
     },
