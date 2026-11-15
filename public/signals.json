@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T04:26:44Z",
+  "updated": "2026-11-15T13:18:53Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "A Human Reads the Anthropic I.P.O. Filing - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RWQ19WVmdZdzNSV2VQcV9TM2c1UGlEdjM5TUVWRmwtTXltMnZ5MTA0a3phZ2xVMjBsbjVmTUNycmhUMi14STh5N2dwTUxpVGhkdUFWbHdrQ1V6ekJ2OFd0UVp1UjM2Y0VhUTI0NWRQVElBdWsyUU5Zdzlud2J5VXZhVDZfNmc?oc=5",
+      "summary": "A Human Reads the Anthropic I.P.O. Filing The New York Times",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5",
+      "summary": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI WSJ",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
     {
       "company": "Apple",
       "title": "Apple HomeView available today",
@@ -43,9 +59,25 @@
     },
     {
       "company": "Anthropic",
+      "title": "Meet the seven co-founders of Anthropic - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmx5a0M0RE5jMXUzRE16VFRaY2xZMjBoQ19hRGhaSkEtNzRKaGk1eWFidXhhTmY5S1d2U0lMbHJNZUxsb3V1eHlOTXhKalp1OFgyQmNmMU5FLU5Cd044QnNhdEpUekxQa05jeEwybWtwVXZEQTJrbzZNZk80cGNJRUJ30gGHAUFVX3lxTE1ubHplaC1vS3hRNFpxQTZYcGhKQjBXMlJoNHFqbkhxRmlVZ2hoQW9rSXVMdTBRU19EZUpRdHFrS241ekdFYVhZS0txeU9wYmhZemVkOVhrU01EbU9QMnJkc1dqNDZMSFExRWJobnhTU2xQUG5aa29EeUp6RG1TaDlWTHc4a1NMdw?oc=5",
+      "summary": "Meet the seven co-founders of Anthropic CNBC",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Anthropic",
       "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
       "summary": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
+      "summary": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 The Decoder",
       "badge": "new",
       "date": "2026-11-14"
     },
@@ -67,14 +99,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Meet the seven co-founders of Anthropic - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmx5a0M0RE5jMXUzRE16VFRaY2xZMjBoQ19hRGhaSkEtNzRKaGk1eWFidXhhTmY5S1d2U0lMbHJNZUxsb3V1eHlOTXhKalp1OFgyQmNmMU5FLU5Cd044QnNhdEpUekxQa05jeEwybWtwVXZEQTJrbzZNZk80cGNJRUJ30gGHAUFVX3lxTE1ubHplaC1vS3hRNFpxQTZYcGhKQjBXMlJoNHFqbkhxRmlVZ2hoQW9rSXVMdTBRU19EZUpRdHFrS241ekdFYVhZS0txeU9wYmhZemVkOVhrU01EbU9QMnJkc1dqNDZMSFExRWJobnhTU2xQUG5aa29EeUp6RG1TaDlWTHc4a1NMdw?oc=5",
-      "summary": "Meet the seven co-founders of Anthropic CNBC",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Anthropic",
       "title": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal - Vox",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnF3WmhYX29rcl9xVEtiOW1ya1hZS0ljNm1vM25aRC1NWjZjUlFUbTl1ZXZ2N1FLOV9wVm96MnBvbDJIby1EWFZadDQ2bzRxek5USWNOTWRON2gzM255VUx6eVRaRldIX0RDOS1uckJMSklIMmhOVmNvZGVmbjJqSk5GanhGYnliRk96cEt1VUJ0RUloMV9QaUlB?oc=5",
       "summary": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal Vox",
@@ -86,6 +110,14 @@
       "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0U5d29Od01qNm5mUGY0WU5hdTN5eTV1M3ZxMUNiMXhzWGZtZWdlOExJZ1ZCLURsTGwxQ1p4OFBRX3hyZGNQN2Jfd2FGRUl6UG1kMzBDYjVTU2J1WnQ3QzdadzQ3ZU9zaEdPUG1XbUhNdmkyc1ktNVVsVW5XUjJBTGpUb3RsbVdaRkpvYVliQl9JWHhrU1Jab0hwVmhGOEZNbFY3NWFyME42bjVpNFZZSXZJS2FwM2ZGZVdzTjI1bUM?oc=5",
       "summary": "The Microsoft outage didn’t lose your email — here’s what it does mean for you Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Copilot vs ChatGPT: $20 Plus vs $500 Pro Tier [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ09LbzVJbUV6Nm11V0VYbTEyLTdBYUNuREZ0WVFmQ2owYjhfM3NENmdRcjUtRGNkRWRwM1hYNnFRMVNobTc1SUZ3SDFhU3RwTjl5Z05INGllTm15YlFuc2N5a0c1RFFfOUkxT2dxSGRTbWpCenF6LU5FWjRhdjEtc1VoRzY0UDVjQ0E?oc=5",
+      "summary": "Copilot vs ChatGPT: $20 Plus vs $500 Pro Tier [2026] shattered.io",
       "badge": "new",
       "date": "2026-11-14"
     },
@@ -123,6 +155,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "Perplexity Releases Open-Weight Decider v1.3 and Flash Decision Models - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczFGQTg4NzRZWEpfOFZ3c2hWNTIzbEVIbWhjQjJGaTJSTlZ2TUpoc05nSENmX1pvbHhHMHV1bzE2aDJmMkdDbnFmMkJQUWtBLWp4RUE1bEZvak9EemNhSFpZdEdSV1RZTzUyejl0OXV1SURESXpvc2x4ZDN3R1hndExQM3Q?oc=5",
+      "summary": "Perplexity Releases Open-Weight Decider v1.3 and Flash Decision Models CASRAI",
+      "badge": "new",
+      "date": "2026-11-14"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity Teammates bring autonomous AI agents to the Mac app - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTi1nd1RpdWdqSHVjWmhlNmhBMnUyZWs1MThqcFl2MExhdUgyT1dUNjFpdEFPYVZlYkJKSkRqelNUU2RLcTBuNHRXQVk2VmRTcGFQbUozLUc3NFhIdUpsSHY4ZTFwZUxCd0NHY2hGUnc5d2tvMTl1Z1dEV0UtaFFNVEZUOG9aLVJqSndGLXM5d3REU2NFWDdKcDljU0NhR24wTGRDdm1B?oc=5",
       "summary": "Perplexity Teammates bring autonomous AI agents to the Mac app Digital Trends",
@@ -146,14 +186,6 @@
       "date": "2026-11-13"
     },
     {
-      "company": "Apple",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
       "company": "Anthropic",
       "title": "Wall Street Braces for Anthropic’s Spending - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
@@ -166,30 +198,6 @@
       "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
       "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers The New York Times",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5",
-      "summary": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
-      "summary": "Is Claude-maker Anthropic going public just as the AI bubble bursts? DW.com Can the Anthropic IPO Save the AI Rally? The Motley Fool Wall Street Braces for Anthropic’s Spending The New York Times",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcloySmU0ekIyaV9vRXNHWHNUZ1Z0eHVlenVrRW9PNDBhNTFOVEtiNUFCSk02ci1sOWVabGI5dEtjTUxzUldjTWxFeGdUVTRVZVBPY1IzWVFtOFd5Y1V6UGVRMGRvT3VrbE84Qzd2ZnNyOUxPZ29hWXg0Q2ZMWTk4Wi1aVDFjdHNPMWVlNWxjYWVfSzBZYThDWDBBcm9wUnY3SUdZVWFVMlRfc2Y1VEpzRQ?oc=5",
-      "summary": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ Bloomberg.com",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -226,10 +234,10 @@
       "date": "2026-11-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5",
-      "summary": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted Mashable",
+      "company": "Apple",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -284,7 +292,7 @@
     {
       "company": "Meta",
       "title": "Meta AI smart glasses being tested by 21 Penn State profs - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HaGFneDBvUU40cmlsZFVLS25NbTQ0Znh0X0dLNXMyTGJNdUQtMW4wOWUwOHZrZkVET0hGdVhYS19vaVdyeTVaeGdPYWRnb0ZtNm1fX2d3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVQ4NmowSmNwSVdTTUZXb1FRQWl1UF96SzFYcU56eGdRU3AtY19xVGdiQXVaUWQwbGROLTdHUjZkazBGdGROdHJDUHZ1ZmJUUWdUWjg3VVZBMWx0N21SXzJxd3YwQnNaZDFZaE01TmtMM2pQZmYxckg1WTRIdTZWTldjYWZyVm5ubVk4dXFzQk1ZMXlZTDZWZl9B?oc=5",
       "summary": "Meta AI smart glasses being tested by 21 Penn State profs TribLIVE.com",
       "badge": "new",
       "date": "2026-11-13"
@@ -292,7 +300,7 @@
     {
       "company": "Meta",
       "title": "Meta AI smart glasses being tested by 21 Penn State profs - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVQ4NmowSmNwSVdTTUZXb1FRQWl1UF96SzFYcU56eGdRU3AtY19xVGdiQXVaUWQwbGROLTdHUjZkazBGdGROdHJDUHZ1ZmJUUWdUWjg3VVZBMWx0N21SXzJxd3YwQnNaZDFZaE01TmtMM2pQZmYxckg1WTRIdTZWTldjYWZyVm5ubVk4dXFzQk1ZMXlZTDZWZl9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HaGFneDBvUU40cmlsZFVLS25NbTQ0Znh0X0dLNXMyTGJNdUQtMW4wOWUwOHZrZkVET0hGdVhYS19vaVdyeTVaeGdPYWRnb0ZtNm1fX2d3?oc=5",
       "summary": "Meta AI smart glasses being tested by 21 Penn State profs TribLIVE.com",
       "badge": "new",
       "date": "2026-11-13"
@@ -382,14 +390,6 @@
       "title": "Perplexity AI sued over undisclosed usage caps on paid subscription features - Top Class Actions",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY256QV83NXJIbkptX25yb2dPdldqUHU2YXVBYmJPZWNJalktSkhjdkI0aEdBbkY3b0dJakU3V1l5SEo5WGxxVkxtZ2NPY28tbXZSbGFzU0pPWXQ1N3M3c2ZlSUd4T0Y0dGRIMG5wQlZXNEhhdDYwQ2lrWmhYbU5uY3NVbVZaQ19abzF6WTYxbVEzdldyOFBQa2VLam84bzlYNFJ2ZS1UdlY0ZTE4dkYtbm5HSEpnWlhaaXZQQXp2UHlQbnhHcDU5SkZPLTg0SGxyaUYzQg?oc=5",
       "summary": "Perplexity AI sued over undisclosed usage caps on paid subscription features Top Class Actions",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "AI chatbots are recommending fake retail websites, study finds - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXVBU2sxNWh5eHhiaG9kM2dtR0xXZmhwc0w2a3ozWmVMQ1hmQnc3NG9tR2FUazVRYW5jQXFRaUpLQlFyT1JGM0lMYTVxOU1oNGgwZ0E4eFgwdWUtR243Tk81WHVXV3FiY0V0b1dlVlFvUHNpWGVoOHBzbllXREJBd21LV0lOdWNPZzB4QnBrVVpmUVN2OHU5b3FHLTVBTWt4cUQ5SFRFeU5DUEFrcFV2elJFdzFFRC0yT25RR1FFQjRpbW91NGVvYg?oc=5",
-      "summary": "AI chatbots are recommending fake retail websites, study finds The Verge",
       "badge": "new",
       "date": "2026-11-12"
     },
