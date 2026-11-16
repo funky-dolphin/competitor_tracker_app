@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-16T04:23:36Z",
+  "updated": "2026-11-16T14:32:37Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "badge": "watch",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "OpenAI",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "badge": "hot",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmQ2UENEQ05IbkRrX01ER2xvVTNnR3Bwc3ZUd3JKaVg0MkRUbk9ob2JVYXZzdmJLQnpabXBXUG9JT1RGaWxvYzdNOElpRzJYMi1jLURUVU5MSGR1NjB1ekZJN0paTWNaQXRHSWJBRmg1LWs2S2hHOWhsMW5rczllb1JwYlc?oc=5",
+      "summary": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic The New York Times",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+      "summary": "Stocks dip ahead of Nvidia earnings, Anthropic IPO Reuters Nvidia earnings, Anthropic IPO Ahead in New Test for AI Economy WSJ US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO Bloomber",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5",
+      "summary": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI Financial Times",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Could Anthropic And SpaceX Lose Their Founders After NVIDIA Lost Jensen Huang? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYkJJWlZTMDFaT1M1N1QwVzRsMXc4ZHZsN2ZDeFJiY0diRlFObkZzU1psOVRMaUZLVGdSLUNIcm5BUlNpbFNMcl9sWGtTRjhjWU9RTE51OEtQSV9ZOUEwLS1wSkpCbzJMSkdOMXkxZ3JlbVhTc2JWcDJPVHE3djBDRWpoZlkwVm92TUlrUmN3akdZcHVPeDl2TjljSUQxMXVwUnhqU29kVGRvSmxJNFdOZVplUHBhVTdIRG1GQW9WeEw2Mjh1R21ORHpB?oc=5",
+      "summary": "Could Anthropic And SpaceX Lose Their Founders After NVIDIA Lost Jensen Huang? Forbes",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
     {
       "company": "Anthropic",
       "title": "After the Huang Scandal, AIndicators Look Shakier - Bloomberg",
@@ -10,10 +58,18 @@
       "date": "2026-11-16"
     },
     {
-      "company": "Anthropic",
-      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
-      "summary": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally Reuters",
+      "company": "Google",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "summary": "tbd",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Why Microsoft is aiming to make Copilot the ‘OS for work’ - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1RFZTl3Z2NZV1RmN04zMUN2TVdQVG1VVmJBMTJzbDlOY2dkdnpTdF96ZmhHRTEyaFZqN1k3enJfVWw4QUxPaFFRS2h2YkVTaGRCdjM0TEVNdUd0WjhhdkZYU1VsYWU3NjZESWxMVnFYcGFMQjRuV2JfeXIxR1NveE51UFhZSWY0X2tLYlJKUQ?oc=5",
+      "summary": "Why Microsoft is aiming to make Copilot the ‘OS for work’ GeekWire",
       "badge": "new",
       "date": "2026-11-16"
     },
@@ -54,6 +110,30 @@
       "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
       "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
       "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity vs Claude: $200 Max vs $4/$20 Opus API [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fVVRoTWFyaWlISzExM1gxS2RGM2pBNW1JSWh5MnBTLU1saHgzXzlpeFg4cC1zWldVOXVmVXh3Ym50SU5rVFZFS0FtdzE1NEh6YzRfdmVfci04Tmozb01OQWZUUVR1UWRNN0JLUjFoSUFMX1duYmNBVTh0YzU?oc=5",
+      "summary": "Perplexity vs Claude: $200 Max vs $4/$20 Opus API [2026] shattered.io",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Perplexity",
+      "title": "I asked ChatGPT, Gemini, Claude & Perplexity to rank the 10 best fast-food chains - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQzhpT3ZjTms4UTNmU3VfZGNlWGNfSG9oaTF0dnQtTU9leWZ5RkJWTEpYcktuUTRnbmtSVTBpd0dBNXpEcjdodko3VXNYWmd3Z1RKdm9CUVFjdlZ0MHFYUmJ2NmFUcXo4X3E3OXZHQnNzUWxlcmdrX3ZYREpVQjlKZGJrVzlkcmJSLVgxRnBzU0Jfd2w3Q3RWS1BPWGZabHNjRWR6LUZlSlktbXFZZUhYWms5Zkt1NXZSZjc1SThqdktGWHg2WmctZDFEY09pSDkxVDFJQTNaeG9LNHVSRDh0VHp3cVhnUU9DN2pUWDh0cGZjSnVsQ3lOUTJ6MjRabzdJS0tfZzVwcXktcHhw?oc=5",
+      "summary": "I asked ChatGPT, Gemini, Claude & Perplexity to rank the 10 best fast-food chains Tom's Guide",
+      "badge": "new",
+      "date": "2026-11-16"
+    },
+    {
+      "company": "Meta",
+      "title": "Samsung and Google Challenge Meta's AI Glasses Dominance - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlNMTFV0bU1tbVpKeU5YZFV2VjhWbmJlREtFNmFHc3J6WTI3M2JFTWtXTTl4Nzk5MW9ESnFZUFN6bTlKQUFtWWF1bE5sQXRQcHRyeWZYWmJtTF9QemNUV0tQWDdFZERBcWZJLUpxbzlUNHpnZXowUUpCT1JfVzZDWTVOYkNWX0hDNHZycmR2OHBEbkh2VnU2MUF3?oc=5",
+      "summary": "Samsung and Google Challenge Meta's AI Glasses Dominance GuruFocus",
       "badge": "new",
       "date": "2026-11-16"
     },
@@ -107,6 +187,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlBJMGRieWdXY3ZYdHJ4WVhhWjlPTWtkN0RrUGNZZVkzUFVGaGtvckpNV3FaS3FYajdrYkE1amlHQ2gtMm10UGo5MFVNM1pqb2VDb0F4aTl6UGhHeldlTEhfejMyOFZ6ZUNhYkpPZTl3WElyNUhldTBxNWFyNjNUazJ2Zm9lWllLeUhtMXFDeUlDd2otaThJNWlDRS1CU0JwN2t6a2hfRXV3Q3o1cENqMVlwcFpLWDBRTmNmZFVFWkM?oc=5",
+      "summary": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count? The Motley Fool",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
+      "company": "Microsoft",
       "title": "Commentary: Microsoft discovers AI can’t keep the email going - CNA",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWxqS1c3YjRKWWJOOTFQdVBIZkhjTlBqNGloUjFGS2lVSkk5UlhYWDh4OU4wTXJvU0xDRjJ2NjlWVFVlYWV5dktwR29IaTY0ZG1SaU5GSzVBUzk3Um0wWUJTblNicG1BUGN5VDlKWWVHc2RqRFctWFlpZ3hvSTVURTFzU2FsSS1UTHhMbVNyaWVObG1td0JLZTctZGhXZzVVd1pQcWNfU3lpdw?oc=5",
       "summary": "Commentary: Microsoft discovers AI can’t keep the email going CNA",
@@ -122,10 +210,10 @@
       "date": "2026-11-15"
     },
     {
-      "company": "Meta",
-      "title": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Meta AI Ray-Bans, Nespresso & More - SheKnows",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1lWSU1neDlyYndiU1FiN0drSjNCV0JnTW16eHlVX0FLZ19oM0lsTzBYZ2piWWtKcDlpdFgwV0dlYXNtWlFrbFhHTkJrQ0FONHhnZks1cFBsRUFKYTd2TkFjbVZRNFFKRTk0QWRuZlI4bzdmbGVNdHctUlFTakpwN09PZU9wQ1E?oc=5",
-      "summary": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Meta AI Ray-Bans, Nespresso & More SheKnows",
+      "company": "Perplexity",
+      "title": "Perplexity AI Predicts a Monster Move for Saylor’s MicroStrategy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTRqcGh1aGx0bFl3OUp2d1hoVzQ0OHktU0VucThHTzlWYjlLX0hxdVFYWjlrQ0dvMi1sWFpGUTB5a085M0UyX2t3SWZ6bU5tR2JDdTlFSjlQY3FwbmNiX1VpekJzQ3JhQlF5NFQyZ01zY25BVW5lT0dNalQtRHVieWdZODBqQm1pRUlGUjIyOXAtVGUzRkZFakNYUnJqdXdBOGc?oc=5",
+      "summary": "Perplexity AI Predicts a Monster Move for Saylor’s MicroStrategy Yahoo Finance",
       "badge": "new",
       "date": "2026-11-15"
     },
@@ -138,34 +226,18 @@
       "date": "2026-11-15"
     },
     {
+      "company": "Meta",
+      "title": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Meta AI Ray-Bans, Nespresso & More - SheKnows",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1lWSU1neDlyYndiU1FiN0drSjNCV0JnTW16eHlVX0FLZ19oM0lsTzBYZ2piWWtKcDlpdFgwV0dlYXNtWlFrbFhHTkJrQ0FONHhnZks1cFBsRUFKYTd2TkFjbVZRNFFKRTk0QWRuZlI4bzdmbGVNdHctUlFTakpwN09PZU9wQ1E?oc=5",
+      "summary": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Meta AI Ray-Bans, Nespresso & More SheKnows",
+      "badge": "new",
+      "date": "2026-11-15"
+    },
+    {
       "company": "Anthropic",
       "title": "Meet the seven co-founders of Anthropic - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmx5a0M0RE5jMXUzRE16VFRaY2xZMjBoQ19hRGhaSkEtNzRKaGk1eWFidXhhTmY5S1d2U0lMbHJNZUxsb3V1eHlOTXhKalp1OFgyQmNmMU5FLU5Cd044QnNhdEpUekxQa05jeEwybWtwVXZEQTJrbzZNZk80cGNJRUJ30gGHAUFVX3lxTE1ubHplaC1vS3hRNFpxQTZYcGhKQjBXMlJoNHFqbkhxRmlVZ2hoQW9rSXVMdTBRU19EZUpRdHFrS241ekdFYVhZS0txeU9wYmhZemVkOVhrU01EbU9QMnJkc1dqNDZMSFExRWJobnhTU2xQUG5aa29EeUp6RG1TaDlWTHc4a1NMdw?oc=5",
       "summary": "Meet the seven co-founders of Anthropic CNBC",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
-      "summary": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 - The Decoder",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
-      "summary": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 The Decoder",
-      "badge": "new",
-      "date": "2026-11-14"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlXWmNFVXRTcnRvT3hkTkdxdTBKWF9FVGZQaWVxdjNPT1hpa1BvaUVEckRfMEUwY0NZa3JSWlUtelBoWTFidk5hN1RSLWFHdmNQQlBBbjR3ODVFRnZmcFlaMEkxb1ljbHhzaUpVV3lpeW1KR0VTRHlBa1poU2diRTNpTElQdHhpSFlTUFpQeEZWSDJzRzVlRXVBdkwxV1VGODlrX3BxcHZtTjhSWGJOZDlmYjRoSE5BUUMtQWZxR0xvUXJmTXgxeFk1cWE3YnBiOVRCcjdR?oc=5",
-      "summary": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets Fortune",
       "badge": "new",
       "date": "2026-11-14"
     },
@@ -258,22 +330,6 @@
       "date": "2026-11-13"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft Outage: ‘Millions And Millions Of Dollars Lost,’ Partners Say, As Microsoft Finds ‘No Evidence Of Malicious Activity’ - CRN",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkVnMVFVTnF5dlVHSlNjcEgyaDlqNnc4ZHJkVzhFSmxRLVIyUF9YbkZLcVU3ZVNpQWVfeTd1Tko0aEtzNTYtN0x0emxSLWtTVlpyVTdOQkpVdmZVS05LbTFLV2NtNXBQZTRRSkVES2ZBRTBJd01QVG9jZGZ4SWw0QTJLRUJjTlBKLVBDS2EwdEQtUUZWRHc2NVdzNENIZFhlVkFzRzlDc01Id1lIbV9CV2VNaVFOLW1YOXo0T0pld1F0VENjeDlXeWRaSnJzUmpUSGVXTzlNSERXcmQ1YnlxTnU2Sl9CQmhTMm9hQQ?oc=5",
-      "summary": "Microsoft Outage: ‘Millions And Millions Of Dollars Lost,’ Partners Say, As Microsoft Finds ‘No Evidence Of Malicious Activity’ CRN",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide - The Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SYU9FWjdObVlZQVZxOU1QcmlRMkp1Vm1KRFV2Zk5wdzlxWWtST2FjNFZLWmxueGRPU3FKQUlSV3hWdlRVSzJJRWNKclc1eF9tUnZhTUxRZ19GQk1hN3gycElCYUMxaE5DR0hxZlF5V1NlUG1RbFZmaE1iZ0xPWmc?oc=5",
-      "summary": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide The Business Journal",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
       "company": "Apple",
       "title": "Apple reports fourth quarter results",
       "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
@@ -318,14 +374,6 @@
       "title": "Perplexity showed shoppers risky store sites in 15% of answers, ChatGPT in 8% - Martin Cid Magazine",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejBDZ0RNQTV1UVpVOWhtaTlnT3JaUW05Q2ZJWXhhZERKSzdQRjJoVWVLaE1xQzBvMjdpU1pyVGw3NXoyTnVzMUdOQ1h2eS05MnNIVkEyc2NtMTFJcTJOMWNuWWIybHUzWDZKc0U2YkRMNEdwYnAyZi1YRGhhNmwwOVh2YURjd0lLLXFrTm5GVWxpZlZYRUJiTHM1VXlhVml0VmdwYk1xdw?oc=5",
       "summary": "Perplexity showed shoppers risky store sites in 15% of answers, ChatGPT in 8% Martin Cid Magazine",
-      "badge": "new",
-      "date": "2026-11-13"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity’s Free Decider Led to 14 Agent Security Fixes - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3lNNFZMc1VGVUNwd005Z1dpdHFDT1BIR3VFWFFJTFBBQ2hVaW5aUlNJbEQ3S09qMER3cGkwZ1BtaFprYTU2VEpHdjlrRWZzaldqSjZ3dG5mc3BhZm9jeTBCdVNscmJoQXJseGo1dEtOXzJfRmNPZ0tnOGktb0NfZHg0Tk9Nc3N2ZTJJ?oc=5",
-      "summary": "Perplexity’s Free Decider Led to 14 Agent Security Fixes FourWeekMBA",
       "badge": "new",
       "date": "2026-11-13"
     },
@@ -394,42 +442,10 @@
       "date": "2026-11-12"
     },
     {
-      "company": "OpenAI",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/index/amplitude",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
       "company": "Google",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW03YTl1TUZGRzZ6bGtTRkk5SkZOMXNlemlJdmUzZUNfbG5tczg5ay00SU5IemlkWEtZM2hYSHNkcktWMmNaX1prMVV6SGhVWi15MU9yMXRZeUhRLXJ2aUJLNENUR085cEZIdFJoWHREQ2hrUXdFWFc5TVNCSlgtVTBvaXZUQU1Za05DRHdua3ptQThNeGRBeUhTYmFJZw?oc=5",
-      "summary": "Perplexity AI Predicts a Huge Move Pudgy Penguins: Is PENGU Set to 150X? Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-12"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity AI sued over undisclosed usage caps on paid subscription features - Top Class Actions",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY256QV83NXJIbkptX25yb2dPdldqUHU2YXVBYmJPZWNJalktSkhjdkI0aEdBbkY3b0dJakU3V1l5SEo5WGxxVkxtZ2NPY28tbXZSbGFzU0pPWXQ1N3M3c2ZlSUd4T0Y0dGRIMG5wQlZXNEhhdDYwQ2lrWmhYbU5uY3NVbVZaQ19abzF6WTYxbVEzdldyOFBQa2VLam84bzlYNFJ2ZS1UdlY0ZTE4dkYtbm5HSEpnWlhaaXZQQXp2UHlQbnhHcDU5SkZPLTg0SGxyaUYzQg?oc=5",
-      "summary": "Perplexity AI sued over undisclosed usage caps on paid subscription features Top Class Actions",
       "badge": "new",
       "date": "2026-11-12"
     },
@@ -562,14 +578,6 @@
       "date": "2026-11-10"
     },
     {
-      "company": "Meta",
-      "title": "Meta’s AI age-check goes global: Can it protect teens? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVpwWDhZeFc0RkEyLUlpZzJvWlE0dlBTMHVfM1RuV0RFNkVvbGU5V3pHMkFJTmt2UXB5NzVObVJhVEVZbDFVQzdaZ2MzTGxDLTN4eXlnYk45dDZCNEpDOW1TbDFhMjgteWtxWWNTSnhTUEtHUHBISTQzNXFKSTkwY0plTE54N2lKei1HNE0yVk9IQUVXOXNrMNIBngFBVV95cUxPZU1aTGRnZGtwRjh1S016Y2lQVGhjeXNTZEE2VENzMUdKeDZWek4xaG5weFdqdGRPX0x6ZERFN1dsdGZkZmFURi1kTWRCUVJuUDF1R2g5R1U3eTlsQm9PSGttcG8yd0paYUxEXzhMOFJaTTlGZ3V4Rm9oVHNYUklnMG95WFRDVGI3Mk55aHJnRzgzdmFIN1JmalR6Y3l5dw?oc=5",
-      "summary": "Meta’s AI age-check goes global: Can it protect teens? Al Jazeera",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
       "company": "Amazon",
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzMtUkZBdVhIWE41Rkx3b2RFOHlPZTlkeGtTNlFGRFhlVzREWnBNSFVMbldLZkVrSkwtaDN3amN5cl9CQUdLOVRUMXhTa040WkVvdFhqOWtOTENqNkN1RklNaDNlRi1udjA1OUJNZnpYc3VOQVlNSUYxQjZOaTlWYTJxcXhhN2hJeXo3MS1yLXV4ZmphQ1ZYeDNacHJfSkk0U01FOU1UNTQtb3o0ckF1Rw?oc=5",
@@ -595,18 +603,18 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
-      "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
-      "badge": "new",
+      "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
+      "summary": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses Beinsure",
+      "badge": "hot",
       "date": "2026-11-10"
     },
     {
       "company": "Amazon",
-      "title": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFhaU0hya1hreHcyQmV2VlpyTU9QUEtMZE05MzkyajczbFZ1MndzSklxcEh0V0VJUTNseU02UFNhNVYwdU11VkhtT0JqQUpyZk8zT25uZUJDeWh5NlBTNTd6akMweUtNUi1MRWdTbkdCVk5Md19GbVpvUVM1VXRqckxGUGhld21abzhmc1EtdW45UEtOMnREcWlHaHFpUkgxM3Q0TGhXdmtaSnZ6UTFNRWNUam1faDFsWTVn0gHAAUFVX3lxTE1tZjRhNVNHcVZBNHo1Uk1ITERhWHJmX0xVQk80dHJqMjNpSTBDb1BJYWZSMTAzMnlqOUxodDUtMjdhdXlENXZaa1o0d0dadGNtQU0wRnpUaTdER0ZCZUlYRnpLa3FDMzhWNzNobWxNTl8zWFlKUFduY1RWOEQwVTBlSTN4ZVVZdFMtYnUwSWlJQkdUM3Bxb211dzFGU0kyNTlWLXlNc0tOckFCVGxneURJQU8tOHlzYUl4cUVqSlV3eg?oc=5",
-      "summary": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses Fox Business",
-      "badge": "hot",
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
+      "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
+      "badge": "new",
       "date": "2026-11-10"
     },
     {
@@ -632,14 +640,6 @@
       "summary": "Animated carousel of images from AI posts in October",
       "badge": "new",
       "date": "2026-11-02"
-    },
-    {
-      "company": "Google",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-      "badge": "new",
-      "date": "2026-10-26"
     }
   ]
 }
