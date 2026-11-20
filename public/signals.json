@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-20T00:11:03Z",
+  "updated": "2026-11-20T14:46:16Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Why Anthropic’s blockbuster debut didn’t ease Wall Street’s AI fears - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sNXU2ZHpwSV9QNjdSRFpJRkd1VmdhZzhwdzlDTXFfM083VFh2MDJndHo1QU53WjM3ZmRnVExkNWwxR2pTUkRsWk5lTG9kNlZfUFVkOTRQelQwdVVqcGR4ZURQTVdNS1V0dG5OaWtQUEFpdGRF?oc=5",
+      "summary": "Why Anthropic’s blockbuster debut didn’t ease Wall Street’s AI fears CNN",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Can Anthropic Revive the A.I. Trade? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWt6aDNNRUd4TDBObHJrUnVUbTJxXzIzRU9UWGVtd2xSaVdPOVdYOGllQU5JelhTRXQ2V2M5MmptU3JyaVphZEpkUjBuMlZBUmc4bzF1YTM2b2R5ZzFCRkp4bVhvWnhCODFVS1JFVm5ldHlmUE9aWExwRFFlcnVTUlpwWERFYnM?oc=5",
+      "summary": "Can Anthropic Revive the A.I. Trade? The New York Times",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic stock is already falling today: Why AI giants are seeing a painful sell-off after record IPO - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDdVQVZfaU40VHFDQS00Tm52eXhSd01TU1BrVnZBb3EzV01HRHJ1RW5hLXRseHBvV0dfSnQ3aHgwWVgzS25zVFZ1SUxxaWFNOFRIbWlEM2hHNUZXYnkzV05qWXFKWGV0MUhKN2ItWkc4WnlZQWJ0NWp2aDlHTW9rcWl6RmhwU1hqLUJvTG9WbGdGUmZiV2JxMzJMQWJoRlVC?oc=5",
+      "summary": "Anthropic stock is already falling today: Why AI giants are seeing a painful sell-off after record IPO Fast Company",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI - CNBC",
@@ -59,9 +83,9 @@
     },
     {
       "company": "OpenAI",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -75,9 +99,33 @@
     },
     {
       "company": "OpenAI",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "badge": "new",
+      "date": "2026-11-19"
+    },
+    {
+      "company": "OpenAI",
       "title": "Get started with Daybreak Blue",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "badge": "new",
+      "date": "2026-11-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic was supposed to save the AI trade. What went wrong? - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVDhkb3hEeGNTUkQzaHdoTGlpWWd3V3VleW9WaEdHVGVER1ktZk9ISWRFS2ljQVJyU19abVh0UnJIaFU5YnRUUmwwOHo1NG9HaE9qUHFJXy1vcUt2N1czSXA4aWcwQTBrVXByNHBLTkU2NTIwbW5Z0gF8QVVfeXFMT2hOajR1ZlJzb1NvX0lmQUl2UUw1RENLeXRubnU5czEzMVVYNnU4TFY1dEpVM09oVWJvcnJNWWk0MWM2OWNvXzNYajhac2R2TkM1ZjdneHRQTlptR2V4WFFWOVhwVjZvNDNONGo2VG5NSVJaMkZnNGlqRm8xUg?oc=5",
+      "summary": "Anthropic was supposed to save the AI trade. What went wrong? CNBC Stock Market News, Nov. 19, 2026: Anthropic Shares Jump, But Nasdaq, Dow Fall Again WSJ Anthropic IPO live: Anthropic stock drops aft",
+      "badge": "new",
+      "date": "2026-11-19"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
+      "summary": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO BBC",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -114,46 +162,6 @@
       "date": "2026-11-19"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic IPO Live Updates: AI Firm Set to Begin Trading at $83 a Share Under ANT - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeDVOTjRXeWFBVUVZcUZmTy10dmxlX05BNm5uZjJ0RV91NnJNQXBTcjBhLXNJUnNjVXlTb1BjSGtnX3BObzBUT0EwMmRIVVFJWnZ5UlpNd0otTTZQenFkZ2xIMmx6U2s0UVRucnRaNTdhcTA5clJvNEE3OUhaX0NTMkln?oc=5",
-      "summary": "Anthropic IPO Live Updates: AI Firm Set to Begin Trading at $83 a Share Under ANT WSJ Anthropic set to make trading debut after record IPO CNN Anthropic IPO live: Company prices stock at $83, set to b",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic gave $40M to an AI safety group. Most of the candidates it backed won. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUtkTmd2NE5ZUnZKZm1SUk9NdGpidExKNEpLdmt1bzNVQ0FoaGNZMGRIbk1pQjBGQ28xUE5HVzlva0xIY19JNzBnLUVJNmtJQ3Z3eFBWcktZWGpmSWN1M01rUHlrempjLV9qdGFUbm0xU3J3UVhaVy1iU0FQVXFpaGRLZ05lWnVJUFFjeVFwVm91NnZRZFVjUGdJLWthMkR6UGI3ZC05ZTZUSEpuSnhSNTZJR2MtSHFwZUhsbTVB?oc=5",
-      "summary": "Anthropic gave $40M to an AI safety group. Most of the candidates it backed won. The Washington Post",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic's IPO set for blastoff Thursday in key test for AI boom - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5",
-      "summary": "Anthropic's IPO set for blastoff Thursday in key test for AI boom CBS News",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "The world embraced the AI boom. Now many are having regrets. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5",
-      "summary": "The world embraced the AI boom. Now many are having regrets. The Washington Post",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5",
-      "summary": "Anthropic Sells $81.3 Billion in Shares for a Record IPO The New York Times Anthropic raises record $81 billion in IPO at $1.5 trillion valuation Reuters Anthropic IPO live: Company said to price stoc",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
       "company": "Google",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
@@ -166,6 +174,22 @@
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
       "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "badge": "new",
+      "date": "2026-11-19"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Marc Benioff Gives Microsoft Huge Win in Switching from Copilot Critic to Collaborator - Cloud Wars",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXJ3UlJQaG41NTVYamJrSG5CTXNzTkdwODlQMGVxa1RTV0RvbWFYQkFzZEt6eXI0SlZmVXdVRlF2eEJUaURkbW1Gd1o3WjBmWHFXZENTaDNTZThheHJnbU11VzNxRVY1ZmJYWmdvb0VNUGpOQlBDWUpWY08yRkxiWUFYQUkzY0lsQ0hfMm80a25CZFNiNnJIWnNoZFpqUkdJY3kxa1JPS1pud3BBVlNObmNn?oc=5",
+      "summary": "Marc Benioff Gives Microsoft Huge Win in Switching from Copilot Critic to Collaborator Cloud Wars",
+      "badge": "new",
+      "date": "2026-11-19"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Everything Microsoft Announced at Ignite 2026 So Far: What You Can Use Now - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0VkTmtiWjA1dE56ZTFNZEVVQTlDaXJyMWlIaFgyTWs2bDg0UDRubF9tWjFLOVh4XzhFOE9oVTdQbGJsbGh6b0xNa3FOc3FkckVManZiZ2NFVTNaMzVORzY2WHRsWHNhX25JdlAwekhtQ2YwclJGQW9CVml1V3pRQzVRT2o?oc=5",
+      "summary": "Everything Microsoft Announced at Ignite 2026 So Far: What You Can Use Now TechRepublic",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -322,14 +346,6 @@
       "date": "2026-11-18"
     },
     {
-      "company": "OpenAI",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
       "company": "Google",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -342,6 +358,14 @@
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3haY0tBN2JleTB3WGZmX21RVmNRTGw1ei02NG05WFl2d1pmZzRMaERLdk9sbThVcXV0UXVfRUZ2ZmpwenhRX0pfSGZlZHZ1QmNHOVd6WUp4NkVfNDM3aWJrQjk0V3lxSjAzRUo4bjI5SFpwb2JwRHJZRnpPaWV2eE9RSkFZa19TQXg2aUpZOVpjcUk5MnJnX1RjM29oeTJwbmxWdQ?oc=5",
       "summary": "Copilot is \"the new OS for work,\" and now Office runs inside of it Ars Technica",
+      "badge": "new",
+      "date": "2026-11-18"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's Next AI Revenue Test Goes Beyond Copilot - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3JyNnBiVFE1dmgyMmNBeXBNY3FEZUtUUEhIMDBtT1c4Q3N3YXcwS2NwWVoxQk5Zd2g0dzVuUGY5SXM5aEwycVVMaHFXeVotaVpwcVUzc1FxS2hVVjdUcVRCUVdWMW1RbGN5YWpoc2xZa09oM01SeVE2N0ljVm9rRWhxSmJ2SmVjcHJiRThLRGQ5c2pORGowM1Q1UQ?oc=5",
+      "summary": "Microsoft's Next AI Revenue Test Goes Beyond Copilot Yahoo Finance",
       "badge": "new",
       "date": "2026-11-18"
     },
@@ -363,33 +387,9 @@
     },
     {
       "company": "Microsoft",
-      "title": "Microsoft's Next AI Revenue Test Goes Beyond Copilot - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3JyNnBiVFE1dmgyMmNBeXBNY3FEZUtUUEhIMDBtT1c4Q3N3YXcwS2NwWVoxQk5Zd2g0dzVuUGY5SXM5aEwycVVMaHFXeVotaVpwcVUzc1FxS2hVVjdUcVRCUVdWMW1RbGN5YWpoc2xZa09oM01SeVE2N0ljVm9rRWhxSmJ2SmVjcHJiRThLRGQ5c2pORGowM1Q1UQ?oc=5",
-      "summary": "Microsoft's Next AI Revenue Test Goes Beyond Copilot Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Microsoft",
       "title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmk1ckZmYUdxVXZDaS1LV1N5RWFQNEVLOWxER2VobUNtbEF6bFJ6X3Qzby1QV2tYaGp2bmM0WFpoOXRPY0lpTm0yNHlpZ2pTOTdaMXpuN0RvRHhkaWxlalF4N0M3dXliSEZiUlc4RUVGaFN6b01qZFZfY0gxeDAwNzZmVDk3UW9nUnQtOTVmdHBUeTc4UTZ5T2l5eWtiYXVzLWg1QllOSzVkUmx6VlQ4RFZjbUxSNmNrOHdjek4zQWo?oc=5",
       "summary": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work SiliconANGLE",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjVaTGtRbEM0amxtZ0lkUHN4QjdjOTNsdDVoemY0SHBueXQybGRDbkxaVDV5aXljdnF6Y0pNdkxENkdBREdGeW1CaUZwSlN3QmFnRC1pZVFQYXlEU1g3SEEtREt3Sm1reVlsb3ZmMFNrTzVCWVdOODM4aWhRQW5TeWIxdk1DZnpNSzhoYVN5OXQxSFJoY3I2Ty0yUjY0VlhrYzBYN3Fscw?oc=5",
-      "summary": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft is making Copilot more useful by helping you manage files and PC problems - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEEtN3Y5RXhfYzhxSk8xNl9RSjdLNEFoY0JDdWtsQnd2TVRnS2p2ejR0bkduWHBrdEw0Z05KcS1MWV82X0gwZUdXRlJZNVZFUnNSN09Zcm82bmlOeGNXWFhkMWV2bUxkejFnVXBBSXo4cndob25yZEwtblZJSU1vX2w2MzBEUGpfaDZhcy0wZ0NmSEhSRFBPUUREc3gySGU3dkJnUkNXUXduX0VVUEJGYmZVaElHRVVCUF9NZlJ5YmpYZw?oc=5",
-      "summary": "Microsoft is making Copilot more useful by helping you manage files and PC problems Digital Trends",
       "badge": "new",
       "date": "2026-11-18"
     },
@@ -619,6 +619,14 @@
     },
     {
       "company": "Amazon",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB0gGrAUFVX3lxTE5SRy12VkFNOXkzZTN6TGVMd2dLLXpHUGU1Qy1sbEpzbTdOV2hUb1A0bXgtN19IdnUtdnp0TzI1Q2JyX0lhNHpBNDVESm9RcmVmQ05UV2hwU0MxWWJ1a3BYcE5PQnZuZVRlMkd6bnJOQzJEOEpNelBBVE9lTlk0U2tOR05DaG5XY3Y4NW9vX19IcFNHZmZMOWVOZXAxT3dXbXhNVW1NOTFYUmE1aw?oc=5",
+      "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
+      "badge": "hot",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Amazon",
       "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses - Beinsure",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
       "summary": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses Beinsure",
@@ -631,14 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
       "summary": "Ring announces Ring Robotics, ushering in a new era of security About Amazon",
       "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
-      "company": "Amazon",
-      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB0gGrAUFVX3lxTE5SRy12VkFNOXkzZTN6TGVMd2dLLXpHUGU1Qy1sbEpzbTdOV2hUb1A0bXgtN19IdnUtdnp0TzI1Q2JyX0lhNHpBNDVESm9RcmVmQ05UV2hwU0MxWWJ1a3BYcE5PQnZuZVRlMkd6bnJOQzJEOEpNelBBVE9lTlk0U2tOR05DaG5XY3Y4NW9vX19IcFNHZmZMOWVOZXAxT3dXbXhNVW1NOTFYUmE1aw?oc=5",
-      "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
-      "badge": "hot",
       "date": "2026-11-10"
     }
   ]
