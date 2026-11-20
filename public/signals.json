@@ -1,6 +1,70 @@
 {
-  "updated": "2026-11-20T14:46:16Z",
+  "updated": "2026-11-20T23:35:07Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves - CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5",
+      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves CNN Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade CNBC Nvidia shares plunge as A",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2R1UU5HMEVNTGhtYWxQaTNBMjVRZnZxZjJVU0U1MVk0U2dIRHh6akhYNV9tNWxXYjNmeU16UzdqZDM3bUpDS1BxOEd2b3oySzVMako4Z25JMmNFUVd5ZlFWNTZ4WmJ6d2NXT0R5Z1JsNVNGMi04MGowVF9CQkl4dEEtXzJNYWRDeHA3Rk1hV250dEZWQjNRLW5RZHZPQ0ZMMlNLSDdkejFKTklvZW1ZNDZZalFOQQ?oc=5",
+      "summary": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math WSJ Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem The New York Times In a year of AI solving maths",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUF2VXNsQk8tUm92Nl93c0EtU1hDeERodW01ZktmcWdhRTF3UzI0UWxlaWlNdGVkOW4zeVdsdUxwRTFpMmJJenBpQXVQY1J6UzNGUE5lMmpfYUdfSUNuVDNtbWZDQTRMblJla3I0TFhYdVJJdlNkbnVrdjNPMXNSNWdPMk9nbGtvS3pjVFNzVXJZZkZ0Z3h0N2wxZlU2WGVneGsydkNIUkc1dVkt?oc=5",
+      "summary": "'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO Barron's",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5",
+      "summary": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain CBS News",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
+      "title": "The AI Safety Community Is Increasingly Freaked Out. Should They Be? - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0talVXUERDdVZ6NFF6b1BTR2lPMi1hVXFtRzd0MXBaR3RjS2xycld5Y0lkMWpUMDB2QUlraVlfWGZJbkRnY3hRWFBwYjlDMFNEWmNPZjBmX0NicTByN19TRk9jSnJJOEV5RFZVV2dacnJiMVIxX09IMUt4MmJDdw?oc=5",
+      "summary": "The AI Safety Community Is Increasingly Freaked Out. Should They Be? Mother Jones",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
     {
       "company": "Anthropic",
       "title": "Why Anthropic’s blockbuster debut didn’t ease Wall Street’s AI fears - CNN",
@@ -30,6 +94,14 @@
       "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
       "summary": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI CNBC Anthropic’s Value Surges After Multibillion-Dollar I.P.O. The New York Times Anthropic IPO live: Anthro",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFFjQV83WTV0SjhoRTl2MWZTc1M4NGlzdW1iZDREdm41bFJHMEhnOTRnOHNFd194Y2JnVGVQVkc4RUZKclV6ckNDZC11OTU3WHotcUNSVEVMMldwdDJ5VW1mV1VWUGxEUGNKelQ5cWVnYklmV0JGYmdhLUtkazNhM3BrU1hTbkd5QnlGY3RYOXNQeDdkTy1GaEY2TzRHaVNUUnFBM0tn?oc=5",
+      "summary": "Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America Yahoo Finance",
       "badge": "new",
       "date": "2026-11-20"
     },
@@ -74,10 +146,42 @@
       "date": "2026-11-20"
     },
     {
+      "company": "Perplexity",
+      "title": "Amazon Meets Divided Judge in Bid to Block Perplexity Agents - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVlhSUhIazJ5b3I1eWtRWEZXbC1LRHV6UUc2RUpuYnJTOV8yQUVHTlY2dDk0LUlWc056UUJQc3RFRGozbzlIbGNQUk5WM09BR3B3Y0lnaHBPR3R3TEc1WHNsZFVseGx1cFY2RU05X2tUdFhkb044bFRzam5FYkRHalowY0p5dl9XbmxIWktaTnVYRUpvUDZfbVRvYU9CbGZsWVFqQzdHdGJfc3AycG4yaERB?oc=5",
+      "summary": "Amazon Meets Divided Judge in Bid to Block Perplexity Agents Bloomberg Law News",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Perplexity’s Brain Learns on the Job: Self-Improving Agent Skills - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTkwckoybFNlNkZjSFFRcExDdmNsY3BmWE1aTkNSNDVIT0s0dzV5eWRiVTNHdDBWUkE3MlhSVHZEMGItb1pwQTh4TzNXUUt1c0t1dF9tRnJ2QnVnZGZnRDN2Q0ZsTllDcWZvczNUTUhIcFV5WDgtbmZMOWRJaS1nZTd1V3VGNVZnZlU0RmNrdmRURTJmRHZ6X3dpV1hjWGs?oc=5",
+      "summary": "Perplexity’s Brain Learns on the Job: Self-Improving Agent Skills The Futurum Group",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Researchers tap epiplexity to pick AI’s homework—and help write it - Digg",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwRFJsLTZ6VjJxa1l6NzBVUmxQNTdUc3RXQ2Q3M1FsUUJTT0JjVXpvTG9pczlCRHZtUGk5cjloODdMZw?oc=5",
+      "summary": "Researchers tap epiplexity to pick AI’s homework—and help write it Digg",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
       "company": "OpenAI",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "badge": "new",
+      "date": "2026-11-19"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -99,14 +203,6 @@
     },
     {
       "company": "OpenAI",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "OpenAI",
       "title": "Get started with Daybreak Blue",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
@@ -118,46 +214,6 @@
       "title": "Anthropic was supposed to save the AI trade. What went wrong? - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVDhkb3hEeGNTUkQzaHdoTGlpWWd3V3VleW9WaEdHVGVER1ktZk9ISWRFS2ljQVJyU19abVh0UnJIaFU5YnRUUmwwOHo1NG9HaE9qUHFJXy1vcUt2N1czSXA4aWcwQTBrVXByNHBLTkU2NTIwbW5Z0gF8QVVfeXFMT2hOajR1ZlJzb1NvX0lmQUl2UUw1RENLeXRubnU5czEzMVVYNnU4TFY1dEpVM09oVWJvcnJNWWk0MWM2OWNvXzNYajhac2R2TkM1ZjdneHRQTlptR2V4WFFWOVhwVjZvNDNONGo2VG5NSVJaMkZnNGlqRm8xUg?oc=5",
       "summary": "Anthropic was supposed to save the AI trade. What went wrong? CNBC Stock Market News, Nov. 19, 2026: Anthropic Shares Jump, But Nasdaq, Dow Fall Again WSJ Anthropic IPO live: Anthropic stock drops aft",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
-      "summary": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO BBC",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What Anthropic’s blockbuster IPO says about AI anxieties - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1VWdzFqQUxkZEVPdE1DTTIySlhnMVpWTENVQmQ4TDJWdWVjWFFMTVE2ZWREdkp4TEIzSmNlQUtSVlF1YW1jZjhkM2owQjlLUUl2Qy1iTUlLeFhSc0ZuLUNUeXJBODhDLXZsX2FWNnlPYVJhUE54cmlFdnJfT3Z2ZnhTQjFPOEVVWmZCSW1wS25peTdUQkc4T2E4aDc?oc=5",
-      "summary": "What Anthropic’s blockbuster IPO says about AI anxieties NBC News",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0doUFFYbC13ZkRzVklYaXZncGdPM0IzQUR6QnRGRmxDdXcyaGJrNnlIUWZYQWdnRXd2RnBPc3E2RUQ5RVh5aE9nYm0xYkhYLUN6SktFUFBuekVSbnhMMTNGSlBfUnFCU1B5YkRERnAwUFA5ck44ZnBNdGMxdzZtV05NMkhpTHV3ZGZBaHhB?oc=5",
-      "summary": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO NPR",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17% - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY05tbXdPVUlQLUxjRkhYSmRXV1AxY1BGS1dELVJKOFd0ZklWcXpmdXBtNG5lX0JTZlRaZGNrYi1ZM0Utc3ctU3Fvc1F1SmJSbG5oUHRrZU9FclZDaUROd21lckNlVUE4ZVVEbGpwY0gtYnBJNV9yZng3ZmMxM3I0OGJtYmp5TkstQUV2RnlKcUZoSjAyVVdIUHV4RUszS3ZSX3c5eGlCLXBMREdUTUE?oc=5",
-      "summary": "Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17% Forbes",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-      "summary": "Anthropic raises $81bn in record-breaking stock market debut BBC",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -322,30 +378,6 @@
       "date": "2026-11-18"
     },
     {
-      "company": "OpenAI",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
       "company": "Google",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -363,6 +395,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXV4cTU5RmZrd3lGNGRVS2RXYUZFU1prYmhYQzhrSnNWdkRHWmF6N2RjT3RkTkVTb0ZpQWhnZ3hXc3c4S1RzUXdsWGRJMFlVQkloZmlhSWhQcjkwNVFfWGxqR3NtbHNmLWdzRTBMb1dCdFVhUlV2SnhYSUYwZTlZZ2dMRjJadm1McGtYS29PcHhNdG9XSGlOVDFHY1FacGRDOWFuamRFdnEyLTVaWl9F?oc=5",
+      "summary": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-18"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft's Next AI Revenue Test Goes Beyond Copilot - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3JyNnBiVFE1dmgyMmNBeXBNY3FEZUtUUEhIMDBtT1c4Q3N3YXcwS2NwWVoxQk5Zd2g0dzVuUGY5SXM5aEwycVVMaHFXeVotaVpwcVUzc1FxS2hVVjdUcVRCUVdWMW1RbGN5YWpoc2xZa09oM01SeVE2N0ljVm9rRWhxSmJ2SmVjcHJiRThLRGQ5c2pORGowM1Q1UQ?oc=5",
       "summary": "Microsoft's Next AI Revenue Test Goes Beyond Copilot Yahoo Finance",
@@ -374,22 +414,6 @@
       "title": "PC Problems? Microsoft Wants Copilot to Tackle Windows Troubleshooting - PCMag",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHZUc2EwSi1WckZKWUNxdGpUdkhuZllwY3dhRnZaVm9kQTJFeGxWelROb1ZsQ0dWQnpqXzBIaU1YU09zZkVwNEc0ck4xMHF6WmZTcHFWTzZkYUJKeU9QWTNHWl9zX2c5SUpwWGpGYWQzaW5sWkc0SXVaWXdBWXlqd3BvZU4xVnBDUm1PU3NYN29sSERjcXhZU3pxT2Q?oc=5",
       "summary": "PC Problems? Microsoft Wants Copilot to Tackle Windows Troubleshooting PCMag",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXV4cTU5RmZrd3lGNGRVS2RXYUZFU1prYmhYQzhrSnNWdkRHWmF6N2RjT3RkTkVTb0ZpQWhnZ3hXc3c4S1RzUXdsWGRJMFlVQkloZmlhSWhQcjkwNVFfWGxqR3NtbHNmLWdzRTBMb1dCdFVhUlV2SnhYSUYwZTlZZ2dMRjJadm1McGtYS29PcHhNdG9XSGlOVDFHY1FacGRDOWFuamRFdnEyLTVaWl9F?oc=5",
-      "summary": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Microsoft",
-      "title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmk1ckZmYUdxVXZDaS1LV1N5RWFQNEVLOWxER2VobUNtbEF6bFJ6X3Qzby1QV2tYaGp2bmM0WFpoOXRPY0lpTm0yNHlpZ2pTOTdaMXpuN0RvRHhkaWxlalF4N0M3dXliSEZiUlc4RUVGaFN6b01qZFZfY0gxeDAwNzZmVDk3UW9nUnQtOTVmdHBUeTc4UTZ5T2l5eWtiYXVzLWg1QllOSzVkUmx6VlQ4RFZjbUxSNmNrOHdjek4zQWo?oc=5",
-      "summary": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work SiliconANGLE",
       "badge": "new",
       "date": "2026-11-18"
     },
@@ -414,14 +438,6 @@
       "title": "Perplexity Brain Creates and Updates Agent Skills From Experience - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjR4TG1ubExPYnJzWklWazlMRUdSMThHV0dkUmUxSk5tOG1mRk9pSTNwSnRyNlZmOXEwTnYxb0R6MFBxWnBqX0dLY2ZudnoyYVRseVJTRnkxT2JpTjhlYUNELXpMc2JjT2ZXVnFleFVOUGptWE9NVGcxSjZBMFFjSGZOZ2d0bV8yZXNHZWJTRXI?oc=5",
       "summary": "Perplexity Brain Creates and Updates Agent Skills From Experience Unite.AI",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMXJDVnQzS3JlRUR4TWcwQ0dUNEI3TU9Rd0ZWVWgyaWQ4c1JoY0V5U2pYMGt2RGh3OElMby1ReldXQmhfMnN0S0NVX1Q1aWxBY3BqdU5rRFBHTXh4bUJDZklJVnBaTk9QNzFOd2lNeEJidDU3Qjc2a2xsWDJ4MHVhQnlUU1J0UUtHS0ZzTFlKZjV5OHd3bWZzY0FfYV9RS3dCU01xLTAwcF9PelRUWHB5ZkZrRzgyd3EtckJ6MFZzemlPSTZaNVBET2NuNEQ2Z3hkdlgtbzVXaU9tdUFTQ1FlekFIR1Z1RnFHY1lWaEx4MmJhemw0bzJ3MFZyTDVvcWI1UlE?oc=5",
-      "summary": "Media Challengers and Analytic Route Release Joint 2026 AI Search & Attribution Framework to Help Marketers Track User The Detroit News",
       "badge": "new",
       "date": "2026-11-18"
     },
@@ -479,22 +495,6 @@
       "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
       "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year.",
       "badge": "new",
-      "date": "2026-11-17"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity launches Orchestrator API for flexible model selection - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMNlFFeXlzSXJfV3hvSWxyazI5eFFXb0diaXBzSzhBN1BRTk11a205TnRDSkdFdXlqVzNXZktmd0lkY3RFSncwNm9jekJrT0NfRWs4eHQxSmFpdXgtRkpjV18waEt4V2NqWjN6a0xwVzJrdw?oc=5",
-      "summary": "Perplexity launches Orchestrator API for flexible model selection Crypto Briefing",
-      "badge": "hot",
-      "date": "2026-11-17"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Launches Multiagent to Coordinate Frontier AI Models - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUp6dzU2YnBWc2pZbzJjcHY3Si1FaHVyTUdUbFRYd2xVcHB1djVWaUpHR3dhQTRDcl8wWm1jTWdxN19uMDNpZFpvSVdscjZkbkVUdDhiMHl5ZVd6Z2Y2S2NrbU5MUXdtdlJGb25UemhuRjlqRGxOU2dSb3pvSVZPYUFLX2EtWnUzN29rNHpn?oc=5",
-      "summary": "Perplexity Launches Multiagent to Coordinate Frontier AI Models Unite.AI",
-      "badge": "hot",
       "date": "2026-11-17"
     },
     {
