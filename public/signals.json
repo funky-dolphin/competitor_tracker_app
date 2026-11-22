@@ -1,11 +1,59 @@
 {
-  "updated": "2026-11-21T22:41:21Z",
+  "updated": "2026-11-22T04:41:52Z",
   "signals": [
     {
+      "company": "Apple",
+      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+      "summary": "Apple and F1 ACADEMY™ today announced that the all-female racing series will stream on Apple TV in the United States beginning in 2027.",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet the 2026 App Store Award finalists",
+      "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+      "summary": "Apple announced the finalists for the 2026 App Store Awards, recognizing 45 developers from around the world for exceptional apps and games.",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
+      "url": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
+      "summary": "Formula 1® returns to the U.S. this weekend for the FORMULA 1® HEINEKEN LAS VEGAS GRAND PRIX™ 2026, streaming live on Apple TV.",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
+      "summary": "Apple Podcasts names Baby, this is Keke Palmer as its 2026 Show of the Year, honoring the podcast for its exceptional quality and cultural impact.",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple launches research study to explore the use of AI for health",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "summary": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "badge": "hot",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTTdpZEszbEFkamptNXBGc1c2NF9fVnNJZ0tMUUI0ek94cFNpcy1sOF9hVWFRRFU3UzdfNDVGMElzengtRlczN0Z5bWozb1hpUXhJaUJYN3o3M21LWnZ5aDdqSURURnJxdC05a0ZpdWdFeXQybmJYTEtfMXA1SGotYVIwQXBpbW1ZdzZkZVVXX0haMklpbC1sR3EtWFQ4cDl1WVNiYmhnMkY5amFjWUVqS3EzclB1cVROSHhrNEtJZzNvZ1hGNjlIY0lHd3plR1l2U1RTNGJmUVp5eVRvc2ZYQ3UwOXQybGR0LUpzbnFVeVhVUHRG?oc=5",
+      "summary": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number. The Motley Fool",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
       "company": "Anthropic",
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
-      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times Two",
+      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News Two",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -14,6 +62,14 @@
       "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
       "summary": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times Two",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -66,43 +122,11 @@
       "date": "2026-11-21"
     },
     {
-      "company": "Apple",
-      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
-      "summary": "Apple and F1 ACADEMY™ today announced that the all-female racing series will stream on Apple TV in the United States beginning in 2027.",
+      "company": "Perplexity",
+      "title": "Back in lower court, Amazon wants to continue suit against AI assistant - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGFOTkZLSWQ1dTRKQkpVOVl2Qk05UjVHTGt2MjZGT0ZPam96MUZNdnowWTgxQzFMNEFEeTNtLVl4RU9CNGxBNXdCUGdfRGd4Tm1qdWI4TGNyMS0wSmc4ZkZMSTBxRXo2bFp0Rm1rR2xhZnRiWTN2UzRvWENwQUI4SHVid2ljeUJTelFhWlZMU0tubUhOc3VpWldxMHlCODdHRDR3?oc=5",
+      "summary": "Back in lower court, Amazon wants to continue suit against AI assistant Courthouse News",
       "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Meet the 2026 App Store Award finalists",
-      "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
-      "summary": "Apple announced the finalists for the 2026 App Store Awards, recognizing 45 developers from around the world for exceptional apps and games.",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
-      "url": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "summary": "Formula 1® returns to the U.S. this weekend for the FORMULA 1® HEINEKEN LAS VEGAS GRAND PRIX™ 2026, streaming live on Apple TV.",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
-      "summary": "Apple Podcasts names Baby, this is Keke Palmer as its 2026 Show of the Year, honoring the podcast for its exceptional quality and cultural impact.",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple launches research study to explore the use of AI for health",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-      "summary": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
-      "badge": "hot",
       "date": "2026-11-21"
     },
     {
@@ -110,14 +134,6 @@
       "title": "Perplexity Fights Uphill To Nix Amazon Suit Over AI Shopper - Law360",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDNYcGtXN1pjQ2oyejR6WkZDOU1obExrbXVIXzFRUGpLVmk2NGw0YWdyOEZJSTExMmU2NzVJQUpKVHFRc1Z4X29PNTNncXo2UXRlU3NUSXlCNk5MandVT2Z5SzNPNGIzRk04bTdwTFlteFpSOWJwNGZWZm8wUWJIX2pxX29MdDlQVGVGYjZJdUh1OGFfNTVUZFBKLTJaU2EtOURrcF9ZYV9rb2RaMVHSAVZBVV95cUxNRmljenp2WGM0NkE3QVpNSF91U0s2VnIxMkVvOGdnN0tCVi13ejM3WENTdHRkLW1oQ3BoSUFPQTVXaWNqWF9pNXptMUNmdEFfWU8wMXRlQQ?oc=5",
       "summary": "Perplexity Fights Uphill To Nix Amazon Suit Over AI Shopper Law360",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Back in lower court, Amazon wants to continue suit against AI assistant - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGFOTkZLSWQ1dTRKQkpVOVl2Qk05UjVHTGt2MjZGT0ZPam96MUZNdnowWTgxQzFMNEFEeTNtLVl4RU9CNGxBNXdCUGdfRGd4Tm1qdWI4TGNyMS0wSmc4ZkZMSTBxRXo2bFp0Rm1rR2xhZnRiWTN2UzRvWENwQUI4SHVid2ljeUJTelFhWlZMU0tubUhOc3VpWldxMHlCODdHRDR3?oc=5",
-      "summary": "Back in lower court, Amazon wants to continue suit against AI assistant Courthouse News",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -163,25 +179,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
+      "summary": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Anthropic’s Debut Shows the Disconnect Between",
+      "badge": "new",
+      "date": "2026-11-20"
+    },
+    {
+      "company": "Anthropic",
       "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves - CNN",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5",
-      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves CNN Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Anthropic’s Debut Shows the Disconn",
-      "badge": "new",
-      "date": "2026-11-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-      "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math WSJ Anthropic worker clai",
-      "badge": "new",
-      "date": "2026-11-20"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXV5MDNTQUNlQ2E0Y3ozc0RxalRiM2Vhelc3M2gyZnpmRWg3UWZYcHJqSVVpa1lsVjRYeldYNjVuZGxjMDZRcllvOHFmc24xcG1VY3RZdnFVT2Q4TGZ2Sk1zQTJBcm5BaTFqQjlDSGNLVUFfOERuLXo4M1VrTnFZcDFmSDdzejFmTy1PLXl6MHhsUkM0TjdrXzZScFl2TzJzdTJRc2FBNU9QdldNLXFMMkxrSUktVVFmRXFlbzhsaFd0Zw?oc=5",
-      "summary": "Anthropic IPO live: Anthropic stock drops after first day of trading Yahoo Finance Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI CNBC Wall Street Asks Wha",
+      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves CNN",
       "badge": "new",
       "date": "2026-11-20"
     },
@@ -355,9 +363,9 @@
     },
     {
       "company": "Perplexity",
-      "title": "Perplexity Publishes Guide to Managed RAG for Enterprise AI - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXpyWFFGcUIwNHY4aGRUNFV6S1JpNDI3STdENmVwd3M5dVFlSFF6TXJYLV9QaV9XeXloSVRJQVhBQ01CSFlqemlpZE1LanRucmNQYUVReUlQak1FQmJfNVhXLWtqZVBhbkNFd0J4Ty04QXJCZTB6WVA5cHV4RW13S2RqVmpLN0Jo?oc=5",
-      "summary": "Perplexity Publishes Guide to Managed RAG for Enterprise AI Unite.AI",
+      "title": "Perplexity Computer wants $200 a month — I built the same thing for free in a Docker container - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkVFaWwweVgza1h4NWJWRUN0Umg1bVAxeWRIQjBhU216b1R1dHltbWhVZS1TQWZHY2lGeXlJcVMyamthX2FfdTRtVEhNOVJXYzRDb3ctNFpTcGtxVmNtRWNnU3FYN0VIM2JESUw3OU15WWVTT3VXSE9tZ3paUnVxY3NzS1psa3RFU2V4T3U2ZnlZcDVDT1NIUEUwOGxuVTBTNFRsR2dZZDJVMTRXRlVUVWcxdEFsSmZ0YVE?oc=5",
+      "summary": "Perplexity Computer wants $200 a month — I built the same thing for free in a Docker container MakeUseOf",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -371,17 +379,17 @@
     },
     {
       "company": "Meta",
-      "title": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUnFJdm1EaVExZWw2SWRUWlJOVTNHWkh0cDVncm91UjVia2lfdzlIUlRWR3NuZG1FU3lWZjVaODNQbmNtMjJJUGI3bEE1RkQ2Ync?oc=5",
-      "summary": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more Fox News",
+      "title": "Meta rethinks climate goal as AI emissions soar 45% - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwem1sTDFvMFZwbllnNEVJd2lsa0hqbERQQzJVTHY5NzdyQmJsM2hTcUVTaDdlcHVYZUxiMk9nMWMxYThyV1FZYi1SejJ5cXBhYkVaTnVISGN6SUo2Qk1VR0lZTGlvUQ?oc=5",
+      "summary": "Meta rethinks climate goal as AI emissions soar 45% Axios",
       "badge": "new",
       "date": "2026-11-19"
     },
     {
       "company": "Meta",
-      "title": "Meta rethinks climate goal as AI emissions soar 45% - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwem1sTDFvMFZwbllnNEVJd2lsa0hqbERQQzJVTHY5NzdyQmJsM2hTcUVTaDdlcHVYZUxiMk9nMWMxYThyV1FZYi1SejJ5cXBhYkVaTnVISGN6SUo2Qk1VR0lZTGlvUQ?oc=5",
-      "summary": "Meta rethinks climate goal as AI emissions soar 45% Axios",
+      "title": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUnFJdm1EaVExZWw2SWRUWlJOVTNHWkh0cDVncm91UjVia2lfdzlIUlRWR3NuZG1FU3lWZjVaODNQbmNtMjJJUGI3bEE1RkQ2Ync?oc=5",
+      "summary": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more Fox News",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -470,14 +478,6 @@
       "title": "Meta’s $225 Billion AI Spending Forecast Comes With a Cash-Flow Question - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmJMYjd0bnAyMVd5U2xRQ09qbGhvM3pDaGxLMnlDd1N4WTNBSVF0eHhHQWhHV3pzZWp0bURXZW03TGk3cEhqWVNwZHpPdVlHelJnMGVjN3hRU2o5eHgtRGNSbGRJcWRHOWk3UUZBUWJQd1dRbGwycVMyTXprWUpDN3prUnlKWExhT3I4Umc5R3lFQVR5elFR?oc=5",
       "summary": "Meta’s $225 Billion AI Spending Forecast Comes With a Cash-Flow Question Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Meta",
-      "title": "How the Nova, Capri, Adventurer, Fury, and Starfire Meta Glasses Differ in Fit, Lenses, and Features - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlltbUdKVDhmVmpVRUhhcVNtdnVwUVpnMTdsNVFHeTZvTkgwNUpOaC02SkZkcEkyUVdlTE9Ua2RLbm5jUlVLYXhwS09mZ0l5QThRV2YxQTBEOEgyOW5sTmx6a0ExR2lpM0JMZnJWUVM3UDZ1cWV1bEh0bzBKRUw3MURpbkM4bkcyZDduSlBiajdpdzJLcGx1WUpOMjJUa1lSVU5J?oc=5",
-      "summary": "How the Nova, Capri, Adventurer, Fury, and Starfire Meta Glasses Differ in Fit, Lenses, and Features PCMag",
       "badge": "new",
       "date": "2026-11-18"
     },
