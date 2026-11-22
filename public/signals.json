@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-22T13:55:26Z",
+  "updated": "2026-11-22T23:06:24Z",
   "signals": [
+    {
+      "company": "OpenAI",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
+      "summary": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters Yahoo Finance Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley The New York Times Anthropic’s rec",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hMUtBY1JVVkhTenFoNG5ndjRQU1dRRzVheU9sUFg3WXdQTFVXdG1HMnlhY0twWmcwb1VYcWE0STRTcENWM2NJcVN0UlVwdnNuR2J0WjJtMlp4eGttN1FrX0k4cnVOZkRvUHdmRVAtMTlVTnVEYTJ1UQ?oc=5",
+      "summary": "Tech sell-off hits Nvidia, Anthropic and Nasdaq Fox News",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
     {
       "company": "Anthropic",
       "title": "What a wealth tax looks in the age of AI billionaires - CNN",
@@ -58,6 +82,38 @@
       "date": "2026-11-22"
     },
     {
+      "company": "Perplexity",
+      "title": "Perplexity and Intelligence - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
+      "summary": "Perplexity and Intelligence OpenAI",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Perplexity",
+      "title": "OpenAI calls for industry-wide AI brake tied to perplexity - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2FhV2JfU0NzTjBtdE1wMTlrdzR6WTNYVVZsNy1GYUZQSkVldkFQTWF4MmhXMHQwd1pMdkVUbVJkb01UbEZwYlZKSFNfSkZ5WXNPTEF2V3ZNWkM2V1ZNUW5zS1ZyUDF0Vk1Nb1k4YXhOdFhOY3lveG8zcjY5NTdaZDZKN3JxNHZ6R0RVY2hmX1g0MDctclk2VDhzcFE?oc=5",
+      "summary": "OpenAI calls for industry-wide AI brake tied to perplexity Seeking Alpha",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Perplexity",
+      "title": "OpenAI chief scientist says perplexity could help set limits on AI development - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtVYmU2SHdYTFNIbk9qZjM2dXlNNU9rd3BxS0JoOEFxeGx2NGtWT0p2Ymk0R3BHNnB2SGtUV3ZKNFVHSU5WdEFsTkVzZWVBUnc0cFVzZlNvVXAwUkgzX2xyaXNIMmtkNjRycXhFTFpDWVB3ejFuV3Z3MFJjSGdHelhZZnlIYkJB?oc=5",
+      "summary": "OpenAI chief scientist says perplexity could help set limits on AI development Mezha.net",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta Hid a Camera and an AI Assistant in Ray-Ban Wayfarers and They've Never Been Cheaper - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUJ1U1dlQjdVWlZvbGZuMjJTb0RCc0I1VGl5Z0JiOUxLQWVpTTdEeVlSU2pwM25mX2JmeXpWdXV0SjVJYTJqdnlPQ1Q1c09fYmk4dW9WRTN1T3c1WktWeDRPSWloX0JhdExtVUV6b2h4NHB0RS1GQ2U0ZElSdEtLRFNWV2Q4R3N4ZV9fZFI3T1dXbVYzc3J4c2RUMWlJSXlxSEtHN1cweUk0RXA2NVp1M1Ayc2wtbGVyN1ZJ?oc=5",
+      "summary": "Meta Hid a Camera and an AI Assistant in Ray-Ban Wayfarers and They've Never Been Cheaper Gizmodo",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
       "company": "Meta",
       "title": "Days after telling Apple CEO, 'great doing business with you', Meta’s AI chief Alexandr Wang takes a dig - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQYmJRSkQ4VmZwSlN3aGpEU2hWa0diTE9kcE51c0ZCbDZ5NEc3bTE3ZHh3U2Y1c0V1RWNoOHBCS3A1eE5HOC1NUFQ1MEpaWjNLOVZUOXU4RUQzb2NZTHJBbHgyZFVsbDZCYWx0RmVfRXdQNmR5Znc3UjdWN3FKc2E3dkRVcmljb1BjVlliVDBxN2VkbFA3ZEszcUpRNGEwTFEtQXp5ZTJOWHFSNFJ5dkk1bUpLc3NwT1d3VU5KblI5SUN1THp0SDZTRmlMbFhab1didHN1dzdpNVVaWjMwbWEzU2JrYzh2ZEJTVklfRW1zaUFaMFF0MlE5anlKRHdFUjFXc0hYeUdJNlZGQnpDZV9iOUtiUTY3em1ETC1nZ3NfTHBXN0duTDVYZFFRXzFFLXZFbVhfOWZxYTl5Q2VX0gHCAkFVX3lxTE1UMkhsd2dWNmwzLTRKVGFqbHJRWDYxVTRpN2RGNmhxVFRWVFdqNlREMkxvWk1na3pId0I3ZDVxM1Y5M0FIdENRTEFOSTVEVXk0RmhBNDBxbV9ESFZ1N1lGem9pYmJxMU1qWVFwdnRmTzdPYk80dWROcW9aV2gzMmY5UjBNQXdwanJsVFA3Y3JMWGgydGJMYmpjbUpfTDZYTTBtR2ozcUxsSWE4MllaSFo1RzdDUVNFeHRpem1xOHFiVUNLTy1rbHoxMUR2RlNscm1mb1hMbkF1SFpiRWFFOE1oOFpBdzVseE4xVFpGMm8zSncxbVdTRml0Uk1WZ0dCcFlLUUg4VnRwdVdkb3Foalc3VjdzZDROZzhpSld0Y0FHM2RTUXNYeU94ajVHSTJRUzJ6b1ZDVTRvX09yNTNqRUdHUnc?oc=5",
@@ -72,6 +128,22 @@
       "summary": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number. The Motley Fool",
       "badge": "new",
       "date": "2026-11-22"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times",
+      "badge": "new",
+      "date": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News",
+      "badge": "new",
+      "date": "2026-11-21"
     },
     {
       "company": "Anthropic",
@@ -99,14 +171,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
-      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times Two",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
       "title": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister. - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGJyNGh6cktKS0FsM3FIbF9LbjFqVThfY3MyRURJREVmd1JqVGtVX3pTV1FuQzBUUUI3VDdXVHdUYkpKTDk1Ml9vZzdoN1p5T0pVZ3g1eGpwQ1NfVFp6VlhJX1FSXzZ6ajVDYjVKazF5N2FGbXVHLUdjN05YRzVQZnRYaVZtMkE?oc=5",
       "summary": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister. WSJ",
@@ -118,30 +182,6 @@
       "title": "Anthropic says it will put humanity first. Will its IPO change that? - NPR",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWZST3piU2NqZVJlVFlPQU9BY1F3eXNMR3VQdVd3OTRTcUF0b0FHSmp3MFZpZHFYaWNrOE9zRnl5LXBlNDlwaXQxaHhKY0VDVjQyVHhiT2ZQZHA0c2pwWFJ2VkItZEtmMHFfSmg3VU44dHgta0VnUHNVZy1sZGhRT0V3?oc=5",
       "summary": "Anthropic says it will put humanity first. Will its IPO change that? NPR",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZRM1BXMkItVU9WdFVsc0dJOFVrRjlIbVVPOGxRendaRXc5QUlFQ3FYU0tQSXZRY1N5cjNRWXFJcmluLW9tLW5IaElvX0hJUHNiYWJKWVpha3FqSzBqRElZY2hBTnhsZzhoSEJKbzZMZ25vYU9Wc1J4QXpxZ0MyTVJob19lZFVnYjMyUmF5cVRaQTRBOHBz?oc=5",
-      "summary": "Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion' Business Insider",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
-      "summary": "Using AI, mathematician claims to have solved one of math’s great mysteries The Washington Post Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude The New York Times Anth",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "ARK Invest Adds More Anthropic Shares While Trimming Crypto Stocks As Bitcoin Slides - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTklYb2p0ZDVLc1dIdVhGS25WSE5UbzZSbHdjYXFqMS1rMXBzcEN5WERCSVdOVThPRUVCOVJXaFNFaVZaTWxtWDAwUG0zMnQ3WU93T05UTmliLVRVeFdGbFlKY2VqVlk3TGJwbUJnamVYRVVVaE4xZGNiR1hNdnAzX1l4aHR5TUszT2xsYkJKR2o5bUlnOVp2NkFn?oc=5",
-      "summary": "ARK Invest Adds More Anthropic Shares While Trimming Crypto Stocks As Bitcoin Slides Yahoo Finance",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -362,30 +402,6 @@
       "date": "2026-11-19"
     },
     {
-      "company": "Perplexity",
-      "title": "Perplexity AI Predicts Insane Bitcoin Price Target for 2027 - 99Bitcoins",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0xXN3JDeUs4UU1mOVk0UlJ2RkVIbHBvZDN6eExiSkxzY29HbGFNekJYMHltN3N6eHNPbnFURG9NVVJuWkdHV3pwb3FoYTBURUN6Z3pXQmo5LW9Halh2dm5SNDBHbEs0UGdIbzNpX1U3QkhWQ0ExRXl1UHh2WEZlQm9tSjluWWUxT096cDFaWFpuUXJJTzRnZzVNb1E?oc=5",
-      "summary": "Perplexity AI Predicts Insane Bitcoin Price Target for 2027 99Bitcoins",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Perplexity",
-      "title": "I tried Perplexity as my Android assistant; it almost beat Gemini - Android Police",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmlic1NNOE15Sko4NGl6YmRVd0hiVWV2QWFiRjFhTGdNcm02NHJYSWpNWllhT1pNYzJ3S1FTU1Z3Nm9NRlpxc1pQd2VpZm0tRmhlSzJZbkpNTzdzZDlRTkZaSzhtQUpBN2VVYnVVMC14MnlidkhJalFTZ2toUzNFSVZIWFdFSzY4Ul9wSDRuTFo?oc=5",
-      "summary": "I tried Perplexity as my Android assistant; it almost beat Gemini Android Police",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Computer wants $200 a month — I built the same thing for free in a Docker container - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkVFaWwweVgza1h4NWJWRUN0Umg1bVAxeWRIQjBhU216b1R1dHltbWhVZS1TQWZHY2lGeXlJcVMyamthX2FfdTRtVEhNOVJXYzRDb3ctNFpTcGtxVmNtRWNnU3FYN0VIM2JESUw3OU15WWVTT3VXSE9tZ3paUnVxY3NzS1psa3RFU2V4T3U2ZnlZcDVDT1NIUEUwOGxuVTBTNFRsR2dZZDJVMTRXRlVUVWcxdEFsSmZ0YVE?oc=5",
-      "summary": "Perplexity Computer wants $200 a month — I built the same thing for free in a Docker container MakeUseOf",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
       "company": "Meta",
       "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEZqS3ljbVVnME1UWVJsLWxidDBoSDZfZ3drbFRoVXVoX2w0V0RnWUM4UTV6SW5PNEFLUG82S3VRLUFST3h4OW82NmVWVVJrYXptcE9PU2RPbjAxZjdnTFVLVDhYVTlndGx6RzlLSHh5MUE5emVjM2Q2amxNNFA0cTRpTnAwUmF2SDRwV094eE02WW5MRkx1YnRoNk5WdlJKUnVQRzhXUXhvTXZNMDdCTW5LbXgzU1BvQkhF?oc=5",
@@ -442,14 +458,6 @@
       "date": "2026-11-18"
     },
     {
-      "company": "OpenAI",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
       "company": "Google",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -470,14 +478,6 @@
       "title": "Apple TV introduces new Sign Language interpretation feature",
       "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
       "summary": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
-      "badge": "new",
-      "date": "2026-11-18"
-    },
-    {
-      "company": "Meta",
-      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzFCWVhTaXRGa0xoLTRJUUVKTjNaYXZzU2FhbHYxR2tyallCbFJsUFM1U21lbXN0UVN2U3FfZnlsWWdGWERVTWRBdmhHVmZaS0Z3X0REWFhvaXhQYXpoNHRlTG0wbHp0WHd5b3N3dnpOYnJONWE4bWVXdEJObHFqZTFYd2szQ3p1SU5LV1JxODNpSVpoWnZTdXVWRDJTSUl0MTRvQnotcjJrUUE?oc=5",
-      "summary": "As Meta bets big on Muse AI agent, early safety mishaps surface Reuters",
       "badge": "new",
       "date": "2026-11-18"
     },
@@ -627,18 +627,18 @@
     },
     {
       "company": "Amazon",
-      "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
-      "summary": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses Beinsure",
-      "badge": "hot",
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
+      "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
+      "badge": "new",
       "date": "2026-11-10"
     },
     {
       "company": "Amazon",
-      "title": "Amazon’s Ring debuts AI-capable flying, ground security robots - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUVSWXlLYXJUX0V6bEtJVzh2TjNRSWFFU3dTdWxJRDduQ295VGRpZkFYdWZmbWxSandRTmNJM1lSbkZmTmlkR1NyNjJJcGZEZHU4OWtFTnJzWmQtSExPa2tsQTUtbkhmT1VmczlNdDF2MllqMUZxaDB3bjBnbTRZOGtvZU5YLVZybUY3ZnhkbVR5QURRdGoxeUtvUktFWGlIRlBSekxXekxhVDNBTlNV?oc=5",
-      "summary": "Amazon’s Ring debuts AI-capable flying, ground security robots Washington Times",
-      "badge": "new",
+      "title": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVVA4aW9HemNHYkxMWklENkc4MFpfR1lXMEZiTlhjNHBsWTQ0dHhXaUhlRGNveVdJVUw5VHJaQTdDaFQ1cVJic2ItdlpEbGNTdzFnY2tMbGs1eEdOa0lmTlhwR1NwMHoxaEI0bW5SLUxfazg?oc=5",
+      "summary": "Amazon launches Ring AI security drone and autonomous robot for homes and businesses Beinsure",
+      "badge": "hot",
       "date": "2026-11-10"
     }
   ]
