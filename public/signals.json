@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-23T05:19:13Z",
+  "updated": "2026-11-23T17:08:28Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Shares Churn, Defying AI Trade Rally on Huang’s Return - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3FZMk45aHRWV3NIaWg3cWoxX1A3WDYwbnJlelBOZTR5emJTOU1NOFJNbWJFTC1STmNXT1ExMlRnc3BHQWRLRzNIMnJ1eWpSRG1LSWNfanpDY0xDekl4a3NINm9jTzRyVjRzUFpEMDFwc0toMllDYlNaZkwxYXB6djBKT0FyWi1pZmROZzRjaEJGeEhMaWNJWUllWGZBVndiU1FVNnV2RmlkN2ZrTFJ3cHc4WVU?oc=5",
+      "summary": "Anthropic Shares Churn, Defying AI Trade Rally on Huang’s Return Bloomberg.com",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic’s Seven Billionaires Create a New Type of Hazard - Bloomberg.com",
@@ -22,6 +30,14 @@
       "title": "Asian shares mostly fall after S&P 500 drops 3.7% into a correction - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU2N0cmZWVnoycVNpWkxTZVNoX3otWmgxTnQ4Q2pIT2RWdUFnazg3QVRqYzhKclF4SWpVa2Q2NXlvRUlEdWpTNnBDa2U1OEZ2dm9lN0U3NmpwMllQeWJrU2xPaGV4el9IbE9qNXA0WW5hYTBNS21iYXZKNmNpMU5mUjV5ZXdwWkYyOXRIMUo2aGhjNkZ0VG8wT2VSS3J2TVk5ZFQ4cWdxOFFjQTVJcnlWZ21KRG5wcy1YSFgzdDNqZ2tsbktzYnQwUklyWTFIYjRmOTN5RUI0MXVmUXc?oc=5",
       "summary": "Asian shares mostly fall after S&P 500 drops 3.7% into a correction The Washington Post",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Google",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
       "badge": "new",
       "date": "2026-11-23"
     },
@@ -75,9 +91,49 @@
     },
     {
       "company": "Perplexity",
+      "title": "OpenAI Chief Scientist Proposes Perplexity Thresholds for Shared AI Safety Limits - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmdLeThyY3NkTThyOE9SLWk4b251cmVHTXN6eW1RN2NJTTJGWGg5aVdwdjBlakVVb0FybHN2ZG9OSEVRRk5mMWRNTktfazJWUzFBR3BULUFOdG1EZW5KTWVrd0ZpMFNOYkRNbHFqTWlkSVVMenBDdTR5dlFZNVVyZWhFRmFmeVlJWWtrbmRMMmhkbTN1TGFrWlF3?oc=5",
+      "summary": "OpenAI Chief Scientist Proposes Perplexity Thresholds for Shared AI Safety Limits CASRAI",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Perplexity",
       "title": "OpenAI scientist calls for shared AI limits based on perplexity - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGdpOEV1SUJHZUx0N2M5YUZjc04tSHMtX2hLcXZWYmxUQnYxc041cUNTYzdYV1h3b1Via1UzQXRnZFczdGNMWkNqS2dYRVQ3UkZVcE5GWEFUUlN3RzNBN01wN3FtTm5ZVWJJd3laTjFNRTgzWkphc21XN2ZlVEs3Y19KdFNZTU1I?oc=5",
       "summary": "OpenAI scientist calls for shared AI limits based on perplexity Mezha.net",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Perplexity",
+      "title": "OpenAI perplexity plan: 1 new metric to keep AI safe - DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nNzYxR1JuTm03NFZyQThtZzQyQ2pWVGc4NXpFVS1sUjU0TEFTdXNtX3RHMVlNeVNZaGN6ODNlblYtdVhCOHJWMVRqaGliQmtZT2RFU3lxRTF6MmJ6U0tQOF9n?oc=5",
+      "summary": "OpenAI perplexity plan: 1 new metric to keep AI safe DNE Africa",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
+      "summary": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions Forbes",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGZsQTJ3VW4tMEsxRjA1c25mNUxYb3VLSm1DdTg5dmptYXc3b1lsckNiYlE0WGhhVlRodmZDemNVdHA3ZEt0bkF0TkNRNkF3cEx0ZllFQ29yYlZUb1hyOXdmbk9OOGRpVm5wcHFPZzlVQmVHeTA4M3ptQVk3YW5LYUl5MUJyNEx6S2I1QVNB?oc=5",
+      "summary": "Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date Yahoo Tech",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Claude cracks famous maths problem, prompting safety warning from Meta - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0tmLWRvZmREOGo4bUR3RjVaU2pXbzZFQUloazFfU1BGSXdkWDhSckdvbG9EUWlzWDZ2UGpmVE54aWtVMk1XLW0zUW90SlFhSG5pSk80QWkwZ0dMRjNTek5YWldDWWpVU196UWh5MEpwbHhvckV6MUREOUFzMTlBQmw5Rmx0OGtDdXYybzc0RUVESnNLR0V2OHB3enFFcTFCVEx6aHhVVmVKLXRiM0xF?oc=5",
+      "summary": "Claude cracks famous maths problem, prompting safety warning from Meta Euronews",
       "badge": "new",
       "date": "2026-11-23"
     },
@@ -139,6 +195,14 @@
     },
     {
       "company": "Perplexity",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGxIY24yOU1LOUlMeVhETGlMMUZaVjN6SHZzSkduYTluS1RkZzVxUktHR2dFRndlZEUxdjBmQXlpdzRkMjhIVDRaTXlsTUUzbzFud0Y3R1ZaUzhxS3dlYUVaNlgzSDB6cVNNMTNzNGRSNHYwaGp0MkdTNmptYzZxRG1GeVRmVzdaRjNkWkU1b21UTWROUGJrUWJ5UksyeGtPZG1PSQ?oc=5",
+      "summary": "OpenAI’s chief scientist has thoughts on how to limit AI development TechCrunch",
+      "badge": "new",
+      "date": "2026-11-22"
+    },
+    {
+      "company": "Perplexity",
       "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog - The Decoder",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1NEYkR0NzBjZFd2bmR3UG5BYjhwT2hyWjRQSlQybW5faWdhRTI2cVJYMml2Zm9YWnNtZUVRU0dZNmRGR0ZjemRscE12ajRoUEh5LWtkYXljZVJBcVIxcjR2c2owTjZtdHpxZ1NFUUpwUmZJbXQ5UUtzXy1jcldjM1dmZEh5eHFmRWNFd0JPODE3bFRGWm1sTjc2aHY0UjRPckNxMnhRVk9QS0gzZmc2MWhtdWU?oc=5",
       "summary": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog The Decoder",
@@ -195,25 +259,17 @@
     },
     {
       "company": "Anthropic",
+      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
+      "summary": "Using AI, mathematician claims to have solved one of math’s great mysteries The Washington Post",
+      "badge": "new",
+      "date": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
       "summary": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem The Guardian",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xNEdGZ2NVWW5vN181WS00bHpZZ29jQjd6TVZEb0FvREdoTHJwV2ZYYVZBMTBTbTFhQjRIX3ZEOVhVdVFaNGt2aGRtZnRoWXljaHg3ZmdfRGREeHVWaGE3RC1sWGFVYTRkNXVqaGtB?oc=5",
-      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI CNN",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
-      "summary": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse Yahoo Finance",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -238,22 +294,6 @@
       "title": "Perplexity Fights Uphill To Nix Amazon Suit Over AI Shopper - Law360",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDNYcGtXN1pjQ2oyejR6WkZDOU1obExrbXVIXzFRUGpLVmk2NGw0YWdyOEZJSTExMmU2NzVJQUpKVHFRc1Z4X29PNTNncXo2UXRlU3NUSXlCNk5MandVT2Z5SzNPNGIzRk04bTdwTFlteFpSOWJwNGZWZm8wUWJIX2pxX29MdDlQVGVGYjZJdUh1OGFfNTVUZFBKLTJaU2EtOURrcF9ZYV9rb2RaMVHSAVZBVV95cUxNRmljenp2WGM0NkE3QVpNSF91U0s2VnIxMkVvOGdnN0tCVi13ejM3WENTdHRkLW1oQ3BoSUFPQTVXaWNqWF9pNXptMUNmdEFfWU8wMXRlQQ?oc=5",
       "summary": "Perplexity Fights Uphill To Nix Amazon Suit Over AI Shopper Law360",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amazon's bid to block Perplexity AI shopping agent faces skeptical US judge - MLex",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWswUHM5R2ozUDJISVVyVzhITXZOd2Noc2x0WGZkUkZ4Nm9KVFlKRUF6N0Nkblo1Y0xUeVY4c0ZfNUlLdm1SSE55TllLd0xHdmRSUndrZE9oQ2pLdWdfXy1ET0VFbDBhNjU0UGxKSmd3cnpEMUhqQTJ5S0FxdFZJVDVlMW9aZ0ljbDVPOGZ1OVhBcUtYU3hmZ3V1SDBtUzNPNS1qMWJRbi12TEhySFdzSUMzQ3hCckx2VUHSAVpBVV95cUxQVkJmUmRPYzFPTkJQSFJ4dGN1QndnNjRmdDM2dWlYT1pJYllUVklWVG9rMWh3N3cyc3BZVExtZG1QOExrTG1kQVppSVlldC05aDEtd3NhODhfVGc?oc=5",
-      "summary": "Amazon's bid to block Perplexity AI shopping agent faces skeptical US judge MLex",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Back in lower court, Amazon wants to continue suit against AI assistant - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVY5SDJ3RXozenNZSFpEUEpZMTh0R1hISUExaEkxMG9sWklqY2kxWWNvdUg4cHZZQVlhR0tzTnozRjlSb19QdVhzMkVDRzlldVZoTnNUdTRkSGM0Wng0WE10ZU1TTUN2a002MVpqVjlteFRlcUM2WXJOZFFCV1d3NmxGZVI1SVhRSmhPWThnOEtCb2tQZW9COHIxNW5Tb1BMN2hBQw?oc=5",
-      "summary": "Back in lower court, Amazon wants to continue suit against AI assistant Courthouse News",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -294,14 +334,6 @@
       "title": "Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFFjQV83WTV0SjhoRTl2MWZTc1M4NGlzdW1iZDREdm41bFJHMEhnOTRnOHNFd194Y2JnVGVQVkc4RUZKclV6ckNDZC11OTU3WHotcUNSVEVMMldwdDJ5VW1mV1VWUGxEUGNKelQ5cWVnYklmV0JGYmdhLUtkazNhM3BrU1hTbkd5QnlGY3RYOXNQeDdkTy1GaEY2TzRHaVNUUnFBM0tn?oc=5",
       "summary": "Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-20"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Amazon Meets Divided Judge in Bid to Block Perplexity Agents - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVlhSUhIazJ5b3I1eWtRWEZXbC1LRHV6UUc2RUpuYnJTOV8yQUVHTlY2dDk0LUlWc056UUJQc3RFRGozbzlIbGNQUk5WM09BR3B3Y0lnaHBPR3R3TEc1WHNsZFVseGx1cFY2RU05X2tUdFhkb044bFRzam5FYkRHalowY0p5dl9XbmxIWktaTnVYRUpvUDZfbVRvYU9CbGZsWVFqQzdHdGJfc3AycG4yaERB?oc=5",
-      "summary": "Amazon Meets Divided Judge in Bid to Block Perplexity Agents Bloomberg Law News",
       "badge": "new",
       "date": "2026-11-20"
     },
@@ -430,30 +462,6 @@
       "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEZqS3ljbVVnME1UWVJsLWxidDBoSDZfZ3drbFRoVXVoX2w0V0RnWUM4UTV6SW5PNEFLUG82S3VRLUFST3h4OW82NmVWVVJrYXptcE9PU2RPbjAxZjdnTFVLVDhYVTlndGx6RzlLSHh5MUE5emVjM2Q2amxNNFA0cTRpTnAwUmF2SDRwV094eE02WW5MRkx1YnRoNk5WdlJKUnVQRzhXUXhvTXZNMDdCTW5LbXgzU1BvQkhF?oc=5",
       "summary": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says TechCrunch",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta rethinks climate goal as AI emissions soar 45% - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwem1sTDFvMFZwbllnNEVJd2lsa0hqbERQQzJVTHY5NzdyQmJsM2hTcUVTaDdlcHVYZUxiMk9nMWMxYThyV1FZYi1SejJ5cXBhYkVaTnVISGN6SUo2Qk1VR0lZTGlvUQ?oc=5",
-      "summary": "Meta rethinks climate goal as AI emissions soar 45% Axios",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Stock Down 21%: Too Much AI Spending? - Trefis",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMW5mU2kzRmx1ZGUxSXRwRDFtZl8wYVRjZW8xU18xZzRLeVR0aTRnSGYwRExzckE0RHl4NGdteWVlT3doRS16dk15M3h3aFZESlM0WHRCa09vNWY4ejlPOTNoaDhES043TkVwbVJRSnVmUDQzVUVQeEtyS0VGaHBQTElkdEJXeUhfbld4RHhCZ19MZEc5UWpQVFFDaTRsWllRanc?oc=5",
-      "summary": "Meta Stock Down 21%: Too Much AI Spending? Trefis",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Man Uses Meta’s Own AI Agent to File $75,000 Lawsuit Against Meta - The Mac Observer",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlNNVzg4dGFraGk1VXU4Njl2WHZsQThBRGx5Vm4ySnhiaGFfSTBnam5HT0FudW5oSklNMkRDV2VBRWNyWUE4Z01qZzY1eks3SHVMMG96ZmV6N3ZkWVRITnk3OTVHcGdzZVZtdDBKWGlUWVJFemdtTm4xNUNZRzdXVGZQLXlkZjBpTWZLaFo2STJfSE1GTjJVRnhCbWo?oc=5",
-      "summary": "Man Uses Meta’s Own AI Agent to File $75,000 Lawsuit Against Meta The Mac Observer",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -594,14 +602,6 @@
       "date": "2026-11-11"
     },
     {
-      "company": "Google",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "badge": "new",
-      "date": "2026-11-10"
-    },
-    {
       "company": "Amazon",
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzMtUkZBdVhIWE41Rkx3b2RFOHlPZTlkeGtTNlFGRFhlVzREWnBNSFVMbldLZkVrSkwtaDN3amN5cl9CQUdLOVRUMXhTa040WkVvdFhqOWtOTENqNkN1RklNaDNlRi1udjA1OUJNZnpYc3VOQVlNSUYxQjZOaTlWYTJxcXhhN2hJeXo3MS1yLXV4ZmphQ1ZYeDNacHJfSkk0U01FOU1UNTQtb3o0ckF1Rw?oc=5",
@@ -627,9 +627,9 @@
     },
     {
       "company": "Amazon",
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NTXpDVHBNOHhEQlJGblljMDgxVXBmQ1N6Y0hVNm44Umc2S0YxdjR5RTBMOE1NUVNvaER2NVp6c1VqYXhUMDRPQzB3cV9ZdnlLekhVYXhvMXBSS1NBNXhicVdxUEpHLUdkR05aM0k2aw?oc=5",
-      "summary": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI WIRED",
+      "title": "Amazon’s Ring debuts AI-capable flying, ground security robots - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUVSWXlLYXJUX0V6bEtJVzh2TjNRSWFFU3dTdWxJRDduQ295VGRpZkFYdWZmbWxSandRTmNJM1lSbkZmTmlkR1NyNjJJcGZEZHU4OWtFTnJzWmQtSExPa2tsQTUtbkhmT1VmczlNdDF2MllqMUZxaDB3bjBnbTRZOGtvZU5YLVZybUY3ZnhkbVR5QURRdGoxeUtvUktFWGlIRlBSekxXekxhVDNBTlNV?oc=5",
+      "summary": "Amazon’s Ring debuts AI-capable flying, ground security robots Washington Times",
       "badge": "new",
       "date": "2026-11-10"
     },
