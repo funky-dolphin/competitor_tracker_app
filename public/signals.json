@@ -1,11 +1,59 @@
 {
-  "updated": "2026-11-24T03:43:02Z",
+  "updated": "2026-11-24T16:51:39Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
+      "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release Axios",
+      "badge": "hot",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ25YeDd3bno3Z1l0eFExNmVrYzE1ZWtnQW9LN05HY0tmR3VoZGdTVi0wd0VYREZTTHA4WHl3OUdmSU1laDJQdVVGRURueVZFV0c3WXdxSkVOQkZ4TExGLUhQZkdrU0JmTmZaVngySXVaTGJjeG10YlQ4dlJuOE9WdjA5cXl4YVhzX3Z5LUxIZEhkYl85bWlvM3VVOVFTczE1M0wxa1JvbHkyTG50b1RBbC11bzVZUHVScTVOVnVvVE9qcWszOW1mSEtkYzNPTVlqRGJUSjczdGdtMUlBTFREMThzZWdtdw?oc=5",
+      "summary": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened The Guardian Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, J",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Shareholders Are Bankrolling AI Giants They Can’t Control - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHY0Smx1bjJWTEVqZFZSRURQMzBjSThrSU1udmhGbzU5NG95dXhOQUlndWlVTDNYZ21jNXRFQnA0Z2EwbkxweDN6TkZHbThwbm5wWmdscDN0Q0MwXy1CNEFPMjRFc2JUZDBDUWlBa1FVdC1zRkFvdWZXSFVMM1ZMaFRtWU9PM0x3d05fT1FHRmtBczR1a2NQU2lPbmJKWXVuUWEwekpOV2hmSHQzTVV4dFNpSEhmanVZQWpJVGlxS3RNYUk?oc=5",
+      "summary": "Shareholders Are Bankrolling AI Giants They Can’t Control Bloomberg",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5raGMwUGJ3QjQwRzZaMTJEb2tUWUhETlBpWUxuTFNmUWdjWG1qM1VEaXM5Yml2SjZLSW9MOWd3SVdKaEthOHgwaVNVWE13N2VGbkJDNmZfVE5rang3cGN0V2c5SW1URGc0QU0xOXNWUldlU1E?oc=5",
+      "summary": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving WIRED",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
     {
       "company": "Anthropic",
       "title": "The Most Famous Problem in Math Was Just Solved by AI—and This Human - WSJ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0x4ejFTYkxaVjZTM3hTS0o5b2IteVFjczV3UHlJa0pzZjg5bmlGY1k3UXU5My1zamU5VnNBUXdtOWJ3aHBReFMtNDJhQktiVTJpMFBjN1daM1lMMGRGTzItRi12T0VxaTAxV3ZocUhRUG00RWxWc0k5S05qYmtJT1ZvMlNjWjZiNndZTA?oc=5",
       "summary": "The Most Famous Problem in Math Was Just Solved by AI—and This Human WSJ",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Google",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Microsoft 365 Copilot Vulnerability Allow Attacker to Elevate Privileges Over a Network - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWjdEN2dxMW9UeW5Ta2RzOUVIX3NfT29UQXlFMDZrSzBralhSOXVOS2JEVEQ0QmVxREg5aUJqMG83SmFSOWs4SlRLZEwxOWllckx5ZDZjMmpDOXdLbExTZlFFdzY4RUxt0gFuQVVfeXFMUE9iRV9tRUlvbVJyX2RBU2VHaTdrZmJOamlTNGFzUmhlTUxyNndTSXZmVElvb1hwLWJMckd4dUVXNWN0WVhFcjJzbXFUVmg0U3g0bEJ1MFFXWFFGa0R3TjVRQzd1a1FXbUtGclcxRkE?oc=5",
+      "summary": "Microsoft 365 Copilot Vulnerability Allow Attacker to Elevate Privileges Over a Network CyberSecurityNews",
       "badge": "new",
       "date": "2026-11-24"
     },
@@ -50,6 +98,46 @@
       "date": "2026-11-24"
     },
     {
+      "company": "Perplexity",
+      "title": "OpenAI’s Jakub Pachocki Proposes Perplexity as a Shared Measure for Pacing AI Progress - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHNVdzNmZ191c2s5MFlzckVNb0tUN0dGSTdIdFg4eEdKejBaMzZ5Rkc0LUFHVGVLSk5hUkxfU3BmNjl4eVZ0VmtjVWh2b3IxYUJMSEdhX2d0T0MwTFkwN0NTaDIzUGRXRHdrLUx3cldzb2lSYWxIY3RsOTZCTHBGS2tfblA1ZjQxV2RSUzNXUkUxWnRYNGd5VzB0SDdkTm9JU0Q0bEs3UjJJcTNuNlQzdVFfcEUzZ0hWUEdLQ2FGQ3U?oc=5",
+      "summary": "OpenAI’s Jakub Pachocki Proposes Perplexity as a Shared Measure for Pacing AI Progress AI Insider",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta's Muse has launched in the UK. I found it helpful but awkward - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSU14S0tpY0hfZVFMUDNiX1Q0WGthaXc4cmdoMVQ1Qm5PQVlaTzFLZHJoeEdhQWJyUmpPeWpGYWFIWGNocGRTNlhnRHZSZVZISVBicmxUemk5LUViN2c?oc=5",
+      "summary": "Meta's Muse has launched in the UK. I found it helpful but awkward BBC",
+      "badge": "hot",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Meta",
+      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnNPV3c5WnFtTU5oUUFrMDU5ZXpxTWljNm9hZHhlUFFtNDBEclNETVF5RGc1ei04dlNPbGZLazJRLUEwMkdCbDZkckE1UUNBU1R3QkpYR3JORDZkNnJMckFCelFldldjRElLWmxLbllyNHU3cFQ2d1AwMGItU205eWhRZFF2WFd1MFdTbzVBNXBGdTdiVlhEaWVrZnZUN2V0SFpOSFFn?oc=5",
+      "summary": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping The Guardian",
+      "badge": "hot",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Meta",
+      "title": "Introducing Muse in the UK: A Personal AI Agent You Control - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3V1c0o4cXA1b0d0NFlqLU4zNmhfV1NlMlItVUx4UU5oZjJYOXVIRnNSeXMzam5jRFBXa2Y3NTI5U3RMLV9PSjVyR25uTWJKMG5DNHNCeXZ2UGktZkNreDlzN0h1TFU5TkpYZWtaV09iN2lZNHpzdlVQbDBMQ3N3NDZ1VWVWMW5mQkk4SFJ5VGNFTzIxT3B5ONIBngFBVV95cUxNeGZ3YjQ0UXNMUl9wazJROG1fY0djSTdQT21BUU1PRTRlQk1LYnVlQmx1a2ZjdXd3MmtkOFVVZ1BYTXhLenYtejJVeXFhakxMNWxkbU1kTUhIbVctb1FwQWFPWWw1VDFuUHpQdmQ2VzBGX1RTQk5oRTdkSmJ1Q2FFaXk1ZC0zb0RjNFF1emtqTUNnakJpZzBmZW9ZSDNwZw?oc=5",
+      "summary": "Introducing Muse in the UK: A Personal AI Agent You Control Facebook",
+      "badge": "hot",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Meta",
+      "title": "49ers and Meta Announce Multi-Year Partnership Centered Around Meta AI Glasses - 49ers.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFNnZU9ROUZHV1ZRbnd1ei1QaDN3amZ6YnBFLXhCcUJHTnc4YmNsTXkyTlNWeWt0WVlGaFFMT3RFQlFzT0xxeHdybGplY1pka1plSWtoZFdCWmlpV2RDQm1ITkJ2cmY2ZENnU3Nzb3luUzJOMHdtYnpHYjVNNEljbi1ZWEpCNTZhMTN4aS1qZXRQQzBYQ3didjJZWTRGQ1U0X0RXWjlYVGY?oc=5",
+      "summary": "49ers and Meta Announce Multi-Year Partnership Centered Around Meta AI Glasses 49ers.com",
+      "badge": "watch",
+      "date": "2026-11-24"
+    },
+    {
       "company": "OpenAI",
       "title": "OpenAI and Cisco introduce Shirudo",
       "url": "https://openai.com/index/introducing-shirudo",
@@ -75,6 +163,14 @@
     },
     {
       "company": "Anthropic",
+      "title": "Working with AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+      "summary": "Working with AI Anthropic",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Anthropic",
       "title": "Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
       "summary": "Elon Musk Faces an A.I. Dilemma at SpaceX The New York Times",
@@ -91,14 +187,6 @@
     },
     {
       "company": "Anthropic",
-      "title": "Working with AI - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
-      "summary": "Working with AI Anthropic",
-      "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
-      "company": "Anthropic",
       "title": "Anthropic Shares Churn, Defying AI Trade Rally on Huang’s Return - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3FZMk45aHRWV3NIaWg3cWoxX1A3WDYwbnJlelBOZTR5emJTOU1NOFJNbWJFTC1STmNXT1ExMlRnc3BHQWRLRzNIMnJ1eWpSRG1LSWNfanpDY0xDekl4a3NINm9jTzRyVjRzUFpEMDFwc0toMllDYlNaZkwxYXB6djBKT0FyWi1pZmROZzRjaEJGeEhMaWNJWUllWGZBVndiU1FVNnV2RmlkN2ZrTFJ3cHc4WVU?oc=5",
       "summary": "Anthropic Shares Churn, Defying AI Trade Rally on Huang’s Return Bloomberg.com",
@@ -110,22 +198,6 @@
       "title": "Anthropic’s Seven Billionaires Create a New Type of Hazard - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjJBRllrT0RFMUtCMy03emV4cVVScjcySk5ublZ4MlRmazBudGxUR1dyb080TFlBNVgwakZCajdSRnRodlAwcV9TZlNmYUt1ckpkbkZUclNremVnUVB3Um5BUGI5d2huRHlVQTRMLWVvV25TMk11SzNTcjNvcFFtclhudG96Nmdpdm1BR0ZsanJDVldMYzE5a3UyS0w2WkNCYUptTGFOSkVGSENiYlNIU0d2cFMtX3I3S21TbHl4ZFBLdw?oc=5",
       "summary": "Anthropic’s Seven Billionaires Create a New Type of Hazard Bloomberg.com",
-      "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk. - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHFQOEdMZm5FNmNuNWo3WHNuNHhBVkprTmplTktaZ1J5Ni0wN0NBdHF5YWg5X2pfc09rZldBYU80NWVCNTRRZDVsb1RfVkRHdFBseWh5VmZieU45WnhMb0JpNEFkZHlCRXp1Y1FMb1M0WjNEWGk0MjBJb3V5eGRtQmVaVzBWaWtPeUhOX1hleHkteHRNN2JUekRTMGpTYmtuMTNKNUdZZG8xWF9iSzYzT3kzaUEzbkYzZ0NsT281aHl6U1FDWUE?oc=5",
-      "summary": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk. WSJ",
-      "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Asian shares mostly fall after S&P 500 drops 3.7% into a correction - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU2N0cmZWVnoycVNpWkxTZVNoX3otWmgxTnQ4Q2pIT2RWdUFnazg3QVRqYzhKclF4SWpVa2Q2NXlvRUlEdWpTNnBDa2U1OEZ2dm9lN0U3NmpwMllQeWJrU2xPaGV4el9IbE9qNXA0WW5hYTBNS21iYXZKNmNpMU5mUjV5ZXdwWkYyOXRIMUo2aGhjNkZ0VG8wT2VSS3J2TVk5ZFQ4cWdxOFFjQTVJcnlWZ21KRG5wcy1YSFgzdDNqZ2tsbktzYnQwUklyWTFIYjRmOTN5RUI0MXVmUXc?oc=5",
-      "summary": "Asian shares mostly fall after S&P 500 drops 3.7% into a correction The Washington Post",
       "badge": "new",
       "date": "2026-11-23"
     },
@@ -195,6 +267,14 @@
     },
     {
       "company": "Meta",
+      "title": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
+      "summary": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post Forbes Meta’s Chief AI Officer Sends Disturbing Warning: ‘Hard to Imagine a World Where Humanity Maintains Control",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Meta",
       "title": "Meta AI chief warns humanity may lose control of superintelligent machines - CTech",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zWVpjb0dDOFA5TVhLak5NR0Y2VnNqeENtdjdfR0NGN0pTUE5hQXdmMmVrUkdUOG0yS29rNy02Q2lYcFhSOE1uZjVwdmFEd2M4VmFQa0V1Y3htbDFwdzZQTk0wSmF5blEw?oc=5",
       "summary": "Meta AI chief warns humanity may lose control of superintelligent machines CTech Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post Forbes ‘Superintelligence is arri",
@@ -219,14 +299,6 @@
     },
     {
       "company": "Meta",
-      "title": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
-      "summary": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions Forbes",
-      "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
-      "company": "Meta",
       "title": "Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGZsQTJ3VW4tMEsxRjA1c25mNUxYb3VLSm1DdTg5dmptYXc3b1lsckNiYlE0WGhhVlRodmZDemNVdHA3ZEt0bkF0TkNRNkF3cEx0ZllFQ29yYlZUb1hyOXdmbk9OOGRpVm5wcHFPZzlVQmVHeTA4M3ptQVk3YW5LYUl5MUJyNEx6S2I1QVNB?oc=5",
       "summary": "Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date Yahoo Tech",
@@ -242,34 +314,10 @@
       "date": "2026-11-23"
     },
     {
-      "company": "Meta",
-      "title": "Meta AI head Alexandr Wang warns about AI; says: Superintelligence is coming, but how 'dangerous' it will be depends on humans as ... - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa25UN0V2aVNxWVdfZHY2RG9fZjl6VjhDankwd1g3Mzgwb0lEdDRZY1RaUncwQk5mMUpwcVN6dzdOdU9qRFExaUc5ajFfWnRBTWFXTjJ2Y3NiZ3MySzB0TmZVdXItdkpYOEhreHljbUs4SWNHa2M1VGxwd3JHTkVWeUNXdWtVZDJpM2tpSmF5Um1NOWRGX1poNlhGZ2FhdTIxclFkelJUeWVnN0x3WDYxUEh4THlqYmRHeUVyRkdQQ3BISDFvY2UxTEVuUFN4bTNxYlV6REV4S0NfNWhVRHlpckxqWmhXN2UwaU1aUTFQRFMtVC13Rlp0WWNOSllJdUxZNGlGWlhBckpYVVJwRThxZzV3VmVMWUR5WUN0MmRlUGlJbVRlTzVJV1c3Sm51QmY4b1E?oc=5",
-      "summary": "Meta AI head Alexandr Wang warns about AI; says: Superintelligence is coming, but how 'dangerous' it will be depends on humans as ... The Times of India",
-      "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
       "company": "OpenAI",
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
-      "summary": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters Yahoo Finance",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hMUtBY1JVVkhTenFoNG5ndjRQU1dRRzVheU9sUFg3WXdQTFVXdG1HMnlhY0twWmcwb1VYcWE0STRTcENWM2NJcVN0UlVwdnNuR2J0WjJtMlp4eGttN1FrX0k4cnVOZkRvUHdmRVAtMTlVTnVEYTJ1UQ?oc=5",
-      "summary": "Tech sell-off hits Nvidia, Anthropic and Nasdaq Fox News",
       "badge": "new",
       "date": "2026-11-22"
     },
@@ -310,38 +358,6 @@
       "title": "OpenAI calls for industry-wide AI brake tied to perplexity - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2FhV2JfU0NzTjBtdE1wMTlrdzR6WTNYVVZsNy1GYUZQSkVldkFQTWF4MmhXMHQwd1pMdkVUbVJkb01UbEZwYlZKSFNfSkZ5WXNPTEF2V3ZNWkM2V1ZNUW5zS1ZyUDF0Vk1Nb1k4YXhOdFhOY3lveG8zcjY5NTdaZDZKN3JxNHZ6R0RVY2hmX1g0MDctclk2VDhzcFE?oc=5",
       "summary": "OpenAI calls for industry-wide AI brake tied to perplexity Seeking Alpha",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Perplexity",
-      "title": "OpenAI chief scientist says perplexity could help set limits on AI development - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtVYmU2SHdYTFNIbk9qZjM2dXlNNU9rd3BxS0JoOEFxeGx2NGtWT0p2Ymk0R3BHNnB2SGtUV3ZKNFVHSU5WdEFsTkVzZWVBUnc0cFVzZlNvVXAwUkgzX2xyaXNIMmtkNjRycXhFTFpDWVB3ejFuV3Z3MFJjSGdHelhZZnlIYkJB?oc=5",
-      "summary": "OpenAI chief scientist says perplexity could help set limits on AI development Mezha.net",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Days after telling Apple CEO, 'great doing business with you', Meta’s AI chief Alexandr Wang takes a dig - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQYmJRSkQ4VmZwSlN3aGpEU2hWa0diTE9kcE51c0ZCbDZ5NEc3bTE3ZHh3U2Y1c0V1RWNoOHBCS3A1eE5HOC1NUFQ1MEpaWjNLOVZUOXU4RUQzb2NZTHJBbHgyZFVsbDZCYWx0RmVfRXdQNmR5Znc3UjdWN3FKc2E3dkRVcmljb1BjVlliVDBxN2VkbFA3ZEszcUpRNGEwTFEtQXp5ZTJOWHFSNFJ5dkk1bUpLc3NwT1d3VU5KblI5SUN1THp0SDZTRmlMbFhab1didHN1dzdpNVVaWjMwbWEzU2JrYzh2ZEJTVklfRW1zaUFaMFF0MlE5anlKRHdFUjFXc0hYeUdJNlZGQnpDZV9iOUtiUTY3em1ETC1nZ3NfTHBXN0duTDVYZFFRXzFFLXZFbVhfOWZxYTl5Q2VX0gHCAkFVX3lxTE1UMkhsd2dWNmwzLTRKVGFqbHJRWDYxVTRpN2RGNmhxVFRWVFdqNlREMkxvWk1na3pId0I3ZDVxM1Y5M0FIdENRTEFOSTVEVXk0RmhBNDBxbV9ESFZ1N1lGem9pYmJxMU1qWVFwdnRmTzdPYk80dWROcW9aV2gzMmY5UjBNQXdwanJsVFA3Y3JMWGgydGJMYmpjbUpfTDZYTTBtR2ozcUxsSWE4MllaSFo1RzdDUVNFeHRpem1xOHFiVUNLTy1rbHoxMUR2RlNscm1mb1hMbkF1SFpiRWFFOE1oOFpBdzVseE4xVFpGMm8zSncxbVdTRml0Uk1WZ0dCcFlLUUg4VnRwdVdkb3Foalc3VjdzZDROZzhpSld0Y0FHM2RTUXNYeU94ajVHSTJRUzJ6b1ZDVTRvX09yNTNqRUdHUnc?oc=5",
-      "summary": "Days after telling Apple CEO, 'great doing business with you', Meta’s AI chief Alexandr Wang takes a dig The Times of India",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta Hid a Camera and an AI Assistant in Ray-Ban Wayfarers and They've Never Been Cheaper - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUJ1U1dlQjdVWlZvbGZuMjJTb0RCc0I1VGl5Z0JiOUxLQWVpTTdEeVlSU2pwM25mX2JmeXpWdXV0SjVJYTJqdnlPQ1Q1c09fYmk4dW9WRTN1T3c1WktWeDRPSWloX0JhdExtVUV6b2h4NHB0RS1GQ2U0ZElSdEtLRFNWV2Q4R3N4ZV9fZFI3T1dXbVYzc3J4c2RUMWlJSXlxSEtHN1cweUk0RXA2NVp1M1Ayc2wtbGVyN1ZJ?oc=5",
-      "summary": "Meta Hid a Camera and an AI Assistant in Ray-Ban Wayfarers and They've Never Been Cheaper Gizmodo",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Meta",
-      "title": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTTdpZEszbEFkamptNXBGc1c2NF9fVnNJZ0tMUUI0ek94cFNpcy1sOF9hVWFRRFU3UzdfNDVGMElzengtRlczN0Z5bWozb1hpUXhJaUJYN3o3M21LWnZ5aDdqSURURnJxdC05a0ZpdWdFeXQybmJYTEtfMXA1SGotYVIwQXBpbW1ZdzZkZVVXX0haMklpbC1sR3EtWFQ4cDl1WVNiYmhnMkY5amFjWUVqS3EzclB1cVROSHhrNEtJZzNvZ1hGNjlIY0lHd3plR1l2U1RTNGJmUVp5eVRvc2ZYQ3UwOXQybGR0LUpzbnFVeVhVUHRG?oc=5",
-      "summary": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number. The Motley Fool",
       "badge": "new",
       "date": "2026-11-22"
     },
@@ -458,14 +474,6 @@
       "date": "2026-11-19"
     },
     {
-      "company": "Microsoft",
-      "title": "AI is Triggering a Seismic Shift in How and Where We Get Work Done ⭐ - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck5ybDlVX0Ryckd2b0hUaUM1dTVLVnlJUmo4X0k4SmpJajlaSVQzWVhFSGg5OG5ZNUlrU1JyWEVSNmx6d3RYTEJ0R0tNdWtxQlB6MlpRTUlBbUw4T2tGY0NTd1MwZ2xscjlHOG9zQzA0Zk1XR3J4ckVUTGhZeVJPUm11TVlSUUJlZVFRem5yMnA0ZXgzX0x1QmI2N3E5eF9pRHFPZQ?oc=5",
-      "summary": "AI is Triggering a Seismic Shift in How and Where We Get Work Done ⭐ Thurrott.com",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
       "company": "Apple",
       "title": "Apple HomeView available today",
       "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
@@ -574,14 +582,6 @@
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
       "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "badge": "new",
-      "date": "2026-11-11"
-    },
-    {
-      "company": "Google",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
       "badge": "new",
       "date": "2026-11-11"
     },
