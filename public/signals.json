@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-23T17:08:28Z",
+  "updated": "2026-11-24T03:43:02Z",
   "signals": [
+    {
+      "company": "Anthropic",
+      "title": "The Most Famous Problem in Math Was Just Solved by AI—and This Human - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0x4ejFTYkxaVjZTM3hTS0o5b2IteVFjczV3UHlJa0pzZjg5bmlGY1k3UXU5My1zamU5VnNBUXdtOWJ3aHBReFMtNDJhQktiVTJpMFBjN1daM1lMMGRGTzItRi12T0VxaTAxV3ZocUhRUG00RWxWc0k5S05qYmtJT1ZvMlNjWjZiNndZTA?oc=5",
+      "summary": "The Most Famous Problem in Math Was Just Solved by AI—and This Human WSJ",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+      "summary": "Apple and F1 ACADEMY™ today announced that the all-female racing series will stream on Apple TV in the United States beginning in 2027.",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Meet the 2026 App Store Award finalists",
+      "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+      "summary": "Apple announced the finalists for the 2026 App Store Awards, recognizing 45 developers from around the world for exceptional apps and games.",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
+      "url": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
+      "summary": "Formula 1® returns to the U.S. this weekend for the FORMULA 1® HEINEKEN LAS VEGAS GRAND PRIX™ 2026, streaming live on Apple TV.",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
+      "summary": "Apple Podcasts names Baby, this is Keke Palmer as its 2026 Show of the Year, honoring the podcast for its exceptional quality and cultural impact.",
+      "badge": "new",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "Apple",
+      "title": "Apple launches research study to explore the use of AI for health",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "summary": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "badge": "hot",
+      "date": "2026-11-24"
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
+      "summary": "Elon Musk Faces an A.I. Dilemma at SpaceX The New York Times",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic stock falls as Monday's tech rally takes off - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcERtaUZVZTdzd0E0YlZTYmNKWHdHcWxCdS1FaURnbWFjOW5MTTZ6WURNS0ZFenpKdEVqcXIwdjdDcV9UaE52dnJwUTkyS1pVSUdkMEtHRUtPYjlWSlZKZGlGaGNFQ0RIX1BaU0d6M0h2S3o3RzhhLUFuOWhlZ2hiOHVlQTJIX3hMNHkzUTNzU0oxbFNtVTdCZ094VzVGYkJWUjliOHVORUY5b0RYa2tMTXdOVlV6X3pL?oc=5",
+      "summary": "Anthropic stock falls as Monday's tech rally takes off Yahoo Finance",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Working with AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+      "summary": "Working with AI Anthropic",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
     {
       "company": "Anthropic",
       "title": "Anthropic Shares Churn, Defying AI Trade Rally on Huang’s Return - Bloomberg.com",
@@ -43,6 +139,14 @@
     },
     {
       "company": "Microsoft",
+      "title": "\"90% of what I do has been replaced\": a top Microsoft exec admits AI is doing to today's coders what the cloud did to 1990 programmers, and says they're now solving \"higher order problems\" - Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOURMMUJxNm1PakNOQTV4aV9mc1lRMHg0bm9OM0JWOWRDWVBndkItT2pHdWh5SXpvckNicnRYaVdiREJheVpwQmZxSWFWUVVNcjBMX0FEdXpteEt1QS04eUUyUUY3QlBuWlpVeExDNzVqYXFfamU2VHpxblN3YXNNOFNlZENhNWR4a045T3U2eVhuWUlGQnFsZHZxOGROcC1uNVBJdXItTDVEeU5pZjNBckRVbWRNRlZaRmpfNlVRcXJDTzlMVUUzNVFZVFRTVTVQOUlqcS1veFZhN0NjUGFCd0JfX1RUaHM3Z2ZhM0lnSmpjTEozd1FUdWRzYi1aX3JjWGNoeTVWU0NrU0JUa2NxZTU1Yw?oc=5",
+      "summary": "\"90% of what I do has been replaced\": a top Microsoft exec admits AI is doing to today's coders what the cloud did to 1990 programmers, and says they're now solving \"higher order problems\" Windows Lat",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Microsoft",
       "title": "Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFVVSWNSNVloczlpVURrcHBfUElVZUkwaWV2TGgxNEs4QTFBMlZyVndUT3YzYTdLZ3NUTV9zTHlwenRvTGZFeXFsT0tYbkgycHpXMTh4VHR6RnVqbFlTdm1vOWo0MDVWcUxrcHVReHpMakdqUENTVTNrUDljOE04TG5NTC1WTC1hbVJFYmZwZWVCZEtyY01kSGlTRzFYV3dRMkM4NTNVTl9sbVZ3VUYza0lMWjJ2RHMy?oc=5",
       "summary": "Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite EdTech Innovation Hub",
@@ -50,43 +154,27 @@
       "date": "2026-11-23"
     },
     {
-      "company": "Apple",
-      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
-      "summary": "Apple and F1 ACADEMY™ today announced that the all-female racing series will stream on Apple TV in the United States beginning in 2027.",
+      "company": "Perplexity",
+      "title": "OpenAI Pitches Perplexity Score to Set AI Safety Limits - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHlMalVqVFZXTWVIMmdLZDVFLUYtZUk3aW5uTEJQUEhRdFdUUlVreGJ2SmlQM2FVOWtORkNDakc4bU8xUHVkUUR0dnZYcDJ5MldYWXNRNk1zSGxpUXZJTmszUnQ1RWdub3RRRkNCOUMtRTJzTm5OUHBfazlYS2RlbTQwWGVnVDVuVnp0Um5UaTE2MmxGLURvU1dtNGNsWU1IOWY1OC1fZDhfVFp4WHhKSkFjdw?oc=5",
+      "summary": "OpenAI Pitches Perplexity Score to Set AI Safety Limits PYMNTS.com",
       "badge": "new",
       "date": "2026-11-23"
     },
     {
-      "company": "Apple",
-      "title": "Meet the 2026 App Store Award finalists",
-      "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
-      "summary": "Apple announced the finalists for the 2026 App Store Awards, recognizing 45 developers from around the world for exceptional apps and games.",
+      "company": "Perplexity",
+      "title": "OpenAI perplexity plan: 1 new metric to keep AI safe - DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nNzYxR1JuTm03NFZyQThtZzQyQ2pWVGc4NXpFVS1sUjU0TEFTdXNtX3RHMVlNeVNZaGN6ODNlblYtdVhCOHJWMVRqaGliQmtZT2RFU3lxRTF6MmJ6U0tQOF9n?oc=5",
+      "summary": "OpenAI perplexity plan: 1 new metric to keep AI safe DNE Africa",
       "badge": "new",
       "date": "2026-11-23"
     },
     {
-      "company": "Apple",
-      "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
-      "url": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
-      "summary": "Formula 1® returns to the U.S. this weekend for the FORMULA 1® HEINEKEN LAS VEGAS GRAND PRIX™ 2026, streaming live on Apple TV.",
+      "company": "Perplexity",
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWklYb014OWxkU0l4ZkdiYkJVSHhYNGJxbFpaZ1d6LXJJalBtOHFzcWY0YWd3TzRSdk9uTXp5Sm5NS3RrWlo1enBpb0E4Mm8zZ05WU2Z2XzNDWlgtdzBlQnNoWnR0VmJmdkdpSm41YzBTVDlrMFFqaTRsY1JtS1c2T1FQX0VpRnlIT1I4djFiZUVURzEwRDVpb25MenIyZGJRQW16bWdnWVEyUGQxakE5Y2ctckhfRDI1bjY2azVFcDR4M05Eb1lhS1B6OUhiUQ?oc=5",
+      "summary": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits The Decoder",
       "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
-      "summary": "Apple Podcasts names Baby, this is Keke Palmer as its 2026 Show of the Year, honoring the podcast for its exceptional quality and cultural impact.",
-      "badge": "new",
-      "date": "2026-11-23"
-    },
-    {
-      "company": "Apple",
-      "title": "Apple launches research study to explore the use of AI for health",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-      "summary": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
-      "badge": "hot",
       "date": "2026-11-23"
     },
     {
@@ -106,10 +194,26 @@
       "date": "2026-11-23"
     },
     {
-      "company": "Perplexity",
-      "title": "OpenAI perplexity plan: 1 new metric to keep AI safe - DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nNzYxR1JuTm03NFZyQThtZzQyQ2pWVGc4NXpFVS1sUjU0TEFTdXNtX3RHMVlNeVNZaGN6ODNlblYtdVhCOHJWMVRqaGliQmtZT2RFU3lxRTF6MmJ6U0tQOF9n?oc=5",
-      "summary": "OpenAI perplexity plan: 1 new metric to keep AI safe DNE Africa",
+      "company": "Meta",
+      "title": "Meta AI chief warns humanity may lose control of superintelligent machines - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zWVpjb0dDOFA5TVhLak5NR0Y2VnNqeENtdjdfR0NGN0pTUE5hQXdmMmVrUkdUOG0yS29rNy02Q2lYcFhSOE1uZjVwdmFEd2M4VmFQa0V1Y3htbDFwdzZQTk0wSmF5blEw?oc=5",
+      "summary": "Meta AI chief warns humanity may lose control of superintelligent machines CTech Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post Forbes ‘Superintelligence is arri",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Artificial superintelligence ‘arriving’, warns top Meta executive - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnRiM0ZpVzFaTkZaZ2lUc2dtYjY2U2tqZnFGQlNCb2JRWjlCdkxNQWU2WENIYnVsb0hXVjNtNS1XQ1JzdmtBaU1qRDE2aDd5T2c1Z1lTY2VsaXE4NHJUNjhwdGl6Tm1DRlNVa01DOFlPa294amRMSl9uQlFTczN1dVlhSmRBVWJETV84VkxFcG5EUDVxSC14bUpoREdBZGM50gGmAUFVX3lxTFBESHNmbkFBdXN2ZGc2b3FMT3JiVlNQWHNjRnZYUV83dV9NRVJaWXd0ZWVjbU82Qy1yYVNoXzVtT2VzbzQtQ05WTHI5X1MtZTEyRjdKN0M1UUtJdk5UNTYtdHhQbHlBdE9fZ29ZMnV4VzZhNnF1QTd2QnViYlhyOVNBQVM4V2FFV0otaGN5WkhqSTZMNWtvUUxBZG9ZUmEzQUYxWkpwbkE?oc=5",
+      "summary": "Artificial superintelligence ‘arriving’, warns top Meta executive Al Jazeera",
+      "badge": "new",
+      "date": "2026-11-23"
+    },
+    {
+      "company": "Meta",
+      "title": "Mark Zuckerberg Meta AI Predicts LINK Vs. AVAX: Which Goes Higher in 2027? - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUoxTFNyU0ZZTUVhWm9vQW40UXItbWNtTF9DUENXZjZlbUhjeUhqY1Z5dzhzRGNzdVB6NG1YNXdrR3hxVmRRb2I5ZmRxYTlCZHBZTnRiYkp1RDFJZVRQZUdEMEVuTDZ2VkZtcEwxdi16ZVJfMlZacVJzR0JjQXFEeV9BY19VY1I4cjQyYkJEb0F1TS1Sb1BiQlFhYi1xVzlralE?oc=5",
+      "summary": "Mark Zuckerberg Meta AI Predicts LINK Vs. AVAX: Which Goes Higher in 2027? Cryptonews",
       "badge": "new",
       "date": "2026-11-23"
     },
@@ -166,14 +270,6 @@
       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq - Fox News",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hMUtBY1JVVkhTenFoNG5ndjRQU1dRRzVheU9sUFg3WXdQTFVXdG1HMnlhY0twWmcwb1VYcWE0STRTcENWM2NJcVN0UlVwdnNuR2J0WjJtMlp4eGttN1FrX0k4cnVOZkRvUHdmRVAtMTlVTnVEYTJ1UQ?oc=5",
       "summary": "Tech sell-off hits Nvidia, Anthropic and Nasdaq Fox News",
-      "badge": "new",
-      "date": "2026-11-22"
-    },
-    {
-      "company": "Anthropic",
-      "title": "What a wealth tax looks in the age of AI billionaires - CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zN3JSS3QyR2ljRFJLblBLYVUxWVZELVB5b3JjeU9SS29MdWRqWGpNM0I4WEZ2OU1fMDNKUjhkdm9lbU1QYWFhTFNfTVd0QW5NOENkWS0yUDJxQ0dVc2laMjVzdFdRZnQzNmE1ZVRrQQ?oc=5",
-      "summary": "What a wealth tax looks in the age of AI billionaires CNN",
       "badge": "new",
       "date": "2026-11-22"
     },
@@ -250,50 +346,10 @@
       "date": "2026-11-22"
     },
     {
-      "company": "Anthropic",
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
-      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI AP News",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
-      "summary": "Using AI, mathematician claims to have solved one of math’s great mysteries The Washington Post",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
-      "summary": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem The Guardian",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
       "company": "Microsoft",
       "title": "Copilot will dig through your Windows 11 Downloads folder and move files for you, and in Microsoft’s demo, it decided which ones - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObG50LVVJVGZ1X2x3eWtzVG5fUmFHMEhXazZ2SGp1VGxYYlVKVGhlNDNkQXZweDRDWFpRTjVoUjlSanVkdTNKb1VHU0g5b2QwaFpHUk0wWVpfODdpTHdtU3ZidFNkNHlsbEtmTU9CTjBHcHhlczU1a18yZU1zMGp6b05ubVVSQU96bVNBQmRObk9YaXhRSUNwYmptMnp6cTZRQWFmR09ZNUxkQTRPZnNVNnA0LVBLVUFOSlFSZEFXZktfVXYxdHFKdklQdmZmcUlrYWcxckQ4QWVvd0c1NnJIaGRJQV95aGV5RzhBVTZXUUpjN0NsUVNMcUlaWQ?oc=5",
       "summary": "Copilot will dig through your Windows 11 Downloads folder and move files for you, and in Microsoft’s demo, it decided which ones Windows Latest",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Back in lower court, Amazon wants to continue suit against AI assistant - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGFOTkZLSWQ1dTRKQkpVOVl2Qk05UjVHTGt2MjZGT0ZPam96MUZNdnowWTgxQzFMNEFEeTNtLVl4RU9CNGxBNXdCUGdfRGd4Tm1qdWI4TGNyMS0wSmc4ZkZMSTBxRXo2bFp0Rm1rR2xhZnRiWTN2UzRvWENwQUI4SHVid2ljeUJTelFhWlZMU0tubUhOc3VpWldxMHlCODdHRDR3?oc=5",
-      "summary": "Back in lower court, Amazon wants to continue suit against AI assistant Courthouse News",
-      "badge": "new",
-      "date": "2026-11-21"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Perplexity Fights Uphill To Nix Amazon Suit Over AI Shopper - Law360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDNYcGtXN1pjQ2oyejR6WkZDOU1obExrbXVIXzFRUGpLVmk2NGw0YWdyOEZJSTExMmU2NzVJQUpKVHFRc1Z4X29PNTNncXo2UXRlU3NUSXlCNk5MandVT2Z5SzNPNGIzRk04bTdwTFlteFpSOWJwNGZWZm8wUWJIX2pxX29MdDlQVGVGYjZJdUh1OGFfNTVUZFBKLTJaU2EtOURrcF9ZYV9rb2RaMVHSAVZBVV95cUxNRmljenp2WGM0NkE3QVpNSF91U0s2VnIxMkVvOGdnN0tCVi13ejM3WENTdHRkLW1oQ3BoSUFPQTVXaWNqWF9pNXptMUNmdEFfWU8wMXRlQQ?oc=5",
-      "summary": "Perplexity Fights Uphill To Nix Amazon Suit Over AI Shopper Law360",
       "badge": "new",
       "date": "2026-11-21"
     },
@@ -338,14 +394,6 @@
       "date": "2026-11-20"
     },
     {
-      "company": "Meta",
-      "title": "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S - www.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXdTSjN2REFkQ2wzSDRXdlRBekNfUFFDOTZvY1NCaHhBTVY0M0RMUk9wUlZEM3VyYTVNN2NpOEh3Sng4Y3VuY1U3UTVtVVhBd1piZHFWZld0aWV2ejJiSWJXZGFPeUFqc1Y5SXVHM1ZqV295emwzc2VvUFpLV01CX0ZnMDlEMjZYTDY2MlpjQUV6bWFNR0RyaUxsZVZ5MWlmY1EyY1JYQzN6WDE2eV8wa0x3?oc=5",
-      "summary": "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S www.meta.com",
-      "badge": "new",
-      "date": "2026-11-20"
-    },
-    {
       "company": "OpenAI",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -366,22 +414,6 @@
       "title": "Deploying Daybreak Red",
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "OpenAI",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "badge": "new",
       "date": "2026-11-19"
     },
@@ -434,44 +466,12 @@
       "date": "2026-11-19"
     },
     {
-      "company": "Microsoft",
-      "title": "Microsoft positions Copilot as a hub for team collaboration - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHJFMVI0dG03T0wxUWNjdERoY1NPOW9Rb2FKZ3pIS2piXzlzclA2WFRsUkZ1V05fcDdwN3VQaU9vVXRhNjA1Vm4wYldzT3FhU0JqRzJaRGt1aDdpVUY5YTN3RXBHYklQbjdKZ1VnNzNwT0NJWFBZR3lmYWdRdHFSUjluNi1UdkVULUJLaHZpZE5CbFl3cVZKNzN0NXg4TkdTZGdWa0RzRWVkZF9JNUxn?oc=5",
-      "summary": "Microsoft positions Copilot as a hub for team collaboration Computerworld",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
       "company": "Apple",
       "title": "Apple HomeView available today",
       "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
       "summary": "Customers can now purchase Apple HomeView and experience a new way to enjoy entertainment, stay connected, and manage their home.",
       "badge": "new",
       "date": "2026-11-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUnFJdm1EaVExZWw2SWRUWlJOVTNHWkh0cDVncm91UjVia2lfdzlIUlRWR3NuZG1FU3lWZjVaODNQbmNtMjJJUGI3bEE1RkQ2Ync?oc=5",
-      "summary": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more Fox News",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "Meta",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEZqS3ljbVVnME1UWVJsLWxidDBoSDZfZ3drbFRoVXVoX2w0V0RnWUM4UTV6SW5PNEFLUG82S3VRLUFST3h4OW82NmVWVVJrYXptcE9PU2RPbjAxZjdnTFVLVDhYVTlndGx6RzlLSHh5MUE5emVjM2Q2amxNNFA0cTRpTnAwUmF2SDRwV094eE02WW5MRkx1YnRoNk5WdlJKUnVQRzhXUXhvTXZNMDdCTW5LbXgzU1BvQkhF?oc=5",
-      "summary": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says TechCrunch",
-      "badge": "new",
-      "date": "2026-11-19"
-    },
-    {
-      "company": "OpenAI",
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "badge": "new",
-      "date": "2026-11-18"
     },
     {
       "company": "Google",
